@@ -1,0 +1,736 @@
+id,label,source,score
+http://dbpedia.org/resource/Lake_Tahoe,Lake Tahoe,Q169962,1747.2499999999998
+http://dbpedia.org/resource/Lake_Erie,Lake Erie,Q5492,1590.75
+http://dbpedia.org/resource/Pallikaranai_wetland,Pallikaranai wetland,Q7127876,1317.5
+http://dbpedia.org/resource/Quabbin_Reservoir,Quabbin Reservoir,Q1124827,1261.3999999999999
+http://dbpedia.org/resource/Dead_Sea,Dead Sea,Q23883,1238.75
+http://dbpedia.org/resource/Lake_Michigan,Lake Michigan,Q1169,1180.8
+http://dbpedia.org/resource/Lake_Vostok,Lake Vostok,Q152044,1087.1499999999999
+http://dbpedia.org/resource/Lake_Baikal,Lake Baikal,Q5513,1044.0
+http://dbpedia.org/resource/Chilika_Lake,Chilika Lake,Q2047322,1036.3
+http://dbpedia.org/resource/Rogers_Dry_Lake,Rogers Dry Lake,Q1451247,1002.4499999999999
+http://dbpedia.org/resource/Dal_Lake,Dal Lake,Q325391,962.2499999999999
+http://dbpedia.org/resource/Lake_Superior,Lake Superior,Q1066,954.3
+http://dbpedia.org/resource/Lake_Burley_Griffin,Lake Burley Griffin,Q1642390,942.5999999999999
+http://dbpedia.org/resource/Lake_Tanganyika,Lake Tanganyika,Q5511,869.25
+http://dbpedia.org/resource/Lake_Huron,Lake Huron,Q1383,856.5
+http://dbpedia.org/resource/Lake_Ohrid,Lake Ohrid,Q156258,845.3499999999999
+http://dbpedia.org/resource/Lake_Ontario,Lake Ontario,Q1062,822.85
+http://dbpedia.org/resource/Sea_of_Galilee,Sea of Galilee,Q126982,798.4
+http://dbpedia.org/resource/Lake_Agassiz,Lake Agassiz,Q390804,787.7999999999998
+http://dbpedia.org/resource/Lake_Turkana,Lake Turkana,Q182719,751.1
+http://dbpedia.org/resource/Lake_Malawi,Lake Malawi,Q5532,746.45
+http://dbpedia.org/resource/Thirlmere,Thirlmere,Q1480464,666.9499999999999
+http://dbpedia.org/resource/Lake_CECs,Lake CECs,Q20031724,665.25
+http://dbpedia.org/resource/Glenrock_Lagoon,Glenrock Lagoon,Q5569288,629.9999999999999
+http://dbpedia.org/resource/Chew_Valley_Lake,Chew Valley Lake,Q3044337,618.1
+http://dbpedia.org/resource/Haggetts_Pond,Haggetts Pond,Q5638700,588.4
+http://dbpedia.org/resource/Lake_Geneva,Lake Geneva,Q6403,583.55
+http://dbpedia.org/resource/The_Loe,The Loe,Q6977674,582.0
+http://dbpedia.org/resource/Deep_Creek_Lake,Deep Creek Lake,Q14213258,572.65
+http://dbpedia.org/resource/Kankaria_Lake,Kankaria Lake,Q16384,557.15
+http://dbpedia.org/resource/Lake_Norman,Lake Norman,Q1801020,552.2
+http://dbpedia.org/resource/Lake_Travis,Lake Travis,Q1625606,548.1999999999999
+http://dbpedia.org/resource/Lake_Chicago,Lake Chicago,Q6475314,538.1999999999999
+http://dbpedia.org/resource/Issyk-Kul,Issyk-Kul,Q42191,530.1999999999999
+http://dbpedia.org/resource/Lake_Austin,Lake Austin,Q1128082,519.65
+http://dbpedia.org/resource/Detroit_Lake,Detroit Lake,Q1201542,516.75
+http://dbpedia.org/resource/Lake_Vyrnwy,Lake Vyrnwy,Q2248798,499.9
+http://dbpedia.org/resource/Okanagan_Lake,Okanagan Lake,Q525072,496.6
+http://dbpedia.org/resource/Elan_Valley_Reservoirs,Elan Valley Reservoirs,Q5353391,484.45
+http://dbpedia.org/resource/Lake_Oroville,Lake Oroville,Q6477226,468.29999999999995
+http://dbpedia.org/resource/Lake_Stanley,Lake Stanley,Q85775672,455.7
+http://dbpedia.org/resource/Jurong_Lake,Jurong Lake,Q6315365,454.05
+http://dbpedia.org/resource/Llangorse_Lake,Llangorse Lake,Q2704839,452.95
+http://dbpedia.org/resource/Manasbal_Lake,Manasbal Lake,Q2089664,446.79999999999995
+http://dbpedia.org/resource/Berijam_Lake,Berijam Lake,Q4891811,439.75
+http://dbpedia.org/resource/Lake_Mead,Lake Mead,Q654515,427.8
+http://dbpedia.org/resource/Nipissing_Great_Lakes,Nipissing Great Lakes,Q17104900,425.9
+http://dbpedia.org/resource/Lake_Merritt,Lake Merritt,Q3623431,425.45
+http://dbpedia.org/resource/Avoca_Lake,Avoca Lake,Q14934755,423.84999999999997
+http://dbpedia.org/resource/Lake_Chad,Lake Chad,Q125309,417.54999999999995
+http://dbpedia.org/resource/Clear_Lake_(California),Clear Lake (California),Q1099503,404.8
+http://dbpedia.org/resource/Great_Bear_Lake,Great Bear Lake,Q5525,401.59999999999997
+http://dbpedia.org/resource/Crater_Lake,Crater Lake,Q329266,401.15
+http://dbpedia.org/resource/Great_Slave_Lake,Great Slave Lake,Q5539,401.05
+http://dbpedia.org/resource/Pushkar_Lake,Pushkar Lake,Q7261801,394.2
+http://dbpedia.org/resource/Lake_Lucerne,Lake Lucerne,Q14381,383.54999999999995
+http://dbpedia.org/resource/Lake_Mojave,Lake Mojave,Q6476961,383.05
+http://dbpedia.org/resource/Lake_Winnipeg,Lake Winnipeg,Q3272,381.3
+http://dbpedia.org/resource/Lake_Algonquin,Lake Algonquin,Q6474720,379.44999999999993
+http://dbpedia.org/resource/Lake_Maumee,Lake Maumee,Q6476837,378.74999999999994
+http://dbpedia.org/resource/Kilbirnie_Loch,Kilbirnie Loch,Q6406556,367.25
+http://dbpedia.org/resource/Lake_Isabella,Lake Isabella,Q964060,365.9
+http://dbpedia.org/resource/Lake_Pontchartrain,Lake Pontchartrain,Q1331750,356.4
+http://dbpedia.org/resource/Lake_Nipigon,Lake Nipigon,Q122184,348.45
+http://dbpedia.org/resource/Glacial_Lake_Iroquois,Glacial Lake Iroquois,Q3215744,342.29999999999995
+http://dbpedia.org/resource/Lake_George_(New_South_Wales),Lake George (New South Wales),Q360892,341.4
+http://dbpedia.org/resource/Lake_Karapiro,Lake Karapiro,Q596083,340.34999999999997
+http://dbpedia.org/resource/Lake_Arkona,Lake Arkona,Q17182830,332.55
+http://dbpedia.org/resource/Henderson_Lake_(New_York),Henderson Lake (New York),Q5713369,332.49999999999994
+http://dbpedia.org/resource/Lake_Pichola,Lake Pichola,Q2723483,329.2
+http://dbpedia.org/resource/Lake_Wayne,Lake Wayne,Q18168132,327.40000000000003
+http://dbpedia.org/resource/Lake_Warren,Lake Warren,Q18168127,324.05
+http://dbpedia.org/resource/Goat_Lake_(Sawtooth_Wilderness),Goat Lake (Sawtooth Wilderness),Q5575305,323.25
+http://dbpedia.org/resource/Lake_Casitas,Lake Casitas,Q6475203,315.95
+http://dbpedia.org/resource/Lake_Athabasca,Lake Athabasca,Q272463,313.9
+http://dbpedia.org/resource/Flaming_Gorge_Reservoir,Flaming Gorge Reservoir,Q176598,304.45000000000005
+http://dbpedia.org/resource/Licancabur_Lake,Licancabur Lake,Q6542987,304.25
+http://dbpedia.org/resource/Grafham_Water,Grafham Water,Q5592486,301.65
+http://dbpedia.org/resource/Glenmore_Reservoir,Glenmore Reservoir,Q5568634,293.59999999999997
+http://dbpedia.org/resource/Lake_Nemrut,Lake Nemrut,Q2988251,286.4
+http://dbpedia.org/resource/Lake_Fryxell,Lake Fryxell,Q1471137,286.2
+http://dbpedia.org/resource/Llyn_Ogwen,Llyn Ogwen,Q3399862,282.95
+http://dbpedia.org/resource/Lake_Lanao,Lake Lanao,Q1384940,275.05
+http://dbpedia.org/resource/Lake_Nakuru,Lake Nakuru,Q849508,268.49999999999994
+http://dbpedia.org/resource/Cayuga_Lake,Cayuga Lake,Q731175,267.9
+http://dbpedia.org/resource/Pyramid_Lake_(Nevada),Pyramid Lake (Nevada),Q761535,266.29999999999995
+http://dbpedia.org/resource/Lake_Strom_Thurmond,Lake Strom Thurmond,Q6477865,266.2
+http://dbpedia.org/resource/Crowley_Lake,Crowley Lake,Q2843378,263.45
+http://dbpedia.org/resource/Briones_Reservoir,Briones Reservoir,Q4968501,260.2
+http://dbpedia.org/resource/Khecheopalri_Lake,Khecheopalri Lake,Q3214979,259.2
+http://dbpedia.org/resource/Pool_Malebo,Pool Malebo,Q750025,255.6
+http://dbpedia.org/resource/Jackson_Lake_(Georgia),Jackson Lake (Georgia),Q6476324,255.2
+http://dbpedia.org/resource/Sawa_Lake,Sawa Lake,Q12196747,252.89999999999998
+http://dbpedia.org/resource/Veeranam_Lake,Veeranam Lake,Q7348359,250.95
+http://dbpedia.org/resource/Chebacco_Lake,Chebacco Lake,Q19864269,249.59999999999997
+http://dbpedia.org/resource/Candlewood_Lake,Candlewood Lake,Q5032008,249.29999999999998
+http://dbpedia.org/resource/Lake_Boyukshor,Lake Boyukshor,Q6475048,248.49999999999997
+http://dbpedia.org/resource/Dushu_Lake,Dushu Lake,Q4921086,248.1
+http://dbpedia.org/resource/Kuybyshev_Reservoir,Kuybyshev Reservoir,Q745937,247.14999999999998
+http://dbpedia.org/resource/Lake_Zaysan,Lake Zaysan,Q216621,244.79999999999998
+http://dbpedia.org/resource/Kalamalka_Lake,Kalamalka Lake,Q317312,242.45
+http://dbpedia.org/resource/Gardner_Lake,Gardner Lake,Q5522606,239.34999999999997
+http://dbpedia.org/resource/Manicouagan_Reservoir,Manicouagan Reservoir,Q756106,238.8
+http://dbpedia.org/resource/Renuka_Lake,Renuka Lake,Q7313585,237.4
+http://dbpedia.org/resource/Early_Lake_Erie,Early Lake Erie,Q5326680,235.35
+http://dbpedia.org/resource/Lake_Koocanusa,Lake Koocanusa,Q6476491,233.95
+http://dbpedia.org/resource/Chautauqua_Lake,Chautauqua Lake,Q1068465,233.75
+http://dbpedia.org/resource/Lake_Wakatipu,Lake Wakatipu,Q127469,233.64999999999998
+http://dbpedia.org/resource/Last_Mountain_Lake,Last Mountain Lake,Q1381569,232.79999999999998
+http://dbpedia.org/resource/Harper_Lake,Harper Lake,Q7348482,232.39999999999998
+http://dbpedia.org/resource/Crump_Lake_(Oregon),Crump Lake (Oregon),Q24068545,232.0
+http://dbpedia.org/resource/Lake_Monongahela,Lake Monongahela,Q18155617,230.29999999999998
+http://dbpedia.org/resource/Lake_Skokomish,Lake Skokomish,Q34850540,228.65
+http://dbpedia.org/resource/Dongping_Lake,Dongping Lake,Q5295998,228.45
+http://dbpedia.org/resource/Thol_Lake,Thol Lake,Q7786671,228.2
+http://dbpedia.org/resource/Great_Bitter_Lake,Great Bitter Lake,Q526440,227.4
+http://dbpedia.org/resource/Nundkol_Lake,Nundkol Lake,Q15262983,224.5
+http://dbpedia.org/resource/Ooty_Lake,Ooty Lake,Q7095463,224.15
+http://dbpedia.org/resource/Lake_Stamford,Lake Stamford,Q6477829,223.45
+http://dbpedia.org/resource/Lake_Benmore,Lake Benmore,Q917385,223.04999999999998
+http://dbpedia.org/resource/Liangzi_Lake,Liangzi Lake,Q7374197,222.60000000000002
+http://dbpedia.org/resource/Arnfield_Reservoir,Arnfield Reservoir,Q4794747,222.24999999999997
+http://dbpedia.org/resource/Rhodeswood_Reservoir,Rhodeswood Reservoir,Q7321084,222.14999999999998
+http://dbpedia.org/resource/Torside_Reservoir,Torside Reservoir,Q7338071,221.49999999999997
+http://dbpedia.org/resource/Big_Lake_(Alberta),Big Lake (Alberta),Q4905945,220.89999999999998
+http://dbpedia.org/resource/Devils_Lake_(North_Dakota),Devils Lake (North Dakota),Q5267424,219.99999999999997
+http://dbpedia.org/resource/Quesnel_Lake,Quesnel Lake,Q1495461,219.6
+http://dbpedia.org/resource/Ladybower_Reservoir,Ladybower Reservoir,Q1800100,219.15
+http://dbpedia.org/resource/Farka_Lake,Farka Lake,Q9258041,217.89999999999998
+http://dbpedia.org/resource/Woodhead_Reservoir,Woodhead Reservoir,Q7338066,217.54999999999998
+http://dbpedia.org/resource/Valehouse_Reservoir,Valehouse Reservoir,Q7338081,217.2
+http://dbpedia.org/resource/Lake_Great_Falls,Lake Great Falls,Q6476031,215.14999999999998
+http://dbpedia.org/resource/Glacial_Lake_Columbia,Glacial Lake Columbia,Q3215743,213.2
+http://dbpedia.org/resource/Rutland_Water,Rutland Water,Q822190,212.04999999999998
+http://dbpedia.org/resource/Grand_Lake_(Colorado),Grand Lake (Colorado),Q3775069,211.85
+http://dbpedia.org/resource/Richardson_Lakes_(Maine),Richardson Lakes (Maine),Q25238392,210.64999999999998
+http://dbpedia.org/resource/Lake_Duluth,Lake Duluth,Q6475665,210.5
+http://dbpedia.org/resource/Hollingworth_Reservoir,Hollingworth Reservoir,Q7338094,210.45
+http://dbpedia.org/resource/Kielder_Water,Kielder Water,Q1630735,210.0
+http://dbpedia.org/resource/Ulansuhai_Nur,Ulansuhai Nur,Q7374641,209.75
+http://dbpedia.org/resource/Tempe_Town_Lake,Tempe Town Lake,Q2402621,208.7
+http://dbpedia.org/resource/Lake_Manchar,Lake Manchar,Q2977085,208.04999999999998
+http://dbpedia.org/resource/Jiangkou_Reservoir,Jiangkou Reservoir,Q3376753,207.85000000000002
+http://dbpedia.org/resource/Ross_Lake_(Washington),Ross Lake (Washington),Q7885607,206.25
+http://dbpedia.org/resource/Lake_of_the_Woods,Lake of the Woods,Q845876,205.7
+http://dbpedia.org/resource/Lake_Saginaw,Lake Saginaw,Q18154202,205.7
+http://dbpedia.org/resource/Satsar_Lake,Satsar Lake,Q15275548,205.25
+http://dbpedia.org/resource/Pielinen,Pielinen,Q845891,205.25
+http://dbpedia.org/resource/Upper_Klamath_Lake,Upper Klamath Lake,Q1972978,204.65
+http://dbpedia.org/resource/Lake_Pupuke,Lake Pupuke,Q3407608,204.0
+http://dbpedia.org/resource/Lake_Ojibway,Lake Ojibway,Q4355232,201.04999999999998
+http://dbpedia.org/resource/Sebago_Lake,Sebago Lake,Q1781818,200.99999999999997
+http://dbpedia.org/resource/Lillydale_Lake,Lillydale Lake,Q1825256,200.64999999999998
+http://dbpedia.org/resource/Quicksand_Pond,Quicksand Pond,Q7271768,200.3
+http://dbpedia.org/resource/Aydar_Lake,Aydar Lake,Q280771,199.85000000000002
+http://dbpedia.org/resource/Lake_Delton,Lake Delton,Q7330374,198.49999999999997
+http://dbpedia.org/resource/Junshan_Lake,Junshan Lake,Q7374645,197.39999999999998
+http://dbpedia.org/resource/Wabu_Lake,Wabu Lake,Q7374679,197.39999999999998
+http://dbpedia.org/resource/China_Lake_(Maine),China Lake (Maine),Q25208622,195.14999999999998
+http://dbpedia.org/resource/Maligne_Lake,Maligne Lake,Q429646,195.0
+http://dbpedia.org/resource/Buttle_Lake,Buttle Lake,Q316430,194.5
+http://dbpedia.org/resource/Ge_Lake,Ge Lake,Q5529425,193.85
+http://dbpedia.org/resource/Racetrack_Playa,Racetrack Playa,Q327590,193.7
+http://dbpedia.org/resource/Nanyi_Lake,Nanyi Lake,Q6964477,193.49999999999997
+http://dbpedia.org/resource/Martnaham_Loch,Martnaham Loch,Q6777288,193.35
+http://dbpedia.org/resource/Maranacook_Lake,Maranacook Lake,Q18155016,191.49999999999997
+http://dbpedia.org/resource/Lake_Oahe,Lake Oahe,Q474408,191.04999999999998
+http://dbpedia.org/resource/Lake_Timsah,Lake Timsah,Q1724581,190.74999999999997
+http://dbpedia.org/resource/Phewa_Lake,Phewa Lake,Q1192928,190.35
+http://dbpedia.org/resource/Lake_Manitoba,Lake Manitoba,Q645901,189.25
+http://dbpedia.org/resource/New_Melones_Lake,New Melones Lake,Q3215089,189.2
+http://dbpedia.org/resource/Lake_Texoma,Lake Texoma,Q3215230,188.2
+http://dbpedia.org/resource/Lake_Tight,Lake Tight,Q6478037,188.0
+http://dbpedia.org/resource/Seboeis_Lake,Seboeis Lake,Q25025126,182.75
+http://dbpedia.org/resource/Lavon_Lake,Lavon Lake,Q6476585,182.74999999999997
+http://dbpedia.org/resource/MacRitchie_Reservoir,MacRitchie Reservoir,Q7331703,182.2
+http://dbpedia.org/resource/Lake_Chouteau,Lake Chouteau,Q54874286,181.0
+http://dbpedia.org/resource/Lake_Bogoria,Lake Bogoria,Q890651,180.10000000000002
+http://dbpedia.org/resource/Conway_Lake,Conway Lake,Q5166715,180.04999999999998
+http://dbpedia.org/resource/Lake_Glendive,Lake Glendive,Q48815159,178.25
+http://dbpedia.org/resource/Butchers_Lake,Butchers Lake,Q5002464,177.8
+http://dbpedia.org/resource/Lake_Circle,Lake Circle,Q55616492,177.20000000000002
+http://dbpedia.org/resource/Toddy_Pond_(Maine),Toddy Pond (Maine),Q25238414,177.0
+http://dbpedia.org/resource/Lewis_Lake_(Wyoming),Lewis Lake (Wyoming),Q1616647,176.79999999999998
+http://dbpedia.org/resource/John_Hendry_Park,John Hendry Park,Q6238659,176.45
+http://dbpedia.org/resource/Tai_Tam_Reservoirs,Tai Tam Reservoirs,Q7331673,176.35000000000002
+http://dbpedia.org/resource/Caucomgomoc_Lake,Caucomgomoc Lake,Q25025129,176.10000000000002
+http://dbpedia.org/resource/Fort_Peck_Lake,Fort Peck Lake,Q4492006,175.34999999999997
+http://dbpedia.org/resource/Rainbow_Lake_(Maine),Rainbow Lake (Maine),Q25238406,175.15
+http://dbpedia.org/resource/Glacial_Lake_McKenzie,Glacial Lake McKenzie,Q55612688,174.35
+http://dbpedia.org/resource/Hamirsar_Lake,Hamirsar Lake,Q5645334,174.29999999999998
+http://dbpedia.org/resource/Alouette_Lake,Alouette Lake,Q280148,174.1
+http://dbpedia.org/resource/Lake_Minong,Lake Minong,Q6476932,174.1
+http://dbpedia.org/resource/Imperial_Reservoir,Imperial Reservoir,Q6006835,173.75
+http://dbpedia.org/resource/Lake_Minnewanka,Lake Minnewanka,Q2671348,173.75
+http://dbpedia.org/resource/Pakowki_Lake,Pakowki Lake,Q7126044,173.7
+http://dbpedia.org/resource/Lake_Athapapuskow,Lake Athapapuskow,Q16931868,172.20000000000002
+http://dbpedia.org/resource/Carsington_Water,Carsington Water,Q933452,171.79999999999998
+http://dbpedia.org/resource/Diamond_Valley_Lake,Diamond Valley Lake,Q3026102,171.60000000000002
+http://dbpedia.org/resource/Lake_Enriquillo,Lake Enriquillo,Q1464758,171.49999999999997
+http://dbpedia.org/resource/Orava_(reservoir),Orava (reservoir),Q737728,171.3
+http://dbpedia.org/resource/Pushaw_Lake,Pushaw Lake,Q7261773,170.65
+http://dbpedia.org/resource/Lake_Koshkonong,Lake Koshkonong,Q6476495,169.45
+http://dbpedia.org/resource/New_Hogan_Lake,New Hogan Lake,Q7008656,168.6
+http://dbpedia.org/resource/Begnas_Lake,Begnas Lake,Q3451677,168.54999999999998
+http://dbpedia.org/resource/Lake_Admiralty,Lake Admiralty,Q6474668,168.3
+http://dbpedia.org/resource/Lake_Nicaragua,Lake Nicaragua,Q173862,167.04999999999998
+http://dbpedia.org/resource/Lake_Lyndon,Lake Lyndon,Q6476713,165.55
+http://dbpedia.org/resource/Lake_Sakakawea,Lake Sakakawea,Q1801077,165.29999999999995
+http://dbpedia.org/resource/Lake_Hayes,Lake Hayes,Q1800948,164.15
+http://dbpedia.org/resource/Lake_Frontenac,Lake Frontenac,Q6475901,163.55
+http://dbpedia.org/resource/Hatzic_Lake,Hatzic Lake,Q6847962,162.0
+http://dbpedia.org/resource/Lake_Opuatia,Lake Opuatia,Q55616503,161.5
+http://dbpedia.org/resource/Lake_Tonawanda,Lake Tonawanda,Q6478061,160.85
+http://dbpedia.org/resource/Howden_Reservoir,Howden Reservoir,Q1631956,159.85
+http://dbpedia.org/resource/Lake_Julius,Lake Julius,Q1800962,159.70000000000002
+http://dbpedia.org/resource/Bouquet_Reservoir,Bouquet Reservoir,Q4950070,157.5
+http://dbpedia.org/resource/Loch_of_Strathbeg,Loch of Strathbeg,Q3850249,157.24999999999997
+http://dbpedia.org/resource/Lake_Sonoma,Lake Sonoma,Q6477806,156.04999999999998
+http://dbpedia.org/resource/Lake_Belmore,Lake Belmore,Q7349942,155.65
+http://dbpedia.org/resource/Lake_Winfield_Scott,Lake Winfield Scott,Q3215280,155.1
+http://dbpedia.org/resource/Lake_Burton_(Antarctica),Lake Burton (Antarctica),Q6475119,155.04999999999998
+http://dbpedia.org/resource/Lake_Vida,Lake Vida,Q169061,154.6
+http://dbpedia.org/resource/Lake_Hazar,Lake Hazar,Q2380189,154.5
+http://dbpedia.org/resource/White_Oak_Lake_State_Park,White Oak Lake State Park,Q7330943,153.5
+http://dbpedia.org/resource/Lake_McQueeney,Lake McQueeney,Q7331509,153.45
+http://dbpedia.org/resource/Lake_Sharpe,Lake Sharpe,Q6477698,153.39999999999998
+http://dbpedia.org/resource/Ogston_Reservoir,Ogston Reservoir,Q7080266,151.85000000000002
+http://dbpedia.org/resource/Bow_Lake_(Alberta),Bow Lake (Alberta),Q25622,151.74999999999997
+http://dbpedia.org/resource/Swan_Lake_(Montana),Swan Lake (Montana),Q7332589,149.64999999999998
+http://dbpedia.org/resource/Netherton_Reservoir,Netherton Reservoir,Q6999676,149.5
+http://dbpedia.org/resource/Para_Lake,Para Lake,Q73346112,149.25
+http://dbpedia.org/resource/Lake_Wanapitei,Lake Wanapitei,Q688897,148.99999999999997
+http://dbpedia.org/resource/Lake_Badi,Lake Badi,Q24930650,148.15
+http://dbpedia.org/resource/Lough_Conway,Lough Conway,Q30592529,148.15
+http://dbpedia.org/resource/Lake_Catani,Lake Catani,Q14935186,146.5
+http://dbpedia.org/resource/Beaver_Lake_(Arkansas),Beaver Lake (Arkansas),Q4878104,144.05
+http://dbpedia.org/resource/Kazhuveli,Kazhuveli,Q6381079,143.95000000000002
+http://dbpedia.org/resource/Lake_Tazawa,Lake Tazawa,Q174309,143.45
+http://dbpedia.org/resource/Merrill_Creek_Reservoir,Merrill Creek Reservoir,Q6820181,143.15
+http://dbpedia.org/resource/Lake_Mackenzie_(Tasmania),Lake Mackenzie (Tasmania),Q1257453,142.7
+http://dbpedia.org/resource/Saputara_Lake,Saputara Lake,Q107170833,142.64999999999998
+http://dbpedia.org/resource/Jagdishpur_Reservoir,Jagdishpur Reservoir,Q6122354,142.29999999999998
+http://dbpedia.org/resource/Rupa_Lake,Rupa Lake,Q3451065,141.79999999999998
+http://dbpedia.org/resource/Bacon_Lake,Bacon Lake,Q316034,141.60000000000002
+http://dbpedia.org/resource/Ligovsky_Pond,Ligovsky Pond,Q6546820,141.39999999999998
+http://dbpedia.org/resource/Lake_Winnipegosis,Lake Winnipegosis,Q934638,141.1
+http://dbpedia.org/resource/Lake_Marble_Falls,Lake Marble Falls,Q7330007,140.75
+http://dbpedia.org/resource/Kundol_Lake,Kundol Lake,Q6444350,140.1
+http://dbpedia.org/resource/Lake_Rotomahana,Lake Rotomahana,Q1538953,139.8
+http://dbpedia.org/resource/Canonsburg_Lake,Canonsburg Lake,Q5033413,138.89999999999998
+http://dbpedia.org/resource/Lake_Aviemore,Lake Aviemore,Q6474869,138.64999999999998
+http://dbpedia.org/resource/Lake_Dunstan,Lake Dunstan,Q1303872,138.45
+http://dbpedia.org/resource/Lake_Harihari,Lake Harihari,Q15241315,138.4
+http://dbpedia.org/resource/Loch_Libo,Loch Libo,Q6664943,138.25
+http://dbpedia.org/resource/Dhebar_Lake,Dhebar Lake,Q5269474,137.65
+http://dbpedia.org/resource/Kama_Reservoir,Kama Reservoir,Q631189,136.6
+http://dbpedia.org/resource/Lake_Volta,Lake Volta,Q201679,136.5
+http://dbpedia.org/resource/Lakhota_Lake,Lakhota Lake,Q107241441,135.09999999999997
+http://dbpedia.org/resource/Nagalpur_Lake,Nagalpur Lake,Q83522741,134.95
+http://dbpedia.org/resource/Lake_Wawasee,Lake Wawasee,Q6478445,134.14999999999998
+http://dbpedia.org/resource/Lake_Manyara,Lake Manyara,Q577148,134.0
+http://dbpedia.org/resource/Lake_Nazik,Lake Nazik,Q2478029,133.25
+http://dbpedia.org/resource/Jordan_Lake,Jordan Lake,Q6276690,132.5
+http://dbpedia.org/resource/Lake_Abashiri,Lake Abashiri,Q572825,132.3
+http://dbpedia.org/resource/Borith_Lake,Borith Lake,Q4945506,131.29999999999998
+http://dbpedia.org/resource/Iliamna_Lake,Iliamna Lake,Q965436,131.2
+http://dbpedia.org/resource/Lake_Nasser,Lake Nasser,Q182796,130.75
+http://dbpedia.org/resource/Lake_Albert_(New_South_Wales),Lake Albert (New South Wales),Q2091303,130.45
+http://dbpedia.org/resource/Jiesa_Lake,Jiesa Lake,Q6192216,129.55
+http://dbpedia.org/resource/Watauga_Lake,Watauga Lake,Q2552452,128.6
+http://dbpedia.org/resource/Stockbridge_Bowl,Stockbridge Bowl,Q7617940,128.15
+http://dbpedia.org/resource/Dajia_Lake,Dajia Lake,Q5209873,127.65
+http://dbpedia.org/resource/Man_Sagar_Lake,Man Sagar Lake,Q19893629,127.55
+http://dbpedia.org/resource/Yapunyah_waterhole,Yapunyah waterhole,Q7376490,125.55
+http://dbpedia.org/resource/Renqingxiubu_Lake,Renqingxiubu Lake,Q7313463,124.84999999999998
+http://dbpedia.org/resource/Otis_Reservoir,Otis Reservoir,Q7108820,123.39999999999999
+http://dbpedia.org/resource/Lake_Atalanta,Lake Atalanta,Q6474856,122.85
+http://dbpedia.org/resource/Lake_Meke,Lake Meke,Q6065286,122.39999999999999
+http://dbpedia.org/resource/Lake_Amtkeli,Lake Amtkeli,Q2625905,120.79999999999998
+http://dbpedia.org/resource/Franklin_D._Roosevelt_Lake,Franklin D. Roosevelt Lake,Q3042661,120.35
+http://dbpedia.org/resource/Gadloch,Gadloch,Q5516403,119.99999999999999
+http://dbpedia.org/resource/West_Lake_(Hanoi),West Lake (Hanoi),Q1187394,119.55
+http://dbpedia.org/resource/Ross_Barnett_Reservoir,Ross Barnett Reservoir,Q4397897,119.39999999999999
+http://dbpedia.org/resource/Lake_Alajuela,Lake Alajuela,Q1416924,119.39999999999999
+http://dbpedia.org/resource/Glencar_Lough,Glencar Lough,Q24196269,118.29999999999998
+http://dbpedia.org/resource/Buttermere,Buttermere,Q1018122,116.85
+http://dbpedia.org/resource/Brennsee,Brennsee,Q909524,116.1
+http://dbpedia.org/resource/Reindeer_Lake,Reindeer Lake,Q1134446,115.6
+http://dbpedia.org/resource/Lake_Disappear,Lake Disappear,Q6475615,115.29999999999998
+http://dbpedia.org/resource/Lake_Kariba,Lake Kariba,Q1047206,114.74999999999999
+http://dbpedia.org/resource/Dubawnt_Lake,Dubawnt Lake,Q1262967,113.85
+http://dbpedia.org/resource/Buffalo_Pound_Lake,Buffalo Pound Lake,Q4985810,113.84999999999998
+http://dbpedia.org/resource/Harpur_Hill_Quarry,Harpur Hill Quarry,Q5434578,113.25
+http://dbpedia.org/resource/Jack_London_Lake,Jack London Lake,Q4332095,113.14999999999999
+http://dbpedia.org/resource/Greifensee_(lake),Greifensee (lake),Q14497,113.1
+http://dbpedia.org/resource/Lac_de_Melu,Lac de Melu,Q1799627,111.04999999999998
+http://dbpedia.org/resource/Peabody_Pond,Peabody Pond,Q25025239,110.95
+http://dbpedia.org/resource/Highland_Lake_(Presumpscot_River),Highland Lake (Presumpscot River),Q25238418,110.89999999999998
+http://dbpedia.org/resource/Indian_Lake_(Ohio),Indian Lake (Ohio),Q977342,109.99999999999999
+http://dbpedia.org/resource/Amisk_Lake,Amisk Lake,Q472284,109.14999999999999
+http://dbpedia.org/resource/Rajsamand_Lake,Rajsamand Lake,Q7286419,108.5
+http://dbpedia.org/resource/Lake_Bermin,Lake Bermin,Q822017,108.29999999999998
+http://dbpedia.org/resource/Elephant_Butte_Reservoir,Elephant Butte Reservoir,Q5359306,107.89999999999999
+http://dbpedia.org/resource/Jacques-Cartier_Lake,Jacques-Cartier Lake,Q16025069,107.79999999999998
+http://dbpedia.org/resource/Llyn_Conwy,Llyn Conwy,Q3401468,107.74999999999999
+http://dbpedia.org/resource/Big_Pond_(Massachusetts),Big Pond (Massachusetts),Q4906138,107.64999999999999
+http://dbpedia.org/resource/Conesus_Lake,Conesus Lake,Q1124745,107.25
+http://dbpedia.org/resource/Thomas_Pond,Thomas Pond,Q25025240,107.05
+http://dbpedia.org/resource/Glacial_Lake_Russell,Glacial Lake Russell,Q34850186,107.0
+http://dbpedia.org/resource/Lake_Cushman,Lake Cushman,Q6475558,105.5
+http://dbpedia.org/resource/Lake_Eufaula_(Oklahoma),Lake Eufaula (Oklahoma),Q539259,104.64999999999999
+http://dbpedia.org/resource/Saguaro_Lake,Saguaro Lake,Q2211948,104.6
+http://dbpedia.org/resource/Lake_Saiful_Muluk,Lake Saiful Muluk,Q523461,104.55000000000001
+http://dbpedia.org/resource/Lake_Kickapoo,Lake Kickapoo,Q6476449,103.64999999999999
+http://dbpedia.org/resource/Kerse_Loch,Kerse Loch,Q6394718,102.94999999999999
+http://dbpedia.org/resource/Shanty_Hollow_Lake,Shanty Hollow Lake,Q7348318,102.19999999999999
+http://dbpedia.org/resource/Draycote_Water,Draycote Water,Q3715180,101.79999999999998
+http://dbpedia.org/resource/Lough_Sheelin,Lough Sheelin,Q959556,101.55
+http://dbpedia.org/resource/Canyon_Lake_(Arizona),Canyon Lake (Arizona),Q1033996,101.44999999999999
+http://dbpedia.org/resource/Lake_Akan,Lake Akan,Q429402,101.1
+http://dbpedia.org/resource/Glenade_Lough,Glenade Lough,Q24196274,100.85
+http://dbpedia.org/resource/Bewl_Water,Bewl Water,Q4899761,100.64999999999999
+http://dbpedia.org/resource/Umm_al_Binni_lake,Umm al Binni lake,Q3825807,99.25
+http://dbpedia.org/resource/Lake_Nero,Lake Nero,Q658234,98.85
+http://dbpedia.org/resource/Green_Lake_(New_York),Green Lake (New York),Q5602748,98.64999999999999
+http://dbpedia.org/resource/Khar_Lake_(Khovd),Khar Lake (Khovd),Q1445991,98.3
+http://dbpedia.org/resource/Pellaifa_Lake,Pellaifa Lake,Q4348364,97.5
+http://dbpedia.org/resource/Lake_Okabena,Lake Okabena,Q6477176,96.2
+http://dbpedia.org/resource/Cree_Lake,Cree Lake,Q945023,95.64999999999999
+http://dbpedia.org/resource/Lake_Sapsho,Lake Sapsho,Q1076270,95.3
+http://dbpedia.org/resource/Lough_Arrow,Lough Arrow,Q1871350,95.2
+http://dbpedia.org/resource/Lake_Vanda,Lake Vanda,Q1190747,95.0
+http://dbpedia.org/resource/Hocquart_Lake,Hocquart Lake,Q61303912,94.55
+http://dbpedia.org/resource/Lake_Pampulha,Lake Pampulha,Q10315737,93.44999999999999
+http://dbpedia.org/resource/Lake_Puyallup,Lake Puyallup,Q38251143,93.10000000000001
+http://dbpedia.org/resource/Kareri_Lake,Kareri Lake,Q6370180,92.6
+http://dbpedia.org/resource/Deanhead_Reservoir,Deanhead Reservoir,Q5246740,92.49999999999999
+http://dbpedia.org/resource/Tai_Tam_Intermediate_Reservoir,Tai Tam Intermediate Reservoir,Q25263828,91.95
+http://dbpedia.org/resource/Moncouche_Lake_(Mont-Valin),Moncouche Lake (Mont-Valin),Q22365913,91.54999999999998
+http://dbpedia.org/resource/Damodar_Kund,Damodar Kund,Q2760711,91.19999999999999
+http://dbpedia.org/resource/Airag_Lake,Airag Lake,Q2426550,91.19999999999999
+http://dbpedia.org/resource/Fern_Ridge_Reservoir,Fern Ridge Reservoir,Q5444476,90.44999999999999
+http://dbpedia.org/resource/Robert-Bourassa_Reservoir,Robert-Bourassa Reservoir,Q1337872,90.35
+http://dbpedia.org/resource/Claytor_Lake,Claytor Lake,Q5130389,90.3
+http://dbpedia.org/resource/Lake_Ellsworth_(Antarctica),Lake Ellsworth (Antarctica),Q1572716,90.25
+http://dbpedia.org/resource/Cahora_Bassa,Cahora Bassa,Q755015,89.85
+http://dbpedia.org/resource/Lac_aux_Montagnais,Lac aux Montagnais,Q61638889,89.6
+http://dbpedia.org/resource/Dovestone_Reservoir,Dovestone Reservoir,Q5302550,89.44999999999999
+http://dbpedia.org/resource/Longmu_Lake,Longmu Lake,Q6674152,89.3
+http://dbpedia.org/resource/Lake_Albanel,Lake Albanel,Q1748877,89.25
+http://dbpedia.org/resource/Hosmer_Lake,Hosmer Lake,Q5908150,88.64999999999999
+http://dbpedia.org/resource/Almsee,Almsee,Q259730,88.6
+http://dbpedia.org/resource/Lake_Nisqually,Lake Nisqually,Q34850339,88.4
+http://dbpedia.org/resource/Tai_Tam_Byewash_Reservoir,Tai Tam Byewash Reservoir,Q106463760,88.15
+http://dbpedia.org/resource/Lake_Bunot,Lake Bunot,Q6475102,88.0
+http://dbpedia.org/resource/Lough_Owel,Lough Owel,Q2702889,87.94999999999999
+http://dbpedia.org/resource/Lake_Karla,Lake Karla,Q6476415,87.85
+http://dbpedia.org/resource/Kumpupintil_Lake,Kumpupintil Lake,Q1638191,87.74999999999999
+http://dbpedia.org/resource/Lough_Mask,Lough Mask,Q1768048,87.5
+http://dbpedia.org/resource/Knockewart_Loch,Knockewart Loch,Q7372340,87.44999999999999
+http://dbpedia.org/resource/Old_Hickory_Lake,Old Hickory Lake,Q7084201,87.35
+http://dbpedia.org/resource/Cleawox_Lake,Cleawox Lake,Q5131013,86.85
+http://dbpedia.org/resource/Lough_Talt,Lough Talt,Q4244931,86.65
+http://dbpedia.org/resource/Takhlakh_Lake,Takhlakh Lake,Q14713921,86.15
+http://dbpedia.org/resource/Lake_Manych-Gudilo,Lake Manych-Gudilo,Q2349076,85.85
+http://dbpedia.org/resource/Medina_Lake,Medina Lake,Q3893887,85.8
+http://dbpedia.org/resource/Toledo_Bend_Reservoir,Toledo Bend Reservoir,Q7330278,85.69999999999999
+http://dbpedia.org/resource/Lough_Ennell,Lough Ennell,Q2639357,85.25
+http://dbpedia.org/resource/Lake_Lyndon_B._Johnson,Lake Lyndon B. Johnson,Q1800987,85.0
+http://dbpedia.org/resource/Cedar_Creek_Reservoir_(Texas),Cedar Creek Reservoir (Texas),Q5056639,84.65
+http://dbpedia.org/resource/Inks_Lake,Inks Lake,Q1663755,84.30000000000001
+http://dbpedia.org/resource/Kowloon_Reception_Reservoir,Kowloon Reception Reservoir,Q25265815,84.3
+http://dbpedia.org/resource/Lake_Meredith,Lake Meredith,Q1801005,84.05000000000001
+http://dbpedia.org/resource/Lake_Hemet,Lake Hemet,Q6476141,83.99999999999999
+http://dbpedia.org/resource/Lake_Magog,Lake Magog,Q3215032,82.94999999999999
+http://dbpedia.org/resource/Floras_Lake,Floras Lake,Q19877960,82.89999999999999
+http://dbpedia.org/resource/Lake_Barlee,Lake Barlee,Q1465138,82.64999999999999
+http://dbpedia.org/resource/Tenkiller_Ferry_Lake,Tenkiller Ferry Lake,Q7331354,82.45
+http://dbpedia.org/resource/Shek_Lei_Pui_Reservoir,Shek Lei Pui Reservoir,Q7493206,81.6
+http://dbpedia.org/resource/Lanalhue_Lake,Lanalhue Lake,Q834227,80.8
+http://dbpedia.org/resource/Dawa_Lake,Dawa Lake,Q5242260,80.55
+http://dbpedia.org/resource/Guntersville_Lake,Guntersville Lake,Q3561578,80.44999999999999
+http://dbpedia.org/resource/Lough_Beagh,Lough Beagh,Q23010334,80.0
+http://dbpedia.org/resource/Kowloon_Reservoir,Kowloon Reservoir,Q25265908,79.8
+http://dbpedia.org/resource/Uet_era_Ongael,Uet era Ongael,Q7362986,79.74999999999999
+http://dbpedia.org/resource/Black_Lake_(Louisiana),Black Lake (Louisiana),Q4921136,79.5
+http://dbpedia.org/resource/Stranger_Pond,Stranger Pond,Q7347854,79.49999999999999
+http://dbpedia.org/resource/Lake_Wylie,Lake Wylie,Q1794421,79.4
+http://dbpedia.org/resource/Goby_Lake,Goby Lake,Q5575611,78.85000000000001
+http://dbpedia.org/resource/Berthiaume_Lake,Berthiaume Lake,Q61638761,78.85
+http://dbpedia.org/resource/Elk_Lake_(Oregon),Elk Lake (Oregon),Q5364036,78.55
+http://dbpedia.org/resource/Lake_St._George_(Ontario),Lake St. George (Ontario),Q16893909,78.25
+http://dbpedia.org/resource/Lake_Lahontan_(reservoir),Lake Lahontan (reservoir),Q613253,77.89999999999999
+http://dbpedia.org/resource/Lake_Amaramba,Lake Amaramba,Q454821,77.35
+http://dbpedia.org/resource/Lake_Conroe,Lake Conroe,Q4231229,77.3
+http://dbpedia.org/resource/Clear_Lake_(Palau),Clear Lake (Palau),Q5130739,77.0
+http://dbpedia.org/resource/Tasman_Lake,Tasman Lake,Q1085236,77.0
+http://dbpedia.org/resource/Fragasso_Lake,Fragasso Lake,Q83178011,76.55
+http://dbpedia.org/resource/Starr_Lake_(Lac-Saint-Jean-Est),Starr Lake (Lac-Saint-Jean-Est),Q30226373,76.19999999999999
+http://dbpedia.org/resource/Reservoir_Blanc,Reservoir Blanc,Q3457696,75.25
+http://dbpedia.org/resource/Lake_Keitele,Lake Keitele,Q890537,75.0
+http://dbpedia.org/resource/Uet_era_Ngermeuangel,Uet era Ngermeuangel,Q5493240,75.0
+http://dbpedia.org/resource/Saint-Henri_Lake,Saint-Henri Lake,Q61679271,74.7
+http://dbpedia.org/resource/Bouchette_Lake,Bouchette Lake,Q17175077,74.39999999999999
+http://dbpedia.org/resource/Goose_Lake_(Washington),Goose Lake (Washington),Q5584086,74.3
+http://dbpedia.org/resource/Lake_Trichonida,Lake Trichonida,Q1422965,74.19999999999999
+http://dbpedia.org/resource/Lake_Tacoma,Lake Tacoma,Q38251144,74.19999999999999
+http://dbpedia.org/resource/Moncouche_Lake_(Lac-Saint-Jean-Est),Moncouche Lake (Lac-Saint-Jean-Est),Q56696220,73.94999999999999
+http://dbpedia.org/resource/Oradell_Reservoir,Oradell Reservoir,Q7099324,73.75
+http://dbpedia.org/resource/Lake_Wisconsin,Lake Wisconsin,Q6478530,73.7
+http://dbpedia.org/resource/Horseshoe_Lake_(Washington),Horseshoe Lake (Washington),Q14713682,73.6
+http://dbpedia.org/resource/Saint-Joseph_Lake,Saint-Joseph Lake,Q18380063,73.45
+http://dbpedia.org/resource/Sankey_tank,Sankey tank,Q7331115,72.95
+http://dbpedia.org/resource/Bristol_Lake,Bristol Lake,Q4968942,72.69999999999999
+http://dbpedia.org/resource/Numto,Numto,Q112748324,72.65
+http://dbpedia.org/resource/Lake_Tappan,Lake Tappan,Q6477970,72.6
+http://dbpedia.org/resource/Lough_Nacung_Upper,Lough Nacung Upper,Q22084117,72.44999999999999
+http://dbpedia.org/resource/Falls_Lake,Falls Lake,Q4491409,72.25
+http://dbpedia.org/resource/Llyn_Fawr,Llyn Fawr,Q2564713,71.89999999999999
+http://dbpedia.org/resource/Lake_San_Cristobal,Lake San Cristobal,Q6477635,71.85
+http://dbpedia.org/resource/Roine_(Finland),Roine (Finland),Q887894,71.8
+http://dbpedia.org/resource/Lake_Macamic,Lake Macamic,Q19819297,71.75
+http://dbpedia.org/resource/Limerick_Lake,Limerick Lake,Q6386177,71.55
+http://dbpedia.org/resource/Silent_Valley_Reservoir,Silent Valley Reservoir,Q7331694,71.3
+http://dbpedia.org/resource/Schiederweiher,Schiederweiher,Q241576,71.25
+http://dbpedia.org/resource/Belston_Loch,Belston Loch,Q4884692,70.8
+http://dbpedia.org/resource/Loch_Loyne,Loch Loyne,Q24639330,70.75
+http://dbpedia.org/resource/Potholes_Reservoir,Potholes Reservoir,Q3215145,70.5
+http://dbpedia.org/resource/Hugh_Lake,Hugh Lake,Q80971502,70.44999999999999
+http://dbpedia.org/resource/Lake_Wissota,Lake Wissota,Q3215283,70.3
+http://dbpedia.org/resource/Pika_Lake,Pika Lake,Q61300990,69.89999999999999
+http://dbpedia.org/resource/Jacqueline_Lake,Jacqueline Lake,Q61578764,69.39999999999999
+http://dbpedia.org/resource/Lake_Decatur,Lake Decatur,Q6475596,69.19999999999999
+http://dbpedia.org/resource/Cropston_Reservoir,Cropston Reservoir,Q5187994,69.19999999999999
+http://dbpedia.org/resource/Bull_Shoals_Lake,Bull Shoals Lake,Q4996629,68.1
+http://dbpedia.org/resource/Alberts_Lake_(Manitoba),Alberts Lake (Manitoba),Q16983178,67.75
+http://dbpedia.org/resource/Taudaha_Lake,Taudaha Lake,Q7688661,67.6
+http://dbpedia.org/resource/Lake_Daylesford,Lake Daylesford,Q21953481,67.5
+http://dbpedia.org/resource/Petit_lac_Jacques-Cartier,Petit lac Jacques-Cartier,Q81185722,67.35
+http://dbpedia.org/resource/Lake_Tisza,Lake Tisza,Q1072359,67.0
+http://dbpedia.org/resource/Batiscan_Lake,Batiscan Lake,Q14932234,66.75
+http://dbpedia.org/resource/Lake_Turgeon,Lake Turgeon,Q22512331,66.6
+http://dbpedia.org/resource/Lake_Merzbacher,Lake Merzbacher,Q3652757,66.3
+http://dbpedia.org/resource/Lake_Celilo,Lake Celilo,Q7330692,65.4
+http://dbpedia.org/resource/Woodcliff_Lake_Reservoir,Woodcliff Lake Reservoir,Q7330684,65.25
+http://dbpedia.org/resource/Archambault_Lake_(Saint-Donat),Archambault Lake (Saint-Donat),Q3214714,65.05
+http://dbpedia.org/resource/Alkali_Lake_(Oregon),Alkali Lake (Oregon),Q4727638,65.0
+http://dbpedia.org/resource/Oread_Lake,Oread Lake,Q95826090,64.85
+http://dbpedia.org/resource/Loch_Cluanie,Loch Cluanie,Q1867216,64.65
+http://dbpedia.org/resource/Lake_Armor,Lake Armor,Q3215314,64.64999999999999
+http://dbpedia.org/resource/Studen_Kladenets,Studen Kladenets,Q21778153,64.4
+http://dbpedia.org/resource/Sautauriski_Lake,Sautauriski Lake,Q82969331,64.25
+http://dbpedia.org/resource/Davis_Lake,Davis Lake,Q7372982,64.05
+http://dbpedia.org/resource/Honorine_Lake,Honorine Lake,Q61579258,63.95
+http://dbpedia.org/resource/Portage_Lakes,Portage Lakes,Q7231424,63.9
+http://dbpedia.org/resource/Rovni_Lake,Rovni Lake,Q23198806,63.85
+http://dbpedia.org/resource/Lake_Roberge_(Grandes-Piles),Lake Roberge (Grandes-Piles),Q15613936,63.650000000000006
+http://dbpedia.org/resource/Lac_des_Commissaires,Lac des Commissaires,Q15824990,63.599999999999994
+http://dbpedia.org/resource/Indian_Valley_Reservoir,Indian Valley Reservoir,Q6021811,63.44999999999999
+http://dbpedia.org/resource/Carillon_Lake_(Saint-Ubalde),Carillon Lake (Saint-Ubalde),Q22376116,63.099999999999994
+http://dbpedia.org/resource/Great_Salt_Plains_Lake,Great Salt Plains Lake,Q5599911,62.95
+http://dbpedia.org/resource/Pyakuto,Pyakuto,Q4385700,62.949999999999996
+http://dbpedia.org/resource/Lake_Mahinerangi,Lake Mahinerangi,Q7331078,62.64999999999999
+http://dbpedia.org/resource/Wheeler_Lake,Wheeler Lake,Q3561541,62.449999999999996
+http://dbpedia.org/resource/Lake_Segara_Anak,Lake Segara Anak,Q2173175,62.35
+http://dbpedia.org/resource/Raven_Lake,Raven Lake,Q22456779,62.099999999999994
+http://dbpedia.org/resource/Nagdaha,Nagdaha,Q6958740,62.099999999999994
+http://dbpedia.org/resource/Lac_des_Neiges,Lac des Neiges,Q19951095,61.99999999999999
+http://dbpedia.org/resource/Petit_lac_Batiscan,Petit lac Batiscan,Q22521560,61.85
+http://dbpedia.org/resource/Born_Lakes,Born Lakes,Q4945828,61.099999999999994
+http://dbpedia.org/resource/Walsh_Lake,Walsh Lake,Q83172857,61.05
+http://dbpedia.org/resource/Montemno_Lake,Montemno Lake,Q95817114,60.949999999999996
+http://dbpedia.org/resource/Round_Lake_(Saskatchewan),Round Lake (Saskatchewan),Q7335809,60.849999999999994
+http://dbpedia.org/resource/Henri-Mercier_Lake,Henri-Mercier Lake,Q60141791,60.849999999999994
+http://dbpedia.org/resource/Mahodand_Lake,Mahodand Lake,Q5221372,60.599999999999994
+http://dbpedia.org/resource/McGee_Creek_Reservoir,McGee Creek Reservoir,Q6801233,60.550000000000004
+http://dbpedia.org/resource/Lake_Musselshell,Lake Musselshell,Q55616502,60.349999999999994
+http://dbpedia.org/resource/Stanford_Reservoir,Stanford Reservoir,Q7331782,60.3
+http://dbpedia.org/resource/Lake_Ngami,Lake Ngami,Q849108,60.25
+http://dbpedia.org/resource/Grays_Lake_(Illinois),Grays Lake (Illinois),Q5598363,60.15
+http://dbpedia.org/resource/Lake_Bennett_(Northern_Territory),Lake Bennett (Northern Territory),Q745195,60.14999999999999
+http://dbpedia.org/resource/Diomedes_Lake,Diomedes Lake,Q95780417,60.05
+http://dbpedia.org/resource/Lac_aux_Rognons_(Lac-Croche),Lac aux Rognons (Lac-Croche),Q80959028,60.0
+http://dbpedia.org/resource/Lac_des_Pas_Perdus,Lac des Pas Perdus,Q60729519,59.99999999999999
+http://dbpedia.org/resource/Lake_Cut_Bank,Lake Cut Bank,Q55616495,59.39999999999999
+http://dbpedia.org/resource/Mneme_Lake,Mneme Lake,Q95815103,59.14999999999999
+http://dbpedia.org/resource/Zaslawskaye_reservoir,Zaslawskaye reservoir,Q1775081,59.14999999999999
+http://dbpedia.org/resource/Acheron_Lake,Acheron Lake,Q95778437,59.05
+http://dbpedia.org/resource/Alwen_Reservoir,Alwen Reservoir,Q3398286,58.8
+http://dbpedia.org/resource/Verkhnetulomskoye_Reservoir,Verkhnetulomskoye Reservoir,Q3511413,58.25
+http://dbpedia.org/resource/Aberdeen_Lake_(La_Tuque),Aberdeen Lake (La Tuque),Q22593896,58.2
+http://dbpedia.org/resource/Doris_Lake,Doris Lake,Q5297952,58.199999999999996
+http://dbpedia.org/resource/Pistiros_Lake,Pistiros Lake,Q95828298,58.099999999999994
+http://dbpedia.org/resource/Lake_Dash,Lake Dash,Q6475581,58.0
+http://dbpedia.org/resource/Lake_Stanley_Draper,Lake Stanley Draper,Q6477830,57.9
+http://dbpedia.org/resource/Lake_Jordan_(Montana),Lake Jordan (Montana),Q48815160,57.599999999999994
+http://dbpedia.org/resource/Lulusar,Lulusar,Q6702961,57.5
+http://dbpedia.org/resource/Lake_Chyortovo,Lake Chyortovo,Q112701775,57.349999999999994
+http://dbpedia.org/resource/Gregory_Lake_(La_Jacques-Cartier),Gregory Lake (La Jacques-Cartier),Q84574748,57.3
+http://dbpedia.org/resource/Blue_Heron_Lake,Blue Heron Lake,Q4929216,57.1
+http://dbpedia.org/resource/Nesosap_Lake,Nesosap Lake,Q17015520,57.099999999999994
+http://dbpedia.org/resource/Emeraude_Lake,Emeraude Lake,Q22396484,57.04999999999999
+http://dbpedia.org/resource/Dryvyaty,Dryvyaty,Q747280,56.5
+http://dbpedia.org/resource/Lake_Hefner,Lake Hefner,Q81295,56.449999999999996
+http://dbpedia.org/resource/Indian_Tom_Lake,Indian Tom Lake,Q15228654,56.4
+http://dbpedia.org/resource/Moosomin_Lake,Moosomin Lake,Q22384882,56.349999999999994
+http://dbpedia.org/resource/Lake_Chervonoye,Lake Chervonoye,Q2380353,56.3
+http://dbpedia.org/resource/Rieutard_Lake,Rieutard Lake,Q66311551,56.24999999999999
+http://dbpedia.org/resource/Hope_Valley_Reservoir,Hope Valley Reservoir,Q5899580,55.6
+http://dbpedia.org/resource/Lake_Osveya,Lake Osveya,Q2382013,55.599999999999994
+http://dbpedia.org/resource/Turnor_Lake_(Saskatchewan),Turnor Lake (Saskatchewan),Q7375537,55.599999999999994
+http://dbpedia.org/resource/Lama_Dal,Lama Dal,Q6480741,55.5
+http://dbpedia.org/resource/Long_Lake_(Saint-Alban),Long Lake (Saint-Alban),Q22610606,55.4
+http://dbpedia.org/resource/Barley_Lake,Barley Lake,Q90286994,55.349999999999994
+http://dbpedia.org/resource/Archambault_Lake_(Lac-Jacques-Cartier),Archambault Lake (Lac-Jacques-Cartier),Q84055568,55.3
+http://dbpedia.org/resource/Naosap_Mud_Lake,Naosap Mud Lake,Q17110429,55.25
+http://dbpedia.org/resource/Easky_Lough,Easky Lough,Q23777625,55.25
+http://dbpedia.org/resource/Payuk_Lake,Payuk Lake,Q17111832,55.24999999999999
+http://dbpedia.org/resource/Siren_Lake,Siren Lake,Q95831228,55.2
+http://dbpedia.org/resource/Island_Lake_(Oregon),Island Lake (Oregon),Q7376142,55.199999999999996
+http://dbpedia.org/resource/Lake_Kiskissink,Lake Kiskissink,Q15620042,55.05
+http://dbpedia.org/resource/Lake_of_the_Arbuckles,Lake of the Arbuckles,Q7331349,55.0
+http://dbpedia.org/resource/Burnsville_Lake,Burnsville Lake,Q5000176,54.849999999999994
+http://dbpedia.org/resource/Lake_Bannoye,Lake Bannoye,Q2368619,54.8
+http://dbpedia.org/resource/Naosap_Lake,Naosap Lake,Q17110420,54.65
+http://dbpedia.org/resource/Kaw_Lake,Kaw Lake,Q7331172,54.49999999999999
+http://dbpedia.org/resource/Big_Island_Lake_(Manitoba),Big Island Lake (Manitoba),Q16931003,54.35
+http://dbpedia.org/resource/Neso_Lake,Neso Lake,Q17110623,54.3
+http://dbpedia.org/resource/Blanc_Lake_(Saint-Ubalde),Blanc Lake (Saint-Ubalde),Q22632722,53.75
+http://dbpedia.org/resource/Tourilli_Lake,Tourilli Lake,Q84574489,53.5
+http://dbpedia.org/resource/Llyn_Idwal,Llyn Idwal,Q3405761,53.5
+http://dbpedia.org/resource/Fontus_Lake,Fontus Lake,Q95787111,53.400000000000006
+http://dbpedia.org/resource/Juturna_Lake,Juturna Lake,Q95811051,53.400000000000006
+http://dbpedia.org/resource/El_Mirage_Lake,El Mirage Lake,Q5351602,53.349999999999994
+http://dbpedia.org/resource/F.-X.-Lemieux_Lake,F.-X.-Lemieux Lake,Q22412944,53.349999999999994
+http://dbpedia.org/resource/Lac_des_Soixante_Arpents,Lac des Soixante Arpents,Q22505513,53.300000000000004
+http://dbpedia.org/resource/Bottoms_Reservoir_(Derbyshire),Bottoms Reservoir (Derbyshire),Q4949167,53.1
+http://dbpedia.org/resource/Blackwater_Reservoir,Blackwater Reservoir,Q4923550,53.0
+http://dbpedia.org/resource/Fort_Cobb_Reservoir,Fort Cobb Reservoir,Q5470942,52.9
+http://dbpedia.org/resource/Little_Salt_Lake,Little Salt Lake,Q15379164,52.849999999999994
+http://dbpedia.org/resource/Hell_Roaring_Lake,Hell Roaring Lake,Q5706650,52.65
+http://dbpedia.org/resource/Lake_Rivadavia,Lake Rivadavia,Q3215162,52.65
+http://dbpedia.org/resource/Fronsac_Lake,Fronsac Lake,Q90405647,52.55
+http://dbpedia.org/resource/Mitchell_Lake_(Apica_River),Mitchell Lake (Apica River),Q61484490,52.45
+http://dbpedia.org/resource/La_Flippe_Lake,La Flippe Lake,Q91095265,52.45
+http://dbpedia.org/resource/Le_Gardeur_Lake_(Lac-Croche),Le Gardeur Lake (Lac-Croche),Q83714533,52.35
+http://dbpedia.org/resource/Lake_Lure_(North_Carolina),Lake Lure (North Carolina),Q85775647,52.349999999999994
+http://dbpedia.org/resource/Liqeni_i_Dhenve,Liqeni i Dhenve,Q5269516,52.3
+http://dbpedia.org/resource/Laguna_Salada_(Mexico),Laguna Salada (Mexico),Q2004295,52.3
+http://dbpedia.org/resource/Lake_Konnevesi,Lake Konnevesi,Q1346108,51.949999999999996
+http://dbpedia.org/resource/Montauban_Lake,Montauban Lake,Q16508578,51.64999999999999
+http://dbpedia.org/resource/Murray_Lake_(Manitoba),Murray Lake (Manitoba),Q17110285,51.55
+http://dbpedia.org/resource/Lake_Cholila,Lake Cholila,Q48815801,51.449999999999996
+http://dbpedia.org/resource/Leo_Lake_(Manitoba),Leo Lake (Manitoba),Q17108591,51.449999999999996
+http://dbpedia.org/resource/Beddington_Lake,Beddington Lake,Q4879023,51.449999999999996
+http://dbpedia.org/resource/Niyanun_Lake,Niyanun Lake,Q17110943,51.4
+http://dbpedia.org/resource/Linzipar_Lake,Linzipar Lake,Q95813354,51.4
+http://dbpedia.org/resource/Mitatut_Lake,Mitatut Lake,Q17109957,51.4
+http://dbpedia.org/resource/Nikotwasik_Lake,Nikotwasik Lake,Q17110903,51.4
+http://dbpedia.org/resource/Kharkhari_Lake,Kharkhari Lake,Q108597707,51.349999999999994
+http://dbpedia.org/resource/Edna_Lake,Edna Lake,Q5340061,50.74999999999999
+http://dbpedia.org/resource/Covenham_Reservoir,Covenham Reservoir,Q7375289,50.7
+http://dbpedia.org/resource/Llyn_Llydaw,Llyn Llydaw,Q3086201,50.699999999999996
+http://dbpedia.org/resource/Lesclache_Lake,Lesclache Lake,Q90373478,50.550000000000004
+http://dbpedia.org/resource/Gaube_Lake,Gaube Lake,Q633293,50.55
+http://dbpedia.org/resource/Opitsvet_Lake,Opitsvet Lake,Q95823593,50.55
+http://dbpedia.org/resource/Lake_Okutama,Lake Okutama,Q1754449,50.55
+http://dbpedia.org/resource/Lake_Mogotoyevo,Lake Mogotoyevo,Q2639916,50.5
+http://dbpedia.org/resource/Lake_Werbellin,Lake Werbellin,Q315446,50.449999999999996
+http://dbpedia.org/resource/Nisto_Lake,Nisto Lake,Q17110923,50.449999999999996
+http://dbpedia.org/resource/Holt_Lake_(Manitoba),Holt Lake (Manitoba),Q17107818,50.349999999999994
+http://dbpedia.org/resource/Daral_Lake,Daral Lake,Q21818636,50.25
+http://dbpedia.org/resource/Lake_Rotoaira,Lake Rotoaira,Q3890192,49.849999999999994
+http://dbpedia.org/resource/Golyam_Beglik,Golyam Beglik,Q5581020,49.8
+http://dbpedia.org/resource/Lake_Rychy,Lake Rychy,Q2662439,49.8
+http://dbpedia.org/resource/Hucuktlis_Lake,Hucuktlis Lake,Q316478,49.8
+http://dbpedia.org/resource/Sergent_Lake,Sergent Lake,Q18380207,49.7
+http://dbpedia.org/resource/Buffalo_Woman_Lake,Buffalo Woman Lake,Q4985901,49.699999999999996
+http://dbpedia.org/resource/Volturnus_Lake,Volturnus Lake,Q95832803,49.55
+http://dbpedia.org/resource/Nao_Lake,Nao Lake,Q17110409,49.5
+http://dbpedia.org/resource/Montmorency_Lake,Montmorency Lake,Q18785703,49.45
+http://dbpedia.org/resource/Lake_Ichiccocha,Lake Ichiccocha,Q17073364,49.44999999999999
+http://dbpedia.org/resource/Lac_au_Lard,Lac au Lard,Q22611857,49.0
+http://dbpedia.org/resource/Baranof_Lake,Baranof Lake,Q2883823,48.95
+http://dbpedia.org/resource/Lac_de_Saint-Point,Lac de Saint-Point,Q498738,48.949999999999996
+http://dbpedia.org/resource/Petit_lac_Malbaie,Petit lac Malbaie,Q89576874,48.9
+http://dbpedia.org/resource/Lake_Tshangalele,Lake Tshangalele,Q2436192,48.8
+http://dbpedia.org/resource/Bor_Lake,Bor Lake,Q12749214,48.650000000000006
+http://dbpedia.org/resource/Lake_Roberge_(Lac-Masketsi),Lake Roberge (Lac-Masketsi),Q15621143,48.650000000000006
+http://dbpedia.org/resource/Lake_Seymour_(Vermont),Lake Seymour (Vermont),Q7353424,48.65
+http://dbpedia.org/resource/Naiad_Lake,Naiad Lake,Q95819436,48.599999999999994
+http://dbpedia.org/resource/Druid_Lake,Druid Lake,Q14714434,48.599999999999994
+http://dbpedia.org/resource/Kakat_Lake,Kakat Lake,Q17108275,48.599999999999994
+http://dbpedia.org/resource/Bashkargol_Lake,Bashkargol Lake,Q114000381,48.55
+http://dbpedia.org/resource/Lynx_Lake_(Manitoba),Lynx Lake (Manitoba),Q17109027,48.55
+http://dbpedia.org/resource/Grandbois_Lake,Grandbois Lake,Q22557493,48.55
+http://dbpedia.org/resource/Tom_Steed_Reservoir,Tom Steed Reservoir,Q7331395,48.349999999999994
+http://dbpedia.org/resource/Thompson_Lake_(Manitoba),Thompson Lake (Manitoba),Q18168112,48.099999999999994
+http://dbpedia.org/resource/Lake_Milada,Lake Milada,Q3491130,47.900000000000006
+http://dbpedia.org/resource/Lake_Hayden,Lake Hayden,Q49303687,47.8
+http://dbpedia.org/resource/Lac_Sainte-Anne_(Lac-Croche),Lac Sainte-Anne (Lac-Croche),Q50288343,47.75
+http://dbpedia.org/resource/Lac_Grand_(Quebec),Lac Grand (Quebec),Q6467837,47.7
+http://dbpedia.org/resource/Lake_Kolima,Lake Kolima,Q1779173,47.7
+http://dbpedia.org/resource/Broadwell_Lake,Broadwell Lake,Q4972564,47.65
+http://dbpedia.org/resource/Payukosap_Lake,Payukosap Lake,Q17111840,47.6
+http://dbpedia.org/resource/Nistosap_Lake,Nistosap Lake,Q17110933,47.6
+http://dbpedia.org/resource/Wargatie_Lake,Wargatie Lake,Q22549145,47.55
+http://dbpedia.org/resource/Saidgai_Lake,Saidgai Lake,Q21818635,47.199999999999996
+http://dbpedia.org/resource/Boca_Reservoir,Boca Reservoir,Q4936110,47.05
+http://dbpedia.org/resource/Lac_de_Chambon,Lac de Chambon,Q3215407,47.0
+http://dbpedia.org/resource/Lac_des_Martres_(Lac-Pikauba),Lac des Martres (Lac-Pikauba),Q60614595,47.0
+http://dbpedia.org/resource/Nadreau_Lake,Nadreau Lake,Q18785704,47.0
+http://dbpedia.org/resource/Pontsticill_Reservoir,Pontsticill Reservoir,Q7228379,46.800000000000004
+http://dbpedia.org/resource/Grand_lac_des_Enfers,Grand lac des Enfers,Q90173127,46.8
+http://dbpedia.org/resource/Petit_lac_Wayagamac,Petit lac Wayagamac,Q22531833,46.8
+http://dbpedia.org/resource/Proteus_Lake,Proteus Lake,Q95829662,46.75
+http://dbpedia.org/resource/Lake_Nakatsuna,Lake Nakatsuna,Q3215080,46.74999999999999
+http://dbpedia.org/resource/Uyenanao_Lake,Uyenanao Lake,Q18168120,46.65
+http://dbpedia.org/resource/Sirois_Lake,Sirois Lake,Q84608918,46.599999999999994
+http://dbpedia.org/resource/Cove_Lake,Cove Lake,Q5178931,46.2
+http://dbpedia.org/resource/Cornice_Lake,Cornice Lake,Q5171753,46.050000000000004
+http://dbpedia.org/resource/Lake_Kokanee,Lake Kokanee,Q6476480,46.05
+http://dbpedia.org/resource/Laguna_de_Ayarza,Laguna de Ayarza,Q5730441,45.8
+http://dbpedia.org/resource/Lac_des_Trois_Caribous,Lac des Trois Caribous,Q22506898,45.8
+http://dbpedia.org/resource/Nereid_Lake,Nereid Lake,Q95821631,45.8
+http://dbpedia.org/resource/Wasekamio_Lake_(Saskatchewan),Wasekamio Lake (Saskatchewan),Q7375540,45.8
+http://dbpedia.org/resource/Twin_Lakes_(Idaho),Twin Lakes (Idaho),Q7858209,45.7
+http://dbpedia.org/resource/Rautavesi_(Hartola),Rautavesi (Hartola),Q7296261,45.699999999999996
+http://dbpedia.org/resource/Lake_Maraetai,Lake Maraetai,Q7331260,45.3
+http://dbpedia.org/resource/Beaver_Woman_Lake,Beaver Woman Lake,Q4878215,45.099999999999994
+http://dbpedia.org/resource/Ruotsalainen_(lake),Ruotsalainen (lake),Q533040,45.05
+http://dbpedia.org/resource/Imogene_Lake,Imogene Lake,Q6005689,44.99999999999999
+http://dbpedia.org/resource/Cracker_Lake,Cracker Lake,Q5180372,44.95
+http://dbpedia.org/resource/Pasarel_Reservoir,Pasarel Reservoir,Q6395834,44.949999999999996
+http://dbpedia.org/resource/Strinesdale_Reservoir,Strinesdale Reservoir,Q7331451,44.9
+http://dbpedia.org/resource/Bryan_Lake_(Manitoba),Bryan Lake (Manitoba),Q16985540,44.8
+http://dbpedia.org/resource/Upper_Lead_Mountain_Pond,Upper Lead Mountain Pond,Q7376082,44.75
+http://dbpedia.org/resource/Ivanpah_Lake,Ivanpah Lake,Q7334253,44.3
+http://dbpedia.org/resource/Lake_Doxa,Lake Doxa,Q3565135,44.05
+http://dbpedia.org/resource/Tislit_Lake,Tislit Lake,Q3215233,44.0
+http://dbpedia.org/resource/Eastman_Lake,Eastman Lake,Q5330788,44.0
+http://dbpedia.org/resource/Lake_Lukomlskoye,Lake Lukomlskoye,Q2380408,44.0
+http://dbpedia.org/resource/Holly_Lake,Holly Lake,Q5882133,43.9
+http://dbpedia.org/resource/Petnja,Petnja,Q7178471,43.849999999999994
+http://dbpedia.org/resource/Foggy_Lake,Foggy Lake,Q20712407,43.849999999999994
+http://dbpedia.org/resource/Doubtful_Lake,Doubtful Lake,Q14713635,43.699999999999996
+http://dbpedia.org/resource/Tittesworth_reservoir,Tittesworth reservoir,Q3632571,43.14999999999999
+http://dbpedia.org/resource/Enonvesi,Enonvesi,Q3054512,43.14999999999999
+http://dbpedia.org/resource/Lanoraye_Lake,Lanoraye Lake,Q81241449,43.0
+http://dbpedia.org/resource/Edith_Lake,Edith Lake,Q5338598,42.99999999999999
+http://dbpedia.org/resource/Gunsight_Lake_(Idaho),Gunsight Lake (Idaho),Q5619393,42.95
+http://dbpedia.org/resource/Medard_(lake),Medard (lake),Q12036281,42.949999999999996
+http://dbpedia.org/resource/Laguna_Verde_(Comarapa),Laguna Verde (Comarapa),Q6472968,42.9
+http://dbpedia.org/resource/Barmsee,Barmsee,Q808393,42.9
+http://dbpedia.org/resource/Klawatti_Lake,Klawatti Lake,Q14713781,42.85
+http://dbpedia.org/resource/Luodis,Luodis,Q1093664,42.8
+http://dbpedia.org/resource/Cirque_Lake,Cirque Lake,Q5121961,42.449999999999996
+http://dbpedia.org/resource/Lake_Ermistu,Lake Ermistu,Q3234121,42.4
+http://dbpedia.org/resource/Konawa_Reservoir,Konawa Reservoir,Q7331388,42.4
+http://dbpedia.org/resource/Emerald_Lake_(Idaho),Emerald Lake (Idaho),Q5370459,42.3
+http://dbpedia.org/resource/Iceberg_Lake,Iceberg Lake,Q5985558,42.199999999999996
+http://dbpedia.org/resource/Gunsight_Lake,Gunsight Lake,Q5619392,42.199999999999996
+http://dbpedia.org/resource/Vasa_Loch,Vasa Loch,Q7348514,42.15
+http://dbpedia.org/resource/Fourth_of_July_Lake,Fourth of July Lake,Q5476274,42.15
+http://dbpedia.org/resource/Drag_Lake,Drag Lake,Q5304805,42.099999999999994
+http://dbpedia.org/resource/Farley_Lake,Farley Lake,Q5435436,42.099999999999994
+http://dbpedia.org/resource/Yew_Tree_Tarn,Yew Tree Tarn,Q7333980,42.05
+http://dbpedia.org/resource/Hook_Lake,Hook Lake,Q5897881,42.05
+http://dbpedia.org/resource/Lake_of_the_Woods_(California),Lake of the Woods (California),Q6478664,42.0
+http://dbpedia.org/resource/Dike_Lake,Dike Lake,Q5276517,42.0
+http://dbpedia.org/resource/Chickadee_Lake,Chickadee Lake,Q25238193,42.0
+http://dbpedia.org/resource/Lake_Ipala,Lake Ipala,Q3182080,41.949999999999996
+http://dbpedia.org/resource/Lac_de_Villeneuve-de-la-Raho,Lac de Villeneuve-de-la-Raho,Q3215574,41.9
+http://dbpedia.org/resource/Johnson_Lake,Johnson Lake,Q6268354,41.9
+http://dbpedia.org/resource/Lake_Kepwari,Lake Kepwari,Q6476438,41.849999999999994
+http://dbpedia.org/resource/Dagger_Lake,Dagger Lake,Q14713629,41.8
+http://dbpedia.org/resource/Shelley_Lake,Shelley Lake,Q22610660,41.25
+http://dbpedia.org/resource/Boulder_Lake_(Idaho),Boulder Lake (Idaho),Q4949577,41.2
+http://dbpedia.org/resource/Gentian_Lake,Gentian Lake,Q5533609,41.14999999999999
+http://dbpedia.org/resource/Cosley_Lake,Cosley Lake,Q5173961,41.099999999999994
+http://dbpedia.org/resource/Hoodoo_Lake,Hoodoo Lake,Q5897630,41.050000000000004
+http://dbpedia.org/resource/Dennenloher_See,Dennenloher See,Q910474,41.0
+http://dbpedia.org/resource/Lake_Kenyatta,Lake Kenyatta,Q24236492,41.0
+http://dbpedia.org/resource/Diamond_Lake_(Idaho),Diamond Lake (Idaho),Q5270855,41.0
+http://dbpedia.org/resource/Benedict_Lake,Benedict Lake,Q4887291,40.99999999999999
+http://dbpedia.org/resource/Bowknot_Lake,Bowknot Lake,Q4951039,40.95
+http://dbpedia.org/resource/Davenport_Lake,Davenport Lake,Q16248654,40.95
+http://dbpedia.org/resource/Saifullah_Lake,Saifullah Lake,Q108402718,40.9
+http://dbpedia.org/resource/Lake_Ocheda_(Minnesota),Lake Ocheda (Minnesota),Q6477166,40.89999999999999
+http://dbpedia.org/resource/Rautavesi_(Sastamala),Rautavesi (Sastamala),Q5477363,40.5
+http://dbpedia.org/resource/Zlatar_Lake,Zlatar Lake,Q207138,40.199999999999996
+http://dbpedia.org/resource/Minnedosa_Lake,Minnedosa Lake,Q281635,40.199999999999996
+http://dbpedia.org/resource/Wes_Watkins_Reservoir,Wes Watkins Reservoir,Q7331396,40.199999999999996
+http://dbpedia.org/resource/Ipasha_Lake,Ipasha Lake,Q6064939,40.15
+http://dbpedia.org/resource/Frog_Lake_(Idaho),Frog Lake (Idaho),Q5505198,40.1
+http://dbpedia.org/resource/Green_Lake_(North_Cascades_National_Park),Green Lake (North Cascades National Park),Q14713659,40.1
+http://dbpedia.org/resource/Collins_Lake,Collins Lake,Q5147388,40.05
+http://dbpedia.org/resource/Cliff_Lake_(Idaho),Cliff Lake (Idaho),Q5132663,40.05
+http://dbpedia.org/resource/Cony_Lake,Cony Lake,Q5166768,40.0
+http://dbpedia.org/resource/Fox_Lake_(Florida),Fox Lake (Florida),Q5476781,40.0
+http://dbpedia.org/resource/Livoq_Lake,Livoq Lake,Q6659809,39.94999999999999
+http://dbpedia.org/resource/Comanche_Reservoir,Comanche Reservoir,Q16890559,39.9
+http://dbpedia.org/resource/Lake_Lesina,Lake Lesina,Q1129358,39.6
+http://dbpedia.org/resource/Big_Lost_Lake,Big Lost Lake,Q4905969,39.3
+http://dbpedia.org/resource/Pihlajavesi_(Keuruu),Pihlajavesi (Keuruu),Q7193485,39.3
+http://dbpedia.org/resource/Lake_Cannon,Lake Cannon,Q15241305,39.25
+http://dbpedia.org/resource/Heidsee,Heidsee,Q383633,39.15
+http://dbpedia.org/resource/Snudy_Lake,Snudy Lake,Q980065,39.1
+http://dbpedia.org/resource/Jabba_Zomalu_Lake,Jabba Zomalu Lake,Q25110628,39.099999999999994
+http://dbpedia.org/resource/Bicycle_Lake,Bicycle Lake,Q4903756,39.099999999999994
+http://dbpedia.org/resource/Crater_Lake_(Idaho),Crater Lake (Idaho),Q5182622,39.05
+http://dbpedia.org/resource/Everly_Lake,Everly Lake,Q5417295,39.05
+http://dbpedia.org/resource/Pyala_Lake,Pyala Lake,Q48815107,39.05
+http://dbpedia.org/resource/Grizzly_Bear_Lake,Grizzly Bear Lake,Q5609784,39.05
+http://dbpedia.org/resource/Island_Lake_(Idaho),Island Lake (Idaho),Q6083253,39.05
+http://dbpedia.org/resource/Helen_Lake,Helen Lake,Q5702634,38.65
+http://dbpedia.org/resource/Glenns_Lake,Glenns Lake,Q5569219,38.45
+http://dbpedia.org/resource/Cobalt_Lake,Cobalt Lake,Q5138715,38.25
+http://dbpedia.org/resource/Sunfish_Lake_(Ontario),Sunfish Lake (Ontario),Q7352254,38.25
+http://dbpedia.org/resource/Castle_Lake_(Idaho),Castle Lake (Idaho),Q5050171,38.25
+http://dbpedia.org/resource/Heart_Lake_(Soldier_Mountains),Heart Lake (Soldier Mountains),Q5692014,38.2
+http://dbpedia.org/resource/Cerulean_Lake,Cerulean Lake,Q5065294,38.150000000000006
+http://dbpedia.org/resource/Island_Lake_(White_Cloud_Mountains),Island Lake (White Cloud Mountains),Q6083259,38.15
+http://dbpedia.org/resource/Hidden_Lake_(Sawtooth_Wilderness),Hidden Lake (Sawtooth Wilderness),Q7374476,38.15
+http://dbpedia.org/resource/Browns_Lake_(Idaho),Browns Lake (Idaho),Q4976662,38.1
+http://dbpedia.org/resource/Fishercap_Lake,Fishercap Lake,Q5454865,38.1
+http://dbpedia.org/resource/Braxon_Lake,Braxon Lake,Q4958490,38.1
+http://dbpedia.org/resource/Berdeen_Lake,Berdeen Lake,Q14713595,38.1
+http://dbpedia.org/resource/Heart_Lake_(Idaho),Heart Lake (Idaho),Q5692004,38.1
+http://dbpedia.org/resource/Dandy_Lake,Dandy Lake,Q5215770,38.1
+http://dbpedia.org/resource/Lake_Pucacocha_(Huaylas),Lake Pucacocha (Huaylas),Q25209187,38.0
+http://dbpedia.org/resource/Green_View_Lake,Green View Lake,Q14713660,38.0
+http://dbpedia.org/resource/Tsonevo_Reservoir,Tsonevo Reservoir,Q7329986,37.449999999999996
+http://dbpedia.org/resource/Camas_Lake,Camas Lake,Q5024992,37.3

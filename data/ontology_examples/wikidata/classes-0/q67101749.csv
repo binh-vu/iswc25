@@ -1,0 +1,1001 @@
+id,label,source,score
+Q38173,G protein-coupled receptor,Q38173,177.94000000000003
+Q414896,NMDA receptor,Q414896,173.965
+Q3454515,5-hydroxytryptamine 3 receptor,Q3454515,155.20000000000002
+Q60147,GABAA receptor,Q60147,151.78
+Q4105920,vesicular monoamine transporter,Q4105920,129.09
+Q424960,voltage-gated sodium channel,Q424960,121.83
+Q304043,transient receptor potential channel,Q304043,117.71499999999999
+Q286958,ATP-binding cassette transporter,Q286958,110.255
+Q324076,dynorphin,Q324076,109.58
+Q14905735,voltage-gated calcium channel complex,Q14905735,107.75999999999999
+Q424948,epithelial sodium channel,Q424948,106.875
+Q295251,AMPA receptor,Q295251,106.54499999999999
+Q6731409,magnesium transporter,Q6731409,103.405
+Q4222244,acid-sensing ion channel,Q4222244,100.52000000000001
+Q841456,inward-rectifier potassium channel,Q841456,100.44999999999999
+Q106939566,voltage-gated potassium channel,Q106939566,99.99000000000001
+Q7321217,"G protein-coupled receptor, rhodopsin-like",Q7321217,97.8
+Q24775788,K/Cl co-transporter,Q24775788,94.44
+Q3001168,G protein-coupled inwardly-rectifying potassium channel,Q3001168,92.72
+Q412256,nicotinic acetylcholine receptor,Q412256,92.175
+Q7682440,tandem pore domain potassium channel,Q7682440,91.535
+Q418536,ligand-gated ion channel,Q418536,88.23
+Q5009853,CD98,Q5009853,87.94
+Q1706141,interleukin-1 family,Q1706141,87.465
+Q22326958,respiratory chain complex I,Q22326958,86.13
+Q425007,Mitochondrial carrier,Q425007,84.32000000000001
+Q82302467,polycystin-1 family,Q82302467,83.27
+Q7068260,nucleoside transporter,Q7068260,80.085
+Q7671491,TRPV cation channel,Q7671491,79.475
+Q4835827,BK channel,Q4835827,78.92
+Q623090,aquaporin,Q623090,76.97000000000001
+Q7671459,"transient receptor potential channel, canonical",Q7671459,76.38
+Q7671484,TRPN,Q7671484,75.425
+Q22327117,proton-transporting ATP synthase complex,Q22327117,74.83999999999999
+Q416781,ryanodine receptor,Q416781,74.095
+Q7671475,TRPM,Q7671475,73.44
+Q24722601,"glucose transporter, type 1",Q24722601,73.065
+Q2580288,Na-K-Cl cotransporter,Q2580288,72.61
+Q7671458,TRPA,Q7671458,72.05
+Q420277,glucose transporters,Q420277,70.72000000000001
+Q24768727,"Glucose transporter, type 4",Q24768727,70.375
+Q424021,Adenine nucleotide translocator,Q424021,70.22
+Q24777245,Ferroportin,Q24777245,70.025
+Q3041588,Sodium-glucose transport proteins,Q3041588,69.23
+Q417667,Beta amyloid,Q417667,68.53999999999999
+Q59250495,Mucolipin,Q59250495,68.315
+Q11903647,P-type ATPase,Q11903647,67.99499999999999
+Q24724654,sodium/calcium exchanger protein,Q24724654,67.015
+Q7671486,TRPP,Q7671486,66.945
+Q25323947,Calcium-dependent chloride channel,Q25323947,65.065
+Q410658,latrotoxin,Q410658,64.925
+Q423489,connexins,Q423489,63.285
+Q798179,GABAA-rho receptor,Q798179,63.175000000000004
+Q24787711,"Bicarbonate transporter, eukaryotic",Q24787711,62.575
+Q7553395,sodium/hydrogen antiporter,Q7553395,61.769999999999996
+Q59143,Na+/K+-ATPase,Q59143,61.43
+Q3454536,kainate receptor,Q3454536,61.425000000000004
+Q7116939,P-type calcium channel,Q7116939,61.27000000000001
+Q24739617,ammonium transporter,Q24739617,60.58
+Q24786398,Pendrin,Q24786398,60.48499999999999
+Q7234682,Potassium-dependent sodium-calcium exchanger,Q7234682,60.129999999999995
+Q1134983,transferrin receptor family,Q1134983,59.80500000000001
+Q7905656,V-ATPase,Q7905656,59.275000000000006
+Q4654794,ATP-sensitive potassium channel,Q4654794,58.400000000000006
+Q25323851,MOP flippase,Q25323851,58.25499999999999
+Q4859345,pertussis toxin,Q4859345,57.98
+Q905325,Channelrhodopsin,Q905325,57.69500000000001
+Q24779507,"ionotropic glutamate receptor, metazoa",Q24779507,57.45
+Q7390712,small conductance calcium-activated potassium channel,Q7390712,56.655
+Q106916978,chloride channel,Q106916978,56.565
+Q24722849,"Glucose transporter, type 2",Q24722849,56.2
+Q7230047,pore-forming toxin,Q7230047,56.12499999999999
+Q418917,"Inositol 1,4,5-trisphosphate receptors",Q418917,56.03
+Q12746322,Neuromedin U receptor,Q12746322,55.635000000000005
+Q28209167,organo anion transporter family,Q28209167,55.24
+Q306116,cytochrome c oxidase,Q306116,55.035000000000004
+Q2600696,L-type calcium channel,Q2600696,54.84
+Q18356740,GABA transporter type 2,Q18356740,54.83500000000001
+Q24721252,"glucose transporter, type 3",Q24721252,54.59
+Q24741977,Sodium:neurotransmitter symporter,Q24741977,54.52499999999999
+Q24785538,Multi antimicrobial extrusion protein,Q24785538,53.465
+Q354550,voltage-gated ion channel,Q354550,52.83
+Q24768148,Urea transporter,Q24768148,52.52000000000001
+Q26789532,viroporin,Q26789532,52.47
+Q67101192,porin,Q67101192,52.31
+Q426887,Glycine receptor,Q426887,51.64
+Q7858745,Two-pore channel,Q7858745,50.394999999999996
+Q7940725,Voltage-dependent anion channel,Q7940725,48.92
+Q16980034,Magnesium transporter E,Q16980034,48.445
+Q1939716,Ornithine translocase,Q1939716,47.335
+Q415784,potassium:proton exchanging ATPase complex,Q415784,47.275000000000006
+Q3459035,HCN channel,Q3459035,46.7
+Q412832,coenzyme Q – cytochrome c reductase,Q412832,45.795
+Q5532322,general bacterial porin family,Q5532322,45.73
+Q412820,defensin,Q412820,45.38
+Q6545938,Light-gated ion channel,Q6545938,44.864999999999995
+Q24783538,Innexin,Q24783538,44.22
+Q425087,cyclic nucleotide-gated ion channel,Q425087,42.785000000000004
+Q3663155,Cation channels of sperm,Q3663155,42.68
+Q3001149,R-type calcium channel,Q3001149,41.965
+Q24739479,P2X purinoreceptor,Q24739479,40.75
+Q67598134,Voltage-gated Proton Channel,Q67598134,40.09
+Q59410,delta endotoxin,Q59410,38.845
+Q110971613,cathelicidin,Q110971613,38.58
+Q24724413,prion protein family,Q24724413,38.32000000000001
+Q3396061,Calcium ATPase,Q3396061,36.72
+Q22327705,ESCRT complex,Q22327705,36.18
+Q7252056,Plasma membrane H+ ATPase,Q7252056,35.88
+Q24767155,Synuclein,Q24767155,35.82000000000001
+Q24722579,Influenza virus matrix protein 2,Q24722579,35.695
+Q24785512,"P-type ATPase, subfamily  IIA, SERCA-type",Q24785512,35.434999999999995
+Q15328541,gamma-secretase complex,Q15328541,33.735
+Q7265316,Q-type calcium channel,Q7265316,33.48
+Q16889545,leukocidin,Q16889545,32.654999999999994
+Q3324385,tunneling nanotube,Q3324385,31.874999999999996
+Q25323771,microbial rhodopsin,Q25323771,31.644999999999996
+Q24720289,Mitochondrial carrier UCP-like,Q24720289,31.185
+Q2487620,T-type calcium channel,Q2487620,27.205000000000002
+Q7600394,Staphylococcus aureus alpha toxin,Q7600394,26.179999999999996
+Q3822702,Proteorhodopsin,Q3822702,25.990000000000006
+Q41797380,MFS transporter superfamily,Q41797380,25.82
+Q24784723,cecropin,Q24784723,25.725
+Q5515175,G protein-gated ion channel,Q5515175,25.680000000000003
+Q3476415,Phospholipid scramblase,Q3476415,25.650000000000002
+Q69742636,neuronal calcium sensor,Q69742636,25.610000000000003
+Q6382011,KcsA potassium channel,Q6382011,25.5
+Q5104317,Cholesterol-dependent cytolysin,Q5104317,24.025000000000002
+Q83843876,Mitochondrial protein translocase,Q83843876,23.75
+Q6815123,Membrane contact site,Q6815123,23.745
+Q67598120,HIV Viral Protein R,Q67598120,23.29
+Q4338147,major intrinsic protein,Q4338147,23.005
+Q8073117,Zn2+-exporting ATPase,Q8073117,22.61
+Q4796485,Arsenite-Antimonite Efflux Family,Q4796485,22.15
+Q24769828,Phosphonate Uptake Transporter,Q24769828,22.105000000000004
+Q17142347,Oxyopinin,Q17142347,21.96
+Q6901951,D-allose transporting ATPase,Q6901951,21.96
+Q6826799,Mg2+-importing ATPase,Q6826799,21.955
+Q69033003,Iron-chelate-transporting ATPase,Q69033003,21.915000000000003
+Q7028235,Nickel-transporting ATPase,Q7028235,21.89
+Q9285564,Halorhodopsin,Q9285564,21.885
+Q6744924,Maltose-transporting ATPase,Q6744924,21.875
+Q8043523,Xenobiotic-transporting ATPase,Q8043523,21.86
+Q7208991,Polar-amino-acid-transporting ATPase,Q7208991,21.650000000000002
+Q7269551,Quaternary-amine-transporting ATPase,Q7269551,21.645
+Q4897212,Beta-glucan-transporting ATPase,Q4897212,21.63
+Q7187426,Phosphate-transporting ATPase,Q7187426,21.615000000000002
+Q5036386,Capsular-polysaccharide-transporting ATPase,Q5036386,21.580000000000002
+Q420863,claudins,Q420863,21.575000000000003
+Q7251419,Protein-secreting ATPase,Q7251419,21.57
+Q24771639,Large-conductance mechanosensitive channel,Q24771639,21.54
+Q6896939,Molybdate-transporting ATPase,Q6896939,21.505
+Q6956335,Na+-exporting ATPase,Q6956335,21.475
+Q5201358,Cytolethal distending toxin,Q5201358,21.42
+Q7694965,Teichoic-acid-transporting ATPase,Q7694965,21.39
+Q5711237,Heme-transporting ATPase,Q5711237,21.315
+Q7936947,Vitamin B12-transporting ATPase,Q7936947,21.310000000000002
+Q13359550,Nitrate-transporting ATPase,Q13359550,21.28
+Q6322492,K+-transporting ATPase,Q6322492,21.225
+Q5572547,Glycerol-3-phosphate-transporting ATPase,Q5572547,21.21
+Q7086851,Oligosaccharide-transporting ATPase,Q7086851,21.189999999999998
+Q48996581,volume-regulated anion channel,Q48996581,21.15
+Q7049552,Nonpolar-amino-acid-transporting ATPase,Q7049552,21.125
+Q7086842,Oligopeptide-transporting ATPase,Q7086842,21.105
+Q6556739,Lipopolysaccharide-transporting ATPase,Q6556739,21.095
+Q6748777,Manganese-transporting ATPase,Q6748777,21.090000000000003
+Q7226131,Polyamine (putrescine/spermidine) uptake porter,Q7226131,21.020000000000003
+Q7636185,Sulfate-transporting ATPase,Q7636185,21.01
+Q4734926,Alpha-factor-transporting ATPase,Q4734926,20.995
+Q4897294,beta defensin,Q4897294,20.935000000000002
+Q5055650,Cd2+-exporting ATPase,Q5055650,20.900000000000002
+Q5613764,Guanine-transporting ATPase,Q5613764,20.9
+Q7187518,Phospholipid-translocating ATPase,Q7187518,20.83
+Q5439279,Fe3+-transporting ATPase,Q5439279,20.75
+Q5437990,Peroxysomal Fatty Acyl CoA Transporter,Q5437990,20.75
+Q5072236,Channel-conductance-controlling ATPase,Q5072236,20.709999999999997
+Q13359568,Peptide-transporting ATPase,Q13359568,20.63
+Q5016543,Cadmium-transporting ATPase,Q5016543,20.615000000000002
+Q5103159,Chloroplast protein-transporting ATPase,Q5103159,20.615000000000002
+Q7688884,Taurine-transporting ATPase,Q7688884,20.545
+Q13322524,Cu2+-exporting ATPase,Q13322524,20.52
+Q6956336,Na+-transporting two-sector ATPase,Q6956336,20.33
+Q5124837,Cl-transporting ATPase,Q5124837,20.240000000000002
+Q4690898,Ag+-exporting ATPase,Q4690898,20.14
+Q13359572,Steroid-transporting ATPase,Q13359572,19.959999999999997
+Q5520322,plant defensin,Q5520322,19.69
+Q3774486,Cytochrome b,Q3774486,19.475
+Q17148467,Voltage sensitive phosphatase,Q17148467,18.745
+Q21758669,type II protein secretion system complex,Q21758669,18.669999999999998
+Q5201170,cysteine loop ligand-gated ion channel receptor,Q5201170,17.799999999999997
+Q554446,Bcl-2 family,Q554446,17.51
+Q7636212,sulfonylurea receptor,Q7636212,16.55
+Q4675123,Resistance-nodulation-cell division superfamily,Q4675123,15.530000000000001
+Q25323879,Monovalent cation:proton antiporter-2,Q25323879,15.270000000000003
+Q24778361,thionin,Q24778361,15.264999999999999
+Q48996903,High Affinity K+ transporter HAK5,Q48996903,14.820000000000002
+Q7277911,RTX toxin superfamily,Q7277911,14.720000000000002
+Q21978575,tripartite ATP-independent periplasmic transporter complex,Q21978575,14.035
+Q24722061,Pyrophosphate-energised proton pump,Q24722061,14.025
+Q13362740,Methylmalonyl-CoA decarboxylase (sodium-transporting),Q13362740,13.594999999999999
+Q17081224,prokaryotic proton-gated ion channel GLIC,Q17081224,13.594999999999999
+Q4797673,Insect/Fungal Defensin,Q4797673,13.535
+Q17144350,holin,Q17144350,13.364999999999998
+Q25323832,SWEET transporters,Q25323832,13.36
+Q1568320,Protegrin,Q1568320,13.225000000000001
+Q224879,Transporter associated with antigen processing,Q224879,13.195
+Q15439223,colicin,Q15439223,13.125
+Q13365944,Biotin-dependent malonate decarboxylase,Q13365944,13.02
+Q7553287,Sodium-solute symporter,Q7553287,12.895
+Q25101454,Nicotinamide ribonucleoside uptake transporters,Q25101454,12.864999999999998
+Q4897336,Betaine transporter,Q4897336,12.705
+Q5572414,Na+-transporting glutaconyl-CoA decarboxylase,Q5572414,12.645
+Q14629318,Glucose-6-phosphate translocase,Q14629318,12.365
+Q18347927,Haem carrier protein 1,Q18347927,12.085
+Q25323938,"ryanodine-inositol 1,4,5-triphosphate receptor calcium channels",Q25323938,11.94
+Q408934,histatin,Q408934,11.63
+Q3450849,NADH:ubiquinone reductase (Na+-transporting),Q3450849,11.295
+Q25323869,Lambda holin family,Q25323869,11.14
+Q6818686,Mercury transporter,Q6818686,11.045
+Q25323854,Disulfide oxidoreductase D,Q25323854,10.94
+Q5358207,Electroneutral cation-Cl,Q5358207,10.895
+Q1283774,CRAC Channel,Q1283774,10.87
+Q25323823,Sulfate permease,Q25323823,10.575000000000001
+Q7553290,Sodium/proton antiporter NhaA family,Q7553290,10.2
+Q3652169,Ubiquinol oxidase (H+-transporting),Q3652169,10.185
+Q83426191,monocarboxylate transporter family,Q83426191,9.835
+Q3652189,Plastoquinol/plastocyanin reductase,Q3652189,9.79
+Q1767205,Sterolin,Q1767205,9.56
+Q4750792,anaerobic C4-dicarboxylate membrane transporter,Q4750792,9.555
+Q25323876,Monovalent cation:proton antiporter-1,Q25323876,9.515
+Q3652060,Menaquinol oxidase,Q3652060,9.5
+Q7068227,Nucleobase cation symporter-2,Q7068227,9.440000000000001
+Q18340983,Bacterial Leucine Transporter,Q18340983,9.425
+Q67599056,Outer Membrane Receptor,Q67599056,9.175
+Q25101710,Calcium:cation antiporter,Q25101710,9.165
+Q25101247,APC Family,Q25101247,9.120000000000001
+Q25323831,Natural Resistance-Associated Macrophage Proteins,Q25323831,9.105
+Q24784485,Sodium ion-translocating decarboxylase,Q24784485,8.93
+Q7542597,Small-conductance mechanosensitive channel,Q7542597,8.735000000000001
+Q24771394,Sodium-dependent phosphate transport protein,Q24771394,8.635
+Q25323942,polycystin cation channel,Q25323942,8.605000000000002
+Q24770282,Organic solute transporter subunit alpha/Transmembrane protein 184,Q24770282,8.6
+Q25323858,Iron/lead transporter,Q25323858,8.595
+Q13408721,Carboxybiotin decarboxylase,Q13408721,8.38
+Q4789015,Arenicin,Q4789015,8.27
+Q25323861,P-Aminobenzoyl-glutamate transporter,Q25323861,7.994999999999999
+Q28209166,Equilibrative nucleoside transporter family,Q28209166,7.869999999999999
+Q24771592,Proton-dependent oligopeptide transporter family,Q24771592,7.835
+Q25323852,mitochondrial calcium uniporter,Q25323852,7.704999999999998
+Q4907659,Bile acid:sodium symporter,Q4907659,7.579999999999998
+Q24774568,Potassium uptake permease,Q24774568,7.46
+Q5382855,Epididymal secretory protein E1,Q5382855,7.424999999999999
+Q19598176,OmcS oxidoreductase,Q19598176,7.419999999999999
+Q25323839,Clostridial Cytotoxin family,Q25323839,7.340000000000001
+Q25323896,CidA/LrgA holin,Q25323896,7.335
+Q25323894,T4 holin,Q25323894,7.324999999999999
+Q25103796,CitMHS family,Q25103796,7.155
+Q24724446,NCS1 family,Q24724446,7.135
+Q25323880,Monovalent cation:proton antiporter-3,Q25323880,7.109999999999999
+Q24739964,Formate/nitrite transporter,Q24739964,7.09
+Q25323813,Lysosomal cystine transporter family,Q25323813,6.969999999999999
+Q70218375,NAD(P) transhydrogenase,Q70218375,6.955
+Q6729606,magainin,Q6729606,6.905
+Q25101851,Pleurotolysin,Q25101851,6.855
+Q24772475,Sodium:dicarboxylate symporter,Q24772475,6.8500000000000005
+Q24780812,LacY/RafB permease family,Q24780812,6.7
+Q24975987,ZnuABC,Q24975987,6.669999999999999
+Q25323872,ARC3 family,Q25323872,6.585
+Q24779167,Cadmium resistance transporter,Q24779167,6.555
+Q106947147,Flippase,Q106947147,6.465
+Q25102195,Tellurium ion resistance,Q25102195,6.295
+Q20708283,cerein,Q20708283,6.28
+Q28209143,Magnesium transporter1 family,Q28209143,6.205000000000001
+Q25323949,Potassium transporter family,Q25323949,6.175
+Q24769300,Gluconate transporter,Q24769300,6.155
+Q25101292,Cation-chloride cotransporter,Q25101292,6.125
+Q25101711,Bacterial murein precursor exporter,Q25101711,6.1000000000000005
+Q24773339,Outer membrane usher protein,Q24773339,6.0
+Q25323971,YedZ family,Q25323971,5.905
+Q25323867,P21 holin family,Q25323867,5.8999999999999995
+Q25323860,Divalent anion–sodium symporter,Q25323860,5.885000000000001
+Q3023824,dermaseptins,Q3023824,5.545000000000001
+Q22034149,Cytochrome b561,Q22034149,5.4750000000000005
+Q25102076,Calcium:cation antiporter-2,Q25102076,5.414999999999999
+Q28194772,Reduced folate carrier family,Q28194772,5.289999999999999
+Q25102075,Homoserine/threonine resistance transporter,Q25102075,5.255
+Q24722792,Gap junction protein,Q24722792,5.25
+Q70479817,Organic Cation Transporter,Q70479817,5.15
+Q25103875,Basic amino acid antiporter family,Q25103875,5.145
+Q7396593,Saccharide transporter,Q7396593,5.13
+Q24766901,"Porin, LamB-type",Q24766901,5.120000000000001
+Q28003372,PTS Mannose-Fructose-Sorbose Family,Q28003372,5.085
+Q28209148,KX blood-group antigen family,Q28209148,5.0649999999999995
+Q24745940,Endosomal/lysomomal potassium channel TMEM175,Q24745940,5.035
+Q25323883,Inorganic phosphate transporter family,Q25323883,5.004999999999999
+Q25323873,NhaC family,Q25323873,4.99
+Q25103816,DcuC family,Q25103816,4.965
+Q25103871,Pho1 family,Q25103871,4.96
+Q25323877,NhaD family,Q25323877,4.955
+Q25103773,Phi11 holin family,Q25103773,4.945
+Q5169365,CorA metal ion transporter,Q5169365,4.940000000000001
+Q25100896,4-Toluene Sulfonate Uptake Permease Family,Q25100896,4.9399999999999995
+Q25100861,NiCoT family,Q25100861,4.875
+Q24772481,Na+/H+ antiporter NhaB,Q24772481,4.87
+Q25323888,Phi29 holin family,Q25323888,4.85
+Q25104004,TcdE holin family,Q25104004,4.78
+Q25323899,Phage r1t holin family,Q25323899,4.755
+Q28209123,F420H2DH family,Q28209123,4.755
+Q25103869,MatC family,Q25103869,4.75
+Q24781630,Amino acid/polyamine transporter I,Q24781630,4.740000000000001
+Q24746007,Small multidrug resistance protein family,Q24746007,4.734999999999999
+Q25101251,AGCS family,Q25101251,4.69
+Q62491123,stonustoxin,Q62491123,4.67
+Q67598072,Calcium Transporter A,Q67598072,4.62
+Q19597575,IK channel,Q19597575,4.6
+Q25102419,NicO transporters,Q25102419,4.59
+Q25103876,NhaE family,Q25103876,4.580000000000001
+Q25104153,Gene transfer agent-release holin family,Q25104153,4.575
+Q24781417,Disulphide bond formation protein DsbB,Q24781417,4.555000000000001
+Q24770160,"Porin family, mycobacterial-type",Q24770160,4.534999999999999
+Q24721951,Thiamine transporter ThiT,Q24721951,4.464999999999999
+Q14594609,voltage-gated potassium channel complex,Q14594609,4.44
+Q24766696,Branched-chain amino acid transport system II carrier protein,Q24766696,4.325
+Q24720637,Phosphate permease,Q24720637,4.31
+Q7166514,Peptaibol family,Q7166514,4.305
+Q28209150,PTS-AG superfamily,Q28209150,4.294999999999999
+Q7899336,Uptake hexose phosphate,Q7899336,4.28
+Q24769279,Concentrative nucleoside transporter,Q24769279,4.24
+Q67599146,Outer Membrane Porin OpcA,Q67599146,4.205
+Q25323901,Dp-1 holin family,Q25323901,4.095
+Q25103778,HP1 holin family,Q25103778,4.09
+Q25103794,P35 holin family,Q25103794,4.0
+Q24784498,Outer membrane protein transport protein (OMPP1/FadL/TodX),Q24784498,3.9950000000000006
+Q25323892,M2 hol family,Q25323892,3.9949999999999997
+Q25103868,6TMS neutral amino acid transporter family,Q25103868,3.92
+Q25102178,Manganese exporter,Q25102178,3.905
+Q24779592,Pleurocidin,Q24779592,3.8200000000000003
+Q25323916,BP holin family,Q25323916,3.8100000000000005
+Q24781792,Aurein antibiotic peptide family,Q24781792,3.8099999999999996
+Q24781975,Cation transporter,Q24781975,3.8099999999999996
+Q28209220,Tic110 family,Q28209220,3.8049999999999997
+Q25102260,Peptidoglycolipid addressing protein,Q25102260,3.7199999999999998
+Q25101023,AAAP Family,Q25101023,3.715
+Q25323882,Pseudomonas aeruginosa hol holin family,Q25323882,3.7099999999999995
+Q25323921,Actinobacterial phage holin family,Q25323921,3.7099999999999995
+Q25323903,SPP1 holin family,Q25323903,3.63
+Q24777864,"Potassium channel, voltage-dependent, EAG",Q24777864,3.540000000000001
+Q25103784,Pseudomonas phage F116 holin,Q25103784,3.4250000000000003
+Q7095517,Opacity porins,Q7095517,3.39
+Q25323911,T-A hol family,Q25323911,3.375
+Q25213041,The PTS glucose-glucoside,Q25213041,3.355
+Q25104172,BhlA holin family,Q25104172,3.3350000000000004
+Q25323868,T7 holin family,Q25323868,3.3350000000000004
+Q25104005,MP4 holin family,Q25104005,3.3350000000000004
+Q25323910,Hol-Tox family,Q25323910,3.3350000000000004
+Q25323922,Enterobacterial holin family,Q25323922,3.33
+Q25323889,Hol118 family,Q25323889,3.33
+Q25104144,Gp36 hol family,Q25104144,3.33
+Q28209161,Glycoside-pentoside-hexuronide:cation symporter family,Q28209161,3.315
+Q24787864,AmiS/UreI transporter,Q24787864,3.28
+Q25323871,Lactate permease family,Q25323871,3.255
+Q28209163,ATP:ADP antiporter family,Q28209163,3.25
+Q5638250,Haemolysin E,Q5638250,3.2450000000000006
+Q28209211,Non-selective cation channel-2 family,Q28209211,3.2449999999999997
+Q25323907,T1 holin family,Q25323907,3.24
+Q25323890,Hol44 family,Q25323890,3.2349999999999994
+Q25104155,Prophage Hp1 holin family,Q25104155,3.2349999999999994
+Q25104148,LLHol family,Q25104148,3.2349999999999994
+Q7697681,Tellurite-resistance/dicarboxylate transporter,Q7697681,3.165
+Q25323891,Holin LLH family,Q25323891,3.1500000000000004
+Q25103994,Putative actinobacterial holin-X family,Q25103994,3.145
+Q25103782,LydA holin family,Q25103782,3.14
+Q67599067,OmpG Porin,Q67599067,3.06
+Q25323917,Brachyspira holin family,Q25323917,3.045
+Q25323897,BlyA holin family,Q25323897,3.045
+Q25103999,Cph1 holin family,Q25103999,3.045
+Q25323931,Bacillus spore morphogenesis and germination holin family,Q25323931,2.955
+Q25323909,P68 holin family,Q25323909,2.955
+Q16903067,Tachyplesin,Q16903067,2.955
+Q25323912,XanPHol family,Q25323912,2.95
+Q25101324,Benzoate:H symporter,Q25101324,2.8600000000000003
+Q25323918,LP holin family,Q25323918,2.8550000000000004
+Q25323908,M1 hol family,Q25323908,2.8550000000000004
+Q25323923,EPPE-holin family,Q25323923,2.8550000000000004
+Q25323919,Flp/Fap Pilin putative holin family,Q25323919,2.8550000000000004
+Q22669985,HAAAP Family,Q22669985,2.845
+Q25101326,Peptide transporter carbon starvation family,Q25101326,2.775
+Q25323915,Treponema 4 TMS holin family,Q25323915,2.765
+Q25323904,Vibrio holin family,Q25323904,2.76
+Q25323914,Caulobacter phage holin family,Q25323914,2.76
+Q25323929,ArpQ holin family,Q25323929,2.665
+Q25323906,2/3 holin family,Q25323906,2.665
+Q24745337,"ABC transporter, permease protein, BtuC-like",Q24745337,2.6300000000000003
+Q74805923,KCNQ potassium channel,Q74805923,2.62
+Q7068247,Nucleoside-specific porin,Q7068247,2.59
+Q25323920,3-Hol family,Q25323920,2.5700000000000003
+Q77300736,Fatty Acid Group Translocator,Q77300736,2.485
+Q25323928,PhiU53 holin family,Q25323928,2.475
+Q25323924,L2 holin family,Q25323924,2.475
+Q24741301,"Major facilitator,  sugar transporter-like",Q24741301,2.47
+Q25323900,NP-holin family,Q25323900,2.3850000000000002
+Q25101328,Putative Amino Acid Permease,Q25101328,2.3850000000000002
+Q25103995,Deinococcus/Thermus holin family,Q25103995,2.3800000000000003
+Q25323905,A-1 holin family,Q25323905,2.3800000000000003
+Q24778154,"Amino acid exporter protein, LeuE-type",Q24778154,2.325
+Q28209149,PTS Fructose-Mannitol Family,Q28209149,2.22
+Q25323936,Putative sulfate exporter,Q25323936,2.195
+Q25323935,Malonate:Sodium symporter,Q25323935,2.19
+Q69534081,Putative uncharacterized transport proteins,Q69534081,2.1200000000000006
+Q24785456,"P-type ATPase, subfamily IB",Q24785456,2.1149999999999998
+Q25041229,PIN proteins,Q25041229,2.1149999999999998
+Q1678539,Peroxin-7,Q1678539,2.07
+Q41797564,Sodium:dicarboxylate symporter superfamily,Q41797564,2.0300000000000002
+Q18379132,Nanchung,Q18379132,2.01
+Q25323902,Mu1/6 holin family,Q25323902,2.0
+Q24778816,Drug resistance transporter EmrB/QacA subfamily,Q24778816,1.99
+Q24786263,Cation efflux protein,Q24786263,1.9000000000000001
+Q67599053,Autotransporter-1,Q67599053,1.8600000000000003
+Q24745449,cystic fibrosis transmembrane conductance regulator,Q24745449,1.8550000000000002
+Q24771181,P2X5 purinoceptor,Q24771181,1.8250000000000002
+Q24740027,"ATP synthase, F1 complex, beta subunit",Q24740027,1.765
+Q24781285,"ATP synthase, F1 complex, alpha subunit",Q24781285,1.745
+Q24785693,CD36,Q24785693,1.74
+Q67123644,porter,Q67123644,1.7149999999999999
+Q24770180,P2X7 purinoceptor,Q24770180,1.71
+Q24780960,Adenine nucleotide translocator 1,Q24780960,1.67
+Q24787089,P2X3 purinoceptor,Q24787089,1.645
+Q24785046,P2X2 purinoceptor,Q24785046,1.64
+Q24773360,P2X1 purinoceptor,Q24773360,1.64
+Q24722365,P2X4 purinoceptor,Q24722365,1.6349999999999998
+Q24772295,multi drug resistance-associated protein,Q24772295,1.6099999999999999
+Q24771626,Sugar/inositol transporter,Q24771626,1.585
+Q69380784,NPC intracellular cholesterol transporter 1,Q69380784,1.565
+Q24776005,SLC26A/SulP transporter,Q24776005,1.545
+Q24780107,Dermcidin,Q24780107,1.5250000000000001
+Q24784333,Nicotinic acetylcholine receptor,Q24784333,1.5
+Q24769337,Phosphate transporter,Q24769337,1.4100000000000001
+Q24780312,Sugar phosphate transporter,Q24780312,1.365
+Q24769249,"Magnesium transporter MgtE, non-eukaryotic",Q24769249,1.34
+Q24720439,Bestrophin,Q24720439,1.3399999999999999
+Q24745978,Drug resistance transporter Bcr/CmlA subfamily,Q24745978,1.31
+Q22328497,type IV secretion system complex,Q22328497,1.3099999999999998
+Q24778877,Neurotransmitter-gated ion-channel,Q24778877,1.305
+Q24722430,Fibroblast growth factor 2,Q24722430,1.28
+Q24780063,"ATPase, type III secretion system, FliI/YscN",Q24780063,1.2750000000000001
+Q24743597,voltage-dependent anion-selective channel protein 1,Q24743597,1.255
+Q24784840,"Potassium channel, voltage-dependent, ELK",Q24784840,1.23
+Q24779202,BCCT transporter family,Q24779202,1.22
+Q24739178,Zinc/iron permease (InterPro),Q24739178,1.22
+Q41797789,ESAT-6-like superfamily,Q41797789,1.21
+Q24745227,fluoride ion transporter,Q24745227,1.195
+Q24771730,"Nodulation ABC transporter, NodI",Q24771730,1.1849999999999998
+Q24745104,"Concentrative nucleoside transporter, metazoan/bacterial",Q24745104,1.18
+Q24769482,gasdermin,Q24769482,1.18
+Q24721191,Membrane attack complex component/perforin/complement C9,Q24721191,1.18
+Q41796793,voltage-dependent anion-selective channel protein 2,Q41796793,1.17
+Q24778575,"Potassium channel, voltage-dependent, EAG/ELK/ERG",Q24778575,1.155
+Q27564908,sodium-dependent phosphate transport protein 2,Q27564908,1.155
+Q24744674,"P-type ATPase, subfamily IIB",Q24744674,1.155
+Q67102454,alpha-type channel,Q67102454,1.14
+Q24771163,metabolite:H+ symporter family,Q24771163,1.1300000000000001
+Q86976540,"nuclear pore complex, fungi",Q86976540,1.1199999999999999
+Q67102664,beta-barrel porin,Q67102664,1.115
+Q24774214,Gamma-aminobutyric acid A receptor/Glycine receptor alpha,Q24774214,1.105
+Q67123762,P-P-bond-hydrolysis-driven transporter,Q67123762,1.08
+Q22329400,type VI protein secretion system complex,Q22329400,1.075
+Q24771614,Fatty acid transport protein 1,Q24771614,1.07
+Q2030023,"organic anion transporter, subgroup",Q2030023,1.06
+Q24779743,TonB-dependent vitamin B12 transporter BtuB,Q24779743,1.06
+Q24739218,"Potassium channel, voltage dependent, Kv1",Q24739218,1.05
+Q24779607,Anoctamin,Q24779607,1.035
+Q24780946,Purine permease PbuG-like,Q24780946,1.03
+Q24773078,"Peptidase C39, ABC-type bacteriocin transporter",Q24773078,1.03
+Q24720382,Transmembrane secretion effector,Q24720382,0.9900000000000001
+Q82033254,pleiotropic drug resistance family,Q82033254,0.9900000000000001
+Q24726063,Pro-islet amyloid polypeptide,Q24726063,0.9800000000000001
+Q24786887,"Fructose transporter, type 5",Q24786887,0.9800000000000001
+Q24727214,"Voltage-dependent calcium channel, R-type, alpha-1 subunit",Q24727214,0.9800000000000001
+Q24738860,Sodium/proline symporter,Q24738860,0.9750000000000001
+Q69533762,Transporters of unknown biochemical mechanism,Q69533762,0.9750000000000001
+Q24770362,Snake three-finger toxin,Q24770362,0.9650000000000001
+Q24770869,Uric acid permease UacT-like,Q24770869,0.9649999999999999
+Q24724059,Polycystic kidney disease type 2 protein,Q24724059,0.9649999999999999
+Q24781854,Two pore domain potassium channel,Q24781854,0.935
+Q24720852,TRIC channel,Q24720852,0.935
+Q24721695,Glycine receptor alpha,Q24721695,0.9299999999999999
+Q24767072,"Flagellar export ATPase FliI, clade 2",Q24767072,0.9299999999999999
+Q24746072,"2-aminoethylphosphonate ABC transport system, ATP-binding component PhnT",Q24746072,0.9149999999999999
+Q24787136,"Potassium channel, voltage dependent, KCNQ",Q24787136,0.91
+Q24776549,Aspartate-alanine antiporter,Q24776549,0.9049999999999999
+Q24767941,Copper transport protein C/D,Q24767941,0.9
+Q24725424,SLC12A transporter family,Q24725424,0.895
+Q24776816,Tapasin,Q24776816,0.895
+Q24781025,Anion exchange protein,Q24781025,0.8899999999999999
+Q24775395,Cation-transporting P-type ATPase A/B,Q24775395,0.8899999999999999
+Q24780000,Sodium-dependent phosphate transport protein 2B,Q24780000,0.885
+Q24778621,Nitrate transport ATP-binding subunit C/D,Q24778621,0.8800000000000001
+Q70607896,vesicular neurotransmitter transporter,Q70607896,0.8799999999999999
+Q24777079,Sodium-dependent phosphate transport protein 2A,Q24777079,0.8799999999999999
+Q24771318,Sodium-dependent phosphate transport protein 2C,Q24771318,0.8749999999999999
+Q24781621,Solute carrier family 12 member 1,Q24781621,0.87
+Q24768918,"Thiamine ABC transporter, permease subunit",Q24768918,0.87
+Q24766752,Sodium bicarbonate cotransporter,Q24766752,0.8650000000000001
+Q24774470,Ctr copper transporter,Q24774470,0.86
+Q24724133,"Potassium channel, voltage dependent, Kv9",Q24724133,0.86
+Q24769228,Sodium/pantothenate symporter,Q24769228,0.855
+Q24776825,"Mg2+ transporter protein, CorA-like",Q24776825,0.8500000000000001
+Q24777875,"Calcium-activated chloride channel protein, chordata",Q24777875,0.845
+Q24770863,Serine/threonine transporter SstT,Q24770863,0.8399999999999999
+Q24779320,Glycerol-3-phosphate transporter,Q24779320,0.8399999999999999
+Q24774238,Synaptic vesicle protein SV2,Q24774238,0.835
+Q24739629,Cation/acetate symporter ActP,Q24739629,0.8250000000000001
+Q24776248,Pentraxin,Q24776248,0.8250000000000001
+Q24724372,"Potassium channel, voltage-dependent, ERG",Q24724372,0.82
+Q24778167,"Na+-transporting methylmalonyl-CoA/oxaloacetate decarboxylase, beta subunit",Q24778167,0.82
+Q32855713,High-affinity zinc uptake system protein ZnuA,Q32855713,0.82
+Q24787789,Lipid binding protein BPI/LBP,Q24787789,0.8150000000000001
+Q24722834,Bacterial glucose/galactose transporter,Q24722834,0.8150000000000001
+Q24784880,"Potassium channel, voltage dependent, Kv",Q24784880,0.81
+Q24768866,Magnesium transporter NIPA,Q24768866,0.8
+Q24727361,Anion exchange protein 3,Q24727361,0.7949999999999999
+Q24726022,"Voltage-dependent calcium channel, T-type, alpha-1 subunit",Q24726022,0.7949999999999999
+Q24774533,"Two pore domain potassium channel, TASK family",Q24774533,0.7949999999999999
+Q24780968,K/Cl co-transporter 1,Q24780968,0.7949999999999999
+Q24769018,Na+/H+ antiporter subunit G,Q24769018,0.7949999999999999
+Q24726120,Xanthine/uracil permease,Q24726120,0.79
+Q24784241,Aquaporin 3,Q24784241,0.79
+Q24774872,Anion exchange protein 2,Q24774872,0.79
+Q24782060,Tricarboxylate/iron carrier,Q24782060,0.79
+Q24740550,"5-hydroxytryptamine 3 receptor, B subunit",Q24740550,0.785
+Q32855871,sodium/iodide cotransporter,Q32855871,0.785
+Q24772179,Choline transporter-like,Q24772179,0.78
+Q24768824,Monocarboxylate transporter 10,Q24768824,0.78
+Q24769107,"Spermidine export protein, MdtI subunit",Q24769107,0.78
+Q67598143,Human SARS Coronavirus Viroporin,Q67598143,0.775
+Q24770526,Calcium-transporting ATPase type 2C member 2,Q24770526,0.775
+Q24770173,AmpG-like permease/Acetyl-coenzyme A transporter 1,Q24770173,0.775
+Q24767124,Chloroquine resistance transporter,Q24767124,0.77
+Q24781406,Na+/H+ antiporter NhaA,Q24781406,0.7650000000000001
+Q24770958,Queuosine precursor transporter,Q24770958,0.7650000000000001
+Q81491107,Alpha-factor-transporting ATPase,Q81491107,0.765
+Q24779609,Moricin family,Q24779609,0.765
+Q24777883,Mastoparan family,Q24777883,0.765
+Q24769809,"Na+/H+ antiporter, budding yeast",Q24769809,0.76
+Q24768667,"Major facilitator superfamily, aromatic acid:H+ symporter family",Q24768667,0.755
+Q24770808,"Cation/H+ exchanger, CPA1 family, bacteria",Q24770808,0.75
+Q24768092,Organic cation transport protein/SVOP,Q24768092,0.75
+Q24724498,intracellular chloride channel,Q24724498,0.75
+Q82461267,Proteobacterial Antimicrobial Compound Efflux family,Q82461267,0.74
+Q24723576,Sugar transport protein,Q24723576,0.735
+Q67598114,Golgi pH Regulator,Q67598114,0.735
+Q24774012,Zinc transport protein ZntB,Q24774012,0.735
+Q24779047,"Sulphate ABC transporter, permease protein CysW",Q24779047,0.7300000000000001
+Q24779138,Threonine/serine transporter TdcC,Q24779138,0.73
+Q24781824,Cyclolysin transport protein CyaE,Q24781824,0.73
+Q24778956,Sulfate transporter CysZ,Q24778956,0.725
+Q83371475,Cation diffusion facilitator,Q83371475,0.725
+Q24775503,Chromate transporter,Q24775503,0.72
+Q24785255,"Potassium channel, voltage dependent, Kv6",Q24785255,0.72
+Q24775104,NifC-like ABC-type porter,Q24775104,0.715
+Q24782996,Membrane transport protein MmpL family,Q24782996,0.715
+Q24724580,"Two pore domain potassium channel, TREK",Q24724580,0.715
+Q24784439,Nucleoside:H+ symporter,Q24784439,0.71
+Q24772557,"Gallidermin ABC transporter, ATP-binding subunit",Q24772557,0.7050000000000001
+Q69529092,animal nuclear pore complex,Q69529092,0.7000000000000001
+Q24782962,"Apoptosis regulator, Mcl-1",Q24782962,0.7
+Q24766989,Hopanoid biosynthesis associated RND transporter-like protein HpnN,Q24766989,0.7
+Q24781637,Monocarboxylate transporter (InterPro),Q24781637,0.7
+Q24768410,Monocarboxylate transporter 8,Q24768410,0.695
+Q24739839,"Two pore domain potassium channel, TWIK family",Q24739839,0.695
+Q24780351,Monocarboxylate transporter 1,Q24780351,0.695
+Q24771465,V-type ATPase subunit E,Q24771465,0.695
+Q24769512,Na/K/Cl co-transporter 1,Q24769512,0.69
+Q24778975,"Polysaccharide export inner-membrane protein, BexC/CtrB/KpsE/VexD",Q24778975,0.69
+Q24787394,Chloride intracellular channel protein 5,Q24787394,0.69
+Q24770150,Canalicular multispecific organic anion transporter 1,Q24770150,0.69
+Q24770242,"Two pore domain potassium channel, TWIK-1",Q24770242,0.69
+Q24725103,Folate transporter 1,Q24725103,0.69
+Q24770126,Citrate transporter,Q24770126,0.685
+Q24772501,"Potassium channel, voltage dependent, Kv8.1",Q24772501,0.685
+Q24782438,"Two pore domain potassium channel, TRAAK",Q24782438,0.685
+Q24783226,Anion exchange protein 1,Q24783226,0.685
+Q24769983,Phospholipid-transporting ATPase IC,Q24769983,0.685
+Q24768642,Probable phospholipid-transporting ATPase VD,Q24768642,0.685
+Q24775143,Plasma membrane calcium-transporting ATPase 1,Q24775143,0.685
+Q24777404,"Potassium channel, voltage dependent, Kv3.4",Q24777404,0.685
+Q24781307,Aerolysin,Q24781307,0.685
+Q24767882,Phospholipid-transporting ATPase IG,Q24767882,0.685
+Q24723156,Chloride channel ClC-5,Q24723156,0.685
+Q24768711,Sulphate ABC transporter permease protein 2,Q24768711,0.68
+Q24721831,Cyclic nucleotide-gated cation channel beta-3,Q24721831,0.68
+Q70364975,Drug:H+ Antiporter,Q70364975,0.68
+Q24786581,Epsilon toxin,Q24786581,0.68
+Q24773223,"Potassium channel, inwardly rectifying, Kir2.2",Q24773223,0.68
+Q69527430,Drug/Metabolite Transporter,Q69527430,0.68
+Q24784047,"Potassium transporter Trk, fungi",Q24784047,0.6749999999999999
+Q24770735,Histidine transport system permease protein HisQ,Q24770735,0.6749999999999999
+Q24769391,Hydroxy amino acid transporter,Q24769391,0.6749999999999999
+Q24779562,"Formate transporter FocA, putative",Q24779562,0.6749999999999999
+Q68572423,synaptosomal vesicle fusion pore,Q68572423,0.67
+Q24774082,Microcin V bacteriocin,Q24774082,0.6699999999999999
+Q67598110,Intracellular Chloride Channel,Q67598110,0.6699999999999999
+Q24784167,subtilosin A,Q24784167,0.6699999999999999
+Q24724531,Vacuolating cytotoxin,Q24724531,0.6699999999999999
+Q24745868,K(+)/H(+) antiporter NhaP2,Q24745868,0.6699999999999999
+Q59252200,Zinc transporter 9,Q59252200,0.6699999999999999
+Q59252127,Importin beta family,Q59252127,0.6699999999999999
+Q24773146,"Phage portal protein, HK97",Q24773146,0.665
+Q24787515,Bacteriocin AS-48,Q24787515,0.665
+Q24719704,L-alanine exporter AlaE,Q24719704,0.665
+Q24782862,Abaecin,Q24782862,0.665
+Q24767931,Amino acid/polyamine transporter 2,Q24767931,0.66
+Q24769426,Arginine/ornithine antiporter,Q24769426,0.66
+Q24779691,Amino acid antiporter,Q24779691,0.655
+Q59252305,Protein transport protein SEC31-like,Q59252305,0.6549999999999999
+Q24782925,"Sodium/solute symporter, VC2705 subfamily",Q24782925,0.6499999999999999
+Q24779049,"Major facilitator superfamily transporter, TsgA",Q24779049,0.6499999999999999
+Q24719727,Myelin proteolipid protein PLP,Q24719727,0.6499999999999999
+Q54460509,Tom40,Q54460509,0.6499999999999999
+Q24770880,Putrescine transporter PotE,Q24770880,0.6499999999999999
+Q24776205,"Sugar efflux transporter, putative",Q24776205,0.645
+Q24745035,"Arginine exporter protein ArgO, enterobacteria",Q24745035,0.64
+Q24774783,riboflavin transporter,Q24774783,0.64
+Q24787341,"Equilibrative nucleoside transporter, subgroup",Q24787341,0.635
+Q22325041,transmembrane 1-electron transfer carrier,Q22325041,0.635
+Q67102081,group translocator,Q67102081,0.635
+Q24783505,L-type amino acid transporter,Q24783505,0.63
+Q24776400,"ECF transporter S component, folate family",Q24776400,0.6299999999999999
+Q24779721,"Na+/H+ exchanger, isoform 6 (NHE6)",Q24779721,0.6299999999999999
+Q24777612,"Pyrimidine permease RutG, predicted",Q24777612,0.6299999999999999
+Q24770964,"L-rhamnose-proton symport, RhaT",Q24770964,0.6299999999999999
+Q24780136,Oligopeptide transporter,Q24780136,0.625
+Q69746998,Anion:Cation Symporter,Q69746998,0.625
+Q54461944,Transmembrane channel-like protein,Q54461944,0.625
+Q24769455,Metal transport protein CbiM/NikMN,Q24769455,0.6200000000000001
+Q24783551,Two partner secretion pathway transporter,Q24783551,0.6200000000000001
+Q24776204,Magnesium transporter,Q24776204,0.62
+Q67123958,oxidoreduction-driven transporter,Q67123958,0.6150000000000001
+Q24783726,Zinc transporter ZitB,Q24783726,0.615
+Q24784308,"Enterobactin exporter, EntS",Q24784308,0.61
+Q24775924,"Na+/H+ exchanger, isoforms 3/5",Q24775924,0.61
+Q24780474,Monocarboxylate transporter 9,Q24780474,0.61
+Q24738992,Mitochondrial pyruvate carrier,Q24738992,0.605
+Q24740238,Thiazide-sensitive Na-K-Cl co-transporter,Q24740238,0.605
+Q24771529,UAA transporter,Q24771529,0.605
+Q24741890,Broad mercury transporter MerE,Q24741890,0.6
+Q24780243,"Na+/H+ exchanger, isoform 2 (NHE2)",Q24780243,0.6
+Q29564896,Nucleoside transporter ENT1/ENT2,Q29564896,0.6
+Q24741354,Chloride channel ClC-K,Q24741354,0.6
+Q24784410,Voltage-dependent anion-selective channel protein 3,Q24784410,0.595
+Q24780005,"Ammonium transporter, marine subtype",Q24780005,0.595
+Q24788326,"Bacteriocin, lactococcin 972",Q24788326,0.595
+Q24766954,Solute carrier family 10 member 1,Q24766954,0.595
+Q24788442,"Sodium:neurotransmitter symporter, GABA, GAT-1",Q24788442,0.595
+Q24746023,"Sodium:neurotransmitter symporter, taurine",Q24746023,0.595
+Q24779115,Molybdate-anion transporter,Q24779115,0.595
+Q67101999,primary active transporter,Q67101999,0.595
+Q24721997,Uncharacterized MFS-type transporter YhhS-like,Q24721997,0.5900000000000001
+Q24782287,Cyanate transport system protein,Q24782287,0.5900000000000001
+Q24771770,Oxalate/formate antiporter,Q24771770,0.59
+Q24769216,Solute carrier family 10 member 6,Q24769216,0.59
+Q24787722,CSC1-like protein 1,Q24787722,0.59
+Q24772633,"Sodium/calcium exchanger, isoform 1",Q24772633,0.59
+Q67123896,decarboxylation-driven transporter,Q67123896,0.59
+Q24744781,Probable phospholipid-transporting ATPase VA,Q24744781,0.59
+Q24772626,"Siderophore transporter, RhtX/FptX family",Q24772626,0.59
+Q24774965,Sodium/potassium/calcium exchanger 4,Q24774965,0.59
+Q24772129,Solute carrier family 23 member 2,Q24772129,0.59
+Q67101421,electrochemical potential-driven transporter,Q67101421,0.59
+Q24775022,Solute carrier family 23 member 1,Q24775022,0.59
+Q24778595,Equilibrative nucleoside transporter 1,Q24778595,0.59
+Q24775364,K/Cl co-transporter 3,Q24775364,0.59
+Q24723763,Sodium/potassium/calcium exchanger 5,Q24723763,0.59
+Q24772795,Tryptophan transporter TrpP,Q24772795,0.59
+Q24770894,"Sodium:neurotransmitter symporter, glycine, type 1",Q24770894,0.59
+Q24775268,Monocarboxylate transporter 2,Q24775268,0.59
+Q24780152,Solute carrier family 10 member 2,Q24780152,0.59
+Q24774559,Probable phospholipid-transporting ATPase IH,Q24774559,0.59
+Q24782635,Solute carrier family 26 member 8 (testis anion transporter 1),Q24782635,0.59
+Q24768652,"Sodium:neurotransmitter symporter, GABA, GAT-2",Q24768652,0.59
+Q24781752,K/Cl co-transporter 2,Q24781752,0.59
+Q24778818,Sodium/potassium/calcium exchanger 3,Q24778818,0.585
+Q24746025,"Urea transporter, bacteria",Q24746025,0.585
+Q24724141,Sodium/potassium/calcium exchanger 1,Q24724141,0.585
+Q24776328,"Sodium:neurotransmitter symporter, noradrenaline",Q24776328,0.585
+Q24740775,"Sodium:neurotransmitter symporter, dopamine",Q24740775,0.585
+Q24771946,"Voltage gated sodium channel, alpha-7 subunit",Q24771946,0.585
+Q6881872,Mitochondrial protein-transporting ATPase family,Q6881872,0.585
+Q32854287,Sodium/potassium/calcium exchanger 2,Q32854287,0.585
+Q24773730,Chloride channel ClC-3,Q24773730,0.585
+Q69380590,NPC1:NPC2,Q69380590,0.585
+Q24719601,"Sodium:neurotransmitter symporter, GABA, GAT-3",Q24719601,0.585
+Q24745021,"Sodium:neurotransmitter symporter, creatine",Q24745021,0.585
+Q24786810,K/Cl co-transporter 4,Q24786810,0.585
+Q24773728,"Neuromedin U receptor, type 2",Q24773728,0.585
+Q24725832,Potassium voltage-gated channel subfamily H member 6,Q24725832,0.585
+Q24787708,"Sodium:neurotransmitter symporter, betaine",Q24787708,0.585
+Q24785104,"Na+/H+ antiporter, fungi",Q24785104,0.585
+Q24776208,Thiamine transporter 2,Q24776208,0.585
+Q67646996,Botulinum and Tetanus Toxin Family,Q67646996,0.585
+Q67103128,non-ribosomally synthesized channels,Q67103128,0.58
+Q32854293,Sodium/potassium/calcium exchanger NCKX30C-like,Q32854293,0.58
+Q24788457,Na/K/Cl co-transporter,Q24788457,0.58
+Q24781447,Zinc transporter ZupT,Q24781447,0.5750000000000001
+Q24777646,Urea active transporter,Q24777646,0.575
+Q24745469,Vitamin B6 transporter Tpn1,Q24745469,0.575
+Q67766070,Lactococcin A,Q67766070,0.575
+Q24775832,"Sodium:neurotransmitter symporter, orphan",Q24775832,0.5700000000000001
+Q24768533,"Hemolytic lectin CEL-III, C-terminal domain superfamily",Q24768533,0.57
+Q6072230,ferric-hydroxamate-transporting ATPase,Q6072230,0.57
+Q24777698,Adenine/guanine permease AZG1/2,Q24777698,0.57
+Q59252120,Nuclear mRNA export protein Thp1-like,Q59252120,0.57
+Q67764814,nisin family,Q67764814,0.57
+Q67765489,Lacticin 481,Q67765489,0.57
+Q81490440,Sodium/myo-inositol cotransporter SMIT,Q81490440,0.57
+Q67122359,membrane fusion pore,Q67122359,0.5650000000000001
+Q24788035,K(+)/H(+) antiporter NhaP,Q24788035,0.5650000000000001
+Q68572892,exocyst family,Q68572892,0.555
+Q89037117,betacoronaviruses E protein,Q89037117,0.555
+Q59251073,Type I protein exporter,Q59251073,0.55
+Q24738610,Bacteriophage/Gene transfer agent portal protein,Q24738610,0.55
+Q24768273,3-phenylpropionic acid transporter,Q24768273,0.545
+Q24773338,"MSF-type transporter, YcaD",Q24773338,0.545
+Q69532237,sugar porter,Q69532237,0.5449999999999999
+Q76970795,Peroxisomal Protein Importer,Q76970795,0.53
+Q24783260,Glutamate:g-aminobutyrate antiporter,Q24783260,0.53
+Q70444589,Voltage gated sodium channel,Q70444589,0.53
+Q67598100,H+- or Na+-translocating Bacterial Flagellar Motor/ExbBD Outer Membrane Transport Energizer,Q67598100,0.53
+Q24781910,TMEM144,Q24781910,0.53
+Q67598095,Phospholemman,Q67598095,0.52
+Q86994963,"peroxisomal protein importer, fungi",Q86994963,0.52
+Q68575618,nuclear pore family,Q68575618,0.515
+Q24769328,L-lysine exporter/arginine exporter,Q24769328,0.515
+Q24777528,Organic solute carrier protein 1,Q24777528,0.51
+Q24780626,Hydroxymethylpyrimidine transporter CytX,Q24780626,0.51
+Q24724745,Probable phospholipid-transporting ATPase IIB,Q24724745,0.505
+Q21117674,transmembrane electron carrier,Q21117674,0.505
+Q86997057,ESCRT-III family,Q86997057,0.5
+Q67124045,phosphotransferase system,Q67124045,0.5
+Q29956382,Solute carrier family 10 member 4,Q29956382,0.5
+Q70347872,G protein-activated inward rectifier potassium channel,Q70347872,0.5
+Q32854142,Solute carrier family 23 member 3,Q32854142,0.49500000000000005
+Q24783662,Probable phospholipid-transporting ATPase VB,Q24783662,0.49500000000000005
+Q24720383,Aquaporin 12,Q24720383,0.49500000000000005
+Q24723813,Solute carrier family 10 member 5,Q24723813,0.49500000000000005
+Q24773356,Phospholipid-transporting ATPase IK,Q24773356,0.49500000000000005
+Q24726342,Phospholipid-transporting ATPase ID,Q24726342,0.49500000000000005
+Q32854250,Potassium voltage-gated channel subfamily H member 5,Q32854250,0.49500000000000005
+Q24724904,Thiamine transporter 1,Q24724904,0.49500000000000005
+Q24787083,Solute carrier family 10 member 3,Q24787083,0.49500000000000005
+Q24780221,Bacteriocin transport accessory protein,Q24780221,0.49000000000000005
+Q24780425,Putative glutamate/gamma-aminobutyrate antiporter,Q24780425,0.49000000000000005
+Q59251079,Vitamin B12 transporter BtuB-like,Q59251079,0.49000000000000005
+Q24772723,Phage portal protein PBSX family,Q24772723,0.49000000000000005
+Q41796786,Protein Orai-2,Q41796786,0.49000000000000005
+Q68574271,Invertebrate PMP22-Claudin,Q68574271,0.49000000000000005
+Q67123983,light absorption-driven transporter,Q67123983,0.485
+Q67103977,viral fusion pore,Q67103977,0.485
+Q67103849,vesicle fusion pore,Q67103849,0.485
+Q24721031,Biopolymer transport ExbB-like protein 1,Q24721031,0.485
+Q67104298,paracellular channel,Q67104298,0.485
+Q24743791,"Amino acid transporter, prokaryotic",Q24743791,0.485
+Q24782428,Sodium/hydrogen exchanger 10,Q24782428,0.485
+Q24783339,Eukaryotic porin/Tom40,Q24783339,0.485
+Q26962321,glutamate receptor delta 1,Q26962321,0.485
+Q67151887,acyl CoA ligase-coupled transporter,Q67151887,0.48
+Q24766737,Probable phospholipid-transporting ATPase IM,Q24766737,0.48
+Q67599091,Outer Membrane Protein Insertion Porin (Bam Complex),Q67599091,0.48
+Q67622962,yeast killer toxin family,Q67622962,0.48
+Q67767342,Pediocin family,Q67767342,0.48
+Q98119223,human GABA-A receptors,Q98119223,0.48
+Q67620245,alpha-hemolysin,Q67620245,0.48
+Q67766653,Divergicin A,Q67766653,0.48
+Q24741560,Folate-biopterin transporter FBT,Q24741560,0.48
+Q24740549,Silicon transporter,Q24740549,0.48
+Q67123675,non-ribosomally synthesized porter,Q67123675,0.48
+Q24722209,"Tetrapeptide transporter, OPT1/isp4",Q24722209,0.48
+Q24780749,Anion transporter SULP-5,Q24780749,0.48
+Q67655102,RTX toxin,Q67655102,0.47500000000000003
+Q24775253,Sarcoplasmic/endoplasmic reticulum calcium ATPase 3,Q24775253,0.47500000000000003
+Q1805759,UDP glucuronate/UDP-N-acetylgalactosamine transporter,Q1805759,0.47500000000000003
+Q68576161,plasmodesma family,Q68576161,0.47500000000000003
+Q24769774,"Phage portal protein PBSX family, Proteobacteria",Q24769774,0.47500000000000003
+Q67767622,Lactococcin G,Q67767622,0.47500000000000003
+Q24744933,Nucleobase-ascorbate transporter 12,Q24744933,0.47500000000000003
+Q24784123,"Nucleoside transporter, plants",Q24784123,0.47500000000000003
+Q29956385,Plasma membrane calcium-transporting ATPase 3,Q29956385,0.47500000000000003
+Q67766391,Lactacin X,Q67766391,0.47500000000000003
+Q98433877,recoverin,Q98433877,0.47500000000000003
+Q24772448,Nucleobase-ascorbate transporter 3,Q24772448,0.47500000000000003
+Q24726061,Nucleobase-ascorbate transporter 1,Q24726061,0.47500000000000003
+Q58517398,Cationic Amino Acid Transporter 1,Q58517398,0.47500000000000003
+Q24776675,"ATPase, type III secretion system, FliI",Q24776675,0.47500000000000003
+Q24780071,"Silicon transporter, Cylindrotheca fusiformis",Q24780071,0.47500000000000003
+Q24782519,Aluminum-activated malate transporter,Q24782519,0.47500000000000003
+Q24721528,Sulfate transporter 3.3,Q24721528,0.47500000000000003
+Q81490792,Tetracycline resistance protein/drug resistance transporter,Q81490792,0.47500000000000003
+Q59252237,Nucleus export protein  Brl1/Brr6,Q59252237,0.47500000000000003
+Q67123940,methyltransfer-driven transporter,Q67123940,0.47500000000000003
+Q86972002,HAE1 Family,Q86972002,0.46499999999999997
+Q70612266,Fucose:Proton Symporter,Q70612266,0.455
+Q83962992,Aromatic Acid Exporter,Q83962992,0.45
+Q83372571,TREX family,Q83372571,0.44000000000000006
+Q67599074,Outer Membrane Porin,Q67599074,0.44000000000000006
+Q41797413,"Proline/betaine transporter ProP, C-terminal",Q41797413,0.44000000000000006
+Q67598165,Heteromeric Odorant Receptor Channel,Q67598165,0.44000000000000006
+Q67599060,Outer Membrane Factor,Q67599060,0.44000000000000006
+Q86992332,Endoplasmic Reticular Retrotranslocon,Q86992332,0.435
+Q80952631,Zinc-Iron Permease,Q80952631,0.435
+Q67599044,OmpA-OmpF Porin,Q67599044,0.435
+Q86992612,Drug/Metabolite Exporter,Q86992612,0.43
+Q67776151,Type III-Target Cell Pore,Q67776151,0.43
+Q67598236,Cyclin M Mg2+ Exporter,Q67598236,0.43
+Q86995566,Molybdopterin-containing Oxidoreductase,Q86995566,0.42500000000000004
+Q67599047,Mitochondrial and Plastid Porin,Q67599047,0.42500000000000004
+Q67598157,Plasmolipin,Q67598157,0.42000000000000004
+Q67599115,"Curli Fiber Subunit Porin, CgsA, CsgG",Q67599115,0.42000000000000004
+Q67599108,Outer Membrane Lipopolysaccharide Export Porin,Q67599108,0.42000000000000004
+Q67598218,Peroxisomal Pore-forming Pex11,Q67598218,0.415
+Q67599068,Outer Bacterial Membrane Secretin,Q67599068,0.415
+Q70459911,Spinster protein family,Q70459911,0.415
+Q67598233,Channel-forming Otopetrin,Q67598233,0.415
+Q67598111,CD20 Ca2+ Channel,Q67598111,0.415
+Q67599043,Pseudomonas OprP Porin,Q67599043,0.41
+Q67598101,Annexin,Q67598101,0.41
+Q86997085,drug-proton antiporter-2,Q86997085,0.41
+Q67598176,Mechanical Nociceptor,Q67598176,0.41
+Q67598187,Calcium Homeostasis Modulator Ca2+ Channel,Q67598187,0.41
+Q86997219,Autophagy-related Phagophore-formation Transporter,Q86997219,0.41
+Q67595578,epithelial chloride channel,Q67595578,0.41
+Q67598139,Presenilin ER Ca2+ Leak Channel,Q67598139,0.405
+Q67598133,Phospholamban (Ca2+-channel and Ca2+-ATPase Regulator),Q67598133,0.405
+Q22325042,transmembrane 2-electron transfer carrier,Q22325042,0.405
+Q67599126,Intimin/Invasin (Int/Inv) or Autotransporter-3,Q67599126,0.405
+Q67123727,transcompartment lipid carrier,Q67123727,0.405
+Q69458934,dicarboxylate/amino acid:cation symporter,Q69458934,0.405
+Q67598129,Anion Channel Tweety,Q67598129,0.405
+Q69350314,non-envelope virus penetration complex,Q69350314,0.405
+Q67598228,Pore-forming Globin,Q67598228,0.405
+Q67599104,"Bacterial Porin, OmpW",Q67599104,0.405
+Q67599059,Short Chain Amide and Urea Porin,Q67599059,0.4
+Q67598174,Mitsugumin 23,Q67598174,0.4
+Q67598184,LHFPL Tetraspan Protein,Q67598184,0.4
+Q67123716,ion-gradient-driven energizer,Q67123716,0.4
+Q67599063,Outer Membrane Auxiliary,Q67599063,0.4
+Q67599065,Two-Partner Secretion,Q67599065,0.395
+Q67599102,Treponema Porin Major Surface Protein,Q67599102,0.395
+Q69350520,shell protein,Q69350520,0.395
+Q67599155,Peroxysomal Membrane Porin 4,Q67599155,0.395
+Q67599165,DUF481 Putative Beta Barrel Porin,Q67599165,0.395
+Q67598141,Synaptic Vesicle-Associated Ca2+ Channel,Q67598141,0.395
+Q67598180,Cholesterol Uptake Protein,Q67598180,0.395
+Q67598082,BCL2/Adenovirus E1B-interacting Protein 3,Q67598082,0.395
+Q67598106,Bacillus Gap Junction-like Channel-forming Complex,Q67598106,0.395
+Q67598234,Reactive Oxygen Species Modulator 1,Q67598234,0.395
+Q67599097,Oligogalacturonate-specific Porin,Q67599097,0.395
+Q67598105,Cation Channel-forming Heat Shock Protein-70,Q67598105,0.395
+Q67598163,Membrane Mg2+ Transporter,Q67598163,0.395
+Q67599106,Autotransporter-2,Q67599106,0.39
+Q67656072,Cytohemolysin,Q67656072,0.39
+Q67599112,Outer Membrane LolAB Lipoprotein Insertion Apparatus,Q67599112,0.39
+Q67599168,Chloroplast Outer Membrane Porin,Q67599168,0.39
+Q67598170,Brain Acid-soluble Protein Channel,Q67598170,0.39
+Q67104550,membrane-bounded channel,Q67104550,0.39
+Q67598128,Nucleotide-sensitive Anion-selective Channel,Q67598128,0.39
+Q67599069,Cyanobacterial Porin,Q67599069,0.39
+Q67599149,Putative Beta-Barrel Porin-2,Q67599149,0.39
+Q67598194,Fungal Potassium Channel,Q67598194,0.39
+Q67599064,Glucose-selective OprB Porin,Q67599064,0.39
+Q67599139,Delta-Proteobacterial Porin,Q67599139,0.39
+Q67599128,Poly Acetyl Glucosamine Porin,Q67599128,0.39
+Q67599131,Spirochaete Outer Membrane Porin,Q67599131,0.39
+Q67598179,K+-selective Channel in Endosomes and Lysosomes,Q67598179,0.39
+Q67775750,Amoebapore family,Q67775750,0.39
+Q67599172,"Porin-Sphingomyelinase Fusion Protein, SpmT",Q67599172,0.385
+Q67599167,Copper Resistance Putative Porin,Q67599167,0.385
+Q67599041,Sugar Porin,Q67599041,0.385
+Q67599156,Outer Membrane Channel,Q67599156,0.385
+Q67598155,Ignicoccus Outer Membrane α-helical Porin,Q67598155,0.385
+Q67599107,Corynebacterial Porin B,Q67599107,0.385
+Q67599123,Oms28 Porin,Q67599123,0.385
+Q67599055,Alginate Export Porin,Q67599055,0.385
+Q67842652,lysenin family,Q67842652,0.385
+Q67598181,Low Affinity Ca2+ Channel,Q67598181,0.385
+Q67842255,anthrax protective antigen family,Q67842255,0.385
+Q67597911,Proton-activated Chloride Channel,Q67597911,0.385
+Q67599182,Pellicle Polysaccharide Export Porin,Q67599182,0.385
+Q67598192,Mechanosensitive Calcium Channel,Q67598192,0.385
+Q24769419,"Sodium-dependent phosphate transport protein 4 , predicted",Q24769419,0.385
+Q67598199,Cytoadherence-linked Asexual Protein 3.2 of Plasmodium falciparum,Q67598199,0.385
+Q67598227,Calcium Load-activated Calcium Channel,Q67598227,0.385
+Q67599138,Omp50 Porin Omp50,Q67599138,0.385
+Q67599152,Putative Beta Barrel Porin-5,Q67599152,0.385
+Q67646780,diphtheria toxin family,Q67646780,0.385
+Q67599133,Legionella Major-Outer Membrane Protein,Q67599133,0.385
+Q67598901,Proteobacterial Outer Membrane Porin,Q67598901,0.385
+Q67598159,Coronavirus Viroporin E Protein,Q67598159,0.385
+Q67598224,Flagellar Biosynthesis Na+ Channel,Q67598224,0.385
+Q67760604,Melittin family,Q67760604,0.385
+Q67599038,Chlamydial Porin,Q67599038,0.385
+Q67599042,Brucella-Rhizobium Porin,Q67599042,0.385
+Q67598225,Mixed Lineage Kinase Domain-like,Q67598225,0.385
+Q67598237,Small Integral Membrane Protein,Q67598237,0.385
+Q67780364,tripartite haemolysin BL,Q67780364,0.385
+Q24780605,"Concentrative nucleoside transporter, nematoda",Q24780605,0.385
+Q67599109,Coxiella Porin P1,Q67599109,0.385
+Q68440279,gassericin,Q68440279,0.38
+Q67599087,Fusobacterial Outer Membrane Porin,Q67599087,0.38
+Q68433996,Clostridium perfringens enterotoxin,Q68433996,0.38
+Q67599045,Rhodobacter PorCa Porin,Q67599045,0.38
+Q83401131,"mercury detoxification system, bacterial",Q83401131,0.38
+Q67598173,Colicin Lysis Protein,Q67598173,0.38
+Q67599118,"Acid-fast Bacterial, Outer Membrane Porin",Q67599118,0.38
+Q67599099,Borrelia Porin p13,Q67599099,0.38
+Q67598205,Rotavirus Non-structural Glycoprotein 4 Viroporin,Q67598205,0.38
+Q67599111,Treponema Porin,Q67599111,0.38
+Q67598219,Influenza A viroporin,Q67598219,0.38
+Q67598201,Reovirus Viroporin VP10,Q67598201,0.38
+Q67599178,Alpha-Aminoxy Acid Channel,Q67599178,0.38
+Q67598168,Molecule Against Microbes A,Q67598168,0.38
+Q67598216,Rhabdoviridae Putative Viroporin U5,Q67598216,0.38
+Q67598208,Human Polyoma Virus Viroporin,Q67598208,0.38
+Q67598116,Type C Influenza Virus CM2 Channel,Q67598116,0.38
+Q67599058,Raffinose Porin,Q67599058,0.38
+Q67598117,Human Immunodeficiency Virus Type I Vpu Channel,Q67598117,0.38
+Q67777971,Equinatoxin,Q67777971,0.38
+Q24773468,Mycoplasma MFS transporter,Q24773468,0.38
+Q67598123,Pore-forming Tail Tip pb2 Protein of Phage T5,Q67598123,0.38
+Q67599144,Imipenum resistance-associated porin,Q67599144,0.38
+Q67598119,Avian Reovirus p10 Viroporin/Glutamine Dumper 1,Q67598119,0.38
+Q67599121,Oms66 Porin,Q67599121,0.38
+Q67599100,Leptospira Porin OmpL1,Q67599100,0.38
+Q67599173,Putative Trans-Outer Membrane Electron Flow Porin,Q67599173,0.38
+Q67599145,Brucella Omp2 Porin,Q67599145,0.38
+Q67104708,virus-associated pyramid,Q67104708,0.38
+Q67599180,Outer Membrane Porin/Phospholipase A,Q67599180,0.38
+Q67599083,Plastid Outer Envelope Porin of 16 kDa,Q67599083,0.38
+Q67599092,Corynebacterial Porin A,Q67599092,0.38
+Q67598197,Human Metapneumovirus (HMPV) Viroporin,Q67598197,0.38
+Q67599184,Gordonia Outer Membrane Porin,Q67599184,0.38
+Q67599086,Campylobacter jejuni Major Outer Membrane Porin,Q67599086,0.38
+Q67599157,Proteobacterial/Verrucomicrobial Porin,Q67599157,0.38
+Q67599186,Putative Trichomonas Porin-2,Q67599186,0.38
+Q67599185,Putative Trichomonas Porin-1,Q67599185,0.38
+Q67599141,Putative Bacterial Porin,Q67599141,0.38
+Q67598213,Infectious Bronchitis Virus Envelope Small Membrane Protein E,Q67598213,0.38
+Q67598147,Type B Influenza Virus Matrix Protein 2,Q67598147,0.38
+Q67598212,Human T-Lymphotropic Virus 1 P13 protein,Q67598212,0.38
+Q67599177,Chloroplast Trigalactosyldiacylglycerol-4 Porin,Q67599177,0.38
+Q67599117,Anaplasma P44,Q67599117,0.38
+Q67598130,Human Coronavirus ns12.9 Viroporin,Q67598130,0.38
+Q67599114,Plastid Outer Envelope Porin of 37 kDa,Q67599114,0.38
+Q67599134,Nocardial Hetero-oligomeric Cell Wall Channel,Q67599134,0.38
+Q67598221,Simian Virus 5 (Parainfluenza Virus 5) SH,Q67598221,0.38
+Q67598190,Human Papilloma Virus type 16 (HPV16) L2 Viroporin,Q67598190,0.38
+Q67598210,Human Papillomavirus type 16 E5 Viroporin,Q67598210,0.38
+Q67598189,Poliovirus 2B Viroporin,Q67598189,0.38
+Q67598160,Pardaxin,Q67598160,0.38
+Q67598103,Type B Influenza Virus NB Channel,Q67598103,0.38
+Q67599124,Filamentous Phage g3p Channel-Forming Protein,Q67599124,0.38
+Q67598148,Bursal Disease Virus Pore-Forming Peptide,Q67598148,0.38
+Q67599082,Plastid Outer Envelope Porin of 21 kDa,Q67599082,0.38
+Q67599176,DUF2490 Putative Beta Barrel Porin,Q67599176,0.38
+Q67599136,"Outer Membrane Porin, PorH",Q67599136,0.38
+Q67598138,Hepatitis C Virus P7 Viroporin Cation-selective Channel,Q67598138,0.38
+Q3001147,P/Q-type calcium channel,Q3001147,0.38
+Q67846708,C-type Natriuretic Peptide Family,Q67846708,0.38
+Q67598185,SV40 Virus Viroporin VP2,Q67598185,0.38
+Q67599171,DUF3374 Electron Transport-associated Porin,Q67599171,0.38
+Q67599077,Helicobacter Outer Membrane Porin,Q67599077,0.38
+Q67599162,Capsule Biogenesis/Assembly,Q67599162,0.38
+Q67598152,Insect Nodavirus Channel-forming Chain F,Q67598152,0.38
+Q67599163,Outer Membrane Beta Barrel L32 Protein,Q67599163,0.38
+Q67598203,Bluetongue Virus Non-Structural Protein 3 Viroporin,Q67598203,0.38
+Q67598081,Type A Influenza Virus Matrix-2 Channel,Q67598081,0.38
+Q67599150,Putative Beta Barrel Porin-4,Q67599150,0.38
+Q67599076,Cyclodextrin Porin,Q67599076,0.38
+Q735294,aspartate glutamate carrier,Q735294,0.38
+Q67598150,Mammalian Reovirus Pre-forming Peptide,Q67598150,0.38
+Q67599079,Plastid Outer Envelope Porin of 24 kDa,Q67599079,0.38
+Q67599160,Protochlamydial Outer Membrane Porin,Q67599160,0.38
+Q67599110,Probable Protein Translocating Porphyromonas gingivalis Porin,Q67599110,0.38
+Q67598195,Human Coronavirus 229E Viroporin,Q67598195,0.38
+Q67598207,Ephemerovirus Viroporin,Q67598207,0.38
+Q67598164,Viral Small Hydrophobic Viroporin,Q67598164,0.38
+Q78438089,Eye Pigment Precursor Transporter,Q78438089,0.33999999999999997
+Q70610922,Triose-phosphate Transporter,Q70610922,0.33999999999999997
+Q69381087,Eukaryotic Sterol Transporter,Q69381087,0.33999999999999997
+Q69997199,NEAT-domain containing methaemoglobin heme sequestration family,Q69997199,0.33499999999999996
+Q70366480,Ferripyochelin Transporter,Q70366480,0.31499999999999995
+Q70067612,Calcium-permeable Stress-gated Cation Channel,Q70067612,0.31499999999999995
+Q83278893,Vitamin Uptake Transporter,Q83278893,0.31499999999999995
+Q69458417,Excitatory Amino Acid Transporter,Q69458417,0.31
+Q26962325,glutamate receptor delta 2,Q26962325,0.3
+Q26921443,inositol trisphosphate receptor type 3,Q26921443,0.3
+Q27145282,acid-sensing ion channel 2,Q27145282,0.3
+Q26921442,inositol trisphosphate receptor type 2,Q26921442,0.3
+Q27145284,acid-sensing ion channel 3,Q27145284,0.295
+Q26921167,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3,Q26921167,0.295
+Q26916558,Cyclic nucleotide-gated channel alpha-2,Q26916558,0.295
+Q26991412,Aquaporin-0,Q26991412,0.295

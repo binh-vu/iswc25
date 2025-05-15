@@ -1,0 +1,4 @@
+{"source":"http://dbpedia.org/resource/Abkhazia","value":{"type":"Literal","value":"31400000000.0","datatype":"http://www.w3.org/2001/XMLSchema#float","language":null},"score":2490.0999999999995}
+{"source":"http://dbpedia.org/resource/Azerbaijan_Democratic_Republic","value":{"type":"Literal","value":"665000000.0","datatype":"http://www.w3.org/2001/XMLSchema#float","language":null},"score":952.8}
+{"source":"http://dbpedia.org/resource/Economic_Community_of_West_African_States","value":{"type":"Literal","value":"2015.0","datatype":"http://www.w3.org/2001/XMLSchema#float","language":null},"score":858.35}
+{"source":"http://dbpedia.org/resource/Craiova_Group","value":{"type":"Literal","value":"574562000000.0","datatype":"http://www.w3.org/2001/XMLSchema#float","language":null},"score":713.15}

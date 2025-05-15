@@ -1,0 +1,458 @@
+id,label,source,score
+Q35572,UEFA,Q35572,604.13
+Q168360,Confederation of African Football,Q168360,424.75500000000005
+Q253414,FIFA,Q253414,384.915
+Q83276,Asian Football Confederation,Q83276,381.0400000000001
+Q160549,CONCACAF,Q160549,345.63
+Q40970,International Olympic Committee,Q40970,312.30000000000007
+Q58733,CONMEBOL,Q58733,259.21
+Q164836,FIBA Europe,Q164836,229.04000000000002
+Q1158,World Athletics,Q1158,218.195
+Q180344,Oceania Football Confederation,Q180344,215.235
+Q845773,Confédération Mondiale des Activités Subaquatiques,Q845773,200.21
+Q223041,International Tennis Federation,Q223041,195.995
+Q543115,International Skating Union,Q543115,194.965
+Q46199,FIBA,Q46199,194.67
+Q1425415,International Life Saving Federation,Q1425415,181.48000000000002
+Q3799608,International Federation of Model Auto Racing,Q3799608,181.305
+Q1347403,FIBA Africa,Q1347403,176.475
+Q2657602,AIDA International,Q2657602,175.35500000000002
+Q548520,Gaelic Athletic Association,Q548520,168.18500000000003
+Q189289,World Aquatics,Q189289,165.575
+Q1144223,FIBA Asia,Q1144223,163.605
+Q102178,FIDE,Q102178,163.41000000000003
+Q48663,Union Cycliste Internationale,Q48663,160.535
+Q651333,International Handball Federation,Q651333,149.04999999999998
+Q190173,International Ice Hockey Federation,Q190173,148.36
+Q427863,FIBA Americas,Q427863,142.06
+Q369225,World Rugby,Q369225,139.98
+Q126638,Badminton World Federation,Q126638,136.62
+Q1361246,FIBA Oceania,Q1361246,136.47
+Q431852,Asian Volleyball Confederation,Q431852,129.19500000000002
+Q137853,World Surf League,Q137853,127.12
+Q601860,European Handball Federation,Q601860,125.47500000000001
+Q1666641,International Inline Skater Hockey Federation,Q1666641,123.03999999999999
+Q175386,International Paralympic Committee,Q175386,119.95000000000003
+Q727600,Asian Handball Federation,Q727600,110.25999999999999
+Q1125546,African Handball Confederation,Q1125546,109.84499999999998
+Q1110704,International Federation of Muaythai Associations,Q1110704,106.695
+Q212928,International Ski Federation,Q212928,104.26499999999999
+Q680032,WBSC Europe,Q680032,102.47500000000001
+Q6851,Fédération Internationale de Volleyball,Q6851,99.45
+Q1191347,International Judo Federation,Q1191347,95.39999999999999
+Q6854,European Volleyball Confederation,Q6854,95.165
+Q676065,European Athletic Association,Q676065,94.88
+Q427061,Union of North African Football Federations,Q427061,94.37
+Q1375117,South Asian Football Federation,Q1375117,91.71
+Q381929,World Sailing,Q381929,91.61500000000001
+Q684885,World Rowing,Q684885,87.765
+Q386731,Rugby Europe,Q386731,85.45
+Q688489,United World Wrestling,Q688489,82.935
+Q28134505,International Federation of Cerebral Palsy Football,Q28134505,82.84500000000001
+Q297590,ASEAN Football Federation,Q297590,81.99000000000001
+Q974919,African Volleyball Confederation,Q974919,80.65
+Q722694,International Cricket Council,Q722694,79.805
+Q708793,International Shooting Sport Federation,Q708793,79.275
+Q844293,Olympic Council of Asia,Q844293,78.65
+Q684867,World Archery Federation,Q684867,77.42000000000002
+Q1060432,World Curling Federation,Q1060432,77.21000000000001
+Q2985456,Gaelic Games Europe,Q2985456,75.105
+Q11362472,World Baseball Softball Confederation,Q11362472,74.805
+Q379079,International Federation of Gymnastics,Q379079,73.61
+Q2948007,World Flying Disc Federation,Q2948007,73.41000000000001
+Q724450,World Boxing Council,Q724450,72.955
+Q846598,East Asian Football Federation,Q846598,72.77000000000001
+Q242791,Kyokushin kaikan,Q242791,72.60000000000001
+Q870081,International Hockey Federation,Q870081,71.085
+Q1124871,Atletismo Sudamericano,Q1124871,71.02000000000001
+Q169333,CECAFA,Q169333,70.75
+Q1786570,World Darts Federation,Q1786570,69.355
+Q178695,International Fencing Federation,Q178695,68.80999999999999
+Q2713535,World Bridge Federation,Q2713535,68.625
+Q369329,Union of Arab Football Associations,Q369329,68.49499999999999
+Q375033,Caribbean Football Union,Q375033,68.44999999999999
+Q1780824,World Association of Kickboxing Organizations,Q1780824,67.985
+Q661379,International Table Tennis Federation,Q661379,67.86
+Q1666824,International Practical Shooting Confederation,Q1666824,67.71000000000001
+Q913687,International Weightlifting Federation,Q913687,67.43
+Q1474533,International Floorball Federation,Q1474533,67.205
+Q684857,International Canoe Federation,Q684857,66.71000000000001
+Q1352284,West African Football Union,Q1352284,66.4
+Q696406,World Taekwondo,Q696406,66.35
+Q627398,Pan-American Team Handball Federation,Q627398,65.825
+Q214130,Fédération Aéronautique Internationale,Q214130,65.49999999999999
+Q661178,International Climbing and Mountaineering Federation,Q661178,64.545
+Q1460622,International Orienteering Federation,Q1460622,64.45
+Q1058658,European Judo Union,Q1058658,64.09
+Q1125520,Rugby Africa,Q1125520,63.535
+Q3755382,Sambo International Federation,Q3755382,63.129999999999995
+Q2308450,Rugby League International Federation,Q2308450,63.08
+Q1635388,Oceania Continent Handball Federation,Q1635388,62.79
+Q1184076,WBSC Asia,Q1184076,62.625
+Q17047664,Central Asian Football Association,Q17047664,62.56
+Q1666542,International Federation of Sport Climbing,Q1666542,61.33999999999999
+Q1113307,International Netball Federation,Q1113307,61.0
+Q2013417,Oceania Athletics Association,Q2013417,60.975
+Q1400298,Federation of International Bandy,Q1400298,60.73500000000001
+Q383128,LEN,Q383128,60.54999999999999
+Q3799686,International School Sport Federation,Q3799686,60.504999999999995
+Q179412,Fédération Internationale de l'Automobile,Q179412,60.120000000000005
+Q20006782,European Ultimate Federation,Q20006782,59.29500000000001
+Q34896236,"North, Central America and Caribbean Volleyball Confederation",Q34896236,58.865
+Q1125554,Confederation of African Athletics,Q1125554,58.825
+Q2569631,Asia Swimming Federation,Q2569631,57.86000000000001
+Q743239,International Boxing Association,Q743239,57.68000000000001
+Q1047626,International Golf Federation,Q1047626,57.629999999999995
+Q1458017,European Cycling Union,Q1458017,55.970000000000006
+Q60584942,World Skate,Q60584942,55.71500000000001
+Q727299,Asian Athletics Association,Q727299,55.48
+Q2000365,"North American, Central American and Caribbean Athletic Association",Q2000365,54.660000000000004
+Q1376684,European Hockey Federation,Q1376684,54.655
+Q1480956,World Karate Federation,Q1480956,54.08
+Q1377017,European Table Tennis Union,Q1377017,53.750000000000014
+Q1320669,International Surfing Association,Q1320669,52.169999999999995
+Q79977130,South and Central America Handball Confederation,Q79977130,52.11000000000001
+Q79976853,North America and the Caribbean Handball Confederation,Q79976853,52.06
+Q1053117,Asian Cycling Confederation,Q1053117,50.955
+Q2174842,Rugby League European Federation,Q2174842,50.93000000000001
+Q2992626,Confédération Africaine de Cyclisme,Q2992626,50.900000000000006
+Q477657,International Federation for Equestrian Sports,Q477657,50.86000000000001
+Q2992802,Confederación Panamericana de Ciclismo,Q2992802,50.345
+Q3799690,International Sepaktakraw Federation,Q3799690,49.41
+Q1033129,African Swimming Confederation,Q1033129,49.17
+Q1154453,West Asian Football Federation,Q1154453,48.96
+Q25040884,Federation Internationale de Savate,Q25040884,48.690000000000005
+Q2866614,Asian Table Tennis Union,Q2866614,47.81999999999999
+Q2299353,Central African Football Federations' Union,Q2299353,47.615
+Q2639692,Asian Cricket Council,Q2639692,47.325
+Q204288,Federation of International Polo,Q204288,47.08
+Q147060,Asian Hockey Federation,Q147060,46.99
+Q8035606,World Croquet Federation,Q8035606,46.97
+Q1189918,International University Sports Federation,Q1189918,46.745000000000005
+Q693652,World Confederation of Billiards Sports,Q693652,46.71
+Q1502672,International Dragon Boat Federation,Q1502672,46.41
+Q2867672,European Canoe Association,Q2867672,46.355
+Q1666318,International Amateur Handball Federation,Q1666318,46.145
+Q3810998,Judo Union of Asia,Q3810998,46.06
+Q1199476,Panam Sports,Q1199476,45.78
+Q2013439,Oceania Swimming Association,Q2013439,45.14
+Q2030665,World Professional Billiards and Snooker Association,Q2030665,44.58500000000001
+Q637663,World Triathlon,Q637663,44.025000000000006
+Q2299530,World Squash Federation,Q2299530,43.545
+Q16254571,International Kiteboarding Association,Q16254571,43.459999999999994
+Q220204,International Kendo Federation,Q220204,43.285000000000004
+Q15999031,Confederation of Independent Football Associations,Q15999031,43.0
+Q799611,Badminton Europe,Q799611,42.95
+Q1150390,International Luge Federation,Q1150390,42.895
+Q2713525,Tug of War International Federation,Q2713525,42.81
+Q617533,Asia Rugby,Q617533,42.325
+Q1148954,WBSC Africa,Q1148954,42.01
+Q866910,International Biathlon Union,Q866910,41.85
+Q104842293,Asian Chess Federation,Q104842293,41.665
+Q1587877,International Mind Sports Association,Q1587877,41.625
+Q1818556,European Golf Association,Q1818556,41.615
+Q739643,International Federation of American Football,Q739643,41.34
+Q79131629,International Federation of Teqball,Q79131629,41.115
+Q495817,International e-Sports Federation,Q495817,41.02
+Q921135,International Go Federation,Q921135,40.650000000000006
+Q3606249,African Hockey Federation,Q3606249,40.545
+Q1400281,World Lacrosse,Q1400281,40.54
+Q3606247,African Judo Union,Q3606247,40.475
+Q38517974,International Confederation of Fullbore Rifle Associations,Q38517974,39.5
+Q667909,International Baseball Federation,Q667909,39.44
+Q673212,European Gymnastics,Q673212,39.435
+Q3686806,International Confederation of Sport Fishing,Q3686806,38.67
+Q430371,International Motorcycling Federation,Q430371,38.19
+Q2620252,International Softball Federation,Q2620252,37.89
+Q1347281,Union Internationale de Pentathlon Moderne,Q1347281,37.385000000000005
+Q4806771,Asian Weightlifting Federation,Q4806771,37.115
+Q1135111,Professional Squash Association,Q1135111,36.245
+Q2992794,Oceania Cycling Confederation,Q2992794,36.235
+Q5159797,Confederation of African Tennis,Q5159797,35.965
+Q4806724,Asian Paralympic Committee,Q4806724,35.715
+Q109967712,Asian Gymnastics Union,Q109967712,35.21
+Q642949,European Olympic Committees,Q642949,34.839999999999996
+Q547007,International Bobsleigh and Skeleton Federation,Q547007,34.53
+Q2299155,African Cricket Association,Q2299155,34.080000000000005
+Q2867470,World Surf League Europe,Q2867470,33.839999999999996
+Q631082,WBSC Oceania,Q631082,33.589999999999996
+Q742944,International Boxing Federation,Q742944,33.464999999999996
+Q674509,Tennis Europe,Q674509,33.345
+Q3040552,International Federation of Basque Pelota,Q3040552,32.940000000000005
+Q965326,Confederación Sudamericana de Voleibol,Q965326,32.68
+Q1111087,International Waterski & Wakeboard Federation,Q1111087,32.615
+Q4806260,Asia-Pacific Rugby League Confederation,Q4806260,32.23500000000001
+Q1666379,International Billiards and Snooker Federation,Q1666379,32.19
+Q12630377,European Taekwondo Federation,Q12630377,31.750000000000007
+Q4806754,Asian Tennis Federation,Q4806754,31.224999999999994
+Q1814268,Union Internationale Motonautique,Q1814268,30.815000000000005
+Q555388,Rugby Americas North,Q555388,30.345
+Q1265275,World Bowling,Q1265275,30.235000000000003
+Q1400291,Oceania Rugby,Q1400291,29.885000000000005
+Q3893020,Pan American Judo Confederation,Q3893020,29.845
+Q633389,Central American Football Union,Q633389,29.715
+Q799605,Badminton Asia Confederation,Q799605,29.545
+Q693871,European Chess Union,Q693871,29.515
+Q4806761,Asian Taekwondo Union,Q4806761,29.5
+Q270403,N.F.-Board,Q270403,29.489999999999995
+Q652860,International Powerlifting Federation,Q652860,29.42
+Q1376952,European Shooting Confederation,Q1376952,29.365
+Q3880733,Oceania Judo Union,Q3880733,29.355000000000004
+Q2593770,World Pool-Billiard Association,Q2593770,29.215
+Q7076187,Oceania Tennis Federation,Q7076187,28.975
+Q18395376,World Armwrestling Federation,Q18395376,28.875
+Q96372453,Asia-Pacific Golf Confederation,Q96372453,28.440000000000005
+Q2467765,European Fencing Confederation,Q2467765,28.08
+Q966758,International Military Sports Council,Q966758,28.035000000000004
+Q1028844,Oceania Hockey Federation,Q1028844,27.965
+Q2475218,International Korfball Federation,Q2475218,27.955000000000002
+Q48968446,Asian Boxing Confederation,Q48968446,27.400000000000002
+Q48999933,International Pole Sports Federation,Q48999933,27.390000000000004
+Q933092,International Blind Sports Federation,Q933092,26.880000000000003
+Q383980,Badminton Confederation of Africa,Q383980,26.85
+Q1764296,Ju-Jitsu International Federation,Q1764296,26.795
+Q109967554,Asian Equestrian Federation,Q109967554,26.53
+Q43060600,Arab Rugby Federation,Q43060600,26.525000000000002
+Q266562,International Fistball Association,Q266562,26.5
+Q10280598,International Mixed Martial Arts Federation,Q10280598,26.49
+Q1124869,Sudamérica Rugby,Q1124869,26.25
+Q25040258,World Mountain Running Association,Q25040258,26.225
+Q2019450,North American Football Union,Q2019450,26.190000000000005
+Q2420267,International Wushu Federation,Q2420267,26.14
+Q6048842,International Brazilian Jiu-Jitsu Federation,Q6048842,25.915
+Q57618193,World Seniors Tour,Q57618193,25.689999999999998
+Q105963050,International Kempo Federation,Q105963050,25.685000000000002
+Q1479335,Fédération Internationale de Roller Sports,Q1479335,25.685
+Q652616,European Cricket Council,Q652616,25.515
+Q97358700,Confederation of African Esports,Q97358700,25.465000000000003
+Q477785,International Aikido Federation,Q477785,25.07
+Q2985584,European Paralympic Committee,Q2985584,25.064999999999998
+Q3755385,International Federation of Sports Chiropractic,Q3755385,24.655
+Q56291320,Asian Electronic Sports Federation,Q56291320,24.18
+Q4806747,Asian Squash Federation,Q4806747,23.855000000000004
+Q5434540,Far East Model Car Association,Q5434540,23.76
+Q28003659,Asian Fencing Confederation,Q28003659,23.58
+Q843061,European Boxing Confederation,Q843061,23.575000000000003
+Q692362,AFL Europe,Q692362,23.45
+Q104842297,Asian Canoe Confederation,Q104842297,23.425
+Q1376883,European Pocket Billiard Federation,Q1376883,23.424999999999997
+Q55637924,World OCR,Q55637924,23.405
+Q14566766,International Ski Mountaineering Federation,Q14566766,23.27
+Q18418466,International Skyrunning Federation,Q18418466,23.13
+Q6049162,International Cheer Union,Q6049162,23.105
+Q108660964,World Union of Karate Do Federations,Q108660964,22.99
+Q60963820,International Union of Kettlebell Lifting,Q60963820,22.905
+Q48834935,Asian Shooting Confederation,Q48834935,22.895
+Q22017195,IFAF Europe,Q22017195,22.830000000000002
+Q18351897,International Tent Pegging Federation,Q18351897,22.665000000000003
+Q16637622,International Trampoline Federation,Q16637622,22.635
+Q55627266,Oceania Boxing Confederation,Q55627266,22.27
+Q783660,International Boxing Organization,Q783660,21.995
+Q8035774,World Golf Teachers Federation,Q8035774,21.849999999999998
+Q60963670,World Landsailing Organisation,Q60963670,21.785
+Q28048929,World Kickboxing Network,Q28048929,21.634999999999998
+Q3772626,European Karate Federation,Q3772626,21.595
+Q21897356,Weightlifting Federation of Africa,Q21897356,21.55
+Q5475998,Fourth Association of Model Auto Racing,Q5475998,20.985
+Q1125499,Confédération Européenne de Billard,Q1125499,20.955
+Q1473031,World DanceSport Federation,Q1473031,20.945
+Q1352843,World Badminton Federation,Q1352843,20.895000000000003
+Q887764,International Table Soccer Federation,Q887764,20.675
+Q2985509,International Rink Hockey Committee,Q2985509,20.57
+Q25110341,International Padel Federation,Q25110341,20.095
+Q2561953,Comité Européen de Rink-Hockey,Q2561953,19.85
+Q673603,Union Européenne de Motocyclisme,Q673603,19.785
+Q1666972,International Table Hockey Federation,Q1666972,19.6
+Q1479323,Fédération internationale catholique d'éducation physique et sportive,Q1479323,19.51
+Q3799609,International Federation of Sleddog Sports,Q3799609,19.41
+Q7582103,Squash Federation of Africa,Q7582103,19.35
+Q3799706,International Sumo Federation,Q3799706,19.310000000000002
+Q6054251,International Wheelchair and Amputee Sports Federation,Q6054251,19.27
+Q109255396,Federation for International FootGolf,Q109255396,19.215000000000003
+Q8035475,World Capoeira Federation,Q8035475,19.195000000000004
+Q3081913,International Association of Ultrarunners,Q3081913,19.150000000000002
+Q847053,Union Mondiale de Billard,Q847053,18.609999999999996
+Q16995023,International Pitch and Putt Association,Q16995023,18.570000000000004
+Q799620,Badminton Pan Am,Q799620,18.56
+Q4806739,Asian Skating Union,Q4806739,18.525000000000002
+Q25040059,International Trail Running Association,Q25040059,18.315
+Q1650783,Asian Federation of Netball Associations,Q1650783,18.169999999999998
+Q18489190,Federation of European Netball Associations,Q18489190,18.11
+Q25221406,Oceania Fencing Confederation,Q25221406,18.11
+Q1125593,Confédération Mondiale des Sports de Boules,Q1125593,17.790000000000003
+Q32859674,Spanish Anti-Doping Agency,Q32859674,17.740000000000002
+Q109406767,World Dodgeball Association,Q109406767,17.405
+Q5413219,European Softball Federation,Q5413219,17.185
+Q16683425,World Sport Stacking Association,Q16683425,17.135
+Q107463343,African Karate Federation,Q107463343,17.065
+Q3772715,Asian Karate Federation,Q3772715,16.47
+Q173233,FIA Contract Recognition Board,Q173233,16.465
+Q55561621,Futsal European Federation,Q55561621,15.840000000000002
+Q2992718,European Confederation of Roller Skating,Q2992718,15.635
+Q2608893,European Union of Futsal,Q2608893,15.075000000000001
+Q4891477,European Weightlifting Federation,Q4891477,15.045000000000002
+Q18712596,European Minifootball Federation,Q18712596,14.86
+Q115618501,World Field Target Federation,Q115618501,14.775
+Q256191,Badminton Oceania,Q256191,14.75
+Q1355085,International Correspondence Chess Federation,Q1355085,14.445
+Q6051690,Socialist Workers' Sport International,Q6051690,14.440000000000001
+Q14930398,African Carom Confederation,Q14930398,14.41
+Q1124828,Confederación Panamericana de Billar,Q1124828,14.285
+Q1190266,Oceania National Olympic Committees,Q1190266,14.180000000000001
+Q9053813,International Pencak Silat Federation,Q9053813,14.01
+Q19787934,UIAFA,Q19787934,13.51
+Q104842298,Asian Sailing Federation,Q104842298,13.174999999999997
+Q4806643,Asian GAA,Q4806643,13.065000000000001
+Q4058295,Asian Archery Federation,Q4058295,12.81
+Q7076185,Oceania Squash Federation,Q7076185,12.12
+Q5159798,Confederation of Asia Roller Sports,Q5159798,11.87
+Q2385978,World Futsal Association,Q2385978,11.86
+Q3091425,Federation of African Archery,Q3091425,11.81
+Q3091512,Oceania Table Tennis Federation,Q3091512,11.655000000000001
+Q8035678,World English-Language Scrabble Players' Association,Q8035678,11.5
+Q27925231,World Billiards,Q27925231,11.274999999999999
+Q3684404,Comité International des Sports des Sourds,Q3684404,10.995
+Q55614542,International Socca Federation,Q55614542,10.945
+Q1302359,International Federation of Cheerleading,Q1302359,10.875
+Q1759618,Worldloppet Ski Federation,Q1759618,10.77
+Q25059071,Mahjong International League,Q25059071,10.205000000000002
+Q12761950,Confederation of African Netball Associations,Q12761950,10.17
+Q7076184,Oceania Paralympic Committee,Q7076184,9.915
+Q7566023,South Asia Olympic Council,Q7566023,9.825
+Q375344,Women's Squash Association,Q375344,9.33
+Q6050963,International Hot Rod Association,Q6050963,8.885000000000002
+Q5413283,European Tenpin Bowling Federation,Q5413283,8.79
+Q8035940,World Mahjong Organization,Q8035940,8.389999999999999
+Q3153329,International Wheelchair Basketball Federation,Q3153329,8.325000000000001
+Q24185074,Association of African Sports Confederations,Q24185074,8.285
+Q3310957,Pan American Federation of American Football,Q3310957,8.205000000000002
+Q21891752,IFAF Africa,Q21891752,7.715
+Q15733081,Panamerican Karate Federation,Q15733081,7.609999999999999
+Q20983977,West Asian Billiards & Snooker Federation,Q20983977,7.41
+Q9392343,Association of the Balkan Athletics Federations,Q9392343,7.340000000000001
+Q15811088,,Q15811088,7.274999999999999
+Q55637925,World Skating Federation,Q55637925,7.140000000000001
+Q6055327,Internationaler Fernschachbund,Q6055327,6.970000000000001
+Q116148325,World Boxing,Q116148325,6.955
+Q4806592,Asian Carrom Confederation,Q4806592,6.8500000000000005
+Q6944492,Muzzle Loading Associations International Committee,Q6944492,6.6899999999999995
+Q66686019,World Women’s Snooker,Q66686019,6.565000000000001
+Q4179416,Oceania Federation of American Football,Q4179416,6.4750000000000005
+Q8036011,World Organization Volleyball for Disabled,Q8036011,6.265
+Q942485,European Kendo Federation,Q942485,6.234999999999999
+Q6054241,International Wheelchair Rugby Federation,Q6054241,6.065
+Q55394491,African Minifootball Federation,Q55394491,5.870000000000001
+Q2734187,Athletic Association of Small States of Europe,Q2734187,5.65
+Q108315000,Asian Minifootball Confederation,Q108315000,5.54
+Q623190,International Snowboard Federation,Q623190,5.265000000000001
+Q17022357,Women's International Squash Players Association,Q17022357,5.2250000000000005
+Q4783163,Arab Chess Federation,Q4783163,5.17
+Q11284666,African Boxing Union,Q11284666,5.135000000000001
+Q4896805,International Ball game Confederation,Q4896805,5.105
+Q45112523,European Minigolf Sport Federation,Q45112523,5.085
+Q8035769,World Genseiryū Karatedō Federation,Q8035769,5.035
+Q64006974,GAMMA Federation,Q64006974,4.665
+Q5329737,East and Central Africa Cricket Conference,Q5329737,4.245
+Q5425970,FITASC,Q5425970,4.095
+Q30632382,World Benchrest Shooting Federation,Q30632382,4.015
+Q174071,Fédération Internationale du Sport Automobile,Q174071,3.8950000000000005
+Q1424317,International Women's Sports Federation,Q1424317,3.705
+Q825134,National Amateur Bodybuilders Association,Q825134,3.5250000000000004
+Q6051658,International Karate Organization,Q6051658,3.33
+Q47516243,European Amputee Football Federation,Q47516243,2.98
+Q5511522,Fédération Internationale de Boules,Q5511522,2.86
+Q11502606,Shinkyokushinkai,Q11502606,2.83
+Q2558610,International Council of Sport Science and Physical Education,Q2558610,2.74
+Q11362258,World Xiangqi Federation,Q11362258,2.71
+Q28448284,African Table Tennis Federation,Q28448284,2.6950000000000003
+Q25058631,Asia Masters Athletics,Q25058631,2.3400000000000003
+Q7984245,West Africa Cricket Council,Q7984245,2.34
+Q7076182,Oceania Confederation of Roller Sports,Q7076182,2.2150000000000003
+Q16843818,Boccia International Sports Federation,Q16843818,2.145
+Q22909821,World Fitness Federation,Q22909821,2.135
+Q55690048,Union Internationale des Fédérations des Amateurs de Billard,Q55690048,2.1100000000000003
+Q1114900,Comité International du Ski-Alpinisme de Compétition,Q1114900,2.095
+Q180366,TAFISA,Q180366,2.09
+Q6051656,International Kart Federation,Q6051656,2.055
+Q680218,International Field Archery Association,Q680218,2.04
+Q55690492,World Snooker Federation,Q55690492,1.8600000000000003
+Q4806730,Asian Racing Federation,Q4806730,1.845
+Q5425843,FIPFA,Q5425843,1.8399999999999999
+Q50383644,World Para Snowboard,Q50383644,1.82
+Q1479330,International Federation of Sports Medicine,Q1479330,1.8100000000000003
+Q11422427,International Kyudo Federation,Q11422427,1.625
+Q21828471,Fegentri,Q21828471,1.62
+Q67944291,European Rowing Confederation,Q67944291,1.52
+Q121787,World Minigolf Sport Federation,Q121787,1.3499999999999999
+Q28068544,Asian Rowing Federation,Q28068544,1.345
+Q5245774,Deaf International Basketball Federation,Q5245774,1.3399999999999999
+Q67206435,African Rowing Federation,Q67206435,1.31
+Q1247728,European Triathlon Union,Q1247728,1.295
+Q17222688,International Naginata Federation,Q17222688,1.26
+Q3063211,International Federation of Horseracing Authorities,Q3063211,1.2400000000000002
+Q10387962,,Q10387962,1.1649999999999998
+Q22981527,International Federation of Women's Hockey Associations,Q22981527,1.155
+Q5323856,EPFA,Q5323856,1.145
+Q24185246,Asia Pacific University Sports Union,Q24185246,1.145
+Q98380411,International Skiing Commission,Q98380411,1.055
+Q2530219,International Boxing Association,Q2530219,1.05
+Q2825705,International Futsal Federation,Q2825705,0.9750000000000001
+Q1710287,Ju-Jitsu European Union,Q1710287,0.9650000000000001
+Q72924257,,Q72924257,0.955
+Q67946080,Pan American Rowing Confederation,Q67946080,0.9500000000000001
+Q55758279,Fédération Internationale de Billard,Q55758279,0.8799999999999999
+Q18028938,Union Sportive des Polices d'Europe,Q18028938,0.8799999999999999
+Q33130789,Fédération Internationale de Pétanque et Jeu Provençal,Q33130789,0.87
+Q1376413,European Cheerleading Association,Q1376413,0.86
+Q1107957,International Chess Committee of the Deaf,Q1107957,0.86
+Q19834862,,Q19834862,0.855
+Q17163965,International Soft Tennis Federation,Q17163965,0.855
+Q16533567,Pan-American Rugby Association,Q16533567,0.79
+Q105616198,,Q105616198,0.775
+Q67379501,South American Rowing Confederation,Q67379501,0.765
+Q111604913,European Naginata Federation,Q111604913,0.765
+Q67945036,Oceania Rowing Confederation,Q67945036,0.76
+Q101844154,Association of Paralympic Sports Organisations,Q101844154,0.76
+Q3799682,International Racquetball Federation,Q3799682,0.76
+Q106282540,,Q106282540,0.68
+Q3550035,Mediterranean Athletics Union,Q3550035,0.6749999999999999
+Q17163951,International Federation Icestocksport,Q17163951,0.6699999999999999
+Q65140951,European Deaf Sport Organization,Q65140951,0.6699999999999999
+Q20421997,International Speedball Federation,Q20421997,0.6699999999999999
+Q13733230,International Speed Skating League,Q13733230,0.665
+Q2593816,World Snowboarding Federation,Q2593816,0.585
+Q55531726,Kinomichi International Instructors Association,Q55531726,0.575
+Q11464762,World Shorinji Kempo Organization,Q11464762,0.57
+Q2975816,International Boxing Council,Q2975816,0.57
+Q3799585,International Casting Sport Federation,Q3799585,0.57
+Q3091929,International Tchoukball Federation,Q3091929,0.57
+Q1365597,,Q1365597,0.57
+Q383928,Africa Triathlon,Q383928,0.57
+Q3799695,,Q3799695,0.57
+Q97667923,In-line Hockey European Committee,Q97667923,0.49000000000000005
+Q3091922,,Q3091922,0.485
+Q7490411,World Table Hockey Association,Q7490411,0.48
+Q61746909,,Q61746909,0.48
+Q21512324,,Q21512324,0.47500000000000003
+Q1125514,Confédération Européenne de Pétanque,Q1125514,0.47500000000000003
+Q6719675,,Q6719675,0.47500000000000003
+Q106341990,African Shooting Sport Federation,Q106341990,0.47500000000000003
+Q106437126,Confederation of African Canoeing,Q106437126,0.47500000000000003
+Q1800544,World Professional Boxing Federation,Q1800544,0.47500000000000003
+Q30892083,Pan American Softball Confederation,Q30892083,0.47500000000000003
+Q33130926,,Q33130926,0.39
+Q55504111,European Powerlifting Federation,Q55504111,0.385
+Q3091926,,Q3091926,0.385
+Q97368439,,Q97368439,0.38
+Q2013421,Oceania Triathlon,Q2013421,0.38
+Q3091923,Fédération Internationale de Horseball,Q3091923,0.38
+Q20422002,,Q20422002,0.38
+Q384462,African Taekwondo Union,Q384462,0.38
+Q97368587,International Federation Icestocksport,Q97368587,0.38
+Q3570033,,Q3570033,0.38
+Q60964748,International Francophone Games Committee,Q60964748,0.29
+Q3153257,,Q3153257,0.285
+Q2021373,World Racing Group,Q2021373,0.285
+Q106410109,African Boxing Confederation,Q106410109,0.285
+Q50392431,World Para Alpine Skiing,Q50392431,0.195
+Q4288157,,Q4288157,0.11000000000000001

@@ -1,0 +1,139 @@
+id,label,source,score
+Q13371,Harvard University,Q13371,595.4350000000001
+Q49088,Columbia University,Q49088,556.835
+Q41506,Stanford University,Q41506,524.09
+Q49117,University of Pennsylvania,Q49117,502.67
+Q49112,Yale University,Q49112,496.35
+Q21578,Princeton University,Q21578,471.0200000000001
+Q49115,Cornell University,Q49115,380.55
+Q49210,New York University,Q49210,347.53499999999997
+Q131252,University of Chicago,Q131252,345.49
+Q235034,University of Pittsburgh,Q235034,316.40500000000003
+Q49114,Brown University,Q49114,315.81500000000005
+Q4614,University of Southern California,Q4614,304.16
+Q333886,Georgetown University,Q333886,292.985
+Q617433,Syracuse University,Q617433,276.76
+Q49116,Dartmouth College,Q49116,260.09000000000003
+Q432637,George Washington University,Q432637,254.445
+Q7842,University of Tokyo,Q7842,248.79000000000002
+Q487556,University of Sydney,Q487556,228.9
+Q76473,University of Southampton,Q76473,227.0
+Q1401524,University of Santo Tomas,Q1401524,222.18999999999997
+Q190080,Carnegie Mellon University,Q190080,219.66
+Q459506,University of Bristol,Q459506,217.35000000000002
+Q1053944,Central Philippine University,Q1053944,205.245
+Q842909,Rice University,Q842909,201.595
+Q766145,University of Oregon,Q766145,194.13
+Q1815710,De La Salle University,Q1815710,193.385
+Q1521725,Louisiana State University,Q1521725,179.56500000000003
+Q969850,Stony Brook University,Q969850,173.26
+Q1138384,University of Mississippi,Q1138384,169.96000000000004
+Q1068258,University College Dublin,Q1068258,165.945
+Q2140778,Rochester Institute of Technology,Q2140778,152.35
+Q738236,National University of Singapore,Q738236,151.535
+Q533235,Ateneo de Manila University,Q533235,151.31500000000003
+Q736674,University of Colorado Boulder,Q736674,151.045
+Q861888,Oregon State University,Q861888,142.285
+Q627969,University of Ottawa,Q627969,136.94500000000002
+Q597236,Washington State University,Q597236,135.935
+Q1583940,Silliman University,Q1583940,129.64
+Q168000,American University,Q168000,128.85
+Q1150105,"University of Tennessee, Knoxville",Q1150105,127.565
+Q1343885,Monterrey Institute of Technology and Higher Education,Q1343885,126.905
+Q631066,Clemson University,Q631066,121.67000000000002
+Q746592,University of the Philippines,Q746592,120.24
+Q599316,New School,Q599316,116.995
+Q39913,Seoul National University,Q39913,116.94000000000001
+Q735049,"University of Maryland, Baltimore County",Q735049,116.34500000000001
+Q153265,University of Cincinnati,Q153265,116.28
+Q1169487,University of Ibadan,Q1169487,115.22500000000001
+Q1024426,University of South Carolina,Q1024426,109.685
+Q32746,National Taiwan University,Q32746,109.63
+Q1254897,Far Eastern University,Q1254897,108.525
+Q756126,Middle East Technical University,Q756126,106.955
+Q968559,University of North Dakota,Q968559,104.83
+Q603034,Drexel University,Q603034,101.17500000000001
+Q39988,Yonsei University,Q39988,100.47000000000001
+Q2302336,University of Montana,Q2302336,98.06500000000001
+Q11194540,National Dong Hwa University,Q11194540,95.63
+Q1939211,Mississippi State University,Q1939211,93.77
+Q1137652,Maastricht University,Q1137652,92.43
+Q4748684,Amrita Vishwa Vidyapeetham,Q4748684,89.595
+Q712849,National Chengchi University,Q712849,89.58
+Q1755318,University of Wisconsin–Milwaukee,Q1755318,85.835
+Q32751,National Sun Yat-sen University,Q32751,84.19
+Q536171,Polytechnic University of the Philippines,Q536171,84.185
+Q3550116,University of the Philippines Los Baños,Q3550116,83.41
+Q743615,University of Tsukuba,Q743615,81.59000000000002
+Q7896753,University of the Philippines Manila,Q7896753,80.28999999999999
+Q1854488,University of Idaho,Q1854488,80.19
+Q2000624,North Dakota State University,Q2000624,79.84
+Q538452,Babeș-Bolyai University,Q538452,78.59500000000001
+Q5018694,Montclair State University,Q5018694,77.84
+Q3056815,University of Huddersfield,Q3056815,73.3
+Q673354,University of St. Gallen,Q673354,71.255
+Q84151,Taras Shevchenko National University of Kyiv,Q84151,70.30499999999999
+Q1523902,Alexandru Ioan Cuza University,Q1523902,67.47500000000001
+Q1661751,University of Karachi,Q1661751,67.38
+Q1641788,University of Rhode Island,Q1641788,66.07
+Q3511498,Bayero University Kano,Q3511498,65.355
+Q835366,South China University of Technology,Q835366,64.42
+Q1656608,Idaho State University,Q1656608,63.04500000000001
+Q13140628,"Delta State University, Abraka",Q13140628,60.12
+Q3551569,Technological University of the Philippines,Q3551569,59.69
+Q1193155,Koç University,Q1193155,58.34
+Q1111367,Colorado School of Mines,Q1111367,57.88499999999999
+Q1258413,Universidad de Antioquia,Q1258413,56.08
+Q3551690,University of Winchester,Q3551690,55.33
+Q3347871,Indian Association for the Cultivation of Science,Q3347871,52.334999999999994
+Q3268248,Mapúa University,Q3268248,49.545
+Q861904,Bilkent University,Q861904,46.92
+Q1567050,Hacettepe University,Q1567050,46.04500000000001
+Q7895148,University of Burdwan,Q7895148,44.099999999999994
+Q7906647,VCU Medical Center,Q7906647,44.035
+Q7928229,Vidyasagar University,Q7928229,42.48499999999999
+Q12437401,West Bengal State University,Q12437401,41.88
+Q1551183,Chernivtsi University,Q1551183,40.55500000000001
+Q1674548,Beijing University of Technology,Q1674548,39.410000000000004
+Q6020720,"Indian Institute of Science Education and Research, Thiruvananthapuram",Q6020720,36.7
+Q6381094,Kazi Nazrul University,Q6381094,34.48500000000001
+Q7566809,South China Agricultural University,Q7566809,31.379999999999995
+Q3551649,"University of Campania ""Luigi Vanvitelli""",Q3551649,28.455
+Q6020697,"Indian Institute of Science Education and Research, Bhopal",Q6020697,27.435000000000002
+Q3707494,University of the Philippines Visayas,Q3707494,26.730000000000004
+Q4791264,Arizona Center for Medieval and Renaissance Studies,Q4791264,26.685000000000002
+Q1916637,Carol Davila University of Medicine and Pharmacy,Q1916637,26.380000000000003
+Q489331,Soongsil University,Q489331,24.37
+Q482663,Gangneung–Wonju National University,Q482663,23.62
+Q212297,Kwangwoon University,Q212297,23.549999999999997
+Q7896757,University of the Philippines Open University,Q7896757,23.39
+Q7395882,Sabancı University,Q7395882,23.115
+Q3550203,University of the Philippines Mindanao,Q3550203,22.615
+Q3550219,University of the Philippines Baguio,Q3550219,21.235
+Q9380725,WSB University,Q9380725,18.835
+Q1131169,Vasyl Stefanyk Prycarpathian National University,Q1131169,18.625
+Q3350524,Rabindra Bharati University,Q3350524,18.5
+Q626053,Hannam University,Q626053,14.990000000000002
+Q27988140,New School for Social Research,Q27988140,13.75
+Q4880622,BGC Trust University Bangladesh,Q4880622,13.725000000000001
+Q2908845,Reichman University,Q2908845,13.43
+Q482730,Pukyong National University,Q482730,13.285000000000004
+Q497259,Kangwon National University,Q497259,12.575
+Q1056886,First Pavlov State Medical University,Q1056886,11.945
+Q484900,Gwangju Institute of Science and Technology,Q484900,11.410000000000002
+Q3551550,Holy Angel University,Q3551550,10.310000000000002
+Q7227041,Polytechnic José Antonio Echeverría,Q7227041,10.305
+Q487836,Gyeongsang National University,Q487836,10.26
+Q1146856,Nile University,Q1146856,9.86
+Q482673,Kongju National University,Q482673,9.52
+Q25059155,Mindanao State University-Sulu,Q25059155,8.74
+Q25059201,Mindanao State University – Maguindanao,Q25059201,8.74
+Q65242323,list of research university in South Korea,Q65242323,8.365
+Q12591209,Daegu Gyeongbuk Institute of Science and Technology,Q12591209,7.775
+Q625111,Sangji University,Q625111,6.81
+Q30632856,University of the Philippines Los Baños Graduate School,Q30632856,6.27
+Q107350957,Campus UNED Guinea Ecuatorial,Q107350957,5.07
+Q3579363,Southeast Asia Interdisciplinary Development Institute (SAIDI),Q3579363,4.5
+Q30287601,Indian Institute of Advanced Research,Q30287601,2.67
+Q24714140,Conservatorio della Svizzera Italiana,Q24714140,1.445
+Q106642827,New School for Social Research (Graduate Faculty of Political and Social Science),Q106642827,1.25

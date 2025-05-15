@@ -1,0 +1,931 @@
+id,label,source,score
+http://dbpedia.org/resource/Sherlock_Holmes,Sherlock Holmes,http://dbpedia.org/resource/Sherlock_Holmes,208.97000000000003
+http://dbpedia.org/resource/Darth_Vader,Darth Vader,http://dbpedia.org/resource/Darth_Vader,199.78499999999997
+http://dbpedia.org/resource/Leatherface,Leatherface,http://dbpedia.org/resource/Leatherface,194.625
+http://dbpedia.org/resource/Rose_Tico,Rose Tico,http://dbpedia.org/resource/Rose_Tico,192.785
+http://dbpedia.org/resource/Admiral_Ackbar,Admiral Ackbar,http://dbpedia.org/resource/Admiral_Ackbar,176.54
+http://dbpedia.org/resource/Wilson_Edwards,Wilson Edwards,http://dbpedia.org/resource/Wilson_Edwards,174.8
+http://dbpedia.org/resource/Palpatine,Palpatine,http://dbpedia.org/resource/Palpatine,174.45499999999998
+http://dbpedia.org/resource/The_Doctor_(Doctor_Who),The Doctor (Doctor Who),http://dbpedia.org/resource/The_Doctor_(Doctor_Who),174.435
+http://dbpedia.org/resource/Morgan_le_Fay,Morgan le Fay,http://dbpedia.org/resource/Morgan_le_Fay,173.455
+http://dbpedia.org/resource/Zombie,Zombie,http://dbpedia.org/resource/Zombie,171.97
+http://dbpedia.org/resource/Grogu,Grogu,http://dbpedia.org/resource/Grogu,164.96
+http://dbpedia.org/resource/Lara_Croft,Lara Croft,http://dbpedia.org/resource/Lara_Croft,164.68
+http://dbpedia.org/resource/Bugs_Bunny,Bugs Bunny,http://dbpedia.org/resource/Bugs_Bunny,162.875
+http://dbpedia.org/resource/Peter_Parker_(Marvel_Cinematic_Universe),Peter Parker (Marvel Cinematic Universe),http://dbpedia.org/resource/Peter_Parker_(Marvel_Cinematic_Universe),161.60500000000002
+http://dbpedia.org/resource/Mai_Shiranui,Mai Shiranui,http://dbpedia.org/resource/Mai_Shiranui,156.995
+http://dbpedia.org/resource/Belle_(Beauty_and_the_Beast),Belle (Beauty and the Beast),http://dbpedia.org/resource/Belle_(Beauty_and_the_Beast),154.54
+http://dbpedia.org/resource/Mario,Mario,http://dbpedia.org/resource/Mario,153.95000000000002
+http://dbpedia.org/resource/Nero_Wolfe,Nero Wolfe,http://dbpedia.org/resource/Nero_Wolfe,152.04
+http://dbpedia.org/resource/Felicity_Smoak_(Arrowverse),Felicity Smoak (Arrowverse),http://dbpedia.org/resource/Felicity_Smoak_(Arrowverse),151.635
+http://dbpedia.org/resource/Evil_Queen_(Disney),Evil Queen (Disney),http://dbpedia.org/resource/Evil_Queen_(Disney),148.965
+http://dbpedia.org/resource/Boba_Fett,Boba Fett,http://dbpedia.org/resource/Boba_Fett,148.4
+http://dbpedia.org/resource/The_Master_(Doctor_Who),The Master (Doctor Who),http://dbpedia.org/resource/The_Master_(Doctor_Who),148.28
+http://dbpedia.org/resource/Donald_Duck,Donald Duck,http://dbpedia.org/resource/Donald_Duck,148.12499999999997
+http://dbpedia.org/resource/Mjolnir_(comics),Mjolnir (comics),http://dbpedia.org/resource/Mjolnir_(comics),146.81
+http://dbpedia.org/resource/The_Armorer,The Armorer,http://dbpedia.org/resource/The_Armorer,143.415
+http://dbpedia.org/resource/Mickey_Mouse,Mickey Mouse,http://dbpedia.org/resource/Mickey_Mouse,143.155
+http://dbpedia.org/resource/Gandalf,Gandalf,http://dbpedia.org/resource/Gandalf,140.62499999999997
+http://dbpedia.org/resource/Jay_Gatsby,Jay Gatsby,http://dbpedia.org/resource/Jay_Gatsby,140.465
+http://dbpedia.org/resource/Rei_Ayanami,Rei Ayanami,http://dbpedia.org/resource/Rei_Ayanami,140.27499999999998
+http://dbpedia.org/resource/Adrian_%22Fletch%22_Fletcher,"Adrian ""Fletch"" Fletcher",http://dbpedia.org/resource/Adrian_%22Fletch%22_Fletcher,139.93500000000003
+http://dbpedia.org/resource/Bib_Fortuna,Bib Fortuna,http://dbpedia.org/resource/Bib_Fortuna,139.62
+http://dbpedia.org/resource/Jack_Harkness,Jack Harkness,http://dbpedia.org/resource/Jack_Harkness,137.29500000000002
+http://dbpedia.org/resource/Karna,Karna,http://dbpedia.org/resource/Karna,136.04500000000002
+http://dbpedia.org/resource/Wile_E._Coyote_and_the_Road_Runner,Wile E. Coyote and the Road Runner,http://dbpedia.org/resource/Wile_E._Coyote_and_the_Road_Runner,135.32500000000002
+http://dbpedia.org/resource/Jareth,Jareth,http://dbpedia.org/resource/Jareth,134.73000000000002
+http://dbpedia.org/resource/Robin_Hood,Robin Hood,http://dbpedia.org/resource/Robin_Hood,134.31000000000003
+http://dbpedia.org/resource/Jasmine_(Aladdin),Jasmine (Aladdin),http://dbpedia.org/resource/Jasmine_(Aladdin),132.705
+http://dbpedia.org/resource/The_Mandalorian_(character),The Mandalorian (character),http://dbpedia.org/resource/The_Mandalorian_(character),132.26999999999998
+http://dbpedia.org/resource/Tony_Stark_(Marvel_Cinematic_Universe),Tony Stark (Marvel Cinematic Universe),http://dbpedia.org/resource/Tony_Stark_(Marvel_Cinematic_Universe),131.89999999999998
+http://dbpedia.org/resource/Odysseus,Odysseus,http://dbpedia.org/resource/Odysseus,131.24
+http://dbpedia.org/resource/Zorro,Zorro,http://dbpedia.org/resource/Zorro,130.41
+http://dbpedia.org/resource/Bruce_Banner_(Marvel_Cinematic_Universe),Bruce Banner (Marvel Cinematic Universe),http://dbpedia.org/resource/Bruce_Banner_(Marvel_Cinematic_Universe),130.055
+http://dbpedia.org/resource/Jac_Naylor,Jac Naylor,http://dbpedia.org/resource/Jac_Naylor,129.45000000000002
+http://dbpedia.org/resource/Conan_the_Barbarian,Conan the Barbarian,http://dbpedia.org/resource/Conan_the_Barbarian,129.21
+http://dbpedia.org/resource/Luke_Skywalker,Luke Skywalker,http://dbpedia.org/resource/Luke_Skywalker,128.59
+http://dbpedia.org/resource/Bruce_Wayne_(DC_Extended_Universe),Bruce Wayne (DC Extended Universe),http://dbpedia.org/resource/Bruce_Wayne_(DC_Extended_Universe),127.21
+http://dbpedia.org/resource/Popeye,Popeye,http://dbpedia.org/resource/Popeye,127.17500000000001
+http://dbpedia.org/resource/Thanos_(Marvel_Cinematic_Universe),Thanos (Marvel Cinematic Universe),http://dbpedia.org/resource/Thanos_(Marvel_Cinematic_Universe),125.93500000000002
+http://dbpedia.org/resource/Obi-Wan_Kenobi,Obi-Wan Kenobi,http://dbpedia.org/resource/Obi-Wan_Kenobi,125.555
+http://dbpedia.org/resource/Naruto_Uzumaki,Naruto Uzumaki,http://dbpedia.org/resource/Naruto_Uzumaki,124.84500000000001
+http://dbpedia.org/resource/Godzilla,Godzilla,http://dbpedia.org/resource/Godzilla,123.9
+http://dbpedia.org/resource/Elmer_Fudd,Elmer Fudd,http://dbpedia.org/resource/Elmer_Fudd,123.075
+http://dbpedia.org/resource/Norman_Osborn_(Sam_Raimi_film_series),Norman Osborn (Sam Raimi film series),http://dbpedia.org/resource/Norman_Osborn_(Sam_Raimi_film_series),122.56
+http://dbpedia.org/resource/Rachel_Green,Rachel Green,http://dbpedia.org/resource/Rachel_Green,122.26000000000002
+http://dbpedia.org/resource/Joe_Biden_(The_Onion),Joe Biden (The Onion),http://dbpedia.org/resource/Joe_Biden_(The_Onion),121.80500000000002
+http://dbpedia.org/resource/Logan_(film_character),Logan (film character),http://dbpedia.org/resource/Logan_(film_character),121.775
+http://dbpedia.org/resource/Shinji_Ikari,Shinji Ikari,http://dbpedia.org/resource/Shinji_Ikari,120.46999999999998
+http://dbpedia.org/resource/Peter_Parker_(Sam_Raimi_film_series),Peter Parker (Sam Raimi film series),http://dbpedia.org/resource/Peter_Parker_(Sam_Raimi_film_series),119.19
+http://dbpedia.org/resource/Bantha,Bantha,http://dbpedia.org/resource/Bantha,118.93
+http://dbpedia.org/resource/Sarah_Williams_(Labyrinth),Sarah Williams (Labyrinth),http://dbpedia.org/resource/Sarah_Williams_(Labyrinth),118.41500000000002
+http://dbpedia.org/resource/Seeley_Booth,Seeley Booth,http://dbpedia.org/resource/Seeley_Booth,118.255
+http://dbpedia.org/resource/Bart_Simpson,Bart Simpson,http://dbpedia.org/resource/Bart_Simpson,118.23500000000001
+http://dbpedia.org/resource/Clark_Kent_(Superman_&_Lois),Clark Kent (Superman & Lois),http://dbpedia.org/resource/Clark_Kent_(Superman_&_Lois),118.085
+http://dbpedia.org/resource/Peter_Parker_(The_Amazing_Spider-Man_film_series),Peter Parker (The Amazing Spider-Man film series),http://dbpedia.org/resource/Peter_Parker_(The_Amazing_Spider-Man_film_series),116.745
+http://dbpedia.org/resource/Homer_Simpson,Homer Simpson,http://dbpedia.org/resource/Homer_Simpson,116.46500000000002
+http://dbpedia.org/resource/Ursula_(The_Little_Mermaid),Ursula (The Little Mermaid),http://dbpedia.org/resource/Ursula_(The_Little_Mermaid),116.38000000000002
+http://dbpedia.org/resource/Sauron,Sauron,http://dbpedia.org/resource/Sauron,116.22000000000001
+http://dbpedia.org/resource/Asuka_Langley_Soryu,Asuka Langley Soryu,http://dbpedia.org/resource/Asuka_Langley_Soryu,115.99499999999999
+http://dbpedia.org/resource/Rick_Grimes,Rick Grimes,http://dbpedia.org/resource/Rick_Grimes,115.985
+http://dbpedia.org/resource/Link_(The_Legend_of_Zelda),Link (The Legend of Zelda),http://dbpedia.org/resource/Link_(The_Legend_of_Zelda),115.505
+http://dbpedia.org/resource/Goku,Goku,http://dbpedia.org/resource/Goku,115.11000000000001
+http://dbpedia.org/resource/Monica_Geller,Monica Geller,http://dbpedia.org/resource/Monica_Geller,115.06000000000002
+http://dbpedia.org/resource/Denise_Huxtable,Denise Huxtable,http://dbpedia.org/resource/Denise_Huxtable,114.38999999999999
+http://dbpedia.org/resource/Aurora_(Sleeping_Beauty),Aurora (Sleeping Beauty),http://dbpedia.org/resource/Aurora_(Sleeping_Beauty),113.86000000000001
+http://dbpedia.org/resource/Daffy_Duck,Daffy Duck,http://dbpedia.org/resource/Daffy_Duck,113.80000000000001
+http://dbpedia.org/resource/Merlin,Merlin,http://dbpedia.org/resource/Merlin,112.625
+http://dbpedia.org/resource/Puss_in_Boots_(Shrek),Puss in Boots (Shrek),http://dbpedia.org/resource/Puss_in_Boots_(Shrek),112.115
+http://dbpedia.org/resource/Natasha_Romanoff_(Marvel_Cinematic_Universe),Natasha Romanoff (Marvel Cinematic Universe),http://dbpedia.org/resource/Natasha_Romanoff_(Marvel_Cinematic_Universe),112.05000000000001
+http://dbpedia.org/resource/Superman_(DC_Extended_Universe),Superman (DC Extended Universe),http://dbpedia.org/resource/Superman_(DC_Extended_Universe),110.905
+http://dbpedia.org/resource/Thor_(Marvel_Cinematic_Universe),Thor (Marvel Cinematic Universe),http://dbpedia.org/resource/Thor_(Marvel_Cinematic_Universe),110.745
+http://dbpedia.org/resource/Jade_Lovall,Jade Lovall,http://dbpedia.org/resource/Jade_Lovall,110.69500000000001
+http://dbpedia.org/resource/Jack_Sparrow,Jack Sparrow,http://dbpedia.org/resource/Jack_Sparrow,109.41
+http://dbpedia.org/resource/Diana_Prince_(DC_Extended_Universe),Diana Prince (DC Extended Universe),http://dbpedia.org/resource/Diana_Prince_(DC_Extended_Universe),108.74
+http://dbpedia.org/resource/Kasumi_(Dead_or_Alive),Kasumi (Dead or Alive),http://dbpedia.org/resource/Kasumi_(Dead_or_Alive),108.535
+http://dbpedia.org/resource/Nancy_Drew,Nancy Drew,http://dbpedia.org/resource/Nancy_Drew,108.49
+http://dbpedia.org/resource/C-3PO,C-3PO,http://dbpedia.org/resource/C-3PO,108.325
+http://dbpedia.org/resource/Cloud_Strife,Cloud Strife,http://dbpedia.org/resource/Cloud_Strife,108.18
+http://dbpedia.org/resource/Jason_Voorhees,Jason Voorhees,http://dbpedia.org/resource/Jason_Voorhees,107.51500000000001
+http://dbpedia.org/resource/Scar_(The_Lion_King),Scar (The Lion King),http://dbpedia.org/resource/Scar_(The_Lion_King),107.435
+http://dbpedia.org/resource/Jabba_the_Hutt,Jabba the Hutt,http://dbpedia.org/resource/Jabba_the_Hutt,107.18
+http://dbpedia.org/resource/James_Bond_(literary_character),James Bond (literary character),http://dbpedia.org/resource/James_Bond_(literary_character),106.525
+http://dbpedia.org/resource/Daenerys_Targaryen,Daenerys Targaryen,http://dbpedia.org/resource/Daenerys_Targaryen,106.325
+http://dbpedia.org/resource/Kitana,Kitana,http://dbpedia.org/resource/Kitana,105.28999999999999
+http://dbpedia.org/resource/Barbie,Barbie,http://dbpedia.org/resource/Barbie,104.405
+http://dbpedia.org/resource/Gwen_Cooper,Gwen Cooper,http://dbpedia.org/resource/Gwen_Cooper,103.65
+http://dbpedia.org/resource/Sven_(Frozen),Sven (Frozen),http://dbpedia.org/resource/Sven_(Frozen),103.335
+http://dbpedia.org/resource/Chun-Li,Chun-Li,http://dbpedia.org/resource/Chun-Li,102.83
+http://dbpedia.org/resource/Stephen_Colbert_(character),Stephen Colbert (character),http://dbpedia.org/resource/Stephen_Colbert_(character),102.79999999999998
+http://dbpedia.org/resource/Sasuke_Uchiha,Sasuke Uchiha,http://dbpedia.org/resource/Sasuke_Uchiha,102.505
+http://dbpedia.org/resource/Jill_Valentine,Jill Valentine,http://dbpedia.org/resource/Jill_Valentine,101.89999999999999
+http://dbpedia.org/resource/Violet_Parr,Violet Parr,http://dbpedia.org/resource/Violet_Parr,101.86
+http://dbpedia.org/resource/Jeeves,Jeeves,http://dbpedia.org/resource/Jeeves,101.79000000000002
+http://dbpedia.org/resource/MJ_(Marvel_Cinematic_Universe),MJ (Marvel Cinematic Universe),http://dbpedia.org/resource/MJ_(Marvel_Cinematic_Universe),101.71000000000001
+http://dbpedia.org/resource/Yoda,Yoda,http://dbpedia.org/resource/Yoda,101.655
+http://dbpedia.org/resource/Pepe_the_Frog,Pepe the Frog,http://dbpedia.org/resource/Pepe_the_Frog,101.48
+http://dbpedia.org/resource/Kaworu_Nagisa,Kaworu Nagisa,http://dbpedia.org/resource/Kaworu_Nagisa,101.25
+http://dbpedia.org/resource/Lofty_Chiltern,Lofty Chiltern,http://dbpedia.org/resource/Lofty_Chiltern,101.235
+http://dbpedia.org/resource/Damocles,Damocles,http://dbpedia.org/resource/Damocles,101.025
+http://dbpedia.org/resource/Monkey_D._Luffy,Monkey D. Luffy,http://dbpedia.org/resource/Monkey_D._Luffy,100.83500000000001
+http://dbpedia.org/resource/Tarzan,Tarzan,http://dbpedia.org/resource/Tarzan,100.67000000000002
+http://dbpedia.org/resource/Nick_Fury_(Marvel_Cinematic_Universe),Nick Fury (Marvel Cinematic Universe),http://dbpedia.org/resource/Nick_Fury_(Marvel_Cinematic_Universe),100.66
+http://dbpedia.org/resource/Gawain,Gawain,http://dbpedia.org/resource/Gawain,100.62
+http://dbpedia.org/resource/Galadriel,Galadriel,http://dbpedia.org/resource/Galadriel,100.5
+http://dbpedia.org/resource/Joker_(The_Dark_Knight),Joker (The Dark Knight),http://dbpedia.org/resource/Joker_(The_Dark_Knight),100.045
+http://dbpedia.org/resource/Tyrion_Lannister,Tyrion Lannister,http://dbpedia.org/resource/Tyrion_Lannister,99.87
+http://dbpedia.org/resource/Otto_Octavius_(film_character),Otto Octavius (film character),http://dbpedia.org/resource/Otto_Octavius_(film_character),99.515
+http://dbpedia.org/resource/Porky_Pig,Porky Pig,http://dbpedia.org/resource/Porky_Pig,99.36500000000001
+http://dbpedia.org/resource/Gollum,Gollum,http://dbpedia.org/resource/Gollum,99.285
+http://dbpedia.org/resource/King_Kong,King Kong,http://dbpedia.org/resource/King_Kong,99.185
+http://dbpedia.org/resource/Elrond,Elrond,http://dbpedia.org/resource/Elrond,99.18
+http://dbpedia.org/resource/Spock,Spock,http://dbpedia.org/resource/Spock,98.42
+http://dbpedia.org/resource/Emily_Gilmore,Emily Gilmore,http://dbpedia.org/resource/Emily_Gilmore,97.97000000000001
+http://dbpedia.org/resource/Munchkin,Munchkin,http://dbpedia.org/resource/Munchkin,97.555
+http://dbpedia.org/resource/Gendo_Ikari,Gendo Ikari,http://dbpedia.org/resource/Gendo_Ikari,97.20499999999998
+http://dbpedia.org/resource/J._Jonah_Jameson_(film_character),J. Jonah Jameson (film character),http://dbpedia.org/resource/J._Jonah_Jameson_(film_character),97.055
+http://dbpedia.org/resource/Grand_Admiral_Thrawn,Grand Admiral Thrawn,http://dbpedia.org/resource/Grand_Admiral_Thrawn,96.81
+http://dbpedia.org/resource/Marvin_the_Martian,Marvin the Martian,http://dbpedia.org/resource/Marvin_the_Martian,96.58
+http://dbpedia.org/resource/Wanda_Maximoff_(Marvel_Cinematic_Universe),Wanda Maximoff (Marvel Cinematic Universe),http://dbpedia.org/resource/Wanda_Maximoff_(Marvel_Cinematic_Universe),96.355
+http://dbpedia.org/resource/Ayane_(Dead_or_Alive),Ayane (Dead or Alive),http://dbpedia.org/resource/Ayane_(Dead_or_Alive),96.1
+http://dbpedia.org/resource/Uncle_Tom,Uncle Tom,http://dbpedia.org/resource/Uncle_Tom,96.05000000000001
+http://dbpedia.org/resource/Ziva_David,Ziva David,http://dbpedia.org/resource/Ziva_David,95.86500000000001
+http://dbpedia.org/resource/Saruman,Saruman,http://dbpedia.org/resource/Saruman,95.49
+http://dbpedia.org/resource/Han_Solo,Han Solo,http://dbpedia.org/resource/Han_Solo,95.375
+http://dbpedia.org/resource/Kratos_(God_of_War),Kratos (God of War),http://dbpedia.org/resource/Kratos_(God_of_War),95.31
+http://dbpedia.org/resource/Clair_Huxtable,Clair Huxtable,http://dbpedia.org/resource/Clair_Huxtable,94.97999999999999
+http://dbpedia.org/resource/Count_Dracula,Count Dracula,http://dbpedia.org/resource/Count_Dracula,94.80000000000001
+http://dbpedia.org/resource/Guinevere,Guinevere,http://dbpedia.org/resource/Guinevere,94.765
+http://dbpedia.org/resource/Winnie-the-Pooh,Winnie-the-Pooh,http://dbpedia.org/resource/Winnie-the-Pooh,94.7
+http://dbpedia.org/resource/Bruce_Wayne_(1989_film_series_character),Bruce Wayne (1989 film series character),http://dbpedia.org/resource/Bruce_Wayne_(1989_film_series_character),94.525
+http://dbpedia.org/resource/Captain_Hook,Captain Hook,http://dbpedia.org/resource/Captain_Hook,93.97500000000001
+http://dbpedia.org/resource/Donna_Jackson,Donna Jackson,http://dbpedia.org/resource/Donna_Jackson,93.295
+http://dbpedia.org/resource/Misato_Katsuragi,Misato Katsuragi,http://dbpedia.org/resource/Misato_Katsuragi,92.87
+http://dbpedia.org/resource/R2-D2,R2-D2,http://dbpedia.org/resource/R2-D2,92.335
+http://dbpedia.org/resource/Dante_(Devil_May_Cry),Dante (Devil May Cry),http://dbpedia.org/resource/Dante_(Devil_May_Cry),91.87
+http://dbpedia.org/resource/Hope_van_Dyne,Hope van Dyne,http://dbpedia.org/resource/Hope_van_Dyne,91.735
+http://dbpedia.org/resource/Padmé_Amidala,Padmé Amidala,http://dbpedia.org/resource/Padmé_Amidala,91.58
+http://dbpedia.org/resource/Pepé_Le_Pew,Pepé Le Pew,http://dbpedia.org/resource/Pepé_Le_Pew,91.58
+http://dbpedia.org/resource/Melinda_May,Melinda May,http://dbpedia.org/resource/Melinda_May,91.52
+http://dbpedia.org/resource/Shakuni,Shakuni,http://dbpedia.org/resource/Shakuni,91.31
+http://dbpedia.org/resource/Ryu_(Street_Fighter),Ryu (Street Fighter),http://dbpedia.org/resource/Ryu_(Street_Fighter),91.14
+http://dbpedia.org/resource/Kuiil,Kuiil,http://dbpedia.org/resource/Kuiil,90.985
+http://dbpedia.org/resource/Lisa_Simpson,Lisa Simpson,http://dbpedia.org/resource/Lisa_Simpson,90.67
+http://dbpedia.org/resource/Mewtwo,Mewtwo,http://dbpedia.org/resource/Mewtwo,90.57
+http://dbpedia.org/resource/Hercule_Poirot,Hercule Poirot,http://dbpedia.org/resource/Hercule_Poirot,90.47
+http://dbpedia.org/resource/Princess_Zelda,Princess Zelda,http://dbpedia.org/resource/Princess_Zelda,90.44999999999999
+http://dbpedia.org/resource/Pete_(Disney),Pete (Disney),http://dbpedia.org/resource/Pete_(Disney),90.44
+http://dbpedia.org/resource/Eilistraee,Eilistraee,http://dbpedia.org/resource/Eilistraee,90.41000000000001
+http://dbpedia.org/resource/Clark_Kent_(Smallville),Clark Kent (Smallville),http://dbpedia.org/resource/Clark_Kent_(Smallville),90.275
+http://dbpedia.org/resource/Devil_(Dungeons_&_Dragons),Devil (Dungeons & Dragons),http://dbpedia.org/resource/Devil_(Dungeons_&_Dragons),90.25
+http://dbpedia.org/resource/Captain_America's_shield,Captain America's shield,http://dbpedia.org/resource/Captain_America's_shield,90.25
+http://dbpedia.org/resource/Santana_Lopez,Santana Lopez,http://dbpedia.org/resource/Santana_Lopez,90.17
+http://dbpedia.org/resource/Saul_Goodman,Saul Goodman,http://dbpedia.org/resource/Saul_Goodman,90.155
+http://dbpedia.org/resource/Gaston_(Beauty_and_the_Beast),Gaston (Beauty and the Beast),http://dbpedia.org/resource/Gaston_(Beauty_and_the_Beast),90.11
+http://dbpedia.org/resource/Rose_Tyler,Rose Tyler,http://dbpedia.org/resource/Rose_Tyler,90.08500000000001
+http://dbpedia.org/resource/Laurel_Lance_(Arrowverse),Laurel Lance (Arrowverse),http://dbpedia.org/resource/Laurel_Lance_(Arrowverse),90.06
+http://dbpedia.org/resource/Mari_Illustrious_Makinami,Mari Illustrious Makinami,http://dbpedia.org/resource/Mari_Illustrious_Makinami,90.03999999999999
+http://dbpedia.org/resource/Harley_Quinn_(DC_Extended_Universe),Harley Quinn (DC Extended Universe),http://dbpedia.org/resource/Harley_Quinn_(DC_Extended_Universe),90.005
+http://dbpedia.org/resource/Venom_(Sony's_Spider-Man_Universe),Venom (Sony's Spider-Man Universe),http://dbpedia.org/resource/Venom_(Sony's_Spider-Man_Universe),89.775
+http://dbpedia.org/resource/Lady_of_the_Lake,Lady of the Lake,http://dbpedia.org/resource/Lady_of_the_Lake,89.565
+http://dbpedia.org/resource/Superman_(1978_film_series_character),Superman (1978 film series character),http://dbpedia.org/resource/Superman_(1978_film_series_character),89.54500000000002
+http://dbpedia.org/resource/Matt_Murdock_(Marvel_Cinematic_Universe),Matt Murdock (Marvel Cinematic Universe),http://dbpedia.org/resource/Matt_Murdock_(Marvel_Cinematic_Universe),89.4
+http://dbpedia.org/resource/Aragorn,Aragorn,http://dbpedia.org/resource/Aragorn,89.355
+http://dbpedia.org/resource/Jerome_and_Jeremiah_Valeska,Jerome and Jeremiah Valeska,http://dbpedia.org/resource/Jerome_and_Jeremiah_Valeska,89.28
+http://dbpedia.org/resource/Jon_Snow_(character),Jon Snow (character),http://dbpedia.org/resource/Jon_Snow_(character),89.23
+http://dbpedia.org/resource/Ultraman_Belial,Ultraman Belial,http://dbpedia.org/resource/Ultraman_Belial,89.16
+http://dbpedia.org/resource/Tom_Bombadil,Tom Bombadil,http://dbpedia.org/resource/Tom_Bombadil,89.05000000000001
+http://dbpedia.org/resource/Edna_Mode,Edna Mode,http://dbpedia.org/resource/Edna_Mode,89.03
+http://dbpedia.org/resource/Pikachu,Pikachu,http://dbpedia.org/resource/Pikachu,88.92500000000001
+http://dbpedia.org/resource/Ultraman_Zero,Ultraman Zero,http://dbpedia.org/resource/Ultraman_Zero,88.885
+http://dbpedia.org/resource/Jemma_Simmons,Jemma Simmons,http://dbpedia.org/resource/Jemma_Simmons,88.86
+http://dbpedia.org/resource/Rey_(Star_Wars),Rey (Star Wars),http://dbpedia.org/resource/Rey_(Star_Wars),88.705
+http://dbpedia.org/resource/Sylvester_the_Cat,Sylvester the Cat,http://dbpedia.org/resource/Sylvester_the_Cat,88.625
+http://dbpedia.org/resource/Joker_(Jack_Napier),Joker (Jack Napier),http://dbpedia.org/resource/Joker_(Jack_Napier),88.62
+http://dbpedia.org/resource/Shirou_Emiya,Shirou Emiya,http://dbpedia.org/resource/Shirou_Emiya,88.085
+http://dbpedia.org/resource/Yogi_Bear,Yogi Bear,http://dbpedia.org/resource/Yogi_Bear,87.975
+http://dbpedia.org/resource/Leo_Fitz,Leo Fitz,http://dbpedia.org/resource/Leo_Fitz,87.97
+http://dbpedia.org/resource/Clone_trooper,Clone trooper,http://dbpedia.org/resource/Clone_trooper,87.77
+http://dbpedia.org/resource/Baron_Munchausen,Baron Munchausen,http://dbpedia.org/resource/Baron_Munchausen,87.69
+http://dbpedia.org/resource/Jack_Reacher,Jack Reacher,http://dbpedia.org/resource/Jack_Reacher,87.62
+http://dbpedia.org/resource/Wade_Wilson_(film_character),Wade Wilson (film character),http://dbpedia.org/resource/Wade_Wilson_(film_character),87.60000000000001
+http://dbpedia.org/resource/Mon_Mothma,Mon Mothma,http://dbpedia.org/resource/Mon_Mothma,87.6
+http://dbpedia.org/resource/Lord_Voldemort,Lord Voldemort,http://dbpedia.org/resource/Lord_Voldemort,87.565
+http://dbpedia.org/resource/Sam_Wilson_(Marvel_Cinematic_Universe),Sam Wilson (Marvel Cinematic Universe),http://dbpedia.org/resource/Sam_Wilson_(Marvel_Cinematic_Universe),87.45500000000001
+http://dbpedia.org/resource/Oliver_Queen_(Arrowverse),Oliver Queen (Arrowverse),http://dbpedia.org/resource/Oliver_Queen_(Arrowverse),87.35000000000001
+http://dbpedia.org/resource/T'Challa_(Marvel_Cinematic_Universe),T'Challa (Marvel Cinematic Universe),http://dbpedia.org/resource/T'Challa_(Marvel_Cinematic_Universe),86.92500000000001
+http://dbpedia.org/resource/Ethan_Hardy,Ethan Hardy,http://dbpedia.org/resource/Ethan_Hardy,86.65500000000002
+http://dbpedia.org/resource/Kurt_Hummel,Kurt Hummel,http://dbpedia.org/resource/Kurt_Hummel,86.43
+http://dbpedia.org/resource/Elsa_(Frozen),Elsa (Frozen),http://dbpedia.org/resource/Elsa_(Frozen),86.36500000000001
+http://dbpedia.org/resource/Cinderella_(Disney_character),Cinderella (Disney character),http://dbpedia.org/resource/Cinderella_(Disney_character),86.29
+http://dbpedia.org/resource/Captain_Nemo,Captain Nemo,http://dbpedia.org/resource/Captain_Nemo,86.18
+http://dbpedia.org/resource/Barry_Allen_(DC_Extended_Universe),Barry Allen (DC Extended Universe),http://dbpedia.org/resource/Barry_Allen_(DC_Extended_Universe),86.07
+http://dbpedia.org/resource/George_Costanza,George Costanza,http://dbpedia.org/resource/George_Costanza,86.05499999999999
+http://dbpedia.org/resource/Peggy_Carter_(Marvel_Cinematic_Universe),Peggy Carter (Marvel Cinematic Universe),http://dbpedia.org/resource/Peggy_Carter_(Marvel_Cinematic_Universe),86.015
+http://dbpedia.org/resource/James_T._Kirk,James T. Kirk,http://dbpedia.org/resource/James_T._Kirk,85.96
+http://dbpedia.org/resource/Charizard,Charizard,http://dbpedia.org/resource/Charizard,85.57499999999999
+http://dbpedia.org/resource/Spike_(Buffy_the_Vampire_Slayer),Spike (Buffy the Vampire Slayer),http://dbpedia.org/resource/Spike_(Buffy_the_Vampire_Slayer),85.525
+http://dbpedia.org/resource/General_Grievous,General Grievous,http://dbpedia.org/resource/General_Grievous,85.485
+http://dbpedia.org/resource/Loki_(Marvel_Cinematic_Universe),Loki (Marvel Cinematic Universe),http://dbpedia.org/resource/Loki_(Marvel_Cinematic_Universe),85.38999999999999
+http://dbpedia.org/resource/Marty_Kirkby,Marty Kirkby,http://dbpedia.org/resource/Marty_Kirkby,85.295
+http://dbpedia.org/resource/Glorfindel,Glorfindel,http://dbpedia.org/resource/Glorfindel,85.145
+http://dbpedia.org/resource/Peter_Parker_(Insomniac_Games_character),Peter Parker (Insomniac Games character),http://dbpedia.org/resource/Peter_Parker_(Insomniac_Games_character),84.835
+http://dbpedia.org/resource/Becky_Sharp,Becky Sharp,http://dbpedia.org/resource/Becky_Sharp,84.58
+http://dbpedia.org/resource/Liz_Lemon,Liz Lemon,http://dbpedia.org/resource/Liz_Lemon,84.41999999999999
+http://dbpedia.org/resource/Harrison_Wells,Harrison Wells,http://dbpedia.org/resource/Harrison_Wells,84.405
+http://dbpedia.org/resource/Sideshow_Bob,Sideshow Bob,http://dbpedia.org/resource/Sideshow_Bob,84.34
+http://dbpedia.org/resource/Tidus,Tidus,http://dbpedia.org/resource/Tidus,84.22
+http://dbpedia.org/resource/Indiana_Jones_(character),Indiana Jones (character),http://dbpedia.org/resource/Indiana_Jones_(character),84.11500000000001
+http://dbpedia.org/resource/Homura_Akemi,Homura Akemi,http://dbpedia.org/resource/Homura_Akemi,84.075
+http://dbpedia.org/resource/Morrigan_Aensland,Morrigan Aensland,http://dbpedia.org/resource/Morrigan_Aensland,84.00999999999999
+http://dbpedia.org/resource/Carol_Peletier,Carol Peletier,http://dbpedia.org/resource/Carol_Peletier,84.005
+http://dbpedia.org/resource/Woody_(Toy_Story),Woody (Toy Story),http://dbpedia.org/resource/Woody_(Toy_Story),83.98
+http://dbpedia.org/resource/Arnold_Rimmer,Arnold Rimmer,http://dbpedia.org/resource/Arnold_Rimmer,83.915
+http://dbpedia.org/resource/Ron_Swanson,Ron Swanson,http://dbpedia.org/resource/Ron_Swanson,83.78500000000001
+http://dbpedia.org/resource/Dominic_Copeland,Dominic Copeland,http://dbpedia.org/resource/Dominic_Copeland,83.755
+http://dbpedia.org/resource/Peter_Pan,Peter Pan,http://dbpedia.org/resource/Peter_Pan,83.61500000000001
+http://dbpedia.org/resource/Moana_(character),Moana (character),http://dbpedia.org/resource/Moana_(character),83.555
+http://dbpedia.org/resource/Simba,Simba,http://dbpedia.org/resource/Simba,83.555
+http://dbpedia.org/resource/Sonic_the_Hedgehog_(character),Sonic the Hedgehog (character),http://dbpedia.org/resource/Sonic_the_Hedgehog_(character),83.45
+http://dbpedia.org/resource/Blaine_Anderson,Blaine Anderson,http://dbpedia.org/resource/Blaine_Anderson,83.155
+http://dbpedia.org/resource/Daisy_Buchanan,Daisy Buchanan,http://dbpedia.org/resource/Daisy_Buchanan,82.97500000000001
+http://dbpedia.org/resource/Feluda,Feluda,http://dbpedia.org/resource/Feluda,82.7
+http://dbpedia.org/resource/Hello_Kitty,Hello Kitty,http://dbpedia.org/resource/Hello_Kitty,82.5
+http://dbpedia.org/resource/Kato_(The_Green_Hornet),Kato (The Green Hornet),http://dbpedia.org/resource/Kato_(The_Green_Hornet),82.485
+http://dbpedia.org/resource/Tweety,Tweety,http://dbpedia.org/resource/Tweety,82.39500000000001
+http://dbpedia.org/resource/Moff_Gideon,Moff Gideon,http://dbpedia.org/resource/Moff_Gideon,82.39
+http://dbpedia.org/resource/Anya_(Anastasia),Anya (Anastasia),http://dbpedia.org/resource/Anya_(Anastasia),82.34500000000001
+http://dbpedia.org/resource/Harmon_Rabb,Harmon Rabb,http://dbpedia.org/resource/Harmon_Rabb,82.195
+http://dbpedia.org/resource/Bucky_Barnes_(Marvel_Cinematic_Universe),Bucky Barnes (Marvel Cinematic Universe),http://dbpedia.org/resource/Bucky_Barnes_(Marvel_Cinematic_Universe),82.125
+http://dbpedia.org/resource/Kim_Possible_(character),Kim Possible (character),http://dbpedia.org/resource/Kim_Possible_(character),81.97500000000001
+http://dbpedia.org/resource/Shuri_(Marvel_Cinematic_Universe),Shuri (Marvel Cinematic Universe),http://dbpedia.org/resource/Shuri_(Marvel_Cinematic_Universe),81.93
+http://dbpedia.org/resource/Marge_Simpson,Marge Simpson,http://dbpedia.org/resource/Marge_Simpson,81.92500000000001
+http://dbpedia.org/resource/Ahsoka_Tano,Ahsoka Tano,http://dbpedia.org/resource/Ahsoka_Tano,81.465
+http://dbpedia.org/resource/Clint_Barton_(Marvel_Cinematic_Universe),Clint Barton (Marvel Cinematic Universe),http://dbpedia.org/resource/Clint_Barton_(Marvel_Cinematic_Universe),81.4
+http://dbpedia.org/resource/Frank_Underwood_(House_of_Cards),Frank Underwood (House of Cards),http://dbpedia.org/resource/Frank_Underwood_(House_of_Cards),81.26999999999998
+http://dbpedia.org/resource/Carol_Danvers_(Marvel_Cinematic_Universe),Carol Danvers (Marvel Cinematic Universe),http://dbpedia.org/resource/Carol_Danvers_(Marvel_Cinematic_Universe),81.195
+http://dbpedia.org/resource/Felix_the_Cat,Felix the Cat,http://dbpedia.org/resource/Felix_the_Cat,81.19
+http://dbpedia.org/resource/King_Ghidorah,King Ghidorah,http://dbpedia.org/resource/King_Ghidorah,81.08999999999999
+http://dbpedia.org/resource/Jin_Kazama,Jin Kazama,http://dbpedia.org/resource/Jin_Kazama,81.07
+http://dbpedia.org/resource/Lando_Calrissian,Lando Calrissian,http://dbpedia.org/resource/Lando_Calrissian,81.04500000000002
+http://dbpedia.org/resource/Goldberry,Goldberry,http://dbpedia.org/resource/Goldberry,80.98500000000001
+http://dbpedia.org/resource/Noctis_Lucis_Caelum,Noctis Lucis Caelum,http://dbpedia.org/resource/Noctis_Lucis_Caelum,80.97
+http://dbpedia.org/resource/Maid_Marian,Maid Marian,http://dbpedia.org/resource/Maid_Marian,80.825
+http://dbpedia.org/resource/Magneto_(film_character),Magneto (film character),http://dbpedia.org/resource/Magneto_(film_character),80.77
+http://dbpedia.org/resource/Grand_Moff_Tarkin,Grand Moff Tarkin,http://dbpedia.org/resource/Grand_Moff_Tarkin,80.215
+http://dbpedia.org/resource/James_Rhodes_(Marvel_Cinematic_Universe),James Rhodes (Marvel Cinematic Universe),http://dbpedia.org/resource/James_Rhodes_(Marvel_Cinematic_Universe),79.81
+http://dbpedia.org/resource/Bilbo_Baggins,Bilbo Baggins,http://dbpedia.org/resource/Bilbo_Baggins,79.625
+http://dbpedia.org/resource/Kermit_the_Frog,Kermit the Frog,http://dbpedia.org/resource/Kermit_the_Frog,79.60000000000001
+http://dbpedia.org/resource/Scott_Lang_(Marvel_Cinematic_Universe),Scott Lang (Marvel Cinematic Universe),http://dbpedia.org/resource/Scott_Lang_(Marvel_Cinematic_Universe),79.6
+http://dbpedia.org/resource/Cara_Dune,Cara Dune,http://dbpedia.org/resource/Cara_Dune,79.515
+http://dbpedia.org/resource/Frodo_Baggins,Frodo Baggins,http://dbpedia.org/resource/Frodo_Baggins,79.45499999999998
+http://dbpedia.org/resource/Rishyasringa,Rishyasringa,http://dbpedia.org/resource/Rishyasringa,79.375
+http://dbpedia.org/resource/Izzie_Stevens,Izzie Stevens,http://dbpedia.org/resource/Izzie_Stevens,79.33500000000001
+http://dbpedia.org/resource/Migs_Mayfeld,Migs Mayfeld,http://dbpedia.org/resource/Migs_Mayfeld,79.305
+http://dbpedia.org/resource/Megara_(Disney_character),Megara (Disney character),http://dbpedia.org/resource/Megara_(Disney_character),79.01499999999999
+http://dbpedia.org/resource/Bruce_Wayne_(Dark_Knight_trilogy),Bruce Wayne (Dark Knight trilogy),http://dbpedia.org/resource/Bruce_Wayne_(Dark_Knight_trilogy),79.01
+http://dbpedia.org/resource/Sephiroth_(Final_Fantasy),Sephiroth (Final Fantasy),http://dbpedia.org/resource/Sephiroth_(Final_Fantasy),78.97000000000001
+http://dbpedia.org/resource/Arjuna,Arjuna,http://dbpedia.org/resource/Arjuna,78.94500000000001
+http://dbpedia.org/resource/Cruella_de_Vil,Cruella de Vil,http://dbpedia.org/resource/Cruella_de_Vil,78.885
+http://dbpedia.org/resource/Velma_Dinkley,Velma Dinkley,http://dbpedia.org/resource/Velma_Dinkley,78.815
+http://dbpedia.org/resource/Nazgûl,Nazgûl,http://dbpedia.org/resource/Nazgûl,78.66
+http://dbpedia.org/resource/Dorothy_Gale,Dorothy Gale,http://dbpedia.org/resource/Dorothy_Gale,78.595
+http://dbpedia.org/resource/Natsu_Dragneel,Natsu Dragneel,http://dbpedia.org/resource/Natsu_Dragneel,78.58500000000001
+http://dbpedia.org/resource/Dick_Grayson_(Titans_character),Dick Grayson (Titans character),http://dbpedia.org/resource/Dick_Grayson_(Titans_character),78.50500000000001
+http://dbpedia.org/resource/Kyo_Kusanagi,Kyo Kusanagi,http://dbpedia.org/resource/Kyo_Kusanagi,78.46
+http://dbpedia.org/resource/GLaDOS,GLaDOS,http://dbpedia.org/resource/GLaDOS,78.14
+http://dbpedia.org/resource/Poe_Dameron,Poe Dameron,http://dbpedia.org/resource/Poe_Dameron,78.09500000000001
+http://dbpedia.org/resource/Himura_Kenshin,Himura Kenshin,http://dbpedia.org/resource/Himura_Kenshin,77.76
+http://dbpedia.org/resource/Tasneem_Qureishi,Tasneem Qureishi,http://dbpedia.org/resource/Tasneem_Qureishi,77.67
+http://dbpedia.org/resource/Peter_Quill_(Marvel_Cinematic_Universe),Peter Quill (Marvel Cinematic Universe),http://dbpedia.org/resource/Peter_Quill_(Marvel_Cinematic_Universe),77.595
+http://dbpedia.org/resource/Juliet_Burke,Juliet Burke,http://dbpedia.org/resource/Juliet_Burke,77.53500000000001
+http://dbpedia.org/resource/Ariel_(The_Little_Mermaid),Ariel (The Little Mermaid),http://dbpedia.org/resource/Ariel_(The_Little_Mermaid),77.485
+http://dbpedia.org/resource/Arthur_Curry_(DC_Extended_Universe),Arthur Curry (DC Extended Universe),http://dbpedia.org/resource/Arthur_Curry_(DC_Extended_Universe),77.42
+http://dbpedia.org/resource/Nebula_(Marvel_Cinematic_Universe),Nebula (Marvel Cinematic Universe),http://dbpedia.org/resource/Nebula_(Marvel_Cinematic_Universe),77.33
+http://dbpedia.org/resource/Nico_Robin,Nico Robin,http://dbpedia.org/resource/Nico_Robin,77.305
+http://dbpedia.org/resource/Eddie_(Iron_Maiden),Eddie (Iron Maiden),http://dbpedia.org/resource/Eddie_(Iron_Maiden),77.285
+http://dbpedia.org/resource/Stephen_Strange_(Marvel_Cinematic_Universe),Stephen Strange (Marvel Cinematic Universe),http://dbpedia.org/resource/Stephen_Strange_(Marvel_Cinematic_Universe),77.17000000000002
+http://dbpedia.org/resource/Eric_Cartman,Eric Cartman,http://dbpedia.org/resource/Eric_Cartman,76.97000000000001
+http://dbpedia.org/resource/Grant_Ward_(Marvel_Cinematic_Universe),Grant Ward (Marvel Cinematic Universe),http://dbpedia.org/resource/Grant_Ward_(Marvel_Cinematic_Universe),76.93
+http://dbpedia.org/resource/Sanjaya,Sanjaya,http://dbpedia.org/resource/Sanjaya,76.77499999999999
+http://dbpedia.org/resource/Beorn,Beorn,http://dbpedia.org/resource/Beorn,76.715
+http://dbpedia.org/resource/Smaug,Smaug,http://dbpedia.org/resource/Smaug,76.71
+http://dbpedia.org/resource/Quinn_Fabray,Quinn Fabray,http://dbpedia.org/resource/Quinn_Fabray,76.65
+http://dbpedia.org/resource/Joker_(DC_Extended_Universe),Joker (DC Extended Universe),http://dbpedia.org/resource/Joker_(DC_Extended_Universe),76.53
+http://dbpedia.org/resource/Long_John_Silver,Long John Silver,http://dbpedia.org/resource/Long_John_Silver,76.49499999999999
+http://dbpedia.org/resource/Shaggy_Rogers,Shaggy Rogers,http://dbpedia.org/resource/Shaggy_Rogers,76.435
+http://dbpedia.org/resource/Grinch,Grinch,http://dbpedia.org/resource/Grinch,76.24499999999999
+http://dbpedia.org/resource/Kazuya_Mishima,Kazuya Mishima,http://dbpedia.org/resource/Kazuya_Mishima,76.17500000000001
+http://dbpedia.org/resource/Mordred,Mordred,http://dbpedia.org/resource/Mordred,76.08000000000001
+http://dbpedia.org/resource/Snow_White_(Disney_character),Snow White (Disney character),http://dbpedia.org/resource/Snow_White_(Disney_character),76.05999999999999
+http://dbpedia.org/resource/Charles_Xavier_(film_character),Charles Xavier (film character),http://dbpedia.org/resource/Charles_Xavier_(film_character),75.95
+http://dbpedia.org/resource/Rocket_(Marvel_Cinematic_Universe),Rocket (Marvel Cinematic Universe),http://dbpedia.org/resource/Rocket_(Marvel_Cinematic_Universe),75.8
+http://dbpedia.org/resource/Michonne,Michonne,http://dbpedia.org/resource/Michonne,75.755
+http://dbpedia.org/resource/Frankenstein's_monster,Frankenstein's monster,http://dbpedia.org/resource/Frankenstein's_monster,75.715
+http://dbpedia.org/resource/Jigglypuff,Jigglypuff,http://dbpedia.org/resource/Jigglypuff,75.69
+http://dbpedia.org/resource/Dana_Scully,Dana Scully,http://dbpedia.org/resource/Dana_Scully,75.52
+http://dbpedia.org/resource/Ermac,Ermac,http://dbpedia.org/resource/Ermac,75.42999999999999
+http://dbpedia.org/resource/Ziggy_Stardust_(character),Ziggy Stardust (character),http://dbpedia.org/resource/Ziggy_Stardust_(character),75.415
+http://dbpedia.org/resource/Dick_Grayson_(1989_film_series_character),Dick Grayson (1989 film series character),http://dbpedia.org/resource/Dick_Grayson_(1989_film_series_character),75.355
+http://dbpedia.org/resource/Darth_Maul,Darth Maul,http://dbpedia.org/resource/Darth_Maul,75.18
+http://dbpedia.org/resource/Michigan_J._Frog,Michigan J. Frog,http://dbpedia.org/resource/Michigan_J._Frog,75.16
+http://dbpedia.org/resource/Yosemite_Sam,Yosemite Sam,http://dbpedia.org/resource/Yosemite_Sam,74.935
+http://dbpedia.org/resource/Théoden,Théoden,http://dbpedia.org/resource/Théoden,74.86
+http://dbpedia.org/resource/The_Stig,The Stig,http://dbpedia.org/resource/The_Stig,74.64500000000001
+http://dbpedia.org/resource/Rapunzel_(Tangled),Rapunzel (Tangled),http://dbpedia.org/resource/Rapunzel_(Tangled),74.58000000000001
+http://dbpedia.org/resource/Pecos_Bill,Pecos Bill,http://dbpedia.org/resource/Pecos_Bill,74.55499999999999
+http://dbpedia.org/resource/Sheldon_Cooper,Sheldon Cooper,http://dbpedia.org/resource/Sheldon_Cooper,74.47500000000001
+http://dbpedia.org/resource/Solid_Snake,Solid Snake,http://dbpedia.org/resource/Solid_Snake,74.42999999999999
+http://dbpedia.org/resource/Kes_(Star_Trek),Kes (Star Trek),http://dbpedia.org/resource/Kes_(Star_Trek),74.26500000000001
+http://dbpedia.org/resource/Anthony_DiNozzo,Anthony DiNozzo,http://dbpedia.org/resource/Anthony_DiNozzo,74.245
+http://dbpedia.org/resource/Sam_Malone,Sam Malone,http://dbpedia.org/resource/Sam_Malone,74.235
+http://dbpedia.org/resource/Kate_Kane_(Arrowverse),Kate Kane (Arrowverse),http://dbpedia.org/resource/Kate_Kane_(Arrowverse),74.23
+http://dbpedia.org/resource/Fennec_Shand,Fennec Shand,http://dbpedia.org/resource/Fennec_Shand,74.10000000000001
+http://dbpedia.org/resource/Ganon,Ganon,http://dbpedia.org/resource/Ganon,74.085
+http://dbpedia.org/resource/Ultraman_(character),Ultraman (character),http://dbpedia.org/resource/Ultraman_(character),74.04
+http://dbpedia.org/resource/Lancelot,Lancelot,http://dbpedia.org/resource/Lancelot,73.95
+http://dbpedia.org/resource/Dexter_Morgan,Dexter Morgan,http://dbpedia.org/resource/Dexter_Morgan,73.86999999999999
+http://dbpedia.org/resource/Terry_Bogard,Terry Bogard,http://dbpedia.org/resource/Terry_Bogard,73.75500000000001
+http://dbpedia.org/resource/Ruby_Spark,Ruby Spark,http://dbpedia.org/resource/Ruby_Spark,73.74
+http://dbpedia.org/resource/Wicked_Witch_of_the_West,Wicked Witch of the West,http://dbpedia.org/resource/Wicked_Witch_of_the_West,73.485
+http://dbpedia.org/resource/Barry_Allen_(Arrowverse),Barry Allen (Arrowverse),http://dbpedia.org/resource/Barry_Allen_(Arrowverse),73.41499999999999
+http://dbpedia.org/resource/Ghostface_(identity),Ghostface (identity),http://dbpedia.org/resource/Ghostface_(identity),73.41000000000001
+http://dbpedia.org/resource/Olivia_Benson,Olivia Benson,http://dbpedia.org/resource/Olivia_Benson,73.405
+http://dbpedia.org/resource/Tasmanian_Devil_(Looney_Tunes),Tasmanian Devil (Looney Tunes),http://dbpedia.org/resource/Tasmanian_Devil_(Looney_Tunes),73.375
+http://dbpedia.org/resource/Marinette_Dupain-Cheng,Marinette Dupain-Cheng,http://dbpedia.org/resource/Marinette_Dupain-Cheng,73.265
+http://dbpedia.org/resource/Alicia_Munroe,Alicia Munroe,http://dbpedia.org/resource/Alicia_Munroe,73.25
+http://dbpedia.org/resource/Gamora_(Marvel_Cinematic_Universe),Gamora (Marvel Cinematic Universe),http://dbpedia.org/resource/Gamora_(Marvel_Cinematic_Universe),73.205
+http://dbpedia.org/resource/Hermione_Granger,Hermione Granger,http://dbpedia.org/resource/Hermione_Granger,73.09
+http://dbpedia.org/resource/Lex_Luthor_(Arrowverse),Lex Luthor (Arrowverse),http://dbpedia.org/resource/Lex_Luthor_(Arrowverse),72.74
+http://dbpedia.org/resource/Mulan_(Disney_character),Mulan (Disney character),http://dbpedia.org/resource/Mulan_(Disney_character),72.63499999999999
+http://dbpedia.org/resource/Duffy_(Casualty),Duffy (Casualty),http://dbpedia.org/resource/Duffy_(Casualty),72.55
+http://dbpedia.org/resource/Kara_Danvers,Kara Danvers,http://dbpedia.org/resource/Kara_Danvers,72.41000000000001
+http://dbpedia.org/resource/Vegeta,Vegeta,http://dbpedia.org/resource/Vegeta,72.405
+http://dbpedia.org/resource/The_Client_(Star_Wars),The Client (Star Wars),http://dbpedia.org/resource/The_Client_(Star_Wars),72.22500000000001
+http://dbpedia.org/resource/Shang-Chi_(Marvel_Cinematic_Universe),Shang-Chi (Marvel Cinematic Universe),http://dbpedia.org/resource/Shang-Chi_(Marvel_Cinematic_Universe),72.11
+http://dbpedia.org/resource/Daisy_Johnson_(Marvel_Cinematic_Universe),Daisy Johnson (Marvel Cinematic Universe),http://dbpedia.org/resource/Daisy_Johnson_(Marvel_Cinematic_Universe),71.985
+http://dbpedia.org/resource/Paddington_Bear,Paddington Bear,http://dbpedia.org/resource/Paddington_Bear,71.94
+http://dbpedia.org/resource/Iris_West-Allen_(Arrowverse),Iris West-Allen (Arrowverse),http://dbpedia.org/resource/Iris_West-Allen_(Arrowverse),71.86
+http://dbpedia.org/resource/Ray_Palmer_(Arrowverse),Ray Palmer (Arrowverse),http://dbpedia.org/resource/Ray_Palmer_(Arrowverse),71.815
+http://dbpedia.org/resource/Iron_Man's_armor_(Marvel_Cinematic_Universe),Iron Man's armor (Marvel Cinematic Universe),http://dbpedia.org/resource/Iron_Man's_armor_(Marvel_Cinematic_Universe),71.72500000000001
+http://dbpedia.org/resource/Groot_(Marvel_Cinematic_Universe),Groot (Marvel Cinematic Universe),http://dbpedia.org/resource/Groot_(Marvel_Cinematic_Universe),71.59500000000001
+http://dbpedia.org/resource/Diane_Lloyd,Diane Lloyd,http://dbpedia.org/resource/Diane_Lloyd,71.39
+http://dbpedia.org/resource/Monokuma,Monokuma,http://dbpedia.org/resource/Monokuma,71.26
+http://dbpedia.org/resource/Anna_(Frozen),Anna (Frozen),http://dbpedia.org/resource/Anna_(Frozen),71.19500000000001
+http://dbpedia.org/resource/Tiamat_(Dungeons_&_Dragons),Tiamat (Dungeons & Dragons),http://dbpedia.org/resource/Tiamat_(Dungeons_&_Dragons),71.155
+http://dbpedia.org/resource/Lexie_Grey,Lexie Grey,http://dbpedia.org/resource/Lexie_Grey,71.13
+http://dbpedia.org/resource/Greef_Karga,Greef Karga,http://dbpedia.org/resource/Greef_Karga,71.08500000000001
+http://dbpedia.org/resource/Vecna,Vecna,http://dbpedia.org/resource/Vecna,71.075
+http://dbpedia.org/resource/Tony_Tony_Chopper,Tony Tony Chopper,http://dbpedia.org/resource/Tony_Tony_Chopper,71.00999999999999
+http://dbpedia.org/resource/Sanji_(One_Piece),Sanji (One Piece),http://dbpedia.org/resource/Sanji_(One_Piece),71.00000000000001
+http://dbpedia.org/resource/Dave_Lister,Dave Lister,http://dbpedia.org/resource/Dave_Lister,70.965
+http://dbpedia.org/resource/Adrien_Agreste,Adrien Agreste,http://dbpedia.org/resource/Adrien_Agreste,70.955
+http://dbpedia.org/resource/IG-11,IG-11,http://dbpedia.org/resource/IG-11,70.92
+http://dbpedia.org/resource/Mr._Burns,Mr. Burns,http://dbpedia.org/resource/Mr._Burns,70.685
+http://dbpedia.org/resource/Droopy,Droopy,http://dbpedia.org/resource/Droopy,70.685
+http://dbpedia.org/resource/Elliot_Stabler,Elliot Stabler,http://dbpedia.org/resource/Elliot_Stabler,70.58
+http://dbpedia.org/resource/Kamala_Khan_(Marvel_Cinematic_Universe),Kamala Khan (Marvel Cinematic Universe),http://dbpedia.org/resource/Kamala_Khan_(Marvel_Cinematic_Universe),70.545
+http://dbpedia.org/resource/Artemis_Fowl_II,Artemis Fowl II,http://dbpedia.org/resource/Artemis_Fowl_II,70.46000000000001
+http://dbpedia.org/resource/Guinan_(Star_Trek),Guinan (Star Trek),http://dbpedia.org/resource/Guinan_(Star_Trek),70.445
+http://dbpedia.org/resource/Spider-Man_(Takuya_Yamashiro),Spider-Man (Takuya Yamashiro),http://dbpedia.org/resource/Spider-Man_(Takuya_Yamashiro),70.435
+http://dbpedia.org/resource/Liu_Kang,Liu Kang,http://dbpedia.org/resource/Liu_Kang,70.17999999999999
+http://dbpedia.org/resource/Hector_Barbossa,Hector Barbossa,http://dbpedia.org/resource/Hector_Barbossa,70.10000000000001
+http://dbpedia.org/resource/Ellie_(The_Last_of_Us),Ellie (The Last of Us),http://dbpedia.org/resource/Ellie_(The_Last_of_Us),70.03500000000001
+http://dbpedia.org/resource/Andrea_(The_Walking_Dead),Andrea (The Walking Dead),http://dbpedia.org/resource/Andrea_(The_Walking_Dead),69.99
+http://dbpedia.org/resource/Arwen,Arwen,http://dbpedia.org/resource/Arwen,69.87499999999999
+http://dbpedia.org/resource/Gohan,Gohan,http://dbpedia.org/resource/Gohan,69.67
+http://dbpedia.org/resource/Tess_Bateman,Tess Bateman,http://dbpedia.org/resource/Tess_Bateman,69.52
+http://dbpedia.org/resource/Jesse_Pinkman,Jesse Pinkman,http://dbpedia.org/resource/Jesse_Pinkman,69.28500000000001
+http://dbpedia.org/resource/Fox_Mulder,Fox Mulder,http://dbpedia.org/resource/Fox_Mulder,69.22000000000001
+http://dbpedia.org/resource/Marceline_the_Vampire_Queen,Marceline the Vampire Queen,http://dbpedia.org/resource/Marceline_the_Vampire_Queen,69.05
+http://dbpedia.org/resource/Supreme_Leader_Snoke,Supreme Leader Snoke,http://dbpedia.org/resource/Supreme_Leader_Snoke,68.99499999999999
+http://dbpedia.org/resource/Mango_(Saturday_Night_Live),Mango (Saturday Night Live),http://dbpedia.org/resource/Mango_(Saturday_Night_Live),68.99499999999999
+http://dbpedia.org/resource/Mercedes_Jones,Mercedes Jones,http://dbpedia.org/resource/Mercedes_Jones,68.98
+http://dbpedia.org/resource/John_Munch,John Munch,http://dbpedia.org/resource/John_Munch,68.97
+http://dbpedia.org/resource/Cordelia_Chase,Cordelia Chase,http://dbpedia.org/resource/Cordelia_Chase,68.915
+http://dbpedia.org/resource/Alice_(Alice's_Adventures_in_Wonderland),Alice (Alice's Adventures in Wonderland),http://dbpedia.org/resource/Alice_(Alice's_Adventures_in_Wonderland),68.78
+http://dbpedia.org/resource/Lex_Luthor_(Smallville),Lex Luthor (Smallville),http://dbpedia.org/resource/Lex_Luthor_(Smallville),68.77499999999999
+http://dbpedia.org/resource/Ultraman_Tiga_(character),Ultraman Tiga (character),http://dbpedia.org/resource/Ultraman_Tiga_(character),68.595
+http://dbpedia.org/resource/Jane_Foster_(Marvel_Cinematic_Universe),Jane Foster (Marvel Cinematic Universe),http://dbpedia.org/resource/Jane_Foster_(Marvel_Cinematic_Universe),68.55
+http://dbpedia.org/resource/Vala_Mal_Doran,Vala Mal Doran,http://dbpedia.org/resource/Vala_Mal_Doran,68.46500000000002
+http://dbpedia.org/resource/Albus_Dumbledore,Albus Dumbledore,http://dbpedia.org/resource/Albus_Dumbledore,68.42999999999999
+http://dbpedia.org/resource/Ezio_Auditore_da_Firenze,Ezio Auditore da Firenze,http://dbpedia.org/resource/Ezio_Auditore_da_Firenze,68.255
+http://dbpedia.org/resource/Roronoa_Zoro,Roronoa Zoro,http://dbpedia.org/resource/Roronoa_Zoro,68.255
+http://dbpedia.org/resource/Dwight_Schrute,Dwight Schrute,http://dbpedia.org/resource/Dwight_Schrute,68.165
+http://dbpedia.org/resource/Sonya_Blade,Sonya Blade,http://dbpedia.org/resource/Sonya_Blade,67.9
+http://dbpedia.org/resource/Kate_Bishop_(Marvel_Cinematic_Universe),Kate Bishop (Marvel Cinematic Universe),http://dbpedia.org/resource/Kate_Bishop_(Marvel_Cinematic_Universe),67.84500000000001
+http://dbpedia.org/resource/Kizuna_AI,Kizuna AI,http://dbpedia.org/resource/Kizuna_AI,67.83
+http://dbpedia.org/resource/Jack_Ryan_(character),Jack Ryan (character),http://dbpedia.org/resource/Jack_Ryan_(character),67.695
+http://dbpedia.org/resource/Grand_Inquisitor_(Star_Wars),Grand Inquisitor (Star Wars),http://dbpedia.org/resource/Grand_Inquisitor_(Star_Wars),67.66
+http://dbpedia.org/resource/Captain_Midnight,Captain Midnight,http://dbpedia.org/resource/Captain_Midnight,67.54
+http://dbpedia.org/resource/Chewbacca,Chewbacca,http://dbpedia.org/resource/Chewbacca,67.39500000000001
+http://dbpedia.org/resource/Nami_(One_Piece),Nami (One Piece),http://dbpedia.org/resource/Nami_(One_Piece),67.38999999999999
+http://dbpedia.org/resource/Ultraman_Jack_(character),Ultraman Jack (character),http://dbpedia.org/resource/Ultraman_Jack_(character),67.16000000000001
+http://dbpedia.org/resource/Edward_Kenway,Edward Kenway,http://dbpedia.org/resource/Edward_Kenway,67.04
+http://dbpedia.org/resource/Eärendil_and_Elwing,Eärendil and Elwing,http://dbpedia.org/resource/Eärendil_and_Elwing,66.88000000000001
+http://dbpedia.org/resource/Raiden_(Metal_Gear),Raiden (Metal Gear),http://dbpedia.org/resource/Raiden_(Metal_Gear),66.86999999999999
+http://dbpedia.org/resource/Lucario,Lucario,http://dbpedia.org/resource/Lucario,66.85000000000001
+http://dbpedia.org/resource/Raistlin_Majere,Raistlin Majere,http://dbpedia.org/resource/Raistlin_Majere,66.735
+http://dbpedia.org/resource/Connor_(Angel),Connor (Angel),http://dbpedia.org/resource/Connor_(Angel),66.715
+http://dbpedia.org/resource/Lucy_Heartfilia,Lucy Heartfilia,http://dbpedia.org/resource/Lucy_Heartfilia,66.52000000000001
+http://dbpedia.org/resource/Scooby-Doo_(character),Scooby-Doo (character),http://dbpedia.org/resource/Scooby-Doo_(character),66.445
+http://dbpedia.org/resource/Slender_Man,Slender Man,http://dbpedia.org/resource/Slender_Man,66.345
+http://dbpedia.org/resource/Abraham_Van_Helsing,Abraham Van Helsing,http://dbpedia.org/resource/Abraham_Van_Helsing,66.33500000000001
+http://dbpedia.org/resource/Mileena,Mileena,http://dbpedia.org/resource/Mileena,66.335
+http://dbpedia.org/resource/Billy_(Black_Christmas),Billy (Black Christmas),http://dbpedia.org/resource/Billy_(Black_Christmas),66.23
+http://dbpedia.org/resource/Walter_White_(Breaking_Bad),Walter White (Breaking Bad),http://dbpedia.org/resource/Walter_White_(Breaking_Bad),66.21000000000001
+http://dbpedia.org/resource/RoboCop_(character),RoboCop (character),http://dbpedia.org/resource/RoboCop_(character),66.18999999999998
+http://dbpedia.org/resource/Dylan_Keogh,Dylan Keogh,http://dbpedia.org/resource/Dylan_Keogh,66.10000000000001
+http://dbpedia.org/resource/Yoshi,Yoshi,http://dbpedia.org/resource/Yoshi,66.03999999999999
+http://dbpedia.org/resource/Victor_Fries_(Batman_&_Robin),Victor Fries (Batman & Robin),http://dbpedia.org/resource/Victor_Fries_(Batman_&_Robin),66.025
+http://dbpedia.org/resource/Jynx,Jynx,http://dbpedia.org/resource/Jynx,66.01500000000001
+http://dbpedia.org/resource/Fred_Flintstone,Fred Flintstone,http://dbpedia.org/resource/Fred_Flintstone,65.985
+http://dbpedia.org/resource/Severus_Snape,Severus Snape,http://dbpedia.org/resource/Severus_Snape,65.94999999999999
+http://dbpedia.org/resource/Cammy,Cammy,http://dbpedia.org/resource/Cammy,65.92999999999999
+http://dbpedia.org/resource/Rita_Freeman,Rita Freeman,http://dbpedia.org/resource/Rita_Freeman,65.875
+http://dbpedia.org/resource/Alan_Partridge,Alan Partridge,http://dbpedia.org/resource/Alan_Partridge,65.855
+http://dbpedia.org/resource/Sarah_MacKenzie,Sarah MacKenzie,http://dbpedia.org/resource/Sarah_MacKenzie,65.845
+http://dbpedia.org/resource/Ebenezer_Scrooge,Ebenezer Scrooge,http://dbpedia.org/resource/Ebenezer_Scrooge,65.81
+http://dbpedia.org/resource/Daniel_Sousa_(Marvel_Cinematic_Universe),Daniel Sousa (Marvel Cinematic Universe),http://dbpedia.org/resource/Daniel_Sousa_(Marvel_Cinematic_Universe),65.795
+http://dbpedia.org/resource/Oliver_Valentine,Oliver Valentine,http://dbpedia.org/resource/Oliver_Valentine,65.77
+http://dbpedia.org/resource/Charlie_Chan,Charlie Chan,http://dbpedia.org/resource/Charlie_Chan,65.77
+http://dbpedia.org/resource/Sora_(Kingdom_Hearts),Sora (Kingdom Hearts),http://dbpedia.org/resource/Sora_(Kingdom_Hearts),65.74499999999999
+http://dbpedia.org/resource/Rudolph_the_Red-Nosed_Reindeer,Rudolph the Red-Nosed Reindeer,http://dbpedia.org/resource/Rudolph_the_Red-Nosed_Reindeer,65.74
+http://dbpedia.org/resource/Victor_Stone_(DC_Extended_Universe),Victor Stone (DC Extended Universe),http://dbpedia.org/resource/Victor_Stone_(DC_Extended_Universe),65.705
+http://dbpedia.org/resource/Usopp,Usopp,http://dbpedia.org/resource/Usopp,65.69999999999999
+http://dbpedia.org/resource/Bowser,Bowser,http://dbpedia.org/resource/Bowser,65.59
+http://dbpedia.org/resource/Chloe_Sullivan,Chloe Sullivan,http://dbpedia.org/resource/Chloe_Sullivan,65.57
+http://dbpedia.org/resource/Bedivere,Bedivere,http://dbpedia.org/resource/Bedivere,65.55
+http://dbpedia.org/resource/Peter_Griffin,Peter Griffin,http://dbpedia.org/resource/Peter_Griffin,65.46500000000002
+http://dbpedia.org/resource/Randall_Flagg,Randall Flagg,http://dbpedia.org/resource/Randall_Flagg,65.42
+http://dbpedia.org/resource/Selina_Kyle_(Gotham_character),Selina Kyle (Gotham character),http://dbpedia.org/resource/Selina_Kyle_(Gotham_character),65.38
+http://dbpedia.org/resource/Korra,Korra,http://dbpedia.org/resource/Korra,65.2
+http://dbpedia.org/resource/Ianto_Jones,Ianto Jones,http://dbpedia.org/resource/Ianto_Jones,65.19500000000001
+http://dbpedia.org/resource/Speedy_Gonzales,Speedy Gonzales,http://dbpedia.org/resource/Speedy_Gonzales,65.145
+http://dbpedia.org/resource/Princess_Peach,Princess Peach,http://dbpedia.org/resource/Princess_Peach,65.025
+http://dbpedia.org/resource/Spike_and_Tyke_(characters),Spike and Tyke (characters),http://dbpedia.org/resource/Spike_and_Tyke_(characters),64.86999999999999
+http://dbpedia.org/resource/Thranduil,Thranduil,http://dbpedia.org/resource/Thranduil,64.86
+http://dbpedia.org/resource/Will_Turner,Will Turner,http://dbpedia.org/resource/Will_Turner,64.78
+http://dbpedia.org/resource/Donkey_Kong_(character),Donkey Kong (character),http://dbpedia.org/resource/Donkey_Kong_(character),64.755
+http://dbpedia.org/resource/Johnny_Cage,Johnny Cage,http://dbpedia.org/resource/Johnny_Cage,64.735
+http://dbpedia.org/resource/Serena_Campbell,Serena Campbell,http://dbpedia.org/resource/Serena_Campbell,64.725
+http://dbpedia.org/resource/Reginald_Barclay,Reginald Barclay,http://dbpedia.org/resource/Reginald_Barclay,64.69999999999999
+http://dbpedia.org/resource/Alice_Comedies,Alice Comedies,http://dbpedia.org/resource/Alice_Comedies,64.635
+http://dbpedia.org/resource/Lexa_(The_100),Lexa (The 100),http://dbpedia.org/resource/Lexa_(The_100),64.605
+http://dbpedia.org/resource/Clara_Oswald,Clara Oswald,http://dbpedia.org/resource/Clara_Oswald,64.59500000000001
+http://dbpedia.org/resource/Mo_Effanga,Mo Effanga,http://dbpedia.org/resource/Mo_Effanga,64.53500000000001
+http://dbpedia.org/resource/Krusty_the_Clown,Krusty the Clown,http://dbpedia.org/resource/Krusty_the_Clown,64.42999999999999
+http://dbpedia.org/resource/Glinda,Glinda,http://dbpedia.org/resource/Glinda,64.415
+http://dbpedia.org/resource/Wario,Wario,http://dbpedia.org/resource/Wario,64.395
+http://dbpedia.org/resource/Vicki_Vale_(1989_film_series_character),Vicki Vale (1989 film series character),http://dbpedia.org/resource/Vicki_Vale_(1989_film_series_character),64.22500000000001
+http://dbpedia.org/resource/Eobard_Thawne_(Arrowverse),Eobard Thawne (Arrowverse),http://dbpedia.org/resource/Eobard_Thawne_(Arrowverse),64.19000000000001
+http://dbpedia.org/resource/Squirtle,Squirtle,http://dbpedia.org/resource/Squirtle,64.17999999999999
+http://dbpedia.org/resource/Ultraman_Taro_(character),Ultraman Taro (character),http://dbpedia.org/resource/Ultraman_Taro_(character),64.17
+http://dbpedia.org/resource/Wedge_Antilles,Wedge Antilles,http://dbpedia.org/resource/Wedge_Antilles,64.11
+http://dbpedia.org/resource/Mr._Smee,Mr. Smee,http://dbpedia.org/resource/Mr._Smee,64.08
+http://dbpedia.org/resource/Amy_Pond,Amy Pond,http://dbpedia.org/resource/Amy_Pond,64.06
+http://dbpedia.org/resource/Starkiller,Starkiller,http://dbpedia.org/resource/Starkiller,64.0
+http://dbpedia.org/resource/Smokey_Bear,Smokey Bear,http://dbpedia.org/resource/Smokey_Bear,63.98499999999999
+http://dbpedia.org/resource/Oswald_the_Lucky_Rabbit,Oswald the Lucky Rabbit,http://dbpedia.org/resource/Oswald_the_Lucky_Rabbit,63.92000000000001
+http://dbpedia.org/resource/Ralph_Wolf_and_Sam_Sheepdog,Ralph Wolf and Sam Sheepdog,http://dbpedia.org/resource/Ralph_Wolf_and_Sam_Sheepdog,63.885000000000005
+http://dbpedia.org/resource/Doctor_Eggman,Doctor Eggman,http://dbpedia.org/resource/Doctor_Eggman,63.86000000000001
+http://dbpedia.org/resource/Faramir,Faramir,http://dbpedia.org/resource/Faramir,63.69
+http://dbpedia.org/resource/Witch_Hazel_(Looney_Tunes),Witch Hazel (Looney Tunes),http://dbpedia.org/resource/Witch_Hazel_(Looney_Tunes),63.625
+http://dbpedia.org/resource/Oswald_Cobblepot_(Batman_Returns),Oswald Cobblepot (Batman Returns),http://dbpedia.org/resource/Oswald_Cobblepot_(Batman_Returns),63.625
+http://dbpedia.org/resource/J.A.R.V.I.S.,J.A.R.V.I.S.,http://dbpedia.org/resource/J.A.R.V.I.S.,63.58
+http://dbpedia.org/resource/Jack_Donaghy,Jack Donaghy,http://dbpedia.org/resource/Jack_Donaghy,63.48
+http://dbpedia.org/resource/Sally_Bowles,Sally Bowles,http://dbpedia.org/resource/Sally_Bowles,63.46000000000001
+http://dbpedia.org/resource/Carrie_Mathison,Carrie Mathison,http://dbpedia.org/resource/Carrie_Mathison,63.44499999999999
+http://dbpedia.org/resource/Essie_Harrison,Essie Harrison,http://dbpedia.org/resource/Essie_Harrison,63.43000000000001
+http://dbpedia.org/resource/Sahira_Shah,Sahira Shah,http://dbpedia.org/resource/Sahira_Shah,63.19499999999999
+http://dbpedia.org/resource/Éomer,Éomer,http://dbpedia.org/resource/Éomer,63.175000000000004
+http://dbpedia.org/resource/Dr._Kildare,Dr. Kildare,http://dbpedia.org/resource/Dr._Kildare,63.1
+http://dbpedia.org/resource/Qui-Gon_Jinn,Qui-Gon Jinn,http://dbpedia.org/resource/Qui-Gon_Jinn,63.00999999999999
+http://dbpedia.org/resource/Cheeta,Cheeta,http://dbpedia.org/resource/Cheeta,62.959999999999994
+http://dbpedia.org/resource/Frank_Castle_(Marvel_Cinematic_Universe),Frank Castle (Marvel Cinematic Universe),http://dbpedia.org/resource/Frank_Castle_(Marvel_Cinematic_Universe),62.935
+http://dbpedia.org/resource/Vision_(Marvel_Cinematic_Universe),Vision (Marvel Cinematic Universe),http://dbpedia.org/resource/Vision_(Marvel_Cinematic_Universe),62.894999999999996
+http://dbpedia.org/resource/Nala_(The_Lion_King),Nala (The Lion King),http://dbpedia.org/resource/Nala_(The_Lion_King),62.889999999999986
+http://dbpedia.org/resource/Harvey_Dent_(1989_film_series_character),Harvey Dent (1989 film series character),http://dbpedia.org/resource/Harvey_Dent_(1989_film_series_character),62.86000000000001
+http://dbpedia.org/resource/Strahd_von_Zarovich,Strahd von Zarovich,http://dbpedia.org/resource/Strahd_von_Zarovich,62.79500000000001
+http://dbpedia.org/resource/Leroy_Jethro_Gibbs,Leroy Jethro Gibbs,http://dbpedia.org/resource/Leroy_Jethro_Gibbs,62.75499999999999
+http://dbpedia.org/resource/Arya_Stark,Arya Stark,http://dbpedia.org/resource/Arya_Stark,62.725
+http://dbpedia.org/resource/Faith_(Buffy_the_Vampire_Slayer),Faith (Buffy the Vampire Slayer),http://dbpedia.org/resource/Faith_(Buffy_the_Vampire_Slayer),62.715
+http://dbpedia.org/resource/Foghorn_Leghorn,Foghorn Leghorn,http://dbpedia.org/resource/Foghorn_Leghorn,62.595
+http://dbpedia.org/resource/Honorverse,Honorverse,http://dbpedia.org/resource/Honorverse,62.42000000000001
+http://dbpedia.org/resource/Mothra,Mothra,http://dbpedia.org/resource/Mothra,62.419999999999995
+http://dbpedia.org/resource/Iggwilv,Iggwilv,http://dbpedia.org/resource/Iggwilv,62.415
+http://dbpedia.org/resource/Morgoth,Morgoth,http://dbpedia.org/resource/Morgoth,62.150000000000006
+http://dbpedia.org/resource/Harry_Osborn_(Sam_Raimi_film_series),Harry Osborn (Sam Raimi film series),http://dbpedia.org/resource/Harry_Osborn_(Sam_Raimi_film_series),62.12499999999999
+http://dbpedia.org/resource/Ben_Linus,Ben Linus,http://dbpedia.org/resource/Ben_Linus,62.11000000000001
+http://dbpedia.org/resource/Maggie_Greene,Maggie Greene,http://dbpedia.org/resource/Maggie_Greene,62.095
+http://dbpedia.org/resource/Hubie_and_Bertie,Hubie and Bertie,http://dbpedia.org/resource/Hubie_and_Bertie,62.075
+http://dbpedia.org/resource/Tracer_(Overwatch),Tracer (Overwatch),http://dbpedia.org/resource/Tracer_(Overwatch),61.98500000000001
+http://dbpedia.org/resource/Fu_Manchu,Fu Manchu,http://dbpedia.org/resource/Fu_Manchu,61.974999999999994
+http://dbpedia.org/resource/Susie_Diamond,Susie Diamond,http://dbpedia.org/resource/Susie_Diamond,61.919999999999995
+http://dbpedia.org/resource/Pinocchio,Pinocchio,http://dbpedia.org/resource/Pinocchio,61.894999999999996
+http://dbpedia.org/resource/Buzz_Lightyear,Buzz Lightyear,http://dbpedia.org/resource/Buzz_Lightyear,61.85
+http://dbpedia.org/resource/Ash_Ketchum,Ash Ketchum,http://dbpedia.org/resource/Ash_Ketchum,61.83000000000001
+http://dbpedia.org/resource/Pichu,Pichu,http://dbpedia.org/resource/Pichu,61.745000000000005
+http://dbpedia.org/resource/Max_Rebo_Band,Max Rebo Band,http://dbpedia.org/resource/Max_Rebo_Band,61.64500000000001
+http://dbpedia.org/resource/Meowth,Meowth,http://dbpedia.org/resource/Meowth,61.535
+http://dbpedia.org/resource/Lois_Lane_(1978_film_series_character),Lois Lane (1978 film series character),http://dbpedia.org/resource/Lois_Lane_(1978_film_series_character),61.53
+http://dbpedia.org/resource/Bruce_Wayne_(Gotham),Bruce Wayne (Gotham),http://dbpedia.org/resource/Bruce_Wayne_(Gotham),61.48
+http://dbpedia.org/resource/Jim_Gordon_(Gotham),Jim Gordon (Gotham),http://dbpedia.org/resource/Jim_Gordon_(Gotham),61.48
+http://dbpedia.org/resource/Gus_Fring,Gus Fring,http://dbpedia.org/resource/Gus_Fring,61.425000000000004
+http://dbpedia.org/resource/Drax_(Marvel_Cinematic_Universe),Drax (Marvel Cinematic Universe),http://dbpedia.org/resource/Drax_(Marvel_Cinematic_Universe),61.385000000000005
+http://dbpedia.org/resource/Éowyn,Éowyn,http://dbpedia.org/resource/Éowyn,61.37
+http://dbpedia.org/resource/Gossamer_(Looney_Tunes),Gossamer (Looney Tunes),http://dbpedia.org/resource/Gossamer_(Looney_Tunes),61.28
+http://dbpedia.org/resource/Samwise_Gamgee,Samwise Gamgee,http://dbpedia.org/resource/Samwise_Gamgee,61.225
+http://dbpedia.org/resource/Heihachi_Mishima,Heihachi Mishima,http://dbpedia.org/resource/Heihachi_Mishima,61.220000000000006
+http://dbpedia.org/resource/Morgan_Jones_(The_Walking_Dead),Morgan Jones (The Walking Dead),http://dbpedia.org/resource/Morgan_Jones_(The_Walking_Dead),61.209999999999994
+http://dbpedia.org/resource/Sylvie_(Marvel_Cinematic_Universe),Sylvie (Marvel Cinematic Universe),http://dbpedia.org/resource/Sylvie_(Marvel_Cinematic_Universe),61.160000000000004
+http://dbpedia.org/resource/Lightning_(Final_Fantasy),Lightning (Final Fantasy),http://dbpedia.org/resource/Lightning_(Final_Fantasy),61.14999999999999
+http://dbpedia.org/resource/Raggedy_Ann,Raggedy Ann,http://dbpedia.org/resource/Raggedy_Ann,61.12
+http://dbpedia.org/resource/Miss_Piggy,Miss Piggy,http://dbpedia.org/resource/Miss_Piggy,61.099999999999994
+http://dbpedia.org/resource/C._J._Cregg,C. J. Cregg,http://dbpedia.org/resource/C._J._Cregg,61.09
+http://dbpedia.org/resource/Charlie_Dog,Charlie Dog,http://dbpedia.org/resource/Charlie_Dog,61.06
+http://dbpedia.org/resource/Jaime_Lannister,Jaime Lannister,http://dbpedia.org/resource/Jaime_Lannister,61.044999999999995
+http://dbpedia.org/resource/Finn_Hudson,Finn Hudson,http://dbpedia.org/resource/Finn_Hudson,61.025000000000006
+http://dbpedia.org/resource/Greninja,Greninja,http://dbpedia.org/resource/Greninja,61.0
+http://dbpedia.org/resource/Uther_Pendragon,Uther Pendragon,http://dbpedia.org/resource/Uther_Pendragon,60.935
+http://dbpedia.org/resource/Edward_Nygma_(Batman_Forever),Edward Nygma (Batman Forever),http://dbpedia.org/resource/Edward_Nygma_(Batman_Forever),60.905
+http://dbpedia.org/resource/Kath_Fox,Kath Fox,http://dbpedia.org/resource/Kath_Fox,60.870000000000005
+http://dbpedia.org/resource/Josh_Hudson,Josh Hudson,http://dbpedia.org/resource/Josh_Hudson,60.794999999999995
+http://dbpedia.org/resource/Count_Dooku,Count Dooku,http://dbpedia.org/resource/Count_Dooku,60.77499999999999
+http://dbpedia.org/resource/Gil-galad,Gil-galad,http://dbpedia.org/resource/Gil-galad,60.68
+http://dbpedia.org/resource/Mace_Windu,Mace Windu,http://dbpedia.org/resource/Mace_Windu,60.57499999999999
+http://dbpedia.org/resource/Mechagodzilla,Mechagodzilla,http://dbpedia.org/resource/Mechagodzilla,60.52000000000001
+http://dbpedia.org/resource/Janice_Rand,Janice Rand,http://dbpedia.org/resource/Janice_Rand,60.45
+http://dbpedia.org/resource/Radagast,Radagast,http://dbpedia.org/resource/Radagast,60.405
+http://dbpedia.org/resource/Gwen_Stacy_(The_Amazing_Spider-Man_film_series),Gwen Stacy (The Amazing Spider-Man film series),http://dbpedia.org/resource/Gwen_Stacy_(The_Amazing_Spider-Man_film_series),60.355
+http://dbpedia.org/resource/Fëanor,Fëanor,http://dbpedia.org/resource/Fëanor,60.13499999999999
+http://dbpedia.org/resource/Mother_Gothel,Mother Gothel,http://dbpedia.org/resource/Mother_Gothel,60.095000000000006
+http://dbpedia.org/resource/Bulbasaur,Bulbasaur,http://dbpedia.org/resource/Bulbasaur,60.09
+http://dbpedia.org/resource/Momotarō,Momotarō,http://dbpedia.org/resource/Momotarō,60.04
+http://dbpedia.org/resource/Ogier_the_Dane,Ogier the Dane,http://dbpedia.org/resource/Ogier_the_Dane,60.04
+http://dbpedia.org/resource/Morty_Smith,Morty Smith,http://dbpedia.org/resource/Morty_Smith,60.015
+http://dbpedia.org/resource/Goldmoon,Goldmoon,http://dbpedia.org/resource/Goldmoon,59.970000000000006
+http://dbpedia.org/resource/Piccolo_(Dragon_Ball),Piccolo (Dragon Ball),http://dbpedia.org/resource/Piccolo_(Dragon_Ball),59.955
+http://dbpedia.org/resource/Raf_di_Lucca,Raf di Lucca,http://dbpedia.org/resource/Raf_di_Lucca,59.855
+http://dbpedia.org/resource/Victor_Frankenstein,Victor Frankenstein,http://dbpedia.org/resource/Victor_Frankenstein,59.785
+http://dbpedia.org/resource/Aang,Aang,http://dbpedia.org/resource/Aang,59.75
+http://dbpedia.org/resource/Ultraseven_(character),Ultraseven (character),http://dbpedia.org/resource/Ultraseven_(character),59.71000000000001
+http://dbpedia.org/resource/Trevor_Philips,Trevor Philips,http://dbpedia.org/resource/Trevor_Philips,59.69
+http://dbpedia.org/resource/Davros,Davros,http://dbpedia.org/resource/Davros,59.65500000000001
+http://dbpedia.org/resource/John_Rambo,John Rambo,http://dbpedia.org/resource/John_Rambo,59.650000000000006
+http://dbpedia.org/resource/George_Wickham,George Wickham,http://dbpedia.org/resource/George_Wickham,59.63000000000001
+http://dbpedia.org/resource/Pippi_Longstocking,Pippi Longstocking,http://dbpedia.org/resource/Pippi_Longstocking,59.625
+http://dbpedia.org/resource/Gimli_(Middle-earth),Gimli (Middle-earth),http://dbpedia.org/resource/Gimli_(Middle-earth),59.625
+http://dbpedia.org/resource/Mrs._Hudson,Mrs. Hudson,http://dbpedia.org/resource/Mrs._Hudson,59.59
+http://dbpedia.org/resource/Sue_Sylvester,Sue Sylvester,http://dbpedia.org/resource/Sue_Sylvester,59.575
+http://dbpedia.org/resource/Brigadier_Lethbridge-Stewart,Brigadier Lethbridge-Stewart,http://dbpedia.org/resource/Brigadier_Lethbridge-Stewart,59.515
+http://dbpedia.org/resource/Knuckles_the_Echidna,Knuckles the Echidna,http://dbpedia.org/resource/Knuckles_the_Echidna,59.470000000000006
+http://dbpedia.org/resource/Tin_Woodman,Tin Woodman,http://dbpedia.org/resource/Tin_Woodman,59.44499999999999
+http://dbpedia.org/resource/Sub-Zero_(Mortal_Kombat),Sub-Zero (Mortal Kombat),http://dbpedia.org/resource/Sub-Zero_(Mortal_Kombat),59.405
+http://dbpedia.org/resource/Tom_Ayrton,Tom Ayrton,http://dbpedia.org/resource/Tom_Ayrton,59.345
+http://dbpedia.org/resource/Cad_Bane,Cad Bane,http://dbpedia.org/resource/Cad_Bane,59.315
+http://dbpedia.org/resource/Mary_Jane_Watson_(Sam_Raimi_film_series),Mary Jane Watson (Sam Raimi film series),http://dbpedia.org/resource/Mary_Jane_Watson_(Sam_Raimi_film_series),59.315
+http://dbpedia.org/resource/Jack_McCoy,Jack McCoy,http://dbpedia.org/resource/Jack_McCoy,59.27000000000001
+http://dbpedia.org/resource/Sakura_Haruno,Sakura Haruno,http://dbpedia.org/resource/Sakura_Haruno,59.23000000000001
+http://dbpedia.org/resource/Marc_Antony_and_Pussyfoot,Marc Antony and Pussyfoot,http://dbpedia.org/resource/Marc_Antony_and_Pussyfoot,59.2
+http://dbpedia.org/resource/Gamera,Gamera,http://dbpedia.org/resource/Gamera,59.155
+http://dbpedia.org/resource/Justin_Suarez,Justin Suarez,http://dbpedia.org/resource/Justin_Suarez,59.1
+http://dbpedia.org/resource/Zosia_March,Zosia March,http://dbpedia.org/resource/Zosia_March,59.02500000000001
+http://dbpedia.org/resource/Joe_West_(Arrowverse),Joe West (Arrowverse),http://dbpedia.org/resource/Joe_West_(Arrowverse),59.02000000000001
+http://dbpedia.org/resource/Osamu_Tezuka's_Star_System,Osamu Tezuka's Star System,http://dbpedia.org/resource/Osamu_Tezuka's_Star_System,58.995
+http://dbpedia.org/resource/Scarecrow_(Oz),Scarecrow (Oz),http://dbpedia.org/resource/Scarecrow_(Oz),58.95
+http://dbpedia.org/resource/Dame_Edna_Everage,Dame Edna Everage,http://dbpedia.org/resource/Dame_Edna_Everage,58.90500000000001
+http://dbpedia.org/resource/Negan,Negan,http://dbpedia.org/resource/Negan,58.894999999999996
+http://dbpedia.org/resource/Merry_Brandybuck,Merry Brandybuck,http://dbpedia.org/resource/Merry_Brandybuck,58.845
+http://dbpedia.org/resource/Oswald_Cobblepot_(Gotham),Oswald Cobblepot (Gotham),http://dbpedia.org/resource/Oswald_Cobblepot_(Gotham),58.78
+http://dbpedia.org/resource/Chakotay,Chakotay,http://dbpedia.org/resource/Chakotay,58.67000000000001
+http://dbpedia.org/resource/Master_Chief_(Halo),Master Chief (Halo),http://dbpedia.org/resource/Master_Chief_(Halo),58.660000000000004
+http://dbpedia.org/resource/Big_Bad_Wolf,Big Bad Wolf,http://dbpedia.org/resource/Big_Bad_Wolf,58.66
+http://dbpedia.org/resource/Lex_Luthor_(DC_Extended_Universe),Lex Luthor (DC Extended Universe),http://dbpedia.org/resource/Lex_Luthor_(DC_Extended_Universe),58.595
+http://dbpedia.org/resource/Leon_S._Kennedy,Leon S. Kennedy,http://dbpedia.org/resource/Leon_S._Kennedy,58.59000000000001
+http://dbpedia.org/resource/Morgause,Morgause,http://dbpedia.org/resource/Morgause,58.46499999999999
+http://dbpedia.org/resource/Allen_Walker,Allen Walker,http://dbpedia.org/resource/Allen_Walker,58.32000000000001
+http://dbpedia.org/resource/Alex_Adams_(Holby_City),Alex Adams (Holby City),http://dbpedia.org/resource/Alex_Adams_(Holby_City),58.285
+http://dbpedia.org/resource/Duryodhana,Duryodhana,http://dbpedia.org/resource/Duryodhana,58.24000000000001
+http://dbpedia.org/resource/Tuor_and_Idril,Tuor and Idril,http://dbpedia.org/resource/Tuor_and_Idril,58.2
+http://dbpedia.org/resource/Bernice_Summerfield,Bernice Summerfield,http://dbpedia.org/resource/Bernice_Summerfield,58.169999999999995
+http://dbpedia.org/resource/Akuma_(Street_Fighter),Akuma (Street Fighter),http://dbpedia.org/resource/Akuma_(Street_Fighter),58.155
+http://dbpedia.org/resource/Cersei_Lannister,Cersei Lannister,http://dbpedia.org/resource/Cersei_Lannister,58.129999999999995
+http://dbpedia.org/resource/Twilight_Sparkle,Twilight Sparkle,http://dbpedia.org/resource/Twilight_Sparkle,58.115
+http://dbpedia.org/resource/Patty_and_Selma,Patty and Selma,http://dbpedia.org/resource/Patty_and_Selma,58.095
+http://dbpedia.org/resource/Sailor_Venus,Sailor Venus,http://dbpedia.org/resource/Sailor_Venus,58.055
+http://dbpedia.org/resource/Harry_Potter_(character),Harry Potter (character),http://dbpedia.org/resource/Harry_Potter_(character),58.04500000000001
+http://dbpedia.org/resource/SpongeBob_SquarePants_(character),SpongeBob SquarePants (character),http://dbpedia.org/resource/SpongeBob_SquarePants_(character),58.04
+http://dbpedia.org/resource/Penelope_Pussycat,Penelope Pussycat,http://dbpedia.org/resource/Penelope_Pussycat,58.025000000000006
+http://dbpedia.org/resource/Mystra_(Forgotten_Realms),Mystra (Forgotten Realms),http://dbpedia.org/resource/Mystra_(Forgotten_Realms),58.010000000000005
+http://dbpedia.org/resource/Jar_Jar_Binks,Jar Jar Binks,http://dbpedia.org/resource/Jar_Jar_Binks,57.959999999999994
+http://dbpedia.org/resource/Mantis_(Marvel_Cinematic_Universe),Mantis (Marvel Cinematic Universe),http://dbpedia.org/resource/Mantis_(Marvel_Cinematic_Universe),57.905
+http://dbpedia.org/resource/Wong_(Marvel_Cinematic_Universe),Wong (Marvel Cinematic Universe),http://dbpedia.org/resource/Wong_(Marvel_Cinematic_Universe),57.845
+http://dbpedia.org/resource/Tywin_Lannister,Tywin Lannister,http://dbpedia.org/resource/Tywin_Lannister,57.59
+http://dbpedia.org/resource/Luigi,Luigi,http://dbpedia.org/resource/Luigi,57.504999999999995
+http://dbpedia.org/resource/Maleficent,Maleficent,http://dbpedia.org/resource/Maleficent,57.39
+http://dbpedia.org/resource/Rudy_Huxtable,Rudy Huxtable,http://dbpedia.org/resource/Rudy_Huxtable,57.315
+http://dbpedia.org/resource/Nancy_(comic_strip),Nancy (comic strip),http://dbpedia.org/resource/Nancy_(comic_strip),57.315
+http://dbpedia.org/resource/Doctor_Aphra,Doctor Aphra,http://dbpedia.org/resource/Doctor_Aphra,57.300000000000004
+http://dbpedia.org/resource/Lunafreya_Nox_Fleuret,Lunafreya Nox Fleuret,http://dbpedia.org/resource/Lunafreya_Nox_Fleuret,57.285
+http://dbpedia.org/resource/Boromir,Boromir,http://dbpedia.org/resource/Boromir,57.245000000000005
+http://dbpedia.org/resource/Strawberry_Shortcake,Strawberry Shortcake,http://dbpedia.org/resource/Strawberry_Shortcake,57.22
+http://dbpedia.org/resource/Drizzt_Do'Urden,Drizzt Do'Urden,http://dbpedia.org/resource/Drizzt_Do'Urden,57.19
+http://dbpedia.org/resource/Mega_Man_(character),Mega Man (character),http://dbpedia.org/resource/Mega_Man_(character),57.050000000000004
+http://dbpedia.org/resource/Abra_Durant,Abra Durant,http://dbpedia.org/resource/Abra_Durant,56.98499999999999
+http://dbpedia.org/resource/Iori_Yagami,Iori Yagami,http://dbpedia.org/resource/Iori_Yagami,56.955
+http://dbpedia.org/resource/Minsc,Minsc,http://dbpedia.org/resource/Minsc,56.900000000000006
+http://dbpedia.org/resource/Legolas,Legolas,http://dbpedia.org/resource/Legolas,56.894999999999996
+http://dbpedia.org/resource/Kenny_McCormick,Kenny McCormick,http://dbpedia.org/resource/Kenny_McCormick,56.81999999999999
+http://dbpedia.org/resource/Jean_Grey_(film_character),Jean Grey (film character),http://dbpedia.org/resource/Jean_Grey_(film_character),56.785000000000004
+http://dbpedia.org/resource/Worf,Worf,http://dbpedia.org/resource/Worf,56.775000000000006
+http://dbpedia.org/resource/Sayaka_Miki,Sayaka Miki,http://dbpedia.org/resource/Sayaka_Miki,56.769999999999996
+http://dbpedia.org/resource/Miss_Marple,Miss Marple,http://dbpedia.org/resource/Miss_Marple,56.760000000000005
+http://dbpedia.org/resource/Eevee,Eevee,http://dbpedia.org/resource/Eevee,56.675000000000004
+http://dbpedia.org/resource/Wizard_of_Oz_(character),Wizard of Oz (character),http://dbpedia.org/resource/Wizard_of_Oz_(character),56.650000000000006
+http://dbpedia.org/resource/Stefon,Stefon,http://dbpedia.org/resource/Stefon,56.62499999999999
+http://dbpedia.org/resource/Professor_Frink,Professor Frink,http://dbpedia.org/resource/Professor_Frink,56.6
+http://dbpedia.org/resource/Lionel_Luthor,Lionel Luthor,http://dbpedia.org/resource/Lionel_Luthor,56.58
+http://dbpedia.org/resource/Ange_Godard,Ange Godard,http://dbpedia.org/resource/Ange_Godard,56.50500000000001
+http://dbpedia.org/resource/Meredith_Grey,Meredith Grey,http://dbpedia.org/resource/Meredith_Grey,56.48
+http://dbpedia.org/resource/Frasier_Crane,Frasier Crane,http://dbpedia.org/resource/Frasier_Crane,56.419999999999995
+http://dbpedia.org/resource/Jean-Luc_Picard,Jean-Luc Picard,http://dbpedia.org/resource/Jean-Luc_Picard,56.38499999999999
+http://dbpedia.org/resource/Tsubasa_Oozora,Tsubasa Oozora,http://dbpedia.org/resource/Tsubasa_Oozora,56.34000000000001
+http://dbpedia.org/resource/Joshamee_Gibbs,Joshamee Gibbs,http://dbpedia.org/resource/Joshamee_Gibbs,56.34
+http://dbpedia.org/resource/Ro_Laren,Ro Laren,http://dbpedia.org/resource/Ro_Laren,56.260000000000005
+http://dbpedia.org/resource/Dale_Horvath,Dale Horvath,http://dbpedia.org/resource/Dale_Horvath,56.260000000000005
+http://dbpedia.org/resource/Claude_Cat,Claude Cat,http://dbpedia.org/resource/Claude_Cat,56.24
+http://dbpedia.org/resource/M_(James_Bond),M (James Bond),http://dbpedia.org/resource/M_(James_Bond),56.144999999999996
+http://dbpedia.org/resource/Sniffles_(Merrie_Melodies),Sniffles (Merrie Melodies),http://dbpedia.org/resource/Sniffles_(Merrie_Melodies),56.135000000000005
+http://dbpedia.org/resource/Ken_Masters,Ken Masters,http://dbpedia.org/resource/Ken_Masters,56.129999999999995
+http://dbpedia.org/resource/Daisy_Duck,Daisy Duck,http://dbpedia.org/resource/Daisy_Duck,56.015
+http://dbpedia.org/resource/Mina_Harker,Mina Harker,http://dbpedia.org/resource/Mina_Harker,55.965
+http://dbpedia.org/resource/Ultraman_Mebius_(character),Ultraman Mebius (character),http://dbpedia.org/resource/Ultraman_Mebius_(character),55.955
+http://dbpedia.org/resource/Poison_(Final_Fight),Poison (Final Fight),http://dbpedia.org/resource/Poison_(Final_Fight),55.900000000000006
+http://dbpedia.org/resource/Lana_Lang_(Smallville),Lana Lang (Smallville),http://dbpedia.org/resource/Lana_Lang_(Smallville),55.89500000000001
+http://dbpedia.org/resource/Dracula_(Castlevania),Dracula (Castlevania),http://dbpedia.org/resource/Dracula_(Castlevania),55.86000000000001
+http://dbpedia.org/resource/Tiana_(The_Princess_and_the_Frog),Tiana (The Princess and the Frog),http://dbpedia.org/resource/Tiana_(The_Princess_and_the_Frog),55.83
+http://dbpedia.org/resource/Elaine_Marley,Elaine Marley,http://dbpedia.org/resource/Elaine_Marley,55.83
+http://dbpedia.org/resource/Chris_Redfield,Chris Redfield,http://dbpedia.org/resource/Chris_Redfield,55.815
+http://dbpedia.org/resource/Ada_Wong,Ada Wong,http://dbpedia.org/resource/Ada_Wong,55.815
+http://dbpedia.org/resource/Jason,Jason,http://dbpedia.org/resource/Jason,55.815
+http://dbpedia.org/resource/Sam_Nicholls,Sam Nicholls,http://dbpedia.org/resource/Sam_Nicholls,55.809999999999995
+http://dbpedia.org/resource/Maggie_Simpson,Maggie Simpson,http://dbpedia.org/resource/Maggie_Simpson,55.669999999999995
+http://dbpedia.org/resource/Q_(Star_Trek),Q (Star Trek),http://dbpedia.org/resource/Q_(Star_Trek),55.64
+http://dbpedia.org/resource/Krillin,Krillin,http://dbpedia.org/resource/Krillin,55.62
+http://dbpedia.org/resource/Three_Witches,Three Witches,http://dbpedia.org/resource/Three_Witches,55.61000000000001
+http://dbpedia.org/resource/Nathan_Drake_(Uncharted),Nathan Drake (Uncharted),http://dbpedia.org/resource/Nathan_Drake_(Uncharted),55.595
+http://dbpedia.org/resource/Jotaro_Kujo,Jotaro Kujo,http://dbpedia.org/resource/Jotaro_Kujo,55.54500000000001
+http://dbpedia.org/resource/Portrayals_of_Alice_in_Wonderland,Portrayals of Alice in Wonderland,http://dbpedia.org/resource/Portrayals_of_Alice_in_Wonderland,55.535000000000004
+http://dbpedia.org/resource/King_Lot,King Lot,http://dbpedia.org/resource/King_Lot,55.5
+http://dbpedia.org/resource/Prue_Halliwell,Prue Halliwell,http://dbpedia.org/resource/Prue_Halliwell,55.495000000000005
+http://dbpedia.org/resource/Phoebe_Halliwell,Phoebe Halliwell,http://dbpedia.org/resource/Phoebe_Halliwell,55.495
+http://dbpedia.org/resource/Cowardly_Lion,Cowardly Lion,http://dbpedia.org/resource/Cowardly_Lion,55.47
+http://dbpedia.org/resource/Bertie_Wooster,Bertie Wooster,http://dbpedia.org/resource/Bertie_Wooster,55.455
+http://dbpedia.org/resource/Jerry_Mouse,Jerry Mouse,http://dbpedia.org/resource/Jerry_Mouse,55.34
+http://dbpedia.org/resource/Maddy_Young,Maddy Young,http://dbpedia.org/resource/Maddy_Young,55.325
+http://dbpedia.org/resource/Pee-Wee_Harris,Pee-Wee Harris,http://dbpedia.org/resource/Pee-Wee_Harris,55.32499999999999
+http://dbpedia.org/resource/Samus_Aran,Samus Aran,http://dbpedia.org/resource/Samus_Aran,55.31
+http://dbpedia.org/resource/Pee-wee_Herman,Pee-wee Herman,http://dbpedia.org/resource/Pee-wee_Herman,55.285000000000004
+http://dbpedia.org/resource/Magikarp,Magikarp,http://dbpedia.org/resource/Magikarp,55.19499999999999
+http://dbpedia.org/resource/Tyrone_Johnson_and_Tandy_Bowen_(Marvel_Cinematic_Universe),Tyrone Johnson and Tandy Bowen (Marvel Cinematic Universe),http://dbpedia.org/resource/Tyrone_Johnson_and_Tandy_Bowen_(Marvel_Cinematic_Universe),55.175000000000004
+http://dbpedia.org/resource/He-Man,He-Man,http://dbpedia.org/resource/He-Man,55.165
+http://dbpedia.org/resource/Ben_Sherwood_(Holby_City),Ben Sherwood (Holby City),http://dbpedia.org/resource/Ben_Sherwood_(Holby_City),55.165
+http://dbpedia.org/resource/Ryo_Sakazaki,Ryo Sakazaki,http://dbpedia.org/resource/Ryo_Sakazaki,54.98500000000001
+http://dbpedia.org/resource/Treebeard,Treebeard,http://dbpedia.org/resource/Treebeard,54.97
+http://dbpedia.org/resource/Ultraman_Nexus_(character),Ultraman Nexus (character),http://dbpedia.org/resource/Ultraman_Nexus_(character),54.97
+http://dbpedia.org/resource/Paz_Vizsla,Paz Vizsla,http://dbpedia.org/resource/Paz_Vizsla,54.965
+http://dbpedia.org/resource/Inspector_Lestrade,Inspector Lestrade,http://dbpedia.org/resource/Inspector_Lestrade,54.915
+http://dbpedia.org/resource/Yudhishthira,Yudhishthira,http://dbpedia.org/resource/Yudhishthira,54.915
+http://dbpedia.org/resource/Blair_Waldorf,Blair Waldorf,http://dbpedia.org/resource/Blair_Waldorf,54.855
+http://dbpedia.org/resource/Mew_(Pokémon),Mew (Pokémon),http://dbpedia.org/resource/Mew_(Pokémon),54.815
+http://dbpedia.org/resource/Scorpion_(Mortal_Kombat),Scorpion (Mortal Kombat),http://dbpedia.org/resource/Scorpion_(Mortal_Kombat),54.78
+http://dbpedia.org/resource/Glenn_Rhee,Glenn Rhee,http://dbpedia.org/resource/Glenn_Rhee,54.754999999999995
+http://dbpedia.org/resource/Martha_Jones,Martha Jones,http://dbpedia.org/resource/Martha_Jones,54.69
+http://dbpedia.org/resource/Woody_Woodpecker,Woody Woodpecker,http://dbpedia.org/resource/Woody_Woodpecker,54.64
+http://dbpedia.org/resource/Albert_Wesker,Albert Wesker,http://dbpedia.org/resource/Albert_Wesker,54.62
+http://dbpedia.org/resource/Bernard_Quatermass,Bernard Quatermass,http://dbpedia.org/resource/Bernard_Quatermass,54.475
+http://dbpedia.org/resource/Zilla_(Godzilla),Zilla (Godzilla),http://dbpedia.org/resource/Zilla_(Godzilla),54.455
+http://dbpedia.org/resource/Igraine,Igraine,http://dbpedia.org/resource/Igraine,54.32000000000001
+http://dbpedia.org/resource/Belldandy,Belldandy,http://dbpedia.org/resource/Belldandy,54.31
+http://dbpedia.org/resource/Felix_Leiter,Felix Leiter,http://dbpedia.org/resource/Felix_Leiter,54.269999999999996
+http://dbpedia.org/resource/Aerith_Gainsborough,Aerith Gainsborough,http://dbpedia.org/resource/Aerith_Gainsborough,54.24
+http://dbpedia.org/resource/Caleb_Knight,Caleb Knight,http://dbpedia.org/resource/Caleb_Knight,54.23
+http://dbpedia.org/resource/Byomkesh_Bakshi,Byomkesh Bakshi,http://dbpedia.org/resource/Byomkesh_Bakshi,54.17000000000001
+http://dbpedia.org/resource/Arthur_Digby,Arthur Digby,http://dbpedia.org/resource/Arthur_Digby,54.14
+http://dbpedia.org/resource/Mr._Dooley,Mr. Dooley,http://dbpedia.org/resource/Mr._Dooley,54.125
+http://dbpedia.org/resource/Minnie_Mouse,Minnie Mouse,http://dbpedia.org/resource/Minnie_Mouse,54.115
+http://dbpedia.org/resource/Nome_King,Nome King,http://dbpedia.org/resource/Nome_King,54.11000000000001
+http://dbpedia.org/resource/Pluto_(Disney),Pluto (Disney),http://dbpedia.org/resource/Pluto_(Disney),54.075
+http://dbpedia.org/resource/Lois_Lane_(Superman_&_Lois),Lois Lane (Superman & Lois),http://dbpedia.org/resource/Lois_Lane_(Superman_&_Lois),54.055
+http://dbpedia.org/resource/Seven_of_Nine,Seven of Nine,http://dbpedia.org/resource/Seven_of_Nine,54.03000000000001
+http://dbpedia.org/resource/Vergil_(Devil_May_Cry),Vergil (Devil May Cry),http://dbpedia.org/resource/Vergil_(Devil_May_Cry),53.975
+http://dbpedia.org/resource/Daniel_Jackson_(Stargate),Daniel Jackson (Stargate),http://dbpedia.org/resource/Daniel_Jackson_(Stargate),53.975
+http://dbpedia.org/resource/Jessie_(Toy_Story),Jessie (Toy Story),http://dbpedia.org/resource/Jessie_(Toy_Story),53.965
+http://dbpedia.org/resource/Daphne_Blake,Daphne Blake,http://dbpedia.org/resource/Daphne_Blake,53.94
+http://dbpedia.org/resource/Michael_Dawson_(Lost),Michael Dawson (Lost),http://dbpedia.org/resource/Michael_Dawson_(Lost),53.925000000000004
+http://dbpedia.org/resource/Susan_Foreman,Susan Foreman,http://dbpedia.org/resource/Susan_Foreman,53.915
+http://dbpedia.org/resource/Olivia_Dunham,Olivia Dunham,http://dbpedia.org/resource/Olivia_Dunham,53.900000000000006
+http://dbpedia.org/resource/Lúthien_and_Beren,Lúthien and Beren,http://dbpedia.org/resource/Lúthien_and_Beren,53.865
+http://dbpedia.org/resource/Lois_Lane_(DC_Extended_Universe),Lois Lane (DC Extended Universe),http://dbpedia.org/resource/Lois_Lane_(DC_Extended_Universe),53.845000000000006
+http://dbpedia.org/resource/Alexander_Mahone,Alexander Mahone,http://dbpedia.org/resource/Alexander_Mahone,53.705
+http://dbpedia.org/resource/Ertuğrul_Bey_(fictional_character),Ertuğrul Bey (fictional character),http://dbpedia.org/resource/Ertuğrul_Bey_(fictional_character),53.58
+http://dbpedia.org/resource/Finn_(Star_Wars),Finn (Star Wars),http://dbpedia.org/resource/Finn_(Star_Wars),53.575
+http://dbpedia.org/resource/Captain_Flint,Captain Flint,http://dbpedia.org/resource/Captain_Flint,53.565
+http://dbpedia.org/resource/Sasha_Williams_(The_Walking_Dead),Sasha Williams (The Walking Dead),http://dbpedia.org/resource/Sasha_Williams_(The_Walking_Dead),53.510000000000005
+http://dbpedia.org/resource/Snorlax,Snorlax,http://dbpedia.org/resource/Snorlax,53.48999999999999
+http://dbpedia.org/resource/Fozzie_Bear,Fozzie Bear,http://dbpedia.org/resource/Fozzie_Bear,53.47
+http://dbpedia.org/resource/Rita_Bennett,Rita Bennett,http://dbpedia.org/resource/Rita_Bennett,53.465
+http://dbpedia.org/resource/Brihadratha_Ikshvaku,Brihadratha Ikshvaku,http://dbpedia.org/resource/Brihadratha_Ikshvaku,53.45
+http://dbpedia.org/resource/Connie_Beauchamp,Connie Beauchamp,http://dbpedia.org/resource/Connie_Beauchamp,53.44
+http://dbpedia.org/resource/Finwë_and_Míriel,Finwë and Míriel,http://dbpedia.org/resource/Finwë_and_Míriel,53.39
+http://dbpedia.org/resource/Angel_(Buffy_the_Vampire_Slayer),Angel (Buffy the Vampire Slayer),http://dbpedia.org/resource/Angel_(Buffy_the_Vampire_Slayer),53.379999999999995
+http://dbpedia.org/resource/Dr._Watson,Dr. Watson,http://dbpedia.org/resource/Dr._Watson,53.37
+http://dbpedia.org/resource/Zod_(DC_Extended_Universe),Zod (DC Extended Universe),http://dbpedia.org/resource/Zod_(DC_Extended_Universe),53.35
+http://dbpedia.org/resource/Chibiusa,Chibiusa,http://dbpedia.org/resource/Chibiusa,53.35
+http://dbpedia.org/resource/Plankton_and_Karen,Plankton and Karen,http://dbpedia.org/resource/Plankton_and_Karen,53.345
+http://dbpedia.org/resource/Pamela_Isley_(Batman_&_Robin),Pamela Isley (Batman & Robin),http://dbpedia.org/resource/Pamela_Isley_(Batman_&_Robin),53.294999999999995
+http://dbpedia.org/resource/Darth_Bane,Darth Bane,http://dbpedia.org/resource/Darth_Bane,53.285000000000004
+http://dbpedia.org/resource/Sandokan,Sandokan,http://dbpedia.org/resource/Sandokan,53.209999999999994
+http://dbpedia.org/resource/Kyle_Broflovski,Kyle Broflovski,http://dbpedia.org/resource/Kyle_Broflovski,53.19999999999999
+http://dbpedia.org/resource/Tony_Soprano,Tony Soprano,http://dbpedia.org/resource/Tony_Soprano,53.19
+http://dbpedia.org/resource/Guybrush_Threepwood,Guybrush Threepwood,http://dbpedia.org/resource/Guybrush_Threepwood,53.19
+http://dbpedia.org/resource/Psyduck,Psyduck,http://dbpedia.org/resource/Psyduck,53.11000000000001
+http://dbpedia.org/resource/Lois_Lane_(Smallville),Lois Lane (Smallville),http://dbpedia.org/resource/Lois_Lane_(Smallville),53.059999999999995
+http://dbpedia.org/resource/Emma_Pillsbury,Emma Pillsbury,http://dbpedia.org/resource/Emma_Pillsbury,53.055
+http://dbpedia.org/resource/Ron_Weasley,Ron Weasley,http://dbpedia.org/resource/Ron_Weasley,53.010000000000005
+http://dbpedia.org/resource/Celebrimbor,Celebrimbor,http://dbpedia.org/resource/Celebrimbor,53.004999999999995
+http://dbpedia.org/resource/The_Saint_(Simon_Templar),The Saint (Simon Templar),http://dbpedia.org/resource/The_Saint_(Simon_Templar),52.959999999999994
+http://dbpedia.org/resource/Ned_Stark,Ned Stark,http://dbpedia.org/resource/Ned_Stark,52.93
+http://dbpedia.org/resource/Alicia_Clark,Alicia Clark,http://dbpedia.org/resource/Alicia_Clark,52.894999999999996
+http://dbpedia.org/resource/Rubeus_Hagrid,Rubeus Hagrid,http://dbpedia.org/resource/Rubeus_Hagrid,52.875
+http://dbpedia.org/resource/BB-8,BB-8,http://dbpedia.org/resource/BB-8,52.875
+http://dbpedia.org/resource/Duck_Dodgers,Duck Dodgers,http://dbpedia.org/resource/Duck_Dodgers,52.78
+http://dbpedia.org/resource/Tom_Cat,Tom Cat,http://dbpedia.org/resource/Tom_Cat,52.775000000000006
+http://dbpedia.org/resource/Fairy_Godmother_(Shrek),Fairy Godmother (Shrek),http://dbpedia.org/resource/Fairy_Godmother_(Shrek),52.769999999999996
+http://dbpedia.org/resource/Lapras,Lapras,http://dbpedia.org/resource/Lapras,52.754999999999995
+http://dbpedia.org/resource/Kevin_Butler_(character),Kevin Butler (character),http://dbpedia.org/resource/Kevin_Butler_(character),52.74
+http://dbpedia.org/resource/Khan_Noonien_Singh,Khan Noonien Singh,http://dbpedia.org/resource/Khan_Noonien_Singh,52.625
+http://dbpedia.org/resource/Captain_Rex,Captain Rex,http://dbpedia.org/resource/Captain_Rex,52.595000000000006
+http://dbpedia.org/resource/Sam_Strachan,Sam Strachan,http://dbpedia.org/resource/Sam_Strachan,52.56999999999999
+http://dbpedia.org/resource/Cameron_Mitchell_(Stargate),Cameron Mitchell (Stargate),http://dbpedia.org/resource/Cameron_Mitchell_(Stargate),52.52000000000001
+http://dbpedia.org/resource/Rachel_Dawes,Rachel Dawes,http://dbpedia.org/resource/Rachel_Dawes,52.50999999999999
+http://dbpedia.org/resource/Rhys_Williams_(Torchwood),Rhys Williams (Torchwood),http://dbpedia.org/resource/Rhys_Williams_(Torchwood),52.49
+http://dbpedia.org/resource/Kirby_(character),Kirby (character),http://dbpedia.org/resource/Kirby_(character),52.44
+http://dbpedia.org/resource/Bhima,Bhima,http://dbpedia.org/resource/Bhima,52.425000000000004
+http://dbpedia.org/resource/Ichigo_Kurosaki,Ichigo Kurosaki,http://dbpedia.org/resource/Ichigo_Kurosaki,52.410000000000004
+http://dbpedia.org/resource/Claire_Temple_(Marvel_Cinematic_Universe),Claire Temple (Marvel Cinematic Universe),http://dbpedia.org/resource/Claire_Temple_(Marvel_Cinematic_Universe),52.38499999999999
+http://dbpedia.org/resource/Donald_Cragen,Donald Cragen,http://dbpedia.org/resource/Donald_Cragen,52.33
+http://dbpedia.org/resource/Isildur,Isildur,http://dbpedia.org/resource/Isildur,52.325
+http://dbpedia.org/resource/Hinata_Hyuga,Hinata Hyuga,http://dbpedia.org/resource/Hinata_Hyuga,52.300000000000004
+http://dbpedia.org/resource/Penny_(The_Big_Bang_Theory),Penny (The Big Bang Theory),http://dbpedia.org/resource/Penny_(The_Big_Bang_Theory),52.13499999999999
+http://dbpedia.org/resource/Zubin_Khan,Zubin Khan,http://dbpedia.org/resource/Zubin_Khan,52.129999999999995
+http://dbpedia.org/resource/Elphaba,Elphaba,http://dbpedia.org/resource/Elphaba,52.129999999999995
+http://dbpedia.org/resource/Shelob,Shelob,http://dbpedia.org/resource/Shelob,52.11000000000001
+http://dbpedia.org/resource/Lola_Bunny,Lola Bunny,http://dbpedia.org/resource/Lola_Bunny,52.10999999999999
+http://dbpedia.org/resource/Apu_Nahasapeemapetilon,Apu Nahasapeemapetilon,http://dbpedia.org/resource/Apu_Nahasapeemapetilon,52.050000000000004
+http://dbpedia.org/resource/Prince_Hamlet,Prince Hamlet,http://dbpedia.org/resource/Prince_Hamlet,52.03
+http://dbpedia.org/resource/Bo-Katan_Kryze,Bo-Katan Kryze,http://dbpedia.org/resource/Bo-Katan_Kryze,52.010000000000005
+http://dbpedia.org/resource/X_(Mega_Man),X (Mega Man),http://dbpedia.org/resource/X_(Mega_Man),52.010000000000005
+http://dbpedia.org/resource/Blade_(New_Line_franchise_character),Blade (New Line franchise character),http://dbpedia.org/resource/Blade_(New_Line_franchise_character),51.870000000000005
+http://dbpedia.org/resource/Mr._Garrison,Mr. Garrison,http://dbpedia.org/resource/Mr._Garrison,51.83500000000001
+http://dbpedia.org/resource/Gundam_(fictional_robot),Gundam (fictional robot),http://dbpedia.org/resource/Gundam_(fictional_robot),51.834999999999994
+http://dbpedia.org/resource/Kirsty_Clements,Kirsty Clements,http://dbpedia.org/resource/Kirsty_Clements,51.825
+http://dbpedia.org/resource/Sexton_Blake,Sexton Blake,http://dbpedia.org/resource/Sexton_Blake,51.769999999999996
+http://dbpedia.org/resource/Tharizdun,Tharizdun,http://dbpedia.org/resource/Tharizdun,51.73500000000001
+http://dbpedia.org/resource/Fred_Jones_(Scooby-Doo),Fred Jones (Scooby-Doo),http://dbpedia.org/resource/Fred_Jones_(Scooby-Doo),51.73
+http://dbpedia.org/resource/Adrian_Monk,Adrian Monk,http://dbpedia.org/resource/Adrian_Monk,51.69499999999999
+http://dbpedia.org/resource/Geese_Howard,Geese Howard,http://dbpedia.org/resource/Geese_Howard,51.635000000000005
+http://dbpedia.org/resource/Rachel_Berry,Rachel Berry,http://dbpedia.org/resource/Rachel_Berry,51.625
+http://dbpedia.org/resource/Blanka,Blanka,http://dbpedia.org/resource/Blanka,51.575
+http://dbpedia.org/resource/Pippin_Took,Pippin Took,http://dbpedia.org/resource/Pippin_Took,51.555
+http://dbpedia.org/resource/Titania_(A_Midsummer_Night's_Dream),Titania (A Midsummer Night's Dream),http://dbpedia.org/resource/Titania_(A_Midsummer_Night's_Dream),51.49
+http://dbpedia.org/resource/Kreia,Kreia,http://dbpedia.org/resource/Kreia,51.425000000000004
+http://dbpedia.org/resource/Toad_(Nintendo),Toad (Nintendo),http://dbpedia.org/resource/Toad_(Nintendo),51.375
+http://dbpedia.org/resource/Fingolfin,Fingolfin,http://dbpedia.org/resource/Fingolfin,51.36000000000001
+http://dbpedia.org/resource/2-D_(character),2-D (character),http://dbpedia.org/resource/2-D_(character),51.35999999999999
+http://dbpedia.org/resource/Taki_(Soulcalibur),Taki (Soulcalibur),http://dbpedia.org/resource/Taki_(Soulcalibur),51.35
+http://dbpedia.org/resource/Brides_of_Dracula,Brides of Dracula,http://dbpedia.org/resource/Brides_of_Dracula,51.33
+http://dbpedia.org/resource/John_Locke_(Lost),John Locke (Lost),http://dbpedia.org/resource/John_Locke_(Lost),51.29
+http://dbpedia.org/resource/Finn_the_Human,Finn the Human,http://dbpedia.org/resource/Finn_the_Human,51.2
+http://dbpedia.org/resource/Joel_(The_Last_of_Us),Joel (The Last of Us),http://dbpedia.org/resource/Joel_(The_Last_of_Us),51.195
+http://dbpedia.org/resource/Cassian_Andor,Cassian Andor,http://dbpedia.org/resource/Cassian_Andor,51.19
+http://dbpedia.org/resource/Jacob_Masters,Jacob Masters,http://dbpedia.org/resource/Jacob_Masters,51.17
+http://dbpedia.org/resource/Captain_Phasma,Captain Phasma,http://dbpedia.org/resource/Captain_Phasma,51.155
+http://dbpedia.org/resource/Squall_Leonhart,Squall Leonhart,http://dbpedia.org/resource/Squall_Leonhart,51.135
+http://dbpedia.org/resource/Makoto_Naegi,Makoto Naegi,http://dbpedia.org/resource/Makoto_Naegi,51.095000000000006
+http://dbpedia.org/resource/LeChuck,LeChuck,http://dbpedia.org/resource/LeChuck,51.08500000000001
+http://dbpedia.org/resource/Mrs._Puff,Mrs. Puff,http://dbpedia.org/resource/Mrs._Puff,51.06999999999999
+http://dbpedia.org/resource/Rose_and_Bernard_Nadler,Rose and Bernard Nadler,http://dbpedia.org/resource/Rose_and_Bernard_Nadler,51.055
+http://dbpedia.org/resource/Huckleberry_Hound,Huckleberry Hound,http://dbpedia.org/resource/Huckleberry_Hound,50.955000000000005
+http://dbpedia.org/resource/Nakoruru,Nakoruru,http://dbpedia.org/resource/Nakoruru,50.935
+http://dbpedia.org/resource/Gyarados,Gyarados,http://dbpedia.org/resource/Gyarados,50.86000000000001
+http://dbpedia.org/resource/J._R._Ewing,J. R. Ewing,http://dbpedia.org/resource/J._R._Ewing,50.75999999999999
+http://dbpedia.org/resource/John_Gaskell,John Gaskell,http://dbpedia.org/resource/John_Gaskell,50.754999999999995
+http://dbpedia.org/resource/Jirahs,Jirahs,http://dbpedia.org/resource/Jirahs,50.72
+http://dbpedia.org/resource/Vampire_Hunter_D,Vampire Hunter D,http://dbpedia.org/resource/Vampire_Hunter_D,50.69
+http://dbpedia.org/resource/Willow_Rosenberg,Willow Rosenberg,http://dbpedia.org/resource/Willow_Rosenberg,50.67
+http://dbpedia.org/resource/Charmander,Charmander,http://dbpedia.org/resource/Charmander,50.629999999999995
+http://dbpedia.org/resource/Kakashi_Hatake,Kakashi Hatake,http://dbpedia.org/resource/Kakashi_Hatake,50.56
+http://dbpedia.org/resource/Scrappy-Doo,Scrappy-Doo,http://dbpedia.org/resource/Scrappy-Doo,50.555
+http://dbpedia.org/resource/Mighty_Mouse,Mighty Mouse,http://dbpedia.org/resource/Mighty_Mouse,50.48500000000001
+http://dbpedia.org/resource/ALF_(character),ALF (character),http://dbpedia.org/resource/ALF_(character),50.465
+http://dbpedia.org/resource/Jules_Maigret,Jules Maigret,http://dbpedia.org/resource/Jules_Maigret,50.455
+http://dbpedia.org/resource/Piper_Halliwell,Piper Halliwell,http://dbpedia.org/resource/Piper_Halliwell,50.43000000000001
+http://dbpedia.org/resource/Lloyd_Garmadon,Lloyd Garmadon,http://dbpedia.org/resource/Lloyd_Garmadon,50.370000000000005
+http://dbpedia.org/resource/Shadow_the_Hedgehog,Shadow the Hedgehog,http://dbpedia.org/resource/Shadow_the_Hedgehog,50.370000000000005
+http://dbpedia.org/resource/Sam_Winchester,Sam Winchester,http://dbpedia.org/resource/Sam_Winchester,50.355000000000004
+http://dbpedia.org/resource/Stitch_(Lilo_&_Stitch),Stitch (Lilo & Stitch),http://dbpedia.org/resource/Stitch_(Lilo_&_Stitch),50.35
+http://dbpedia.org/resource/Sailor_Mercury,Sailor Mercury,http://dbpedia.org/resource/Sailor_Mercury,50.295
+http://dbpedia.org/resource/John_Casey_(Chuck),John Casey (Chuck),http://dbpedia.org/resource/John_Casey_(Chuck),50.26
+http://dbpedia.org/resource/Lars_Alexandersson,Lars Alexandersson,http://dbpedia.org/resource/Lars_Alexandersson,50.23499999999999
+http://dbpedia.org/resource/K9_(Doctor_Who),K9 (Doctor Who),http://dbpedia.org/resource/K9_(Doctor_Who),50.18
+http://dbpedia.org/resource/Buffy_Summers,Buffy Summers,http://dbpedia.org/resource/Buffy_Summers,50.16
+http://dbpedia.org/resource/Tuxedo_Mask,Tuxedo Mask,http://dbpedia.org/resource/Tuxedo_Mask,50.115
+http://dbpedia.org/resource/Narfi,Narfi,http://dbpedia.org/resource/Narfi,50.085
+http://dbpedia.org/resource/Beatrice_(Much_Ado_About_Nothing),Beatrice (Much Ado About Nothing),http://dbpedia.org/resource/Beatrice_(Much_Ado_About_Nothing),49.974999999999994
+http://dbpedia.org/resource/Monkey_King,Monkey King,http://dbpedia.org/resource/Monkey_King,49.885000000000005
+http://dbpedia.org/resource/Alucard_(Hellsing),Alucard (Hellsing),http://dbpedia.org/resource/Alucard_(Hellsing),49.88
+http://dbpedia.org/resource/Medb,Medb,http://dbpedia.org/resource/Medb,49.85
+http://dbpedia.org/resource/Ivy_Valentine,Ivy Valentine,http://dbpedia.org/resource/Ivy_Valentine,49.775000000000006
+http://dbpedia.org/resource/Jacen_Solo,Jacen Solo,http://dbpedia.org/resource/Jacen_Solo,49.775000000000006
+http://dbpedia.org/resource/Mr._Eko,Mr. Eko,http://dbpedia.org/resource/Mr._Eko,49.77
+http://dbpedia.org/resource/Jiraiya_(Naruto),Jiraiya (Naruto),http://dbpedia.org/resource/Jiraiya_(Naruto),49.73500000000001
+http://dbpedia.org/resource/Elendil,Elendil,http://dbpedia.org/resource/Elendil,49.690000000000005
+http://dbpedia.org/resource/Tina_Cohen-Chang,Tina Cohen-Chang,http://dbpedia.org/resource/Tina_Cohen-Chang,49.660000000000004
+http://dbpedia.org/resource/M._Bison,M. Bison,http://dbpedia.org/resource/M._Bison,49.59
+http://dbpedia.org/resource/Man_in_Black_(Lost),Man in Black (Lost),http://dbpedia.org/resource/Man_in_Black_(Lost),49.59
+http://dbpedia.org/resource/Crash_Bandicoot_(character),Crash Bandicoot (character),http://dbpedia.org/resource/Crash_Bandicoot_(character),49.575
+http://dbpedia.org/resource/Bhishma,Bhishma,http://dbpedia.org/resource/Bhishma,49.55
+http://dbpedia.org/resource/Nucky_Thompson,Nucky Thompson,http://dbpedia.org/resource/Nucky_Thompson,49.540000000000006
+http://dbpedia.org/resource/Harry_Tressler,Harry Tressler,http://dbpedia.org/resource/Harry_Tressler,49.515
+http://dbpedia.org/resource/Santa's_Little_Helper,Santa's Little Helper,http://dbpedia.org/resource/Santa's_Little_Helper,49.495000000000005
+http://dbpedia.org/resource/James_Wilson_(House),James Wilson (House),http://dbpedia.org/resource/James_Wilson_(House),49.435
+http://dbpedia.org/resource/Squidward_Tentacles,Squidward Tentacles,http://dbpedia.org/resource/Squidward_Tentacles,49.43
+http://dbpedia.org/resource/Túrin_Turambar,Túrin Turambar,http://dbpedia.org/resource/Túrin_Turambar,49.4
+http://dbpedia.org/resource/Edward_Rochester,Edward Rochester,http://dbpedia.org/resource/Edward_Rochester,49.375
+http://dbpedia.org/resource/Addison_Montgomery,Addison Montgomery,http://dbpedia.org/resource/Addison_Montgomery,49.370000000000005
+http://dbpedia.org/resource/Kadabra,Kadabra,http://dbpedia.org/resource/Kadabra,49.35
+http://dbpedia.org/resource/Sharpe_(novel_series),Sharpe (novel series),http://dbpedia.org/resource/Sharpe_(novel_series),49.345
+http://dbpedia.org/resource/Ginny_Weasley,Ginny Weasley,http://dbpedia.org/resource/Ginny_Weasley,49.33
+http://dbpedia.org/resource/Ibuki_(Street_Fighter),Ibuki (Street Fighter),http://dbpedia.org/resource/Ibuki_(Street_Fighter),49.315
+http://dbpedia.org/resource/Cassie_Cage,Cassie Cage,http://dbpedia.org/resource/Cassie_Cage,49.29
+http://dbpedia.org/resource/Stewie_Griffin,Stewie Griffin,http://dbpedia.org/resource/Stewie_Griffin,49.275000000000006
+http://dbpedia.org/resource/Sayid_Jarrah,Sayid Jarrah,http://dbpedia.org/resource/Sayid_Jarrah,49.25999999999999
+http://dbpedia.org/resource/Merida_(Brave),Merida (Brave),http://dbpedia.org/resource/Merida_(Brave),49.235
+http://dbpedia.org/resource/Kryten,Kryten,http://dbpedia.org/resource/Kryten,49.155
+http://dbpedia.org/resource/Kim_Wexler,Kim Wexler,http://dbpedia.org/resource/Kim_Wexler,49.05500000000001
+http://dbpedia.org/resource/Tommy_Pickles,Tommy Pickles,http://dbpedia.org/resource/Tommy_Pickles,49.050000000000004
+http://dbpedia.org/resource/Celebi_(Pokémon),Celebi (Pokémon),http://dbpedia.org/resource/Celebi_(Pokémon),49.02
+http://dbpedia.org/resource/Paige_Matthews,Paige Matthews,http://dbpedia.org/resource/Paige_Matthews,48.830000000000005
+http://dbpedia.org/resource/Cristina_Yang,Cristina Yang,http://dbpedia.org/resource/Cristina_Yang,48.79
+http://dbpedia.org/resource/Burt_Hummel,Burt Hummel,http://dbpedia.org/resource/Burt_Hummel,48.78
+http://dbpedia.org/resource/Corellon_Larethian,Corellon Larethian,http://dbpedia.org/resource/Corellon_Larethian,48.775000000000006
+http://dbpedia.org/resource/Paul_Atreides,Paul Atreides,http://dbpedia.org/resource/Paul_Atreides,48.77
+http://dbpedia.org/resource/Xavier_Duval,Xavier Duval,http://dbpedia.org/resource/Xavier_Duval,48.74
+http://dbpedia.org/resource/Helen_Magnus,Helen Magnus,http://dbpedia.org/resource/Helen_Magnus,48.735
+http://dbpedia.org/resource/Lugia,Lugia,http://dbpedia.org/resource/Lugia,48.67
+http://dbpedia.org/resource/Pascal_and_Maximus,Pascal and Maximus,http://dbpedia.org/resource/Pascal_and_Maximus,48.589999999999996
+http://dbpedia.org/resource/Norman_Bates,Norman Bates,http://dbpedia.org/resource/Norman_Bates,48.515
+http://dbpedia.org/resource/Mr._Mime,Mr. Mime,http://dbpedia.org/resource/Mr._Mime,48.510000000000005
+http://dbpedia.org/resource/Dan_Hamilton,Dan Hamilton,http://dbpedia.org/resource/Dan_Hamilton,48.44
+http://dbpedia.org/resource/Antoine_Malick,Antoine Malick,http://dbpedia.org/resource/Antoine_Malick,48.44
+http://dbpedia.org/resource/Pinhead_(Hellraiser),Pinhead (Hellraiser),http://dbpedia.org/resource/Pinhead_(Hellraiser),48.4
+http://dbpedia.org/resource/Guy_(Final_Fight),Guy (Final Fight),http://dbpedia.org/resource/Guy_(Final_Fight),48.385
+http://dbpedia.org/resource/Renfield,Renfield,http://dbpedia.org/resource/Renfield,48.385
+http://dbpedia.org/resource/Lennie_Briscoe,Lennie Briscoe,http://dbpedia.org/resource/Lennie_Briscoe,48.36000000000001
+http://dbpedia.org/resource/Grampa_Simpson,Grampa Simpson,http://dbpedia.org/resource/Grampa_Simpson,48.294999999999995
+http://dbpedia.org/resource/Thingol,Thingol,http://dbpedia.org/resource/Thingol,48.285
+http://dbpedia.org/resource/Saw_Gerrera,Saw Gerrera,http://dbpedia.org/resource/Saw_Gerrera,48.26
+http://dbpedia.org/resource/Sarah_Jane_Smith,Sarah Jane Smith,http://dbpedia.org/resource/Sarah_Jane_Smith,48.26
+http://dbpedia.org/resource/Doomguy,Doomguy,http://dbpedia.org/resource/Doomguy,48.18
+http://dbpedia.org/resource/Vladimir_Harkonnen,Vladimir Harkonnen,http://dbpedia.org/resource/Vladimir_Harkonnen,48.14
+http://dbpedia.org/resource/Sailor_Mars,Sailor Mars,http://dbpedia.org/resource/Sailor_Mars,48.135000000000005
+http://dbpedia.org/resource/Katara_(Avatar:_The_Last_Airbender),Katara (Avatar: The Last Airbender),http://dbpedia.org/resource/Katara_(Avatar:_The_Last_Airbender),48.129999999999995
+http://dbpedia.org/resource/Alex_Vause,Alex Vause,http://dbpedia.org/resource/Alex_Vause,48.115
+http://dbpedia.org/resource/San_Diego_Chicken,San Diego Chicken,http://dbpedia.org/resource/San_Diego_Chicken,48.07
+http://dbpedia.org/resource/Alison_DiLaurentis,Alison DiLaurentis,http://dbpedia.org/resource/Alison_DiLaurentis,48.03
+http://dbpedia.org/resource/Draco_Malfoy,Draco Malfoy,http://dbpedia.org/resource/Draco_Malfoy,47.94499999999999
+http://dbpedia.org/resource/Bahamut_(Dungeons_&_Dragons),Bahamut (Dungeons & Dragons),http://dbpedia.org/resource/Bahamut_(Dungeons_&_Dragons),47.879999999999995
+http://dbpedia.org/resource/Stannis_Baratheon,Stannis Baratheon,http://dbpedia.org/resource/Stannis_Baratheon,47.875
+http://dbpedia.org/resource/Cat_(Red_Dwarf),Cat (Red Dwarf),http://dbpedia.org/resource/Cat_(Red_Dwarf),47.865
+http://dbpedia.org/resource/Kyla_Tyson,Kyla Tyson,http://dbpedia.org/resource/Kyla_Tyson,47.855
+http://dbpedia.org/resource/Boruto_Uzumaki,Boruto Uzumaki,http://dbpedia.org/resource/Boruto_Uzumaki,47.835
+http://dbpedia.org/resource/Leonard_McCoy,Leonard McCoy,http://dbpedia.org/resource/Leonard_McCoy,47.825
+http://dbpedia.org/resource/Jed_Bartlet,Jed Bartlet,http://dbpedia.org/resource/Jed_Bartlet,47.68
+http://dbpedia.org/resource/Mike_Chang,Mike Chang,http://dbpedia.org/resource/Mike_Chang,47.67000000000001
+http://dbpedia.org/resource/David_S._Pumpkins,David S. Pumpkins,http://dbpedia.org/resource/David_S._Pumpkins,47.66
+http://dbpedia.org/resource/Erik_Selvig,Erik Selvig,http://dbpedia.org/resource/Erik_Selvig,47.635
+http://dbpedia.org/resource/Lord_Soth,Lord Soth,http://dbpedia.org/resource/Lord_Soth,47.59
+http://dbpedia.org/resource/Waylon_Smithers,Waylon Smithers,http://dbpedia.org/resource/Waylon_Smithers,47.58
+http://dbpedia.org/resource/Jax_(Mortal_Kombat),Jax (Mortal Kombat),http://dbpedia.org/resource/Jax_(Mortal_Kombat),47.575
+http://dbpedia.org/resource/Ted_Mosby,Ted Mosby,http://dbpedia.org/resource/Ted_Mosby,47.544999999999995
+http://dbpedia.org/resource/Junko_Enoshima,Junko Enoshima,http://dbpedia.org/resource/Junko_Enoshima,47.535
+http://dbpedia.org/resource/Nemesis_(Resident_Evil),Nemesis (Resident Evil),http://dbpedia.org/resource/Nemesis_(Resident_Evil),47.515
+http://dbpedia.org/resource/Holly_Holliday,Holly Holliday,http://dbpedia.org/resource/Holly_Holliday,47.51
+http://dbpedia.org/resource/José_Carioca,José Carioca,http://dbpedia.org/resource/José_Carioca,47.405
+http://dbpedia.org/resource/Libby_(Lost),Libby (Lost),http://dbpedia.org/resource/Libby_(Lost),47.4
+http://dbpedia.org/resource/Stan_Marsh,Stan Marsh,http://dbpedia.org/resource/Stan_Marsh,47.34
+http://dbpedia.org/resource/Brian_Griffin,Brian Griffin,http://dbpedia.org/resource/Brian_Griffin,47.34
+http://dbpedia.org/resource/Mike_Ehrmantraut,Mike Ehrmantraut,http://dbpedia.org/resource/Mike_Ehrmantraut,47.33
+http://dbpedia.org/resource/Elliot_Hope,Elliot Hope,http://dbpedia.org/resource/Elliot_Hope,47.31999999999999
+http://dbpedia.org/resource/Mordenkainen,Mordenkainen,http://dbpedia.org/resource/Mordenkainen,47.235
+http://dbpedia.org/resource/Soldier_Boy,Soldier Boy,http://dbpedia.org/resource/Soldier_Boy,47.16
+http://dbpedia.org/resource/Wilma_Flintstone,Wilma Flintstone,http://dbpedia.org/resource/Wilma_Flintstone,47.1
+http://dbpedia.org/resource/Frieza,Frieza,http://dbpedia.org/resource/Frieza,47.08
+http://dbpedia.org/resource/Walter_Bishop_(Fringe),Walter Bishop (Fringe),http://dbpedia.org/resource/Walter_Bishop_(Fringe),47.074999999999996
+http://dbpedia.org/resource/Tenida,Tenida,http://dbpedia.org/resource/Tenida,47.07
+http://dbpedia.org/resource/Willy_Wonka,Willy Wonka,http://dbpedia.org/resource/Willy_Wonka,47.065
+http://dbpedia.org/resource/Luke_Smith_(The_Sarah_Jane_Adventures),Luke Smith (The Sarah Jane Adventures),http://dbpedia.org/resource/Luke_Smith_(The_Sarah_Jane_Adventures),46.99
+http://dbpedia.org/resource/Zari_Tomaz_and_Zari_Tarazi,Zari Tomaz and Zari Tarazi,http://dbpedia.org/resource/Zari_Tomaz_and_Zari_Tarazi,46.955
+http://dbpedia.org/resource/Lisa_Cuddy,Lisa Cuddy,http://dbpedia.org/resource/Lisa_Cuddy,46.955
+http://dbpedia.org/resource/Rodan,Rodan,http://dbpedia.org/resource/Rodan,46.84
+http://dbpedia.org/resource/Mandarin's_rings,Mandarin's rings,http://dbpedia.org/resource/Mandarin's_rings,46.835
+http://dbpedia.org/resource/Atton_Rand,Atton Rand,http://dbpedia.org/resource/Atton_Rand,46.830000000000005
+http://dbpedia.org/resource/Maz_Kanata,Maz Kanata,http://dbpedia.org/resource/Maz_Kanata,46.830000000000005
+http://dbpedia.org/resource/Jerry_Smith_(Rick_and_Morty),Jerry Smith (Rick and Morty),http://dbpedia.org/resource/Jerry_Smith_(Rick_and_Morty),46.815
+http://dbpedia.org/resource/Hershel_Greene,Hershel Greene,http://dbpedia.org/resource/Hershel_Greene,46.79
+http://dbpedia.org/resource/Death_(Discworld),Death (Discworld),http://dbpedia.org/resource/Death_(Discworld),46.745000000000005
+http://dbpedia.org/resource/Sam_Hanna,Sam Hanna,http://dbpedia.org/resource/Sam_Hanna,46.73499999999999
+http://dbpedia.org/resource/Claire_Redfield,Claire Redfield,http://dbpedia.org/resource/Claire_Redfield,46.72
+http://dbpedia.org/resource/Chocobo,Chocobo,http://dbpedia.org/resource/Chocobo,46.71

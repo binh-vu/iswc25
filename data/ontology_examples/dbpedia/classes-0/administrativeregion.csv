@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/California,California,http://dbpedia.org/resource/California,1108.1600000000003
+http://dbpedia.org/resource/New_York_(state),New York (state),http://dbpedia.org/resource/New_York_(state),804.3000000000001
+http://dbpedia.org/resource/Texas,Texas,http://dbpedia.org/resource/Texas,778.585
+http://dbpedia.org/resource/Massachusetts,Massachusetts,http://dbpedia.org/resource/Massachusetts,669.6600000000001
+http://dbpedia.org/resource/Florida,Florida,http://dbpedia.org/resource/Florida,653.095
+http://dbpedia.org/resource/Pennsylvania,Pennsylvania,http://dbpedia.org/resource/Pennsylvania,622.315
+http://dbpedia.org/resource/Virginia,Virginia,http://dbpedia.org/resource/Virginia,620.9000000000001
+http://dbpedia.org/resource/Illinois,Illinois,http://dbpedia.org/resource/Illinois,583.765
+http://dbpedia.org/resource/Ohio,Ohio,http://dbpedia.org/resource/Ohio,576.625
+http://dbpedia.org/resource/New_Mexico,New Mexico,http://dbpedia.org/resource/New_Mexico,552.8950000000001
+http://dbpedia.org/resource/New_Jersey,New Jersey,http://dbpedia.org/resource/New_Jersey,548.92
+http://dbpedia.org/resource/Minnesota,Minnesota,http://dbpedia.org/resource/Minnesota,506.115
+http://dbpedia.org/resource/Tennessee,Tennessee,http://dbpedia.org/resource/Tennessee,504.92999999999995
+http://dbpedia.org/resource/Wisconsin,Wisconsin,http://dbpedia.org/resource/Wisconsin,502.82500000000005
+http://dbpedia.org/resource/North_Carolina,North Carolina,http://dbpedia.org/resource/North_Carolina,498.6200000000001
+http://dbpedia.org/resource/Louisiana,Louisiana,http://dbpedia.org/resource/Louisiana,470.57500000000005
+http://dbpedia.org/resource/Brussels,Brussels,http://dbpedia.org/resource/Brussels,468.15000000000003
+http://dbpedia.org/resource/Washington_(state),Washington (state),http://dbpedia.org/resource/Washington_(state),451.69
+http://dbpedia.org/resource/Colorado,Colorado,http://dbpedia.org/resource/Colorado,445.11500000000007
+http://dbpedia.org/resource/Michigan,Michigan,http://dbpedia.org/resource/Michigan,441.65500000000003
+http://dbpedia.org/resource/Indiana,Indiana,http://dbpedia.org/resource/Indiana,431.475
+http://dbpedia.org/resource/Georgia_(U.S._state),Georgia (U.S. state),http://dbpedia.org/resource/Georgia_(U.S._state),430.53499999999997
+http://dbpedia.org/resource/Missouri,Missouri,http://dbpedia.org/resource/Missouri,427.975
+http://dbpedia.org/resource/Maryland,Maryland,http://dbpedia.org/resource/Maryland,424.595
+http://dbpedia.org/resource/Oklahoma,Oklahoma,http://dbpedia.org/resource/Oklahoma,423.18499999999995
+http://dbpedia.org/resource/Oregon,Oregon,http://dbpedia.org/resource/Oregon,411.815
+http://dbpedia.org/resource/Iowa,Iowa,http://dbpedia.org/resource/Iowa,410.74
+http://dbpedia.org/resource/Hawaii,Hawaii,http://dbpedia.org/resource/Hawaii,408.53000000000003
+http://dbpedia.org/resource/Kentucky,Kentucky,http://dbpedia.org/resource/Kentucky,402.83000000000004
+http://dbpedia.org/resource/Utah,Utah,http://dbpedia.org/resource/Utah,401.725
+http://dbpedia.org/resource/Bangkok,Bangkok,http://dbpedia.org/resource/Bangkok,399.31
+http://dbpedia.org/resource/Saint_Petersburg,Saint Petersburg,http://dbpedia.org/resource/Saint_Petersburg,397.095
+http://dbpedia.org/resource/Arizona,Arizona,http://dbpedia.org/resource/Arizona,396.7950000000001
+http://dbpedia.org/resource/Montana,Montana,http://dbpedia.org/resource/Montana,391.01
+http://dbpedia.org/resource/Malappuram_district,Malappuram district,http://dbpedia.org/resource/Malappuram_district,385.78999999999996
+http://dbpedia.org/resource/Alabama,Alabama,http://dbpedia.org/resource/Alabama,385.27
+http://dbpedia.org/resource/Alaska,Alaska,http://dbpedia.org/resource/Alaska,383.53000000000003
+http://dbpedia.org/resource/Arkansas,Arkansas,http://dbpedia.org/resource/Arkansas,370.88
+http://dbpedia.org/resource/Kansas,Kansas,http://dbpedia.org/resource/Kansas,368.78999999999996
+http://dbpedia.org/resource/Jakarta,Jakarta,http://dbpedia.org/resource/Jakarta,364.725
+http://dbpedia.org/resource/Connecticut,Connecticut,http://dbpedia.org/resource/Connecticut,363.21500000000003
+http://dbpedia.org/resource/Nevada,Nevada,http://dbpedia.org/resource/Nevada,355.91499999999996
+http://dbpedia.org/resource/West_Virginia,West Virginia,http://dbpedia.org/resource/West_Virginia,348.34000000000003
+http://dbpedia.org/resource/Roman_Egypt,Roman Egypt,http://dbpedia.org/resource/Roman_Egypt,347.52
+http://dbpedia.org/resource/Xinjiang,Xinjiang,http://dbpedia.org/resource/Xinjiang,339.84999999999997
+http://dbpedia.org/resource/Vermont,Vermont,http://dbpedia.org/resource/Vermont,335.24000000000007
+http://dbpedia.org/resource/South_India,South India,http://dbpedia.org/resource/South_India,333.95
+http://dbpedia.org/resource/Metro_Manila,Metro Manila,http://dbpedia.org/resource/Metro_Manila,329.795
+http://dbpedia.org/resource/South_Carolina,South Carolina,http://dbpedia.org/resource/South_Carolina,329.73
+http://dbpedia.org/resource/Madras_Presidency,Madras Presidency,http://dbpedia.org/resource/Madras_Presidency,326.32500000000005
+http://dbpedia.org/resource/San_Francisco_Bay_Area,San Francisco Bay Area,http://dbpedia.org/resource/San_Francisco_Bay_Area,317.94
+http://dbpedia.org/resource/Sicily,Sicily,http://dbpedia.org/resource/Sicily,315.745
+http://dbpedia.org/resource/New_Hampshire,New Hampshire,http://dbpedia.org/resource/New_Hampshire,315.7
+http://dbpedia.org/resource/Southern_United_States,Southern United States,http://dbpedia.org/resource/Southern_United_States,310.07500000000005
+http://dbpedia.org/resource/South_Dakota,South Dakota,http://dbpedia.org/resource/South_Dakota,299.685
+http://dbpedia.org/resource/Sardinia,Sardinia,http://dbpedia.org/resource/Sardinia,297.58000000000004
+http://dbpedia.org/resource/Lancashire,Lancashire,http://dbpedia.org/resource/Lancashire,296.405
+http://dbpedia.org/resource/Cornwall,Cornwall,http://dbpedia.org/resource/Cornwall,293.49500000000006
+http://dbpedia.org/resource/Maine,Maine,http://dbpedia.org/resource/Maine,292.44500000000005
+http://dbpedia.org/resource/North_Dakota,North Dakota,http://dbpedia.org/resource/North_Dakota,290.19500000000005
+http://dbpedia.org/resource/Nebraska,Nebraska,http://dbpedia.org/resource/Nebraska,289.86499999999995
+http://dbpedia.org/resource/Malabar_District,Malabar District,http://dbpedia.org/resource/Malabar_District,283.08
+http://dbpedia.org/resource/Rhode_Island,Rhode Island,http://dbpedia.org/resource/Rhode_Island,281.915
+"http://dbpedia.org/resource/Bergen_County,_New_Jersey","Bergen County, New Jersey","http://dbpedia.org/resource/Bergen_County,_New_Jersey",278.51500000000004
+http://dbpedia.org/resource/Yorkshire,Yorkshire,http://dbpedia.org/resource/Yorkshire,276.4
+"http://dbpedia.org/resource/Los_Angeles_County,_California","Los Angeles County, California","http://dbpedia.org/resource/Los_Angeles_County,_California",275.04
+http://dbpedia.org/resource/Alanya,Alanya,http://dbpedia.org/resource/Alanya,274.20500000000004
+http://dbpedia.org/resource/Greater_Manchester,Greater Manchester,http://dbpedia.org/resource/Greater_Manchester,273.65500000000003
+http://dbpedia.org/resource/Surrey,Surrey,http://dbpedia.org/resource/Surrey,270.1
+http://dbpedia.org/resource/Midwestern_United_States,Midwestern United States,http://dbpedia.org/resource/Midwestern_United_States,269.40000000000003
+http://dbpedia.org/resource/Delaware,Delaware,http://dbpedia.org/resource/Delaware,268.725
+http://dbpedia.org/resource/Martinique,Martinique,http://dbpedia.org/resource/Martinique,267.88000000000005
+http://dbpedia.org/resource/Hokkaido,Hokkaido,http://dbpedia.org/resource/Hokkaido,263.39000000000004
+"http://dbpedia.org/resource/San_Diego_County,_California","San Diego County, California","http://dbpedia.org/resource/San_Diego_County,_California",261.6
+http://dbpedia.org/resource/Wyoming,Wyoming,http://dbpedia.org/resource/Wyoming,261.435
+http://dbpedia.org/resource/Southwestern_United_States,Southwestern United States,http://dbpedia.org/resource/Southwestern_United_States,257.71500000000003
+http://dbpedia.org/resource/Sichuan,Sichuan,http://dbpedia.org/resource/Sichuan,254.945
+http://dbpedia.org/resource/Idaho,Idaho,http://dbpedia.org/resource/Idaho,250.69000000000003
+http://dbpedia.org/resource/Yunnan,Yunnan,http://dbpedia.org/resource/Yunnan,246.625
+"http://dbpedia.org/resource/Miami-Dade_County,_Florida","Miami-Dade County, Florida","http://dbpedia.org/resource/Miami-Dade_County,_Florida",243.78000000000003
+"http://dbpedia.org/resource/Riverside_County,_California","Riverside County, California","http://dbpedia.org/resource/Riverside_County,_California",243.16500000000002
+http://dbpedia.org/resource/Roman_Dacia,Roman Dacia,http://dbpedia.org/resource/Roman_Dacia,242.13000000000002
+http://dbpedia.org/resource/Hampshire,Hampshire,http://dbpedia.org/resource/Hampshire,240.88000000000002
+http://dbpedia.org/resource/Kent,Kent,http://dbpedia.org/resource/Kent,236.125
+http://dbpedia.org/resource/Sandefjord,Sandefjord,http://dbpedia.org/resource/Sandefjord,234.32500000000002
+http://dbpedia.org/resource/Pacific_Northwest,Pacific Northwest,http://dbpedia.org/resource/Pacific_Northwest,233.5
+http://dbpedia.org/resource/Guangdong,Guangdong,http://dbpedia.org/resource/Guangdong,233.42999999999998
+"http://dbpedia.org/resource/San_Bernardino_County,_California","San Bernardino County, California","http://dbpedia.org/resource/San_Bernardino_County,_California",229.39
+"http://dbpedia.org/resource/Hudson_County,_New_Jersey","Hudson County, New Jersey","http://dbpedia.org/resource/Hudson_County,_New_Jersey",227.97
+http://dbpedia.org/resource/Guadeloupe,Guadeloupe,http://dbpedia.org/resource/Guadeloupe,226.67
+http://dbpedia.org/resource/Brittany,Brittany,http://dbpedia.org/resource/Brittany,223.46500000000003
+"http://dbpedia.org/resource/Door_County,_Wisconsin","Door County, Wisconsin","http://dbpedia.org/resource/Door_County,_Wisconsin",219.62499999999997
+http://dbpedia.org/resource/Somerset,Somerset,http://dbpedia.org/resource/Somerset,216.365
+http://dbpedia.org/resource/Roman_Britain,Roman Britain,http://dbpedia.org/resource/Roman_Britain,215.31
+http://dbpedia.org/resource/Dorset,Dorset,http://dbpedia.org/resource/Dorset,215.025
+http://dbpedia.org/resource/Lombardy,Lombardy,http://dbpedia.org/resource/Lombardy,213.95000000000002
+"http://dbpedia.org/resource/Tarsus,_Mersin","Tarsus, Mersin","http://dbpedia.org/resource/Tarsus,_Mersin",213.345
+"http://dbpedia.org/resource/Kern_County,_California","Kern County, California","http://dbpedia.org/resource/Kern_County,_California",212.695
+http://dbpedia.org/resource/Lincolnshire,Lincolnshire,http://dbpedia.org/resource/Lincolnshire,211.76000000000005
+"http://dbpedia.org/resource/Nassau_County,_New_York","Nassau County, New York","http://dbpedia.org/resource/Nassau_County,_New_York",211.61
+http://dbpedia.org/resource/Essex,Essex,http://dbpedia.org/resource/Essex,211.015
+http://dbpedia.org/resource/Kollam_district,Kollam district,http://dbpedia.org/resource/Kollam_district,210.20000000000002
+http://dbpedia.org/resource/Idukki_district,Idukki district,http://dbpedia.org/resource/Idukki_district,209.755
+"http://dbpedia.org/resource/Monmouth_County,_New_Jersey","Monmouth County, New Jersey","http://dbpedia.org/resource/Monmouth_County,_New_Jersey",208.91500000000002
+http://dbpedia.org/resource/Siberia,Siberia,http://dbpedia.org/resource/Siberia,208.775
+http://dbpedia.org/resource/Hertfordshire,Hertfordshire,http://dbpedia.org/resource/Hertfordshire,207.95499999999998
+"http://dbpedia.org/resource/Allegheny_County,_Pennsylvania","Allegheny County, Pennsylvania","http://dbpedia.org/resource/Allegheny_County,_Pennsylvania",206.085
+"http://dbpedia.org/resource/Ventura_County,_California","Ventura County, California","http://dbpedia.org/resource/Ventura_County,_California",205.84000000000003
+"http://dbpedia.org/resource/Sonoma_County,_California","Sonoma County, California","http://dbpedia.org/resource/Sonoma_County,_California",205.695
+http://dbpedia.org/resource/County_Dublin,County Dublin,http://dbpedia.org/resource/County_Dublin,205.06500000000003
+http://dbpedia.org/resource/Devon,Devon,http://dbpedia.org/resource/Devon,202.82000000000002
+http://dbpedia.org/resource/Isle_of_Wight,Isle of Wight,http://dbpedia.org/resource/Isle_of_Wight,201.89999999999998
+http://dbpedia.org/resource/Big_Sur,Big Sur,http://dbpedia.org/resource/Big_Sur,200.965
+"http://dbpedia.org/resource/Brevard_County,_Florida","Brevard County, Florida","http://dbpedia.org/resource/Brevard_County,_Florida",200.405
+http://dbpedia.org/resource/Fujian,Fujian,http://dbpedia.org/resource/Fujian,200.12
+http://dbpedia.org/resource/Punjab,Punjab,http://dbpedia.org/resource/Punjab,199.905
+"http://dbpedia.org/resource/Humboldt_County,_California","Humboldt County, California","http://dbpedia.org/resource/Humboldt_County,_California",197.015
+http://dbpedia.org/resource/Shandong,Shandong,http://dbpedia.org/resource/Shandong,196.25
+"http://dbpedia.org/resource/Sussex_County,_New_Jersey","Sussex County, New Jersey","http://dbpedia.org/resource/Sussex_County,_New_Jersey",195.9
+http://dbpedia.org/resource/Alappuzha_district,Alappuzha district,http://dbpedia.org/resource/Alappuzha_district,195.885
+http://dbpedia.org/resource/Veneto,Veneto,http://dbpedia.org/resource/Veneto,195.815
+http://dbpedia.org/resource/Western_United_States,Western United States,http://dbpedia.org/resource/Western_United_States,195.44000000000003
+http://dbpedia.org/resource/East_Riding_of_Yorkshire,East Riding of Yorkshire,http://dbpedia.org/resource/East_Riding_of_Yorkshire,195.28000000000003
+http://dbpedia.org/resource/Ark-La-Tex,Ark-La-Tex,http://dbpedia.org/resource/Ark-La-Tex,194.38500000000002
+"http://dbpedia.org/resource/Alameda_County,_California","Alameda County, California","http://dbpedia.org/resource/Alameda_County,_California",194.09500000000003
+"http://dbpedia.org/resource/Suffolk_County,_New_York","Suffolk County, New York","http://dbpedia.org/resource/Suffolk_County,_New_York",193.55999999999997
+http://dbpedia.org/resource/Greater_Western_Sydney,Greater Western Sydney,http://dbpedia.org/resource/Greater_Western_Sydney,193.09000000000003
+http://dbpedia.org/resource/Greater_London,Greater London,http://dbpedia.org/resource/Greater_London,191.97500000000002
+http://dbpedia.org/resource/Northumberland,Northumberland,http://dbpedia.org/resource/Northumberland,191.45000000000002
+http://dbpedia.org/resource/Persecution_of_pagans_in_the_late_Roman_Empire,Persecution of pagans in the late Roman Empire,http://dbpedia.org/resource/Persecution_of_pagans_in_the_late_Roman_Empire,191.28
+"http://dbpedia.org/resource/Contra_Costa_County,_California","Contra Costa County, California","http://dbpedia.org/resource/Contra_Costa_County,_California",190.92
+"http://dbpedia.org/resource/Bucks_County,_Pennsylvania","Bucks County, Pennsylvania","http://dbpedia.org/resource/Bucks_County,_Pennsylvania",190.71
+http://dbpedia.org/resource/Jiangsu,Jiangsu,http://dbpedia.org/resource/Jiangsu,190.43
+http://dbpedia.org/resource/Spanish_Florida,Spanish Florida,http://dbpedia.org/resource/Spanish_Florida,190.10000000000002
+http://dbpedia.org/resource/Sussex,Sussex,http://dbpedia.org/resource/Sussex,189.425
+http://dbpedia.org/resource/Kottayam_district,Kottayam district,http://dbpedia.org/resource/Kottayam_district,189.36
+http://dbpedia.org/resource/Chicago_metropolitan_area,Chicago metropolitan area,http://dbpedia.org/resource/Chicago_metropolitan_area,189.17000000000002
+http://dbpedia.org/resource/Canaan,Canaan,http://dbpedia.org/resource/Canaan,188.765
+http://dbpedia.org/resource/Calabria,Calabria,http://dbpedia.org/resource/Calabria,188.425
+http://dbpedia.org/resource/Sepphoris,Sepphoris,http://dbpedia.org/resource/Sepphoris,187.295
+http://dbpedia.org/resource/Palakkad_district,Palakkad district,http://dbpedia.org/resource/Palakkad_district,187.245
+"http://dbpedia.org/resource/Fairfield_County,_Connecticut","Fairfield County, Connecticut","http://dbpedia.org/resource/Fairfield_County,_Connecticut",186.74
+http://dbpedia.org/resource/Pune_district,Pune district,http://dbpedia.org/resource/Pune_district,186.73000000000002
+"http://dbpedia.org/resource/Lancaster_County,_Pennsylvania","Lancaster County, Pennsylvania","http://dbpedia.org/resource/Lancaster_County,_Pennsylvania",186.57
+http://dbpedia.org/resource/Hainan,Hainan,http://dbpedia.org/resource/Hainan,184.66
+http://dbpedia.org/resource/Cheshire,Cheshire,http://dbpedia.org/resource/Cheshire,183.865
+http://dbpedia.org/resource/Hebei,Hebei,http://dbpedia.org/resource/Hebei,182.305
+http://dbpedia.org/resource/Zhejiang,Zhejiang,http://dbpedia.org/resource/Zhejiang,181.87
+http://dbpedia.org/resource/Raebareli_district,Raebareli district,http://dbpedia.org/resource/Raebareli_district,181.59
+http://dbpedia.org/resource/Cumbria,Cumbria,http://dbpedia.org/resource/Cumbria,181.08
+"http://dbpedia.org/resource/Chester_County,_Pennsylvania","Chester County, Pennsylvania","http://dbpedia.org/resource/Chester_County,_Pennsylvania",181.0
+http://dbpedia.org/resource/Shropshire,Shropshire,http://dbpedia.org/resource/Shropshire,179.56500000000003
+"http://dbpedia.org/resource/Arlington_County,_Virginia","Arlington County, Virginia","http://dbpedia.org/resource/Arlington_County,_Virginia",179.485
+http://dbpedia.org/resource/Hunan,Hunan,http://dbpedia.org/resource/Hunan,178.97500000000002
+http://dbpedia.org/resource/Central_America_under_Mexican_rule,Central America under Mexican rule,http://dbpedia.org/resource/Central_America_under_Mexican_rule,178.88
+http://dbpedia.org/resource/Norfolk,Norfolk,http://dbpedia.org/resource/Norfolk,178.86
+"http://dbpedia.org/resource/Palm_Beach_County,_Florida","Palm Beach County, Florida","http://dbpedia.org/resource/Palm_Beach_County,_Florida",177.495
+"http://dbpedia.org/resource/Orange_County,_New_York","Orange County, New York","http://dbpedia.org/resource/Orange_County,_New_York",177.48000000000002
+http://dbpedia.org/resource/Henan,Henan,http://dbpedia.org/resource/Henan,176.675
+"http://dbpedia.org/resource/Fairfax_County,_Virginia","Fairfax County, Virginia","http://dbpedia.org/resource/Fairfax_County,_Virginia",176.565
+http://dbpedia.org/resource/History_of_Sussex,History of Sussex,http://dbpedia.org/resource/History_of_Sussex,174.96000000000004
+http://dbpedia.org/resource/Inner_Mongolia,Inner Mongolia,http://dbpedia.org/resource/Inner_Mongolia,174.91500000000002
+http://dbpedia.org/resource/Riau_Islands,Riau Islands,http://dbpedia.org/resource/Riau_Islands,174.245
+"http://dbpedia.org/resource/San_Mateo_County,_California","San Mateo County, California","http://dbpedia.org/resource/San_Mateo_County,_California",173.575
+http://dbpedia.org/resource/Campania,Campania,http://dbpedia.org/resource/Campania,173.53
+http://dbpedia.org/resource/Marmaris,Marmaris,http://dbpedia.org/resource/Marmaris,173.35000000000002
+http://dbpedia.org/resource/Guangxi,Guangxi,http://dbpedia.org/resource/Guangxi,173.08
+http://dbpedia.org/resource/Appalachia,Appalachia,http://dbpedia.org/resource/Appalachia,173.005
+http://dbpedia.org/resource/Capital_District_(New_York),Capital District (New York),http://dbpedia.org/resource/Capital_District_(New_York),172.79
+http://dbpedia.org/resource/East_Rand,East Rand,http://dbpedia.org/resource/East_Rand,171.61
+http://dbpedia.org/resource/Twenty-seventh_Dynasty_of_Egypt,Twenty-seventh Dynasty of Egypt,http://dbpedia.org/resource/Twenty-seventh_Dynasty_of_Egypt,171.525
+"http://dbpedia.org/resource/Tulare_County,_California","Tulare County, California","http://dbpedia.org/resource/Tulare_County,_California",171.45000000000002
+http://dbpedia.org/resource/Northeastern_United_States,Northeastern United States,http://dbpedia.org/resource/Northeastern_United_States,171.365
+http://dbpedia.org/resource/Ernakulam_district,Ernakulam district,http://dbpedia.org/resource/Ernakulam_district,170.31
+http://dbpedia.org/resource/Kozhikode_district,Kozhikode district,http://dbpedia.org/resource/Kozhikode_district,170.07999999999998
+"http://dbpedia.org/resource/Lehigh_County,_Pennsylvania","Lehigh County, Pennsylvania","http://dbpedia.org/resource/Lehigh_County,_Pennsylvania",170.04000000000002
+http://dbpedia.org/resource/Lesser_Poland,Lesser Poland,http://dbpedia.org/resource/Lesser_Poland,169.125
+http://dbpedia.org/resource/Hubei,Hubei,http://dbpedia.org/resource/Hubei,168.52
+"http://dbpedia.org/resource/Robeson_County,_North_Carolina","Robeson County, North Carolina","http://dbpedia.org/resource/Robeson_County,_North_Carolina",167.26500000000001
+"http://dbpedia.org/resource/Middlesex_County,_Massachusetts","Middlesex County, Massachusetts","http://dbpedia.org/resource/Middlesex_County,_Massachusetts",166.575
+http://dbpedia.org/resource/Milas,Milas,http://dbpedia.org/resource/Milas,166.45
+http://dbpedia.org/resource/Belagavi_district,Belagavi district,http://dbpedia.org/resource/Belagavi_district,166.415
+http://dbpedia.org/resource/County_Durham,County Durham,http://dbpedia.org/resource/County_Durham,165.865
+"http://dbpedia.org/resource/Beypazarı,_Ankara","Beypazarı, Ankara","http://dbpedia.org/resource/Beypazarı,_Ankara",165.49
+http://dbpedia.org/resource/Roanoke_Colony,Roanoke Colony,http://dbpedia.org/resource/Roanoke_Colony,165.40500000000003
+http://dbpedia.org/resource/Glamorgan,Glamorgan,http://dbpedia.org/resource/Glamorgan,164.17
+http://dbpedia.org/resource/Thiruvananthapuram_district,Thiruvananthapuram district,http://dbpedia.org/resource/Thiruvananthapuram_district,163.70000000000002
+"http://dbpedia.org/resource/Morris_County,_New_Jersey","Morris County, New Jersey","http://dbpedia.org/resource/Morris_County,_New_Jersey",163.37
+"http://dbpedia.org/resource/Mills_County,_Texas","Mills County, Texas","http://dbpedia.org/resource/Mills_County,_Texas",163.255
+http://dbpedia.org/resource/Finike,Finike,http://dbpedia.org/resource/Finike,163.185
+http://dbpedia.org/resource/Corsica,Corsica,http://dbpedia.org/resource/Corsica,162.35500000000002
+"http://dbpedia.org/resource/Marin_County,_California","Marin County, California","http://dbpedia.org/resource/Marin_County,_California",161.60500000000002
+"http://dbpedia.org/resource/Cook_County,_Illinois","Cook County, Illinois","http://dbpedia.org/resource/Cook_County,_Illinois",161.09000000000003
+"http://dbpedia.org/resource/Norfolk_County,_Massachusetts","Norfolk County, Massachusetts","http://dbpedia.org/resource/Norfolk_County,_Massachusetts",161.085
+"http://dbpedia.org/resource/Cape_May_County,_New_Jersey","Cape May County, New Jersey","http://dbpedia.org/resource/Cape_May_County,_New_Jersey",161.01500000000001
+"http://dbpedia.org/resource/Montgomery_County,_Pennsylvania","Montgomery County, Pennsylvania","http://dbpedia.org/resource/Montgomery_County,_Pennsylvania",160.655
+http://dbpedia.org/resource/Macedonia_(Greece),Macedonia (Greece),http://dbpedia.org/resource/Macedonia_(Greece),159.89
+http://dbpedia.org/resource/Mazandaran_province,Mazandaran province,http://dbpedia.org/resource/Mazandaran_province,159.595
+"http://dbpedia.org/resource/Harris_County,_Texas","Harris County, Texas","http://dbpedia.org/resource/Harris_County,_Texas",159.235
+http://dbpedia.org/resource/Tuscany,Tuscany,http://dbpedia.org/resource/Tuscany,158.99
+"http://dbpedia.org/resource/Westchester_County,_New_York","Westchester County, New York","http://dbpedia.org/resource/Westchester_County,_New_York",158.835
+http://dbpedia.org/resource/Chikmagalur_district,Chikmagalur district,http://dbpedia.org/resource/Chikmagalur_district,158.265
+http://dbpedia.org/resource/Tharparkar,Tharparkar,http://dbpedia.org/resource/Tharparkar,158.10000000000002
+http://dbpedia.org/resource/Ballarat,Ballarat,http://dbpedia.org/resource/Ballarat,158.075
+"http://dbpedia.org/resource/Pinellas_County,_Florida","Pinellas County, Florida","http://dbpedia.org/resource/Pinellas_County,_Florida",157.72
+http://dbpedia.org/resource/Ladakh,Ladakh,http://dbpedia.org/resource/Ladakh,157.375
+"http://dbpedia.org/resource/Monterey_County,_California","Monterey County, California","http://dbpedia.org/resource/Monterey_County,_California",157.35000000000002
+"http://dbpedia.org/resource/Middlesex_County,_New_Jersey","Middlesex County, New Jersey","http://dbpedia.org/resource/Middlesex_County,_New_Jersey",157.18500000000003
+http://dbpedia.org/resource/North_24_Parganas_district,North 24 Parganas district,http://dbpedia.org/resource/North_24_Parganas_district,156.9
+http://dbpedia.org/resource/Cilicia,Cilicia,http://dbpedia.org/resource/Cilicia,155.81000000000003
+"http://dbpedia.org/resource/Montgomery_County,_Maryland","Montgomery County, Maryland","http://dbpedia.org/resource/Montgomery_County,_Maryland",155.615
+"http://dbpedia.org/resource/Albany_County,_New_York","Albany County, New York","http://dbpedia.org/resource/Albany_County,_New_York",155.31000000000003
+http://dbpedia.org/resource/Pathanamthitta_district,Pathanamthitta district,http://dbpedia.org/resource/Pathanamthitta_district,155.19000000000003
+"http://dbpedia.org/resource/Essex_County,_New_Jersey","Essex County, New Jersey","http://dbpedia.org/resource/Essex_County,_New_Jersey",155.07500000000002
+http://dbpedia.org/resource/Abruzzo,Abruzzo,http://dbpedia.org/resource/Abruzzo,155.02499999999998
+http://dbpedia.org/resource/Derbyshire,Derbyshire,http://dbpedia.org/resource/Derbyshire,154.675
+http://dbpedia.org/resource/Tromsø,Tromsø,http://dbpedia.org/resource/Tromsø,154.375
+http://dbpedia.org/resource/Lumbini_Province,Lumbini Province,http://dbpedia.org/resource/Lumbini_Province,154.22
+http://dbpedia.org/resource/Malabar_Coast,Malabar Coast,http://dbpedia.org/resource/Malabar_Coast,153.775
+http://dbpedia.org/resource/Suffolk,Suffolk,http://dbpedia.org/resource/Suffolk,153.77
+http://dbpedia.org/resource/Northamptonshire,Northamptonshire,http://dbpedia.org/resource/Northamptonshire,153.51
+http://dbpedia.org/resource/Xinjiang_under_Qing_rule,Xinjiang under Qing rule,http://dbpedia.org/resource/Xinjiang_under_Qing_rule,152.525
+"http://dbpedia.org/resource/Burlington_County,_New_Jersey","Burlington County, New Jersey","http://dbpedia.org/resource/Burlington_County,_New_Jersey",152.135
+http://dbpedia.org/resource/South_24_Parganas,South 24 Parganas,http://dbpedia.org/resource/South_24_Parganas,152.01
+http://dbpedia.org/resource/Liaoning,Liaoning,http://dbpedia.org/resource/Liaoning,151.95000000000002
+http://dbpedia.org/resource/Dakshina_Kannada,Dakshina Kannada,http://dbpedia.org/resource/Dakshina_Kannada,151.545
+http://dbpedia.org/resource/Western_New_York,Western New York,http://dbpedia.org/resource/Western_New_York,151.31
+http://dbpedia.org/resource/Province_of_Pomerania_(1815–1945),Province of Pomerania (1815–1945),http://dbpedia.org/resource/Province_of_Pomerania_(1815–1945),151.24
+http://dbpedia.org/resource/Sasanian_Egypt,Sasanian Egypt,http://dbpedia.org/resource/Sasanian_Egypt,150.975
+"http://dbpedia.org/resource/Fresno_County,_California","Fresno County, California","http://dbpedia.org/resource/Fresno_County,_California",150.84
+http://dbpedia.org/resource/Pomerania,Pomerania,http://dbpedia.org/resource/Pomerania,150.78500000000003
+http://dbpedia.org/resource/Gansu,Gansu,http://dbpedia.org/resource/Gansu,150.76999999999998
+http://dbpedia.org/resource/Enez,Enez,http://dbpedia.org/resource/Enez,150.705
+http://dbpedia.org/resource/Yanchuan_County,Yanchuan County,http://dbpedia.org/resource/Yanchuan_County,150.06000000000003
+http://dbpedia.org/resource/Shanxi,Shanxi,http://dbpedia.org/resource/Shanxi,149.795
+http://dbpedia.org/resource/Jammu_and_Kashmir_(union_territory),Jammu and Kashmir (union territory),http://dbpedia.org/resource/Jammu_and_Kashmir_(union_territory),149.75
+http://dbpedia.org/resource/West_Yorkshire,West Yorkshire,http://dbpedia.org/resource/West_Yorkshire,149.365
+"http://dbpedia.org/resource/Mercer_County,_New_Jersey","Mercer County, New Jersey","http://dbpedia.org/resource/Mercer_County,_New_Jersey",148.425
+"http://dbpedia.org/resource/Santa_Barbara_County,_California","Santa Barbara County, California","http://dbpedia.org/resource/Santa_Barbara_County,_California",148.185
+"http://dbpedia.org/resource/Prince_George's_County,_Maryland","Prince George's County, Maryland","http://dbpedia.org/resource/Prince_George's_County,_Maryland",147.915
+http://dbpedia.org/resource/Bukovina,Bukovina,http://dbpedia.org/resource/Bukovina,147.66
+http://dbpedia.org/resource/Moscow_Oblast,Moscow Oblast,http://dbpedia.org/resource/Moscow_Oblast,146.93
+http://dbpedia.org/resource/Gilgit-Baltistan,Gilgit-Baltistan,http://dbpedia.org/resource/Gilgit-Baltistan,146.81500000000003
+http://dbpedia.org/resource/Baota_District,Baota District,http://dbpedia.org/resource/Baota_District,146.775
+http://dbpedia.org/resource/Western_Norway,Western Norway,http://dbpedia.org/resource/Western_Norway,145.965
+http://dbpedia.org/resource/Chennai_district,Chennai district,http://dbpedia.org/resource/Chennai_district,145.71
+http://dbpedia.org/resource/Slavonia,Slavonia,http://dbpedia.org/resource/Slavonia,145.53
+"http://dbpedia.org/resource/Imperial_County,_California","Imperial County, California","http://dbpedia.org/resource/Imperial_County,_California",145.185
+"http://dbpedia.org/resource/Ocean_County,_New_Jersey","Ocean County, New Jersey","http://dbpedia.org/resource/Ocean_County,_New_Jersey",145.12499999999997
+http://dbpedia.org/resource/Thirty-first_Dynasty_of_Egypt,Thirty-first Dynasty of Egypt,http://dbpedia.org/resource/Thirty-first_Dynasty_of_Egypt,145.04999999999998
+http://dbpedia.org/resource/Transylvania,Transylvania,http://dbpedia.org/resource/Transylvania,144.86499999999998
+http://dbpedia.org/resource/Buenos_Aires_Province,Buenos Aires Province,http://dbpedia.org/resource/Buenos_Aires_Province,144.61
+http://dbpedia.org/resource/Vestfold,Vestfold,http://dbpedia.org/resource/Vestfold,144.39999999999998
+"http://dbpedia.org/resource/St._Louis_County,_Missouri","St. Louis County, Missouri","http://dbpedia.org/resource/St._Louis_County,_Missouri",144.39499999999998
+http://dbpedia.org/resource/County_Meath,County Meath,http://dbpedia.org/resource/County_Meath,143.99499999999998
+"http://dbpedia.org/resource/Jefferson_County,_Missouri","Jefferson County, Missouri","http://dbpedia.org/resource/Jefferson_County,_Missouri",143.98999999999998
+http://dbpedia.org/resource/County_Donegal,County Donegal,http://dbpedia.org/resource/County_Donegal,143.51
+"http://dbpedia.org/resource/San_Joaquin_County,_California","San Joaquin County, California","http://dbpedia.org/resource/San_Joaquin_County,_California",143.47
+http://dbpedia.org/resource/Tibet_Autonomous_Region,Tibet Autonomous Region,http://dbpedia.org/resource/Tibet_Autonomous_Region,143.42499999999998
+"http://dbpedia.org/resource/Mendocino_County,_California","Mendocino County, California","http://dbpedia.org/resource/Mendocino_County,_California",142.73499999999999
+"http://dbpedia.org/resource/Berks_County,_Pennsylvania","Berks County, Pennsylvania","http://dbpedia.org/resource/Berks_County,_Pennsylvania",142.525
+http://dbpedia.org/resource/Wiltshire,Wiltshire,http://dbpedia.org/resource/Wiltshire,142.485
+http://dbpedia.org/resource/Staffordshire,Staffordshire,http://dbpedia.org/resource/Staffordshire,142.205
+http://dbpedia.org/resource/Dhilba_Guuranda–Innes_National_Park,Dhilba Guuranda–Innes National Park,http://dbpedia.org/resource/Dhilba_Guuranda–Innes_National_Park,141.64499999999998
+"http://dbpedia.org/resource/South_Side,_Chicago","South Side, Chicago","http://dbpedia.org/resource/South_Side,_Chicago",140.7
+http://dbpedia.org/resource/Réunion,Réunion,http://dbpedia.org/resource/Réunion,140.505
+"http://dbpedia.org/resource/Suffolk_County,_Massachusetts","Suffolk County, Massachusetts","http://dbpedia.org/resource/Suffolk_County,_Massachusetts",139.915
+http://dbpedia.org/resource/North_Yorkshire,North Yorkshire,http://dbpedia.org/resource/North_Yorkshire,139.76
+http://dbpedia.org/resource/Buckinghamshire,Buckinghamshire,http://dbpedia.org/resource/Buckinghamshire,139.64499999999998
+"http://dbpedia.org/resource/Lake_County,_Indiana","Lake County, Indiana","http://dbpedia.org/resource/Lake_County,_Indiana",139.56500000000003
+http://dbpedia.org/resource/Riverina,Riverina,http://dbpedia.org/resource/Riverina,139.375
+http://dbpedia.org/resource/Hudson_Valley,Hudson Valley,http://dbpedia.org/resource/Hudson_Valley,139.15499999999997
+http://dbpedia.org/resource/Murshidabad_district,Murshidabad district,http://dbpedia.org/resource/Murshidabad_district,138.95000000000002
+"http://dbpedia.org/resource/Napa_County,_California","Napa County, California","http://dbpedia.org/resource/Napa_County,_California",138.865
+"http://dbpedia.org/resource/Essex_County,_Massachusetts","Essex County, Massachusetts","http://dbpedia.org/resource/Essex_County,_Massachusetts",138.54500000000002
+http://dbpedia.org/resource/Kannur_district,Kannur district,http://dbpedia.org/resource/Kannur_district,138.45000000000002
+"http://dbpedia.org/resource/Rockland_County,_New_York","Rockland County, New York","http://dbpedia.org/resource/Rockland_County,_New_York",138.35999999999999
+http://dbpedia.org/resource/Punjab_Province_(British_India),Punjab Province (British India),http://dbpedia.org/resource/Punjab_Province_(British_India),137.87
+http://dbpedia.org/resource/Bath_and_North_East_Somerset,Bath and North East Somerset,http://dbpedia.org/resource/Bath_and_North_East_Somerset,137.74999999999997
+"http://dbpedia.org/resource/Caswell_County,_North_Carolina","Caswell County, North Carolina","http://dbpedia.org/resource/Caswell_County,_North_Carolina",137.70000000000002
+http://dbpedia.org/resource/Algarve,Algarve,http://dbpedia.org/resource/Algarve,137.555
+http://dbpedia.org/resource/Franconia,Franconia,http://dbpedia.org/resource/Franconia,137.53500000000003
+http://dbpedia.org/resource/Mount_Lebanon_Mutasarrifate,Mount Lebanon Mutasarrifate,http://dbpedia.org/resource/Mount_Lebanon_Mutasarrifate,137.51
+"http://dbpedia.org/resource/Union_County,_New_Jersey","Union County, New Jersey","http://dbpedia.org/resource/Union_County,_New_Jersey",137.435
+http://dbpedia.org/resource/County_Kilkenny,County Kilkenny,http://dbpedia.org/resource/County_Kilkenny,136.99
+http://dbpedia.org/resource/Mayotte,Mayotte,http://dbpedia.org/resource/Mayotte,136.87
+"http://dbpedia.org/resource/Plymouth_County,_Massachusetts","Plymouth County, Massachusetts","http://dbpedia.org/resource/Plymouth_County,_Massachusetts",136.70000000000002
+http://dbpedia.org/resource/Inland_Northwest,Inland Northwest,http://dbpedia.org/resource/Inland_Northwest,136.43
+http://dbpedia.org/resource/Anhui,Anhui,http://dbpedia.org/resource/Anhui,136.25
+http://dbpedia.org/resource/Piedmont,Piedmont,http://dbpedia.org/resource/Piedmont,135.57500000000002
+http://dbpedia.org/resource/Barabanki_district,Barabanki district,http://dbpedia.org/resource/Barabanki_district,135.29500000000002
+"http://dbpedia.org/resource/York_County,_Pennsylvania","York County, Pennsylvania","http://dbpedia.org/resource/York_County,_Pennsylvania",134.915
+http://dbpedia.org/resource/Middlesex,Middlesex,http://dbpedia.org/resource/Middlesex,134.73499999999999
+"http://dbpedia.org/resource/Monroe_County,_Pennsylvania","Monroe County, Pennsylvania","http://dbpedia.org/resource/Monroe_County,_Pennsylvania",134.625
+http://dbpedia.org/resource/Taiwan_under_Qing_rule,Taiwan under Qing rule,http://dbpedia.org/resource/Taiwan_under_Qing_rule,134.49
+"http://dbpedia.org/resource/Plumas_County,_California","Plumas County, California","http://dbpedia.org/resource/Plumas_County,_California",134.1
+http://dbpedia.org/resource/Lillehammer,Lillehammer,http://dbpedia.org/resource/Lillehammer,134.02999999999997
+http://dbpedia.org/resource/Emilia-Romagna,Emilia-Romagna,http://dbpedia.org/resource/Emilia-Romagna,133.965
+"http://dbpedia.org/resource/Sacramento_County,_California","Sacramento County, California","http://dbpedia.org/resource/Sacramento_County,_California",133.93
+http://dbpedia.org/resource/Heilongjiang,Heilongjiang,http://dbpedia.org/resource/Heilongjiang,133.715
+"http://dbpedia.org/resource/Barnstable_County,_Massachusetts","Barnstable County, Massachusetts","http://dbpedia.org/resource/Barnstable_County,_Massachusetts",133.465
+http://dbpedia.org/resource/Wayanad_district,Wayanad district,http://dbpedia.org/resource/Wayanad_district,133.46
+"http://dbpedia.org/resource/Perry_County,_Tennessee","Perry County, Tennessee","http://dbpedia.org/resource/Perry_County,_Tennessee",133.46
+"http://dbpedia.org/resource/Hunterdon_County,_New_Jersey","Hunterdon County, New Jersey","http://dbpedia.org/resource/Hunterdon_County,_New_Jersey",133.335
+http://dbpedia.org/resource/East_Prussia,East Prussia,http://dbpedia.org/resource/East_Prussia,133.1
+"http://dbpedia.org/resource/DuPage_County,_Illinois","DuPage County, Illinois","http://dbpedia.org/resource/DuPage_County,_Illinois",133.005
+"http://dbpedia.org/resource/Loudoun_County,_Virginia","Loudoun County, Virginia","http://dbpedia.org/resource/Loudoun_County,_Virginia",132.88
+http://dbpedia.org/resource/City_of_Bankstown,City of Bankstown,http://dbpedia.org/resource/City_of_Bankstown,132.665
+http://dbpedia.org/resource/Nordland,Nordland,http://dbpedia.org/resource/Nordland,132.465
+"http://dbpedia.org/resource/Washington_County,_Pennsylvania","Washington County, Pennsylvania","http://dbpedia.org/resource/Washington_County,_Pennsylvania",132.41500000000002
+http://dbpedia.org/resource/Carpathian_Ruthenia,Carpathian Ruthenia,http://dbpedia.org/resource/Carpathian_Ruthenia,132.36999999999998
+http://dbpedia.org/resource/Southern_Illinois,Southern Illinois,http://dbpedia.org/resource/Southern_Illinois,132.255
+http://dbpedia.org/resource/Louisiana_Purchase,Louisiana Purchase,http://dbpedia.org/resource/Louisiana_Purchase,131.715
+"http://dbpedia.org/resource/Santa_Cruz_County,_California","Santa Cruz County, California","http://dbpedia.org/resource/Santa_Cruz_County,_California",131.65
+http://dbpedia.org/resource/Northern_Virginia,Northern Virginia,http://dbpedia.org/resource/Northern_Virginia,131.34
+http://dbpedia.org/resource/Tigray_Region,Tigray Region,http://dbpedia.org/resource/Tigray_Region,131.13
+http://dbpedia.org/resource/Tibet_under_Qing_rule,Tibet under Qing rule,http://dbpedia.org/resource/Tibet_under_Qing_rule,130.975
+http://dbpedia.org/resource/Santorini,Santorini,http://dbpedia.org/resource/Santorini,130.94500000000002
+http://dbpedia.org/resource/Pudong,Pudong,http://dbpedia.org/resource/Pudong,130.665
+"http://dbpedia.org/resource/Delaware_County,_Pennsylvania","Delaware County, Pennsylvania","http://dbpedia.org/resource/Delaware_County,_Pennsylvania",130.655
+http://dbpedia.org/resource/Indian_Territory,Indian Territory,http://dbpedia.org/resource/Indian_Territory,130.57000000000002
+http://dbpedia.org/resource/Hooghly_district,Hooghly district,http://dbpedia.org/resource/Hooghly_district,130.435
+http://dbpedia.org/resource/Rottnest_Island,Rottnest Island,http://dbpedia.org/resource/Rottnest_Island,130.26
+http://dbpedia.org/resource/City_of_Gosford,City of Gosford,http://dbpedia.org/resource/City_of_Gosford,130.05
+http://dbpedia.org/resource/Jiangxi,Jiangxi,http://dbpedia.org/resource/Jiangxi,129.03000000000003
+http://dbpedia.org/resource/Bangsamoro,Bangsamoro,http://dbpedia.org/resource/Bangsamoro,129.005
+"http://dbpedia.org/resource/Bristol_County,_Massachusetts","Bristol County, Massachusetts","http://dbpedia.org/resource/Bristol_County,_Massachusetts",129.0
+http://dbpedia.org/resource/Magna_Graecia,Magna Graecia,http://dbpedia.org/resource/Magna_Graecia,128.995
+"http://dbpedia.org/resource/Clay_County,_Missouri","Clay County, Missouri","http://dbpedia.org/resource/Clay_County,_Missouri",128.965
+http://dbpedia.org/resource/Flanders,Flanders,http://dbpedia.org/resource/Flanders,128.73
+http://dbpedia.org/resource/Nouvelle-Aquitaine,Nouvelle-Aquitaine,http://dbpedia.org/resource/Nouvelle-Aquitaine,128.64000000000001
+"http://dbpedia.org/resource/Atlantic_County,_New_Jersey","Atlantic County, New Jersey","http://dbpedia.org/resource/Atlantic_County,_New_Jersey",128.43500000000003
+http://dbpedia.org/resource/Berkshire,Berkshire,http://dbpedia.org/resource/Berkshire,128.41
+http://dbpedia.org/resource/Vojvodina,Vojvodina,http://dbpedia.org/resource/Vojvodina,128.38
+http://dbpedia.org/resource/Thrissur_district,Thrissur district,http://dbpedia.org/resource/Thrissur_district,128.33
+http://dbpedia.org/resource/Kinmen,Kinmen,http://dbpedia.org/resource/Kinmen,128.315
+"http://dbpedia.org/resource/Hampden_County,_Massachusetts","Hampden County, Massachusetts","http://dbpedia.org/resource/Hampden_County,_Massachusetts",128.29
+http://dbpedia.org/resource/Provence,Provence,http://dbpedia.org/resource/Provence,127.94
+"http://dbpedia.org/resource/Berkshire_County,_Massachusetts","Berkshire County, Massachusetts","http://dbpedia.org/resource/Berkshire_County,_Massachusetts",127.9
+http://dbpedia.org/resource/Chechnya,Chechnya,http://dbpedia.org/resource/Chechnya,127.88499999999999
+"http://dbpedia.org/resource/Bijapur_district,_Karnataka","Bijapur district, Karnataka","http://dbpedia.org/resource/Bijapur_district,_Karnataka",127.84500000000001
+http://dbpedia.org/resource/Inuit_Nunangat,Inuit Nunangat,http://dbpedia.org/resource/Inuit_Nunangat,127.59999999999998
+http://dbpedia.org/resource/Kautokeino,Kautokeino,http://dbpedia.org/resource/Kautokeino,127.46
+http://dbpedia.org/resource/County_Carlow,County Carlow,http://dbpedia.org/resource/County_Carlow,127.21
+http://dbpedia.org/resource/Egypt_Eyalet,Egypt Eyalet,http://dbpedia.org/resource/Egypt_Eyalet,125.99999999999999
+http://dbpedia.org/resource/Gloucestershire,Gloucestershire,http://dbpedia.org/resource/Gloucestershire,125.97000000000001
+"http://dbpedia.org/resource/Saratoga_County,_New_York","Saratoga County, New York","http://dbpedia.org/resource/Saratoga_County,_New_York",125.86
+http://dbpedia.org/resource/Aureliopolis_in_Asia,Aureliopolis in Asia,http://dbpedia.org/resource/Aureliopolis_in_Asia,125.66999999999999
+http://dbpedia.org/resource/Shaanxi,Shaanxi,http://dbpedia.org/resource/Shaanxi,125.46
+http://dbpedia.org/resource/Chitradurga_district,Chitradurga district,http://dbpedia.org/resource/Chitradurga_district,125.42000000000002
+http://dbpedia.org/resource/County_Wicklow,County Wicklow,http://dbpedia.org/resource/County_Wicklow,125.305
+http://dbpedia.org/resource/Kasaragod_district,Kasaragod district,http://dbpedia.org/resource/Kasaragod_district,125.28999999999999
+"http://dbpedia.org/resource/Wake_County,_North_Carolina","Wake County, North Carolina","http://dbpedia.org/resource/Wake_County,_North_Carolina",125.08999999999999
+http://dbpedia.org/resource/Worcestershire,Worcestershire,http://dbpedia.org/resource/Worcestershire,124.63500000000002
+http://dbpedia.org/resource/Coimbatore_district,Coimbatore district,http://dbpedia.org/resource/Coimbatore_district,124.495
+"http://dbpedia.org/resource/Inyo_County,_California","Inyo County, California","http://dbpedia.org/resource/Inyo_County,_California",124.38499999999998
+"http://dbpedia.org/resource/Lake_County,_Illinois","Lake County, Illinois","http://dbpedia.org/resource/Lake_County,_Illinois",124.06
+"http://dbpedia.org/resource/Monroe_County,_New_York","Monroe County, New York","http://dbpedia.org/resource/Monroe_County,_New_York",123.80500000000002
+http://dbpedia.org/resource/Rockhampton,Rockhampton,http://dbpedia.org/resource/Rockhampton,123.53500000000003
+"http://dbpedia.org/resource/Dutchess_County,_New_York","Dutchess County, New York","http://dbpedia.org/resource/Dutchess_County,_New_York",123.42500000000001
+"http://dbpedia.org/resource/Camden_County,_New_Jersey","Camden County, New Jersey","http://dbpedia.org/resource/Camden_County,_New_Jersey",123.41
+http://dbpedia.org/resource/Lower_Rio_Grande_Valley,Lower Rio Grande Valley,http://dbpedia.org/resource/Lower_Rio_Grande_Valley,123.235
+http://dbpedia.org/resource/Futian_District,Futian District,http://dbpedia.org/resource/Futian_District,123.18
+http://dbpedia.org/resource/Argyll,Argyll,http://dbpedia.org/resource/Argyll,123.11999999999999
+"http://dbpedia.org/resource/Butte_County,_California","Butte County, California","http://dbpedia.org/resource/Butte_County,_California",122.81
+http://dbpedia.org/resource/Silesia,Silesia,http://dbpedia.org/resource/Silesia,122.79500000000002
+"http://dbpedia.org/resource/Franklin_County,_Missouri","Franklin County, Missouri","http://dbpedia.org/resource/Franklin_County,_Missouri",122.555
+http://dbpedia.org/resource/Piccaninnie_Ponds_Conservation_Park,Piccaninnie Ponds Conservation Park,http://dbpedia.org/resource/Piccaninnie_Ponds_Conservation_Park,122.52499999999998
+"http://dbpedia.org/resource/Somerset_County,_New_Jersey","Somerset County, New Jersey","http://dbpedia.org/resource/Somerset_County,_New_Jersey",122.51999999999998
+"http://dbpedia.org/resource/San_Luis_Obispo_County,_California","San Luis Obispo County, California","http://dbpedia.org/resource/San_Luis_Obispo_County,_California",122.22000000000001
+"http://dbpedia.org/resource/Westmoreland_County,_Pennsylvania","Westmoreland County, Pennsylvania","http://dbpedia.org/resource/Westmoreland_County,_Pennsylvania",122.11000000000001
+http://dbpedia.org/resource/Free_State_of_Prussia,Free State of Prussia,http://dbpedia.org/resource/Free_State_of_Prussia,122.03999999999999
+http://dbpedia.org/resource/Birbhum_district,Birbhum district,http://dbpedia.org/resource/Birbhum_district,121.96499999999999
+http://dbpedia.org/resource/Ein_Hod,Ein Hod,http://dbpedia.org/resource/Ein_Hod,121.53
+http://dbpedia.org/resource/Jammu_division,Jammu division,http://dbpedia.org/resource/Jammu_division,121.49
+http://dbpedia.org/resource/South_Somerset,South Somerset,http://dbpedia.org/resource/South_Somerset,121.46999999999998
+http://dbpedia.org/resource/Dagestan,Dagestan,http://dbpedia.org/resource/Dagestan,121.21500000000002
+"http://dbpedia.org/resource/Alachua_County,_Florida","Alachua County, Florida","http://dbpedia.org/resource/Alachua_County,_Florida",120.94
+"http://dbpedia.org/resource/Polk_County,_Florida","Polk County, Florida","http://dbpedia.org/resource/Polk_County,_Florida",120.655
+http://dbpedia.org/resource/Samos,Samos,http://dbpedia.org/resource/Samos,120.64500000000001
+http://dbpedia.org/resource/Oxfordshire,Oxfordshire,http://dbpedia.org/resource/Oxfordshire,120.61000000000001
+"http://dbpedia.org/resource/Schuylkill_County,_Pennsylvania","Schuylkill County, Pennsylvania","http://dbpedia.org/resource/Schuylkill_County,_Pennsylvania",120.335
+http://dbpedia.org/resource/Patagonia,Patagonia,http://dbpedia.org/resource/Patagonia,120.30500000000002
+http://dbpedia.org/resource/Northern_Ontario,Northern Ontario,http://dbpedia.org/resource/Northern_Ontario,119.89499999999998
+http://dbpedia.org/resource/Geography_of_New_York_(state),Geography of New York (state),http://dbpedia.org/resource/Geography_of_New_York_(state),119.88
+http://dbpedia.org/resource/Kurdistan,Kurdistan,http://dbpedia.org/resource/Kurdistan,119.83500000000002
+http://dbpedia.org/resource/Acadia,Acadia,http://dbpedia.org/resource/Acadia,119.81
+"http://dbpedia.org/resource/King_County,_Washington","King County, Washington","http://dbpedia.org/resource/King_County,_Washington",119.79500000000002
+"http://dbpedia.org/resource/Warren_County,_New_York","Warren County, New York","http://dbpedia.org/resource/Warren_County,_New_York",119.72000000000001
+http://dbpedia.org/resource/Amka,Amka,http://dbpedia.org/resource/Amka,119.64500000000001
+http://dbpedia.org/resource/Warwickshire,Warwickshire,http://dbpedia.org/resource/Warwickshire,119.63500000000002
+http://dbpedia.org/resource/Shimoga_district,Shimoga district,http://dbpedia.org/resource/Shimoga_district,119.535
+http://dbpedia.org/resource/Western_Cape,Western Cape,http://dbpedia.org/resource/Western_Cape,119.495
+http://dbpedia.org/resource/Gundagai,Gundagai,http://dbpedia.org/resource/Gundagai,119.32
+"http://dbpedia.org/resource/Howard_County,_Maryland","Howard County, Maryland","http://dbpedia.org/resource/Howard_County,_Maryland",119.21999999999998
+"http://dbpedia.org/resource/Putnam_County,_New_York","Putnam County, New York","http://dbpedia.org/resource/Putnam_County,_New_York",119.085
+http://dbpedia.org/resource/Boeotia,Boeotia,http://dbpedia.org/resource/Boeotia,119.04999999999998
+http://dbpedia.org/resource/Northern_Norway,Northern Norway,http://dbpedia.org/resource/Northern_Norway,119.035
+"http://dbpedia.org/resource/Columbia_County,_New_York","Columbia County, New York","http://dbpedia.org/resource/Columbia_County,_New_York",118.94000000000001
+"http://dbpedia.org/resource/Worcester_County,_Massachusetts","Worcester County, Massachusetts","http://dbpedia.org/resource/Worcester_County,_Massachusetts",118.875
+http://dbpedia.org/resource/Lesbos,Lesbos,http://dbpedia.org/resource/Lesbos,118.865
+http://dbpedia.org/resource/County_Cork,County Cork,http://dbpedia.org/resource/County_Cork,118.785
+"http://dbpedia.org/resource/Washington_County,_Arkansas","Washington County, Arkansas","http://dbpedia.org/resource/Washington_County,_Arkansas",118.71500000000002
+"http://dbpedia.org/resource/Placer_County,_California","Placer County, California","http://dbpedia.org/resource/Placer_County,_California",118.54500000000002
+http://dbpedia.org/resource/The_Californias,The Californias,http://dbpedia.org/resource/The_Californias,118.50999999999998
+"http://dbpedia.org/resource/Stanislaus_County,_California","Stanislaus County, California","http://dbpedia.org/resource/Stanislaus_County,_California",118.21999999999998
+"http://dbpedia.org/resource/Lee_County,_Florida","Lee County, Florida","http://dbpedia.org/resource/Lee_County,_Florida",118.13500000000002
+"http://dbpedia.org/resource/Solano_County,_California","Solano County, California","http://dbpedia.org/resource/Solano_County,_California",117.82000000000001
+http://dbpedia.org/resource/County_Mayo,County Mayo,http://dbpedia.org/resource/County_Mayo,117.82
+http://dbpedia.org/resource/Kodagu_district,Kodagu district,http://dbpedia.org/resource/Kodagu_district,117.44500000000001
+http://dbpedia.org/resource/Ioannina,Ioannina,http://dbpedia.org/resource/Ioannina,117.315
+http://dbpedia.org/resource/Metro_East,Metro East,http://dbpedia.org/resource/Metro_East,117.16
+http://dbpedia.org/resource/Budgam_district,Budgam district,http://dbpedia.org/resource/Budgam_district,117.12
+"http://dbpedia.org/resource/Fayette_County,_Pennsylvania","Fayette County, Pennsylvania","http://dbpedia.org/resource/Fayette_County,_Pennsylvania",116.87
+"http://dbpedia.org/resource/Cuyahoga_County,_Ohio","Cuyahoga County, Ohio","http://dbpedia.org/resource/Cuyahoga_County,_Ohio",116.865
+"http://dbpedia.org/resource/Erie_County,_New_York","Erie County, New York","http://dbpedia.org/resource/Erie_County,_New_York",116.44
+http://dbpedia.org/resource/Inverness-shire,Inverness-shire,http://dbpedia.org/resource/Inverness-shire,116.24000000000001
+"http://dbpedia.org/resource/Blackford_County,_Indiana","Blackford County, Indiana","http://dbpedia.org/resource/Blackford_County,_Indiana",116.24
+"http://dbpedia.org/resource/El_Dorado_County,_California","El Dorado County, California","http://dbpedia.org/resource/El_Dorado_County,_California",115.995
+http://dbpedia.org/resource/Sicilia_(Roman_province),Sicilia (Roman province),http://dbpedia.org/resource/Sicilia_(Roman_province),115.92500000000001
+"http://dbpedia.org/resource/Ulster_County,_New_York","Ulster County, New York","http://dbpedia.org/resource/Ulster_County,_New_York",115.9
+http://dbpedia.org/resource/Leh_district,Leh district,http://dbpedia.org/resource/Leh_district,115.83
+http://dbpedia.org/resource/Ålesund,Ålesund,http://dbpedia.org/resource/Ålesund,115.805
+"http://dbpedia.org/resource/Gloucester_County,_New_Jersey","Gloucester County, New Jersey","http://dbpedia.org/resource/Gloucester_County,_New_Jersey",115.76000000000002
+"http://dbpedia.org/resource/Clark_County,_Nevada","Clark County, Nevada","http://dbpedia.org/resource/Clark_County,_Nevada",115.705
+http://dbpedia.org/resource/Panyu_District,Panyu District,http://dbpedia.org/resource/Panyu_District,115.58500000000002
+"http://dbpedia.org/resource/Monroe_County,_Michigan","Monroe County, Michigan","http://dbpedia.org/resource/Monroe_County,_Michigan",115.47000000000001
+"http://dbpedia.org/resource/Madison_County,_Illinois","Madison County, Illinois","http://dbpedia.org/resource/Madison_County,_Illinois",115.22000000000001
+http://dbpedia.org/resource/Guizhou,Guizhou,http://dbpedia.org/resource/Guizhou,115.19500000000001
+http://dbpedia.org/resource/Alta_California,Alta California,http://dbpedia.org/resource/Alta_California,115.125
+"http://dbpedia.org/resource/Lake_County,_California","Lake County, California","http://dbpedia.org/resource/Lake_County,_California",115.08
+http://dbpedia.org/resource/Arendal,Arendal,http://dbpedia.org/resource/Arendal,114.905
+"http://dbpedia.org/resource/Cobb_County,_Georgia","Cobb County, Georgia","http://dbpedia.org/resource/Cobb_County,_Georgia",114.605
+http://dbpedia.org/resource/Bodø,Bodø,http://dbpedia.org/resource/Bodø,114.57
+http://dbpedia.org/resource/Dalmatia,Dalmatia,http://dbpedia.org/resource/Dalmatia,114.52000000000001
+"http://dbpedia.org/resource/St._Clair_County,_Illinois","St. Clair County, Illinois","http://dbpedia.org/resource/St._Clair_County,_Illinois",114.44999999999999
+"http://dbpedia.org/resource/Dakota_County,_Minnesota","Dakota County, Minnesota","http://dbpedia.org/resource/Dakota_County,_Minnesota",114.39000000000001
+"http://dbpedia.org/resource/Glovers_Harbour,_Newfoundland_and_Labrador","Glovers Harbour, Newfoundland and Labrador","http://dbpedia.org/resource/Glovers_Harbour,_Newfoundland_and_Labrador",114.35500000000002
+"http://dbpedia.org/resource/Rensselaer_County,_New_York","Rensselaer County, New York","http://dbpedia.org/resource/Rensselaer_County,_New_York",114.26999999999998
+"http://dbpedia.org/resource/Salt_Lake_County,_Utah","Salt Lake County, Utah","http://dbpedia.org/resource/Salt_Lake_County,_Utah",114.26500000000001
+http://dbpedia.org/resource/Jilin,Jilin,http://dbpedia.org/resource/Jilin,114.25999999999999
+http://dbpedia.org/resource/Bhopal_district,Bhopal district,http://dbpedia.org/resource/Bhopal_district,114.205
+http://dbpedia.org/resource/Malda_district,Malda district,http://dbpedia.org/resource/Malda_district,114.2
+"http://dbpedia.org/resource/Boone_County,_Missouri","Boone County, Missouri","http://dbpedia.org/resource/Boone_County,_Missouri",114.125
+"http://dbpedia.org/resource/Gwinnett_County,_Georgia","Gwinnett County, Georgia","http://dbpedia.org/resource/Gwinnett_County,_Georgia",114.11
+"http://dbpedia.org/resource/Huangpu_District,_Guangzhou","Huangpu District, Guangzhou","http://dbpedia.org/resource/Huangpu_District,_Guangzhou",113.78
+"http://dbpedia.org/resource/Baltimore_County,_Maryland","Baltimore County, Maryland","http://dbpedia.org/resource/Baltimore_County,_Maryland",113.65
+http://dbpedia.org/resource/Arequipa,Arequipa,http://dbpedia.org/resource/Arequipa,113.50999999999999
+http://dbpedia.org/resource/Kalahandi_district,Kalahandi district,http://dbpedia.org/resource/Kalahandi_district,113.485
+"http://dbpedia.org/resource/Franklin_County,_Massachusetts","Franklin County, Massachusetts","http://dbpedia.org/resource/Franklin_County,_Massachusetts",113.45499999999998
+http://dbpedia.org/resource/County_Down,County Down,http://dbpedia.org/resource/County_Down,113.305
+http://dbpedia.org/resource/Central_Coast_Council_(New_South_Wales),Central Coast Council (New South Wales),http://dbpedia.org/resource/Central_Coast_Council_(New_South_Wales),113.26499999999999
+http://dbpedia.org/resource/Hochelaga_(electoral_district),Hochelaga (electoral district),http://dbpedia.org/resource/Hochelaga_(electoral_district),113.075
+http://dbpedia.org/resource/Vologda_Oblast,Vologda Oblast,http://dbpedia.org/resource/Vologda_Oblast,112.855
+http://dbpedia.org/resource/County_Antrim,County Antrim,http://dbpedia.org/resource/County_Antrim,112.78
+http://dbpedia.org/resource/Molde,Molde,http://dbpedia.org/resource/Molde,112.525
+http://dbpedia.org/resource/Highveld,Highveld,http://dbpedia.org/resource/Highveld,112.13500000000002
+"http://dbpedia.org/resource/Warren_County,_New_Jersey","Warren County, New Jersey","http://dbpedia.org/resource/Warren_County,_New_Jersey",112.08999999999999
+"http://dbpedia.org/resource/LaPorte_County,_Indiana","LaPorte County, Indiana","http://dbpedia.org/resource/LaPorte_County,_Indiana",111.9
+http://dbpedia.org/resource/Galveston_Bay_Area,Galveston Bay Area,http://dbpedia.org/resource/Galveston_Bay_Area,111.84999999999998
+http://dbpedia.org/resource/Lazio,Lazio,http://dbpedia.org/resource/Lazio,111.79999999999998
+"http://dbpedia.org/resource/Oakland_County,_Michigan","Oakland County, Michigan","http://dbpedia.org/resource/Oakland_County,_Michigan",111.71500000000002
+"http://dbpedia.org/resource/Collin_County,_Texas","Collin County, Texas","http://dbpedia.org/resource/Collin_County,_Texas",111.61500000000001
+http://dbpedia.org/resource/South_Texas,South Texas,http://dbpedia.org/resource/South_Texas,111.605
+http://dbpedia.org/resource/Narvik,Narvik,http://dbpedia.org/resource/Narvik,111.375
+"http://dbpedia.org/resource/Maricopa_County,_Arizona","Maricopa County, Arizona","http://dbpedia.org/resource/Maricopa_County,_Arizona",111.17000000000002
+"http://dbpedia.org/resource/Fort_Bend_County,_Texas","Fort Bend County, Texas","http://dbpedia.org/resource/Fort_Bend_County,_Texas",111.11500000000001
+"http://dbpedia.org/resource/Nevada_County,_California","Nevada County, California","http://dbpedia.org/resource/Nevada_County,_California",110.92500000000001
+http://dbpedia.org/resource/Nadia_district,Nadia district,http://dbpedia.org/resource/Nadia_district,110.905
+http://dbpedia.org/resource/City_of_Brisbane,City of Brisbane,http://dbpedia.org/resource/City_of_Brisbane,110.79500000000002
+http://dbpedia.org/resource/Nottinghamshire,Nottinghamshire,http://dbpedia.org/resource/Nottinghamshire,110.5
+"http://dbpedia.org/resource/Washington_County,_New_York","Washington County, New York","http://dbpedia.org/resource/Washington_County,_New_York",110.495
+"http://dbpedia.org/resource/Hillsborough_County,_Florida","Hillsborough County, Florida","http://dbpedia.org/resource/Hillsborough_County,_Florida",110.495
+"http://dbpedia.org/resource/Passaic_County,_New_Jersey","Passaic County, New Jersey","http://dbpedia.org/resource/Passaic_County,_New_Jersey",110.41999999999999
+http://dbpedia.org/resource/Northwest_Territory,Northwest Territory,http://dbpedia.org/resource/Northwest_Territory,110.39500000000001
+http://dbpedia.org/resource/Chios,Chios,http://dbpedia.org/resource/Chios,110.34000000000002
+"http://dbpedia.org/resource/Dallas_County,_Texas","Dallas County, Texas","http://dbpedia.org/resource/Dallas_County,_Texas",110.285
+"http://dbpedia.org/resource/Shasta_County,_California","Shasta County, California","http://dbpedia.org/resource/Shasta_County,_California",110.21
+http://dbpedia.org/resource/Herefordshire,Herefordshire,http://dbpedia.org/resource/Herefordshire,110.105
+http://dbpedia.org/resource/County_Wexford,County Wexford,http://dbpedia.org/resource/County_Wexford,109.9
+"http://dbpedia.org/resource/New_Castle_County,_Delaware","New Castle County, Delaware","http://dbpedia.org/resource/New_Castle_County,_Delaware",109.785
+"http://dbpedia.org/resource/St._Louis_County,_Minnesota","St. Louis County, Minnesota","http://dbpedia.org/resource/St._Louis_County,_Minnesota",109.71499999999999
+http://dbpedia.org/resource/Pashtunistan,Pashtunistan,http://dbpedia.org/resource/Pashtunistan,109.46500000000002
+"http://dbpedia.org/resource/Wayne_County,_Michigan","Wayne County, Michigan","http://dbpedia.org/resource/Wayne_County,_Michigan",109.32
+http://dbpedia.org/resource/Indiana_Territory,Indiana Territory,http://dbpedia.org/resource/Indiana_Territory,109.11
+"http://dbpedia.org/resource/Denton_County,_Texas","Denton County, Texas","http://dbpedia.org/resource/Denton_County,_Texas",109.085
+"http://dbpedia.org/resource/Greene_County,_New_York","Greene County, New York","http://dbpedia.org/resource/Greene_County,_New_York",109.005
+http://dbpedia.org/resource/Leicestershire,Leicestershire,http://dbpedia.org/resource/Leicestershire,108.97500000000001
+"http://dbpedia.org/resource/LaSalle_County,_Illinois","LaSalle County, Illinois","http://dbpedia.org/resource/LaSalle_County,_Illinois",108.92000000000002
+http://dbpedia.org/resource/Bas-Saint-Laurent,Bas-Saint-Laurent,http://dbpedia.org/resource/Bas-Saint-Laurent,108.85000000000001
+http://dbpedia.org/resource/West_Midlands_(county),West Midlands (county),http://dbpedia.org/resource/West_Midlands_(county),108.56000000000002
+"http://dbpedia.org/resource/Litchfield_County,_Connecticut","Litchfield County, Connecticut","http://dbpedia.org/resource/Litchfield_County,_Connecticut",108.54000000000002
+http://dbpedia.org/resource/Lakhimpur_Kheri_district,Lakhimpur Kheri district,http://dbpedia.org/resource/Lakhimpur_Kheri_district,108.49000000000001
+http://dbpedia.org/resource/Epirus,Epirus,http://dbpedia.org/resource/Epirus,108.455
+http://dbpedia.org/resource/Republic_of_Karelia,Republic of Karelia,http://dbpedia.org/resource/Republic_of_Karelia,108.35000000000001
+http://dbpedia.org/resource/Koppal_district,Koppal district,http://dbpedia.org/resource/Koppal_district,108.33
+"http://dbpedia.org/resource/Siskiyou_County,_California","Siskiyou County, California","http://dbpedia.org/resource/Siskiyou_County,_California",108.24000000000001
+http://dbpedia.org/resource/Tawau,Tawau,http://dbpedia.org/resource/Tawau,108.16500000000002
+http://dbpedia.org/resource/Bankura_district,Bankura district,http://dbpedia.org/resource/Bankura_district,108.10000000000001
+http://dbpedia.org/resource/Lucknow_district,Lucknow district,http://dbpedia.org/resource/Lucknow_district,107.78
+http://dbpedia.org/resource/Wyong_Shire,Wyong Shire,http://dbpedia.org/resource/Wyong_Shire,107.72500000000001
+"http://dbpedia.org/resource/Yolo_County,_California","Yolo County, California","http://dbpedia.org/resource/Yolo_County,_California",107.59500000000001
+http://dbpedia.org/resource/Portneuf—Jacques-Cartier,Portneuf—Jacques-Cartier,http://dbpedia.org/resource/Portneuf—Jacques-Cartier,107.53999999999999
+http://dbpedia.org/resource/Qinghai,Qinghai,http://dbpedia.org/resource/Qinghai,107.48
+http://dbpedia.org/resource/Normandy,Normandy,http://dbpedia.org/resource/Normandy,107.21
+http://dbpedia.org/resource/Lower_Manhattan,Lower Manhattan,http://dbpedia.org/resource/Lower_Manhattan,107.155
+"http://dbpedia.org/resource/Beaver_County,_Pennsylvania","Beaver County, Pennsylvania","http://dbpedia.org/resource/Beaver_County,_Pennsylvania",106.99000000000001
+http://dbpedia.org/resource/Hammerfest,Hammerfest,http://dbpedia.org/resource/Hammerfest,106.92000000000002
+"http://dbpedia.org/resource/Perry_County,_Missouri","Perry County, Missouri","http://dbpedia.org/resource/Perry_County,_Missouri",106.88999999999999
+http://dbpedia.org/resource/Pannonia,Pannonia,http://dbpedia.org/resource/Pannonia,106.88499999999999
+http://dbpedia.org/resource/Grand_Est,Grand Est,http://dbpedia.org/resource/Grand_Est,106.5
+"http://dbpedia.org/resource/Nassau_County,_Florida","Nassau County, Florida","http://dbpedia.org/resource/Nassau_County,_Florida",106.445
+"http://dbpedia.org/resource/Trinity_County,_California","Trinity County, California","http://dbpedia.org/resource/Trinity_County,_California",106.42500000000001
+http://dbpedia.org/resource/Beauce_(electoral_district),Beauce (electoral district),http://dbpedia.org/resource/Beauce_(electoral_district),106.41500000000002
+"http://dbpedia.org/resource/Sussex_County,_Delaware","Sussex County, Delaware","http://dbpedia.org/resource/Sussex_County,_Delaware",106.35000000000001
+http://dbpedia.org/resource/Greater_Hartford,Greater Hartford,http://dbpedia.org/resource/Greater_Hartford,106.32
+http://dbpedia.org/resource/Azad_Kashmir,Azad Kashmir,http://dbpedia.org/resource/Azad_Kashmir,106.16
+http://dbpedia.org/resource/Purba_Bardhaman_district,Purba Bardhaman district,http://dbpedia.org/resource/Purba_Bardhaman_district,106.13499999999999
+"http://dbpedia.org/resource/Olympia,_Greece","Olympia, Greece","http://dbpedia.org/resource/Olympia,_Greece",106.13499999999999
+"http://dbpedia.org/resource/Montgomery_County,_New_York","Montgomery County, New York","http://dbpedia.org/resource/Montgomery_County,_New_York",106.07
+http://dbpedia.org/resource/Banat,Banat,http://dbpedia.org/resource/Banat,105.97999999999998
+"http://dbpedia.org/resource/Cass_County,_Missouri","Cass County, Missouri","http://dbpedia.org/resource/Cass_County,_Missouri",105.96999999999998
+"http://dbpedia.org/resource/Hidalgo_County,_Texas","Hidalgo County, Texas","http://dbpedia.org/resource/Hidalgo_County,_Texas",105.93
+http://dbpedia.org/resource/Hejaz,Hejaz,http://dbpedia.org/resource/Hejaz,105.49499999999999
+http://dbpedia.org/resource/Isle_of_the_Dead_(Tasmania),Isle of the Dead (Tasmania),http://dbpedia.org/resource/Isle_of_the_Dead_(Tasmania),105.42500000000001
+http://dbpedia.org/resource/Aegina,Aegina,http://dbpedia.org/resource/Aegina,105.36999999999999
+http://dbpedia.org/resource/Liguria,Liguria,http://dbpedia.org/resource/Liguria,105.275
+http://dbpedia.org/resource/Gurgaon_district,Gurgaon district,http://dbpedia.org/resource/Gurgaon_district,105.22000000000001
+http://dbpedia.org/resource/Macedonia_(Roman_province),Macedonia (Roman province),http://dbpedia.org/resource/Macedonia_(Roman_province),105.16500000000002
+"http://dbpedia.org/resource/Tarrant_County,_Texas","Tarrant County, Texas","http://dbpedia.org/resource/Tarrant_County,_Texas",105.125
+"http://dbpedia.org/resource/Safad_Subdistrict,_Mandatory_Palestine","Safad Subdistrict, Mandatory Palestine","http://dbpedia.org/resource/Safad_Subdistrict,_Mandatory_Palestine",105.075
+http://dbpedia.org/resource/Baranya_County,Baranya County,http://dbpedia.org/resource/Baranya_County,105.01499999999999
+"http://dbpedia.org/resource/DeKalb_County,_Georgia","DeKalb County, Georgia","http://dbpedia.org/resource/DeKalb_County,_Georgia",104.87
+"http://dbpedia.org/resource/Madera_County,_California","Madera County, California","http://dbpedia.org/resource/Madera_County,_California",104.79500000000002
+"http://dbpedia.org/resource/New_Haven_County,_Connecticut","New Haven County, Connecticut","http://dbpedia.org/resource/New_Haven_County,_Connecticut",104.75999999999999
+"http://dbpedia.org/resource/Rockingham_County,_New_Hampshire","Rockingham County, New Hampshire","http://dbpedia.org/resource/Rockingham_County,_New_Hampshire",104.74
+http://dbpedia.org/resource/Tampa_Bay_area,Tampa Bay area,http://dbpedia.org/resource/Tampa_Bay_area,104.72000000000001
+"http://dbpedia.org/resource/Anne_Arundel_County,_Maryland","Anne Arundel County, Maryland","http://dbpedia.org/resource/Anne_Arundel_County,_Maryland",104.66
+http://dbpedia.org/resource/Scania,Scania,http://dbpedia.org/resource/Scania,104.565
+"http://dbpedia.org/resource/Schoharie_County,_New_York","Schoharie County, New York","http://dbpedia.org/resource/Schoharie_County,_New_York",104.32000000000001
+http://dbpedia.org/resource/Kolkata_district,Kolkata district,http://dbpedia.org/resource/Kolkata_district,104.30000000000001
+http://dbpedia.org/resource/Kavala,Kavala,http://dbpedia.org/resource/Kavala,104.085
+"http://dbpedia.org/resource/Merced_County,_California","Merced County, California","http://dbpedia.org/resource/Merced_County,_California",103.955
+"http://dbpedia.org/resource/Jersey_County,_Illinois","Jersey County, Illinois","http://dbpedia.org/resource/Jersey_County,_Illinois",103.87
+http://dbpedia.org/resource/Gauteng,Gauteng,http://dbpedia.org/resource/Gauteng,103.86500000000001
+http://dbpedia.org/resource/St_Helier,St Helier,http://dbpedia.org/resource/St_Helier,103.51499999999999
+http://dbpedia.org/resource/Rhondda,Rhondda,http://dbpedia.org/resource/Rhondda,103.47500000000001
+http://dbpedia.org/resource/East_Godavari_district,East Godavari district,http://dbpedia.org/resource/East_Godavari_district,103.43
+"http://dbpedia.org/resource/Kings_County,_California","Kings County, California","http://dbpedia.org/resource/Kings_County,_California",102.99
+"http://dbpedia.org/resource/McHenry_County,_Illinois","McHenry County, Illinois","http://dbpedia.org/resource/McHenry_County,_Illinois",102.96
+http://dbpedia.org/resource/Hydra_(island),Hydra (island),http://dbpedia.org/resource/Hydra_(island),102.91999999999999
+http://dbpedia.org/resource/Tianhe_District,Tianhe District,http://dbpedia.org/resource/Tianhe_District,102.76500000000001
+http://dbpedia.org/resource/Captaincy_General_of_Yucatán,Captaincy General of Yucatán,http://dbpedia.org/resource/Captaincy_General_of_Yucatán,102.69500000000001
+"http://dbpedia.org/resource/Grafton_County,_New_Hampshire","Grafton County, New Hampshire","http://dbpedia.org/resource/Grafton_County,_New_Hampshire",102.695
+"http://dbpedia.org/resource/Fulton_County,_Georgia","Fulton County, Georgia","http://dbpedia.org/resource/Fulton_County,_Georgia",102.69
+"http://dbpedia.org/resource/Iredell_County,_North_Carolina","Iredell County, North Carolina","http://dbpedia.org/resource/Iredell_County,_North_Carolina",102.65
+"http://dbpedia.org/resource/Williamson_County,_Texas","Williamson County, Texas","http://dbpedia.org/resource/Williamson_County,_Texas",102.61999999999999
+"http://dbpedia.org/resource/Warren_County,_Indiana","Warren County, Indiana","http://dbpedia.org/resource/Warren_County,_Indiana",102.43
+"http://dbpedia.org/resource/Philadelphia_County,_Pennsylvania","Philadelphia County, Pennsylvania","http://dbpedia.org/resource/Philadelphia_County,_Pennsylvania",102.27999999999999
+"http://dbpedia.org/resource/Travis_County,_Texas","Travis County, Texas","http://dbpedia.org/resource/Travis_County,_Texas",102.24000000000001
+"http://dbpedia.org/resource/Dukes_County,_Massachusetts","Dukes County, Massachusetts","http://dbpedia.org/resource/Dukes_County,_Massachusetts",102.23500000000001
+"http://dbpedia.org/resource/St._Francois_County,_Missouri","St. Francois County, Missouri","http://dbpedia.org/resource/St._Francois_County,_Missouri",102.2
+http://dbpedia.org/resource/South_Tyrol,South Tyrol,http://dbpedia.org/resource/South_Tyrol,102.2
+http://dbpedia.org/resource/Parbhani_district,Parbhani district,http://dbpedia.org/resource/Parbhani_district,102.15
+http://dbpedia.org/resource/Kos,Kos,http://dbpedia.org/resource/Kos,102.11500000000001
+http://dbpedia.org/resource/Karyes,Karyes,http://dbpedia.org/resource/Karyes,102.02000000000001
+http://dbpedia.org/resource/Kermanshah_County,Kermanshah County,http://dbpedia.org/resource/Kermanshah_County,101.92999999999999
+"http://dbpedia.org/resource/Haifa_Subdistrict,_Mandatory_Palestine","Haifa Subdistrict, Mandatory Palestine","http://dbpedia.org/resource/Haifa_Subdistrict,_Mandatory_Palestine",101.88499999999999
+http://dbpedia.org/resource/County_Clare,County Clare,http://dbpedia.org/resource/County_Clare,101.825
+"http://dbpedia.org/resource/Cape_Girardeau_County,_Missouri","Cape Girardeau County, Missouri","http://dbpedia.org/resource/Cape_Girardeau_County,_Missouri",101.82
+http://dbpedia.org/resource/Outremont_(electoral_district),Outremont (electoral district),http://dbpedia.org/resource/Outremont_(electoral_district),101.7
+"http://dbpedia.org/resource/Butler_County,_Pennsylvania","Butler County, Pennsylvania","http://dbpedia.org/resource/Butler_County,_Pennsylvania",101.685
+"http://dbpedia.org/resource/Bexar_County,_Texas","Bexar County, Texas","http://dbpedia.org/resource/Bexar_County,_Texas",101.665
+http://dbpedia.org/resource/Venetian_rule_in_the_Ionian_Islands,Venetian rule in the Ionian Islands,http://dbpedia.org/resource/Venetian_rule_in_the_Ionian_Islands,101.655
+http://dbpedia.org/resource/Bagmati_Province,Bagmati Province,http://dbpedia.org/resource/Bagmati_Province,101.435
+http://dbpedia.org/resource/West_Sussex,West Sussex,http://dbpedia.org/resource/West_Sussex,101.245
+"http://dbpedia.org/resource/Orange_County,_Florida","Orange County, Florida","http://dbpedia.org/resource/Orange_County,_Florida",101.245
+http://dbpedia.org/resource/Yuexiu_District,Yuexiu District,http://dbpedia.org/resource/Yuexiu_District,101.21499999999999
+http://dbpedia.org/resource/KwaZulu-Natal,KwaZulu-Natal,http://dbpedia.org/resource/KwaZulu-Natal,101.175
+http://dbpedia.org/resource/Harstad,Harstad,http://dbpedia.org/resource/Harstad,101.04500000000002
+http://dbpedia.org/resource/Kristiansund,Kristiansund,http://dbpedia.org/resource/Kristiansund,100.92500000000001
+http://dbpedia.org/resource/Pomerelia,Pomerelia,http://dbpedia.org/resource/Pomerelia,100.9
+"http://dbpedia.org/resource/Forsyth_County,_Georgia","Forsyth County, Georgia","http://dbpedia.org/resource/Forsyth_County,_Georgia",100.80499999999999
+http://dbpedia.org/resource/Heraklion,Heraklion,http://dbpedia.org/resource/Heraklion,100.71500000000002
+"http://dbpedia.org/resource/Acre_Subdistrict,_Mandatory_Palestine","Acre Subdistrict, Mandatory Palestine","http://dbpedia.org/resource/Acre_Subdistrict,_Mandatory_Palestine",100.66000000000001
+"http://dbpedia.org/resource/Dauphin_County,_Pennsylvania","Dauphin County, Pennsylvania","http://dbpedia.org/resource/Dauphin_County,_Pennsylvania",100.625
+"http://dbpedia.org/resource/Indiana_County,_Pennsylvania","Indiana County, Pennsylvania","http://dbpedia.org/resource/Indiana_County,_Pennsylvania",100.61500000000001
+http://dbpedia.org/resource/Sakha,Sakha,http://dbpedia.org/resource/Sakha,100.525
+"http://dbpedia.org/resource/Rowan_County,_North_Carolina","Rowan County, North Carolina","http://dbpedia.org/resource/Rowan_County,_North_Carolina",100.51
+http://dbpedia.org/resource/Hunter_Region,Hunter Region,http://dbpedia.org/resource/Hunter_Region,100.39500000000001
+http://dbpedia.org/resource/Tyne_and_Wear,Tyne and Wear,http://dbpedia.org/resource/Tyne_and_Wear,100.38499999999999
+http://dbpedia.org/resource/Barmah_National_Park,Barmah National Park,http://dbpedia.org/resource/Barmah_National_Park,100.36999999999999
+http://dbpedia.org/resource/Vologodsky_District,Vologodsky District,http://dbpedia.org/resource/Vologodsky_District,100.36500000000001
+http://dbpedia.org/resource/Groningen_(province),Groningen (province),http://dbpedia.org/resource/Groningen_(province),100.33999999999999
+"http://dbpedia.org/resource/Brazoria_County,_Texas","Brazoria County, Texas","http://dbpedia.org/resource/Brazoria_County,_Texas",100.17
+http://dbpedia.org/resource/Cambridgeshire,Cambridgeshire,http://dbpedia.org/resource/Cambridgeshire,100.15
+http://dbpedia.org/resource/Toronto_Centre,Toronto Centre,http://dbpedia.org/resource/Toronto_Centre,99.95
+"http://dbpedia.org/resource/The_Woodlands,_Texas","The Woodlands, Texas","http://dbpedia.org/resource/The_Woodlands,_Texas",99.94999999999999
+"http://dbpedia.org/resource/Will_County,_Illinois","Will County, Illinois","http://dbpedia.org/resource/Will_County,_Illinois",99.94999999999999
+http://dbpedia.org/resource/Argenteuil—Papineau—Mirabel,Argenteuil—Papineau—Mirabel,http://dbpedia.org/resource/Argenteuil—Papineau—Mirabel,99.94
+"http://dbpedia.org/resource/Washington_County,_Missouri","Washington County, Missouri","http://dbpedia.org/resource/Washington_County,_Missouri",99.765
+"http://dbpedia.org/resource/Armstrong_County,_Pennsylvania","Armstrong County, Pennsylvania","http://dbpedia.org/resource/Armstrong_County,_Pennsylvania",99.76
+http://dbpedia.org/resource/Kumaon_division,Kumaon division,http://dbpedia.org/resource/Kumaon_division,99.69999999999999
+"http://dbpedia.org/resource/Escambia_County,_Florida","Escambia County, Florida","http://dbpedia.org/resource/Escambia_County,_Florida",99.62
+http://dbpedia.org/resource/Papineau_(electoral_district),Papineau (electoral district),http://dbpedia.org/resource/Papineau_(electoral_district),99.55
+"http://dbpedia.org/resource/Highland_County,_Virginia","Highland County, Virginia","http://dbpedia.org/resource/Highland_County,_Virginia",99.5
+http://dbpedia.org/resource/Purulia_district,Purulia district,http://dbpedia.org/resource/Purulia_district,99.375
+http://dbpedia.org/resource/Alsace–Lorraine,Alsace–Lorraine,http://dbpedia.org/resource/Alsace–Lorraine,99.37
+"http://dbpedia.org/resource/Garrett_County,_Maryland","Garrett County, Maryland","http://dbpedia.org/resource/Garrett_County,_Maryland",99.32
+http://dbpedia.org/resource/Bareilly_district,Bareilly district,http://dbpedia.org/resource/Bareilly_district,99.28500000000001
+"http://dbpedia.org/resource/Livingston_County,_New_York","Livingston County, New York","http://dbpedia.org/resource/Livingston_County,_New_York",99.21500000000002
+"http://dbpedia.org/resource/Leon_County,_Florida","Leon County, Florida","http://dbpedia.org/resource/Leon_County,_Florida",99.19
+http://dbpedia.org/resource/Unnao_district,Unnao district,http://dbpedia.org/resource/Unnao_district,99.18
+http://dbpedia.org/resource/Larvik,Larvik,http://dbpedia.org/resource/Larvik,99.17
+"http://dbpedia.org/resource/Clinton_County,_Illinois","Clinton County, Illinois","http://dbpedia.org/resource/Clinton_County,_Illinois",99.0
+"http://dbpedia.org/resource/Monroe_County,_Illinois","Monroe County, Illinois","http://dbpedia.org/resource/Monroe_County,_Illinois",98.895
+"http://dbpedia.org/resource/Platte_County,_Missouri","Platte County, Missouri","http://dbpedia.org/resource/Platte_County,_Missouri",98.855
+http://dbpedia.org/resource/Kaliningrad_Oblast,Kaliningrad Oblast,http://dbpedia.org/resource/Kaliningrad_Oblast,98.825
+http://dbpedia.org/resource/City_of_Rockdale,City of Rockdale,http://dbpedia.org/resource/City_of_Rockdale,98.78
+http://dbpedia.org/resource/Kozani,Kozani,http://dbpedia.org/resource/Kozani,98.755
+http://dbpedia.org/resource/Alexandroupolis,Alexandroupolis,http://dbpedia.org/resource/Alexandroupolis,98.67
+"http://dbpedia.org/resource/Gaza_Subdistrict,_Mandatory_Palestine","Gaza Subdistrict, Mandatory Palestine","http://dbpedia.org/resource/Gaza_Subdistrict,_Mandatory_Palestine",98.61500000000001
+http://dbpedia.org/resource/Voss,Voss,http://dbpedia.org/resource/Voss,98.58500000000001
+http://dbpedia.org/resource/Naval_Base_Perth,Naval Base Perth,http://dbpedia.org/resource/Naval_Base_Perth,98.57000000000001
+"http://dbpedia.org/resource/St._Charles_County,_Missouri","St. Charles County, Missouri","http://dbpedia.org/resource/St._Charles_County,_Missouri",98.555
+http://dbpedia.org/resource/Sandakan,Sandakan,http://dbpedia.org/resource/Sandakan,98.535
+http://dbpedia.org/resource/Langkawi,Langkawi,http://dbpedia.org/resource/Langkawi,98.49000000000001
+http://dbpedia.org/resource/Haridwar_district,Haridwar district,http://dbpedia.org/resource/Haridwar_district,98.46999999999998
+http://dbpedia.org/resource/Bantam_Presidency,Bantam Presidency,http://dbpedia.org/resource/Bantam_Presidency,98.43
+http://dbpedia.org/resource/Arkhangelsk_Oblast,Arkhangelsk Oblast,http://dbpedia.org/resource/Arkhangelsk_Oblast,98.405
+http://dbpedia.org/resource/History_of_South_Australia,History of South Australia,http://dbpedia.org/resource/History_of_South_Australia,98.32499999999999
+"http://dbpedia.org/resource/Snohomish_County,_Washington","Snohomish County, Washington","http://dbpedia.org/resource/Snohomish_County,_Washington",98.30000000000001
+http://dbpedia.org/resource/Joliette_(electoral_district),Joliette (electoral district),http://dbpedia.org/resource/Joliette_(electoral_district),98.265
+http://dbpedia.org/resource/Matsu_Islands,Matsu Islands,http://dbpedia.org/resource/Matsu_Islands,98.26
+"http://dbpedia.org/resource/Hamilton_County,_Ohio","Hamilton County, Ohio","http://dbpedia.org/resource/Hamilton_County,_Ohio",98.255
+http://dbpedia.org/resource/Ballia_district,Ballia district,http://dbpedia.org/resource/Ballia_district,98.23
+http://dbpedia.org/resource/Friuli_Venezia_Giulia,Friuli Venezia Giulia,http://dbpedia.org/resource/Friuli_Venezia_Giulia,98.145
+http://dbpedia.org/resource/Jammu_and_Kashmir_(state),Jammu and Kashmir (state),http://dbpedia.org/resource/Jammu_and_Kashmir_(state),98.125
+http://dbpedia.org/resource/Brome—Missisquoi,Brome—Missisquoi,http://dbpedia.org/resource/Brome—Missisquoi,98.03999999999999
+http://dbpedia.org/resource/Mytilene,Mytilene,http://dbpedia.org/resource/Mytilene,97.94999999999999
+"http://dbpedia.org/resource/Callaway_County,_Missouri","Callaway County, Missouri","http://dbpedia.org/resource/Callaway_County,_Missouri",97.93
+http://dbpedia.org/resource/Ningxia,Ningxia,http://dbpedia.org/resource/Ningxia,97.91
+http://dbpedia.org/resource/Mathura_district,Mathura district,http://dbpedia.org/resource/Mathura_district,97.895
+"http://dbpedia.org/resource/Taiwan_Province,_People's_Republic_of_China","Taiwan Province, People's Republic of China","http://dbpedia.org/resource/Taiwan_Province,_People's_Republic_of_China",97.755
+"http://dbpedia.org/resource/Mono_County,_California","Mono County, California","http://dbpedia.org/resource/Mono_County,_California",97.75
+http://dbpedia.org/resource/County_Tyrone,County Tyrone,http://dbpedia.org/resource/County_Tyrone,97.72
+"http://dbpedia.org/resource/Cole_County,_Missouri","Cole County, Missouri","http://dbpedia.org/resource/Cole_County,_Missouri",97.64
+http://dbpedia.org/resource/West_Champaran_district,West Champaran district,http://dbpedia.org/resource/West_Champaran_district,97.625
+"http://dbpedia.org/resource/Chesterfield_County,_Virginia","Chesterfield County, Virginia","http://dbpedia.org/resource/Chesterfield_County,_Virginia",97.42500000000001
+"http://dbpedia.org/resource/Modoc_County,_California","Modoc County, California","http://dbpedia.org/resource/Modoc_County,_California",97.34
+http://dbpedia.org/resource/Sitamarhi_district,Sitamarhi district,http://dbpedia.org/resource/Sitamarhi_district,97.16
+http://dbpedia.org/resource/History_of_Queensland,History of Queensland,http://dbpedia.org/resource/History_of_Queensland,97.11
+"http://dbpedia.org/resource/Jefferson_County,_Illinois","Jefferson County, Illinois","http://dbpedia.org/resource/Jefferson_County,_Illinois",97.065
+http://dbpedia.org/resource/Liwan_District,Liwan District,http://dbpedia.org/resource/Liwan_District,97.0
+http://dbpedia.org/resource/Basilicata,Basilicata,http://dbpedia.org/resource/Basilicata,96.97
+http://dbpedia.org/resource/Paschim_Medinipur_district,Paschim Medinipur district,http://dbpedia.org/resource/Paschim_Medinipur_district,96.91
+"http://dbpedia.org/resource/Coös_County,_New_Hampshire","Coös County, New Hampshire","http://dbpedia.org/resource/Coös_County,_New_Hampshire",96.805
+"http://dbpedia.org/resource/Sutter_County,_California","Sutter County, California","http://dbpedia.org/resource/Sutter_County,_California",96.725
+http://dbpedia.org/resource/Apulia,Apulia,http://dbpedia.org/resource/Apulia,96.66000000000001
+"http://dbpedia.org/resource/York,_Western_Australia","York, Western Australia","http://dbpedia.org/resource/York,_Western_Australia",96.46000000000001
+"http://dbpedia.org/resource/Bates_County,_Missouri","Bates County, Missouri","http://dbpedia.org/resource/Bates_County,_Missouri",96.4
+"http://dbpedia.org/resource/Innisfail,_Queensland","Innisfail, Queensland","http://dbpedia.org/resource/Innisfail,_Queensland",96.315
+http://dbpedia.org/resource/County_Kerry,County Kerry,http://dbpedia.org/resource/County_Kerry,96.30000000000001
+"http://dbpedia.org/resource/Buchanan_County,_Missouri","Buchanan County, Missouri","http://dbpedia.org/resource/Buchanan_County,_Missouri",96.23500000000001
+"http://dbpedia.org/resource/Mecklenburg_County,_North_Carolina","Mecklenburg County, North Carolina","http://dbpedia.org/resource/Mecklenburg_County,_North_Carolina",96.15
+http://dbpedia.org/resource/Chameria,Chameria,http://dbpedia.org/resource/Chameria,96.11500000000001
+"http://dbpedia.org/resource/Winton,_Queensland","Winton, Queensland","http://dbpedia.org/resource/Winton,_Queensland",96.105
+"http://dbpedia.org/resource/San_Benito_County,_California","San Benito County, California","http://dbpedia.org/resource/San_Benito_County,_California",96.01
+"http://dbpedia.org/resource/Calaveras_County,_California","Calaveras County, California","http://dbpedia.org/resource/Calaveras_County,_California",96.00999999999999
+"http://dbpedia.org/resource/Onondaga_County,_New_York","Onondaga County, New York","http://dbpedia.org/resource/Onondaga_County,_New_York",95.87
+http://dbpedia.org/resource/Roman_Cyprus,Roman Cyprus,http://dbpedia.org/resource/Roman_Cyprus,95.81
+"http://dbpedia.org/resource/Calhoun_County,_Illinois","Calhoun County, Illinois","http://dbpedia.org/resource/Calhoun_County,_Illinois",95.78
+"http://dbpedia.org/resource/Kane_County,_Illinois","Kane County, Illinois","http://dbpedia.org/resource/Kane_County,_Illinois",95.76
+http://dbpedia.org/resource/Occitania_(administrative_region),Occitania (administrative region),http://dbpedia.org/resource/Occitania_(administrative_region),95.69
+"http://dbpedia.org/resource/Lincoln_County,_Missouri","Lincoln County, Missouri","http://dbpedia.org/resource/Lincoln_County,_Missouri",95.50999999999999
+"http://dbpedia.org/resource/Hillsborough_County,_New_Hampshire","Hillsborough County, New Hampshire","http://dbpedia.org/resource/Hillsborough_County,_New_Hampshire",95.5
+"http://dbpedia.org/resource/Arkansas_County,_Arkansas","Arkansas County, Arkansas","http://dbpedia.org/resource/Arkansas_County,_Arkansas",95.49499999999999
+"http://dbpedia.org/resource/Centre_County,_Pennsylvania","Centre County, Pennsylvania","http://dbpedia.org/resource/Centre_County,_Pennsylvania",95.40500000000002
+http://dbpedia.org/resource/Banten,Banten,http://dbpedia.org/resource/Banten,95.4
+http://dbpedia.org/resource/Suceava_County,Suceava County,http://dbpedia.org/resource/Suceava_County,95.38
+"http://dbpedia.org/resource/Cambria_County,_Pennsylvania","Cambria County, Pennsylvania","http://dbpedia.org/resource/Cambria_County,_Pennsylvania",95.32
+"http://dbpedia.org/resource/Thebes,_Greece","Thebes, Greece","http://dbpedia.org/resource/Thebes,_Greece",95.26
+"http://dbpedia.org/resource/Yuba_County,_California","Yuba County, California","http://dbpedia.org/resource/Yuba_County,_California",95.215
+http://dbpedia.org/resource/Troms_og_Finnmark,Troms og Finnmark,http://dbpedia.org/resource/Troms_og_Finnmark,95.105
+"http://dbpedia.org/resource/Albemarle_County,_Virginia","Albemarle County, Virginia","http://dbpedia.org/resource/Albemarle_County,_Virginia",95.065
+http://dbpedia.org/resource/Bicol_Region,Bicol Region,http://dbpedia.org/resource/Bicol_Region,95.04
+http://dbpedia.org/resource/Kingdom_of_Italy_(Holy_Roman_Empire),Kingdom of Italy (Holy Roman Empire),http://dbpedia.org/resource/Kingdom_of_Italy_(Holy_Roman_Empire),95.005
+http://dbpedia.org/resource/Volos,Volos,http://dbpedia.org/resource/Volos,94.88
+"http://dbpedia.org/resource/Baiyun_District,_Guangzhou","Baiyun District, Guangzhou","http://dbpedia.org/resource/Baiyun_District,_Guangzhou",94.81
+http://dbpedia.org/resource/Hardoi_district,Hardoi district,http://dbpedia.org/resource/Hardoi_district,94.77
+"http://dbpedia.org/resource/Ashley_County,_Arkansas","Ashley County, Arkansas","http://dbpedia.org/resource/Ashley_County,_Arkansas",94.75
+http://dbpedia.org/resource/Ramgarh_district,Ramgarh district,http://dbpedia.org/resource/Ramgarh_district,94.685
+http://dbpedia.org/resource/Shennongjia,Shennongjia,http://dbpedia.org/resource/Shennongjia,94.48
+"http://dbpedia.org/resource/Fulton_County,_New_York","Fulton County, New York","http://dbpedia.org/resource/Fulton_County,_New_York",94.47999999999999
+http://dbpedia.org/resource/Exarchate_of_Africa,Exarchate of Africa,http://dbpedia.org/resource/Exarchate_of_Africa,94.44
+http://dbpedia.org/resource/Cuttack_district,Cuttack district,http://dbpedia.org/resource/Cuttack_district,94.38
+"http://dbpedia.org/resource/Northampton_County,_Pennsylvania","Northampton County, Pennsylvania","http://dbpedia.org/resource/Northampton_County,_Pennsylvania",94.33500000000001
+"http://dbpedia.org/resource/Macomb_County,_Michigan","Macomb County, Michigan","http://dbpedia.org/resource/Macomb_County,_Michigan",94.27499999999999
+"http://dbpedia.org/resource/Adams_County,_Pennsylvania","Adams County, Pennsylvania","http://dbpedia.org/resource/Adams_County,_Pennsylvania",94.26500000000001
+http://dbpedia.org/resource/Fort_Glanville_Conservation_Park,Fort Glanville Conservation Park,http://dbpedia.org/resource/Fort_Glanville_Conservation_Park,94.23500000000001
+"http://dbpedia.org/resource/Hebron_Subdistrict,_Mandatory_Palestine","Hebron Subdistrict, Mandatory Palestine","http://dbpedia.org/resource/Hebron_Subdistrict,_Mandatory_Palestine",94.235
+http://dbpedia.org/resource/Friesland,Friesland,http://dbpedia.org/resource/Friesland,94.21500000000002
+"http://dbpedia.org/resource/Phelps_County,_Missouri","Phelps County, Missouri","http://dbpedia.org/resource/Phelps_County,_Missouri",94.16499999999999
+http://dbpedia.org/resource/Howrah_district,Howrah district,http://dbpedia.org/resource/Howrah_district,94.12
+"http://dbpedia.org/resource/Amador_County,_California","Amador County, California","http://dbpedia.org/resource/Amador_County,_California",94.1
+http://dbpedia.org/resource/Ambala_district,Ambala district,http://dbpedia.org/resource/Ambala_district,94.065
+"http://dbpedia.org/resource/Blair_County,_Pennsylvania","Blair County, Pennsylvania","http://dbpedia.org/resource/Blair_County,_Pennsylvania",94.03999999999999
+"http://dbpedia.org/resource/Tiberias_Subdistrict,_Mandatory_Palestine","Tiberias Subdistrict, Mandatory Palestine","http://dbpedia.org/resource/Tiberias_Subdistrict,_Mandatory_Palestine",94.01
+http://dbpedia.org/resource/Sogndal,Sogndal,http://dbpedia.org/resource/Sogndal,93.935
+http://dbpedia.org/resource/Urmia_County,Urmia County,http://dbpedia.org/resource/Urmia_County,93.925
+http://dbpedia.org/resource/Ilam_province,Ilam province,http://dbpedia.org/resource/Ilam_province,93.915
+http://dbpedia.org/resource/Quebec_East,Quebec East,http://dbpedia.org/resource/Quebec_East,93.905
+http://dbpedia.org/resource/Buldhana_district,Buldhana district,http://dbpedia.org/resource/Buldhana_district,93.835
+http://dbpedia.org/resource/Skeena_(provincial_electoral_district),Skeena (provincial electoral district),http://dbpedia.org/resource/Skeena_(provincial_electoral_district),93.76
+"http://dbpedia.org/resource/Hennepin_County,_Minnesota","Hennepin County, Minnesota","http://dbpedia.org/resource/Hennepin_County,_Minnesota",93.725
+"http://dbpedia.org/resource/Rockingham_County,_North_Carolina","Rockingham County, North Carolina","http://dbpedia.org/resource/Rockingham_County,_North_Carolina",93.71
+http://dbpedia.org/resource/Haizhu_District,Haizhu District,http://dbpedia.org/resource/Haizhu_District,93.705
+"http://dbpedia.org/resource/Ste._Genevieve_County,_Missouri","Ste. Genevieve County, Missouri","http://dbpedia.org/resource/Ste._Genevieve_County,_Missouri",93.47500000000001
+http://dbpedia.org/resource/Steinkjer,Steinkjer,http://dbpedia.org/resource/Steinkjer,93.45
+"http://dbpedia.org/resource/Pima_County,_Arizona","Pima County, Arizona","http://dbpedia.org/resource/Pima_County,_Arizona",93.4
+"http://dbpedia.org/resource/Beersheba_Subdistrict,_Mandatory_Palestine","Beersheba Subdistrict, Mandatory Palestine","http://dbpedia.org/resource/Beersheba_Subdistrict,_Mandatory_Palestine",93.38499999999999
+"http://dbpedia.org/resource/Lawrence_County,_Pennsylvania","Lawrence County, Pennsylvania","http://dbpedia.org/resource/Lawrence_County,_Pennsylvania",93.36
+http://dbpedia.org/resource/Mount_Royal_(electoral_district),Mount Royal (electoral district),http://dbpedia.org/resource/Mount_Royal_(electoral_district),93.34
+"http://dbpedia.org/resource/Schenectady_County,_New_York","Schenectady County, New York","http://dbpedia.org/resource/Schenectady_County,_New_York",93.315
+http://dbpedia.org/resource/Mersin_Province,Mersin Province,http://dbpedia.org/resource/Mersin_Province,93.245
+"http://dbpedia.org/resource/Hampshire_County,_Massachusetts","Hampshire County, Massachusetts","http://dbpedia.org/resource/Hampshire_County,_Massachusetts",93.16499999999999
+http://dbpedia.org/resource/City_of_Auburn,City of Auburn,http://dbpedia.org/resource/City_of_Auburn,93.11000000000001
+http://dbpedia.org/resource/Alice_Springs,Alice Springs,http://dbpedia.org/resource/Alice_Springs,93.035
+http://dbpedia.org/resource/Maguindanao,Maguindanao,http://dbpedia.org/resource/Maguindanao,93.01499999999999
+http://dbpedia.org/resource/Paschim_Bardhaman_district,Paschim Bardhaman district,http://dbpedia.org/resource/Paschim_Bardhaman_district,92.935
+http://dbpedia.org/resource/Hull—Aylmer,Hull—Aylmer,http://dbpedia.org/resource/Hull—Aylmer,92.91
+http://dbpedia.org/resource/Drammen,Drammen,http://dbpedia.org/resource/Drammen,92.795
+http://dbpedia.org/resource/North-West_Frontier_Province,North-West Frontier Province,http://dbpedia.org/resource/North-West_Frontier_Province,92.685
+http://dbpedia.org/resource/Lac-Saint-Jean,Lac-Saint-Jean,http://dbpedia.org/resource/Lac-Saint-Jean,92.67500000000001
+http://dbpedia.org/resource/Syunik_Province,Syunik Province,http://dbpedia.org/resource/Syunik_Province,92.64500000000001
+http://dbpedia.org/resource/Puri_district,Puri district,http://dbpedia.org/resource/Puri_district,92.645
+http://dbpedia.org/resource/North_Texas,North Texas,http://dbpedia.org/resource/North_Texas,92.63
+http://dbpedia.org/resource/Marrickville_Council,Marrickville Council,http://dbpedia.org/resource/Marrickville_Council,92.575
+"http://dbpedia.org/resource/Del_Norte_County,_California","Del Norte County, California","http://dbpedia.org/resource/Del_Norte_County,_California",92.555
+http://dbpedia.org/resource/Barrington_Tops_National_Park,Barrington Tops National Park,http://dbpedia.org/resource/Barrington_Tops_National_Park,92.52
+http://dbpedia.org/resource/South_Yorkshire,South Yorkshire,http://dbpedia.org/resource/South_Yorkshire,92.48500000000001
+"http://dbpedia.org/resource/Galveston_County,_Texas","Galveston County, Texas","http://dbpedia.org/resource/Galveston_County,_Texas",92.43
+http://dbpedia.org/resource/Cooch_Behar_district,Cooch Behar district,http://dbpedia.org/resource/Cooch_Behar_district,92.37
+"http://dbpedia.org/resource/Pierce_County,_Washington","Pierce County, Washington","http://dbpedia.org/resource/Pierce_County,_Washington",92.36000000000001
+"http://dbpedia.org/resource/Wilkes_County,_North_Carolina","Wilkes County, North Carolina","http://dbpedia.org/resource/Wilkes_County,_North_Carolina",92.31
+http://dbpedia.org/resource/Ilocos_Region,Ilocos Region,http://dbpedia.org/resource/Ilocos_Region,92.28
+http://dbpedia.org/resource/Kanyakumari_district,Kanyakumari district,http://dbpedia.org/resource/Kanyakumari_district,92.25999999999999
+http://dbpedia.org/resource/North_Somerset,North Somerset,http://dbpedia.org/resource/North_Somerset,91.96
+"http://dbpedia.org/resource/Harrison_County,_Indiana","Harrison County, Indiana","http://dbpedia.org/resource/Harrison_County,_Indiana",91.905
+"http://dbpedia.org/resource/Northern_Province,_Sri_Lanka","Northern Province, Sri Lanka","http://dbpedia.org/resource/Northern_Province,_Sri_Lanka",91.89
+http://dbpedia.org/resource/Alwar_district,Alwar district,http://dbpedia.org/resource/Alwar_district,91.88499999999999
+http://dbpedia.org/resource/Federally_Administered_Tribal_Areas,Federally Administered Tribal Areas,http://dbpedia.org/resource/Federally_Administered_Tribal_Areas,91.88499999999999
+"http://dbpedia.org/resource/Starr_County,_Texas","Starr County, Texas","http://dbpedia.org/resource/Starr_County,_Texas",91.825
+http://dbpedia.org/resource/Jhang_District,Jhang District,http://dbpedia.org/resource/Jhang_District,91.77
+"http://dbpedia.org/resource/Carter_County,_Missouri","Carter County, Missouri","http://dbpedia.org/resource/Carter_County,_Missouri",91.76
+http://dbpedia.org/resource/Yogyakarta,Yogyakarta,http://dbpedia.org/resource/Yogyakarta,91.75
+http://dbpedia.org/resource/Port_Stephens_Council,Port Stephens Council,http://dbpedia.org/resource/Port_Stephens_Council,91.745
+"http://dbpedia.org/resource/Carroll_County,_Maryland","Carroll County, Maryland","http://dbpedia.org/resource/Carroll_County,_Maryland",91.735
+"http://dbpedia.org/resource/Audrain_County,_Missouri","Audrain County, Missouri","http://dbpedia.org/resource/Audrain_County,_Missouri",91.7
+"http://dbpedia.org/resource/Tuolumne_County,_California","Tuolumne County, California","http://dbpedia.org/resource/Tuolumne_County,_California",91.685
+"http://dbpedia.org/resource/Wayne_County,_New_York","Wayne County, New York","http://dbpedia.org/resource/Wayne_County,_New_York",91.61500000000001
+"http://dbpedia.org/resource/Marion_County,_Illinois","Marion County, Illinois","http://dbpedia.org/resource/Marion_County,_Illinois",91.61000000000001
+http://dbpedia.org/resource/Bao'an_District,Bao'an District,http://dbpedia.org/resource/Bao'an_District,91.58
+"http://dbpedia.org/resource/Butler_County,_Missouri","Butler County, Missouri","http://dbpedia.org/resource/Butler_County,_Missouri",91.415
+"http://dbpedia.org/resource/Orleans_County,_Vermont","Orleans County, Vermont","http://dbpedia.org/resource/Orleans_County,_Vermont",91.41000000000001
+http://dbpedia.org/resource/Vaishali_district,Vaishali district,http://dbpedia.org/resource/Vaishali_district,91.4
+"http://dbpedia.org/resource/Somerset_County,_Pennsylvania","Somerset County, Pennsylvania","http://dbpedia.org/resource/Somerset_County,_Pennsylvania",91.29
+http://dbpedia.org/resource/Herat_Province,Herat Province,http://dbpedia.org/resource/Herat_Province,91.285
+"http://dbpedia.org/resource/Porter_County,_Indiana","Porter County, Indiana","http://dbpedia.org/resource/Porter_County,_Indiana",91.245
+"http://dbpedia.org/resource/Warwick,_Queensland","Warwick, Queensland","http://dbpedia.org/resource/Warwick,_Queensland",91.19500000000001
+http://dbpedia.org/resource/Piraeus,Piraeus,http://dbpedia.org/resource/Piraeus,91.155
+http://dbpedia.org/resource/New_Swabia,New Swabia,http://dbpedia.org/resource/New_Swabia,91.06
+"http://dbpedia.org/resource/Tehama_County,_California","Tehama County, California","http://dbpedia.org/resource/Tehama_County,_California",91.06
+http://dbpedia.org/resource/Alajuela_Province,Alajuela Province,http://dbpedia.org/resource/Alajuela_Province,91.04500000000002
+"http://dbpedia.org/resource/Caldwell_County,_Missouri","Caldwell County, Missouri","http://dbpedia.org/resource/Caldwell_County,_Missouri",91.03500000000001
+http://dbpedia.org/resource/Bærum,Bærum,http://dbpedia.org/resource/Bærum,91.00999999999999
+http://dbpedia.org/resource/Purba_Medinipur_district,Purba Medinipur district,http://dbpedia.org/resource/Purba_Medinipur_district,90.89
+http://dbpedia.org/resource/Kingaroy,Kingaroy,http://dbpedia.org/resource/Kingaroy,90.845
+"http://dbpedia.org/resource/Unorganized_Borough,_Alaska","Unorganized Borough, Alaska","http://dbpedia.org/resource/Unorganized_Borough,_Alaska",90.83999999999999
+http://dbpedia.org/resource/Province_of_Westphalia,Province of Westphalia,http://dbpedia.org/resource/Province_of_Westphalia,90.805
+http://dbpedia.org/resource/Andros,Andros,http://dbpedia.org/resource/Andros,90.78
+"http://dbpedia.org/resource/Bollinger_County,_Missouri","Bollinger County, Missouri","http://dbpedia.org/resource/Bollinger_County,_Missouri",90.755
+"http://dbpedia.org/resource/Harford_County,_Maryland","Harford County, Maryland","http://dbpedia.org/resource/Harford_County,_Maryland",90.67500000000001
+"http://dbpedia.org/resource/Colusa_County,_California","Colusa County, California","http://dbpedia.org/resource/Colusa_County,_California",90.525
+"http://dbpedia.org/resource/Frederick_County,_Maryland","Frederick County, Maryland","http://dbpedia.org/resource/Frederick_County,_Maryland",90.495
+"http://dbpedia.org/resource/Orange_County,_North_Carolina","Orange County, North Carolina","http://dbpedia.org/resource/Orange_County,_North_Carolina",90.435
+"http://dbpedia.org/resource/Gibson_County,_Indiana","Gibson County, Indiana","http://dbpedia.org/resource/Gibson_County,_Indiana",90.415
+http://dbpedia.org/resource/Haugesund,Haugesund,http://dbpedia.org/resource/Haugesund,90.23
+"http://dbpedia.org/resource/Dunklin_County,_Missouri","Dunklin County, Missouri","http://dbpedia.org/resource/Dunklin_County,_Missouri",90.22
+http://dbpedia.org/resource/Nashik_district,Nashik district,http://dbpedia.org/resource/Nashik_district,90.185
+"http://dbpedia.org/resource/Charles_County,_Maryland","Charles County, Maryland","http://dbpedia.org/resource/Charles_County,_Maryland",90.17
+http://dbpedia.org/resource/Jämtland,Jämtland,http://dbpedia.org/resource/Jämtland,90.155
+http://dbpedia.org/resource/Ayrshire,Ayrshire,http://dbpedia.org/resource/Ayrshire,90.14500000000001
+"http://dbpedia.org/resource/Waukesha_County,_Wisconsin","Waukesha County, Wisconsin","http://dbpedia.org/resource/Waukesha_County,_Wisconsin",90.145
+http://dbpedia.org/resource/Barmer_district,Barmer district,http://dbpedia.org/resource/Barmer_district,90.13499999999999
+"http://dbpedia.org/resource/Macoupin_County,_Illinois","Macoupin County, Illinois","http://dbpedia.org/resource/Macoupin_County,_Illinois",90.10500000000002
+http://dbpedia.org/resource/Namsos,Namsos,http://dbpedia.org/resource/Namsos,90.09500000000001
+"http://dbpedia.org/resource/Lassen_County,_California","Lassen County, California","http://dbpedia.org/resource/Lassen_County,_California",90.07
+http://dbpedia.org/resource/Broken_Hill,Broken Hill,http://dbpedia.org/resource/Broken_Hill,90.045
+http://dbpedia.org/resource/Cappadocia,Cappadocia,http://dbpedia.org/resource/Cappadocia,90.04
+http://dbpedia.org/resource/Autonomous_Region_in_Muslim_Mindanao,Autonomous Region in Muslim Mindanao,http://dbpedia.org/resource/Autonomous_Region_in_Muslim_Mindanao,90.025
+http://dbpedia.org/resource/Jaunpur_district,Jaunpur district,http://dbpedia.org/resource/Jaunpur_district,89.94
+http://dbpedia.org/resource/Khash_County,Khash County,http://dbpedia.org/resource/Khash_County,89.83
+"http://dbpedia.org/resource/Hampshire_County,_West_Virginia","Hampshire County, West Virginia","http://dbpedia.org/resource/Hampshire_County,_West_Virginia",89.755
+http://dbpedia.org/resource/Penghu,Penghu,http://dbpedia.org/resource/Penghu,89.73
+http://dbpedia.org/resource/Bodoland_Territorial_Region,Bodoland Territorial Region,http://dbpedia.org/resource/Bodoland_Territorial_Region,89.725
+"http://dbpedia.org/resource/Richmond_County,_North_Carolina","Richmond County, North Carolina","http://dbpedia.org/resource/Richmond_County,_North_Carolina",89.705
+http://dbpedia.org/resource/Illyricum_(Roman_province),Illyricum (Roman province),http://dbpedia.org/resource/Illyricum_(Roman_province),89.625
+http://dbpedia.org/resource/Caithness,Caithness,http://dbpedia.org/resource/Caithness,89.61500000000001
+"http://dbpedia.org/resource/Barry_County,_Missouri","Barry County, Missouri","http://dbpedia.org/resource/Barry_County,_Missouri",89.605
+"http://dbpedia.org/resource/Pasco_County,_Florida","Pasco County, Florida","http://dbpedia.org/resource/Pasco_County,_Florida",89.56500000000001
+"http://dbpedia.org/resource/Dane_County,_Wisconsin","Dane County, Wisconsin","http://dbpedia.org/resource/Dane_County,_Wisconsin",89.545
+"http://dbpedia.org/resource/Oneida_County,_New_York","Oneida County, New York","http://dbpedia.org/resource/Oneida_County,_New_York",89.47
+"http://dbpedia.org/resource/Champaign_County,_Illinois","Champaign County, Illinois","http://dbpedia.org/resource/Champaign_County,_Illinois",89.435
+http://dbpedia.org/resource/Mongolia_under_Qing_rule,Mongolia under Qing rule,http://dbpedia.org/resource/Mongolia_under_Qing_rule,89.43
+"http://dbpedia.org/resource/Jinping_Miao,_Yao,_and_Dai_Autonomous_County","Jinping Miao, Yao, and Dai Autonomous County","http://dbpedia.org/resource/Jinping_Miao,_Yao,_and_Dai_Autonomous_County",89.36
+http://dbpedia.org/resource/Serres,Serres,http://dbpedia.org/resource/Serres,89.34
+"http://dbpedia.org/resource/Marion_County,_Florida","Marion County, Florida","http://dbpedia.org/resource/Marion_County,_Florida",89.34
+"http://dbpedia.org/resource/Grainger_County,_Tennessee","Grainger County, Tennessee","http://dbpedia.org/resource/Grainger_County,_Tennessee",89.31
+"http://dbpedia.org/resource/Gillespie_County,_Texas","Gillespie County, Texas","http://dbpedia.org/resource/Gillespie_County,_Texas",89.28
+http://dbpedia.org/resource/Karoo,Karoo,http://dbpedia.org/resource/Karoo,89.22999999999999
+http://dbpedia.org/resource/Bilad_al-Sham,Bilad al-Sham,http://dbpedia.org/resource/Bilad_al-Sham,89.19999999999999
+http://dbpedia.org/resource/Baoting_Li_and_Miao_Autonomous_County,Baoting Li and Miao Autonomous County,http://dbpedia.org/resource/Baoting_Li_and_Miao_Autonomous_County,89.19500000000001
+http://dbpedia.org/resource/Kamay_Botany_Bay_National_Park,Kamay Botany Bay National Park,http://dbpedia.org/resource/Kamay_Botany_Bay_National_Park,89.17500000000001
+http://dbpedia.org/resource/Hisar_district,Hisar district,http://dbpedia.org/resource/Hisar_district,89.155
+http://dbpedia.org/resource/Stjørdal,Stjørdal,http://dbpedia.org/resource/Stjørdal,89.11
+http://dbpedia.org/resource/Xinhui_District,Xinhui District,http://dbpedia.org/resource/Xinhui_District,89.06
+http://dbpedia.org/resource/Palos_Verdes_Peninsula,Palos Verdes Peninsula,http://dbpedia.org/resource/Palos_Verdes_Peninsula,88.79
+"http://dbpedia.org/resource/Carroll_County,_New_Hampshire","Carroll County, New Hampshire","http://dbpedia.org/resource/Carroll_County,_New_Hampshire",88.78
+http://dbpedia.org/resource/Waverley_Council,Waverley Council,http://dbpedia.org/resource/Waverley_Council,88.705
+"http://dbpedia.org/resource/Cecil_County,_Maryland","Cecil County, Maryland","http://dbpedia.org/resource/Cecil_County,_Maryland",88.685
+http://dbpedia.org/resource/French_rule_in_the_Ionian_Islands_(1797–1799),French rule in the Ionian Islands (1797–1799),http://dbpedia.org/resource/French_rule_in_the_Ionian_Islands_(1797–1799),88.63499999999999
+http://dbpedia.org/resource/Gumla_district,Gumla district,http://dbpedia.org/resource/Gumla_district,88.605
+http://dbpedia.org/resource/Cordillera_Administrative_Region,Cordillera Administrative Region,http://dbpedia.org/resource/Cordillera_Administrative_Region,88.585
+"http://dbpedia.org/resource/Pemiscot_County,_Missouri","Pemiscot County, Missouri","http://dbpedia.org/resource/Pemiscot_County,_Missouri",88.46500000000002
+"http://dbpedia.org/resource/Shelby_County,_Tennessee","Shelby County, Tennessee","http://dbpedia.org/resource/Shelby_County,_Tennessee",88.45
+http://dbpedia.org/resource/Primorsky_Krai,Primorsky Krai,http://dbpedia.org/resource/Primorsky_Krai,88.38499999999999
+http://dbpedia.org/resource/Malwa,Malwa,http://dbpedia.org/resource/Malwa,88.315
+http://dbpedia.org/resource/Sonbhadra_district,Sonbhadra district,http://dbpedia.org/resource/Sonbhadra_district,88.305
+"http://dbpedia.org/resource/Aurangabad_district,_Maharashtra","Aurangabad district, Maharashtra","http://dbpedia.org/resource/Aurangabad_district,_Maharashtra",88.29
+"http://dbpedia.org/resource/Rapid_Bay,_South_Australia","Rapid Bay, South Australia","http://dbpedia.org/resource/Rapid_Bay,_South_Australia",88.275
+http://dbpedia.org/resource/Beşiktaş,Beşiktaş,http://dbpedia.org/resource/Beşiktaş,88.255
+http://dbpedia.org/resource/Edithburgh,Edithburgh,http://dbpedia.org/resource/Edithburgh,88.21
+http://dbpedia.org/resource/Giridih_district,Giridih district,http://dbpedia.org/resource/Giridih_district,88.205
+"http://dbpedia.org/resource/Carteret_County,_North_Carolina","Carteret County, North Carolina","http://dbpedia.org/resource/Carteret_County,_North_Carolina",88.135
+http://dbpedia.org/resource/Beirut_Central_District,Beirut Central District,http://dbpedia.org/resource/Beirut_Central_District,88.12
+http://dbpedia.org/resource/Chicoutimi—Le_Fjord,Chicoutimi—Le Fjord,http://dbpedia.org/resource/Chicoutimi—Le_Fjord,88.065
+http://dbpedia.org/resource/Naval_Base_Melbourne,Naval Base Melbourne,http://dbpedia.org/resource/Naval_Base_Melbourne,88.015
+http://dbpedia.org/resource/Koraput_district,Koraput district,http://dbpedia.org/resource/Koraput_district,88.01499999999999
+"http://dbpedia.org/resource/St._Clair_County,_Michigan","St. Clair County, Michigan","http://dbpedia.org/resource/St._Clair_County,_Michigan",87.97
+http://dbpedia.org/resource/Uttara_Kannada,Uttara Kannada,http://dbpedia.org/resource/Uttara_Kannada,87.96
+"http://dbpedia.org/resource/Juniata_County,_Pennsylvania","Juniata County, Pennsylvania","http://dbpedia.org/resource/Juniata_County,_Pennsylvania",87.86500000000001
+http://dbpedia.org/resource/Qiongzhong_Li_and_Miao_Autonomous_County,Qiongzhong Li and Miao Autonomous County,http://dbpedia.org/resource/Qiongzhong_Li_and_Miao_Autonomous_County,87.85000000000001
+"http://dbpedia.org/resource/Brewster_County,_Texas","Brewster County, Texas","http://dbpedia.org/resource/Brewster_County,_Texas",87.81
+http://dbpedia.org/resource/County_Louth,County Louth,http://dbpedia.org/resource/County_Louth,87.64
+"http://dbpedia.org/resource/Marion_County,_Kansas","Marion County, Kansas","http://dbpedia.org/resource/Marion_County,_Kansas",87.545
+http://dbpedia.org/resource/Khuzestan_province,Khuzestan province,http://dbpedia.org/resource/Khuzestan_province,87.53
+"http://dbpedia.org/resource/Nodaway_County,_Missouri","Nodaway County, Missouri","http://dbpedia.org/resource/Nodaway_County,_Missouri",87.505
+"http://dbpedia.org/resource/Chatham_County,_North_Carolina","Chatham County, North Carolina","http://dbpedia.org/resource/Chatham_County,_North_Carolina",87.505
+http://dbpedia.org/resource/West_Prussia,West Prussia,http://dbpedia.org/resource/West_Prussia,87.485
+"http://dbpedia.org/resource/Alta,_Norway","Alta, Norway","http://dbpedia.org/resource/Alta,_Norway",87.345
+"http://dbpedia.org/resource/Harlan_County,_Kentucky","Harlan County, Kentucky","http://dbpedia.org/resource/Harlan_County,_Kentucky",87.32499999999999
+http://dbpedia.org/resource/Yorubaland,Yorubaland,http://dbpedia.org/resource/Yorubaland,87.235
+http://dbpedia.org/resource/Lemnos,Lemnos,http://dbpedia.org/resource/Lemnos,87.23
+"http://dbpedia.org/resource/Jasper_County,_Indiana","Jasper County, Indiana","http://dbpedia.org/resource/Jasper_County,_Indiana",87.17000000000002
+"http://dbpedia.org/resource/Grand_Traverse_County,_Michigan","Grand Traverse County, Michigan","http://dbpedia.org/resource/Grand_Traverse_County,_Michigan",87.11500000000001
+http://dbpedia.org/resource/Taree,Taree,http://dbpedia.org/resource/Taree,87.10000000000001
+http://dbpedia.org/resource/Isan,Isan,http://dbpedia.org/resource/Isan,87.05
+"http://dbpedia.org/resource/Scotland_County,_North_Carolina","Scotland County, North Carolina","http://dbpedia.org/resource/Scotland_County,_North_Carolina",87.02499999999999
+http://dbpedia.org/resource/City_of_Canterbury_(New_South_Wales),City of Canterbury (New South Wales),http://dbpedia.org/resource/City_of_Canterbury_(New_South_Wales),87.005
+"http://dbpedia.org/resource/Genesee_County,_Michigan","Genesee County, Michigan","http://dbpedia.org/resource/Genesee_County,_Michigan",86.855
+"http://dbpedia.org/resource/Jasper_County,_Missouri","Jasper County, Missouri","http://dbpedia.org/resource/Jasper_County,_Missouri",86.825
+"http://dbpedia.org/resource/Clearfield_County,_Pennsylvania","Clearfield County, Pennsylvania","http://dbpedia.org/resource/Clearfield_County,_Pennsylvania",86.825
+"http://dbpedia.org/resource/Kent_County,_Delaware","Kent County, Delaware","http://dbpedia.org/resource/Kent_County,_Delaware",86.82000000000001
+http://dbpedia.org/resource/Zala_County,Zala County,http://dbpedia.org/resource/Zala_County,86.785
+http://dbpedia.org/resource/Udaipur_district,Udaipur district,http://dbpedia.org/resource/Udaipur_district,86.7
+http://dbpedia.org/resource/Nawa-I-Barakzayi_District,Nawa-I-Barakzayi District,http://dbpedia.org/resource/Nawa-I-Barakzayi_District,86.695
+http://dbpedia.org/resource/East_Florida,East Florida,http://dbpedia.org/resource/East_Florida,86.67
+"http://dbpedia.org/resource/Volusia_County,_Florida","Volusia County, Florida","http://dbpedia.org/resource/Volusia_County,_Florida",86.64
+http://dbpedia.org/resource/Leningrad_Oblast,Leningrad Oblast,http://dbpedia.org/resource/Leningrad_Oblast,86.615
+http://dbpedia.org/resource/Darjeeling_district,Darjeeling district,http://dbpedia.org/resource/Darjeeling_district,86.61
+"http://dbpedia.org/resource/Sierra_County,_California","Sierra County, California","http://dbpedia.org/resource/Sierra_County,_California",86.605
+http://dbpedia.org/resource/Baisha_Li_Autonomous_County,Baisha Li Autonomous County,http://dbpedia.org/resource/Baisha_Li_Autonomous_County,86.605
+http://dbpedia.org/resource/Nissedal,Nissedal,http://dbpedia.org/resource/Nissedal,86.60499999999999
+http://dbpedia.org/resource/Croatia_proper,Croatia proper,http://dbpedia.org/resource/Croatia_proper,86.575
+http://dbpedia.org/resource/Anosy,Anosy,http://dbpedia.org/resource/Anosy,86.56
+"http://dbpedia.org/resource/Anderson_County,_Texas","Anderson County, Texas","http://dbpedia.org/resource/Anderson_County,_Texas",86.56
+http://dbpedia.org/resource/Nagpur_district,Nagpur district,http://dbpedia.org/resource/Nagpur_district,86.56
+http://dbpedia.org/resource/Najd,Najd,http://dbpedia.org/resource/Najd,86.52499999999999
+http://dbpedia.org/resource/Pilibhit_district,Pilibhit district,http://dbpedia.org/resource/Pilibhit_district,86.485
+http://dbpedia.org/resource/Mendip_District,Mendip District,http://dbpedia.org/resource/Mendip_District,86.47
+http://dbpedia.org/resource/Chambly—Borduas,Chambly—Borduas,http://dbpedia.org/resource/Chambly—Borduas,86.45
+http://dbpedia.org/resource/Veria,Veria,http://dbpedia.org/resource/Veria,86.405
+http://dbpedia.org/resource/City_of_Holroyd,City of Holroyd,http://dbpedia.org/resource/City_of_Holroyd,86.36500000000001
+"http://dbpedia.org/resource/Jefferson_County,_Alabama","Jefferson County, Alabama","http://dbpedia.org/resource/Jefferson_County,_Alabama",86.36500000000001
+http://dbpedia.org/resource/Province_of_Brescia,Province of Brescia,http://dbpedia.org/resource/Province_of_Brescia,86.345
+http://dbpedia.org/resource/Rarh_region,Rarh region,http://dbpedia.org/resource/Rarh_region,86.25
+http://dbpedia.org/resource/Mauretania_Caesariensis,Mauretania Caesariensis,http://dbpedia.org/resource/Mauretania_Caesariensis,86.19999999999999
+http://dbpedia.org/resource/Bedfordshire,Bedfordshire,http://dbpedia.org/resource/Bedfordshire,86.185
+http://dbpedia.org/resource/Pylos,Pylos,http://dbpedia.org/resource/Pylos,86.16499999999999
+http://dbpedia.org/resource/Santa_Fe_Province,Santa Fe Province,http://dbpedia.org/resource/Santa_Fe_Province,86.15500000000002
+"http://dbpedia.org/resource/Pope_County,_Arkansas","Pope County, Arkansas","http://dbpedia.org/resource/Pope_County,_Arkansas",86.12
+"http://dbpedia.org/resource/Cameron_County,_Texas","Cameron County, Texas","http://dbpedia.org/resource/Cameron_County,_Texas",86.10000000000001
+http://dbpedia.org/resource/Sør-Varanger,Sør-Varanger,http://dbpedia.org/resource/Sør-Varanger,85.97500000000001
+http://dbpedia.org/resource/Gjøvik,Gjøvik,http://dbpedia.org/resource/Gjøvik,85.97500000000001
+"http://dbpedia.org/resource/Allen_County,_Indiana","Allen County, Indiana","http://dbpedia.org/resource/Allen_County,_Indiana",85.975
+http://dbpedia.org/resource/Møre_og_Romsdal,Møre og Romsdal,http://dbpedia.org/resource/Møre_og_Romsdal,85.88
+"http://dbpedia.org/resource/Cattaraugus_County,_New_York","Cattaraugus County, New York","http://dbpedia.org/resource/Cattaraugus_County,_New_York",85.83000000000001
+http://dbpedia.org/resource/Balaghat_district,Balaghat district,http://dbpedia.org/resource/Balaghat_district,85.825
+http://dbpedia.org/resource/Krasnodar_Krai,Krasnodar Krai,http://dbpedia.org/resource/Krasnodar_Krai,85.70500000000001
+"http://dbpedia.org/resource/Oconee_County,_South_Carolina","Oconee County, South Carolina","http://dbpedia.org/resource/Oconee_County,_South_Carolina",85.705
+http://dbpedia.org/resource/Oromia,Oromia,http://dbpedia.org/resource/Oromia,85.69500000000001
+"http://dbpedia.org/resource/Woodford_County,_Illinois","Woodford County, Illinois","http://dbpedia.org/resource/Woodford_County,_Illinois",85.69500000000001
+http://dbpedia.org/resource/Ku-ring-gai_Chase_National_Park,Ku-ring-gai Chase National Park,http://dbpedia.org/resource/Ku-ring-gai_Chase_National_Park,85.69
+"http://dbpedia.org/resource/Hays_County,_Texas","Hays County, Texas","http://dbpedia.org/resource/Hays_County,_Texas",85.65
+"http://dbpedia.org/resource/Pulaski_County,_Missouri","Pulaski County, Missouri","http://dbpedia.org/resource/Pulaski_County,_Missouri",85.65
+"http://dbpedia.org/resource/Cooktown,_Queensland","Cooktown, Queensland","http://dbpedia.org/resource/Cooktown,_Queensland",85.60000000000001
+http://dbpedia.org/resource/Babol_County,Babol County,http://dbpedia.org/resource/Babol_County,85.585
+http://dbpedia.org/resource/City_of_Hurstville,City of Hurstville,http://dbpedia.org/resource/City_of_Hurstville,85.565
+http://dbpedia.org/resource/Niagara_Centre,Niagara Centre,http://dbpedia.org/resource/Niagara_Centre,85.525
+"http://dbpedia.org/resource/Benton_County,_Missouri","Benton County, Missouri","http://dbpedia.org/resource/Benton_County,_Missouri",85.515
+http://dbpedia.org/resource/Booti_Booti_National_Park,Booti Booti National Park,http://dbpedia.org/resource/Booti_Booti_National_Park,85.495
+http://dbpedia.org/resource/Patna_district,Patna district,http://dbpedia.org/resource/Patna_district,85.45
+"http://dbpedia.org/resource/Lycoming_County,_Pennsylvania","Lycoming County, Pennsylvania","http://dbpedia.org/resource/Lycoming_County,_Pennsylvania",85.42000000000002
+http://dbpedia.org/resource/County_Tipperary,County Tipperary,http://dbpedia.org/resource/County_Tipperary,85.405
+"http://dbpedia.org/resource/Greene_County,_Missouri","Greene County, Missouri","http://dbpedia.org/resource/Greene_County,_Missouri",85.36500000000001
+http://dbpedia.org/resource/Cagayan_Valley,Cagayan Valley,http://dbpedia.org/resource/Cagayan_Valley,85.24000000000001
+"http://dbpedia.org/resource/Camden_County,_Missouri","Camden County, Missouri","http://dbpedia.org/resource/Camden_County,_Missouri",85.23500000000001
+"http://dbpedia.org/resource/Gaston_County,_North_Carolina","Gaston County, North Carolina","http://dbpedia.org/resource/Gaston_County,_North_Carolina",85.21000000000001
+"http://dbpedia.org/resource/Daviess_County,_Missouri","Daviess County, Missouri","http://dbpedia.org/resource/Daviess_County,_Missouri",85.205
+"http://dbpedia.org/resource/Cumberland_County,_New_Jersey","Cumberland County, New Jersey","http://dbpedia.org/resource/Cumberland_County,_New_Jersey",85.11500000000001
+http://dbpedia.org/resource/Gandaki_Province,Gandaki Province,http://dbpedia.org/resource/Gandaki_Province,85.105
+"http://dbpedia.org/resource/Manatee_County,_Florida","Manatee County, Florida","http://dbpedia.org/resource/Manatee_County,_Florida",85.085
+http://dbpedia.org/resource/Sitapur_district,Sitapur district,http://dbpedia.org/resource/Sitapur_district,85.07
+"http://dbpedia.org/resource/North-East_Region,_Singapore","North-East Region, Singapore","http://dbpedia.org/resource/North-East_Region,_Singapore",85.03
+"http://dbpedia.org/resource/Jefferson_County,_Ohio","Jefferson County, Ohio","http://dbpedia.org/resource/Jefferson_County,_Ohio",85.02
+http://dbpedia.org/resource/Limburg_(Netherlands),Limburg (Netherlands),http://dbpedia.org/resource/Limburg_(Netherlands),85.0
+"http://dbpedia.org/resource/Columbia_County,_Georgia","Columbia County, Georgia","http://dbpedia.org/resource/Columbia_County,_Georgia",85.0
+"http://dbpedia.org/resource/Williamson_County,_Illinois","Williamson County, Illinois","http://dbpedia.org/resource/Williamson_County,_Illinois",84.99000000000001
+"http://dbpedia.org/resource/Cumberland_County,_Pennsylvania","Cumberland County, Pennsylvania","http://dbpedia.org/resource/Cumberland_County,_Pennsylvania",84.915
+http://dbpedia.org/resource/Myall_Lakes_National_Park,Myall Lakes National Park,http://dbpedia.org/resource/Myall_Lakes_National_Park,84.82499999999999
+"http://dbpedia.org/resource/Kanawha_County,_West_Virginia","Kanawha County, West Virginia","http://dbpedia.org/resource/Kanawha_County,_West_Virginia",84.80000000000001
+http://dbpedia.org/resource/Phuket_province,Phuket province,http://dbpedia.org/resource/Phuket_province,84.79
+"http://dbpedia.org/resource/Chaoyang_District,_Beijing","Chaoyang District, Beijing","http://dbpedia.org/resource/Chaoyang_District,_Beijing",84.71000000000001
+"http://dbpedia.org/resource/Montgomery_County,_Texas","Montgomery County, Texas","http://dbpedia.org/resource/Montgomery_County,_Texas",84.645
+http://dbpedia.org/resource/Jeju_Province,Jeju Province,http://dbpedia.org/resource/Jeju_Province,84.635
+http://dbpedia.org/resource/Richmond—Wolfe,Richmond—Wolfe,http://dbpedia.org/resource/Richmond—Wolfe,84.55
+http://dbpedia.org/resource/Provencher,Provencher,http://dbpedia.org/resource/Provencher,84.535
+http://dbpedia.org/resource/Rayagada_district,Rayagada district,http://dbpedia.org/resource/Rayagada_district,84.52
+http://dbpedia.org/resource/Masuria,Masuria,http://dbpedia.org/resource/Masuria,84.4
+http://dbpedia.org/resource/Tarnopol_Voivodeship,Tarnopol Voivodeship,http://dbpedia.org/resource/Tarnopol_Voivodeship,84.33500000000001
+"http://dbpedia.org/resource/Wood_County,_Texas","Wood County, Texas","http://dbpedia.org/resource/Wood_County,_Texas",84.315
+"http://dbpedia.org/resource/Kaufman_County,_Texas","Kaufman County, Texas","http://dbpedia.org/resource/Kaufman_County,_Texas",84.265
+"http://dbpedia.org/resource/Milwaukee_County,_Wisconsin","Milwaukee County, Wisconsin","http://dbpedia.org/resource/Milwaukee_County,_Wisconsin",84.26
+http://dbpedia.org/resource/Sutherland,Sutherland,http://dbpedia.org/resource/Sutherland,84.215
+"http://dbpedia.org/resource/Alamance_County,_North_Carolina","Alamance County, North Carolina","http://dbpedia.org/resource/Alamance_County,_North_Carolina",84.21
+http://dbpedia.org/resource/History_of_Western_Australia,History of Western Australia,http://dbpedia.org/resource/History_of_Western_Australia,84.19
+"http://dbpedia.org/resource/Stafford_County,_Virginia","Stafford County, Virginia","http://dbpedia.org/resource/Stafford_County,_Virginia",84.125
+"http://dbpedia.org/resource/Carroll_County,_Missouri","Carroll County, Missouri","http://dbpedia.org/resource/Carroll_County,_Missouri",84.11500000000001
+http://dbpedia.org/resource/Shahjahanpur_district,Shahjahanpur district,http://dbpedia.org/resource/Shahjahanpur_district,84.11500000000001
+"http://dbpedia.org/resource/Mintaro,_South_Australia","Mintaro, South Australia","http://dbpedia.org/resource/Mintaro,_South_Australia",84.10000000000001
+http://dbpedia.org/resource/Chester_(district),Chester (district),http://dbpedia.org/resource/Chester_(district),83.86000000000001
+http://dbpedia.org/resource/Auraiya_district,Auraiya district,http://dbpedia.org/resource/Auraiya_district,83.855
+http://dbpedia.org/resource/Hordaland,Hordaland,http://dbpedia.org/resource/Hordaland,83.83
+"http://dbpedia.org/resource/Columbiana_County,_Ohio","Columbiana County, Ohio","http://dbpedia.org/resource/Columbiana_County,_Ohio",83.82499999999999
+"http://dbpedia.org/resource/Washtenaw_County,_Michigan","Washtenaw County, Michigan","http://dbpedia.org/resource/Washtenaw_County,_Michigan",83.73
+"http://dbpedia.org/resource/Warren_County,_Ohio","Warren County, Ohio","http://dbpedia.org/resource/Warren_County,_Ohio",83.72500000000001
+"http://dbpedia.org/resource/Long_Point,_Ontario","Long Point, Ontario","http://dbpedia.org/resource/Long_Point,_Ontario",83.72000000000001
+http://dbpedia.org/resource/East_Sussex,East Sussex,http://dbpedia.org/resource/East_Sussex,83.72000000000001
+http://dbpedia.org/resource/Renfrewshire_(historic),Renfrewshire (historic),http://dbpedia.org/resource/Renfrewshire_(historic),83.705
+http://dbpedia.org/resource/Calabarzon,Calabarzon,http://dbpedia.org/resource/Calabarzon,83.69
+"http://dbpedia.org/resource/Kendall_County,_Texas","Kendall County, Texas","http://dbpedia.org/resource/Kendall_County,_Texas",83.655
+"http://dbpedia.org/resource/Pike_County,_Pennsylvania","Pike County, Pennsylvania","http://dbpedia.org/resource/Pike_County,_Pennsylvania",83.64500000000001
+"http://dbpedia.org/resource/Cherokee_County,_Texas","Cherokee County, Texas","http://dbpedia.org/resource/Cherokee_County,_Texas",83.64
+http://dbpedia.org/resource/Umbria,Umbria,http://dbpedia.org/resource/Umbria,83.63
+"http://dbpedia.org/resource/Hartford_County,_Connecticut","Hartford County, Connecticut","http://dbpedia.org/resource/Hartford_County,_Connecticut",83.625
+http://dbpedia.org/resource/Antalya_Province,Antalya Province,http://dbpedia.org/resource/Antalya_Province,83.625
+"http://dbpedia.org/resource/Baroda,_Western_India_and_Gujarat_States_Agency","Baroda, Western India and Gujarat States Agency","http://dbpedia.org/resource/Baroda,_Western_India_and_Gujarat_States_Agency",83.61000000000001
+http://dbpedia.org/resource/Mayurbhanj_district,Mayurbhanj district,http://dbpedia.org/resource/Mayurbhanj_district,83.58
+http://dbpedia.org/resource/Yanaon,Yanaon,http://dbpedia.org/resource/Yanaon,83.545
+"http://dbpedia.org/resource/Leeton,_New_South_Wales","Leeton, New South Wales","http://dbpedia.org/resource/Leeton,_New_South_Wales",83.53500000000001
+http://dbpedia.org/resource/Pontian_District,Pontian District,http://dbpedia.org/resource/Pontian_District,83.52
+http://dbpedia.org/resource/Huadu_District,Huadu District,http://dbpedia.org/resource/Huadu_District,83.50999999999999
+"http://dbpedia.org/resource/Northumberland_County,_Pennsylvania","Northumberland County, Pennsylvania","http://dbpedia.org/resource/Northumberland_County,_Pennsylvania",83.505
+"http://dbpedia.org/resource/Worcester_County,_Maryland","Worcester County, Maryland","http://dbpedia.org/resource/Worcester_County,_Maryland",83.475
+http://dbpedia.org/resource/Rutland,Rutland,http://dbpedia.org/resource/Rutland,83.455
+http://dbpedia.org/resource/City_of_Canterbury-Bankstown,City of Canterbury-Bankstown,http://dbpedia.org/resource/City_of_Canterbury-Bankstown,83.44
+"http://dbpedia.org/resource/Hyderabad_district,_India","Hyderabad district, India","http://dbpedia.org/resource/Hyderabad_district,_India",83.385
+"http://dbpedia.org/resource/Kewaunee_County,_Wisconsin","Kewaunee County, Wisconsin","http://dbpedia.org/resource/Kewaunee_County,_Wisconsin",83.38
+http://dbpedia.org/resource/South_Holland,South Holland,http://dbpedia.org/resource/South_Holland,83.34
+http://dbpedia.org/resource/North_Brabant,North Brabant,http://dbpedia.org/resource/North_Brabant,83.31
+"http://dbpedia.org/resource/Evans_County,_Georgia","Evans County, Georgia","http://dbpedia.org/resource/Evans_County,_Georgia",83.28
+"http://dbpedia.org/resource/Glenn_County,_California","Glenn County, California","http://dbpedia.org/resource/Glenn_County,_California",83.26499999999999
+http://dbpedia.org/resource/City_of_Clarence,City of Clarence,http://dbpedia.org/resource/City_of_Clarence,83.21
+http://dbpedia.org/resource/Jewish_Autonomous_Oblast,Jewish Autonomous Oblast,http://dbpedia.org/resource/Jewish_Autonomous_Oblast,83.205
+"http://dbpedia.org/resource/Texas_County,_Missouri","Texas County, Missouri","http://dbpedia.org/resource/Texas_County,_Missouri",83.2
+http://dbpedia.org/resource/Banat_of_Craiova,Banat of Craiova,http://dbpedia.org/resource/Banat_of_Craiova,83.17500000000001
+"http://dbpedia.org/resource/Liberty_County,_Texas","Liberty County, Texas","http://dbpedia.org/resource/Liberty_County,_Texas",83.12
+"http://dbpedia.org/resource/Andrew_County,_Missouri","Andrew County, Missouri","http://dbpedia.org/resource/Andrew_County,_Missouri",83.07000000000001
+http://dbpedia.org/resource/Louisiana_(New_France),Louisiana (New France),http://dbpedia.org/resource/Louisiana_(New_France),83.065

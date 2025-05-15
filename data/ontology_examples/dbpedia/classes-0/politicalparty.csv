@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/Democratic_Party_(United_States),Democratic Party (United States),http://dbpedia.org/resource/Democratic_Party_(United_States),1907.6149999999998
+http://dbpedia.org/resource/Conservative_Party_(UK),Conservative Party (UK),http://dbpedia.org/resource/Conservative_Party_(UK),1850.9850000000004
+http://dbpedia.org/resource/Republican_Party_(United_States),Republican Party (United States),http://dbpedia.org/resource/Republican_Party_(United_States),1827.4099999999999
+http://dbpedia.org/resource/Labour_Party_(UK),Labour Party (UK),http://dbpedia.org/resource/Labour_Party_(UK),1702.8450000000003
+http://dbpedia.org/resource/Liberal_Democrats_(UK),Liberal Democrats (UK),http://dbpedia.org/resource/Liberal_Democrats_(UK),884.4400000000002
+http://dbpedia.org/resource/Liberal_Party_(UK),Liberal Party (UK),http://dbpedia.org/resource/Liberal_Party_(UK),455.315
+http://dbpedia.org/resource/Green_Party_of_England_and_Wales,Green Party of England and Wales,http://dbpedia.org/resource/Green_Party_of_England_and_Wales,432.81000000000006
+http://dbpedia.org/resource/Kuomintang,Kuomintang,http://dbpedia.org/resource/Kuomintang,408.14500000000004
+http://dbpedia.org/resource/Australian_Labor_Party,Australian Labor Party,http://dbpedia.org/resource/Australian_Labor_Party,375.09000000000003
+http://dbpedia.org/resource/UK_Independence_Party,UK Independence Party,http://dbpedia.org/resource/UK_Independence_Party,357.72
+http://dbpedia.org/resource/British_National_Party,British National Party,http://dbpedia.org/resource/British_National_Party,346.23
+http://dbpedia.org/resource/Liberal_Party_of_Canada,Liberal Party of Canada,http://dbpedia.org/resource/Liberal_Party_of_Canada,341.35
+http://dbpedia.org/resource/Chinese_Communist_Party,Chinese Communist Party,http://dbpedia.org/resource/Chinese_Communist_Party,339.96500000000003
+http://dbpedia.org/resource/Liberal_Party_of_Australia,Liberal Party of Australia,http://dbpedia.org/resource/Liberal_Party_of_Australia,338.64000000000004
+http://dbpedia.org/resource/Libertarian_Party_(United_States),Libertarian Party (United States),http://dbpedia.org/resource/Libertarian_Party_(United_States),336.96000000000004
+http://dbpedia.org/resource/Nazi_Party,Nazi Party,http://dbpedia.org/resource/Nazi_Party,333.82000000000005
+http://dbpedia.org/resource/New_Ecological_and_Social_People's_Union,New Ecological and Social People's Union,http://dbpedia.org/resource/New_Ecological_and_Social_People's_Union,328.89
+http://dbpedia.org/resource/Hezbollah,Hezbollah,http://dbpedia.org/resource/Hezbollah,320.885
+http://dbpedia.org/resource/Hizb_ut-Tahrir,Hizb ut-Tahrir,http://dbpedia.org/resource/Hizb_ut-Tahrir,312.945
+http://dbpedia.org/resource/United_Russia,United Russia,http://dbpedia.org/resource/United_Russia,308.63000000000005
+http://dbpedia.org/resource/People's_Mojahedin_Organization_of_Iran,People's Mojahedin Organization of Iran,http://dbpedia.org/resource/People's_Mojahedin_Organization_of_Iran,299.915
+http://dbpedia.org/resource/Democratic_Party_(Italy),Democratic Party (Italy),http://dbpedia.org/resource/Democratic_Party_(Italy),296.71500000000003
+http://dbpedia.org/resource/Communist_Party_of_the_Soviet_Union,Communist Party of the Soviet Union,http://dbpedia.org/resource/Communist_Party_of_the_Soviet_Union,289.975
+http://dbpedia.org/resource/Ustaše,Ustaše,http://dbpedia.org/resource/Ustaše,288.70500000000004
+http://dbpedia.org/resource/Scottish_National_Party,Scottish National Party,http://dbpedia.org/resource/Scottish_National_Party,286.11
+http://dbpedia.org/resource/Sinn_Féin,Sinn Féin,http://dbpedia.org/resource/Sinn_Féin,279.395
+http://dbpedia.org/resource/Barisan_Nasional,Barisan Nasional,http://dbpedia.org/resource/Barisan_Nasional,270.245
+http://dbpedia.org/resource/Lega_Nord,Lega Nord,http://dbpedia.org/resource/Lega_Nord,264.36000000000007
+http://dbpedia.org/resource/African_National_Congress,African National Congress,http://dbpedia.org/resource/African_National_Congress,254.96
+http://dbpedia.org/resource/Muslim_Brotherhood,Muslim Brotherhood,http://dbpedia.org/resource/Muslim_Brotherhood,249.05
+http://dbpedia.org/resource/National_Front_(UK),National Front (UK),http://dbpedia.org/resource/National_Front_(UK),246.63500000000005
+http://dbpedia.org/resource/Slovenian_Democratic_Party,Slovenian Democratic Party,http://dbpedia.org/resource/Slovenian_Democratic_Party,231.11
+http://dbpedia.org/resource/Social_Democratic_Party_of_Germany,Social Democratic Party of Germany,http://dbpedia.org/resource/Social_Democratic_Party_of_Germany,228.58999999999997
+http://dbpedia.org/resource/Fine_Gael,Fine Gael,http://dbpedia.org/resource/Fine_Gael,226.89499999999998
+http://dbpedia.org/resource/Free_Democratic_Party_(Germany),Free Democratic Party (Germany),http://dbpedia.org/resource/Free_Democratic_Party_(Germany),224.62
+http://dbpedia.org/resource/New_Zealand_Labour_Party,New Zealand Labour Party,http://dbpedia.org/resource/New_Zealand_Labour_Party,223.21
+http://dbpedia.org/resource/Whig_Party_(United_States),Whig Party (United States),http://dbpedia.org/resource/Whig_Party_(United_States),220.16500000000002
+http://dbpedia.org/resource/Plaid_Cymru,Plaid Cymru,http://dbpedia.org/resource/Plaid_Cymru,219.76500000000001
+http://dbpedia.org/resource/Afrikaner_Weerstandsbeweging,Afrikaner Weerstandsbeweging,http://dbpedia.org/resource/Afrikaner_Weerstandsbeweging,219.69000000000003
+http://dbpedia.org/resource/National_Fascist_Party,National Fascist Party,http://dbpedia.org/resource/National_Fascist_Party,218.595
+http://dbpedia.org/resource/Democratic-Republican_Party,Democratic-Republican Party,http://dbpedia.org/resource/Democratic-Republican_Party,216.89000000000001
+http://dbpedia.org/resource/Christian_Democratic_Union_of_Germany,Christian Democratic Union of Germany,http://dbpedia.org/resource/Christian_Democratic_Union_of_Germany,211.26500000000001
+http://dbpedia.org/resource/Crusade_of_Romanianism,Crusade of Romanianism,http://dbpedia.org/resource/Crusade_of_Romanianism,210.99999999999997
+http://dbpedia.org/resource/Labour_Party_(Ireland),Labour Party (Ireland),http://dbpedia.org/resource/Labour_Party_(Ireland),205.38
+http://dbpedia.org/resource/United_Malays_National_Organisation,United Malays National Organisation,http://dbpedia.org/resource/United_Malays_National_Organisation,204.52500000000003
+http://dbpedia.org/resource/Democratic_Unionist_Party,Democratic Unionist Party,http://dbpedia.org/resource/Democratic_Unionist_Party,199.185
+http://dbpedia.org/resource/California_Democratic_Party,California Democratic Party,http://dbpedia.org/resource/California_Democratic_Party,197.55
+http://dbpedia.org/resource/History_of_the_Republican_Party_(United_States),History of the Republican Party (United States),http://dbpedia.org/resource/History_of_the_Republican_Party_(United_States),197.375
+http://dbpedia.org/resource/The_Left_(Germany),The Left (Germany),http://dbpedia.org/resource/The_Left_(Germany),196.94
+http://dbpedia.org/resource/Conservative_Party_of_Canada,Conservative Party of Canada,http://dbpedia.org/resource/Conservative_Party_of_Canada,196.28500000000003
+http://dbpedia.org/resource/National_Radical_Camp,National Radical Camp,http://dbpedia.org/resource/National_Radical_Camp,195.83
+http://dbpedia.org/resource/History_of_the_Democratic_Party_(United_States),History of the Democratic Party (United States),http://dbpedia.org/resource/History_of_the_Democratic_Party_(United_States),194.73000000000002
+http://dbpedia.org/resource/National_Rally,National Rally,http://dbpedia.org/resource/National_Rally,193.41
+http://dbpedia.org/resource/Iron_Guard,Iron Guard,http://dbpedia.org/resource/Iron_Guard,193.255
+http://dbpedia.org/resource/National_Peasants'_Party,National Peasants' Party,http://dbpedia.org/resource/National_Peasants'_Party,192.66
+http://dbpedia.org/resource/Ba'athism,Ba'athism,http://dbpedia.org/resource/Ba'athism,191.805
+http://dbpedia.org/resource/Liberal_Party_(Philippines),Liberal Party (Philippines),http://dbpedia.org/resource/Liberal_Party_(Philippines),190.885
+http://dbpedia.org/resource/Democratic_Socialists_of_America,Democratic Socialists of America,http://dbpedia.org/resource/Democratic_Socialists_of_America,190.76
+http://dbpedia.org/resource/South_African_Students_Congress,South African Students Congress,http://dbpedia.org/resource/South_African_Students_Congress,189.72000000000003
+http://dbpedia.org/resource/Whigs_(British_political_party),Whigs (British political party),http://dbpedia.org/resource/Whigs_(British_political_party),189.28
+http://dbpedia.org/resource/Serbian_Progressive_Party,Serbian Progressive Party,http://dbpedia.org/resource/Serbian_Progressive_Party,187.14
+http://dbpedia.org/resource/British_Union_of_Fascists,British Union of Fascists,http://dbpedia.org/resource/British_Union_of_Fascists,186.755
+http://dbpedia.org/resource/Arrow_Cross_Party,Arrow Cross Party,http://dbpedia.org/resource/Arrow_Cross_Party,186.295
+http://dbpedia.org/resource/Zabalaza_Anarchist_Communist_Front,Zabalaza Anarchist Communist Front,http://dbpedia.org/resource/Zabalaza_Anarchist_Communist_Front,186.275
+http://dbpedia.org/resource/National_Socialist_Movement_in_the_Netherlands,National Socialist Movement in the Netherlands,http://dbpedia.org/resource/National_Socialist_Movement_in_the_Netherlands,185.415
+http://dbpedia.org/resource/League_of_Communists_of_Yugoslavia,League of Communists of Yugoslavia,http://dbpedia.org/resource/League_of_Communists_of_Yugoslavia,185.235
+http://dbpedia.org/resource/Socialist_Party_of_America,Socialist Party of America,http://dbpedia.org/resource/Socialist_Party_of_America,184.925
+http://dbpedia.org/resource/National_Alliance_(United_States),National Alliance (United States),http://dbpedia.org/resource/National_Alliance_(United_States),183.97
+http://dbpedia.org/resource/Sweden_Democrats,Sweden Democrats,http://dbpedia.org/resource/Sweden_Democrats,183.935
+http://dbpedia.org/resource/Left_Socialist-Revolutionaries,Left Socialist-Revolutionaries,http://dbpedia.org/resource/Left_Socialist-Revolutionaries,183.24
+http://dbpedia.org/resource/Pakistan_Muslim_League_(N),Pakistan Muslim League (N),http://dbpedia.org/resource/Pakistan_Muslim_League_(N),179.04500000000002
+http://dbpedia.org/resource/Svoboda_(political_party),Svoboda (political party),http://dbpedia.org/resource/Svoboda_(political_party),178.41
+http://dbpedia.org/resource/Ilminism,Ilminism,http://dbpedia.org/resource/Ilminism,177.52499999999998
+http://dbpedia.org/resource/Pakatan_Harapan,Pakatan Harapan,http://dbpedia.org/resource/Pakatan_Harapan,177.375
+http://dbpedia.org/resource/Lanka_Sama_Samaja_Party,Lanka Sama Samaja Party,http://dbpedia.org/resource/Lanka_Sama_Samaja_Party,176.38
+http://dbpedia.org/resource/Sandinista_National_Liberation_Front,Sandinista National Liberation Front,http://dbpedia.org/resource/Sandinista_National_Liberation_Front,176.06
+http://dbpedia.org/resource/Armenian_Revolutionary_Federation,Armenian Revolutionary Federation,http://dbpedia.org/resource/Armenian_Revolutionary_Federation,174.39999999999998
+http://dbpedia.org/resource/Socialist_Party_of_Azania,Socialist Party of Azania,http://dbpedia.org/resource/Socialist_Party_of_Azania,171.44
+http://dbpedia.org/resource/Yugoslav_National_Movement,Yugoslav National Movement,http://dbpedia.org/resource/Yugoslav_National_Movement,171.08
+http://dbpedia.org/resource/Committee_of_Union_and_Progress,Committee of Union and Progress,http://dbpedia.org/resource/Committee_of_Union_and_Progress,170.345
+http://dbpedia.org/resource/Alliance_90/The_Greens,Alliance 90/The Greens,http://dbpedia.org/resource/Alliance_90/The_Greens,169.76
+http://dbpedia.org/resource/Communist_Party_of_Vietnam,Communist Party of Vietnam,http://dbpedia.org/resource/Communist_Party_of_Vietnam,169.63
+http://dbpedia.org/resource/Alternative_for_Germany,Alternative for Germany,http://dbpedia.org/resource/Alternative_for_Germany,168.72500000000002
+http://dbpedia.org/resource/New_Democrats,New Democrats,http://dbpedia.org/resource/New_Democrats,165.99
+http://dbpedia.org/resource/Falange_Española_de_las_JONS,Falange Española de las JONS,http://dbpedia.org/resource/Falange_Española_de_las_JONS,165.205
+http://dbpedia.org/resource/Kansas_Republican_Party,Kansas Republican Party,http://dbpedia.org/resource/Kansas_Republican_Party,164.35500000000002
+http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland,Alliance Party of Northern Ireland,http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland,164.26
+http://dbpedia.org/resource/Federalist_Party,Federalist Party,http://dbpedia.org/resource/Federalist_Party,164.19500000000002
+http://dbpedia.org/resource/The_Right_Stuff_(blog),The Right Stuff (blog),http://dbpedia.org/resource/The_Right_Stuff_(blog),163.735
+http://dbpedia.org/resource/Tripartite_Alliance,Tripartite Alliance,http://dbpedia.org/resource/Tripartite_Alliance,163.56500000000003
+http://dbpedia.org/resource/Ulster_Unionist_Party,Ulster Unionist Party,http://dbpedia.org/resource/Ulster_Unionist_Party,163.44000000000003
+http://dbpedia.org/resource/Freedom_Caucus,Freedom Caucus,http://dbpedia.org/resource/Freedom_Caucus,162.92499999999998
+http://dbpedia.org/resource/New_Democratic_Party,New Democratic Party,http://dbpedia.org/resource/New_Democratic_Party,161.77
+http://dbpedia.org/resource/National_Party_of_Australia,National Party of Australia,http://dbpedia.org/resource/National_Party_of_Australia,161.54000000000002
+http://dbpedia.org/resource/National_Socialist_League,National Socialist League,http://dbpedia.org/resource/National_Socialist_League,160.74
+http://dbpedia.org/resource/New_Zealand_National_Party,New Zealand National Party,http://dbpedia.org/resource/New_Zealand_National_Party,160.66500000000002
+http://dbpedia.org/resource/National_Socialist_Movement_(United_States),National Socialist Movement (United States),http://dbpedia.org/resource/National_Socialist_Movement_(United_States),159.76500000000001
+http://dbpedia.org/resource/Pakistan_Tehreek-e-Insaf,Pakistan Tehreek-e-Insaf,http://dbpedia.org/resource/Pakistan_Tehreek-e-Insaf,158.735
+http://dbpedia.org/resource/Jewish_Party_(Romania),Jewish Party (Romania),http://dbpedia.org/resource/Jewish_Party_(Romania),158.63
+http://dbpedia.org/resource/Communist_Party_USA,Communist Party USA,http://dbpedia.org/resource/Communist_Party_USA,158.56000000000003
+http://dbpedia.org/resource/Nationalist_Liberation_Alliance,Nationalist Liberation Alliance,http://dbpedia.org/resource/Nationalist_Liberation_Alliance,158.185
+http://dbpedia.org/resource/Constitution_Party_(United_States),Constitution Party (United States),http://dbpedia.org/resource/Constitution_Party_(United_States),158.13
+http://dbpedia.org/resource/Ba'ath_Party,Ba'ath Party,http://dbpedia.org/resource/Ba'ath_Party,157.7
+http://dbpedia.org/resource/SUMKA,SUMKA,http://dbpedia.org/resource/SUMKA,157.37
+http://dbpedia.org/resource/Workers'_Party_of_Korea,Workers' Party of Korea,http://dbpedia.org/resource/Workers'_Party_of_Korea,156.56
+http://dbpedia.org/resource/Nasjonal_Samling,Nasjonal Samling,http://dbpedia.org/resource/Nasjonal_Samling,156.4
+http://dbpedia.org/resource/People's_Party_for_Freedom_and_Democracy,People's Party for Freedom and Democracy,http://dbpedia.org/resource/People's_Party_for_Freedom_and_Democracy,156.275
+http://dbpedia.org/resource/Ba'ath_Party_(Iraqi-dominated_faction),Ba'ath Party (Iraqi-dominated faction),http://dbpedia.org/resource/Ba'ath_Party_(Iraqi-dominated_faction),156.18
+http://dbpedia.org/resource/Scottish_Labour,Scottish Labour,http://dbpedia.org/resource/Scottish_Labour,156.09000000000003
+http://dbpedia.org/resource/Democrats_66,Democrats 66,http://dbpedia.org/resource/Democrats_66,155.935
+http://dbpedia.org/resource/Five_Star_Movement,Five Star Movement,http://dbpedia.org/resource/Five_Star_Movement,155.64999999999998
+http://dbpedia.org/resource/FET_y_de_las_JONS,FET y de las JONS,http://dbpedia.org/resource/FET_y_de_las_JONS,154.615
+http://dbpedia.org/resource/National_Union_(Portugal),National Union (Portugal),http://dbpedia.org/resource/National_Union_(Portugal),154.52499999999998
+http://dbpedia.org/resource/Progressive_Conservative_Party_of_Canada,Progressive Conservative Party of Canada,http://dbpedia.org/resource/Progressive_Conservative_Party_of_Canada,154.25
+http://dbpedia.org/resource/Pērkonkrusts,Pērkonkrusts,http://dbpedia.org/resource/Pērkonkrusts,154.185
+http://dbpedia.org/resource/Fianna_Fáil,Fianna Fáil,http://dbpedia.org/resource/Fianna_Fáil,153.9
+http://dbpedia.org/resource/National_Liberal_Party_(Romania),National Liberal Party (Romania),http://dbpedia.org/resource/National_Liberal_Party_(Romania),153.225
+http://dbpedia.org/resource/Asa'ib_Ahl_al-Haq,Asa'ib Ahl al-Haq,http://dbpedia.org/resource/Asa'ib_Ahl_al-Haq,152.57000000000002
+http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party,Alliance of Liberals and Democrats for Europe Party,http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party,152.13000000000002
+http://dbpedia.org/resource/Batkivshchyna,Batkivshchyna,http://dbpedia.org/resource/Batkivshchyna,152.085
+http://dbpedia.org/resource/Democratic_Action_Party,Democratic Action Party,http://dbpedia.org/resource/Democratic_Action_Party,151.76
+http://dbpedia.org/resource/People's_Justice_Party_(Malaysia),People's Justice Party (Malaysia),http://dbpedia.org/resource/People's_Justice_Party_(Malaysia),151.525
+http://dbpedia.org/resource/Fidesz,Fidesz,http://dbpedia.org/resource/Fidesz,151.205
+http://dbpedia.org/resource/Brothers_of_Italy,Brothers of Italy,http://dbpedia.org/resource/Brothers_of_Italy,151.055
+http://dbpedia.org/resource/Social_Democratic_Party_(Romania),Social Democratic Party (Romania),http://dbpedia.org/resource/Social_Democratic_Party_(Romania),151.05
+http://dbpedia.org/resource/Republican_Fascist_Party,Republican Fascist Party,http://dbpedia.org/resource/Republican_Fascist_Party,150.3
+http://dbpedia.org/resource/Australian_Greens,Australian Greens,http://dbpedia.org/resource/Australian_Greens,150.29500000000002
+http://dbpedia.org/resource/Yabloko,Yabloko,http://dbpedia.org/resource/Yabloko,149.955
+http://dbpedia.org/resource/Ailtirí_na_hAiséirghe,Ailtirí na hAiséirghe,http://dbpedia.org/resource/Ailtirí_na_hAiséirghe,149.435
+http://dbpedia.org/resource/Rexist_Party,Rexist Party,http://dbpedia.org/resource/Rexist_Party,149.18000000000004
+http://dbpedia.org/resource/Vox_(political_party),Vox (political party),http://dbpedia.org/resource/Vox_(political_party),149.14
+http://dbpedia.org/resource/Greek_National_Socialist_Party,Greek National Socialist Party,http://dbpedia.org/resource/Greek_National_Socialist_Party,148.84
+http://dbpedia.org/resource/Merton_London_Borough_Council_elections,Merton London Borough Council elections,http://dbpedia.org/resource/Merton_London_Borough_Council_elections,148.83
+http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario,Progressive Conservative Party of Ontario,http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario,148.79
+http://dbpedia.org/resource/Silver_Legion_of_America,Silver Legion of America,http://dbpedia.org/resource/Silver_Legion_of_America,147.37
+http://dbpedia.org/resource/Siol_nan_Gaidheal,Siol nan Gaidheal,http://dbpedia.org/resource/Siol_nan_Gaidheal,147.28000000000003
+http://dbpedia.org/resource/Fatherland_Front_(Austria),Fatherland Front (Austria),http://dbpedia.org/resource/Fatherland_Front_(Austria),147.14
+http://dbpedia.org/resource/Revolutionary_Mexicanist_Action,Revolutionary Mexicanist Action,http://dbpedia.org/resource/Revolutionary_Mexicanist_Action,146.98000000000002
+http://dbpedia.org/resource/Right_Sector,Right Sector,http://dbpedia.org/resource/Right_Sector,146.695
+http://dbpedia.org/resource/Communist_Party_of_Great_Britain,Communist Party of Great Britain,http://dbpedia.org/resource/Communist_Party_of_Great_Britain,146.55
+http://dbpedia.org/resource/Malaysian_Islamic_Party,Malaysian Islamic Party,http://dbpedia.org/resource/Malaysian_Islamic_Party,146.345
+http://dbpedia.org/resource/Traditionalist_Worker_Party,Traditionalist Worker Party,http://dbpedia.org/resource/Traditionalist_Worker_Party,146.07500000000002
+http://dbpedia.org/resource/National_Union_of_Greece,National Union of Greece,http://dbpedia.org/resource/National_Union_of_Greece,145.315
+http://dbpedia.org/resource/Brazilian_Integralist_Action,Brazilian Integralist Action,http://dbpedia.org/resource/Brazilian_Integralist_Action,143.85000000000002
+http://dbpedia.org/resource/Democratic_Party_of_Korea,Democratic Party of Korea,http://dbpedia.org/resource/Democratic_Party_of_Korea,143.76000000000002
+http://dbpedia.org/resource/Welsh_Labour,Welsh Labour,http://dbpedia.org/resource/Welsh_Labour,143.73999999999998
+http://dbpedia.org/resource/French_Communist_Party,French Communist Party,http://dbpedia.org/resource/French_Communist_Party,142.895
+http://dbpedia.org/resource/Social_Democrats_(Denmark),Social Democrats (Denmark),http://dbpedia.org/resource/Social_Democrats_(Denmark),142.775
+http://dbpedia.org/resource/Social_Democratic_and_Labour_Party,Social Democratic and Labour Party,http://dbpedia.org/resource/Social_Democratic_and_Labour_Party,142.35500000000002
+http://dbpedia.org/resource/Justice_and_Development_Party_(Turkey),Justice and Development Party (Turkey),http://dbpedia.org/resource/Justice_and_Development_Party_(Turkey),142.07
+http://dbpedia.org/resource/Pakistan_People's_Party,Pakistan People's Party,http://dbpedia.org/resource/Pakistan_People's_Party,141.17
+http://dbpedia.org/resource/Radical_Republicans,Radical Republicans,http://dbpedia.org/resource/Radical_Republicans,140.99499999999998
+http://dbpedia.org/resource/Institutional_Revolutionary_Party,Institutional Revolutionary Party,http://dbpedia.org/resource/Institutional_Revolutionary_Party,140.76000000000002
+http://dbpedia.org/resource/Freethinkers'_Party,Freethinkers' Party,http://dbpedia.org/resource/Freethinkers'_Party,140.22
+http://dbpedia.org/resource/Democratic_Party_(Hong_Kong),Democratic Party (Hong Kong),http://dbpedia.org/resource/Democratic_Party_(Hong_Kong),140.11499999999998
+http://dbpedia.org/resource/Bolivian_Socialist_Falange,Bolivian Socialist Falange,http://dbpedia.org/resource/Bolivian_Socialist_Falange,140.04
+http://dbpedia.org/resource/Labour_Party_(Norway),Labour Party (Norway),http://dbpedia.org/resource/Labour_Party_(Norway),139.41500000000002
+http://dbpedia.org/resource/Spanish_Socialist_Workers'_Party,Spanish Socialist Workers' Party,http://dbpedia.org/resource/Spanish_Socialist_Workers'_Party,139.08
+http://dbpedia.org/resource/House_Democratic_Caucus,House Democratic Caucus,http://dbpedia.org/resource/House_Democratic_Caucus,138.35
+http://dbpedia.org/resource/Muslim_Association_of_the_Lictor,Muslim Association of the Lictor,http://dbpedia.org/resource/Muslim_Association_of_the_Lictor,138.02
+http://dbpedia.org/resource/California_Republican_Party,California Republican Party,http://dbpedia.org/resource/California_Republican_Party,137.39
+http://dbpedia.org/resource/Green_Party_of_Aotearoa_New_Zealand,Green Party of Aotearoa New Zealand,http://dbpedia.org/resource/Green_Party_of_Aotearoa_New_Zealand,137.3
+http://dbpedia.org/resource/Centre_Party_(Finland),Centre Party (Finland),http://dbpedia.org/resource/Centre_Party_(Finland),136.885
+http://dbpedia.org/resource/Citizens_(Spanish_political_party),Citizens (Spanish political party),http://dbpedia.org/resource/Citizens_(Spanish_political_party),136.885
+http://dbpedia.org/resource/Volksdeutsche_Bewegung,Volksdeutsche Bewegung,http://dbpedia.org/resource/Volksdeutsche_Bewegung,135.815
+http://dbpedia.org/resource/Prohibition_Party,Prohibition Party,http://dbpedia.org/resource/Prohibition_Party,135.57500000000002
+http://dbpedia.org/resource/Conservative_Party_of_New_York_State,Conservative Party of New York State,http://dbpedia.org/resource/Conservative_Party_of_New_York_State,135.17499999999998
+http://dbpedia.org/resource/German_National_Movement_in_Liechtenstein,German National Movement in Liechtenstein,http://dbpedia.org/resource/German_National_Movement_in_Liechtenstein,134.68500000000003
+http://dbpedia.org/resource/Nationalist_Front_(United_States),Nationalist Front (United States),http://dbpedia.org/resource/Nationalist_Front_(United_States),134.50500000000002
+http://dbpedia.org/resource/Freedom_Party_of_Austria,Freedom Party of Austria,http://dbpedia.org/resource/Freedom_Party_of_Austria,134.28
+http://dbpedia.org/resource/Slovak_People's_Party,Slovak People's Party,http://dbpedia.org/resource/Slovak_People's_Party,134.235
+http://dbpedia.org/resource/Falange_Española_de_las_JONS_(1976),Falange Española de las JONS (1976),http://dbpedia.org/resource/Falange_Española_de_las_JONS_(1976),134.14000000000001
+http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_–_Syria_Region,Arab Socialist Ba'ath Party – Syria Region,http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_–_Syria_Region,134.14
+http://dbpedia.org/resource/Patriotic_People's_Movement,Patriotic People's Movement,http://dbpedia.org/resource/Patriotic_People's_Movement,133.285
+http://dbpedia.org/resource/National_Fascisti,National Fascisti,http://dbpedia.org/resource/National_Fascisti,133.15
+http://dbpedia.org/resource/Progress_Party_(Norway),Progress Party (Norway),http://dbpedia.org/resource/Progress_Party_(Norway),132.98
+http://dbpedia.org/resource/Convention_People's_Party,Convention People's Party,http://dbpedia.org/resource/Convention_People's_Party,132.335
+http://dbpedia.org/resource/National_List_(Italy),National List (Italy),http://dbpedia.org/resource/National_List_(Italy),132.28499999999997
+http://dbpedia.org/resource/Party_of_Regions,Party of Regions,http://dbpedia.org/resource/Party_of_Regions,131.835
+http://dbpedia.org/resource/GroenLinks,GroenLinks,http://dbpedia.org/resource/GroenLinks,131.60999999999999
+http://dbpedia.org/resource/Danish_Social_Liberal_Party,Danish Social Liberal Party,http://dbpedia.org/resource/Danish_Social_Liberal_Party,131.54000000000002
+http://dbpedia.org/resource/Moderate_Party,Moderate Party,http://dbpedia.org/resource/Moderate_Party,131.335
+http://dbpedia.org/resource/Tōhōkai,Tōhōkai,http://dbpedia.org/resource/Tōhōkai,131.195
+http://dbpedia.org/resource/Venstre_(Denmark),Venstre (Denmark),http://dbpedia.org/resource/Venstre_(Denmark),130.85999999999999
+http://dbpedia.org/resource/Falange_Española_Independiente,Falange Española Independiente,http://dbpedia.org/resource/Falange_Española_Independiente,130.435
+http://dbpedia.org/resource/People's_Party_(interwar_Romania),People's Party (interwar Romania),http://dbpedia.org/resource/People's_Party_(interwar_Romania),130.435
+http://dbpedia.org/resource/ACT_New_Zealand,ACT New Zealand,http://dbpedia.org/resource/ACT_New_Zealand,130.145
+http://dbpedia.org/resource/National_Democratic_Party_of_Germany,National Democratic Party of Germany,http://dbpedia.org/resource/National_Democratic_Party_of_Germany,129.71
+http://dbpedia.org/resource/House_Republican_Conference,House Republican Conference,http://dbpedia.org/resource/House_Republican_Conference,129.47
+http://dbpedia.org/resource/Socialist_Party_of_Serbia,Socialist Party of Serbia,http://dbpedia.org/resource/Socialist_Party_of_Serbia,129.10999999999999
+http://dbpedia.org/resource/Austrian_Nazism,Austrian Nazism,http://dbpedia.org/resource/Austrian_Nazism,128.915
+http://dbpedia.org/resource/Law_and_Justice,Law and Justice,http://dbpedia.org/resource/Law_and_Justice,128.28
+http://dbpedia.org/resource/Green_Party_of_Canada,Green Party of Canada,http://dbpedia.org/resource/Green_Party_of_Canada,127.21000000000002
+http://dbpedia.org/resource/Italian_Socialist_Party,Italian Socialist Party,http://dbpedia.org/resource/Italian_Socialist_Party,126.84500000000001
+http://dbpedia.org/resource/Rockefeller_Republican,Rockefeller Republican,http://dbpedia.org/resource/Rockefeller_Republican,126.50999999999999
+http://dbpedia.org/resource/Swedish_Social_Democratic_Party,Swedish Social Democratic Party,http://dbpedia.org/resource/Swedish_Social_Democratic_Party,126.26499999999999
+http://dbpedia.org/resource/Liechtenstein_Homeland_Service,Liechtenstein Homeland Service,http://dbpedia.org/resource/Liechtenstein_Homeland_Service,126.24499999999999
+http://dbpedia.org/resource/European_Conservatives_and_Reformists_Party,European Conservatives and Reformists Party,http://dbpedia.org/resource/European_Conservatives_and_Reformists_Party,126.15999999999997
+http://dbpedia.org/resource/Tories_(British_political_party),Tories (British political party),http://dbpedia.org/resource/Tories_(British_political_party),126.11999999999999
+http://dbpedia.org/resource/Civic_Democratic_Party_(Czech_Republic),Civic Democratic Party (Czech Republic),http://dbpedia.org/resource/Civic_Democratic_Party_(Czech_Republic),125.99000000000001
+http://dbpedia.org/resource/Wales_Green_Party,Wales Green Party,http://dbpedia.org/resource/Wales_Green_Party,125.91
+http://dbpedia.org/resource/Centre_Party_(Sweden),Centre Party (Sweden),http://dbpedia.org/resource/Centre_Party_(Sweden),125.66
+http://dbpedia.org/resource/Blue_Shirts_Society,Blue Shirts Society,http://dbpedia.org/resource/Blue_Shirts_Society,125.54499999999999
+http://dbpedia.org/resource/Young_Egypt_Party_(1933),Young Egypt Party (1933),http://dbpedia.org/resource/Young_Egypt_Party_(1933),125.42000000000002
+http://dbpedia.org/resource/Reform_UK,Reform UK,http://dbpedia.org/resource/Reform_UK,125.03999999999999
+http://dbpedia.org/resource/Movimiento_Español_Sindicalista,Movimiento Español Sindicalista,http://dbpedia.org/resource/Movimiento_Español_Sindicalista,124.83
+http://dbpedia.org/resource/German_National_People's_Party,German National People's Party,http://dbpedia.org/resource/German_National_People's_Party,124.735
+http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_–_Iraq_Region,Arab Socialist Ba'ath Party – Iraq Region,http://dbpedia.org/resource/Arab_Socialist_Ba'ath_Party_–_Iraq_Region,124.25999999999999
+http://dbpedia.org/resource/Russian_Action_Committee,Russian Action Committee,http://dbpedia.org/resource/Russian_Action_Committee,124.2
+http://dbpedia.org/resource/American_Solidarity_Party,American Solidarity Party,http://dbpedia.org/resource/American_Solidarity_Party,123.94000000000001
+http://dbpedia.org/resource/Liberal_Republican_Party_(United_States),Liberal Republican Party (United States),http://dbpedia.org/resource/Liberal_Republican_Party_(United_States),123.83
+http://dbpedia.org/resource/La_Falange_(1999),La Falange (1999),http://dbpedia.org/resource/La_Falange_(1999),123.49
+http://dbpedia.org/resource/Cercle_Proudhon,Cercle Proudhon,http://dbpedia.org/resource/Cercle_Proudhon,123.46499999999999
+http://dbpedia.org/resource/Ba'ath_Party_(Syrian-dominated_faction),Ba'ath Party (Syrian-dominated faction),http://dbpedia.org/resource/Ba'ath_Party_(Syrian-dominated_faction),123.405
+http://dbpedia.org/resource/New_Zealand_Liberal_Party,New Zealand Liberal Party,http://dbpedia.org/resource/New_Zealand_Liberal_Party,123.25
+http://dbpedia.org/resource/Communist_Party_of_Greece,Communist Party of Greece,http://dbpedia.org/resource/Communist_Party_of_Greece,122.94500000000001
+http://dbpedia.org/resource/National_Syndicalists_(Portugal),National Syndicalists (Portugal),http://dbpedia.org/resource/National_Syndicalists_(Portugal),122.375
+http://dbpedia.org/resource/Falangist_Movement_of_Spain,Falangist Movement of Spain,http://dbpedia.org/resource/Falangist_Movement_of_Spain,122.36
+http://dbpedia.org/resource/Forza_Italia_(2013),Forza Italia (2013),http://dbpedia.org/resource/Forza_Italia_(2013),122.19000000000001
+http://dbpedia.org/resource/Al-Muthanna_Club,Al-Muthanna Club,http://dbpedia.org/resource/Al-Muthanna_Club,122.08
+http://dbpedia.org/resource/Second_International,Second International,http://dbpedia.org/resource/Second_International,121.78499999999997
+http://dbpedia.org/resource/Rising_Finland,Rising Finland,http://dbpedia.org/resource/Rising_Finland,121.63
+http://dbpedia.org/resource/Syrian_Social_Nationalist_Party,Syrian Social Nationalist Party,http://dbpedia.org/resource/Syrian_Social_Nationalist_Party,121.44500000000001
+http://dbpedia.org/resource/Stalwarts_(politics),Stalwarts (politics),http://dbpedia.org/resource/Stalwarts_(politics),121.43
+http://dbpedia.org/resource/Union_for_a_Popular_Movement,Union for a Popular Movement,http://dbpedia.org/resource/Union_for_a_Popular_Movement,121.185
+http://dbpedia.org/resource/Socialist_Campaign_Group,Socialist Campaign Group,http://dbpedia.org/resource/Socialist_Campaign_Group,121.14000000000001
+http://dbpedia.org/resource/Likud,Likud,http://dbpedia.org/resource/Likud,121.07
+http://dbpedia.org/resource/American_Indian_Movement,American Indian Movement,http://dbpedia.org/resource/American_Indian_Movement,120.785
+http://dbpedia.org/resource/Democratic_Progressive_Party,Democratic Progressive Party,http://dbpedia.org/resource/Democratic_Progressive_Party,119.95
+http://dbpedia.org/resource/Senate_Republican_Conference,Senate Republican Conference,http://dbpedia.org/resource/Senate_Republican_Conference,119.855
+http://dbpedia.org/resource/National_Socialist_Dutch_Workers_Party,National Socialist Dutch Workers Party,http://dbpedia.org/resource/National_Socialist_Dutch_Workers_Party,119.75
+http://dbpedia.org/resource/Ganap_Party,Ganap Party,http://dbpedia.org/resource/Ganap_Party,119.12
+http://dbpedia.org/resource/The_People_of_Freedom,The People of Freedom,http://dbpedia.org/resource/The_People_of_Freedom,119.01999999999998
+http://dbpedia.org/resource/History_of_Plaid_Cymru,History of Plaid Cymru,http://dbpedia.org/resource/History_of_Plaid_Cymru,118.92999999999998
+http://dbpedia.org/resource/Nepali_Congress,Nepali Congress,http://dbpedia.org/resource/Nepali_Congress,118.91
+http://dbpedia.org/resource/Liberal_National_Party_of_Queensland,Liberal National Party of Queensland,http://dbpedia.org/resource/Liberal_National_Party_of_Queensland,118.875
+http://dbpedia.org/resource/Open_Flemish_Liberals_and_Democrats,Open Flemish Liberals and Democrats,http://dbpedia.org/resource/Open_Flemish_Liberals_and_Democrats,118.42500000000001
+http://dbpedia.org/resource/Conservative_Party_(Norway),Conservative Party (Norway),http://dbpedia.org/resource/Conservative_Party_(Norway),118.05500000000002
+http://dbpedia.org/resource/Philippine_Falange,Philippine Falange,http://dbpedia.org/resource/Philippine_Falange,117.825
+http://dbpedia.org/resource/Socialist_Workers_Party_(United_States),Socialist Workers Party (United States),http://dbpedia.org/resource/Socialist_Workers_Party_(United_States),117.805
+http://dbpedia.org/resource/Bangladesh_Nationalist_Party,Bangladesh Nationalist Party,http://dbpedia.org/resource/Bangladesh_Nationalist_Party,117.775
+http://dbpedia.org/resource/Liberal_Party_(Norway),Liberal Party (Norway),http://dbpedia.org/resource/Liberal_Party_(Norway),117.65
+http://dbpedia.org/resource/Co-operative_Party,Co-operative Party,http://dbpedia.org/resource/Co-operative_Party,117.43
+http://dbpedia.org/resource/Massachusetts_Republican_Party,Massachusetts Republican Party,http://dbpedia.org/resource/Massachusetts_Republican_Party,117.315
+http://dbpedia.org/resource/Podemos_(Spanish_political_party),Podemos (Spanish political party),http://dbpedia.org/resource/Podemos_(Spanish_political_party),116.96500000000002
+http://dbpedia.org/resource/Nationalist_Party_(Iceland),Nationalist Party (Iceland),http://dbpedia.org/resource/Nationalist_Party_(Iceland),116.435
+http://dbpedia.org/resource/Free_and_Independent_Faction,Free and Independent Faction,http://dbpedia.org/resource/Free_and_Independent_Faction,116.37
+http://dbpedia.org/resource/Finnish-Socialist_Workers'_Party,Finnish-Socialist Workers' Party,http://dbpedia.org/resource/Finnish-Socialist_Workers'_Party,115.9
+http://dbpedia.org/resource/People_Power_Party_(South_Korea),People Power Party (South Korea),http://dbpedia.org/resource/People_Power_Party_(South_Korea),115.83999999999999
+http://dbpedia.org/resource/Fatah,Fatah,http://dbpedia.org/resource/Fatah,115.83999999999999
+http://dbpedia.org/resource/New_Party_(UK),New Party (UK),http://dbpedia.org/resource/New_Party_(UK),115.75
+http://dbpedia.org/resource/Workers'_Party_(Singapore),Workers' Party (Singapore),http://dbpedia.org/resource/Workers'_Party_(Singapore),115.71
+http://dbpedia.org/resource/Scottish_Greens,Scottish Greens,http://dbpedia.org/resource/Scottish_Greens,115.36000000000001
+http://dbpedia.org/resource/Australian_Democrats,Australian Democrats,http://dbpedia.org/resource/Australian_Democrats,115.14499999999998
+http://dbpedia.org/resource/Fourth_International,Fourth International,http://dbpedia.org/resource/Fourth_International,115.11
+http://dbpedia.org/resource/Feminist_Anti-War_Resistance,Feminist Anti-War Resistance,http://dbpedia.org/resource/Feminist_Anti-War_Resistance,115.05500000000002
+http://dbpedia.org/resource/Respect_Party,Respect Party,http://dbpedia.org/resource/Respect_Party,115.05000000000001
+http://dbpedia.org/resource/Senate_Democratic_Caucus,Senate Democratic Caucus,http://dbpedia.org/resource/Senate_Democratic_Caucus,114.56
+http://dbpedia.org/resource/Party_of_European_Socialists,Party of European Socialists,http://dbpedia.org/resource/Party_of_European_Socialists,114.31500000000001
+http://dbpedia.org/resource/Economic_Freedom_Fighters,Economic Freedom Fighters,http://dbpedia.org/resource/Economic_Freedom_Fighters,114.18
+http://dbpedia.org/resource/Republican_People's_Party,Republican People's Party,http://dbpedia.org/resource/Republican_People's_Party,114.09499999999998
+http://dbpedia.org/resource/Congressional_Progressive_Caucus,Congressional Progressive Caucus,http://dbpedia.org/resource/Congressional_Progressive_Caucus,114.04500000000002
+http://dbpedia.org/resource/Forza_Italia,Forza Italia,http://dbpedia.org/resource/Forza_Italia,113.705
+http://dbpedia.org/resource/Anti_H-Block,Anti H-Block,http://dbpedia.org/resource/Anti_H-Block,113.565
+http://dbpedia.org/resource/The_Republicans_(France),The Republicans (France),http://dbpedia.org/resource/The_Republicans_(France),113.18
+http://dbpedia.org/resource/Quebec_Liberal_Party,Quebec Liberal Party,http://dbpedia.org/resource/Quebec_Liberal_Party,113.17500000000001
+http://dbpedia.org/resource/Christian_Social_Union_in_Bavaria,Christian Social Union in Bavaria,http://dbpedia.org/resource/Christian_Social_Union_in_Bavaria,113.05000000000001
+http://dbpedia.org/resource/European_People's_Party,European People's Party,http://dbpedia.org/resource/European_People's_Party,113.05000000000001
+http://dbpedia.org/resource/Malaysian_Chinese_Association,Malaysian Chinese Association,http://dbpedia.org/resource/Malaysian_Chinese_Association,112.92500000000001
+http://dbpedia.org/resource/Lao_People's_Revolutionary_Party,Lao People's Revolutionary Party,http://dbpedia.org/resource/Lao_People's_Revolutionary_Party,112.86
+http://dbpedia.org/resource/United_Australia_Party,United Australia Party,http://dbpedia.org/resource/United_Australia_Party,112.49
+http://dbpedia.org/resource/Liberals_(Sweden),Liberals (Sweden),http://dbpedia.org/resource/Liberals_(Sweden),112.46
+http://dbpedia.org/resource/Democratic_Labour_Party_(Australia),Democratic Labour Party (Australia),http://dbpedia.org/resource/Democratic_Labour_Party_(Australia),111.83999999999999
+http://dbpedia.org/resource/Anti-Masonic_Party,Anti-Masonic Party,http://dbpedia.org/resource/Anti-Masonic_Party,111.525
+http://dbpedia.org/resource/Anti-War_Committee_of_Russia,Anti-War Committee of Russia,http://dbpedia.org/resource/Anti-War_Committee_of_Russia,111.30000000000001
+http://dbpedia.org/resource/Democratic_Nationalist_Party_(Romania),Democratic Nationalist Party (Romania),http://dbpedia.org/resource/Democratic_Nationalist_Party_(Romania),111.275
+http://dbpedia.org/resource/Coalition_(Australia),Coalition (Australia),http://dbpedia.org/resource/Coalition_(Australia),110.86
+http://dbpedia.org/resource/Pauline_Hanson's_One_Nation,Pauline Hanson's One Nation,http://dbpedia.org/resource/Pauline_Hanson's_One_Nation,110.77000000000001
+http://dbpedia.org/resource/Inkatha_Freedom_Party,Inkatha Freedom Party,http://dbpedia.org/resource/Inkatha_Freedom_Party,110.76499999999999
+http://dbpedia.org/resource/Cumann_na_mBan,Cumann na mBan,http://dbpedia.org/resource/Cumann_na_mBan,110.61
+http://dbpedia.org/resource/Communist_Party_of_Nepal_(Unified_Marxist–Leninist),Communist Party of Nepal (Unified Marxist–Leninist),http://dbpedia.org/resource/Communist_Party_of_Nepal_(Unified_Marxist–Leninist),110.485
+http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe,Alliance of Liberals and Democrats for Europe,http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe,110.22000000000001
+http://dbpedia.org/resource/Communist_Party_of_Australia,Communist Party of Australia,http://dbpedia.org/resource/Communist_Party_of_Australia,110.14499999999998
+http://dbpedia.org/resource/Green_Party_(Ireland),Green Party (Ireland),http://dbpedia.org/resource/Green_Party_(Ireland),109.72500000000001
+http://dbpedia.org/resource/Front_Line_(political_party),Front Line (political party),http://dbpedia.org/resource/Front_Line_(political_party),109.38999999999999
+http://dbpedia.org/resource/Canadian_Union_of_Fascists,Canadian Union of Fascists,http://dbpedia.org/resource/Canadian_Union_of_Fascists,109.13499999999999
+http://dbpedia.org/resource/Clan_na_Gael,Clan na Gael,http://dbpedia.org/resource/Clan_na_Gael,109.11999999999999
+http://dbpedia.org/resource/Christian_Democratic_Appeal,Christian Democratic Appeal,http://dbpedia.org/resource/Christian_Democratic_Appeal,108.94500000000001
+http://dbpedia.org/resource/Peoples'_Democratic_Party_(Turkey),Peoples' Democratic Party (Turkey),http://dbpedia.org/resource/Peoples'_Democratic_Party_(Turkey),108.87
+http://dbpedia.org/resource/People's_Action_Party,People's Action Party,http://dbpedia.org/resource/People's_Action_Party,108.775
+http://dbpedia.org/resource/Ukrainian_Democratic_Alliance_for_Reform,Ukrainian Democratic Alliance for Reform,http://dbpedia.org/resource/Ukrainian_Democratic_Alliance_for_Reform,108.69999999999999
+http://dbpedia.org/resource/People's_Party_(Spain),People's Party (Spain),http://dbpedia.org/resource/People's_Party_(Spain),108.68
+http://dbpedia.org/resource/American_Nazi_Party,American Nazi Party,http://dbpedia.org/resource/American_Nazi_Party,108.58999999999999
+http://dbpedia.org/resource/Libertarian_Party_of_New_Hampshire,Libertarian Party of New Hampshire,http://dbpedia.org/resource/Libertarian_Party_of_New_Hampshire,108.525
+http://dbpedia.org/resource/Republican_Left_of_Catalonia,Republican Left of Catalonia,http://dbpedia.org/resource/Republican_Left_of_Catalonia,108.375
+http://dbpedia.org/resource/National_Coalition_Party,National Coalition Party,http://dbpedia.org/resource/National_Coalition_Party,108.03999999999999
+http://dbpedia.org/resource/Oregon_Republican_Party,Oregon Republican Party,http://dbpedia.org/resource/Oregon_Republican_Party,107.91499999999999
+http://dbpedia.org/resource/Socialist_Left_Party_(Norway),Socialist Left Party (Norway),http://dbpedia.org/resource/Socialist_Left_Party_(Norway),107.575
+http://dbpedia.org/resource/New_Democracy_(Greece),New Democracy (Greece),http://dbpedia.org/resource/New_Democracy_(Greece),107.53
+http://dbpedia.org/resource/Nationalist_Movement_Party,Nationalist Movement Party,http://dbpedia.org/resource/Nationalist_Movement_Party,107.25999999999999
+http://dbpedia.org/resource/Meretz,Meretz,http://dbpedia.org/resource/Meretz,106.97000000000001
+http://dbpedia.org/resource/Action_Française,Action Française,http://dbpedia.org/resource/Action_Française,106.96999999999998
+http://dbpedia.org/resource/Revolutionary_Union_(Peru),Revolutionary Union (Peru),http://dbpedia.org/resource/Revolutionary_Union_(Peru),106.82499999999999
+http://dbpedia.org/resource/Labour_Party_(Netherlands),Labour Party (Netherlands),http://dbpedia.org/resource/Labour_Party_(Netherlands),106.455
+http://dbpedia.org/resource/True_Russia,True Russia,http://dbpedia.org/resource/True_Russia,106.41500000000002
+http://dbpedia.org/resource/Brown_Berets,Brown Berets,http://dbpedia.org/resource/Brown_Berets,106.185
+http://dbpedia.org/resource/Ontario_Liberal_Party,Ontario Liberal Party,http://dbpedia.org/resource/Ontario_Liberal_Party,106.13
+http://dbpedia.org/resource/Justicialist_Party,Justicialist Party,http://dbpedia.org/resource/Justicialist_Party,106.02000000000001
+http://dbpedia.org/resource/People's_Freedom_Party_(Russia),People's Freedom Party (Russia),http://dbpedia.org/resource/People's_Freedom_Party_(Russia),106.02000000000001
+http://dbpedia.org/resource/Socialist_Party_USA,Socialist Party USA,http://dbpedia.org/resource/Socialist_Party_USA,105.84499999999998
+http://dbpedia.org/resource/Party_for_the_Animals,Party for the Animals,http://dbpedia.org/resource/Party_for_the_Animals,105.81500000000001
+http://dbpedia.org/resource/Party_for_Freedom,Party for Freedom,http://dbpedia.org/resource/Party_for_Freedom,105.78999999999999
+http://dbpedia.org/resource/Sudeten_German_Party,Sudeten German Party,http://dbpedia.org/resource/Sudeten_German_Party,105.63999999999999
+http://dbpedia.org/resource/Israeli_Labor_Party,Israeli Labor Party,http://dbpedia.org/resource/Israeli_Labor_Party,105.49499999999999
+http://dbpedia.org/resource/Radical_Civic_Union,Radical Civic Union,http://dbpedia.org/resource/Radical_Civic_Union,105.34500000000001
+http://dbpedia.org/resource/Communist_Party_of_Austria,Communist Party of Austria,http://dbpedia.org/resource/Communist_Party_of_Austria,105.25999999999999
+http://dbpedia.org/resource/Italian_Communist_Party,Italian Communist Party,http://dbpedia.org/resource/Italian_Communist_Party,105.23
+http://dbpedia.org/resource/Lega_(political_party),Lega (political party),http://dbpedia.org/resource/Lega_(political_party),105.21999999999998
+http://dbpedia.org/resource/Democratic_Alliance_(South_Africa),Democratic Alliance (South Africa),http://dbpedia.org/resource/Democratic_Alliance_(South_Africa),105.17500000000001
+http://dbpedia.org/resource/Essenes,Essenes,http://dbpedia.org/resource/Essenes,105.065
+http://dbpedia.org/resource/Groypers,Groypers,http://dbpedia.org/resource/Groypers,105.02000000000001
+http://dbpedia.org/resource/Communist_Party_of_Canada,Communist Party of Canada,http://dbpedia.org/resource/Communist_Party_of_Canada,104.875
+http://dbpedia.org/resource/Social_Democratic_Party_of_Austria,Social Democratic Party of Austria,http://dbpedia.org/resource/Social_Democratic_Party_of_Austria,104.64000000000001
+http://dbpedia.org/resource/Pharisees,Pharisees,http://dbpedia.org/resource/Pharisees,104.575
+http://dbpedia.org/resource/Democratic_Convergence_of_Catalonia,Democratic Convergence of Catalonia,http://dbpedia.org/resource/Democratic_Convergence_of_Catalonia,104.46499999999999
+http://dbpedia.org/resource/Communist_Party_of_India_(Maoist),Communist Party of India (Maoist),http://dbpedia.org/resource/Communist_Party_of_India_(Maoist),103.96
+http://dbpedia.org/resource/British_People's_Party_(1939),British People's Party (1939),http://dbpedia.org/resource/British_People's_Party_(1939),103.93
+http://dbpedia.org/resource/Basque_Nationalist_Party,Basque Nationalist Party,http://dbpedia.org/resource/Basque_Nationalist_Party,103.43
+http://dbpedia.org/resource/Communist_Refoundation_Party,Communist Refoundation Party,http://dbpedia.org/resource/Communist_Refoundation_Party,103.24499999999999
+http://dbpedia.org/resource/November_9th_Society,November 9th Society,http://dbpedia.org/resource/November_9th_Society,103.195
+http://dbpedia.org/resource/Christian_Democrats_(Sweden),Christian Democrats (Sweden),http://dbpedia.org/resource/Christian_Democrats_(Sweden),103.14500000000001
+http://dbpedia.org/resource/Croatian_Democratic_Union,Croatian Democratic Union,http://dbpedia.org/resource/Croatian_Democratic_Union,103.065
+http://dbpedia.org/resource/Social_Democratic_Party_(Portugal),Social Democratic Party (Portugal),http://dbpedia.org/resource/Social_Democratic_Party_(Portugal),102.755
+http://dbpedia.org/resource/Socialist_Labor_Party_of_America,Socialist Labor Party of America,http://dbpedia.org/resource/Socialist_Labor_Party_of_America,102.75
+http://dbpedia.org/resource/Civic_Platform,Civic Platform,http://dbpedia.org/resource/Civic_Platform,102.63499999999999
+http://dbpedia.org/resource/Communist_Party_of_Bohemia_and_Moravia,Communist Party of Bohemia and Moravia,http://dbpedia.org/resource/Communist_Party_of_Bohemia_and_Moravia,102.615
+http://dbpedia.org/resource/Japanese_Communist_Party,Japanese Communist Party,http://dbpedia.org/resource/Japanese_Communist_Party,102.58
+"http://dbpedia.org/resource/Social_Democrats,_USA","Social Democrats, USA","http://dbpedia.org/resource/Social_Democrats,_USA",102.47500000000001
+http://dbpedia.org/resource/Freedom_Front_Plus,Freedom Front Plus,http://dbpedia.org/resource/Freedom_Front_Plus,102.45
+http://dbpedia.org/resource/National_Front_(Switzerland),National Front (Switzerland),http://dbpedia.org/resource/National_Front_(Switzerland),102.315
+http://dbpedia.org/resource/New_Zealand_First,New Zealand First,http://dbpedia.org/resource/New_Zealand_First,101.895
+http://dbpedia.org/resource/PASOK,PASOK,http://dbpedia.org/resource/PASOK,101.64
+http://dbpedia.org/resource/Syriza,Syriza,http://dbpedia.org/resource/Syriza,101.60000000000001
+http://dbpedia.org/resource/All-India_Muslim_League,All-India Muslim League,http://dbpedia.org/resource/All-India_Muslim_League,101.47500000000001
+http://dbpedia.org/resource/The_Mountain,The Mountain,http://dbpedia.org/resource/The_Mountain,101.22
+http://dbpedia.org/resource/Socialist_Party_of_Minnesota,Socialist Party of Minnesota,http://dbpedia.org/resource/Socialist_Party_of_Minnesota,101.165
+http://dbpedia.org/resource/Iranian_Principlists,Iranian Principlists,http://dbpedia.org/resource/Iranian_Principlists,101.13
+http://dbpedia.org/resource/Imperial_Fascist_League,Imperial Fascist League,http://dbpedia.org/resource/Imperial_Fascist_League,101.09
+http://dbpedia.org/resource/Idaho_Republican_Party,Idaho Republican Party,http://dbpedia.org/resource/Idaho_Republican_Party,101.04500000000002
+http://dbpedia.org/resource/Communist_Party_of_Germany,Communist Party of Germany,http://dbpedia.org/resource/Communist_Party_of_Germany,100.69
+http://dbpedia.org/resource/Trade_Unionist_and_Socialist_Coalition,Trade Unionist and Socialist Coalition,http://dbpedia.org/resource/Trade_Unionist_and_Socialist_Coalition,100.61500000000001
+http://dbpedia.org/resource/Social_Democratic_Party_(UK),Social Democratic Party (UK),http://dbpedia.org/resource/Social_Democratic_Party_(UK),100.32999999999998
+http://dbpedia.org/resource/Jobbik,Jobbik,http://dbpedia.org/resource/Jobbik,99.865
+http://dbpedia.org/resource/French_National-Collectivist_Party,French National-Collectivist Party,http://dbpedia.org/resource/French_National-Collectivist_Party,99.025
+http://dbpedia.org/resource/Action_démocratique_du_Québec,Action démocratique du Québec,http://dbpedia.org/resource/Action_démocratique_du_Québec,98.61000000000001
+http://dbpedia.org/resource/Scottish_Liberal_Democrats,Scottish Liberal Democrats,http://dbpedia.org/resource/Scottish_Liberal_Democrats,97.995
+http://dbpedia.org/resource/Parti_Gerakan_Rakyat_Malaysia,Parti Gerakan Rakyat Malaysia,http://dbpedia.org/resource/Parti_Gerakan_Rakyat_Malaysia,97.95
+http://dbpedia.org/resource/Christian_Democracy_(Italy),Christian Democracy (Italy),http://dbpedia.org/resource/Christian_Democracy_(Italy),97.80000000000001
+http://dbpedia.org/resource/Swedish_People's_Party_of_Finland,Swedish People's Party of Finland,http://dbpedia.org/resource/Swedish_People's_Party_of_Finland,97.755
+http://dbpedia.org/resource/National_Action_Party_(Mexico),National Action Party (Mexico),http://dbpedia.org/resource/National_Action_Party_(Mexico),97.44
+http://dbpedia.org/resource/List_of_UK_minor_party_and_independent_MPs_elected,List of UK minor party and independent MPs elected,http://dbpedia.org/resource/List_of_UK_minor_party_and_independent_MPs_elected,97.335
+http://dbpedia.org/resource/Florida_Democratic_Party,Florida Democratic Party,http://dbpedia.org/resource/Florida_Democratic_Party,97.205
+http://dbpedia.org/resource/Centre_Party_(New_South_Wales),Centre Party (New South Wales),http://dbpedia.org/resource/Centre_Party_(New_South_Wales),97.095
+http://dbpedia.org/resource/Blue_Labour,Blue Labour,http://dbpedia.org/resource/Blue_Labour,97.00999999999999
+http://dbpedia.org/resource/People's_National_Movement,People's National Movement,http://dbpedia.org/resource/People's_National_Movement,96.995
+http://dbpedia.org/resource/Hungarian_National_Socialist_Party,Hungarian National Socialist Party,http://dbpedia.org/resource/Hungarian_National_Socialist_Party,96.97500000000001
+http://dbpedia.org/resource/Centre_Party_(Germany),Centre Party (Germany),http://dbpedia.org/resource/Centre_Party_(Germany),96.965
+http://dbpedia.org/resource/Know_Nothing,Know Nothing,http://dbpedia.org/resource/Know_Nothing,96.69
+http://dbpedia.org/resource/Save_Romania_Union,Save Romania Union,http://dbpedia.org/resource/Save_Romania_Union,96.68
+http://dbpedia.org/resource/Republican_Party_of_Iowa,Republican Party of Iowa,http://dbpedia.org/resource/Republican_Party_of_Iowa,96.615
+http://dbpedia.org/resource/Tamil_National_Alliance,Tamil National Alliance,http://dbpedia.org/resource/Tamil_National_Alliance,96.59500000000001
+http://dbpedia.org/resource/Palestine_Liberation_Organization,Palestine Liberation Organization,http://dbpedia.org/resource/Palestine_Liberation_Organization,96.595
+http://dbpedia.org/resource/Democratic_Party_of_Oregon,Democratic Party of Oregon,http://dbpedia.org/resource/Democratic_Party_of_Oregon,96.59
+http://dbpedia.org/resource/Green_Party_of_California,Green Party of California,http://dbpedia.org/resource/Green_Party_of_California,96.56
+http://dbpedia.org/resource/National_Popular_Party_(Romania),National Popular Party (Romania),http://dbpedia.org/resource/National_Popular_Party_(Romania),96.46499999999999
+http://dbpedia.org/resource/Czech_Pirate_Party,Czech Pirate Party,http://dbpedia.org/resource/Czech_Pirate_Party,96.44
+http://dbpedia.org/resource/Massachusetts_Democratic_Party,Massachusetts Democratic Party,http://dbpedia.org/resource/Massachusetts_Democratic_Party,96.35000000000001
+http://dbpedia.org/resource/Australian_Labor_Party_(Queensland_Branch),Australian Labor Party (Queensland Branch),http://dbpedia.org/resource/Australian_Labor_Party_(Queensland_Branch),96.34500000000001
+http://dbpedia.org/resource/Malayan_Communist_Party,Malayan Communist Party,http://dbpedia.org/resource/Malayan_Communist_Party,96.18
+http://dbpedia.org/resource/Social_Democratic_Party_of_Finland,Social Democratic Party of Finland,http://dbpedia.org/resource/Social_Democratic_Party_of_Finland,95.935
+http://dbpedia.org/resource/Galician_Nationalist_Bloc,Galician Nationalist Bloc,http://dbpedia.org/resource/Galician_Nationalist_Bloc,95.275
+http://dbpedia.org/resource/Russian_National_Unity,Russian National Unity,http://dbpedia.org/resource/Russian_National_Unity,95.205
+http://dbpedia.org/resource/African_Christian_Democratic_Party,African Christian Democratic Party,http://dbpedia.org/resource/African_Christian_Democratic_Party,95.13499999999999
+http://dbpedia.org/resource/Wyoming_Democratic_Party,Wyoming Democratic Party,http://dbpedia.org/resource/Wyoming_Democratic_Party,95.03
+http://dbpedia.org/resource/Communist_Party_of_the_Philippines,Communist Party of the Philippines,http://dbpedia.org/resource/Communist_Party_of_the_Philippines,94.905
+http://dbpedia.org/resource/Mouvement_Franciste,Mouvement Franciste,http://dbpedia.org/resource/Mouvement_Franciste,94.59
+http://dbpedia.org/resource/Liberal_Democratic_Party_of_Russia,Liberal Democratic Party of Russia,http://dbpedia.org/resource/Liberal_Democratic_Party_of_Russia,94.33999999999999
+http://dbpedia.org/resource/Socialist_Workers_Party_(UK),Socialist Workers Party (UK),http://dbpedia.org/resource/Socialist_Workers_Party_(UK),94.32499999999999
+http://dbpedia.org/resource/Jewish_Democratic_Committee,Jewish Democratic Committee,http://dbpedia.org/resource/Jewish_Democratic_Committee,94.14999999999999
+http://dbpedia.org/resource/Tudeh_Party_of_Iran,Tudeh Party of Iran,http://dbpedia.org/resource/Tudeh_Party_of_Iran,93.815
+http://dbpedia.org/resource/Washington_State_Republican_Party,Washington State Republican Party,http://dbpedia.org/resource/Washington_State_Republican_Party,93.775
+http://dbpedia.org/resource/Al-Mourabitoun,Al-Mourabitoun,http://dbpedia.org/resource/Al-Mourabitoun,93.565
+http://dbpedia.org/resource/Second_Amendment_Caucus,Second Amendment Caucus,http://dbpedia.org/resource/Second_Amendment_Caucus,93.495
+http://dbpedia.org/resource/Centre-right_coalition_(Italy),Centre-right coalition (Italy),http://dbpedia.org/resource/Centre-right_coalition_(Italy),93.49
+http://dbpedia.org/resource/Congress_of_the_People_(South_African_political_party),Congress of the People (South African political party),http://dbpedia.org/resource/Congress_of_the_People_(South_African_political_party),93.36000000000001
+http://dbpedia.org/resource/Democratic_Alliance_for_the_Betterment_and_Progress_of_Hong_Kong,Democratic Alliance for the Betterment and Progress of Hong Kong,http://dbpedia.org/resource/Democratic_Alliance_for_the_Betterment_and_Progress_of_Hong_Kong,93.27000000000001
+http://dbpedia.org/resource/Al-Ahbash,Al-Ahbash,http://dbpedia.org/resource/Al-Ahbash,93.27000000000001
+http://dbpedia.org/resource/World_Socialist_Party_of_the_United_States,World Socialist Party of the United States,http://dbpedia.org/resource/World_Socialist_Party_of_the_United_States,93.25
+http://dbpedia.org/resource/London_Labour,London Labour,http://dbpedia.org/resource/London_Labour,93.15499999999999
+http://dbpedia.org/resource/Lulism,Lulism,http://dbpedia.org/resource/Lulism,93.14999999999999
+http://dbpedia.org/resource/Ontario_New_Democratic_Party,Ontario New Democratic Party,http://dbpedia.org/resource/Ontario_New_Democratic_Party,93.13
+http://dbpedia.org/resource/Congressional_Black_Caucus,Congressional Black Caucus,http://dbpedia.org/resource/Congressional_Black_Caucus,93.03
+http://dbpedia.org/resource/Italian_Social_Movement,Italian Social Movement,http://dbpedia.org/resource/Italian_Social_Movement,92.78500000000001
+http://dbpedia.org/resource/Justice_Party_(India),Justice Party (India),http://dbpedia.org/resource/Justice_Party_(India),92.595
+http://dbpedia.org/resource/European_Green_Party,European Green Party,http://dbpedia.org/resource/European_Green_Party,92.37
+http://dbpedia.org/resource/People's_National_Party,People's National Party,http://dbpedia.org/resource/People's_National_Party,92.33999999999999
+http://dbpedia.org/resource/Patriotic_People's_Movement_(1993),Patriotic People's Movement (1993),http://dbpedia.org/resource/Patriotic_People's_Movement_(1993),92.245
+http://dbpedia.org/resource/Les_Identitaires,Les Identitaires,http://dbpedia.org/resource/Les_Identitaires,92.055
+"http://dbpedia.org/resource/Union,_Progress_and_Democracy","Union, Progress and Democracy","http://dbpedia.org/resource/Union,_Progress_and_Democracy",91.89
+http://dbpedia.org/resource/Malaysian_United_Indigenous_Party,Malaysian United Indigenous Party,http://dbpedia.org/resource/Malaysian_United_Indigenous_Party,91.86500000000001
+http://dbpedia.org/resource/Young_Ireland,Young Ireland,http://dbpedia.org/resource/Young_Ireland,91.86000000000001
+http://dbpedia.org/resource/Michigan_Republican_Party,Michigan Republican Party,http://dbpedia.org/resource/Michigan_Republican_Party,91.68
+http://dbpedia.org/resource/Family_First_Party,Family First Party,http://dbpedia.org/resource/Family_First_Party,91.54500000000002
+http://dbpedia.org/resource/Iowa_Democratic_Party,Iowa Democratic Party,http://dbpedia.org/resource/Iowa_Democratic_Party,91.45
+http://dbpedia.org/resource/Arizona_Democratic_Party,Arizona Democratic Party,http://dbpedia.org/resource/Arizona_Democratic_Party,91.355
+http://dbpedia.org/resource/Social-National_Assembly,Social-National Assembly,http://dbpedia.org/resource/Social-National_Assembly,91.22999999999999
+http://dbpedia.org/resource/World_Union_of_National_Socialists,World Union of National Socialists,http://dbpedia.org/resource/World_Union_of_National_Socialists,91.12
+http://dbpedia.org/resource/Independent_Democrats,Independent Democrats,http://dbpedia.org/resource/Independent_Democrats,90.975
+http://dbpedia.org/resource/Ethnocacerism,Ethnocacerism,http://dbpedia.org/resource/Ethnocacerism,90.945
+http://dbpedia.org/resource/Democratic_Governors_Association,Democratic Governors Association,http://dbpedia.org/resource/Democratic_Governors_Association,90.895
+http://dbpedia.org/resource/Irish_Republican_Brotherhood,Irish Republican Brotherhood,http://dbpedia.org/resource/Irish_Republican_Brotherhood,90.64500000000001
+http://dbpedia.org/resource/Silesian_Autonomy_Movement,Silesian Autonomy Movement,http://dbpedia.org/resource/Silesian_Autonomy_Movement,90.545
+http://dbpedia.org/resource/National_Alliance_(Italy),National Alliance (Italy),http://dbpedia.org/resource/National_Alliance_(Italy),90.33500000000001
+http://dbpedia.org/resource/National_Socialist_Party_(Romania),National Socialist Party (Romania),http://dbpedia.org/resource/National_Socialist_Party_(Romania),90.32999999999998
+http://dbpedia.org/resource/Anti-Parliamentary_Communist_Federation,Anti-Parliamentary Communist Federation,http://dbpedia.org/resource/Anti-Parliamentary_Communist_Federation,90.31
+http://dbpedia.org/resource/Groen_(political_party),Groen (political party),http://dbpedia.org/resource/Groen_(political_party),90.25
+http://dbpedia.org/resource/Italian_Nationalist_Association,Italian Nationalist Association,http://dbpedia.org/resource/Italian_Nationalist_Association,90.12
+http://dbpedia.org/resource/National_Socialist_Union_of_Finland,National Socialist Union of Finland,http://dbpedia.org/resource/National_Socialist_Union_of_Finland,89.77499999999999
+http://dbpedia.org/resource/Alternative_for_Sweden,Alternative for Sweden,http://dbpedia.org/resource/Alternative_for_Sweden,89.645
+http://dbpedia.org/resource/General_Jewish_Labour_Bund,General Jewish Labour Bund,http://dbpedia.org/resource/General_Jewish_Labour_Bund,89.64
+http://dbpedia.org/resource/National_Socialist_Movement_of_Chile,National Socialist Movement of Chile,http://dbpedia.org/resource/National_Socialist_Movement_of_Chile,89.355
+http://dbpedia.org/resource/Natural_Law_Party,Natural Law Party,http://dbpedia.org/resource/Natural_Law_Party,89.17500000000001
+http://dbpedia.org/resource/Jeffersonian_democracy,Jeffersonian democracy,http://dbpedia.org/resource/Jeffersonian_democracy,89.055
+http://dbpedia.org/resource/National_Democracy_(Poland),National Democracy (Poland),http://dbpedia.org/resource/National_Democracy_(Poland),89.03
+http://dbpedia.org/resource/Argentine_Fascist_Party,Argentine Fascist Party,http://dbpedia.org/resource/Argentine_Fascist_Party,88.50999999999999
+http://dbpedia.org/resource/Oklahoma_Republican_Party,Oklahoma Republican Party,http://dbpedia.org/resource/Oklahoma_Republican_Party,88.38499999999999
+http://dbpedia.org/resource/Arizona_Libertarian_Party,Arizona Libertarian Party,http://dbpedia.org/resource/Arizona_Libertarian_Party,88.36
+http://dbpedia.org/resource/Scottish_Socialist_Party,Scottish Socialist Party,http://dbpedia.org/resource/Scottish_Socialist_Party,88.355
+http://dbpedia.org/resource/Animal_Justice_Party,Animal Justice Party,http://dbpedia.org/resource/Animal_Justice_Party,88.325
+http://dbpedia.org/resource/Nabat,Nabat,http://dbpedia.org/resource/Nabat,88.245
+http://dbpedia.org/resource/Progressive_Conservative_Party_of_Newfoundland_and_Labrador,Progressive Conservative Party of Newfoundland and Labrador,http://dbpedia.org/resource/Progressive_Conservative_Party_of_Newfoundland_and_Labrador,88.155
+http://dbpedia.org/resource/Liberal_Movement_(Australia),Liberal Movement (Australia),http://dbpedia.org/resource/Liberal_Movement_(Australia),87.97
+http://dbpedia.org/resource/Republican_Study_Committee,Republican Study Committee,http://dbpedia.org/resource/Republican_Study_Committee,87.94500000000001
+http://dbpedia.org/resource/Alberta_Social_Credit_Party,Alberta Social Credit Party,http://dbpedia.org/resource/Alberta_Social_Credit_Party,87.84
+http://dbpedia.org/resource/Arizona_Republican_Party,Arizona Republican Party,http://dbpedia.org/resource/Arizona_Republican_Party,87.795
+http://dbpedia.org/resource/Montana_Republican_Party,Montana Republican Party,http://dbpedia.org/resource/Montana_Republican_Party,87.63
+http://dbpedia.org/resource/Finnish_National_Socialist_Labor_Organisation,Finnish National Socialist Labor Organisation,http://dbpedia.org/resource/Finnish_National_Socialist_Labor_Organisation,87.59
+http://dbpedia.org/resource/New_Communist_Party_of_Britain,New Communist Party of Britain,http://dbpedia.org/resource/New_Communist_Party_of_Britain,87.33999999999999
+http://dbpedia.org/resource/Estonian_Reform_Party,Estonian Reform Party,http://dbpedia.org/resource/Estonian_Reform_Party,87.11
+http://dbpedia.org/resource/Girondins,Girondins,http://dbpedia.org/resource/Girondins,87.105
+http://dbpedia.org/resource/Italia_Viva,Italia Viva,http://dbpedia.org/resource/Italia_Viva,87.09
+http://dbpedia.org/resource/Pan_Africanist_Congress_of_Azania,Pan Africanist Congress of Azania,http://dbpedia.org/resource/Pan_Africanist_Congress_of_Azania,86.915
+http://dbpedia.org/resource/United_Democratic_Movement,United Democratic Movement,http://dbpedia.org/resource/United_Democratic_Movement,86.75999999999999
+http://dbpedia.org/resource/Albanian_Fascist_Party,Albanian Fascist Party,http://dbpedia.org/resource/Albanian_Fascist_Party,86.67000000000002
+http://dbpedia.org/resource/Italian_Republican_Party,Italian Republican Party,http://dbpedia.org/resource/Italian_Republican_Party,86.665
+http://dbpedia.org/resource/VMRO-DPMNE,VMRO-DPMNE,http://dbpedia.org/resource/VMRO-DPMNE,86.575
+http://dbpedia.org/resource/Uttar_Pradesh_Congress_Committee,Uttar Pradesh Congress Committee,http://dbpedia.org/resource/Uttar_Pradesh_Congress_Committee,86.42500000000001
+http://dbpedia.org/resource/North_Kalimantan_Communist_Party,North Kalimantan Communist Party,http://dbpedia.org/resource/North_Kalimantan_Communist_Party,86.23
+http://dbpedia.org/resource/Communist_Party_of_Indonesia,Communist Party of Indonesia,http://dbpedia.org/resource/Communist_Party_of_Indonesia,86.21000000000001
+http://dbpedia.org/resource/We_Are_Together_with_Russia,We Are Together with Russia,http://dbpedia.org/resource/We_Are_Together_with_Russia,86.025
+http://dbpedia.org/resource/Good_Party,Good Party,http://dbpedia.org/resource/Good_Party,86.0
+http://dbpedia.org/resource/Free_Trade_Party,Free Trade Party,http://dbpedia.org/resource/Free_Trade_Party,85.9
+http://dbpedia.org/resource/Free_Soil_Party,Free Soil Party,http://dbpedia.org/resource/Free_Soil_Party,85.63
+http://dbpedia.org/resource/Anti-Capitalist_Muslims,Anti-Capitalist Muslims,http://dbpedia.org/resource/Anti-Capitalist_Muslims,85.625
+http://dbpedia.org/resource/Christian_Union_(Netherlands),Christian Union (Netherlands),http://dbpedia.org/resource/Christian_Union_(Netherlands),85.27000000000001
+http://dbpedia.org/resource/Democratic_Peasants'_Party_(Bukovina),Democratic Peasants' Party (Bukovina),http://dbpedia.org/resource/Democratic_Peasants'_Party_(Bukovina),85.12
+http://dbpedia.org/resource/The_Greens_(Poland),The Greens (Poland),http://dbpedia.org/resource/The_Greens_(Poland),85.09
+http://dbpedia.org/resource/Redeemers,Redeemers,http://dbpedia.org/resource/Redeemers,85.07
+http://dbpedia.org/resource/Protectionist_Party,Protectionist Party,http://dbpedia.org/resource/Protectionist_Party,85.05000000000001
+http://dbpedia.org/resource/PDP–Laban,PDP–Laban,http://dbpedia.org/resource/PDP–Laban,85.025
+http://dbpedia.org/resource/Democratic_Society_Party,Democratic Society Party,http://dbpedia.org/resource/Democratic_Society_Party,85.015
+http://dbpedia.org/resource/National_Fascist_Party_(Argentina),National Fascist Party (Argentina),http://dbpedia.org/resource/National_Fascist_Party_(Argentina),84.965
+http://dbpedia.org/resource/African_National_Congress_Women's_League,African National Congress Women's League,http://dbpedia.org/resource/African_National_Congress_Women's_League,84.93
+http://dbpedia.org/resource/Jacksonian_democracy,Jacksonian democracy,http://dbpedia.org/resource/Jacksonian_democracy,84.88
+http://dbpedia.org/resource/Party_of_Finnish_Labor,Party of Finnish Labor,http://dbpedia.org/resource/Party_of_Finnish_Labor,84.805
+http://dbpedia.org/resource/Serbian_Radical_Party,Serbian Radical Party,http://dbpedia.org/resource/Serbian_Radical_Party,84.75
+http://dbpedia.org/resource/Liga_Veneta,Liga Veneta,http://dbpedia.org/resource/Liga_Veneta,84.64500000000001
+http://dbpedia.org/resource/Cordeliers,Cordeliers,http://dbpedia.org/resource/Cordeliers,84.62
+http://dbpedia.org/resource/Organisation_of_National_Socialists,Organisation of National Socialists,http://dbpedia.org/resource/Organisation_of_National_Socialists,84.61500000000001
+http://dbpedia.org/resource/Barisan_Sosialis,Barisan Sosialis,http://dbpedia.org/resource/Barisan_Sosialis,84.55000000000001
+http://dbpedia.org/resource/Nashi_(youth_movement),Nashi (youth movement),http://dbpedia.org/resource/Nashi_(youth_movement),84.425
+http://dbpedia.org/resource/Social_Democratic_Party_of_Switzerland,Social Democratic Party of Switzerland,http://dbpedia.org/resource/Social_Democratic_Party_of_Switzerland,84.42
+http://dbpedia.org/resource/National_Liberation_Front_(Greece),National Liberation Front (Greece),http://dbpedia.org/resource/National_Liberation_Front_(Greece),84.265
+http://dbpedia.org/resource/Republican_Party_of_Minnesota,Republican Party of Minnesota,http://dbpedia.org/resource/Republican_Party_of_Minnesota,84.25
+http://dbpedia.org/resource/Green_Party_(Sweden),Green Party (Sweden),http://dbpedia.org/resource/Green_Party_(Sweden),84.245
+http://dbpedia.org/resource/Socialist_Alliance_(Australia),Socialist Alliance (Australia),http://dbpedia.org/resource/Socialist_Alliance_(Australia),84.075
+http://dbpedia.org/resource/Federation_of_the_Greens,Federation of the Greens,http://dbpedia.org/resource/Federation_of_the_Greens,83.99000000000001
+http://dbpedia.org/resource/Estonian_Centre_Party,Estonian Centre Party,http://dbpedia.org/resource/Estonian_Centre_Party,83.92
+http://dbpedia.org/resource/Democratic_Party_(Luxembourg),Democratic Party (Luxembourg),http://dbpedia.org/resource/Democratic_Party_(Luxembourg),83.85000000000001
+http://dbpedia.org/resource/All_Progressives_Congress,All Progressives Congress,http://dbpedia.org/resource/All_Progressives_Congress,83.765
+http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta,Progressive Conservative Association of Alberta,http://dbpedia.org/resource/Progressive_Conservative_Association_of_Alberta,83.71000000000001
+http://dbpedia.org/resource/National_Socialists_of_Finland,National Socialists of Finland,http://dbpedia.org/resource/National_Socialists_of_Finland,83.64999999999999
+http://dbpedia.org/resource/Liberty_Korea_Party,Liberty Korea Party,http://dbpedia.org/resource/Liberty_Korea_Party,83.64000000000001
+http://dbpedia.org/resource/Social_Democratic_Party_of_Croatia,Social Democratic Party of Croatia,http://dbpedia.org/resource/Social_Democratic_Party_of_Croatia,83.59
+http://dbpedia.org/resource/Lalli_Alliance_of_Finland,Lalli Alliance of Finland,http://dbpedia.org/resource/Lalli_Alliance_of_Finland,83.54500000000002
+http://dbpedia.org/resource/Juntos_por_el_Cambio,Juntos por el Cambio,http://dbpedia.org/resource/Juntos_por_el_Cambio,83.525
+http://dbpedia.org/resource/Patrianovism,Patrianovism,http://dbpedia.org/resource/Patrianovism,83.44999999999999
+http://dbpedia.org/resource/National_Socialist_Irish_Workers_Party,National Socialist Irish Workers Party,http://dbpedia.org/resource/National_Socialist_Irish_Workers_Party,83.44500000000001
+http://dbpedia.org/resource/Cook_County_Democratic_Party,Cook County Democratic Party,http://dbpedia.org/resource/Cook_County_Democratic_Party,83.33500000000001
+http://dbpedia.org/resource/Republican_Governors_Association,Republican Governors Association,http://dbpedia.org/resource/Republican_Governors_Association,83.17
+http://dbpedia.org/resource/Syria's_Tomorrow_Movement,Syria's Tomorrow Movement,http://dbpedia.org/resource/Syria's_Tomorrow_Movement,83.03
+http://dbpedia.org/resource/Tea_Party_Caucus,Tea Party Caucus,http://dbpedia.org/resource/Tea_Party_Caucus,82.89500000000001
+http://dbpedia.org/resource/Chama_Cha_Mapinduzi,Chama Cha Mapinduzi,http://dbpedia.org/resource/Chama_Cha_Mapinduzi,82.88
+http://dbpedia.org/resource/National_League_for_Democracy,National League for Democracy,http://dbpedia.org/resource/National_League_for_Democracy,82.88
+http://dbpedia.org/resource/New_Jersey_Republican_State_Committee,New Jersey Republican State Committee,http://dbpedia.org/resource/New_Jersey_Republican_State_Committee,82.82
+http://dbpedia.org/resource/Centre-left_coalition_(Italy),Centre-left coalition (Italy),http://dbpedia.org/resource/Centre-left_coalition_(Italy),82.77
+http://dbpedia.org/resource/Vlad_Țepeș_League,Vlad Țepeș League,http://dbpedia.org/resource/Vlad_Țepeș_League,82.555
+http://dbpedia.org/resource/Enragés,Enragés,http://dbpedia.org/resource/Enragés,82.555
+http://dbpedia.org/resource/Muslim_Brotherhood_in_Egypt,Muslim Brotherhood in Egypt,http://dbpedia.org/resource/Muslim_Brotherhood_in_Egypt,82.545
+http://dbpedia.org/resource/Liberal_Party_of_Australia_(New_South_Wales_Division),Liberal Party of Australia (New South Wales Division),http://dbpedia.org/resource/Liberal_Party_of_Australia_(New_South_Wales_Division),82.515
+http://dbpedia.org/resource/Communist_Party_of_Spain,Communist Party of Spain,http://dbpedia.org/resource/Communist_Party_of_Spain,82.47
+http://dbpedia.org/resource/Finnish_People's_Organisation,Finnish People's Organisation,http://dbpedia.org/resource/Finnish_People's_Organisation,82.46
+http://dbpedia.org/resource/Andhra_Pradesh_Congress_Committee,Andhra Pradesh Congress Committee,http://dbpedia.org/resource/Andhra_Pradesh_Congress_Committee,82.34500000000001
+http://dbpedia.org/resource/Communist_Party_of_Ireland,Communist Party of Ireland,http://dbpedia.org/resource/Communist_Party_of_Ireland,82.325
+http://dbpedia.org/resource/Hébertists,Hébertists,http://dbpedia.org/resource/Hébertists,82.27
+http://dbpedia.org/resource/Uttarakhand_Pradesh_Congress_Committee,Uttarakhand Pradesh Congress Committee,http://dbpedia.org/resource/Uttarakhand_Pradesh_Congress_Committee,82.22
+http://dbpedia.org/resource/Revolutionary_Communist_Group_(UK),Revolutionary Communist Group (UK),http://dbpedia.org/resource/Revolutionary_Communist_Group_(UK),82.005
+http://dbpedia.org/resource/Communist_Party_of_Britain_(Marxist–Leninist),Communist Party of Britain (Marxist–Leninist),http://dbpedia.org/resource/Communist_Party_of_Britain_(Marxist–Leninist),81.98500000000001
+http://dbpedia.org/resource/The_Greens_–_The_Green_Alternative,The Greens – The Green Alternative,http://dbpedia.org/resource/The_Greens_–_The_Green_Alternative,81.98500000000001
+http://dbpedia.org/resource/Sri_Lanka_Freedom_Party,Sri Lanka Freedom Party,http://dbpedia.org/resource/Sri_Lanka_Freedom_Party,81.89
+http://dbpedia.org/resource/U.S._Labor_Party,U.S. Labor Party,http://dbpedia.org/resource/U.S._Labor_Party,81.87
+http://dbpedia.org/resource/Pirate_Party,Pirate Party,http://dbpedia.org/resource/Pirate_Party,81.86
+http://dbpedia.org/resource/National_Socialist_Japanese_Workers'_Party,National Socialist Japanese Workers' Party,http://dbpedia.org/resource/National_Socialist_Japanese_Workers'_Party,81.795
+http://dbpedia.org/resource/National_Socialist_Party_of_Australia,National Socialist Party of Australia,http://dbpedia.org/resource/National_Socialist_Party_of_Australia,81.75
+http://dbpedia.org/resource/Blanke_Bevrydingsbeweging,Blanke Bevrydingsbeweging,http://dbpedia.org/resource/Blanke_Bevrydingsbeweging,81.73000000000002
+http://dbpedia.org/resource/Communist_Party_of_New_Zealand,Communist Party of New Zealand,http://dbpedia.org/resource/Communist_Party_of_New_Zealand,81.63999999999999
+http://dbpedia.org/resource/Madhya_Pradesh_Congress_Committee,Madhya Pradesh Congress Committee,http://dbpedia.org/resource/Madhya_Pradesh_Congress_Committee,81.58500000000001
+http://dbpedia.org/resource/Democratic_Party_of_New_Mexico,Democratic Party of New Mexico,http://dbpedia.org/resource/Democratic_Party_of_New_Mexico,81.525
+http://dbpedia.org/resource/Texas_Democratic_Party,Texas Democratic Party,http://dbpedia.org/resource/Texas_Democratic_Party,81.47500000000001
+http://dbpedia.org/resource/Westerners_(Korean_political_faction),Westerners (Korean political faction),http://dbpedia.org/resource/Westerners_(Korean_political_faction),81.46
+http://dbpedia.org/resource/Liberal_Party_(Hong_Kong),Liberal Party (Hong Kong),http://dbpedia.org/resource/Liberal_Party_(Hong_Kong),81.27499999999999
+http://dbpedia.org/resource/Liberal_Unionist_Party,Liberal Unionist Party,http://dbpedia.org/resource/Liberal_Unionist_Party,81.21
+http://dbpedia.org/resource/Pacifist_Socialist_Party,Pacifist Socialist Party,http://dbpedia.org/resource/Pacifist_Socialist_Party,81.15
+http://dbpedia.org/resource/Constitutional_Democratic_Party,Constitutional Democratic Party,http://dbpedia.org/resource/Constitutional_Democratic_Party,81.12
+http://dbpedia.org/resource/Blue_Dog_Coalition,Blue Dog Coalition,http://dbpedia.org/resource/Blue_Dog_Coalition,81.11000000000001
+http://dbpedia.org/resource/CasaPound,CasaPound,http://dbpedia.org/resource/CasaPound,80.97
+http://dbpedia.org/resource/Republican_Main_Street_Partnership,Republican Main Street Partnership,http://dbpedia.org/resource/Republican_Main_Street_Partnership,80.75999999999999
+http://dbpedia.org/resource/Shinui,Shinui,http://dbpedia.org/resource/Shinui,80.66499999999999
+http://dbpedia.org/resource/Washington_State_Democratic_Party,Washington State Democratic Party,http://dbpedia.org/resource/Washington_State_Democratic_Party,80.465
+http://dbpedia.org/resource/National_Renaissance_Party_(United_States),National Renaissance Party (United States),http://dbpedia.org/resource/National_Renaissance_Party_(United_States),80.45
+http://dbpedia.org/resource/Colorado_Democratic_Party,Colorado Democratic Party,http://dbpedia.org/resource/Colorado_Democratic_Party,80.44
+http://dbpedia.org/resource/Republican_Party_of_Wisconsin,Republican Party of Wisconsin,http://dbpedia.org/resource/Republican_Party_of_Wisconsin,80.36500000000001
+http://dbpedia.org/resource/Gabungan_Rakyat_Sabah,Gabungan Rakyat Sabah,http://dbpedia.org/resource/Gabungan_Rakyat_Sabah,80.35
+http://dbpedia.org/resource/Free_Democratic_Party_of_Switzerland,Free Democratic Party of Switzerland,http://dbpedia.org/resource/Free_Democratic_Party_of_Switzerland,80.16500000000002
+http://dbpedia.org/resource/Rose_Street_Club,Rose Street Club,http://dbpedia.org/resource/Rose_Street_Club,80.07
+http://dbpedia.org/resource/New_York_State_Democratic_Committee,New York State Democratic Committee,http://dbpedia.org/resource/New_York_State_Democratic_Committee,79.97500000000001
+http://dbpedia.org/resource/Colorado_Republican_Party,Colorado Republican Party,http://dbpedia.org/resource/Colorado_Republican_Party,79.895
+http://dbpedia.org/resource/Legal_Marijuana_Now_Party,Legal Marijuana Now Party,http://dbpedia.org/resource/Legal_Marijuana_Now_Party,79.71000000000001
+http://dbpedia.org/resource/South_Tyrolean_People's_Party,South Tyrolean People's Party,http://dbpedia.org/resource/South_Tyrolean_People's_Party,79.705
+http://dbpedia.org/resource/Conservative_Party_(South_Africa),Conservative Party (South Africa),http://dbpedia.org/resource/Conservative_Party_(South_Africa),79.68
+http://dbpedia.org/resource/British_Movement,British Movement,http://dbpedia.org/resource/British_Movement,79.65500000000002
+http://dbpedia.org/resource/Azanian_People's_Organisation,Azanian People's Organisation,http://dbpedia.org/resource/Azanian_People's_Organisation,79.515
+http://dbpedia.org/resource/Oklahoma_Democratic_Party,Oklahoma Democratic Party,http://dbpedia.org/resource/Oklahoma_Democratic_Party,79.44500000000001
+http://dbpedia.org/resource/Australian_National_Socialist_Party,Australian National Socialist Party,http://dbpedia.org/resource/Australian_National_Socialist_Party,79.315
+http://dbpedia.org/resource/Ultra-royalist,Ultra-royalist,http://dbpedia.org/resource/Ultra-royalist,79.275
+http://dbpedia.org/resource/Italian_Socialist_Party_(2007),Italian Socialist Party (2007),http://dbpedia.org/resource/Italian_Socialist_Party_(2007),79.165
+http://dbpedia.org/resource/Green_Left_(Denmark),Green Left (Denmark),http://dbpedia.org/resource/Green_Left_(Denmark),79.14
+http://dbpedia.org/resource/National_Socialist_Workers'_Party_(Sweden),National Socialist Workers' Party (Sweden),http://dbpedia.org/resource/National_Socialist_Workers'_Party_(Sweden),79.135
+http://dbpedia.org/resource/Democratic_Party_of_Illinois,Democratic Party of Illinois,http://dbpedia.org/resource/Democratic_Party_of_Illinois,79.075
+http://dbpedia.org/resource/Concordia_Association,Concordia Association,http://dbpedia.org/resource/Concordia_Association,79.06
+http://dbpedia.org/resource/Democratic_Party_(Mongolia),Democratic Party (Mongolia),http://dbpedia.org/resource/Democratic_Party_(Mongolia),78.97500000000001
+http://dbpedia.org/resource/New_Centre-Right,New Centre-Right,http://dbpedia.org/resource/New_Centre-Right,78.88
+http://dbpedia.org/resource/Union_Nationale_(Quebec),Union Nationale (Quebec),http://dbpedia.org/resource/Union_Nationale_(Quebec),78.84
+http://dbpedia.org/resource/Civic_Choice,Civic Choice,http://dbpedia.org/resource/Civic_Choice,78.82
+http://dbpedia.org/resource/Democratic_Union_of_Catalonia,Democratic Union of Catalonia,http://dbpedia.org/resource/Democratic_Union_of_Catalonia,78.69
+http://dbpedia.org/resource/Communist_Party_of_Great_Britain_(Provisional_Central_Committee),Communist Party of Great Britain (Provisional Central Committee),http://dbpedia.org/resource/Communist_Party_of_Great_Britain_(Provisional_Central_Committee),78.63499999999999
+http://dbpedia.org/resource/Green_League,Green League,http://dbpedia.org/resource/Green_League,78.63
+http://dbpedia.org/resource/Volt_Europa,Volt Europa,http://dbpedia.org/resource/Volt_Europa,78.60000000000001
+http://dbpedia.org/resource/United_Christian_Democratic_Party,United Christian Democratic Party,http://dbpedia.org/resource/United_Christian_Democratic_Party,78.41999999999999
+http://dbpedia.org/resource/Idaho_Democratic_Party,Idaho Democratic Party,http://dbpedia.org/resource/Idaho_Democratic_Party,78.355
+http://dbpedia.org/resource/National_Fascist_Community,National Fascist Community,http://dbpedia.org/resource/National_Fascist_Community,78.305
+http://dbpedia.org/resource/Austrian_People's_Party,Austrian People's Party,http://dbpedia.org/resource/Austrian_People's_Party,78.28
+http://dbpedia.org/resource/New_Jersey_Democratic_State_Committee,New Jersey Democratic State Committee,http://dbpedia.org/resource/New_Jersey_Democratic_State_Committee,78.245
+http://dbpedia.org/resource/Servant_of_the_People,Servant of the People,http://dbpedia.org/resource/Servant_of_the_People,78.09500000000001
+http://dbpedia.org/resource/North_Dakota_Republican_Party,North Dakota Republican Party,http://dbpedia.org/resource/North_Dakota_Republican_Party,78.065
+http://dbpedia.org/resource/Bulgarian_Socialist_Party,Bulgarian Socialist Party,http://dbpedia.org/resource/Bulgarian_Socialist_Party,78.04500000000002
+http://dbpedia.org/resource/China_Democratic_Socialist_Party,China Democratic Socialist Party,http://dbpedia.org/resource/China_Democratic_Socialist_Party,78.025
+http://dbpedia.org/resource/Alberta_Liberal_Party,Alberta Liberal Party,http://dbpedia.org/resource/Alberta_Liberal_Party,77.995
+http://dbpedia.org/resource/Working_Families_Party,Working Families Party,http://dbpedia.org/resource/Working_Families_Party,77.91
+http://dbpedia.org/resource/Republican_Party_of_Texas,Republican Party of Texas,http://dbpedia.org/resource/Republican_Party_of_Texas,77.875
+http://dbpedia.org/resource/Republican_Party_of_New_Mexico,Republican Party of New Mexico,http://dbpedia.org/resource/Republican_Party_of_New_Mexico,77.745
+http://dbpedia.org/resource/Guatemalan_National_Revolutionary_Unity,Guatemalan National Revolutionary Unity,http://dbpedia.org/resource/Guatemalan_National_Revolutionary_Unity,77.64
+http://dbpedia.org/resource/Sammarinese_Fascist_Party,Sammarinese Fascist Party,http://dbpedia.org/resource/Sammarinese_Fascist_Party,77.6
+http://dbpedia.org/resource/Pro-democracy_camp_(Hong_Kong),Pro-democracy camp (Hong Kong),http://dbpedia.org/resource/Pro-democracy_camp_(Hong_Kong),77.505
+http://dbpedia.org/resource/Russian_Social_Democratic_Labour_Party,Russian Social Democratic Labour Party,http://dbpedia.org/resource/Russian_Social_Democratic_Labour_Party,77.38000000000001
+http://dbpedia.org/resource/Nevada_Republican_Party,Nevada Republican Party,http://dbpedia.org/resource/Nevada_Republican_Party,77.32
+http://dbpedia.org/resource/Sadducees,Sadducees,http://dbpedia.org/resource/Sadducees,77.29
+http://dbpedia.org/resource/Nippon_Kaigi,Nippon Kaigi,http://dbpedia.org/resource/Nippon_Kaigi,77.29
+http://dbpedia.org/resource/Fujimorism,Fujimorism,http://dbpedia.org/resource/Fujimorism,77.285
+http://dbpedia.org/resource/Movement_for_Rights_and_Freedoms,Movement for Rights and Freedoms,http://dbpedia.org/resource/Movement_for_Rights_and_Freedoms,77.215
+http://dbpedia.org/resource/Ghadar_Movement,Ghadar Movement,http://dbpedia.org/resource/Ghadar_Movement,77.21499999999999
+http://dbpedia.org/resource/Constitutional_Democratic_Party_of_Japan,Constitutional Democratic Party of Japan,http://dbpedia.org/resource/Constitutional_Democratic_Party_of_Japan,77.19999999999999
+http://dbpedia.org/resource/Pirate_Party_Germany,Pirate Party Germany,http://dbpedia.org/resource/Pirate_Party_Germany,77.155
+http://dbpedia.org/resource/Popular_Front_for_the_Liberation_of_Palestine,Popular Front for the Liberation of Palestine,http://dbpedia.org/resource/Popular_Front_for_the_Liberation_of_Palestine,77.145
+http://dbpedia.org/resource/Montana_Democratic_Party,Montana Democratic Party,http://dbpedia.org/resource/Montana_Democratic_Party,76.87
+http://dbpedia.org/resource/Hawaii_Republican_Party,Hawaii Republican Party,http://dbpedia.org/resource/Hawaii_Republican_Party,76.82
+http://dbpedia.org/resource/Left_Party_(Sweden),Left Party (Sweden),http://dbpedia.org/resource/Left_Party_(Sweden),76.795
+http://dbpedia.org/resource/Pennsylvania_Republican_Party,Pennsylvania Republican Party,http://dbpedia.org/resource/Pennsylvania_Republican_Party,76.655
+http://dbpedia.org/resource/Radicals_(UK),Radicals (UK),http://dbpedia.org/resource/Radicals_(UK),76.63499999999999
+http://dbpedia.org/resource/Democratic_Party_of_Guam,Democratic Party of Guam,http://dbpedia.org/resource/Democratic_Party_of_Guam,76.38
+http://dbpedia.org/resource/Christian_Democratic_Party_(Australia),Christian Democratic Party (Australia),http://dbpedia.org/resource/Christian_Democratic_Party_(Australia),76.365
+http://dbpedia.org/resource/Anti-Revolutionary_Party,Anti-Revolutionary Party,http://dbpedia.org/resource/Anti-Revolutionary_Party,76.345
+http://dbpedia.org/resource/National_Union_(Switzerland),National Union (Switzerland),http://dbpedia.org/resource/National_Union_(Switzerland),76.29
+http://dbpedia.org/resource/North_Carolina_Democratic_Party,North Carolina Democratic Party,http://dbpedia.org/resource/North_Carolina_Democratic_Party,76.265
+http://dbpedia.org/resource/Nevada_Democratic_Party,Nevada Democratic Party,http://dbpedia.org/resource/Nevada_Democratic_Party,76.235
+http://dbpedia.org/resource/Reform_Party_of_Canada,Reform Party of Canada,http://dbpedia.org/resource/Reform_Party_of_Canada,76.23
+http://dbpedia.org/resource/Goa_Pradesh_Congress_Committee,Goa Pradesh Congress Committee,http://dbpedia.org/resource/Goa_Pradesh_Congress_Committee,76.22
+http://dbpedia.org/resource/Democratic_Party_of_Hawaii,Democratic Party of Hawaii,http://dbpedia.org/resource/Democratic_Party_of_Hawaii,76.14000000000001
+http://dbpedia.org/resource/Tsagaan_Khas,Tsagaan Khas,http://dbpedia.org/resource/Tsagaan_Khas,76.14
+http://dbpedia.org/resource/Democratic_Party_of_Wisconsin,Democratic Party of Wisconsin,http://dbpedia.org/resource/Democratic_Party_of_Wisconsin,76.105
+http://dbpedia.org/resource/Federal_Peronism,Federal Peronism,http://dbpedia.org/resource/Federal_Peronism,76.08500000000001
+http://dbpedia.org/resource/Hizb_ut-Tahrir_in_Central_Asia,Hizb ut-Tahrir in Central Asia,http://dbpedia.org/resource/Hizb_ut-Tahrir_in_Central_Asia,75.97500000000001
+http://dbpedia.org/resource/KDU-ČSL,KDU-ČSL,http://dbpedia.org/resource/KDU-ČSL,75.90500000000002
+http://dbpedia.org/resource/Libertarian_Party_of_Virginia,Libertarian Party of Virginia,http://dbpedia.org/resource/Libertarian_Party_of_Virginia,75.87
+http://dbpedia.org/resource/Vlajka,Vlajka,http://dbpedia.org/resource/Vlajka,75.86
+http://dbpedia.org/resource/Christian_Historical_Union,Christian Historical Union,http://dbpedia.org/resource/Christian_Historical_Union,75.84
+http://dbpedia.org/resource/Alberta_New_Democratic_Party,Alberta New Democratic Party,http://dbpedia.org/resource/Alberta_New_Democratic_Party,75.78999999999999
+http://dbpedia.org/resource/Christian_Democratic_Party_(Norway),Christian Democratic Party (Norway),http://dbpedia.org/resource/Christian_Democratic_Party_(Norway),75.64
+http://dbpedia.org/resource/Union_of_the_Centre_(2002),Union of the Centre (2002),http://dbpedia.org/resource/Union_of_the_Centre_(2002),75.495
+http://dbpedia.org/resource/Union_of_Bulgarian_National_Legions,Union of Bulgarian National Legions,http://dbpedia.org/resource/Union_of_Bulgarian_National_Legions,75.475
+http://dbpedia.org/resource/Republican_Proposal,Republican Proposal,http://dbpedia.org/resource/Republican_Proposal,75.39500000000001
+http://dbpedia.org/resource/American_Freedom_Party,American Freedom Party,http://dbpedia.org/resource/American_Freedom_Party,75.36999999999999
+http://dbpedia.org/resource/Diggers,Diggers,http://dbpedia.org/resource/Diggers,75.2
+http://dbpedia.org/resource/Kurdish_Future_Movement_in_Syria,Kurdish Future Movement in Syria,http://dbpedia.org/resource/Kurdish_Future_Movement_in_Syria,75.185
+http://dbpedia.org/resource/Singapore_Democratic_Party,Singapore Democratic Party,http://dbpedia.org/resource/Singapore_Democratic_Party,75.13999999999999
+http://dbpedia.org/resource/Democrat_Party_(Thailand),Democrat Party (Thailand),http://dbpedia.org/resource/Democrat_Party_(Thailand),75.135
+http://dbpedia.org/resource/Alabama_Republican_Party,Alabama Republican Party,http://dbpedia.org/resource/Alabama_Republican_Party,75.095
+http://dbpedia.org/resource/Chhattisgarh_Pradesh_Congress_Committee,Chhattisgarh Pradesh Congress Committee,http://dbpedia.org/resource/Chhattisgarh_Pradesh_Congress_Committee,75.02
+http://dbpedia.org/resource/Alabama_Democratic_Party,Alabama Democratic Party,http://dbpedia.org/resource/Alabama_Democratic_Party,74.995
+http://dbpedia.org/resource/Việt_Nam_Quốc_Dân_Đảng,Việt Nam Quốc Dân Đảng,http://dbpedia.org/resource/Việt_Nam_Quốc_Dân_Đảng,74.86
+http://dbpedia.org/resource/Islamic_Salvation_Front,Islamic Salvation Front,http://dbpedia.org/resource/Islamic_Salvation_Front,74.84
+http://dbpedia.org/resource/Solidarity_(United_States),Solidarity (United States),http://dbpedia.org/resource/Solidarity_(United_States),74.78
+http://dbpedia.org/resource/Ohio_Republican_Party,Ohio Republican Party,http://dbpedia.org/resource/Ohio_Republican_Party,74.74499999999999
+http://dbpedia.org/resource/National_Socialist_Front,National Socialist Front,http://dbpedia.org/resource/National_Socialist_Front,74.73
+http://dbpedia.org/resource/Italian_Liberal_Party,Italian Liberal Party,http://dbpedia.org/resource/Italian_Liberal_Party,74.645
+http://dbpedia.org/resource/Scottish_Conservatives,Scottish Conservatives,http://dbpedia.org/resource/Scottish_Conservatives,74.625
+http://dbpedia.org/resource/Liberal_Party_of_Gibraltar,Liberal Party of Gibraltar,http://dbpedia.org/resource/Liberal_Party_of_Gibraltar,74.605
+http://dbpedia.org/resource/Malaysian_Indian_Congress,Malaysian Indian Congress,http://dbpedia.org/resource/Malaysian_Indian_Congress,74.555
+http://dbpedia.org/resource/Parti_Pesaka_Bumiputera_Bersatu,Parti Pesaka Bumiputera Bersatu,http://dbpedia.org/resource/Parti_Pesaka_Bumiputera_Bersatu,74.415
+http://dbpedia.org/resource/Communist_Party_of_Cuba,Communist Party of Cuba,http://dbpedia.org/resource/Communist_Party_of_Cuba,74.395
+http://dbpedia.org/resource/Republican_Party_of_Virginia,Republican Party of Virginia,http://dbpedia.org/resource/Republican_Party_of_Virginia,74.35000000000001
+http://dbpedia.org/resource/Radical_Party_(France),Radical Party (France),http://dbpedia.org/resource/Radical_Party_(France),74.335
+http://dbpedia.org/resource/Polish_People's_Party,Polish People's Party,http://dbpedia.org/resource/Polish_People's_Party,74.29
+http://dbpedia.org/resource/English_Democrats,English Democrats,http://dbpedia.org/resource/English_Democrats,74.2
+http://dbpedia.org/resource/New_Right_(Denmark),New Right (Denmark),http://dbpedia.org/resource/New_Right_(Denmark),74.18
+http://dbpedia.org/resource/Vlaams_Belang,Vlaams Belang,http://dbpedia.org/resource/Vlaams_Belang,74.17999999999999
+http://dbpedia.org/resource/American_Popular_Revolutionary_Alliance,American Popular Revolutionary Alliance,http://dbpedia.org/resource/American_Popular_Revolutionary_Alliance,74.13999999999999
+http://dbpedia.org/resource/Workers_and_Socialist_Party,Workers and Socialist Party,http://dbpedia.org/resource/Workers_and_Socialist_Party,74.055
+http://dbpedia.org/resource/New_Conservative_Party_(New_Zealand),New Conservative Party (New Zealand),http://dbpedia.org/resource/New_Conservative_Party_(New_Zealand),74.03000000000002
+http://dbpedia.org/resource/Vetëvendosje,Vetëvendosje,http://dbpedia.org/resource/Vetëvendosje,73.91000000000001
+http://dbpedia.org/resource/Homeland_Union,Homeland Union,http://dbpedia.org/resource/Homeland_Union,73.88000000000001
+http://dbpedia.org/resource/New_Flemish_Alliance,New Flemish Alliance,http://dbpedia.org/resource/New_Flemish_Alliance,73.74
+http://dbpedia.org/resource/Puerto_Rican_Independence_Party,Puerto Rican Independence Party,http://dbpedia.org/resource/Puerto_Rican_Independence_Party,73.38
+http://dbpedia.org/resource/Union_Movement,Union Movement,http://dbpedia.org/resource/Union_Movement,73.325
+http://dbpedia.org/resource/FUNCINPEC,FUNCINPEC,http://dbpedia.org/resource/FUNCINPEC,73.22500000000001
+http://dbpedia.org/resource/New_National_Party_(South_Africa),New National Party (South Africa),http://dbpedia.org/resource/New_National_Party_(South_Africa),73.195
+http://dbpedia.org/resource/Assam_Pradesh_Congress_Committee,Assam Pradesh Congress Committee,http://dbpedia.org/resource/Assam_Pradesh_Congress_Committee,73.18499999999999
+http://dbpedia.org/resource/Bloc_Québécois,Bloc Québécois,http://dbpedia.org/resource/Bloc_Québécois,73.05499999999999
+http://dbpedia.org/resource/People's_Movement_Party,People's Movement Party,http://dbpedia.org/resource/People's_Movement_Party,73.05499999999999
+http://dbpedia.org/resource/Utah_Republican_Party,Utah Republican Party,http://dbpedia.org/resource/Utah_Republican_Party,73.05
+http://dbpedia.org/resource/Rocky_De_La_Fuente_2016_presidential_campaign,Rocky De La Fuente 2016 presidential campaign,http://dbpedia.org/resource/Rocky_De_La_Fuente_2016_presidential_campaign,72.945
+http://dbpedia.org/resource/Komeito,Komeito,http://dbpedia.org/resource/Komeito,72.865
+http://dbpedia.org/resource/Ratniks,Ratniks,http://dbpedia.org/resource/Ratniks,72.83000000000001
+http://dbpedia.org/resource/Meghalaya_Pradesh_Congress_Committee,Meghalaya Pradesh Congress Committee,http://dbpedia.org/resource/Meghalaya_Pradesh_Congress_Committee,72.8
+http://dbpedia.org/resource/Silesians_Together,Silesians Together,http://dbpedia.org/resource/Silesians_Together,72.695
+http://dbpedia.org/resource/People_Before_Profit,People Before Profit,http://dbpedia.org/resource/People_Before_Profit,72.67
+http://dbpedia.org/resource/Revolutionary_Socialist_League_(U.S.),Revolutionary Socialist League (U.S.),http://dbpedia.org/resource/Revolutionary_Socialist_League_(U.S.),72.58000000000001
+http://dbpedia.org/resource/Manipur_Pradesh_Congress_Committee,Manipur Pradesh Congress Committee,http://dbpedia.org/resource/Manipur_Pradesh_Congress_Committee,72.545
+http://dbpedia.org/resource/Freedom_Socialist_Party,Freedom Socialist Party,http://dbpedia.org/resource/Freedom_Socialist_Party,72.46000000000001
+http://dbpedia.org/resource/CDS_–_People's_Party,CDS – People's Party,http://dbpedia.org/resource/CDS_–_People's_Party,72.39
+http://dbpedia.org/resource/Illinois_Republican_Party,Illinois Republican Party,http://dbpedia.org/resource/Illinois_Republican_Party,72.39
+http://dbpedia.org/resource/More_Europe,More Europe,http://dbpedia.org/resource/More_Europe,72.295
+http://dbpedia.org/resource/Syrian_Revolutionary_Left_Current,Syrian Revolutionary Left Current,http://dbpedia.org/resource/Syrian_Revolutionary_Left_Current,72.12
+http://dbpedia.org/resource/Ghad_El-Thawra_Party,Ghad El-Thawra Party,http://dbpedia.org/resource/Ghad_El-Thawra_Party,72.05
+http://dbpedia.org/resource/Republican_Liberty_Caucus,Republican Liberty Caucus,http://dbpedia.org/resource/Republican_Liberty_Caucus,72.045
+http://dbpedia.org/resource/National_Unity_Party_(Philippines),National Unity Party (Philippines),http://dbpedia.org/resource/National_Unity_Party_(Philippines),72.01
+http://dbpedia.org/resource/National_Revival_of_Poland,National Revival of Poland,http://dbpedia.org/resource/National_Revival_of_Poland,71.935
+http://dbpedia.org/resource/National_Agrarian_Party,National Agrarian Party,http://dbpedia.org/resource/National_Agrarian_Party,71.92999999999999
+"http://dbpedia.org/resource/Bolshevik–Leninist_Party_of_India,_Ceylon_and_Burma","Bolshevik–Leninist Party of India, Ceylon and Burma","http://dbpedia.org/resource/Bolshevik–Leninist_Party_of_India,_Ceylon_and_Burma",71.915
+http://dbpedia.org/resource/National_Socialist_Bulgarian_Workers_Party,National Socialist Bulgarian Workers Party,http://dbpedia.org/resource/National_Socialist_Bulgarian_Workers_Party,71.9
+http://dbpedia.org/resource/Nagaland_Pradesh_Congress_Committee,Nagaland Pradesh Congress Committee,http://dbpedia.org/resource/Nagaland_Pradesh_Congress_Committee,71.865
+http://dbpedia.org/resource/Arunachal_Pradesh_Congress_Committee,Arunachal Pradesh Congress Committee,http://dbpedia.org/resource/Arunachal_Pradesh_Congress_Committee,71.84
+http://dbpedia.org/resource/Shining_Path,Shining Path,http://dbpedia.org/resource/Shining_Path,71.77
+http://dbpedia.org/resource/All-Russia_People's_Front,All-Russia People's Front,http://dbpedia.org/resource/All-Russia_People's_Front,71.72500000000001
+http://dbpedia.org/resource/Liberal_Democratic_Party_(Australia),Liberal Democratic Party (Australia),http://dbpedia.org/resource/Liberal_Democratic_Party_(Australia),71.56
+http://dbpedia.org/resource/Reformist_Movement,Reformist Movement,http://dbpedia.org/resource/Reformist_Movement,71.5
+http://dbpedia.org/resource/Puducherry_Pradesh_Congress_Committee,Puducherry Pradesh Congress Committee,http://dbpedia.org/resource/Puducherry_Pradesh_Congress_Committee,71.46000000000001
+http://dbpedia.org/resource/Pro-Beijing_camp_(Hong_Kong),Pro-Beijing camp (Hong Kong),http://dbpedia.org/resource/Pro-Beijing_camp_(Hong_Kong),71.45
+http://dbpedia.org/resource/Utah_Democratic_Party,Utah Democratic Party,http://dbpedia.org/resource/Utah_Democratic_Party,71.365
+http://dbpedia.org/resource/Liberal_Alliance_(Denmark),Liberal Alliance (Denmark),http://dbpedia.org/resource/Liberal_Alliance_(Denmark),71.33500000000001
+http://dbpedia.org/resource/National_Governors_Association,National Governors Association,http://dbpedia.org/resource/National_Governors_Association,71.18499999999999
+http://dbpedia.org/resource/Labour_Party_(Malta),Labour Party (Malta),http://dbpedia.org/resource/Labour_Party_(Malta),70.98
+http://dbpedia.org/resource/Feuillant_(political_group),Feuillant (political group),http://dbpedia.org/resource/Feuillant_(political_group),70.92999999999999
+http://dbpedia.org/resource/Vooruit_(political_party),Vooruit (political party),http://dbpedia.org/resource/Vooruit_(political_party),70.92999999999999
+http://dbpedia.org/resource/Colombian_Conservative_Party,Colombian Conservative Party,http://dbpedia.org/resource/Colombian_Conservative_Party,70.81
+http://dbpedia.org/resource/Republican_Party_of_Florida,Republican Party of Florida,http://dbpedia.org/resource/Republican_Party_of_Florida,70.78
+http://dbpedia.org/resource/Chandigarh_Territorial_Congress_Committee,Chandigarh Territorial Congress Committee,http://dbpedia.org/resource/Chandigarh_Territorial_Congress_Committee,70.67999999999999
+http://dbpedia.org/resource/Propel_(political_party),Propel (political party),http://dbpedia.org/resource/Propel_(political_party),70.675
+http://dbpedia.org/resource/Rhinoceros_Party,Rhinoceros Party,http://dbpedia.org/resource/Rhinoceros_Party,70.615
+"http://dbpedia.org/resource/National_Socialist_Movement_(UK,_1962)","National Socialist Movement (UK, 1962)","http://dbpedia.org/resource/National_Socialist_Movement_(UK,_1962)",70.43499999999999
+http://dbpedia.org/resource/London_Liberal_Democrats,London Liberal Democrats,http://dbpedia.org/resource/London_Liberal_Democrats,70.42
+http://dbpedia.org/resource/Conservative–DUP_agreement,Conservative–DUP agreement,http://dbpedia.org/resource/Conservative–DUP_agreement,70.395
+http://dbpedia.org/resource/Trentino_Tyrolean_Autonomist_Party,Trentino Tyrolean Autonomist Party,http://dbpedia.org/resource/Trentino_Tyrolean_Autonomist_Party,70.375
+http://dbpedia.org/resource/Navalny_Headquarters,Navalny Headquarters,http://dbpedia.org/resource/Navalny_Headquarters,70.285
+http://dbpedia.org/resource/Irish_Republican_Socialist_Party,Irish Republican Socialist Party,http://dbpedia.org/resource/Irish_Republican_Socialist_Party,70.155
+http://dbpedia.org/resource/Unidas_Podemos,Unidas Podemos,http://dbpedia.org/resource/Unidas_Podemos,70.145
+http://dbpedia.org/resource/League_Against_Usury,League Against Usury,http://dbpedia.org/resource/League_Against_Usury,70.13000000000001
+http://dbpedia.org/resource/Conservative_People's_Party_(Denmark),Conservative People's Party (Denmark),http://dbpedia.org/resource/Conservative_People's_Party_(Denmark),70.11
+http://dbpedia.org/resource/White_Aryan_Resistance,White Aryan Resistance,http://dbpedia.org/resource/White_Aryan_Resistance,70.105
+http://dbpedia.org/resource/Socialist_Alternative_(United_States),Socialist Alternative (United States),http://dbpedia.org/resource/Socialist_Alternative_(United_States),70.025
+http://dbpedia.org/resource/Yellow_Vest_Australia,Yellow Vest Australia,http://dbpedia.org/resource/Yellow_Vest_Australia,69.965
+http://dbpedia.org/resource/Jamiat_Ulema-e-Islam_(F),Jamiat Ulema-e-Islam (F),http://dbpedia.org/resource/Jamiat_Ulema-e-Islam_(F),69.935
+http://dbpedia.org/resource/Pirate_Party_(Sweden),Pirate Party (Sweden),http://dbpedia.org/resource/Pirate_Party_(Sweden),69.92
+http://dbpedia.org/resource/Russian_Communist_Workers'_Party_of_the_Communist_Party_of_the_Soviet_Union,Russian Communist Workers' Party of the Communist Party of the Soviet Union,http://dbpedia.org/resource/Russian_Communist_Workers'_Party_of_the_Communist_Party_of_the_Soviet_Union,69.92
+http://dbpedia.org/resource/Italy_of_Values,Italy of Values,http://dbpedia.org/resource/Italy_of_Values,69.92
+http://dbpedia.org/resource/Liberal_Party_of_Australia_(Victorian_Division),Liberal Party of Australia (Victorian Division),http://dbpedia.org/resource/Liberal_Party_of_Australia_(Victorian_Division),69.9
+http://dbpedia.org/resource/Green_Party_(Czech_Republic),Green Party (Czech Republic),http://dbpedia.org/resource/Green_Party_(Czech_Republic),69.87
+http://dbpedia.org/resource/Socialist_Unity_Party_of_Germany,Socialist Unity Party of Germany,http://dbpedia.org/resource/Socialist_Unity_Party_of_Germany,69.86
+http://dbpedia.org/resource/Muttahida_Majlis-e-Amal,Muttahida Majlis-e-Amal,http://dbpedia.org/resource/Muttahida_Majlis-e-Amal,69.78
+http://dbpedia.org/resource/People's_Democratic_Party_of_Afghanistan,People's Democratic Party of Afghanistan,http://dbpedia.org/resource/People's_Democratic_Party_of_Afghanistan,69.73
+http://dbpedia.org/resource/Change_UK,Change UK,http://dbpedia.org/resource/Change_UK,69.625
+http://dbpedia.org/resource/New_York_Republican_State_Committee,New York Republican State Committee,http://dbpedia.org/resource/New_York_Republican_State_Committee,69.53
+http://dbpedia.org/resource/Otzma_Yehudit,Otzma Yehudit,http://dbpedia.org/resource/Otzma_Yehudit,69.47
+http://dbpedia.org/resource/More_United,More United,http://dbpedia.org/resource/More_United,69.43
+http://dbpedia.org/resource/Workers_World_Party,Workers World Party,http://dbpedia.org/resource/Workers_World_Party,69.37
+http://dbpedia.org/resource/Reform_Party_(New_Zealand),Reform Party (New Zealand),http://dbpedia.org/resource/Reform_Party_(New_Zealand),69.26
+http://dbpedia.org/resource/Jamiat_Ulema-e-Pakistan,Jamiat Ulema-e-Pakistan,http://dbpedia.org/resource/Jamiat_Ulema-e-Pakistan,69.175
+http://dbpedia.org/resource/Daman_and_Diu_Territorial_Congress_Committee,Daman and Diu Territorial Congress Committee,http://dbpedia.org/resource/Daman_and_Diu_Territorial_Congress_Committee,69.155
+http://dbpedia.org/resource/Irish_Parliamentary_Party,Irish Parliamentary Party,http://dbpedia.org/resource/Irish_Parliamentary_Party,69.135
+http://dbpedia.org/resource/Anarchist_Federation_(Britain),Anarchist Federation (Britain),http://dbpedia.org/resource/Anarchist_Federation_(Britain),69.11999999999999
+http://dbpedia.org/resource/Michigan_Democratic_Party,Michigan Democratic Party,http://dbpedia.org/resource/Michigan_Democratic_Party,69.045
+http://dbpedia.org/resource/Copperhead_(politics),Copperhead (politics),http://dbpedia.org/resource/Copperhead_(politics),68.88
+http://dbpedia.org/resource/New_Brunswick_Liberal_Association,New Brunswick Liberal Association,http://dbpedia.org/resource/New_Brunswick_Liberal_Association,68.84
+http://dbpedia.org/resource/Ecolo,Ecolo,http://dbpedia.org/resource/Ecolo,68.825
+http://dbpedia.org/resource/TOP_09,TOP 09,http://dbpedia.org/resource/TOP_09,68.76499999999999
+http://dbpedia.org/resource/Moderates_(Liberal_Party_of_Australia),Moderates (Liberal Party of Australia),http://dbpedia.org/resource/Moderates_(Liberal_Party_of_Australia),68.755
+http://dbpedia.org/resource/Democratic_Party_of_Georgia,Democratic Party of Georgia,http://dbpedia.org/resource/Democratic_Party_of_Georgia,68.72000000000001
+http://dbpedia.org/resource/Popular_Unity_(Brazil),Popular Unity (Brazil),http://dbpedia.org/resource/Popular_Unity_(Brazil),68.69
+http://dbpedia.org/resource/Dadra_and_Nagar_Haveli_Territorial_Congress_Committee,Dadra and Nagar Haveli Territorial Congress Committee,http://dbpedia.org/resource/Dadra_and_Nagar_Haveli_Territorial_Congress_Committee,68.585
+http://dbpedia.org/resource/Co-operative_Commonwealth_Federation,Co-operative Commonwealth Federation,http://dbpedia.org/resource/Co-operative_Commonwealth_Federation,68.55499999999999
+http://dbpedia.org/resource/Maryland_Democratic_Party,Maryland Democratic Party,http://dbpedia.org/resource/Maryland_Democratic_Party,68.5
+http://dbpedia.org/resource/Liberals'_Movement_(Lithuania),Liberals' Movement (Lithuania),http://dbpedia.org/resource/Liberals'_Movement_(Lithuania),68.495
+http://dbpedia.org/resource/United_Conservative_Party,United Conservative Party,http://dbpedia.org/resource/United_Conservative_Party,68.465
+http://dbpedia.org/resource/Christian_Democratic_and_Flemish,Christian Democratic and Flemish,http://dbpedia.org/resource/Christian_Democratic_and_Flemish,68.41000000000001
+http://dbpedia.org/resource/Socialist_Party_of_Albania,Socialist Party of Albania,http://dbpedia.org/resource/Socialist_Party_of_Albania,68.36
+http://dbpedia.org/resource/United_National_Movement_(Georgia),United National Movement (Georgia),http://dbpedia.org/resource/United_National_Movement_(Georgia),68.315
+http://dbpedia.org/resource/Polish_United_Workers'_Party,Polish United Workers' Party,http://dbpedia.org/resource/Polish_United_Workers'_Party,68.30499999999999
+http://dbpedia.org/resource/National_Renaissance_Front,National Renaissance Front,http://dbpedia.org/resource/National_Renaissance_Front,68.285
+"http://dbpedia.org/resource/Revolutionary_Communist_Party,_USA","Revolutionary Communist Party, USA","http://dbpedia.org/resource/Revolutionary_Communist_Party,_USA",68.205
+http://dbpedia.org/resource/PASOK_–_Movement_for_Change,PASOK – Movement for Change,http://dbpedia.org/resource/PASOK_–_Movement_for_Change,68.02000000000001
+http://dbpedia.org/resource/League_of_Polish_Families,League of Polish Families,http://dbpedia.org/resource/League_of_Polish_Families,67.995
+http://dbpedia.org/resource/Future_and_Freedom,Future and Freedom,http://dbpedia.org/resource/Future_and_Freedom,67.97000000000001
+http://dbpedia.org/resource/United_National_Congress,United National Congress,http://dbpedia.org/resource/United_National_Congress,67.965
+http://dbpedia.org/resource/New_Democrat_Coalition,New Democrat Coalition,http://dbpedia.org/resource/New_Democrat_Coalition,67.91000000000001
+http://dbpedia.org/resource/Party_of_Democratic_Action,Party of Democratic Action,http://dbpedia.org/resource/Party_of_Democratic_Action,67.86999999999999
+http://dbpedia.org/resource/Andaman_and_Nicobar_Territorial_Congress_Committee,Andaman and Nicobar Territorial Congress Committee,http://dbpedia.org/resource/Andaman_and_Nicobar_Territorial_Congress_Committee,67.84
+http://dbpedia.org/resource/Shas,Shas,http://dbpedia.org/resource/Shas,67.76
+http://dbpedia.org/resource/ANO_2011,ANO 2011,http://dbpedia.org/resource/ANO_2011,67.72
+http://dbpedia.org/resource/Democratic_Party_of_Virginia,Democratic Party of Virginia,http://dbpedia.org/resource/Democratic_Party_of_Virginia,67.7
+http://dbpedia.org/resource/Black_Panthers_(Israel),Black Panthers (Israel),http://dbpedia.org/resource/Black_Panthers_(Israel),67.69
+http://dbpedia.org/resource/Wyoming_Republican_Party,Wyoming Republican Party,http://dbpedia.org/resource/Wyoming_Republican_Party,67.67
+http://dbpedia.org/resource/Libertarian_Party_of_New_Mexico,Libertarian Party of New Mexico,http://dbpedia.org/resource/Libertarian_Party_of_New_Mexico,67.59
+http://dbpedia.org/resource/Socialist_Reich_Party,Socialist Reich Party,http://dbpedia.org/resource/Socialist_Reich_Party,67.57
+http://dbpedia.org/resource/Women's_Equality_Party,Women's Equality Party,http://dbpedia.org/resource/Women's_Equality_Party,67.545
+http://dbpedia.org/resource/Gabungan_Parti_Sarawak,Gabungan Parti Sarawak,http://dbpedia.org/resource/Gabungan_Parti_Sarawak,67.545
+http://dbpedia.org/resource/Polish_Workers'_Party,Polish Workers' Party,http://dbpedia.org/resource/Polish_Workers'_Party,67.545
+http://dbpedia.org/resource/Referendum_Party,Referendum Party,http://dbpedia.org/resource/Referendum_Party,67.54
+http://dbpedia.org/resource/Bangladesh_Jamaat-e-Islami,Bangladesh Jamaat-e-Islami,http://dbpedia.org/resource/Bangladesh_Jamaat-e-Islami,67.52000000000001
+http://dbpedia.org/resource/Reform_Party_of_the_United_States_of_America,Reform Party of the United States of America,http://dbpedia.org/resource/Reform_Party_of_the_United_States_of_America,67.50999999999999
+http://dbpedia.org/resource/Gibraltar_Conservatives,Gibraltar Conservatives,http://dbpedia.org/resource/Gibraltar_Conservatives,67.365
+http://dbpedia.org/resource/Communist_Party_of_Scotland,Communist Party of Scotland,http://dbpedia.org/resource/Communist_Party_of_Scotland,67.365
+http://dbpedia.org/resource/People's_Party_of_Canada,People's Party of Canada,http://dbpedia.org/resource/People's_Party_of_Canada,67.26
+http://dbpedia.org/resource/Radical_Democracy_Party_(United_States),Radical Democracy Party (United States),http://dbpedia.org/resource/Radical_Democracy_Party_(United_States),67.25
+"http://dbpedia.org/resource/Liberal_Party_(UK,_1989)","Liberal Party (UK, 1989)","http://dbpedia.org/resource/Liberal_Party_(UK,_1989)",67.21
+http://dbpedia.org/resource/Hindustani_Awam_Morcha,Hindustani Awam Morcha,http://dbpedia.org/resource/Hindustani_Awam_Morcha,67.20500000000001
+http://dbpedia.org/resource/Congressional_Asian_Pacific_American_Caucus,Congressional Asian Pacific American Caucus,http://dbpedia.org/resource/Congressional_Asian_Pacific_American_Caucus,67.185
+http://dbpedia.org/resource/Wildrose_Party,Wildrose Party,http://dbpedia.org/resource/Wildrose_Party,67.175
+http://dbpedia.org/resource/National_Trust_Party_(Malaysia),National Trust Party (Malaysia),http://dbpedia.org/resource/National_Trust_Party_(Malaysia),67.115
+http://dbpedia.org/resource/Hungarian_Socialist_Party,Hungarian Socialist Party,http://dbpedia.org/resource/Hungarian_Socialist_Party,67.09
+http://dbpedia.org/resource/South_Carolina_Republican_Party,South Carolina Republican Party,http://dbpedia.org/resource/South_Carolina_Republican_Party,66.985
+http://dbpedia.org/resource/Europe_Ecology_–_The_Greens,Europe Ecology – The Greens,http://dbpedia.org/resource/Europe_Ecology_–_The_Greens,66.975
+http://dbpedia.org/resource/European_Solidarity,European Solidarity,http://dbpedia.org/resource/European_Solidarity,66.83
+http://dbpedia.org/resource/Human_Environment_Animal_Protection,Human Environment Animal Protection,http://dbpedia.org/resource/Human_Environment_Animal_Protection,66.74
+http://dbpedia.org/resource/Kataeb_Party,Kataeb Party,http://dbpedia.org/resource/Kataeb_Party,66.695
+http://dbpedia.org/resource/One_Nation_Conservatives_(caucus),One Nation Conservatives (caucus),http://dbpedia.org/resource/One_Nation_Conservatives_(caucus),66.695
+http://dbpedia.org/resource/Lakas–CMD,Lakas–CMD,http://dbpedia.org/resource/Lakas–CMD,66.69
+"http://dbpedia.org/resource/Shooters,_Fishers_and_Farmers_Party","Shooters, Fishers and Farmers Party","http://dbpedia.org/resource/Shooters,_Fishers_and_Farmers_Party",66.62
+http://dbpedia.org/resource/Lakshadweep_Territorial_Congress_Committee,Lakshadweep Territorial Congress Committee,http://dbpedia.org/resource/Lakshadweep_Territorial_Congress_Committee,66.595
+http://dbpedia.org/resource/People_Animals_Nature,People Animals Nature,http://dbpedia.org/resource/People_Animals_Nature,66.58000000000001
+http://dbpedia.org/resource/North_Carolina_Republican_Party,North Carolina Republican Party,http://dbpedia.org/resource/North_Carolina_Republican_Party,66.54
+http://dbpedia.org/resource/Movement_for_Justice_and_Development_in_Syria,Movement for Justice and Development in Syria,http://dbpedia.org/resource/Movement_for_Justice_and_Development_in_Syria,66.47
+http://dbpedia.org/resource/Lang_Labor,Lang Labor,http://dbpedia.org/resource/Lang_Labor,66.445
+http://dbpedia.org/resource/Polisario_Front,Polisario Front,http://dbpedia.org/resource/Polisario_Front,66.405
+http://dbpedia.org/resource/National_Socialist_Party_of_America,National Socialist Party of America,http://dbpedia.org/resource/National_Socialist_Party_of_America,66.27
+http://dbpedia.org/resource/Partido_Komunista_ng_Pilipinas-1930,Partido Komunista ng Pilipinas-1930,http://dbpedia.org/resource/Partido_Komunista_ng_Pilipinas-1930,66.235
+http://dbpedia.org/resource/United_Sabah_Party,United Sabah Party,http://dbpedia.org/resource/United_Sabah_Party,66.15
+http://dbpedia.org/resource/Conservative_coalition,Conservative coalition,http://dbpedia.org/resource/Conservative_coalition,66.12999999999998
+http://dbpedia.org/resource/Ohio_Democratic_Party,Ohio Democratic Party,http://dbpedia.org/resource/Ohio_Democratic_Party,66.11
+http://dbpedia.org/resource/Republican_Party_of_Puerto_Rico,Republican Party of Puerto Rico,http://dbpedia.org/resource/Republican_Party_of_Puerto_Rico,65.905
+http://dbpedia.org/resource/Istrian_Democratic_Assembly,Istrian Democratic Assembly,http://dbpedia.org/resource/Istrian_Democratic_Assembly,65.845
+http://dbpedia.org/resource/Tennessee_Republican_Party,Tennessee Republican Party,http://dbpedia.org/resource/Tennessee_Republican_Party,65.74499999999999
+http://dbpedia.org/resource/Opposition_Bloc,Opposition Bloc,http://dbpedia.org/resource/Opposition_Bloc,65.62
+http://dbpedia.org/resource/Liberal_Initiative,Liberal Initiative,http://dbpedia.org/resource/Liberal_Initiative,65.61
+http://dbpedia.org/resource/Vermont_Democratic_Party,Vermont Democratic Party,http://dbpedia.org/resource/Vermont_Democratic_Party,65.53
+http://dbpedia.org/resource/Social_Democrat_Hunchakian_Party,Social Democrat Hunchakian Party,http://dbpedia.org/resource/Social_Democrat_Hunchakian_Party,65.48
+http://dbpedia.org/resource/Raza_Unida_Party,Raza Unida Party,http://dbpedia.org/resource/Raza_Unida_Party,65.425
+http://dbpedia.org/resource/European_Free_Alliance,European Free Alliance,http://dbpedia.org/resource/European_Free_Alliance,65.41
+http://dbpedia.org/resource/Indiana_Democratic_Party,Indiana Democratic Party,http://dbpedia.org/resource/Indiana_Democratic_Party,65.295
+http://dbpedia.org/resource/French_Section_of_the_Workers'_International,French Section of the Workers' International,http://dbpedia.org/resource/French_Section_of_the_Workers'_International,65.265
+http://dbpedia.org/resource/Eelam_People's_Revolutionary_Liberation_Front,Eelam People's Revolutionary Liberation Front,http://dbpedia.org/resource/Eelam_People's_Revolutionary_Liberation_Front,65.265
+http://dbpedia.org/resource/Bessarabian_Peasants'_Party,Bessarabian Peasants' Party,http://dbpedia.org/resource/Bessarabian_Peasants'_Party,65.17
+http://dbpedia.org/resource/Minority_Front,Minority Front,http://dbpedia.org/resource/Minority_Front,65.10000000000001
+http://dbpedia.org/resource/Left_Unity_(UK),Left Unity (UK),http://dbpedia.org/resource/Left_Unity_(UK),65.08000000000001
+http://dbpedia.org/resource/United_Australia_Party_(2013),United Australia Party (2013),http://dbpedia.org/resource/United_Australia_Party_(2013),65.075
+http://dbpedia.org/resource/United_States_Pirate_Party,United States Pirate Party,http://dbpedia.org/resource/United_States_Pirate_Party,65.00999999999999
+http://dbpedia.org/resource/Green_Party_Northern_Ireland,Green Party Northern Ireland,http://dbpedia.org/resource/Green_Party_Northern_Ireland,64.99
+http://dbpedia.org/resource/Córas_na_Poblachta,Córas na Poblachta,http://dbpedia.org/resource/Córas_na_Poblachta,64.98
+http://dbpedia.org/resource/Manitoba_Liberal_Party,Manitoba Liberal Party,http://dbpedia.org/resource/Manitoba_Liberal_Party,64.96
+http://dbpedia.org/resource/Pennsylvania_Democratic_Party,Pennsylvania Democratic Party,http://dbpedia.org/resource/Pennsylvania_Democratic_Party,64.89500000000001
+http://dbpedia.org/resource/Social_Democratic_League,Social Democratic League,http://dbpedia.org/resource/Social_Democratic_League,64.80499999999999
+http://dbpedia.org/resource/Communist_Party_of_Germany_(1990),Communist Party of Germany (1990),http://dbpedia.org/resource/Communist_Party_of_Germany_(1990),64.775
+http://dbpedia.org/resource/British_Columbia_New_Democratic_Party,British Columbia New Democratic Party,http://dbpedia.org/resource/British_Columbia_New_Democratic_Party,64.75
+http://dbpedia.org/resource/Polish_Socialist_Party,Polish Socialist Party,http://dbpedia.org/resource/Polish_Socialist_Party,64.72500000000001
+http://dbpedia.org/resource/Self_Reliance_(political_party),Self Reliance (political party),http://dbpedia.org/resource/Self_Reliance_(political_party),64.7
+http://dbpedia.org/resource/Workers_Group_of_the_Russian_Communist_Party,Workers Group of the Russian Communist Party,http://dbpedia.org/resource/Workers_Group_of_the_Russian_Communist_Party,64.66000000000001
+http://dbpedia.org/resource/Delaware_Democratic_Party,Delaware Democratic Party,http://dbpedia.org/resource/Delaware_Democratic_Party,64.36
+http://dbpedia.org/resource/Initiative_for_Catalonia_Greens,Initiative for Catalonia Greens,http://dbpedia.org/resource/Initiative_for_Catalonia_Greens,64.35000000000001
+http://dbpedia.org/resource/Rastriya_Janamorcha,Rastriya Janamorcha,http://dbpedia.org/resource/Rastriya_Janamorcha,64.295
+http://dbpedia.org/resource/Alaska_Democratic_Party,Alaska Democratic Party,http://dbpedia.org/resource/Alaska_Democratic_Party,64.295
+http://dbpedia.org/resource/Nationalist_Party_(Malta),Nationalist Party (Malta),http://dbpedia.org/resource/Nationalist_Party_(Malta),64.27
+http://dbpedia.org/resource/Democratic_Party_of_Japan,Democratic Party of Japan,http://dbpedia.org/resource/Democratic_Party_of_Japan,64.235
+http://dbpedia.org/resource/North_Dakota_Democratic–Nonpartisan_League_Party,North Dakota Democratic–Nonpartisan League Party,http://dbpedia.org/resource/North_Dakota_Democratic–Nonpartisan_League_Party,64.22
+http://dbpedia.org/resource/Democratic_Party_of_Arkansas,Democratic Party of Arkansas,http://dbpedia.org/resource/Democratic_Party_of_Arkansas,64.185
+http://dbpedia.org/resource/Free-thinking_Democratic_League,Free-thinking Democratic League,http://dbpedia.org/resource/Free-thinking_Democratic_League,64.015
+http://dbpedia.org/resource/Front_for_Victory,Front for Victory,http://dbpedia.org/resource/Front_for_Victory,64.015
+http://dbpedia.org/resource/Christian_Democrats_(Finland),Christian Democrats (Finland),http://dbpedia.org/resource/Christian_Democrats_(Finland),64.005
+http://dbpedia.org/resource/Labour_and_Co-operative,Labour and Co-operative,http://dbpedia.org/resource/Labour_and_Co-operative,63.96000000000001
+http://dbpedia.org/resource/Italian_Radicals,Italian Radicals,http://dbpedia.org/resource/Italian_Radicals,63.81499999999999
+http://dbpedia.org/resource/En_Marea,En Marea,http://dbpedia.org/resource/En_Marea,63.764999999999986
+http://dbpedia.org/resource/Conservative_People's_Party_of_Estonia,Conservative People's Party of Estonia,http://dbpedia.org/resource/Conservative_People's_Party_of_Estonia,63.745
+"http://dbpedia.org/resource/Liberal_Party_(Australia,_1909)","Liberal Party (Australia, 1909)","http://dbpedia.org/resource/Liberal_Party_(Australia,_1909)",63.68
+http://dbpedia.org/resource/Tamil_Eelam_Liberation_Organization,Tamil Eelam Liberation Organization,http://dbpedia.org/resource/Tamil_Eelam_Liberation_Organization,63.675000000000004
+http://dbpedia.org/resource/Republican_Party_of_Guam,Republican Party of Guam,http://dbpedia.org/resource/Republican_Party_of_Guam,63.669999999999995
+http://dbpedia.org/resource/Free_Egyptians_Party,Free Egyptians Party,http://dbpedia.org/resource/Free_Egyptians_Party,63.57499999999999
+http://dbpedia.org/resource/Animal_Welfare_Party,Animal Welfare Party,http://dbpedia.org/resource/Animal_Welfare_Party,63.550000000000004
+http://dbpedia.org/resource/Georgia_Republican_Party,Georgia Republican Party,http://dbpedia.org/resource/Georgia_Republican_Party,63.544999999999995
+http://dbpedia.org/resource/Independent_Labour_Party,Independent Labour Party,http://dbpedia.org/resource/Independent_Labour_Party,63.525000000000006
+http://dbpedia.org/resource/United_Party_(South_Africa),United Party (South Africa),http://dbpedia.org/resource/United_Party_(South_Africa),63.475
+http://dbpedia.org/resource/Parti_Québécois,Parti Québécois,http://dbpedia.org/resource/Parti_Québécois,63.46000000000001
+http://dbpedia.org/resource/Northern_Ireland_Conservatives,Northern Ireland Conservatives,http://dbpedia.org/resource/Northern_Ireland_Conservatives,63.44
+http://dbpedia.org/resource/Forum_for_Democracy,Forum for Democracy,http://dbpedia.org/resource/Forum_for_Democracy,63.35999999999999
+http://dbpedia.org/resource/Liberal_Party_of_South_Africa,Liberal Party of South Africa,http://dbpedia.org/resource/Liberal_Party_of_South_Africa,63.294999999999995
+http://dbpedia.org/resource/United_Left_(Spain),United Left (Spain),http://dbpedia.org/resource/United_Left_(Spain),63.29000000000001
+http://dbpedia.org/resource/Revolutionary_Socialists_(Egypt),Revolutionary Socialists (Egypt),http://dbpedia.org/resource/Revolutionary_Socialists_(Egypt),63.20000000000002
+http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party,Saskatchewan New Democratic Party,http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party,63.19
+http://dbpedia.org/resource/Italian_Democratic_Socialist_Party,Italian Democratic Socialist Party,http://dbpedia.org/resource/Italian_Democratic_Socialist_Party,63.125
+http://dbpedia.org/resource/Tehreek-e-Jafaria_(Pakistan),Tehreek-e-Jafaria (Pakistan),http://dbpedia.org/resource/Tehreek-e-Jafaria_(Pakistan),63.095000000000006
+http://dbpedia.org/resource/Opposition_Platform_—_For_Life,Opposition Platform — For Life,http://dbpedia.org/resource/Opposition_Platform_—_For_Life,63.08
+http://dbpedia.org/resource/Natural_Law_Party_(United_States),Natural Law Party (United States),http://dbpedia.org/resource/Natural_Law_Party_(United_States),63.06500000000001
+http://dbpedia.org/resource/London_Conservatives,London Conservatives,http://dbpedia.org/resource/London_Conservatives,63.050000000000004
+http://dbpedia.org/resource/Democratic_Party_of_Socialists_of_Montenegro,Democratic Party of Socialists of Montenegro,http://dbpedia.org/resource/Democratic_Party_of_Socialists_of_Montenegro,63.019999999999996
+http://dbpedia.org/resource/Green_Party_of_Ontario,Green Party of Ontario,http://dbpedia.org/resource/Green_Party_of_Ontario,63.014999999999986
+http://dbpedia.org/resource/Communist_Party_of_Australia_(Marxist–Leninist),Communist Party of Australia (Marxist–Leninist),http://dbpedia.org/resource/Communist_Party_of_Australia_(Marxist–Leninist),62.98500000000001
+http://dbpedia.org/resource/Freedom_and_Solidarity,Freedom and Solidarity,http://dbpedia.org/resource/Freedom_and_Solidarity,62.959999999999994
+"http://dbpedia.org/resource/National_Liberal_Party_(UK,_1931)","National Liberal Party (UK, 1931)","http://dbpedia.org/resource/National_Liberal_Party_(UK,_1931)",62.93
+http://dbpedia.org/resource/Deutsche_Reichspartei,Deutsche Reichspartei,http://dbpedia.org/resource/Deutsche_Reichspartei,62.925000000000004
+http://dbpedia.org/resource/The_Jewish_Home,The Jewish Home,http://dbpedia.org/resource/The_Jewish_Home,62.875
+http://dbpedia.org/resource/Vermont_Republican_Party,Vermont Republican Party,http://dbpedia.org/resource/Vermont_Republican_Party,62.75
+http://dbpedia.org/resource/Green_Party_(Romania),Green Party (Romania),http://dbpedia.org/resource/Green_Party_(Romania),62.745
+http://dbpedia.org/resource/Republican_Sinn_Féin,Republican Sinn Féin,http://dbpedia.org/resource/Republican_Sinn_Féin,62.7
+http://dbpedia.org/resource/The_Liberals_(Switzerland),The Liberals (Switzerland),http://dbpedia.org/resource/The_Liberals_(Switzerland),62.665
+http://dbpedia.org/resource/National_Bolshevik_Party,National Bolshevik Party,http://dbpedia.org/resource/National_Bolshevik_Party,62.655
+http://dbpedia.org/resource/Libertas_Poland,Libertas Poland,http://dbpedia.org/resource/Libertas_Poland,62.54
+http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba,Progressive Conservative Party of Manitoba,http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba,62.54
+http://dbpedia.org/resource/Together_We_Can_Do_Everything,Together We Can Do Everything,http://dbpedia.org/resource/Together_We_Can_Do_Everything,62.53
+http://dbpedia.org/resource/Progressive_Federal_Party,Progressive Federal Party,http://dbpedia.org/resource/Progressive_Federal_Party,62.50499999999999
+http://dbpedia.org/resource/March_8_Alliance,March 8 Alliance,http://dbpedia.org/resource/March_8_Alliance,62.45500000000001
+http://dbpedia.org/resource/Katter's_Australian_Party,Katter's Australian Party,http://dbpedia.org/resource/Katter's_Australian_Party,62.415
+http://dbpedia.org/resource/LGBT+_Conservatives,LGBT+ Conservatives,http://dbpedia.org/resource/LGBT+_Conservatives,62.32000000000001
+http://dbpedia.org/resource/Traditional_Unionist_Voice,Traditional Unionist Voice,http://dbpedia.org/resource/Traditional_Unionist_Voice,62.305
+http://dbpedia.org/resource/British_Democratic_Party_(2013),British Democratic Party (2013),http://dbpedia.org/resource/British_Democratic_Party_(2013),62.27000000000001
+http://dbpedia.org/resource/Serbian_Action,Serbian Action,http://dbpedia.org/resource/Serbian_Action,62.25
+http://dbpedia.org/resource/Bonapartists_(political_party),Bonapartists (political party),http://dbpedia.org/resource/Bonapartists_(political_party),62.24
+http://dbpedia.org/resource/Green_Party_of_South_Africa,Green Party of South Africa,http://dbpedia.org/resource/Green_Party_of_South_Africa,62.23500000000001
+http://dbpedia.org/resource/Action_(Italian_political_party),Action (Italian political party),http://dbpedia.org/resource/Action_(Italian_political_party),62.23499999999999
+http://dbpedia.org/resource/All-Union_Communist_Party_of_Bolsheviks_(1991),All-Union Communist Party of Bolsheviks (1991),http://dbpedia.org/resource/All-Union_Communist_Party_of_Bolsheviks_(1991),62.18
+http://dbpedia.org/resource/Confederation_Liberty_and_Independence,Confederation Liberty and Independence,http://dbpedia.org/resource/Confederation_Liberty_and_Independence,62.155
+http://dbpedia.org/resource/Latvian_Green_Party,Latvian Green Party,http://dbpedia.org/resource/Latvian_Green_Party,62.084999999999994
+http://dbpedia.org/resource/Mississippi_Freedom_Democratic_Party,Mississippi Freedom Democratic Party,http://dbpedia.org/resource/Mississippi_Freedom_Democratic_Party,62.08000000000001
+http://dbpedia.org/resource/International_Socialist_Organization,International Socialist Organization,http://dbpedia.org/resource/International_Socialist_Organization,62.04999999999999
+http://dbpedia.org/resource/Socialist_Party_of_Ukraine,Socialist Party of Ukraine,http://dbpedia.org/resource/Socialist_Party_of_Ukraine,62.025000000000006
+http://dbpedia.org/resource/Australian_Conservatives,Australian Conservatives,http://dbpedia.org/resource/Australian_Conservatives,61.955
+http://dbpedia.org/resource/Our_Moldova_Alliance,Our Moldova Alliance,http://dbpedia.org/resource/Our_Moldova_Alliance,61.93000000000001
+http://dbpedia.org/resource/Alliance_Party_(Malaysia),Alliance Party (Malaysia),http://dbpedia.org/resource/Alliance_Party_(Malaysia),61.825
+http://dbpedia.org/resource/Communist_Party_(Sweden),Communist Party (Sweden),http://dbpedia.org/resource/Communist_Party_(Sweden),61.79
+http://dbpedia.org/resource/Reformed_Political_Party,Reformed Political Party,http://dbpedia.org/resource/Reformed_Political_Party,61.765
+http://dbpedia.org/resource/Saskatchewan_Liberal_Party,Saskatchewan Liberal Party,http://dbpedia.org/resource/Saskatchewan_Liberal_Party,61.74000000000001
+http://dbpedia.org/resource/Ustaše_in_Australia,Ustaše in Australia,http://dbpedia.org/resource/Ustaše_in_Australia,61.655
+http://dbpedia.org/resource/Alaska_Libertarian_Party,Alaska Libertarian Party,http://dbpedia.org/resource/Alaska_Libertarian_Party,61.63499999999999
+http://dbpedia.org/resource/Welsh_Liberal_Democrats,Welsh Liberal Democrats,http://dbpedia.org/resource/Welsh_Liberal_Democrats,61.615
+http://dbpedia.org/resource/Kach_(political_party),Kach (political party),http://dbpedia.org/resource/Kach_(political_party),61.6
+http://dbpedia.org/resource/French_and_European_Nationalist_Party,French and European Nationalist Party,http://dbpedia.org/resource/French_and_European_Nationalist_Party,61.555
+http://dbpedia.org/resource/International_Third_Position,International Third Position,http://dbpedia.org/resource/International_Third_Position,61.52000000000001
+http://dbpedia.org/resource/Party_of_Freedom_and_Justice,Party of Freedom and Justice,http://dbpedia.org/resource/Party_of_Freedom_and_Justice,61.49
+http://dbpedia.org/resource/Communist_Party_of_Argentina_(Extraordinary_Congress),Communist Party of Argentina (Extraordinary Congress),http://dbpedia.org/resource/Communist_Party_of_Argentina_(Extraordinary_Congress),61.43
+http://dbpedia.org/resource/Maine_Democratic_Party,Maine Democratic Party,http://dbpedia.org/resource/Maine_Democratic_Party,61.285000000000004
+http://dbpedia.org/resource/Yesh_Atid,Yesh Atid,http://dbpedia.org/resource/Yesh_Atid,61.225
+http://dbpedia.org/resource/Mississippi_Democratic_Party,Mississippi Democratic Party,http://dbpedia.org/resource/Mississippi_Democratic_Party,61.2
+http://dbpedia.org/resource/Alaska_Republican_Party,Alaska Republican Party,http://dbpedia.org/resource/Alaska_Republican_Party,61.18
+http://dbpedia.org/resource/Greenback_Party,Greenback Party,http://dbpedia.org/resource/Greenback_Party,61.09
+http://dbpedia.org/resource/Jim_Anderton's_Progressive_Party,Jim Anderton's Progressive Party,http://dbpedia.org/resource/Jim_Anderton's_Progressive_Party,61.08500000000001
+http://dbpedia.org/resource/Direction_–_Slovak_Social_Democracy,Direction – Slovak Social Democracy,http://dbpedia.org/resource/Direction_–_Slovak_Social_Democracy,61.084999999999994
+http://dbpedia.org/resource/Fraser_Anning's_Conservative_National_Party,Fraser Anning's Conservative National Party,http://dbpedia.org/resource/Fraser_Anning's_Conservative_National_Party,61.084999999999994
+http://dbpedia.org/resource/New_Patriotic_Party,New Patriotic Party,http://dbpedia.org/resource/New_Patriotic_Party,61.019999999999996
+http://dbpedia.org/resource/Minnesota_Democratic–Farmer–Labor_Party,Minnesota Democratic–Farmer–Labor Party,http://dbpedia.org/resource/Minnesota_Democratic–Farmer–Labor_Party,60.99
+http://dbpedia.org/resource/Alliance_of_Free_Democrats,Alliance of Free Democrats,http://dbpedia.org/resource/Alliance_of_Free_Democrats,60.97
+http://dbpedia.org/resource/Republican_Party_of_Arkansas,Republican Party of Arkansas,http://dbpedia.org/resource/Republican_Party_of_Arkansas,60.96000000000001
+http://dbpedia.org/resource/Union_for_French_Democracy,Union for French Democracy,http://dbpedia.org/resource/Union_for_French_Democracy,60.935
+http://dbpedia.org/resource/Civic_Party,Civic Party,http://dbpedia.org/resource/Civic_Party,60.905
+http://dbpedia.org/resource/NEOS_–_The_New_Austria_and_Liberal_Forum,NEOS – The New Austria and Liberal Forum,http://dbpedia.org/resource/NEOS_–_The_New_Austria_and_Liberal_Forum,60.800000000000004
+http://dbpedia.org/resource/Republican_Congress,Republican Congress,http://dbpedia.org/resource/Republican_Congress,60.78000000000001
+http://dbpedia.org/resource/Social_Credit_Party_of_Canada,Social Credit Party of Canada,http://dbpedia.org/resource/Social_Credit_Party_of_Canada,60.75500000000001
+http://dbpedia.org/resource/Animal_Protection_Party_of_Canada,Animal Protection Party of Canada,http://dbpedia.org/resource/Animal_Protection_Party_of_Canada,60.71499999999999
+http://dbpedia.org/resource/Otpor,Otpor,http://dbpedia.org/resource/Otpor,60.58
+http://dbpedia.org/resource/Dveri,Dveri,http://dbpedia.org/resource/Dveri,60.555
+http://dbpedia.org/resource/Liberal_Party_of_Newfoundland_and_Labrador,Liberal Party of Newfoundland and Labrador,http://dbpedia.org/resource/Liberal_Party_of_Newfoundland_and_Labrador,60.535
+http://dbpedia.org/resource/Khaksar_movement,Khaksar movement,http://dbpedia.org/resource/Khaksar_movement,60.45
+http://dbpedia.org/resource/United_Progressive_Kinabalu_Organisation,United Progressive Kinabalu Organisation,http://dbpedia.org/resource/United_Progressive_Kinabalu_Organisation,60.42000000000001
+http://dbpedia.org/resource/Vesna_(Russia),Vesna (Russia),http://dbpedia.org/resource/Vesna_(Russia),60.345000000000006
+http://dbpedia.org/resource/Pirate_Party_UK,Pirate Party UK,http://dbpedia.org/resource/Pirate_Party_UK,60.32499999999999
+http://dbpedia.org/resource/Socialist_Workers_Party_of_the_District_of_Columbia,Socialist Workers Party of the District of Columbia,http://dbpedia.org/resource/Socialist_Workers_Party_of_the_District_of_Columbia,60.265
+http://dbpedia.org/resource/Maryland_Republican_Party,Maryland Republican Party,http://dbpedia.org/resource/Maryland_Republican_Party,60.260000000000005
+http://dbpedia.org/resource/Japan_Socialist_Party,Japan Socialist Party,http://dbpedia.org/resource/Japan_Socialist_Party,60.254999999999995
+http://dbpedia.org/resource/Religious_Zionist_Party,Religious Zionist Party,http://dbpedia.org/resource/Religious_Zionist_Party,60.205
+http://dbpedia.org/resource/ECOPEACE_Party,ECOPEACE Party,http://dbpedia.org/resource/ECOPEACE_Party,60.160000000000004
+http://dbpedia.org/resource/Conservative_Christian_Fellowship,Conservative Christian Fellowship,http://dbpedia.org/resource/Conservative_Christian_Fellowship,60.10999999999999
+http://dbpedia.org/resource/War_Democrat,War Democrat,http://dbpedia.org/resource/War_Democrat,60.075
+http://dbpedia.org/resource/Progressive_Conservative_Party_of_New_Brunswick,Progressive Conservative Party of New Brunswick,http://dbpedia.org/resource/Progressive_Conservative_Party_of_New_Brunswick,60.044999999999995
+http://dbpedia.org/resource/Debout_la_France,Debout la France,http://dbpedia.org/resource/Debout_la_France,60.04
+http://dbpedia.org/resource/Autonomous_Action,Autonomous Action,http://dbpedia.org/resource/Autonomous_Action,60.03
+http://dbpedia.org/resource/Kansas_Democratic_Party,Kansas Democratic Party,http://dbpedia.org/resource/Kansas_Democratic_Party,60.019999999999996
+http://dbpedia.org/resource/Joint_List,Joint List,http://dbpedia.org/resource/Joint_List,59.925000000000004
+http://dbpedia.org/resource/United_Socialist_Party_of_Venezuela,United Socialist Party of Venezuela,http://dbpedia.org/resource/United_Socialist_Party_of_Venezuela,59.825
+http://dbpedia.org/resource/Purified_National_Party,Purified National Party,http://dbpedia.org/resource/Purified_National_Party,59.815
+http://dbpedia.org/resource/Co-operative_Commonwealth_Federation_(Ontario_Section),Co-operative Commonwealth Federation (Ontario Section),http://dbpedia.org/resource/Co-operative_Commonwealth_Federation_(Ontario_Section),59.815
+http://dbpedia.org/resource/The_Greens_(France),The Greens (France),http://dbpedia.org/resource/The_Greens_(France),59.775000000000006
+http://dbpedia.org/resource/Workers'_Opposition,Workers' Opposition,http://dbpedia.org/resource/Workers'_Opposition,59.660000000000004
+http://dbpedia.org/resource/Newfoundland_and_Labrador_New_Democratic_Party,Newfoundland and Labrador New Democratic Party,http://dbpedia.org/resource/Newfoundland_and_Labrador_New_Democratic_Party,59.62999999999999
+http://dbpedia.org/resource/Republican_Party_of_Louisiana,Republican Party of Louisiana,http://dbpedia.org/resource/Republican_Party_of_Louisiana,59.57499999999999
+http://dbpedia.org/resource/African_People's_Convention,African People's Convention,http://dbpedia.org/resource/African_People's_Convention,59.565
+http://dbpedia.org/resource/Parti_Rakyat_Malaysia,Parti Rakyat Malaysia,http://dbpedia.org/resource/Parti_Rakyat_Malaysia,59.56
+http://dbpedia.org/resource/Anarchist_St._Imier_International,Anarchist St. Imier International,http://dbpedia.org/resource/Anarchist_St._Imier_International,59.555
+http://dbpedia.org/resource/Al_Wefaq,Al Wefaq,http://dbpedia.org/resource/Al_Wefaq,59.495
+http://dbpedia.org/resource/Patriotic_Society_of_1789,Patriotic Society of 1789,http://dbpedia.org/resource/Patriotic_Society_of_1789,59.475
+http://dbpedia.org/resource/V-Partei3,V-Partei3,http://dbpedia.org/resource/V-Partei3,59.465
+http://dbpedia.org/resource/Eusko_Alkartasuna,Eusko Alkartasuna,http://dbpedia.org/resource/Eusko_Alkartasuna,59.45
+http://dbpedia.org/resource/New_Hampshire_Democratic_Party,New Hampshire Democratic Party,http://dbpedia.org/resource/New_Hampshire_Democratic_Party,59.45
+http://dbpedia.org/resource/Communist_Party_of_Chile,Communist Party of Chile,http://dbpedia.org/resource/Communist_Party_of_Chile,59.400000000000006
+http://dbpedia.org/resource/Rhode_Island_Democratic_Party,Rhode Island Democratic Party,http://dbpedia.org/resource/Rhode_Island_Democratic_Party,59.39
+http://dbpedia.org/resource/Pim_Fortuyn_List,Pim Fortuyn List,http://dbpedia.org/resource/Pim_Fortuyn_List,59.36000000000001
+http://dbpedia.org/resource/Future_Movement,Future Movement,http://dbpedia.org/resource/Future_Movement,59.35500000000001
+http://dbpedia.org/resource/Iranian_Reformists,Iranian Reformists,http://dbpedia.org/resource/Iranian_Reformists,59.34000000000001
+http://dbpedia.org/resource/Kurdistan_Democratic_Party,Kurdistan Democratic Party,http://dbpedia.org/resource/Kurdistan_Democratic_Party,59.33
+http://dbpedia.org/resource/Indiana_Republican_Party,Indiana Republican Party,http://dbpedia.org/resource/Indiana_Republican_Party,59.315
+http://dbpedia.org/resource/ZANU–PF,ZANU–PF,http://dbpedia.org/resource/ZANU–PF,59.28
+http://dbpedia.org/resource/Maine_Republican_Party,Maine Republican Party,http://dbpedia.org/resource/Maine_Republican_Party,59.169999999999995
+http://dbpedia.org/resource/Confederation_of_Revolutionary_Anarcho-Syndicalists,Confederation of Revolutionary Anarcho-Syndicalists,http://dbpedia.org/resource/Confederation_of_Revolutionary_Anarcho-Syndicalists,59.160000000000004
+http://dbpedia.org/resource/Ceylon_Communist_Party_(Maoist),Ceylon Communist Party (Maoist),http://dbpedia.org/resource/Ceylon_Communist_Party_(Maoist),59.120000000000005
+http://dbpedia.org/resource/Minnesota_Legal_Marijuana_Now_Party,Minnesota Legal Marijuana Now Party,http://dbpedia.org/resource/Minnesota_Legal_Marijuana_Now_Party,59.06
+http://dbpedia.org/resource/Georgian_Dream,Georgian Dream,http://dbpedia.org/resource/Georgian_Dream,59.00999999999999
+http://dbpedia.org/resource/Red–Green_Alliance_(Denmark),Red–Green Alliance (Denmark),http://dbpedia.org/resource/Red–Green_Alliance_(Denmark),58.995000000000005
+http://dbpedia.org/resource/Louisiana_Democratic_Party,Louisiana Democratic Party,http://dbpedia.org/resource/Louisiana_Democratic_Party,58.98499999999999
+http://dbpedia.org/resource/Colombian_Liberal_Party,Colombian Liberal Party,http://dbpedia.org/resource/Colombian_Liberal_Party,58.93
+http://dbpedia.org/resource/Progressive_Party_(South_Africa),Progressive Party (South Africa),http://dbpedia.org/resource/Progressive_Party_(South_Africa),58.89999999999999
+http://dbpedia.org/resource/Democratic_Party_(South_Africa),Democratic Party (South Africa),http://dbpedia.org/resource/Democratic_Party_(South_Africa),58.885000000000005
+http://dbpedia.org/resource/The_Greens_(Denmark),The Greens (Denmark),http://dbpedia.org/resource/The_Greens_(Denmark),58.805
+http://dbpedia.org/resource/Liberty_Caucus,Liberty Caucus,http://dbpedia.org/resource/Liberty_Caucus,58.78
+http://dbpedia.org/resource/Better_Residents_Association,Better Residents Association,http://dbpedia.org/resource/Better_Residents_Association,58.75999999999999
+http://dbpedia.org/resource/National_Democratic_Party_(Egypt),National Democratic Party (Egypt),http://dbpedia.org/resource/National_Democratic_Party_(Egypt),58.74999999999999
+http://dbpedia.org/resource/Saskatchewan_Party,Saskatchewan Party,http://dbpedia.org/resource/Saskatchewan_Party,58.629999999999995
+http://dbpedia.org/resource/Europe_Ecology,Europe Ecology,http://dbpedia.org/resource/Europe_Ecology,58.615
+http://dbpedia.org/resource/Our_Ukraine–People's_Self-Defense_Bloc,Our Ukraine–People's Self-Defense Bloc,http://dbpedia.org/resource/Our_Ukraine–People's_Self-Defense_Bloc,58.615
+http://dbpedia.org/resource/Arab_Ba'ath,Arab Ba'ath,http://dbpedia.org/resource/Arab_Ba'ath,58.615
+http://dbpedia.org/resource/Socialist_Party_(Netherlands),Socialist Party (Netherlands),http://dbpedia.org/resource/Socialist_Party_(Netherlands),58.555
+"http://dbpedia.org/resource/People's_Party_(Serbia,_2017)","People's Party (Serbia, 2017)","http://dbpedia.org/resource/People's_Party_(Serbia,_2017)",58.52000000000001
+http://dbpedia.org/resource/Greater_Romania_Party,Greater Romania Party,http://dbpedia.org/resource/Greater_Romania_Party,58.510000000000005
+http://dbpedia.org/resource/The_Greens_(Netherlands),The Greens (Netherlands),http://dbpedia.org/resource/The_Greens_(Netherlands),58.475000000000016
+http://dbpedia.org/resource/Third_Way_(Germany),Third Way (Germany),http://dbpedia.org/resource/Third_Way_(Germany),58.38499999999999
+http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia,Progressive Conservative Association of Nova Scotia,http://dbpedia.org/resource/Progressive_Conservative_Association_of_Nova_Scotia,58.379999999999995
+http://dbpedia.org/resource/Democrats_(Brazil),Democrats (Brazil),http://dbpedia.org/resource/Democrats_(Brazil),58.345
+http://dbpedia.org/resource/Nova_Scotia_Liberal_Party,Nova Scotia Liberal Party,http://dbpedia.org/resource/Nova_Scotia_Liberal_Party,58.309999999999995
+http://dbpedia.org/resource/Cameron_machine,Cameron machine,http://dbpedia.org/resource/Cameron_machine,58.175000000000004
+http://dbpedia.org/resource/Labour_Party_(South_Africa),Labour Party (South Africa),http://dbpedia.org/resource/Labour_Party_(South_Africa),58.169999999999995
+http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba,New Democratic Party of Manitoba,http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba,58.14
+http://dbpedia.org/resource/Jammu_and_Kashmir_Peoples_Democratic_Party,Jammu and Kashmir Peoples Democratic Party,http://dbpedia.org/resource/Jammu_and_Kashmir_Peoples_Democratic_Party,58.135000000000005
+http://dbpedia.org/resource/Pirate_Party_of_Canada,Pirate Party of Canada,http://dbpedia.org/resource/Pirate_Party_of_Canada,58.115
+http://dbpedia.org/resource/New_Republic_Party_(South_Africa),New Republic Party (South Africa),http://dbpedia.org/resource/New_Republic_Party_(South_Africa),58.095000000000006
+http://dbpedia.org/resource/Peace_and_Freedom_Party,Peace and Freedom Party,http://dbpedia.org/resource/Peace_and_Freedom_Party,58.095
+http://dbpedia.org/resource/United_Congress_(South_Africa),United Congress (South Africa),http://dbpedia.org/resource/United_Congress_(South_Africa),57.96000000000001
+http://dbpedia.org/resource/Green_Party_(Brazil),Green Party (Brazil),http://dbpedia.org/resource/Green_Party_(Brazil),57.900000000000006

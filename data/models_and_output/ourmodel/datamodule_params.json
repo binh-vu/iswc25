@@ -1,0 +1,10 @@
+{
+  "model_name_or_path": "BAAI/bge-m3",
+  "delimiter": ", ",
+  "n_examples_per_column": 100,
+  "n_examples_per_label": 150,
+  "embedding_manager": {
+    "embedding_model": "BAAI/bge-m3",
+    "customization": "default"
+  }
+}

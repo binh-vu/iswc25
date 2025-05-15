@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/Columbia_University,Columbia University,http://dbpedia.org/resource/Columbia_University,452.95000000000005
+http://dbpedia.org/resource/Harvard_University,Harvard University,http://dbpedia.org/resource/Harvard_University,424.67
+http://dbpedia.org/resource/University_of_Pennsylvania,University of Pennsylvania,http://dbpedia.org/resource/University_of_Pennsylvania,420.895
+http://dbpedia.org/resource/Yale_University,Yale University,http://dbpedia.org/resource/Yale_University,398.79
+http://dbpedia.org/resource/Princeton_University,Princeton University,http://dbpedia.org/resource/Princeton_University,396.69500000000005
+http://dbpedia.org/resource/University_of_Oxford,University of Oxford,http://dbpedia.org/resource/University_of_Oxford,392.765
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology,Massachusetts Institute of Technology,http://dbpedia.org/resource/Massachusetts_Institute_of_Technology,372.465
+http://dbpedia.org/resource/University_of_Michigan,University of Michigan,http://dbpedia.org/resource/University_of_Michigan,354.85
+http://dbpedia.org/resource/University_of_Edinburgh,University of Edinburgh,http://dbpedia.org/resource/University_of_Edinburgh,342.69000000000005
+http://dbpedia.org/resource/University_of_Cambridge,University of Cambridge,http://dbpedia.org/resource/University_of_Cambridge,334.19
+http://dbpedia.org/resource/Cornell_University,Cornell University,http://dbpedia.org/resource/Cornell_University,300.23500000000007
+http://dbpedia.org/resource/New_York_University,New York University,http://dbpedia.org/resource/New_York_University,286.43
+http://dbpedia.org/resource/University_of_Virginia,University of Virginia,http://dbpedia.org/resource/University_of_Virginia,280.68
+http://dbpedia.org/resource/King's_College_London,King's College London,http://dbpedia.org/resource/King's_College_London,278.065
+http://dbpedia.org/resource/Fordham_University,Fordham University,http://dbpedia.org/resource/Fordham_University,272.02500000000003
+http://dbpedia.org/resource/Brown_University,Brown University,http://dbpedia.org/resource/Brown_University,270.475
+http://dbpedia.org/resource/University_of_Johannesburg,University of Johannesburg,http://dbpedia.org/resource/University_of_Johannesburg,267.605
+http://dbpedia.org/resource/University_of_Georgia,University of Georgia,http://dbpedia.org/resource/University_of_Georgia,266.465
+http://dbpedia.org/resource/University_of_Chicago,University of Chicago,http://dbpedia.org/resource/University_of_Chicago,265.44
+http://dbpedia.org/resource/Duke_University,Duke University,http://dbpedia.org/resource/Duke_University,263.93
+http://dbpedia.org/resource/University_of_Pittsburgh,University of Pittsburgh,http://dbpedia.org/resource/University_of_Pittsburgh,262.82
+http://dbpedia.org/resource/Georgetown_University,Georgetown University,http://dbpedia.org/resource/Georgetown_University,262.615
+http://dbpedia.org/resource/University_of_Notre_Dame,University of Notre Dame,http://dbpedia.org/resource/University_of_Notre_Dame,262.12000000000006
+http://dbpedia.org/resource/University_of_Massachusetts_Boston,University of Massachusetts Boston,http://dbpedia.org/resource/University_of_Massachusetts_Boston,261.01
+"http://dbpedia.org/resource/University_of_California,_Los_Angeles","University of California, Los Angeles","http://dbpedia.org/resource/University_of_California,_Los_Angeles",259.92
+http://dbpedia.org/resource/Northwestern_University,Northwestern University,http://dbpedia.org/resource/Northwestern_University,255.585
+http://dbpedia.org/resource/University_College_London,University College London,http://dbpedia.org/resource/University_College_London,254.4
+http://dbpedia.org/resource/University_of_Southern_California,University of Southern California,http://dbpedia.org/resource/University_of_Southern_California,252.70500000000004
+http://dbpedia.org/resource/McGill_University,McGill University,http://dbpedia.org/resource/McGill_University,250.18000000000004
+http://dbpedia.org/resource/Rutgers_University,Rutgers University,http://dbpedia.org/resource/Rutgers_University,249.41
+http://dbpedia.org/resource/Michigan_State_University,Michigan State University,http://dbpedia.org/resource/Michigan_State_University,248.82500000000002
+http://dbpedia.org/resource/United_States_Naval_Academy,United States Naval Academy,http://dbpedia.org/resource/United_States_Naval_Academy,247.65
+http://dbpedia.org/resource/Vanderbilt_University,Vanderbilt University,http://dbpedia.org/resource/Vanderbilt_University,245.5
+http://dbpedia.org/resource/University_of_the_Witwatersrand,University of the Witwatersrand,http://dbpedia.org/resource/University_of_the_Witwatersrand,244.67999999999998
+http://dbpedia.org/resource/National_University_of_San_Marcos,National University of San Marcos,http://dbpedia.org/resource/National_University_of_San_Marcos,244.485
+http://dbpedia.org/resource/United_States_Military_Academy,United States Military Academy,http://dbpedia.org/resource/United_States_Military_Academy,237.755
+http://dbpedia.org/resource/Syracuse_University,Syracuse University,http://dbpedia.org/resource/Syracuse_University,237.29000000000002
+http://dbpedia.org/resource/University_of_Florida,University of Florida,http://dbpedia.org/resource/University_of_Florida,236.775
+http://dbpedia.org/resource/Dartmouth_College,Dartmouth College,http://dbpedia.org/resource/Dartmouth_College,235.195
+http://dbpedia.org/resource/Wye_College,Wye College,http://dbpedia.org/resource/Wye_College,234.93999999999997
+http://dbpedia.org/resource/London_School_of_Economics,London School of Economics,http://dbpedia.org/resource/London_School_of_Economics,232.64500000000004
+http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill,University of North Carolina at Chapel Hill,http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill,232.375
+http://dbpedia.org/resource/Durham_University,Durham University,http://dbpedia.org/resource/Durham_University,230.59000000000003
+http://dbpedia.org/resource/George_Washington_University,George Washington University,http://dbpedia.org/resource/George_Washington_University,226.66499999999996
+http://dbpedia.org/resource/List_of_Williams_College_people,List of Williams College people,http://dbpedia.org/resource/List_of_Williams_College_people,225.75
+http://dbpedia.org/resource/University_of_Cape_Town,University of Cape Town,http://dbpedia.org/resource/University_of_Cape_Town,218.435
+http://dbpedia.org/resource/Washington_&_Jefferson_College,Washington & Jefferson College,http://dbpedia.org/resource/Washington_&_Jefferson_College,216.03000000000003
+http://dbpedia.org/resource/Pennsylvania_State_University,Pennsylvania State University,http://dbpedia.org/resource/Pennsylvania_State_University,215.435
+http://dbpedia.org/resource/Georgia_Tech,Georgia Tech,http://dbpedia.org/resource/Georgia_Tech,215.31
+http://dbpedia.org/resource/Arizona_State_University,Arizona State University,http://dbpedia.org/resource/Arizona_State_University,213.63
+http://dbpedia.org/resource/Emory_University,Emory University,http://dbpedia.org/resource/Emory_University,211.94000000000003
+http://dbpedia.org/resource/Florida_State_University,Florida State University,http://dbpedia.org/resource/Florida_State_University,209.38000000000002
+http://dbpedia.org/resource/Zhejiang_University,Zhejiang University,http://dbpedia.org/resource/Zhejiang_University,209.10000000000002
+"http://dbpedia.org/resource/University_of_Maryland,_College_Park","University of Maryland, College Park","http://dbpedia.org/resource/University_of_Maryland,_College_Park",206.21500000000003
+http://dbpedia.org/resource/California_Lutheran_University,California Lutheran University,http://dbpedia.org/resource/California_Lutheran_University,205.53000000000003
+http://dbpedia.org/resource/University_of_London,University of London,http://dbpedia.org/resource/University_of_London,205.41499999999996
+http://dbpedia.org/resource/University_of_Southampton,University of Southampton,http://dbpedia.org/resource/University_of_Southampton,205.345
+http://dbpedia.org/resource/University_of_Miami,University of Miami,http://dbpedia.org/resource/University_of_Miami,203.155
+http://dbpedia.org/resource/University_of_St_Andrews,University of St Andrews,http://dbpedia.org/resource/University_of_St_Andrews,201.95000000000002
+http://dbpedia.org/resource/De_La_Salle_University,De La Salle University,http://dbpedia.org/resource/De_La_Salle_University,198.18499999999997
+http://dbpedia.org/resource/University_of_Minnesota,University of Minnesota,http://dbpedia.org/resource/University_of_Minnesota,197.245
+http://dbpedia.org/resource/University_of_Wisconsin–Madison,University of Wisconsin–Madison,http://dbpedia.org/resource/University_of_Wisconsin–Madison,196.935
+http://dbpedia.org/resource/Johns_Hopkins_University,Johns Hopkins University,http://dbpedia.org/resource/Johns_Hopkins_University,194.98000000000002
+http://dbpedia.org/resource/California_Institute_of_Technology,California Institute of Technology,http://dbpedia.org/resource/California_Institute_of_Technology,194.32
+http://dbpedia.org/resource/Tsinghua_University,Tsinghua University,http://dbpedia.org/resource/Tsinghua_University,193.5
+http://dbpedia.org/resource/Carnegie_Mellon_University,Carnegie Mellon University,http://dbpedia.org/resource/Carnegie_Mellon_University,193.005
+http://dbpedia.org/resource/Bowling_Green_State_University,Bowling Green State University,http://dbpedia.org/resource/Bowling_Green_State_University,192.65
+http://dbpedia.org/resource/University_of_Sydney,University of Sydney,http://dbpedia.org/resource/University_of_Sydney,189.31500000000003
+"http://dbpedia.org/resource/Loyola_College_(Autonomous),_Chennai","Loyola College (Autonomous), Chennai","http://dbpedia.org/resource/Loyola_College_(Autonomous),_Chennai",188.01
+http://dbpedia.org/resource/Brigham_Young_University,Brigham Young University,http://dbpedia.org/resource/Brigham_Young_University,187.19500000000002
+http://dbpedia.org/resource/University_of_Bristol,University of Bristol,http://dbpedia.org/resource/University_of_Bristol,185.95000000000002
+http://dbpedia.org/resource/Imperial_College_London,Imperial College London,http://dbpedia.org/resource/Imperial_College_London,184.99
+http://dbpedia.org/resource/Manhattan_College,Manhattan College,http://dbpedia.org/resource/Manhattan_College,183.785
+http://dbpedia.org/resource/University_of_British_Columbia,University of British Columbia,http://dbpedia.org/resource/University_of_British_Columbia,183.615
+http://dbpedia.org/resource/University_of_Sheffield,University of Sheffield,http://dbpedia.org/resource/University_of_Sheffield,183.48
+http://dbpedia.org/resource/Industrial_and_Mining_Water_Research_Unit,Industrial and Mining Water Research Unit,http://dbpedia.org/resource/Industrial_and_Mining_Water_Research_Unit,180.75
+"http://dbpedia.org/resource/University_of_California,_San_Diego","University of California, San Diego","http://dbpedia.org/resource/University_of_California,_San_Diego",178.61
+http://dbpedia.org/resource/University_of_al-Qarawiyyin,University of al-Qarawiyyin,http://dbpedia.org/resource/University_of_al-Qarawiyyin,178.235
+http://dbpedia.org/resource/Bates_College,Bates College,http://dbpedia.org/resource/Bates_College,177.925
+http://dbpedia.org/resource/Rice_University,Rice University,http://dbpedia.org/resource/Rice_University,176.79999999999998
+http://dbpedia.org/resource/Texas_A&M_University,Texas A&M University,http://dbpedia.org/resource/Texas_A&M_University,176.51
+http://dbpedia.org/resource/College_of_the_Holy_Cross,College of the Holy Cross,http://dbpedia.org/resource/College_of_the_Holy_Cross,175.41499999999996
+http://dbpedia.org/resource/Australian_National_University,Australian National University,http://dbpedia.org/resource/Australian_National_University,174.48000000000002
+http://dbpedia.org/resource/INSEEC_Business_School,INSEEC Business School,http://dbpedia.org/resource/INSEEC_Business_School,174.125
+http://dbpedia.org/resource/University_of_Utah,University of Utah,http://dbpedia.org/resource/University_of_Utah,173.94
+http://dbpedia.org/resource/George_Mason_University,George Mason University,http://dbpedia.org/resource/George_Mason_University,173.735
+http://dbpedia.org/resource/Keio_University,Keio University,http://dbpedia.org/resource/Keio_University,173.675
+http://dbpedia.org/resource/Aix-Marseille_University,Aix-Marseille University,http://dbpedia.org/resource/Aix-Marseille_University,173.275
+http://dbpedia.org/resource/Liberty_University,Liberty University,http://dbpedia.org/resource/Liberty_University,173.22000000000003
+http://dbpedia.org/resource/Banaras_Hindu_University,Banaras Hindu University,http://dbpedia.org/resource/Banaras_Hindu_University,172.37
+http://dbpedia.org/resource/Florida_International_University,Florida International University,http://dbpedia.org/resource/Florida_International_University,171.64
+http://dbpedia.org/resource/University_of_Oregon,University of Oregon,http://dbpedia.org/resource/University_of_Oregon,171.60500000000002
+http://dbpedia.org/resource/Hampton_University,Hampton University,http://dbpedia.org/resource/Hampton_University,170.355
+http://dbpedia.org/resource/Miami_University,Miami University,http://dbpedia.org/resource/Miami_University,169.775
+http://dbpedia.org/resource/Peking_University,Peking University,http://dbpedia.org/resource/Peking_University,169.14000000000001
+http://dbpedia.org/resource/IIE_MSA,IIE MSA,http://dbpedia.org/resource/IIE_MSA,168.155
+"http://dbpedia.org/resource/California_State_University,_Northridge","California State University, Northridge","http://dbpedia.org/resource/California_State_University,_Northridge",168.075
+http://dbpedia.org/resource/University_of_California,University of California,http://dbpedia.org/resource/University_of_California,167.26999999999998
+http://dbpedia.org/resource/McMaster_University,McMaster University,http://dbpedia.org/resource/McMaster_University,166.635
+http://dbpedia.org/resource/University_of_Pretoria,University of Pretoria,http://dbpedia.org/resource/University_of_Pretoria,166.615
+"http://dbpedia.org/resource/University_of_California,_Davis","University of California, Davis","http://dbpedia.org/resource/University_of_California,_Davis",166.46000000000004
+http://dbpedia.org/resource/Northeastern_University,Northeastern University,http://dbpedia.org/resource/Northeastern_University,166.435
+http://dbpedia.org/resource/Union_College,Union College,http://dbpedia.org/resource/Union_College,166.25
+http://dbpedia.org/resource/Gordon_Institute_of_Business_Science,Gordon Institute of Business Science,http://dbpedia.org/resource/Gordon_Institute_of_Business_Science,165.865
+http://dbpedia.org/resource/University_of_Illinois_Urbana-Champaign,University of Illinois Urbana-Champaign,http://dbpedia.org/resource/University_of_Illinois_Urbana-Champaign,164.71500000000003
+http://dbpedia.org/resource/University_of_Mississippi,University of Mississippi,http://dbpedia.org/resource/University_of_Mississippi,163.71500000000003
+http://dbpedia.org/resource/University_of_Arizona,University of Arizona,http://dbpedia.org/resource/University_of_Arizona,163.21500000000003
+http://dbpedia.org/resource/Barnard_College,Barnard College,http://dbpedia.org/resource/Barnard_College,163.20500000000004
+"http://dbpedia.org/resource/AFDA,_The_School_for_the_Creative_Economy","AFDA, The School for the Creative Economy","http://dbpedia.org/resource/AFDA,_The_School_for_the_Creative_Economy",162.60000000000002
+http://dbpedia.org/resource/University_of_Texas_at_San_Antonio,University of Texas at San Antonio,http://dbpedia.org/resource/University_of_Texas_at_San_Antonio,162.495
+http://dbpedia.org/resource/University_of_East_Anglia,University of East Anglia,http://dbpedia.org/resource/University_of_East_Anglia,162.39999999999998
+http://dbpedia.org/resource/University_of_Leeds,University of Leeds,http://dbpedia.org/resource/University_of_Leeds,161.835
+http://dbpedia.org/resource/St_Augustine_College_of_South_Africa,St Augustine College of South Africa,http://dbpedia.org/resource/St_Augustine_College_of_South_Africa,161.53
+http://dbpedia.org/resource/Purdue_University,Purdue University,http://dbpedia.org/resource/Purdue_University,160.75
+http://dbpedia.org/resource/University_of_Arkansas,University of Arkansas,http://dbpedia.org/resource/University_of_Arkansas,160.70000000000005
+http://dbpedia.org/resource/Midrand_Graduate_Institute,Midrand Graduate Institute,http://dbpedia.org/resource/Midrand_Graduate_Institute,159.745
+http://dbpedia.org/resource/Louisiana_State_University,Louisiana State University,http://dbpedia.org/resource/Louisiana_State_University,159.18
+http://dbpedia.org/resource/CityVarsity,CityVarsity,http://dbpedia.org/resource/CityVarsity,159.04000000000002
+http://dbpedia.org/resource/Baptist_Theological_College_of_Southern_Africa,Baptist Theological College of Southern Africa,http://dbpedia.org/resource/Baptist_Theological_College_of_Southern_Africa,157.73000000000002
+http://dbpedia.org/resource/University_of_Glasgow,University of Glasgow,http://dbpedia.org/resource/University_of_Glasgow,157.675
+http://dbpedia.org/resource/Bunting_Road_Campus_Auckland_Park,Bunting Road Campus Auckland Park,http://dbpedia.org/resource/Bunting_Road_Campus_Auckland_Park,157.66499999999996
+http://dbpedia.org/resource/South_African_Institute_for_Heritage_Science_and_Conservation,South African Institute for Heritage Science and Conservation,http://dbpedia.org/resource/South_African_Institute_for_Heritage_Science_and_Conservation,157.52499999999998
+http://dbpedia.org/resource/Milpark_Education,Milpark Education,http://dbpedia.org/resource/Milpark_Education,156.49
+http://dbpedia.org/resource/Regenesys_Business_School,Regenesys Business School,http://dbpedia.org/resource/Regenesys_Business_School,156.425
+http://dbpedia.org/resource/Tufts_University,Tufts University,http://dbpedia.org/resource/Tufts_University,156.35000000000002
+http://dbpedia.org/resource/Vassar_College,Vassar College,http://dbpedia.org/resource/Vassar_College,155.45000000000002
+http://dbpedia.org/resource/Texas_Tech_University,Texas Tech University,http://dbpedia.org/resource/Texas_Tech_University,155.185
+http://dbpedia.org/resource/University_of_Melbourne,University of Melbourne,http://dbpedia.org/resource/University_of_Melbourne,155.17000000000002
+http://dbpedia.org/resource/Kingsway_Campus_Auckland_Park,Kingsway Campus Auckland Park,http://dbpedia.org/resource/Kingsway_Campus_Auckland_Park,155.02999999999997
+http://dbpedia.org/resource/University_of_Waterloo,University of Waterloo,http://dbpedia.org/resource/University_of_Waterloo,154.64
+http://dbpedia.org/resource/Fudan_University,Fudan University,http://dbpedia.org/resource/Fudan_University,154.445
+http://dbpedia.org/resource/Global_Change_Institute,Global Change Institute,http://dbpedia.org/resource/Global_Change_Institute,153.77
+"http://dbpedia.org/resource/University_of_California,_Santa_Barbara","University of California, Santa Barbara","http://dbpedia.org/resource/University_of_California,_Santa_Barbara",152.82500000000002
+http://dbpedia.org/resource/IMM_Graduate_School,IMM Graduate School,http://dbpedia.org/resource/IMM_Graduate_School,152.765
+http://dbpedia.org/resource/Ohio_Wesleyan_University,Ohio Wesleyan University,http://dbpedia.org/resource/Ohio_Wesleyan_University,152.375
+http://dbpedia.org/resource/Williams_College,Williams College,http://dbpedia.org/resource/Williams_College,148.69500000000002
+http://dbpedia.org/resource/Lancaster_University,Lancaster University,http://dbpedia.org/resource/Lancaster_University,148.15
+http://dbpedia.org/resource/Tuskegee_University,Tuskegee University,http://dbpedia.org/resource/Tuskegee_University,148.15
+http://dbpedia.org/resource/Sciences_Po,Sciences Po,http://dbpedia.org/resource/Sciences_Po,147.84
+http://dbpedia.org/resource/University_of_Manchester,University of Manchester,http://dbpedia.org/resource/University_of_Manchester,147.205
+http://dbpedia.org/resource/Carleton_University,Carleton University,http://dbpedia.org/resource/Carleton_University,146.955
+http://dbpedia.org/resource/Indiana_University_Bloomington,Indiana University Bloomington,http://dbpedia.org/resource/Indiana_University_Bloomington,146.675
+http://dbpedia.org/resource/University_of_Alberta,University of Alberta,http://dbpedia.org/resource/University_of_Alberta,146.67000000000002
+http://dbpedia.org/resource/New_York_Institute_of_Technology,New York Institute of Technology,http://dbpedia.org/resource/New_York_Institute_of_Technology,145.94
+http://dbpedia.org/resource/Anna_University,Anna University,http://dbpedia.org/resource/Anna_University,145.045
+http://dbpedia.org/resource/Harvard_Kennedy_School,Harvard Kennedy School,http://dbpedia.org/resource/Harvard_Kennedy_School,144.675
+http://dbpedia.org/resource/Shandong_University,Shandong University,http://dbpedia.org/resource/Shandong_University,144.495
+http://dbpedia.org/resource/Waseda_University,Waseda University,http://dbpedia.org/resource/Waseda_University,143.295
+http://dbpedia.org/resource/University_of_Kentucky,University of Kentucky,http://dbpedia.org/resource/University_of_Kentucky,143.17000000000002
+http://dbpedia.org/resource/Canisius_College,Canisius College,http://dbpedia.org/resource/Canisius_College,142.54
+http://dbpedia.org/resource/Wake_Forest_University,Wake Forest University,http://dbpedia.org/resource/Wake_Forest_University,142.37499999999997
+http://dbpedia.org/resource/Conservatoire_national_des_arts_et_métiers,Conservatoire national des arts et métiers,http://dbpedia.org/resource/Conservatoire_national_des_arts_et_métiers,142.12
+http://dbpedia.org/resource/Juilliard_School,Juilliard School,http://dbpedia.org/resource/Juilliard_School,141.71
+"http://dbpedia.org/resource/Institute_of_Mathematical_Sciences,_Chennai","Institute of Mathematical Sciences, Chennai","http://dbpedia.org/resource/Institute_of_Mathematical_Sciences,_Chennai",141.64499999999998
+http://dbpedia.org/resource/Virginia_Tech,Virginia Tech,http://dbpedia.org/resource/Virginia_Tech,141.6
+http://dbpedia.org/resource/Shanghai_Jiao_Tong_University,Shanghai Jiao Tong University,http://dbpedia.org/resource/Shanghai_Jiao_Tong_University,141.475
+http://dbpedia.org/resource/University_of_Calcutta,University of Calcutta,http://dbpedia.org/resource/University_of_Calcutta,141.16000000000003
+http://dbpedia.org/resource/Washington_and_Lee_University,Washington and Lee University,http://dbpedia.org/resource/Washington_and_Lee_University,140.98
+http://dbpedia.org/resource/Harvard_Business_School,Harvard Business School,http://dbpedia.org/resource/Harvard_Business_School,139.555
+http://dbpedia.org/resource/San_Jose_State_University,San Jose State University,http://dbpedia.org/resource/San_Jose_State_University,139.14
+http://dbpedia.org/resource/Swarthmore_College,Swarthmore College,http://dbpedia.org/resource/Swarthmore_College,138.96
+http://dbpedia.org/resource/University_of_Tokyo,University of Tokyo,http://dbpedia.org/resource/University_of_Tokyo,138.74499999999998
+http://dbpedia.org/resource/University_of_Western_Ontario,University of Western Ontario,http://dbpedia.org/resource/University_of_Western_Ontario,138.59
+http://dbpedia.org/resource/McGill_School_of_Architecture,McGill School of Architecture,http://dbpedia.org/resource/McGill_School_of_Architecture,138.57500000000002
+http://dbpedia.org/resource/North_Carolina_State_University,North Carolina State University,http://dbpedia.org/resource/North_Carolina_State_University,137.07000000000002
+http://dbpedia.org/resource/Marquette_University,Marquette University,http://dbpedia.org/resource/Marquette_University,136.675
+"http://dbpedia.org/resource/California_State_Polytechnic_University,_Pomona","California State Polytechnic University, Pomona","http://dbpedia.org/resource/California_State_Polytechnic_University,_Pomona",136.4
+http://dbpedia.org/resource/Chennai_Mathematical_Institute,Chennai Mathematical Institute,http://dbpedia.org/resource/Chennai_Mathematical_Institute,135.29
+http://dbpedia.org/resource/University_of_Sussex,University of Sussex,http://dbpedia.org/resource/University_of_Sussex,135.28
+http://dbpedia.org/resource/Tulane_University,Tulane University,http://dbpedia.org/resource/Tulane_University,134.55500000000004
+http://dbpedia.org/resource/Hofstra_University,Hofstra University,http://dbpedia.org/resource/Hofstra_University,134.54000000000002
+http://dbpedia.org/resource/Bryn_Mawr_College,Bryn Mawr College,http://dbpedia.org/resource/Bryn_Mawr_College,134.5
+"http://dbpedia.org/resource/Presidency_College,_Chennai","Presidency College, Chennai","http://dbpedia.org/resource/Presidency_College,_Chennai",134.07500000000002
+http://dbpedia.org/resource/Cape_Peninsula_University_of_Technology,Cape Peninsula University of Technology,http://dbpedia.org/resource/Cape_Peninsula_University_of_Technology,133.64
+"http://dbpedia.org/resource/Royal_Holloway,_University_of_London","Royal Holloway, University of London","http://dbpedia.org/resource/Royal_Holloway,_University_of_London",133.6
+http://dbpedia.org/resource/University_of_Warwick,University of Warwick,http://dbpedia.org/resource/University_of_Warwick,133.27
+http://dbpedia.org/resource/Tongji_University,Tongji University,http://dbpedia.org/resource/Tongji_University,132.99999999999997
+http://dbpedia.org/resource/Rajalakshmi_Institute_of_Technology,Rajalakshmi Institute of Technology,http://dbpedia.org/resource/Rajalakshmi_Institute_of_Technology,132.98499999999999
+http://dbpedia.org/resource/University_of_Hong_Kong,University of Hong Kong,http://dbpedia.org/resource/University_of_Hong_Kong,132.29
+"http://dbpedia.org/resource/College_of_Engineering,_Guindy","College of Engineering, Guindy","http://dbpedia.org/resource/College_of_Engineering,_Guindy",132.26000000000002
+http://dbpedia.org/resource/Pratt_Institute,Pratt Institute,http://dbpedia.org/resource/Pratt_Institute,132.225
+http://dbpedia.org/resource/Heidelberg_University,Heidelberg University,http://dbpedia.org/resource/Heidelberg_University,132.07
+http://dbpedia.org/resource/Britannia_Royal_Naval_College,Britannia Royal Naval College,http://dbpedia.org/resource/Britannia_Royal_Naval_College,132.03500000000003
+http://dbpedia.org/resource/Tamil_Nadu_Dr._M.G.R._Medical_University,Tamil Nadu Dr. M.G.R. Medical University,http://dbpedia.org/resource/Tamil_Nadu_Dr._M.G.R._Medical_University,131.39499999999998
+http://dbpedia.org/resource/Lindenwood_University,Lindenwood University,http://dbpedia.org/resource/Lindenwood_University,131.25
+http://dbpedia.org/resource/Case_Western_Reserve_University,Case Western Reserve University,http://dbpedia.org/resource/Case_Western_Reserve_University,131.005
+http://dbpedia.org/resource/Nottingham_Trent_University,Nottingham Trent University,http://dbpedia.org/resource/Nottingham_Trent_University,130.69000000000003
+http://dbpedia.org/resource/Lafayette_College,Lafayette College,http://dbpedia.org/resource/Lafayette_College,130.455
+http://dbpedia.org/resource/University_of_Queensland,University of Queensland,http://dbpedia.org/resource/University_of_Queensland,130.09
+http://dbpedia.org/resource/Rajalakshmi_School_of_Architecture,Rajalakshmi School of Architecture,http://dbpedia.org/resource/Rajalakshmi_School_of_Architecture,129.73499999999999
+http://dbpedia.org/resource/Queen_Mary_University_of_London,Queen Mary University of London,http://dbpedia.org/resource/Queen_Mary_University_of_London,129.55499999999998
+http://dbpedia.org/resource/National_University_of_Singapore,National University of Singapore,http://dbpedia.org/resource/National_University_of_Singapore,129.35999999999999
+http://dbpedia.org/resource/East_China_Normal_University,East China Normal University,http://dbpedia.org/resource/East_China_Normal_University,129.23
+http://dbpedia.org/resource/City_College_of_New_York,City College of New York,http://dbpedia.org/resource/City_College_of_New_York,129.215
+http://dbpedia.org/resource/Rhodes_College,Rhodes College,http://dbpedia.org/resource/Rhodes_College,128.94
+http://dbpedia.org/resource/Brandeis_University,Brandeis University,http://dbpedia.org/resource/Brandeis_University,128.925
+http://dbpedia.org/resource/University_of_Manitoba,University of Manitoba,http://dbpedia.org/resource/University_of_Manitoba,128.78500000000003
+http://dbpedia.org/resource/Morehouse_College,Morehouse College,http://dbpedia.org/resource/Morehouse_College,128.35999999999999
+http://dbpedia.org/resource/Virginia_Military_Institute,Virginia Military Institute,http://dbpedia.org/resource/Virginia_Military_Institute,128.06000000000003
+http://dbpedia.org/resource/Madras_Medical_College,Madras Medical College,http://dbpedia.org/resource/Madras_Medical_College,127.94500000000001
+http://dbpedia.org/resource/Stanley_Medical_College,Stanley Medical College,http://dbpedia.org/resource/Stanley_Medical_College,127.51500000000001
+http://dbpedia.org/resource/University_of_Houston,University of Houston,http://dbpedia.org/resource/University_of_Houston,127.49499999999999
+http://dbpedia.org/resource/Nanjing_University,Nanjing University,http://dbpedia.org/resource/Nanjing_University,127.29500000000002
+http://dbpedia.org/resource/Texas_Southern_University,Texas Southern University,http://dbpedia.org/resource/Texas_Southern_University,126.82000000000001
+http://dbpedia.org/resource/University_of_Aberdeen,University of Aberdeen,http://dbpedia.org/resource/University_of_Aberdeen,126.76500000000001
+http://dbpedia.org/resource/Al-Azhar_University,Al-Azhar University,http://dbpedia.org/resource/Al-Azhar_University,126.58000000000003
+http://dbpedia.org/resource/University_of_York,University of York,http://dbpedia.org/resource/University_of_York,126.32000000000001
+http://dbpedia.org/resource/College_of_William_&_Mary,College of William & Mary,http://dbpedia.org/resource/College_of_William_&_Mary,126.255
+"http://dbpedia.org/resource/Loyola_College,_Chennai","Loyola College, Chennai","http://dbpedia.org/resource/Loyola_College,_Chennai",126.21
+http://dbpedia.org/resource/University_of_Canterbury,University of Canterbury,http://dbpedia.org/resource/University_of_Canterbury,126.065
+http://dbpedia.org/resource/Mount_Holyoke_College,Mount Holyoke College,http://dbpedia.org/resource/Mount_Holyoke_College,125.77000000000001
+http://dbpedia.org/resource/Toronto_Metropolitan_University,Toronto Metropolitan University,http://dbpedia.org/resource/Toronto_Metropolitan_University,125.67000000000002
+http://dbpedia.org/resource/Auburn_University,Auburn University,http://dbpedia.org/resource/Auburn_University,125.33500000000002
+http://dbpedia.org/resource/Wagner_College,Wagner College,http://dbpedia.org/resource/Wagner_College,125.255
+"http://dbpedia.org/resource/University_of_California,_Irvine","University of California, Irvine","http://dbpedia.org/resource/University_of_California,_Irvine",124.70500000000003
+http://dbpedia.org/resource/Smith_College,Smith College,http://dbpedia.org/resource/Smith_College,124.68500000000002
+http://dbpedia.org/resource/Baylor_University,Baylor University,http://dbpedia.org/resource/Baylor_University,124.505
+http://dbpedia.org/resource/Reed_College,Reed College,http://dbpedia.org/resource/Reed_College,124.47000000000001
+http://dbpedia.org/resource/Southern_Illinois_University_Edwardsville,Southern Illinois University Edwardsville,http://dbpedia.org/resource/Southern_Illinois_University_Edwardsville,124.00999999999999
+http://dbpedia.org/resource/University_of_Iowa,University of Iowa,http://dbpedia.org/resource/University_of_Iowa,123.935
+"http://dbpedia.org/resource/University_of_California,_Riverside","University of California, Riverside","http://dbpedia.org/resource/University_of_California,_Riverside",123.905
+http://dbpedia.org/resource/University_of_Oklahoma,University of Oklahoma,http://dbpedia.org/resource/University_of_Oklahoma,123.53500000000003
+http://dbpedia.org/resource/Fisk_University,Fisk University,http://dbpedia.org/resource/Fisk_University,122.91
+http://dbpedia.org/resource/Bowdoin_College,Bowdoin College,http://dbpedia.org/resource/Bowdoin_College,122.825
+http://dbpedia.org/resource/Rensselaer_Polytechnic_Institute,Rensselaer Polytechnic Institute,http://dbpedia.org/resource/Rensselaer_Polytechnic_Institute,122.705
+http://dbpedia.org/resource/Open_University,Open University,http://dbpedia.org/resource/Open_University,122.655
+http://dbpedia.org/resource/Queen's_University_at_Kingston,Queen's University at Kingston,http://dbpedia.org/resource/Queen's_University_at_Kingston,122.64499999999998
+http://dbpedia.org/resource/Unisinos,Unisinos,http://dbpedia.org/resource/Unisinos,122.22500000000001
+http://dbpedia.org/resource/West_Virginia_University,West Virginia University,http://dbpedia.org/resource/West_Virginia_University,121.775
+http://dbpedia.org/resource/University_of_Exeter,University of Exeter,http://dbpedia.org/resource/University_of_Exeter,121.05000000000001
+http://dbpedia.org/resource/University_of_Ottawa,University of Ottawa,http://dbpedia.org/resource/University_of_Ottawa,120.96500000000002
+http://dbpedia.org/resource/Iowa_State_University,Iowa State University,http://dbpedia.org/resource/Iowa_State_University,120.935
+http://dbpedia.org/resource/Madras_Institute_of_Technology,Madras Institute of Technology,http://dbpedia.org/resource/Madras_Institute_of_Technology,120.92000000000002
+http://dbpedia.org/resource/Clark_Atlanta_University,Clark Atlanta University,http://dbpedia.org/resource/Clark_Atlanta_University,120.79499999999999
+http://dbpedia.org/resource/University_of_Bologna,University of Bologna,http://dbpedia.org/resource/University_of_Bologna,120.59500000000001
+http://dbpedia.org/resource/Utah_State_University,Utah State University,http://dbpedia.org/resource/Utah_State_University,120.44500000000001
+http://dbpedia.org/resource/Cardiff_University,Cardiff University,http://dbpedia.org/resource/Cardiff_University,120.14499999999998
+http://dbpedia.org/resource/Middlebury_College,Middlebury College,http://dbpedia.org/resource/Middlebury_College,119.87
+http://dbpedia.org/resource/Officers_Training_Academy,Officers Training Academy,http://dbpedia.org/resource/Officers_Training_Academy,119.74999999999999
+"http://dbpedia.org/resource/California_State_University,_Long_Beach","California State University, Long Beach","http://dbpedia.org/resource/California_State_University,_Long_Beach",119.38999999999999
+http://dbpedia.org/resource/University_of_the_Philippines,University of the Philippines,http://dbpedia.org/resource/University_of_the_Philippines,119.34499999999998
+http://dbpedia.org/resource/Eastern_Nazarene_College,Eastern Nazarene College,http://dbpedia.org/resource/Eastern_Nazarene_College,119.305
+http://dbpedia.org/resource/University_of_Lagos,University of Lagos,http://dbpedia.org/resource/University_of_Lagos,119.21499999999999
+http://dbpedia.org/resource/University_of_Colorado_Boulder,University of Colorado Boulder,http://dbpedia.org/resource/University_of_Colorado_Boulder,119.03999999999999
+http://dbpedia.org/resource/Aberystwyth_University,Aberystwyth University,http://dbpedia.org/resource/Aberystwyth_University,119.01499999999999
+http://dbpedia.org/resource/Temple_University,Temple University,http://dbpedia.org/resource/Temple_University,118.84999999999998
+http://dbpedia.org/resource/University_of_Bonn,University of Bonn,http://dbpedia.org/resource/University_of_Bonn,118.75999999999999
+http://dbpedia.org/resource/Mercer_University,Mercer University,http://dbpedia.org/resource/Mercer_University,118.525
+http://dbpedia.org/resource/Hunter_College,Hunter College,http://dbpedia.org/resource/Hunter_College,118.325
+"http://dbpedia.org/resource/City,_University_of_London","City, University of London","http://dbpedia.org/resource/City,_University_of_London",118.31
+http://dbpedia.org/resource/University_of_Malaya,University of Malaya,http://dbpedia.org/resource/University_of_Malaya,118.11
+http://dbpedia.org/resource/Monterrey_Institute_of_Technology_and_Higher_Education,Monterrey Institute of Technology and Higher Education,http://dbpedia.org/resource/Monterrey_Institute_of_Technology_and_Higher_Education,117.95
+http://dbpedia.org/resource/American_University,American University,http://dbpedia.org/resource/American_University,117.81
+http://dbpedia.org/resource/Dalhousie_University,Dalhousie University,http://dbpedia.org/resource/Dalhousie_University,117.74000000000001
+http://dbpedia.org/resource/Davidson_College,Davidson College,http://dbpedia.org/resource/Davidson_College,117.59500000000001
+http://dbpedia.org/resource/Sri_Ramachandra_Institute_of_Higher_Education_and_Research,Sri Ramachandra Institute of Higher Education and Research,http://dbpedia.org/resource/Sri_Ramachandra_Institute_of_Higher_Education_and_Research,117.41
+http://dbpedia.org/resource/Bard_College,Bard College,http://dbpedia.org/resource/Bard_College,117.375
+http://dbpedia.org/resource/Sarah_Lawrence_College,Sarah Lawrence College,http://dbpedia.org/resource/Sarah_Lawrence_College,116.91499999999999
+http://dbpedia.org/resource/University_of_Dayton,University of Dayton,http://dbpedia.org/resource/University_of_Dayton,116.85000000000001
+http://dbpedia.org/resource/Allegheny_College,Allegheny College,http://dbpedia.org/resource/Allegheny_College,116.605
+http://dbpedia.org/resource/Stonyhurst_College,Stonyhurst College,http://dbpedia.org/resource/Stonyhurst_College,116.36000000000001
+http://dbpedia.org/resource/Hobart_and_William_Smith_Colleges,Hobart and William Smith Colleges,http://dbpedia.org/resource/Hobart_and_William_Smith_Colleges,116.10499999999998
+"http://dbpedia.org/resource/University_of_California,_Santa_Cruz","University of California, Santa Cruz","http://dbpedia.org/resource/University_of_California,_Santa_Cruz",115.94500000000001
+http://dbpedia.org/resource/Oregon_State_University,Oregon State University,http://dbpedia.org/resource/Oregon_State_University,115.46499999999999
+http://dbpedia.org/resource/Southern_Illinois_University_Carbondale,Southern Illinois University Carbondale,http://dbpedia.org/resource/Southern_Illinois_University_Carbondale,115.315
+http://dbpedia.org/resource/Sun_Yat-sen_University,Sun Yat-sen University,http://dbpedia.org/resource/Sun_Yat-sen_University,115.16
+http://dbpedia.org/resource/City_University_of_New_York,City University of New York,http://dbpedia.org/resource/City_University_of_New_York,115.14500000000001
+http://dbpedia.org/resource/Victoria_University_of_Wellington,Victoria University of Wellington,http://dbpedia.org/resource/Victoria_University_of_Wellington,114.71999999999998
+http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America,Jewish Theological Seminary of America,http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America,114.38999999999999
+http://dbpedia.org/resource/North_Carolina_A&T_State_University,North Carolina A&T State University,http://dbpedia.org/resource/North_Carolina_A&T_State_University,114.0
+"http://dbpedia.org/resource/Stella_Maris_College,_Chennai","Stella Maris College, Chennai","http://dbpedia.org/resource/Stella_Maris_College,_Chennai",113.97500000000001
+http://dbpedia.org/resource/Hamilton_College,Hamilton College,http://dbpedia.org/resource/Hamilton_College,113.92999999999998
+http://dbpedia.org/resource/ESSEC_Business_School,ESSEC Business School,http://dbpedia.org/resource/ESSEC_Business_School,113.81500000000001
+http://dbpedia.org/resource/University_of_Westminster,University of Westminster,http://dbpedia.org/resource/University_of_Westminster,113.76999999999998
+http://dbpedia.org/resource/Delhi_University,Delhi University,http://dbpedia.org/resource/Delhi_University,113.63999999999999
+http://dbpedia.org/resource/Egmore_Eye_Hospital,Egmore Eye Hospital,http://dbpedia.org/resource/Egmore_Eye_Hospital,113.54500000000002
+http://dbpedia.org/resource/Tamil_Nadu_Open_University,Tamil Nadu Open University,http://dbpedia.org/resource/Tamil_Nadu_Open_University,113.38999999999999
+http://dbpedia.org/resource/Alagappa_College_of_Technology,Alagappa College of Technology,http://dbpedia.org/resource/Alagappa_College_of_Technology,112.98
+http://dbpedia.org/resource/Colgate_University,Colgate University,http://dbpedia.org/resource/Colgate_University,112.76999999999998
+http://dbpedia.org/resource/Kilpauk_Medical_College,Kilpauk Medical College,http://dbpedia.org/resource/Kilpauk_Medical_College,112.75999999999999
+http://dbpedia.org/resource/National_Film_and_Television_School,National Film and Television School,http://dbpedia.org/resource/National_Film_and_Television_School,112.73
+http://dbpedia.org/resource/University_of_Calgary,University of Calgary,http://dbpedia.org/resource/University_of_Calgary,112.35000000000001
+http://dbpedia.org/resource/Renmin_University_of_China,Renmin University of China,http://dbpedia.org/resource/Renmin_University_of_China,112.24999999999999
+http://dbpedia.org/resource/University_of_Nebraska–Lincoln,University of Nebraska–Lincoln,http://dbpedia.org/resource/University_of_Nebraska–Lincoln,112.19500000000001
+"http://dbpedia.org/resource/Dr._Ambedkar_Government_Law_College,_Chennai","Dr. Ambedkar Government Law College, Chennai","http://dbpedia.org/resource/Dr._Ambedkar_Government_Law_College,_Chennai",112.05000000000001
+http://dbpedia.org/resource/National_Institute_of_Siddha,National Institute of Siddha,http://dbpedia.org/resource/National_Institute_of_Siddha,111.98
+http://dbpedia.org/resource/University_of_Dundee,University of Dundee,http://dbpedia.org/resource/University_of_Dundee,111.79500000000002
+http://dbpedia.org/resource/University_of_the_Western_Cape,University of the Western Cape,http://dbpedia.org/resource/University_of_the_Western_Cape,111.64000000000001
+http://dbpedia.org/resource/Far_Eastern_University,Far Eastern University,http://dbpedia.org/resource/Far_Eastern_University,111.625
+"http://dbpedia.org/resource/Government_Dental_Hospital_and_College,_Chennai","Government Dental Hospital and College, Chennai","http://dbpedia.org/resource/Government_Dental_Hospital_and_College,_Chennai",111.54000000000002
+http://dbpedia.org/resource/University_of_Louisville,University of Louisville,http://dbpedia.org/resource/University_of_Louisville,111.45
+http://dbpedia.org/resource/École_nationale_de_l'aviation_civile,École nationale de l'aviation civile,http://dbpedia.org/resource/École_nationale_de_l'aviation_civile,111.33999999999999
+http://dbpedia.org/resource/Monash_University,Monash University,http://dbpedia.org/resource/Monash_University,111.14500000000001
+http://dbpedia.org/resource/Kansas_State_University,Kansas State University,http://dbpedia.org/resource/Kansas_State_University,111.025
+http://dbpedia.org/resource/University_of_Tennessee,University of Tennessee,http://dbpedia.org/resource/University_of_Tennessee,110.75999999999999
+http://dbpedia.org/resource/Haverford_College,Haverford College,http://dbpedia.org/resource/Haverford_College,110.615
+http://dbpedia.org/resource/University_of_Vermont,University of Vermont,http://dbpedia.org/resource/University_of_Vermont,110.55000000000001
+http://dbpedia.org/resource/Main_campus_of_the_Georgia_Institute_of_Technology,Main campus of the Georgia Institute of Technology,http://dbpedia.org/resource/Main_campus_of_the_Georgia_Institute_of_Technology,110.38
+http://dbpedia.org/resource/École_normale_supérieure_(Paris),École normale supérieure (Paris),http://dbpedia.org/resource/École_normale_supérieure_(Paris),110.29499999999999
+http://dbpedia.org/resource/Dakshina_Bharat_Hindi_Prachar_Sabha,Dakshina Bharat Hindi Prachar Sabha,http://dbpedia.org/resource/Dakshina_Bharat_Hindi_Prachar_Sabha,110.2
+http://dbpedia.org/resource/Pasadena_City_College,Pasadena City College,http://dbpedia.org/resource/Pasadena_City_College,110.08
+http://dbpedia.org/resource/Gadjah_Mada_University,Gadjah Mada University,http://dbpedia.org/resource/Gadjah_Mada_University,110.03999999999999
+http://dbpedia.org/resource/Binghamton_University,Binghamton University,http://dbpedia.org/resource/Binghamton_University,109.98
+http://dbpedia.org/resource/The_New_School,The New School,http://dbpedia.org/resource/The_New_School,109.58
+http://dbpedia.org/resource/Texas_Christian_University,Texas Christian University,http://dbpedia.org/resource/Texas_Christian_University,109.42000000000002
+http://dbpedia.org/resource/University_of_Surrey,University of Surrey,http://dbpedia.org/resource/University_of_Surrey,109.31000000000002
+http://dbpedia.org/resource/York_University,York University,http://dbpedia.org/resource/York_University,109.26500000000001
+http://dbpedia.org/resource/Goucher_College,Goucher College,http://dbpedia.org/resource/Goucher_College,109.03999999999999
+http://dbpedia.org/resource/Fu_Jen_Catholic_University,Fu Jen Catholic University,http://dbpedia.org/resource/Fu_Jen_Catholic_University,108.88499999999999
+http://dbpedia.org/resource/University_of_Ibadan,University of Ibadan,http://dbpedia.org/resource/University_of_Ibadan,108.83500000000002
+http://dbpedia.org/resource/Catholic_University_of_America,Catholic University of America,http://dbpedia.org/resource/Catholic_University_of_America,108.66999999999999
+http://dbpedia.org/resource/Norwich_University,Norwich University,http://dbpedia.org/resource/Norwich_University,108.655
+http://dbpedia.org/resource/Lund_University,Lund University,http://dbpedia.org/resource/Lund_University,108.50999999999999
+http://dbpedia.org/resource/Clemson_University,Clemson University,http://dbpedia.org/resource/Clemson_University,108.47000000000001
+http://dbpedia.org/resource/Denison_University,Denison University,http://dbpedia.org/resource/Denison_University,108.46500000000002
+"http://dbpedia.org/resource/St_Mary's_University,_Twickenham","St Mary's University, Twickenham","http://dbpedia.org/resource/St_Mary's_University,_Twickenham",108.39500000000001
+http://dbpedia.org/resource/Loughborough_University,Loughborough University,http://dbpedia.org/resource/Loughborough_University,108.29500000000002
+http://dbpedia.org/resource/University_of_the_Philippines_Diliman,University of the Philippines Diliman,http://dbpedia.org/resource/University_of_the_Philippines_Diliman,108.22000000000001
+http://dbpedia.org/resource/Pace_University,Pace University,http://dbpedia.org/resource/Pace_University,108.19999999999999
+http://dbpedia.org/resource/Indian_Statistical_Institute,Indian Statistical Institute,http://dbpedia.org/resource/Indian_Statistical_Institute,108.005
+http://dbpedia.org/resource/University_of_Copenhagen,University of Copenhagen,http://dbpedia.org/resource/University_of_Copenhagen,107.47000000000001
+http://dbpedia.org/resource/Lawrence_University,Lawrence University,http://dbpedia.org/resource/Lawrence_University,107.45
+http://dbpedia.org/resource/DG_Vaishnav_College,DG Vaishnav College,http://dbpedia.org/resource/DG_Vaishnav_College,107.355
+http://dbpedia.org/resource/KM_Music_Conservatory,KM Music Conservatory,http://dbpedia.org/resource/KM_Music_Conservatory,107.29999999999998
+http://dbpedia.org/resource/University_of_Pavia,University of Pavia,http://dbpedia.org/resource/University_of_Pavia,106.94500000000001
+http://dbpedia.org/resource/Chulalongkorn_University,Chulalongkorn University,http://dbpedia.org/resource/Chulalongkorn_University,106.91499999999999
+http://dbpedia.org/resource/Grinnell_College,Grinnell College,http://dbpedia.org/resource/Grinnell_College,106.84500000000001
+http://dbpedia.org/resource/Harvard_Medical_School,Harvard Medical School,http://dbpedia.org/resource/Harvard_Medical_School,106.72000000000001
+http://dbpedia.org/resource/University_of_Texas_at_Arlington,University of Texas at Arlington,http://dbpedia.org/resource/University_of_Texas_at_Arlington,106.66999999999999
+http://dbpedia.org/resource/University_of_Victoria,University of Victoria,http://dbpedia.org/resource/University_of_Victoria,106.60000000000001
+http://dbpedia.org/resource/Gettysburg_College,Gettysburg College,http://dbpedia.org/resource/Gettysburg_College,106.53999999999999
+http://dbpedia.org/resource/University_of_Scranton,University of Scranton,http://dbpedia.org/resource/University_of_Scranton,106.36999999999999
+"http://dbpedia.org/resource/National_Institute_of_Technology,_Tiruchirappalli","National Institute of Technology, Tiruchirappalli","http://dbpedia.org/resource/National_Institute_of_Technology,_Tiruchirappalli",106.26999999999998
+http://dbpedia.org/resource/Carleton_College,Carleton College,http://dbpedia.org/resource/Carleton_College,106.19500000000001
+http://dbpedia.org/resource/St._Bonaventure_University,St. Bonaventure University,http://dbpedia.org/resource/St._Bonaventure_University,106.04500000000002
+http://dbpedia.org/resource/Bangor_University,Bangor University,http://dbpedia.org/resource/Bangor_University,105.865
+"http://dbpedia.org/resource/Women's_Christian_College,_Chennai","Women's Christian College, Chennai","http://dbpedia.org/resource/Women's_Christian_College,_Chennai",105.83
+http://dbpedia.org/resource/University_of_North_Texas,University of North Texas,http://dbpedia.org/resource/University_of_North_Texas,105.79000000000002
+http://dbpedia.org/resource/Monmouth_College,Monmouth College,http://dbpedia.org/resource/Monmouth_College,105.75
+http://dbpedia.org/resource/M.O.P._Vaishnav_College_for_Women,M.O.P. Vaishnav College for Women,http://dbpedia.org/resource/M.O.P._Vaishnav_College_for_Women,105.52000000000001
+http://dbpedia.org/resource/Sree_Narayana_Polytechnic_College,Sree Narayana Polytechnic College,http://dbpedia.org/resource/Sree_Narayana_Polytechnic_College,105.22499999999998
+http://dbpedia.org/resource/University_of_Ghana,University of Ghana,http://dbpedia.org/resource/University_of_Ghana,105.13999999999999
+"http://dbpedia.org/resource/Vels_Institute_of_Science,_Technology_&_Advanced_Studies","Vels Institute of Science, Technology & Advanced Studies","http://dbpedia.org/resource/Vels_Institute_of_Science,_Technology_&_Advanced_Studies",105.07
+http://dbpedia.org/resource/Missouri_University_of_Science_and_Technology,Missouri University of Science and Technology,http://dbpedia.org/resource/Missouri_University_of_Science_and_Technology,105.025
+http://dbpedia.org/resource/James_Madison_University,James Madison University,http://dbpedia.org/resource/James_Madison_University,104.95
+http://dbpedia.org/resource/London_Business_School,London Business School,http://dbpedia.org/resource/London_Business_School,104.83999999999999
+http://dbpedia.org/resource/Tamil_Nadu_Music_and_Fine_Arts_University,Tamil Nadu Music and Fine Arts University,http://dbpedia.org/resource/Tamil_Nadu_Music_and_Fine_Arts_University,104.69500000000001
+http://dbpedia.org/resource/Pennsylvania_Academy_of_the_Fine_Arts,Pennsylvania Academy of the Fine Arts,http://dbpedia.org/resource/Pennsylvania_Academy_of_the_Fine_Arts,104.405
+"http://dbpedia.org/resource/Government_College_of_Fine_Arts,_Chennai","Government College of Fine Arts, Chennai","http://dbpedia.org/resource/Government_College_of_Fine_Arts,_Chennai",104.19
+http://dbpedia.org/resource/University_of_Wyoming,University of Wyoming,http://dbpedia.org/resource/University_of_Wyoming,104.18
+http://dbpedia.org/resource/Concordia_University,Concordia University,http://dbpedia.org/resource/Concordia_University,103.86
+http://dbpedia.org/resource/Spelman_College,Spelman College,http://dbpedia.org/resource/Spelman_College,103.82000000000001
+http://dbpedia.org/resource/Old_Dominion_University,Old Dominion University,http://dbpedia.org/resource/Old_Dominion_University,103.78500000000003
+http://dbpedia.org/resource/Stellenbosch_University,Stellenbosch University,http://dbpedia.org/resource/Stellenbosch_University,103.775
+http://dbpedia.org/resource/University_of_Hawaiʻi_at_Mānoa,University of Hawaiʻi at Mānoa,http://dbpedia.org/resource/University_of_Hawaiʻi_at_Mānoa,103.74
+http://dbpedia.org/resource/New_Jersey_Institute_of_Technology,New Jersey Institute of Technology,http://dbpedia.org/resource/New_Jersey_Institute_of_Technology,103.66499999999999
+http://dbpedia.org/resource/Brooklyn_College,Brooklyn College,http://dbpedia.org/resource/Brooklyn_College,103.59500000000001
+http://dbpedia.org/resource/Claremont_McKenna_College,Claremont McKenna College,http://dbpedia.org/resource/Claremont_McKenna_College,103.59499999999998
+http://dbpedia.org/resource/La_Trobe_University,La Trobe University,http://dbpedia.org/resource/La_Trobe_University,103.46
+http://dbpedia.org/resource/Virginia_Commonwealth_University,Virginia Commonwealth University,http://dbpedia.org/resource/Virginia_Commonwealth_University,103.21
+http://dbpedia.org/resource/University_of_Essex,University of Essex,http://dbpedia.org/resource/University_of_Essex,102.995
+http://dbpedia.org/resource/National_Autonomous_University_of_Mexico,National Autonomous University of Mexico,http://dbpedia.org/resource/National_Autonomous_University_of_Mexico,102.74000000000001
+"http://dbpedia.org/resource/University_of_Nevada,_Las_Vegas","University of Nevada, Las Vegas","http://dbpedia.org/resource/University_of_Nevada,_Las_Vegas",102.62
+http://dbpedia.org/resource/Colby_College,Colby College,http://dbpedia.org/resource/Colby_College,102.54499999999999
+http://dbpedia.org/resource/Santa_Clara_University,Santa Clara University,http://dbpedia.org/resource/Santa_Clara_University,102.505
+http://dbpedia.org/resource/Free_University_of_Berlin,Free University of Berlin,http://dbpedia.org/resource/Free_University_of_Berlin,102.105
+http://dbpedia.org/resource/Macalester_College,Macalester College,http://dbpedia.org/resource/Macalester_College,102.065
+http://dbpedia.org/resource/Istanbul_University,Istanbul University,http://dbpedia.org/resource/Istanbul_University,102.035
+http://dbpedia.org/resource/Dickinson_College,Dickinson College,http://dbpedia.org/resource/Dickinson_College,101.98
+http://dbpedia.org/resource/University_of_Kansas,University of Kansas,http://dbpedia.org/resource/University_of_Kansas,101.94500000000001
+http://dbpedia.org/resource/List_of_University_of_Iowa_alumni,List of University of Iowa alumni,http://dbpedia.org/resource/List_of_University_of_Iowa_alumni,101.88
+http://dbpedia.org/resource/International_Institute_of_Tamil_Studies,International Institute of Tamil Studies,http://dbpedia.org/resource/International_Institute_of_Tamil_Studies,101.83
+http://dbpedia.org/resource/Sydney_Conservatorium_of_Music,Sydney Conservatorium of Music,http://dbpedia.org/resource/Sydney_Conservatorium_of_Music,101.265
+http://dbpedia.org/resource/St._Olaf_College,St. Olaf College,http://dbpedia.org/resource/St._Olaf_College,101.245
+http://dbpedia.org/resource/Philippine_Normal_University,Philippine Normal University,http://dbpedia.org/resource/Philippine_Normal_University,101.245
+"http://dbpedia.org/resource/Trinity_College,_Toronto","Trinity College, Toronto","http://dbpedia.org/resource/Trinity_College,_Toronto",101.19
+http://dbpedia.org/resource/Cooper_Union,Cooper Union,http://dbpedia.org/resource/Cooper_Union,101.135
+http://dbpedia.org/resource/Drew_University,Drew University,http://dbpedia.org/resource/Drew_University,101.07
+http://dbpedia.org/resource/Shri_Shankarlal_Sundarbai_Shasun_Jain_College_for_Women,Shri Shankarlal Sundarbai Shasun Jain College for Women,http://dbpedia.org/resource/Shri_Shankarlal_Sundarbai_Shasun_Jain_College_for_Women,100.92999999999999
+http://dbpedia.org/resource/Indian_Military_Academy,Indian Military Academy,http://dbpedia.org/resource/Indian_Military_Academy,100.65499999999999
+http://dbpedia.org/resource/Humboldt_University_of_Berlin,Humboldt University of Berlin,http://dbpedia.org/resource/Humboldt_University_of_Berlin,100.63
+http://dbpedia.org/resource/J.N.N_Arts_&_Science_Women's_College,J.N.N Arts & Science Women's College,http://dbpedia.org/resource/J.N.N_Arts_&_Science_Women's_College,100.50999999999999
+http://dbpedia.org/resource/Gallaudet_University,Gallaudet University,http://dbpedia.org/resource/Gallaudet_University,100.49000000000001
+http://dbpedia.org/resource/Queen's_University_Belfast,Queen's University Belfast,http://dbpedia.org/resource/Queen's_University_Belfast,100.415
+http://dbpedia.org/resource/University_of_Reading,University of Reading,http://dbpedia.org/resource/University_of_Reading,100.31
+http://dbpedia.org/resource/University_of_North_Dakota,University of North Dakota,http://dbpedia.org/resource/University_of_North_Dakota,99.94
+http://dbpedia.org/resource/Loyola_University_Chicago,Loyola University Chicago,http://dbpedia.org/resource/Loyola_University_Chicago,99.92500000000001
+"http://dbpedia.org/resource/Teachers_College,_Columbia_University","Teachers College, Columbia University","http://dbpedia.org/resource/Teachers_College,_Columbia_University",99.88
+http://dbpedia.org/resource/Middle_East_Technical_University,Middle East Technical University,http://dbpedia.org/resource/Middle_East_Technical_University,99.75999999999999
+http://dbpedia.org/resource/Hebrew_University_of_Jerusalem,Hebrew University of Jerusalem,http://dbpedia.org/resource/Hebrew_University_of_Jerusalem,99.665
+http://dbpedia.org/resource/University_of_Wales_Trinity_Saint_David,University of Wales Trinity Saint David,http://dbpedia.org/resource/University_of_Wales_Trinity_Saint_David,99.495
+http://dbpedia.org/resource/Louisiana_Tech_University,Louisiana Tech University,http://dbpedia.org/resource/Louisiana_Tech_University,99.405
+http://dbpedia.org/resource/University_of_Wollongong,University of Wollongong,http://dbpedia.org/resource/University_of_Wollongong,99.25
+http://dbpedia.org/resource/Storer_College,Storer College,http://dbpedia.org/resource/Storer_College,98.91
+http://dbpedia.org/resource/Colorado_State_University,Colorado State University,http://dbpedia.org/resource/Colorado_State_University,98.88
+http://dbpedia.org/resource/Schar_School_of_Policy_and_Government,Schar School of Policy and Government,http://dbpedia.org/resource/Schar_School_of_Policy_and_Government,98.72
+http://dbpedia.org/resource/Hillsdale_College,Hillsdale College,http://dbpedia.org/resource/Hillsdale_College,98.52
+http://dbpedia.org/resource/Aston_University,Aston University,http://dbpedia.org/resource/Aston_University,98.37
+http://dbpedia.org/resource/Franklin_&_Marshall_College,Franklin & Marshall College,http://dbpedia.org/resource/Franklin_&_Marshall_College,98.32499999999999
+http://dbpedia.org/resource/University_of_South_Carolina,University of South Carolina,http://dbpedia.org/resource/University_of_South_Carolina,98.14
+http://dbpedia.org/resource/Xiamen_University,Xiamen University,http://dbpedia.org/resource/Xiamen_University,98.12
+http://dbpedia.org/resource/Kingston_University,Kingston University,http://dbpedia.org/resource/Kingston_University,98.07499999999999
+http://dbpedia.org/resource/University_of_Science_and_Technology_of_China,University of Science and Technology of China,http://dbpedia.org/resource/University_of_Science_and_Technology_of_China,97.825
+http://dbpedia.org/resource/Istanbul_Technical_University,Istanbul Technical University,http://dbpedia.org/resource/Istanbul_Technical_University,97.68
+"http://dbpedia.org/resource/Queen_Mary's_College,_Chennai","Queen Mary's College, Chennai","http://dbpedia.org/resource/Queen_Mary's_College,_Chennai",97.66
+http://dbpedia.org/resource/Florida_Atlantic_University,Florida Atlantic University,http://dbpedia.org/resource/Florida_Atlantic_University,97.37
+http://dbpedia.org/resource/Ball_State_University,Ball State University,http://dbpedia.org/resource/Ball_State_University,97.28500000000001
+http://dbpedia.org/resource/Beijing_Normal_University,Beijing Normal University,http://dbpedia.org/resource/Beijing_Normal_University,97.27999999999999
+http://dbpedia.org/resource/Brunel_University_London,Brunel University London,http://dbpedia.org/resource/Brunel_University_London,97.085
+http://dbpedia.org/resource/Glasgow_School_of_Art,Glasgow School of Art,http://dbpedia.org/resource/Glasgow_School_of_Art,97.025
+http://dbpedia.org/resource/State_University_of_Campinas,State University of Campinas,http://dbpedia.org/resource/State_University_of_Campinas,96.715
+http://dbpedia.org/resource/Duquesne_University,Duquesne University,http://dbpedia.org/resource/Duquesne_University,96.69
+http://dbpedia.org/resource/Simon_Fraser_University,Simon Fraser University,http://dbpedia.org/resource/Simon_Fraser_University,96.65
+http://dbpedia.org/resource/University_of_Warsaw,University of Warsaw,http://dbpedia.org/resource/University_of_Warsaw,96.49000000000001
+http://dbpedia.org/resource/DeVry_University,DeVry University,http://dbpedia.org/resource/DeVry_University,96.46
+http://dbpedia.org/resource/Palacký_University_Olomouc,Palacký University Olomouc,http://dbpedia.org/resource/Palacký_University_Olomouc,96.425
+http://dbpedia.org/resource/University_of_Paris,University of Paris,http://dbpedia.org/resource/University_of_Paris,96.39000000000001
+http://dbpedia.org/resource/University_of_Cincinnati,University of Cincinnati,http://dbpedia.org/resource/University_of_Cincinnati,96.19
+http://dbpedia.org/resource/Madras_Sanskrit_College,Madras Sanskrit College,http://dbpedia.org/resource/Madras_Sanskrit_College,96.02000000000001
+http://dbpedia.org/resource/Hong_Kong_University_of_Science_and_Technology,Hong Kong University of Science and Technology,http://dbpedia.org/resource/Hong_Kong_University_of_Science_and_Technology,96.00999999999999
+http://dbpedia.org/resource/Delft_University_of_Technology,Delft University of Technology,http://dbpedia.org/resource/Delft_University_of_Technology,95.74000000000001
+http://dbpedia.org/resource/Aligarh_Muslim_University,Aligarh Muslim University,http://dbpedia.org/resource/Aligarh_Muslim_University,95.705
+"http://dbpedia.org/resource/Birkbeck,_University_of_London","Birkbeck, University of London","http://dbpedia.org/resource/Birkbeck,_University_of_London",95.58500000000001
+http://dbpedia.org/resource/Makerere_University,Makerere University,http://dbpedia.org/resource/Makerere_University,95.52
+http://dbpedia.org/resource/Bob_Jones_University,Bob Jones University,http://dbpedia.org/resource/Bob_Jones_University,95.355
+http://dbpedia.org/resource/Southeast_University,Southeast University,http://dbpedia.org/resource/Southeast_University,95.35000000000001
+"http://dbpedia.org/resource/Babasaheb_Naik_College_of_Engineering,_Pusad","Babasaheb Naik College of Engineering, Pusad","http://dbpedia.org/resource/Babasaheb_Naik_College_of_Engineering,_Pusad",95.13499999999999
+http://dbpedia.org/resource/Heriot-Watt_University,Heriot-Watt University,http://dbpedia.org/resource/Heriot-Watt_University,94.72
+http://dbpedia.org/resource/Occidental_College,Occidental College,http://dbpedia.org/resource/Occidental_College,94.66000000000001
+http://dbpedia.org/resource/University_of_Strathclyde,University of Strathclyde,http://dbpedia.org/resource/University_of_Strathclyde,94.63499999999999
+http://dbpedia.org/resource/Willamette_University,Willamette University,http://dbpedia.org/resource/Willamette_University,94.625
+http://dbpedia.org/resource/Virginia_Union_University,Virginia Union University,http://dbpedia.org/resource/Virginia_Union_University,94.585
+http://dbpedia.org/resource/Aristotle_University_of_Thessaloniki,Aristotle University of Thessaloniki,http://dbpedia.org/resource/Aristotle_University_of_Thessaloniki,94.275
+http://dbpedia.org/resource/Cochin_University_of_Science_and_Technology,Cochin University of Science and Technology,http://dbpedia.org/resource/Cochin_University_of_Science_and_Technology,94.19
+http://dbpedia.org/resource/Institute_of_Chemical_Technology,Institute of Chemical Technology,http://dbpedia.org/resource/Institute_of_Chemical_Technology,94.04
+http://dbpedia.org/resource/Sweet_Briar_College,Sweet Briar College,http://dbpedia.org/resource/Sweet_Briar_College,94.015
+http://dbpedia.org/resource/KU_Leuven,KU Leuven,http://dbpedia.org/resource/KU_Leuven,93.87
+http://dbpedia.org/resource/Illinois_Institute_of_Technology,Illinois Institute of Technology,http://dbpedia.org/resource/Illinois_Institute_of_Technology,93.855
+http://dbpedia.org/resource/Roja_Muthiah_Research_Library,Roja Muthiah Research Library,http://dbpedia.org/resource/Roja_Muthiah_Research_Library,93.82
+http://dbpedia.org/resource/Antioch_College,Antioch College,http://dbpedia.org/resource/Antioch_College,93.64999999999999
+http://dbpedia.org/resource/University_of_Adelaide,University of Adelaide,http://dbpedia.org/resource/University_of_Adelaide,93.53
+http://dbpedia.org/resource/Centre_College,Centre College,http://dbpedia.org/resource/Centre_College,93.49
+"http://dbpedia.org/resource/Teachers'_College,_Saidapet","Teachers' College, Saidapet","http://dbpedia.org/resource/Teachers'_College,_Saidapet",93.48
+http://dbpedia.org/resource/Stevens_Institute_of_Technology,Stevens Institute of Technology,http://dbpedia.org/resource/Stevens_Institute_of_Technology,93.48
+http://dbpedia.org/resource/Ursinus_College,Ursinus College,http://dbpedia.org/resource/Ursinus_College,93.46499999999999
+http://dbpedia.org/resource/McGill_University_Faculty_of_Law,McGill University Faculty of Law,http://dbpedia.org/resource/McGill_University_Faculty_of_Law,93.44
+http://dbpedia.org/resource/Pontifical_Academy_of_Sciences,Pontifical Academy of Sciences,http://dbpedia.org/resource/Pontifical_Academy_of_Sciences,93.42
+http://dbpedia.org/resource/University_of_Otago,University of Otago,http://dbpedia.org/resource/University_of_Otago,93.34500000000001
+"http://dbpedia.org/resource/Heythrop_College,_University_of_London","Heythrop College, University of London","http://dbpedia.org/resource/Heythrop_College,_University_of_London",93.23
+http://dbpedia.org/resource/Sophia_University,Sophia University,http://dbpedia.org/resource/Sophia_University,93.205
+http://dbpedia.org/resource/Whitman_College,Whitman College,http://dbpedia.org/resource/Whitman_College,93.02999999999999
+http://dbpedia.org/resource/University_of_Maine,University of Maine,http://dbpedia.org/resource/University_of_Maine,92.97000000000001
+http://dbpedia.org/resource/Beaux-Arts_de_Paris,Beaux-Arts de Paris,http://dbpedia.org/resource/Beaux-Arts_de_Paris,92.815
+http://dbpedia.org/resource/Portland_State_University,Portland State University,http://dbpedia.org/resource/Portland_State_University,92.79
+http://dbpedia.org/resource/Grand_Valley_State_University,Grand Valley State University,http://dbpedia.org/resource/Grand_Valley_State_University,92.77
+http://dbpedia.org/resource/Providence_College,Providence College,http://dbpedia.org/resource/Providence_College,92.655
+http://dbpedia.org/resource/Harvard_College,Harvard College,http://dbpedia.org/resource/Harvard_College,92.555
+"http://dbpedia.org/resource/St._Xavier's_College,_Mumbai","St. Xavier's College, Mumbai","http://dbpedia.org/resource/St._Xavier's_College,_Mumbai",92.33999999999999
+http://dbpedia.org/resource/Johnson_C._Smith_University,Johnson C. Smith University,http://dbpedia.org/resource/Johnson_C._Smith_University,92.235
+http://dbpedia.org/resource/University_of_Versailles_Saint-Quentin-en-Yvelines,University of Versailles Saint-Quentin-en-Yvelines,http://dbpedia.org/resource/University_of_Versailles_Saint-Quentin-en-Yvelines,92.15
+http://dbpedia.org/resource/Eckerd_College,Eckerd College,http://dbpedia.org/resource/Eckerd_College,92.09
+http://dbpedia.org/resource/Technical_University_of_Munich,Technical University of Munich,http://dbpedia.org/resource/Technical_University_of_Munich,91.77499999999999
+http://dbpedia.org/resource/St._Mary's_College_of_Maryland,St. Mary's College of Maryland,http://dbpedia.org/resource/St._Mary's_College_of_Maryland,91.77
+http://dbpedia.org/resource/University_of_Gloucestershire,University of Gloucestershire,http://dbpedia.org/resource/University_of_Gloucestershire,91.72500000000001
+http://dbpedia.org/resource/Huston–Tillotson_University,Huston–Tillotson University,http://dbpedia.org/resource/Huston–Tillotson_University,91.675
+http://dbpedia.org/resource/Oklahoma_City_University,Oklahoma City University,http://dbpedia.org/resource/Oklahoma_City_University,91.64500000000001
+http://dbpedia.org/resource/Xavier_University,Xavier University,http://dbpedia.org/resource/Xavier_University,91.625
+http://dbpedia.org/resource/Siena_College,Siena College,http://dbpedia.org/resource/Siena_College,91.61500000000001
+http://dbpedia.org/resource/De_La_Salle–College_of_Saint_Benilde,De La Salle–College of Saint Benilde,http://dbpedia.org/resource/De_La_Salle–College_of_Saint_Benilde,91.58
+http://dbpedia.org/resource/Indian_Institute_of_Management_Calcutta,Indian Institute of Management Calcutta,http://dbpedia.org/resource/Indian_Institute_of_Management_Calcutta,91.52
+http://dbpedia.org/resource/University_of_Massachusetts_Lowell,University of Massachusetts Lowell,http://dbpedia.org/resource/University_of_Massachusetts_Lowell,91.505
+http://dbpedia.org/resource/University_of_Madras,University of Madras,http://dbpedia.org/resource/University_of_Madras,91.415
+http://dbpedia.org/resource/College_of_Magic,College of Magic,http://dbpedia.org/resource/College_of_Magic,91.33999999999999
+http://dbpedia.org/resource/Drexel_University,Drexel University,http://dbpedia.org/resource/Drexel_University,91.32
+http://dbpedia.org/resource/Dayanand_college,Dayanand college,http://dbpedia.org/resource/Dayanand_college,91.22500000000001
+http://dbpedia.org/resource/Jackson_State_University,Jackson State University,http://dbpedia.org/resource/Jackson_State_University,91.21499999999999
+http://dbpedia.org/resource/Oral_Roberts_University,Oral Roberts University,http://dbpedia.org/resource/Oral_Roberts_University,91.10500000000002
+http://dbpedia.org/resource/Hampden–Sydney_College,Hampden–Sydney College,http://dbpedia.org/resource/Hampden–Sydney_College,91.105
+http://dbpedia.org/resource/Aarhus_University,Aarhus University,http://dbpedia.org/resource/Aarhus_University,91.065
+http://dbpedia.org/resource/University_of_Hertfordshire,University of Hertfordshire,http://dbpedia.org/resource/University_of_Hertfordshire,90.81
+http://dbpedia.org/resource/Montana_State_University,Montana State University,http://dbpedia.org/resource/Montana_State_University,90.795
+http://dbpedia.org/resource/Kalamazoo_College,Kalamazoo College,http://dbpedia.org/resource/Kalamazoo_College,90.75
+http://dbpedia.org/resource/United_States_Merchant_Marine_Academy,United States Merchant Marine Academy,http://dbpedia.org/resource/United_States_Merchant_Marine_Academy,90.72999999999999
+http://dbpedia.org/resource/Rhodes_University,Rhodes University,http://dbpedia.org/resource/Rhodes_University,90.44
+http://dbpedia.org/resource/Saint_Joseph's_University,Saint Joseph's University,http://dbpedia.org/resource/Saint_Joseph's_University,90.345
+http://dbpedia.org/resource/State_University_of_New_York_at_Purchase,State University of New York at Purchase,http://dbpedia.org/resource/State_University_of_New_York_at_Purchase,90.255
+http://dbpedia.org/resource/Swansea_University,Swansea University,http://dbpedia.org/resource/Swansea_University,90.125
+http://dbpedia.org/resource/Fairfield_University,Fairfield University,http://dbpedia.org/resource/Fairfield_University,90.03
+http://dbpedia.org/resource/Southwestern_University,Southwestern University,http://dbpedia.org/resource/Southwestern_University,89.96
+http://dbpedia.org/resource/Penn_State_College_of_Engineering,Penn State College of Engineering,http://dbpedia.org/resource/Penn_State_College_of_Engineering,89.915
+http://dbpedia.org/resource/HEC_Paris,HEC Paris,http://dbpedia.org/resource/HEC_Paris,89.905
+http://dbpedia.org/resource/Union_Theological_Seminary_(New_York_City),Union Theological Seminary (New York City),http://dbpedia.org/resource/Union_Theological_Seminary_(New_York_City),89.855
+http://dbpedia.org/resource/Jagiellonian_University,Jagiellonian University,http://dbpedia.org/resource/Jagiellonian_University,89.77000000000001
+http://dbpedia.org/resource/Ithaca_College,Ithaca College,http://dbpedia.org/resource/Ithaca_College,89.77
+http://dbpedia.org/resource/Darul_Uloom_Deoband,Darul Uloom Deoband,http://dbpedia.org/resource/Darul_Uloom_Deoband,89.715
+http://dbpedia.org/resource/Animal_Demography_Unit,Animal Demography Unit,http://dbpedia.org/resource/Animal_Demography_Unit,89.69
+http://dbpedia.org/resource/University_of_Montana,University of Montana,http://dbpedia.org/resource/University_of_Montana,89.67500000000001
+http://dbpedia.org/resource/Instituto_Tecnológico_de_Aeronáutica,Instituto Tecnológico de Aeronáutica,http://dbpedia.org/resource/Instituto_Tecnológico_de_Aeronáutica,89.585
+http://dbpedia.org/resource/Shaw_University,Shaw University,http://dbpedia.org/resource/Shaw_University,89.43
+http://dbpedia.org/resource/Rollins_College,Rollins College,http://dbpedia.org/resource/Rollins_College,89.25
+http://dbpedia.org/resource/University_of_Barcelona,University of Barcelona,http://dbpedia.org/resource/University_of_Barcelona,89.06
+"http://dbpedia.org/resource/Goldsmiths,_University_of_London","Goldsmiths, University of London","http://dbpedia.org/resource/Goldsmiths,_University_of_London",89.055
+http://dbpedia.org/resource/University_of_Indonesia,University of Indonesia,http://dbpedia.org/resource/University_of_Indonesia,88.98
+http://dbpedia.org/resource/St._Ambrose_University,St. Ambrose University,http://dbpedia.org/resource/St._Ambrose_University,88.94999999999999
+http://dbpedia.org/resource/Quinnipiac_University,Quinnipiac University,http://dbpedia.org/resource/Quinnipiac_University,88.94500000000001
+http://dbpedia.org/resource/Ahmadu_Bello_University,Ahmadu Bello University,http://dbpedia.org/resource/Ahmadu_Bello_University,88.915
+http://dbpedia.org/resource/National_Chengchi_University,National Chengchi University,http://dbpedia.org/resource/National_Chengchi_University,88.485
+http://dbpedia.org/resource/University_of_New_Mexico,University of New Mexico,http://dbpedia.org/resource/University_of_New_Mexico,88.395
+http://dbpedia.org/resource/D'Youville_University,D'Youville University,http://dbpedia.org/resource/D'Youville_University,88.35
+http://dbpedia.org/resource/Polytechnic_University_of_the_Philippines,Polytechnic University of the Philippines,http://dbpedia.org/resource/Polytechnic_University_of_the_Philippines,88.28
+http://dbpedia.org/resource/Amrita_Vishwa_Vidyapeetham,Amrita Vishwa Vidyapeetham,http://dbpedia.org/resource/Amrita_Vishwa_Vidyapeetham,88.24000000000001
+http://dbpedia.org/resource/University_College_Cork,University College Cork,http://dbpedia.org/resource/University_College_Cork,88.19
+http://dbpedia.org/resource/National_Centre_for_Radio_Astrophysics,National Centre for Radio Astrophysics,http://dbpedia.org/resource/National_Centre_for_Radio_Astrophysics,88.12
+http://dbpedia.org/resource/University_of_Zagreb,University of Zagreb,http://dbpedia.org/resource/University_of_Zagreb,87.98000000000002
+http://dbpedia.org/resource/University_of_Vienna,University of Vienna,http://dbpedia.org/resource/University_of_Vienna,87.86500000000001
+http://dbpedia.org/resource/State_University_of_New_York_College_of_Environmental_Science_and_Forestry,State University of New York College of Environmental Science and Forestry,http://dbpedia.org/resource/State_University_of_New_York_College_of_Environmental_Science_and_Forestry,87.715
+http://dbpedia.org/resource/East_Carolina_University,East Carolina University,http://dbpedia.org/resource/East_Carolina_University,87.705
+http://dbpedia.org/resource/Jamia_Millia_Islamia,Jamia Millia Islamia,http://dbpedia.org/resource/Jamia_Millia_Islamia,87.64500000000001
+http://dbpedia.org/resource/Norfolk_State_University,Norfolk State University,http://dbpedia.org/resource/Norfolk_State_University,87.49000000000001
+http://dbpedia.org/resource/University_of_Zimbabwe,University of Zimbabwe,http://dbpedia.org/resource/University_of_Zimbabwe,87.40499999999999
+http://dbpedia.org/resource/INSEAD,INSEAD,http://dbpedia.org/resource/INSEAD,87.25
+http://dbpedia.org/resource/Marist_College,Marist College,http://dbpedia.org/resource/Marist_College,87.14
+http://dbpedia.org/resource/Charles_University,Charles University,http://dbpedia.org/resource/Charles_University,87.10000000000001
+http://dbpedia.org/resource/College_of_Wooster,College of Wooster,http://dbpedia.org/resource/College_of_Wooster,87.02
+http://dbpedia.org/resource/Xi'an_Jiaotong_University,Xi'an Jiaotong University,http://dbpedia.org/resource/Xi'an_Jiaotong_University,87.02
+http://dbpedia.org/resource/Indian_Institute_of_Astrophysics,Indian Institute of Astrophysics,http://dbpedia.org/resource/Indian_Institute_of_Astrophysics,86.945
+http://dbpedia.org/resource/Swinburne_University_of_Technology,Swinburne University of Technology,http://dbpedia.org/resource/Swinburne_University_of_Technology,86.83500000000001
+http://dbpedia.org/resource/Naval_War_College,Naval War College,http://dbpedia.org/resource/Naval_War_College,86.80000000000001
+http://dbpedia.org/resource/Vilnius_University,Vilnius University,http://dbpedia.org/resource/Vilnius_University,86.795
+http://dbpedia.org/resource/Beihang_University,Beihang University,http://dbpedia.org/resource/Beihang_University,86.73
+http://dbpedia.org/resource/Xiamen_University_Malaysia,Xiamen University Malaysia,http://dbpedia.org/resource/Xiamen_University_Malaysia,86.645
+http://dbpedia.org/resource/University_of_Michigan–Dearborn,University of Michigan–Dearborn,http://dbpedia.org/resource/University_of_Michigan–Dearborn,86.545
+http://dbpedia.org/resource/University_of_Buenos_Aires,University of Buenos Aires,http://dbpedia.org/resource/University_of_Buenos_Aires,86.47
+http://dbpedia.org/resource/Harvard_Extension_School,Harvard Extension School,http://dbpedia.org/resource/Harvard_Extension_School,86.45
+http://dbpedia.org/resource/University_of_Limerick,University of Limerick,http://dbpedia.org/resource/University_of_Limerick,86.44
+http://dbpedia.org/resource/Savannah_College_of_Art_and_Design,Savannah College of Art and Design,http://dbpedia.org/resource/Savannah_College_of_Art_and_Design,86.38499999999999
+http://dbpedia.org/resource/Bellarmine_University,Bellarmine University,http://dbpedia.org/resource/Bellarmine_University,86.38
+http://dbpedia.org/resource/Monmouth_University,Monmouth University,http://dbpedia.org/resource/Monmouth_University,86.32
+http://dbpedia.org/resource/Macquarie_University,Macquarie University,http://dbpedia.org/resource/Macquarie_University,86.235
+http://dbpedia.org/resource/Eastern_Michigan_University,Eastern Michigan University,http://dbpedia.org/resource/Eastern_Michigan_University,86.20000000000002
+http://dbpedia.org/resource/Trinity_College_(Connecticut),Trinity College (Connecticut),http://dbpedia.org/resource/Trinity_College_(Connecticut),86.19
+http://dbpedia.org/resource/University_of_New_Hampshire,University of New Hampshire,http://dbpedia.org/resource/University_of_New_Hampshire,86.16000000000001
+http://dbpedia.org/resource/Nankai_University,Nankai University,http://dbpedia.org/resource/Nankai_University,86.125
+"http://dbpedia.org/resource/California_State_University,_Dominguez_Hills","California State University, Dominguez Hills","http://dbpedia.org/resource/California_State_University,_Dominguez_Hills",86.07
+http://dbpedia.org/resource/Pepperdine_University,Pepperdine University,http://dbpedia.org/resource/Pepperdine_University,86.065
+http://dbpedia.org/resource/North_Carolina_Central_University,North Carolina Central University,http://dbpedia.org/resource/North_Carolina_Central_University,86.065
+http://dbpedia.org/resource/The_Citadel,The Citadel,http://dbpedia.org/resource/The_Citadel,85.91000000000001
+http://dbpedia.org/resource/Wuhan_University,Wuhan University,http://dbpedia.org/resource/Wuhan_University,85.88999999999999
+http://dbpedia.org/resource/Royal_Roads_Military_College,Royal Roads Military College,http://dbpedia.org/resource/Royal_Roads_Military_College,85.82
+http://dbpedia.org/resource/Loyola_Marymount_University,Loyola Marymount University,http://dbpedia.org/resource/Loyola_Marymount_University,85.74000000000001
+http://dbpedia.org/resource/Edith_Cowan_University,Edith Cowan University,http://dbpedia.org/resource/Edith_Cowan_University,85.7
+http://dbpedia.org/resource/Connecticut_College,Connecticut College,http://dbpedia.org/resource/Connecticut_College,85.485
+http://dbpedia.org/resource/Columbia_Business_School,Columbia Business School,http://dbpedia.org/resource/Columbia_Business_School,85.485
+http://dbpedia.org/resource/Skidmore_College,Skidmore College,http://dbpedia.org/resource/Skidmore_College,85.295
+http://dbpedia.org/resource/OCAD_University,OCAD University,http://dbpedia.org/resource/OCAD_University,85.285
+http://dbpedia.org/resource/Agnes_Scott_College,Agnes Scott College,http://dbpedia.org/resource/Agnes_Scott_College,85.09
+http://dbpedia.org/resource/Laurentian_University,Laurentian University,http://dbpedia.org/resource/Laurentian_University,85.045
+http://dbpedia.org/resource/Iona_University,Iona University,http://dbpedia.org/resource/Iona_University,84.945
+http://dbpedia.org/resource/University_of_Memphis,University of Memphis,http://dbpedia.org/resource/University_of_Memphis,84.875
+http://dbpedia.org/resource/Texas_State_University,Texas State University,http://dbpedia.org/resource/Texas_State_University,84.87
+http://dbpedia.org/resource/University_of_New_Brunswick,University of New Brunswick,http://dbpedia.org/resource/University_of_New_Brunswick,84.78500000000001
+http://dbpedia.org/resource/Ulster_University,Ulster University,http://dbpedia.org/resource/Ulster_University,84.72
+http://dbpedia.org/resource/Staffordshire_University,Staffordshire University,http://dbpedia.org/resource/Staffordshire_University,84.465
+http://dbpedia.org/resource/École_des_ponts_ParisTech,École des ponts ParisTech,http://dbpedia.org/resource/École_des_ponts_ParisTech,84.455
+http://dbpedia.org/resource/Bucknell_University,Bucknell University,http://dbpedia.org/resource/Bucknell_University,84.44500000000001
+http://dbpedia.org/resource/Qualitas_Career_Academy,Qualitas Career Academy,http://dbpedia.org/resource/Qualitas_Career_Academy,84.44
+http://dbpedia.org/resource/Colorado_College,Colorado College,http://dbpedia.org/resource/Colorado_College,84.34500000000001
+http://dbpedia.org/resource/University_of_the_Philippines_Los_Baños,University of the Philippines Los Baños,http://dbpedia.org/resource/University_of_the_Philippines_Los_Baños,84.265
+http://dbpedia.org/resource/Prairie_View_A&M_University,Prairie View A&M University,http://dbpedia.org/resource/Prairie_View_A&M_University,84.17
+http://dbpedia.org/resource/Western_Michigan_University,Western Michigan University,http://dbpedia.org/resource/Western_Michigan_University,84.08500000000001
+http://dbpedia.org/resource/Air_Force_Academy_(India),Air Force Academy (India),http://dbpedia.org/resource/Air_Force_Academy_(India),84.04
+"http://dbpedia.org/resource/University_of_California,_Merced","University of California, Merced","http://dbpedia.org/resource/University_of_California,_Merced",83.97500000000001
+http://dbpedia.org/resource/Paris_Dauphine_University,Paris Dauphine University,http://dbpedia.org/resource/Paris_Dauphine_University,83.88
+http://dbpedia.org/resource/Rowan_University,Rowan University,http://dbpedia.org/resource/Rowan_University,83.87
+http://dbpedia.org/resource/Middlesex_University,Middlesex University,http://dbpedia.org/resource/Middlesex_University,83.845
+"http://dbpedia.org/resource/California_Polytechnic_State_University,_San_Luis_Obispo","California Polytechnic State University, San Luis Obispo","http://dbpedia.org/resource/California_Polytechnic_State_University,_San_Luis_Obispo",83.635
+http://dbpedia.org/resource/Hope_College,Hope College,http://dbpedia.org/resource/Hope_College,83.52999999999999
+http://dbpedia.org/resource/Roanoke_College,Roanoke College,http://dbpedia.org/resource/Roanoke_College,83.5
+http://dbpedia.org/resource/Mississippi_State_University,Mississippi State University,http://dbpedia.org/resource/Mississippi_State_University,83.5
+http://dbpedia.org/resource/Yeshiva_University,Yeshiva University,http://dbpedia.org/resource/Yeshiva_University,83.44500000000001
+http://dbpedia.org/resource/University_of_Leicester,University of Leicester,http://dbpedia.org/resource/University_of_Leicester,83.42
+http://dbpedia.org/resource/University_of_Texas_at_El_Paso,University of Texas at El Paso,http://dbpedia.org/resource/University_of_Texas_at_El_Paso,83.375
+http://dbpedia.org/resource/National_Sun_Yat-sen_University,National Sun Yat-sen University,http://dbpedia.org/resource/National_Sun_Yat-sen_University,83.33
+http://dbpedia.org/resource/University_of_Peradeniya,University of Peradeniya,http://dbpedia.org/resource/University_of_Peradeniya,83.19999999999999
+http://dbpedia.org/resource/Pitzer_College,Pitzer College,http://dbpedia.org/resource/Pitzer_College,83.0
+http://dbpedia.org/resource/Hong_Kong_Baptist_University,Hong Kong Baptist University,http://dbpedia.org/resource/Hong_Kong_Baptist_University,82.98
+http://dbpedia.org/resource/University_of_Puget_Sound,University of Puget Sound,http://dbpedia.org/resource/University_of_Puget_Sound,82.905
+http://dbpedia.org/resource/Michigan_Technological_University,Michigan Technological University,http://dbpedia.org/resource/Michigan_Technological_University,82.83
+http://dbpedia.org/resource/Sapienza_University_of_Rome,Sapienza University of Rome,http://dbpedia.org/resource/Sapienza_University_of_Rome,82.82
+http://dbpedia.org/resource/University_of_the_Philippines_Manila,University of the Philippines Manila,http://dbpedia.org/resource/University_of_the_Philippines_Manila,82.76499999999999
+http://dbpedia.org/resource/Thammasat_University,Thammasat University,http://dbpedia.org/resource/Thammasat_University,82.69
+http://dbpedia.org/resource/Arts_et_Métiers_ParisTech,Arts et Métiers ParisTech,http://dbpedia.org/resource/Arts_et_Métiers_ParisTech,82.36500000000001
+http://dbpedia.org/resource/ETH_Zurich,ETH Zurich,http://dbpedia.org/resource/ETH_Zurich,82.34500000000001
+http://dbpedia.org/resource/University_of_Alabama_at_Birmingham,University of Alabama at Birmingham,http://dbpedia.org/resource/University_of_Alabama_at_Birmingham,82.175
+http://dbpedia.org/resource/Korea_University,Korea University,http://dbpedia.org/resource/Korea_University,82.14999999999999
+http://dbpedia.org/resource/University_of_London_Worldwide,University of London Worldwide,http://dbpedia.org/resource/University_of_London_Worldwide,82.06
+http://dbpedia.org/resource/Sacred_Heart_University,Sacred Heart University,http://dbpedia.org/resource/Sacred_Heart_University,82.02000000000001
+http://dbpedia.org/resource/University_of_Portsmouth,University of Portsmouth,http://dbpedia.org/resource/University_of_Portsmouth,82.005
+http://dbpedia.org/resource/Knox_College_(Illinois),Knox College (Illinois),http://dbpedia.org/resource/Knox_College_(Illinois),81.94
+http://dbpedia.org/resource/Seton_Hall_University,Seton Hall University,http://dbpedia.org/resource/Seton_Hall_University,81.92
+http://dbpedia.org/resource/Naval_Postgraduate_School,Naval Postgraduate School,http://dbpedia.org/resource/Naval_Postgraduate_School,81.86500000000001
+http://dbpedia.org/resource/Morgan_State_University,Morgan State University,http://dbpedia.org/resource/Morgan_State_University,81.845
+http://dbpedia.org/resource/Saint_Anselm_College,Saint Anselm College,http://dbpedia.org/resource/Saint_Anselm_College,81.81
+http://dbpedia.org/resource/Tennessee_State_University,Tennessee State University,http://dbpedia.org/resource/Tennessee_State_University,81.75999999999999
+http://dbpedia.org/resource/Belmont_University,Belmont University,http://dbpedia.org/resource/Belmont_University,81.755
+http://dbpedia.org/resource/Moravian_University,Moravian University,http://dbpedia.org/resource/Moravian_University,81.63
+"http://dbpedia.org/resource/California_State_University,_San_Bernardino","California State University, San Bernardino","http://dbpedia.org/resource/California_State_University,_San_Bernardino",81.56
+http://dbpedia.org/resource/Sewanee:_The_University_of_the_South,Sewanee: The University of the South,http://dbpedia.org/resource/Sewanee:_The_University_of_the_South,81.53
+http://dbpedia.org/resource/Hong_Kong_Polytechnic_University,Hong Kong Polytechnic University,http://dbpedia.org/resource/Hong_Kong_Polytechnic_University,81.48000000000002
+http://dbpedia.org/resource/University_of_Pécs,University of Pécs,http://dbpedia.org/resource/University_of_Pécs,81.415
+http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens,National and Kapodistrian University of Athens,http://dbpedia.org/resource/National_and_Kapodistrian_University_of_Athens,81.36500000000001
+http://dbpedia.org/resource/Lehigh_University,Lehigh University,http://dbpedia.org/resource/Lehigh_University,81.27
+http://dbpedia.org/resource/City_University_of_Hong_Kong,City University of Hong Kong,http://dbpedia.org/resource/City_University_of_Hong_Kong,81.23500000000001
+http://dbpedia.org/resource/Yonsei_University,Yonsei University,http://dbpedia.org/resource/Yonsei_University,81.22000000000001
+http://dbpedia.org/resource/Xavier_University_of_Louisiana,Xavier University of Louisiana,http://dbpedia.org/resource/Xavier_University_of_Louisiana,81.1
+http://dbpedia.org/resource/University_of_Glamorgan,University of Glamorgan,http://dbpedia.org/resource/University_of_Glamorgan,81.09500000000001
+http://dbpedia.org/resource/University_of_Electronic_Science_and_Technology_of_China,University of Electronic Science and Technology of China,http://dbpedia.org/resource/University_of_Electronic_Science_and_Technology_of_China,81.05000000000001
+http://dbpedia.org/resource/College_of_Saint_Benedict_and_Saint_John's_University,College of Saint Benedict and Saint John's University,http://dbpedia.org/resource/College_of_Saint_Benedict_and_Saint_John's_University,81.03500000000001
+http://dbpedia.org/resource/Hugo_Lambrechts_Music_Centre,Hugo Lambrechts Music Centre,http://dbpedia.org/resource/Hugo_Lambrechts_Music_Centre,81.03
+http://dbpedia.org/resource/Hitotsubashi_University,Hitotsubashi University,http://dbpedia.org/resource/Hitotsubashi_University,81.00999999999999
+http://dbpedia.org/resource/University_of_South_Australia,University of South Australia,http://dbpedia.org/resource/University_of_South_Australia,80.965
+http://dbpedia.org/resource/Federal_University_of_ABC,Federal University of ABC,http://dbpedia.org/resource/Federal_University_of_ABC,80.88
+http://dbpedia.org/resource/Hendrix_College,Hendrix College,http://dbpedia.org/resource/Hendrix_College,80.855
+http://dbpedia.org/resource/Harvey_Mudd_College,Harvey Mudd College,http://dbpedia.org/resource/Harvey_Mudd_College,80.855
+http://dbpedia.org/resource/University_of_Tehran,University of Tehran,http://dbpedia.org/resource/University_of_Tehran,80.785
+http://dbpedia.org/resource/Polytechnic_University_of_Milan,Polytechnic University of Milan,http://dbpedia.org/resource/Polytechnic_University_of_Milan,80.745
+http://dbpedia.org/resource/State_University_of_New_York_Upstate_Medical_University,State University of New York Upstate Medical University,http://dbpedia.org/resource/State_University_of_New_York_Upstate_Medical_University,80.725
+http://dbpedia.org/resource/Uniformed_Services_University_of_the_Health_Sciences,Uniformed Services University of the Health Sciences,http://dbpedia.org/resource/Uniformed_Services_University_of_the_Health_Sciences,80.715
+http://dbpedia.org/resource/Complutense_University_of_Madrid,Complutense University of Madrid,http://dbpedia.org/resource/Complutense_University_of_Madrid,80.69
+"http://dbpedia.org/resource/California_State_University,_Sacramento","California State University, Sacramento","http://dbpedia.org/resource/California_State_University,_Sacramento",80.595
+http://dbpedia.org/resource/Karlsruhe_Institute_of_Technology,Karlsruhe Institute of Technology,http://dbpedia.org/resource/Karlsruhe_Institute_of_Technology,80.55
+http://dbpedia.org/resource/St._Edward's_University,St. Edward's University,http://dbpedia.org/resource/St._Edward's_University,80.465
+http://dbpedia.org/resource/University_of_Dhaka,University of Dhaka,http://dbpedia.org/resource/University_of_Dhaka,80.4
+http://dbpedia.org/resource/Institut_d'études_politiques_de_Lyon,Institut d'études politiques de Lyon,http://dbpedia.org/resource/Institut_d'études_politiques_de_Lyon,80.37
+http://dbpedia.org/resource/Tata_Institute_of_Fundamental_Research,Tata Institute of Fundamental Research,http://dbpedia.org/resource/Tata_Institute_of_Fundamental_Research,80.33999999999999
+http://dbpedia.org/resource/Furman_University,Furman University,http://dbpedia.org/resource/Furman_University,80.305
+http://dbpedia.org/resource/Susquehanna_University,Susquehanna University,http://dbpedia.org/resource/Susquehanna_University,80.22500000000001
+http://dbpedia.org/resource/National_Institutes_of_Technology_(India),National Institutes of Technology (India),http://dbpedia.org/resource/National_Institutes_of_Technology_(India),80.11500000000001
+http://dbpedia.org/resource/Miriam_College,Miriam College,http://dbpedia.org/resource/Miriam_College,79.935
+http://dbpedia.org/resource/Bennett_College,Bennett College,http://dbpedia.org/resource/Bennett_College,79.83999999999999
+http://dbpedia.org/resource/Kenyon_College,Kenyon College,http://dbpedia.org/resource/Kenyon_College,79.56000000000002
+http://dbpedia.org/resource/University_of_Belgrade,University of Belgrade,http://dbpedia.org/resource/University_of_Belgrade,79.49000000000001
+http://dbpedia.org/resource/Savannah_State_University,Savannah State University,http://dbpedia.org/resource/Savannah_State_University,79.445
+http://dbpedia.org/resource/Osgoode_Hall_Law_School,Osgoode Hall Law School,http://dbpedia.org/resource/Osgoode_Hall_Law_School,79.435
+http://dbpedia.org/resource/Western_University_of_Health_Sciences,Western University of Health Sciences,http://dbpedia.org/resource/Western_University_of_Health_Sciences,79.35000000000001
+http://dbpedia.org/resource/Shimer_Great_Books_School,Shimer Great Books School,http://dbpedia.org/resource/Shimer_Great_Books_School,79.34
+http://dbpedia.org/resource/Coventry_University,Coventry University,http://dbpedia.org/resource/Coventry_University,79.29000000000002
+http://dbpedia.org/resource/Royal_Military_College_Saint-Jean,Royal Military College Saint-Jean,http://dbpedia.org/resource/Royal_Military_College_Saint-Jean,79.26
+http://dbpedia.org/resource/Université_catholique_de_Louvain,Université catholique de Louvain,http://dbpedia.org/resource/Université_catholique_de_Louvain,79.23
+http://dbpedia.org/resource/University_of_Chester,University of Chester,http://dbpedia.org/resource/University_of_Chester,79.13999999999999
+http://dbpedia.org/resource/Central_University_of_Kerala,Central University of Kerala,http://dbpedia.org/resource/Central_University_of_Kerala,79.045
+http://dbpedia.org/resource/Institut_supérieur_de_l'aéronautique_et_de_l'espace,Institut supérieur de l'aéronautique et de l'espace,http://dbpedia.org/resource/Institut_supérieur_de_l'aéronautique_et_de_l'espace,79.04
+http://dbpedia.org/resource/Lamar_University,Lamar University,http://dbpedia.org/resource/Lamar_University,78.86000000000001
+http://dbpedia.org/resource/IIT_Kharagpur,IIT Kharagpur,http://dbpedia.org/resource/IIT_Kharagpur,78.815
+http://dbpedia.org/resource/Technical_University_of_Berlin,Technical University of Berlin,http://dbpedia.org/resource/Technical_University_of_Berlin,78.665
+"http://dbpedia.org/resource/California_State_University,_Fresno","California State University, Fresno","http://dbpedia.org/resource/California_State_University,_Fresno",78.61000000000001
+http://dbpedia.org/resource/Baruch_College,Baruch College,http://dbpedia.org/resource/Baruch_College,78.445
+http://dbpedia.org/resource/University_of_Alabama_in_Huntsville,University of Alabama in Huntsville,http://dbpedia.org/resource/University_of_Alabama_in_Huntsville,78.34
+http://dbpedia.org/resource/Muhlenberg_College,Muhlenberg College,http://dbpedia.org/resource/Muhlenberg_College,78.29500000000002
+http://dbpedia.org/resource/Lyceum_of_the_Philippines_University,Lyceum of the Philippines University,http://dbpedia.org/resource/Lyceum_of_the_Philippines_University,78.29500000000002
+http://dbpedia.org/resource/Moscow_State_University,Moscow State University,http://dbpedia.org/resource/Moscow_State_University,78.25500000000001
+http://dbpedia.org/resource/École_Centrale_Paris,École Centrale Paris,http://dbpedia.org/resource/École_Centrale_Paris,78.185
+http://dbpedia.org/resource/Indian_Institute_of_Management_Ahmedabad,Indian Institute of Management Ahmedabad,http://dbpedia.org/resource/Indian_Institute_of_Management_Ahmedabad,78.12
+http://dbpedia.org/resource/Barry_University,Barry University,http://dbpedia.org/resource/Barry_University,78.005
+http://dbpedia.org/resource/Indiana_University,Indiana University,http://dbpedia.org/resource/Indiana_University,77.84500000000001
+http://dbpedia.org/resource/Hosei_University,Hosei University,http://dbpedia.org/resource/Hosei_University,77.83500000000001
+http://dbpedia.org/resource/Kerala_University_of_Health_Sciences,Kerala University of Health Sciences,http://dbpedia.org/resource/Kerala_University_of_Health_Sciences,77.82000000000001
+http://dbpedia.org/resource/Salve_Regina_University,Salve Regina University,http://dbpedia.org/resource/Salve_Regina_University,77.705
+http://dbpedia.org/resource/De_Montfort_University,De Montfort University,http://dbpedia.org/resource/De_Montfort_University,77.67
+http://dbpedia.org/resource/Redeemer's_University_Nigeria,Redeemer's University Nigeria,http://dbpedia.org/resource/Redeemer's_University_Nigeria,77.61500000000001
+http://dbpedia.org/resource/Uganda_Management_Institute,Uganda Management Institute,http://dbpedia.org/resource/Uganda_Management_Institute,77.555
+http://dbpedia.org/resource/Florida_A&M_University,Florida A&M University,http://dbpedia.org/resource/Florida_A&M_University,77.52
+http://dbpedia.org/resource/Avondale_University,Avondale University,http://dbpedia.org/resource/Avondale_University,77.495
+http://dbpedia.org/resource/Boğaziçi_University,Boğaziçi University,http://dbpedia.org/resource/Boğaziçi_University,77.42500000000001
+http://dbpedia.org/resource/The_College_of_New_Jersey,The College of New Jersey,http://dbpedia.org/resource/The_College_of_New_Jersey,77.425
+http://dbpedia.org/resource/University_of_KwaZulu-Natal,University of KwaZulu-Natal,http://dbpedia.org/resource/University_of_KwaZulu-Natal,77.42000000000002
+http://dbpedia.org/resource/Colegio_de_San_Juan_de_Letran,Colegio de San Juan de Letran,http://dbpedia.org/resource/Colegio_de_San_Juan_de_Letran,77.35500000000002
+http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich,Ludwig Maximilian University of Munich,http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich,77.34500000000001
+http://dbpedia.org/resource/Scottish_Church_College,Scottish Church College,http://dbpedia.org/resource/Scottish_Church_College,77.28000000000002
+http://dbpedia.org/resource/Princeton_School_of_Public_and_International_Affairs,Princeton School of Public and International Affairs,http://dbpedia.org/resource/Princeton_School_of_Public_and_International_Affairs,77.275
+"http://dbpedia.org/resource/United_Theological_College,_Bangalore","United Theological College, Bangalore","http://dbpedia.org/resource/United_Theological_College,_Bangalore",77.235
+http://dbpedia.org/resource/University_of_Nairobi,University of Nairobi,http://dbpedia.org/resource/University_of_Nairobi,77.21000000000001
+"http://dbpedia.org/resource/St._Thomas_College,_Thrissur","St. Thomas College, Thrissur","http://dbpedia.org/resource/St._Thomas_College,_Thrissur",77.16
+http://dbpedia.org/resource/Peking_Union_Medical_College,Peking Union Medical College,http://dbpedia.org/resource/Peking_Union_Medical_College,77.15
+http://dbpedia.org/resource/ITMO_University,ITMO University,http://dbpedia.org/resource/ITMO_University,77.02
+http://dbpedia.org/resource/Andhra_Christian_Theological_College,Andhra Christian Theological College,http://dbpedia.org/resource/Andhra_Christian_Theological_College,76.94
+http://dbpedia.org/resource/Fairleigh_Dickinson_University,Fairleigh Dickinson University,http://dbpedia.org/resource/Fairleigh_Dickinson_University,76.9
+http://dbpedia.org/resource/Indian_Institute_of_Space_Science_and_Technology,Indian Institute of Space Science and Technology,http://dbpedia.org/resource/Indian_Institute_of_Space_Science_and_Technology,76.88999999999999
+http://dbpedia.org/resource/École_polytechnique,École polytechnique,http://dbpedia.org/resource/École_polytechnique,76.85500000000002
+http://dbpedia.org/resource/National_Dairy_Research_Institute,National Dairy Research Institute,http://dbpedia.org/resource/National_Dairy_Research_Institute,76.85499999999999
+http://dbpedia.org/resource/Sorbonne_University,Sorbonne University,http://dbpedia.org/resource/Sorbonne_University,76.85000000000001
+http://dbpedia.org/resource/University_of_Greenwich,University of Greenwich,http://dbpedia.org/resource/University_of_Greenwich,76.83000000000001
+http://dbpedia.org/resource/Meharry_Medical_College,Meharry Medical College,http://dbpedia.org/resource/Meharry_Medical_College,76.765
+http://dbpedia.org/resource/Sheridan_College,Sheridan College,http://dbpedia.org/resource/Sheridan_College,76.76
+http://dbpedia.org/resource/Webster_University,Webster University,http://dbpedia.org/resource/Webster_University,76.655
+http://dbpedia.org/resource/Ghent_University,Ghent University,http://dbpedia.org/resource/Ghent_University,76.64999999999999
+http://dbpedia.org/resource/University_of_Law,University of Law,http://dbpedia.org/resource/University_of_Law,76.645
+http://dbpedia.org/resource/University_of_Wolverhampton,University of Wolverhampton,http://dbpedia.org/resource/University_of_Wolverhampton,76.615
+http://dbpedia.org/resource/Parsons_School_of_Design,Parsons School of Design,http://dbpedia.org/resource/Parsons_School_of_Design,76.615
+http://dbpedia.org/resource/St._Lawrence_University,St. Lawrence University,http://dbpedia.org/resource/St._Lawrence_University,76.565
+http://dbpedia.org/resource/Kyoto_University,Kyoto University,http://dbpedia.org/resource/Kyoto_University,76.51500000000001
+http://dbpedia.org/resource/University_of_Putra_Malaysia,University of Putra Malaysia,http://dbpedia.org/resource/University_of_Putra_Malaysia,76.455
+http://dbpedia.org/resource/Grosvenor_School_of_Modern_Art,Grosvenor School of Modern Art,http://dbpedia.org/resource/Grosvenor_School_of_Modern_Art,76.43999999999998
+http://dbpedia.org/resource/Institut_national_des_sciences_appliquées_de_Toulouse,Institut national des sciences appliquées de Toulouse,http://dbpedia.org/resource/Institut_national_des_sciences_appliquées_de_Toulouse,76.38
+http://dbpedia.org/resource/Rivers_State_University,Rivers State University,http://dbpedia.org/resource/Rivers_State_University,76.36999999999999
+http://dbpedia.org/resource/Kettering_University,Kettering University,http://dbpedia.org/resource/Kettering_University,76.23
+http://dbpedia.org/resource/Oakwood_University,Oakwood University,http://dbpedia.org/resource/Oakwood_University,76.21499999999999
+http://dbpedia.org/resource/University_of_Toledo,University of Toledo,http://dbpedia.org/resource/University_of_Toledo,76.21000000000001
+http://dbpedia.org/resource/Claflin_University,Claflin University,http://dbpedia.org/resource/Claflin_University,76.105
+http://dbpedia.org/resource/Lincoln_University_(Missouri),Lincoln University (Missouri),http://dbpedia.org/resource/Lincoln_University_(Missouri),76.05
+http://dbpedia.org/resource/University_of_Saskatchewan,University of Saskatchewan,http://dbpedia.org/resource/University_of_Saskatchewan,76.035
+http://dbpedia.org/resource/Emerson_College,Emerson College,http://dbpedia.org/resource/Emerson_College,75.94500000000001
+"http://dbpedia.org/resource/California_State_University,_East_Bay","California State University, East Bay","http://dbpedia.org/resource/California_State_University,_East_Bay",75.92
+http://dbpedia.org/resource/Bennington_College,Bennington College,http://dbpedia.org/resource/Bennington_College,75.905
+http://dbpedia.org/resource/St._John's_University_(New_York_City),St. John's University (New York City),http://dbpedia.org/resource/St._John's_University_(New_York_City),75.905
+http://dbpedia.org/resource/Dallas_Baptist_University,Dallas Baptist University,http://dbpedia.org/resource/Dallas_Baptist_University,75.855
+http://dbpedia.org/resource/Rosemont_College,Rosemont College,http://dbpedia.org/resource/Rosemont_College,75.84000000000002
+http://dbpedia.org/resource/Montclair_State_University,Montclair State University,http://dbpedia.org/resource/Montclair_State_University,75.82499999999999
+http://dbpedia.org/resource/Paul_Quinn_College,Paul Quinn College,http://dbpedia.org/resource/Paul_Quinn_College,75.82000000000001
+http://dbpedia.org/resource/Indian_Institute_of_Management_Bangalore,Indian Institute of Management Bangalore,http://dbpedia.org/resource/Indian_Institute_of_Management_Bangalore,75.80000000000001
+http://dbpedia.org/resource/Westmont_College,Westmont College,http://dbpedia.org/resource/Westmont_College,75.76
+http://dbpedia.org/resource/Whittier_College,Whittier College,http://dbpedia.org/resource/Whittier_College,75.675
+http://dbpedia.org/resource/Santa_Monica_College,Santa Monica College,http://dbpedia.org/resource/Santa_Monica_College,75.605
+http://dbpedia.org/resource/Nanjing_Normal_University,Nanjing Normal University,http://dbpedia.org/resource/Nanjing_Normal_University,75.58999999999999
+"http://dbpedia.org/resource/All_India_Institute_of_Medical_Sciences,_New_Delhi","All India Institute of Medical Sciences, New Delhi","http://dbpedia.org/resource/All_India_Institute_of_Medical_Sciences,_New_Delhi",75.535
+http://dbpedia.org/resource/University_of_Stirling,University of Stirling,http://dbpedia.org/resource/University_of_Stirling,75.415
+http://dbpedia.org/resource/Abilene_Christian_University,Abilene Christian University,http://dbpedia.org/resource/Abilene_Christian_University,75.34
+http://dbpedia.org/resource/Lingnan_University,Lingnan University,http://dbpedia.org/resource/Lingnan_University,75.305
+http://dbpedia.org/resource/University_of_Bergen,University of Bergen,http://dbpedia.org/resource/University_of_Bergen,75.245
+http://dbpedia.org/resource/New_York_University_Tandon_School_of_Engineering,New York University Tandon School of Engineering,http://dbpedia.org/resource/New_York_University_Tandon_School_of_Engineering,75.15000000000002
+http://dbpedia.org/resource/Dalian_Neusoft_University_of_Information,Dalian Neusoft University of Information,http://dbpedia.org/resource/Dalian_Neusoft_University_of_Information,75.14
+http://dbpedia.org/resource/University_of_St._Thomas_(Minnesota),University of St. Thomas (Minnesota),http://dbpedia.org/resource/University_of_St._Thomas_(Minnesota),75.13
+http://dbpedia.org/resource/IIT_Madras,IIT Madras,http://dbpedia.org/resource/IIT_Madras,75.08
+http://dbpedia.org/resource/New_Mexico_State_University,New Mexico State University,http://dbpedia.org/resource/New_Mexico_State_University,75.05
+http://dbpedia.org/resource/Bohdan_Khmelnytsky_Melitopol_State_Pedagogical_University,Bohdan Khmelnytsky Melitopol State Pedagogical University,http://dbpedia.org/resource/Bohdan_Khmelnytsky_Melitopol_State_Pedagogical_University,74.97
+http://dbpedia.org/resource/University_of_Greifswald,University of Greifswald,http://dbpedia.org/resource/University_of_Greifswald,74.81500000000001
+http://dbpedia.org/resource/Central_Marine_Fisheries_Research_Institute,Central Marine Fisheries Research Institute,http://dbpedia.org/resource/Central_Marine_Fisheries_Research_Institute,74.81
+http://dbpedia.org/resource/Columbia_University_School_of_General_Studies,Columbia University School of General Studies,http://dbpedia.org/resource/Columbia_University_School_of_General_Studies,74.81
+http://dbpedia.org/resource/Taylor_University,Taylor University,http://dbpedia.org/resource/Taylor_University,74.8
+http://dbpedia.org/resource/City_College_of_San_Francisco,City College of San Francisco,http://dbpedia.org/resource/City_College_of_San_Francisco,74.71000000000001
+http://dbpedia.org/resource/Pan-Atlantic_University,Pan-Atlantic University,http://dbpedia.org/resource/Pan-Atlantic_University,74.67
+http://dbpedia.org/resource/Biola_University,Biola University,http://dbpedia.org/resource/Biola_University,74.665
+http://dbpedia.org/resource/Grenoble_Institute_of_Technology,Grenoble Institute of Technology,http://dbpedia.org/resource/Grenoble_Institute_of_Technology,74.66499999999999
+http://dbpedia.org/resource/Alcorn_State_University,Alcorn State University,http://dbpedia.org/resource/Alcorn_State_University,74.57
+http://dbpedia.org/resource/University_of_Benin_(Nigeria),University of Benin (Nigeria),http://dbpedia.org/resource/University_of_Benin_(Nigeria),74.545
+http://dbpedia.org/resource/South_Carolina_State_University,South Carolina State University,http://dbpedia.org/resource/South_Carolina_State_University,74.52000000000001
+http://dbpedia.org/resource/Loyola_University_Maryland,Loyola University Maryland,http://dbpedia.org/resource/Loyola_University_Maryland,74.52000000000001
+http://dbpedia.org/resource/Osaka_Institute_of_Technology,Osaka Institute of Technology,http://dbpedia.org/resource/Osaka_Institute_of_Technology,74.42
+http://dbpedia.org/resource/Goddard_College,Goddard College,http://dbpedia.org/resource/Goddard_College,74.39500000000001
+http://dbpedia.org/resource/Le_Cordon_Bleu,Le Cordon Bleu,http://dbpedia.org/resource/Le_Cordon_Bleu,74.38
+http://dbpedia.org/resource/Gustavus_Adolphus_College,Gustavus Adolphus College,http://dbpedia.org/resource/Gustavus_Adolphus_College,74.315
+http://dbpedia.org/resource/Oxford_College_of_Emory_University,Oxford College of Emory University,http://dbpedia.org/resource/Oxford_College_of_Emory_University,74.17
+http://dbpedia.org/resource/National_Law_School_of_India_University,National Law School of India University,http://dbpedia.org/resource/National_Law_School_of_India_University,74.09
+http://dbpedia.org/resource/Cairo_University,Cairo University,http://dbpedia.org/resource/Cairo_University,74.08000000000001
+http://dbpedia.org/resource/Pacific_Union_College,Pacific Union College,http://dbpedia.org/resource/Pacific_Union_College,74.055
+http://dbpedia.org/resource/Calvin_University,Calvin University,http://dbpedia.org/resource/Calvin_University,73.965
+http://dbpedia.org/resource/Trinity_Western_University,Trinity Western University,http://dbpedia.org/resource/Trinity_Western_University,73.94
+http://dbpedia.org/resource/Royal_College_of_Art,Royal College of Art,http://dbpedia.org/resource/Royal_College_of_Art,73.91
+http://dbpedia.org/resource/William_Paterson_University,William Paterson University,http://dbpedia.org/resource/William_Paterson_University,73.9
+http://dbpedia.org/resource/Delhi_School_of_Economics,Delhi School of Economics,http://dbpedia.org/resource/Delhi_School_of_Economics,73.86
+http://dbpedia.org/resource/Adamson_University,Adamson University,http://dbpedia.org/resource/Adamson_University,73.84500000000001
+http://dbpedia.org/resource/Mount_St._Mary's_University,Mount St. Mary's University,http://dbpedia.org/resource/Mount_St._Mary's_University,73.815
+http://dbpedia.org/resource/North_Dakota_State_University,North Dakota State University,http://dbpedia.org/resource/North_Dakota_State_University,73.79
+http://dbpedia.org/resource/Babcock_University,Babcock University,http://dbpedia.org/resource/Babcock_University,73.75
+http://dbpedia.org/resource/University_of_Evansville,University of Evansville,http://dbpedia.org/resource/University_of_Evansville,73.72500000000001
+http://dbpedia.org/resource/ESCP_Business_School,ESCP Business School,http://dbpedia.org/resource/ESCP_Business_School,73.7
+http://dbpedia.org/resource/Texas_A&M_University–Kingsville,Texas A&M University–Kingsville,http://dbpedia.org/resource/Texas_A&M_University–Kingsville,73.625
+http://dbpedia.org/resource/University_of_Detroit_Mercy,University of Detroit Mercy,http://dbpedia.org/resource/University_of_Detroit_Mercy,73.605
+http://dbpedia.org/resource/Kasetsart_University,Kasetsart University,http://dbpedia.org/resource/Kasetsart_University,73.53
+http://dbpedia.org/resource/University_of_Central_Lancashire,University of Central Lancashire,http://dbpedia.org/resource/University_of_Central_Lancashire,73.45500000000001
+http://dbpedia.org/resource/Hollins_University,Hollins University,http://dbpedia.org/resource/Hollins_University,73.4
+http://dbpedia.org/resource/Sichuan_University,Sichuan University,http://dbpedia.org/resource/Sichuan_University,73.355
+http://dbpedia.org/resource/Technical_University_of_Madrid,Technical University of Madrid,http://dbpedia.org/resource/Technical_University_of_Madrid,73.345
+http://dbpedia.org/resource/Haskell_Indian_Nations_University,Haskell Indian Nations University,http://dbpedia.org/resource/Haskell_Indian_Nations_University,73.33999999999999
+http://dbpedia.org/resource/Bush_School_of_Government_and_Public_Service,Bush School of Government and Public Service,http://dbpedia.org/resource/Bush_School_of_Government_and_Public_Service,73.165
+http://dbpedia.org/resource/Lone_Star_College_System,Lone Star College System,http://dbpedia.org/resource/Lone_Star_College_System,73.135
+http://dbpedia.org/resource/Cranfield_University,Cranfield University,http://dbpedia.org/resource/Cranfield_University,73.13499999999999
+http://dbpedia.org/resource/College_of_New_Rochelle,College of New Rochelle,http://dbpedia.org/resource/College_of_New_Rochelle,73.115
+"http://dbpedia.org/resource/Government_Medical_College,_Thrissur","Government Medical College, Thrissur","http://dbpedia.org/resource/Government_Medical_College,_Thrissur",72.97
+http://dbpedia.org/resource/Mercyhurst_University,Mercyhurst University,http://dbpedia.org/resource/Mercyhurst_University,72.96500000000002
+http://dbpedia.org/resource/North-West_University,North-West University,http://dbpedia.org/resource/North-West_University,72.945
+http://dbpedia.org/resource/New_York_Film_Academy,New York Film Academy,http://dbpedia.org/resource/New_York_Film_Academy,72.93499999999999
+http://dbpedia.org/resource/Leiden_University,Leiden University,http://dbpedia.org/resource/Leiden_University,72.89
+http://dbpedia.org/resource/Philander_Smith_College,Philander Smith College,http://dbpedia.org/resource/Philander_Smith_College,72.815
+http://dbpedia.org/resource/Massey_University,Massey University,http://dbpedia.org/resource/Massey_University,72.775
+http://dbpedia.org/resource/Oklahoma_State_University–Stillwater,Oklahoma State University–Stillwater,http://dbpedia.org/resource/Oklahoma_State_University–Stillwater,72.77
+http://dbpedia.org/resource/Maastricht_University,Maastricht University,http://dbpedia.org/resource/Maastricht_University,72.72500000000001
+http://dbpedia.org/resource/Sree_Narayanaguru_Open_University,Sree Narayanaguru Open University,http://dbpedia.org/resource/Sree_Narayanaguru_Open_University,72.58999999999999
+http://dbpedia.org/resource/International_Christian_University,International Christian University,http://dbpedia.org/resource/International_Christian_University,72.535
+http://dbpedia.org/resource/Narula_Institute_of_Technology,Narula Institute of Technology,http://dbpedia.org/resource/Narula_Institute_of_Technology,72.52000000000001
+http://dbpedia.org/resource/University_of_Hull,University of Hull,http://dbpedia.org/resource/University_of_Hull,72.52
+http://dbpedia.org/resource/HEC_Montréal,HEC Montréal,http://dbpedia.org/resource/HEC_Montréal,72.39
+http://dbpedia.org/resource/Houston_Community_College,Houston Community College,http://dbpedia.org/resource/Houston_Community_College,72.3
+http://dbpedia.org/resource/University_of_Windsor,University of Windsor,http://dbpedia.org/resource/University_of_Windsor,72.295
+http://dbpedia.org/resource/Indian_Institute_of_Management_Kozhikode,Indian Institute of Management Kozhikode,http://dbpedia.org/resource/Indian_Institute_of_Management_Kozhikode,72.235
+http://dbpedia.org/resource/University_of_Valle,University of Valle,http://dbpedia.org/resource/University_of_Valle,72.22500000000001
+http://dbpedia.org/resource/École_Polytechnique_Fédérale_de_Lausanne,École Polytechnique Fédérale de Lausanne,http://dbpedia.org/resource/École_Polytechnique_Fédérale_de_Lausanne,72.2
+http://dbpedia.org/resource/University_of_Wisconsin–Milwaukee,University of Wisconsin–Milwaukee,http://dbpedia.org/resource/University_of_Wisconsin–Milwaukee,72.19999999999999
+http://dbpedia.org/resource/Maryland_Institute_College_of_Art,Maryland Institute College of Art,http://dbpedia.org/resource/Maryland_Institute_College_of_Art,72.155
+http://dbpedia.org/resource/Paul_H._Nitze_School_of_Advanced_International_Studies,Paul H. Nitze School of Advanced International Studies,http://dbpedia.org/resource/Paul_H._Nitze_School_of_Advanced_International_Studies,72.12999999999998
+http://dbpedia.org/resource/Earlham_College,Earlham College,http://dbpedia.org/resource/Earlham_College,72.11
+http://dbpedia.org/resource/University_of_Fort_Hare,University of Fort Hare,http://dbpedia.org/resource/University_of_Fort_Hare,72.02499999999999
+http://dbpedia.org/resource/Federal_University_of_Technology_Owerri,Federal University of Technology Owerri,http://dbpedia.org/resource/Federal_University_of_Technology_Owerri,72.0
+http://dbpedia.org/resource/Hampshire_College,Hampshire College,http://dbpedia.org/resource/Hampshire_College,71.865
+http://dbpedia.org/resource/Beijing_Institute_of_Technology,Beijing Institute of Technology,http://dbpedia.org/resource/Beijing_Institute_of_Technology,71.855
+http://dbpedia.org/resource/Jawaharlal_Nehru_University,Jawaharlal Nehru University,http://dbpedia.org/resource/Jawaharlal_Nehru_University,71.69500000000001
+http://dbpedia.org/resource/LaGuardia_Community_College,LaGuardia Community College,http://dbpedia.org/resource/LaGuardia_Community_College,71.64500000000001
+http://dbpedia.org/resource/Schulich_School_of_Law,Schulich School of Law,http://dbpedia.org/resource/Schulich_School_of_Law,71.64
+http://dbpedia.org/resource/St._Augustine's_University_(North_Carolina),St. Augustine's University (North Carolina),http://dbpedia.org/resource/St._Augustine's_University_(North_Carolina),71.63
+http://dbpedia.org/resource/Damelin,Damelin,http://dbpedia.org/resource/Damelin,71.58000000000001
+http://dbpedia.org/resource/University_of_Tulsa,University of Tulsa,http://dbpedia.org/resource/University_of_Tulsa,71.565
+http://dbpedia.org/resource/National_Institute_of_Mental_Health_and_Neurosciences,National Institute of Mental Health and Neurosciences,http://dbpedia.org/resource/National_Institute_of_Mental_Health_and_Neurosciences,71.55
+http://dbpedia.org/resource/University_of_Calabar,University of Calabar,http://dbpedia.org/resource/University_of_Calabar,71.54
+"http://dbpedia.org/resource/Haryana_Space_Applications_Centre,_Hisar","Haryana Space Applications Centre, Hisar","http://dbpedia.org/resource/Haryana_Space_Applications_Centre,_Hisar",71.505
+http://dbpedia.org/resource/Kenyatta_University,Kenyatta University,http://dbpedia.org/resource/Kenyatta_University,71.49000000000001
+http://dbpedia.org/resource/Inter-University_Centre_for_Astronomy_and_Astrophysics,Inter-University Centre for Astronomy and Astrophysics,http://dbpedia.org/resource/Inter-University_Centre_for_Astronomy_and_Astrophysics,71.49
+http://dbpedia.org/resource/University_of_Lviv,University of Lviv,http://dbpedia.org/resource/University_of_Lviv,71.485
+http://dbpedia.org/resource/Hamline_University,Hamline University,http://dbpedia.org/resource/Hamline_University,71.485
+http://dbpedia.org/resource/University_of_Western_Australia,University of Western Australia,http://dbpedia.org/resource/University_of_Western_Australia,71.455
+http://dbpedia.org/resource/Texas_Woman's_University,Texas Woman's University,http://dbpedia.org/resource/Texas_Woman's_University,71.44
+http://dbpedia.org/resource/Robert_Gordon_University,Robert Gordon University,http://dbpedia.org/resource/Robert_Gordon_University,71.435
+http://dbpedia.org/resource/Wabash_College,Wabash College,http://dbpedia.org/resource/Wabash_College,71.435
+http://dbpedia.org/resource/University_of_the_Arts_London,University of the Arts London,http://dbpedia.org/resource/University_of_the_Arts_London,71.295
+http://dbpedia.org/resource/Barber–Scotia_College,Barber–Scotia College,http://dbpedia.org/resource/Barber–Scotia_College,71.24999999999999
+http://dbpedia.org/resource/University_of_South_Africa,University of South Africa,http://dbpedia.org/resource/University_of_South_Africa,71.19500000000001
+http://dbpedia.org/resource/University_of_Lille,University of Lille,http://dbpedia.org/resource/University_of_Lille,71.145
+http://dbpedia.org/resource/Minzu_University_of_China,Minzu University of China,http://dbpedia.org/resource/Minzu_University_of_China,71.125
+http://dbpedia.org/resource/Armed_Forces_Medical_College,Armed Forces Medical College,http://dbpedia.org/resource/Armed_Forces_Medical_College,71.05499999999999
+http://dbpedia.org/resource/Leeds_Trinity_University,Leeds Trinity University,http://dbpedia.org/resource/Leeds_Trinity_University,71.02499999999999
+http://dbpedia.org/resource/Murray_State_University,Murray State University,http://dbpedia.org/resource/Murray_State_University,71.015
+http://dbpedia.org/resource/University_of_Richmond,University of Richmond,http://dbpedia.org/resource/University_of_Richmond,70.99499999999999
+http://dbpedia.org/resource/Universiti_Teknologi_MARA,Universiti Teknologi MARA,http://dbpedia.org/resource/Universiti_Teknologi_MARA,70.985
+http://dbpedia.org/resource/Western_Washington_University,Western Washington University,http://dbpedia.org/resource/Western_Washington_University,70.915
+http://dbpedia.org/resource/Dillard_University,Dillard University,http://dbpedia.org/resource/Dillard_University,70.885
+http://dbpedia.org/resource/Hunan_University,Hunan University,http://dbpedia.org/resource/Hunan_University,70.82
+http://dbpedia.org/resource/Full_Sail_University,Full Sail University,http://dbpedia.org/resource/Full_Sail_University,70.67
+http://dbpedia.org/resource/IIT_Kanpur,IIT Kanpur,http://dbpedia.org/resource/IIT_Kanpur,70.55999999999999
+http://dbpedia.org/resource/University_of_North_Carolina_at_Greensboro,University of North Carolina at Greensboro,http://dbpedia.org/resource/University_of_North_Carolina_at_Greensboro,70.555
+"http://dbpedia.org/resource/Islamic_University,_Bangladesh","Islamic University, Bangladesh","http://dbpedia.org/resource/Islamic_University,_Bangladesh",70.53
+http://dbpedia.org/resource/Icahn_School_of_Medicine_at_Mount_Sinai,Icahn School of Medicine at Mount Sinai,http://dbpedia.org/resource/Icahn_School_of_Medicine_at_Mount_Sinai,70.5
+http://dbpedia.org/resource/Meiji_University,Meiji University,http://dbpedia.org/resource/Meiji_University,70.47000000000001
+"http://dbpedia.org/resource/Faculty_of_Arts,_Banaras_Hindu_University","Faculty of Arts, Banaras Hindu University","http://dbpedia.org/resource/Faculty_of_Arts,_Banaras_Hindu_University",70.445
+http://dbpedia.org/resource/University_of_Geneva,University of Geneva,http://dbpedia.org/resource/University_of_Geneva,70.435
+http://dbpedia.org/resource/University_of_Prince_Edward_Island,University of Prince Edward Island,http://dbpedia.org/resource/University_of_Prince_Edward_Island,70.3
+http://dbpedia.org/resource/Elmhurst_University,Elmhurst University,http://dbpedia.org/resource/Elmhurst_University,70.295
+http://dbpedia.org/resource/Bocconi_University,Bocconi University,http://dbpedia.org/resource/Bocconi_University,70.28
+http://dbpedia.org/resource/Royal_National_College_for_the_Blind,Royal National College for the Blind,http://dbpedia.org/resource/Royal_National_College_for_the_Blind,70.25500000000001
+http://dbpedia.org/resource/RWTH_Aachen_University,RWTH Aachen University,http://dbpedia.org/resource/RWTH_Aachen_University,70.25
+http://dbpedia.org/resource/École_des_Mines_de_Douai,École des Mines de Douai,http://dbpedia.org/resource/École_des_Mines_de_Douai,70.205
+http://dbpedia.org/resource/Cornell_Tech,Cornell Tech,http://dbpedia.org/resource/Cornell_Tech,70.125
+http://dbpedia.org/resource/Technion_–_Israel_Institute_of_Technology,Technion – Israel Institute of Technology,http://dbpedia.org/resource/Technion_–_Israel_Institute_of_Technology,70.11
+http://dbpedia.org/resource/Albion_College,Albion College,http://dbpedia.org/resource/Albion_College,70.08999999999999
+http://dbpedia.org/resource/University_of_Idaho,University of Idaho,http://dbpedia.org/resource/University_of_Idaho,70.07
+http://dbpedia.org/resource/Emlyon_Business_School,Emlyon Business School,http://dbpedia.org/resource/Emlyon_Business_School,70.04
+http://dbpedia.org/resource/Tougaloo_College,Tougaloo College,http://dbpedia.org/resource/Tougaloo_College,70.01
+http://dbpedia.org/resource/University_of_Port_Harcourt,University of Port Harcourt,http://dbpedia.org/resource/University_of_Port_Harcourt,69.915
+"http://dbpedia.org/resource/Federal_University_of_Agriculture,_Abeokuta","Federal University of Agriculture, Abeokuta","http://dbpedia.org/resource/Federal_University_of_Agriculture,_Abeokuta",69.915
+http://dbpedia.org/resource/Maryville_University,Maryville University,http://dbpedia.org/resource/Maryville_University,69.82
+http://dbpedia.org/resource/University_of_Helsinki,University of Helsinki,http://dbpedia.org/resource/University_of_Helsinki,69.74499999999999
+http://dbpedia.org/resource/South_Dakota_State_University,South Dakota State University,http://dbpedia.org/resource/South_Dakota_State_University,69.65500000000002
+http://dbpedia.org/resource/University_of_Huddersfield,University of Huddersfield,http://dbpedia.org/resource/University_of_Huddersfield,69.645
+http://dbpedia.org/resource/Butler_University,Butler University,http://dbpedia.org/resource/Butler_University,69.645
+"http://dbpedia.org/resource/Newman_University,_Birmingham","Newman University, Birmingham","http://dbpedia.org/resource/Newman_University,_Birmingham",69.63
+"http://dbpedia.org/resource/University_at_Albany,_SUNY","University at Albany, SUNY","http://dbpedia.org/resource/University_at_Albany,_SUNY",69.60000000000001
+"http://dbpedia.org/resource/School_of_International_and_Public_Affairs,_Columbia_University","School of International and Public Affairs, Columbia University","http://dbpedia.org/resource/School_of_International_and_Public_Affairs,_Columbia_University",69.525
+http://dbpedia.org/resource/Hong_Kong_Metropolitan_University,Hong Kong Metropolitan University,http://dbpedia.org/resource/Hong_Kong_Metropolitan_University,69.50999999999999
+"http://dbpedia.org/resource/Sam_Higginbottom_University_of_Agriculture,_Technology_and_Sciences","Sam Higginbottom University of Agriculture, Technology and Sciences","http://dbpedia.org/resource/Sam_Higginbottom_University_of_Agriculture,_Technology_and_Sciences",69.50499999999998
+http://dbpedia.org/resource/Sheffield_Hallam_University,Sheffield Hallam University,http://dbpedia.org/resource/Sheffield_Hallam_University,69.38000000000001
+http://dbpedia.org/resource/Xavier_Institute_of_Management_and_Entrepreneurship,Xavier Institute of Management and Entrepreneurship,http://dbpedia.org/resource/Xavier_Institute_of_Management_and_Entrepreneurship,69.36999999999999
+http://dbpedia.org/resource/Columbia_College_(New_York),Columbia College (New York),http://dbpedia.org/resource/Columbia_College_(New_York),69.34500000000001
+http://dbpedia.org/resource/IIT_Bombay,IIT Bombay,http://dbpedia.org/resource/IIT_Bombay,69.335
+http://dbpedia.org/resource/Austin_College,Austin College,http://dbpedia.org/resource/Austin_College,69.33000000000001
+http://dbpedia.org/resource/Kerala_Agricultural_University,Kerala Agricultural University,http://dbpedia.org/resource/Kerala_Agricultural_University,69.32000000000001
+http://dbpedia.org/resource/Tel_Aviv_University,Tel Aviv University,http://dbpedia.org/resource/Tel_Aviv_University,69.30999999999999
+http://dbpedia.org/resource/IIT_Patna,IIT Patna,http://dbpedia.org/resource/IIT_Patna,69.29
+http://dbpedia.org/resource/Nelson_Mandela_University,Nelson Mandela University,http://dbpedia.org/resource/Nelson_Mandela_University,69.29
+http://dbpedia.org/resource/Jiangsu_University,Jiangsu University,http://dbpedia.org/resource/Jiangsu_University,69.27999999999999
+http://dbpedia.org/resource/University_of_Science_and_Arts_of_Oklahoma,University of Science and Arts of Oklahoma,http://dbpedia.org/resource/University_of_Science_and_Arts_of_Oklahoma,69.265
+http://dbpedia.org/resource/TBS_Education,TBS Education,http://dbpedia.org/resource/TBS_Education,69.22500000000001
+http://dbpedia.org/resource/University_of_St._Gallen,University of St. Gallen,http://dbpedia.org/resource/University_of_St._Gallen,69.22
+http://dbpedia.org/resource/Appalachian_State_University,Appalachian State University,http://dbpedia.org/resource/Appalachian_State_University,69.19
+http://dbpedia.org/resource/Madras_Christian_College,Madras Christian College,http://dbpedia.org/resource/Madras_Christian_College,69.185
+http://dbpedia.org/resource/Institute_for_Advanced_Study,Institute for Advanced Study,http://dbpedia.org/resource/Institute_for_Advanced_Study,69.14500000000001
+http://dbpedia.org/resource/University_of_the_Incarnate_Word,University of the Incarnate Word,http://dbpedia.org/resource/University_of_the_Incarnate_Word,69.13499999999999
+http://dbpedia.org/resource/University_of_Southern_Mississippi,University of Southern Mississippi,http://dbpedia.org/resource/University_of_Southern_Mississippi,69.095
+http://dbpedia.org/resource/Cornell_University_Department_of_History,Cornell University Department of History,http://dbpedia.org/resource/Cornell_University_Department_of_History,68.99
+http://dbpedia.org/resource/Bandung_Institute_of_Technology,Bandung Institute of Technology,http://dbpedia.org/resource/Bandung_Institute_of_Technology,68.98
+http://dbpedia.org/resource/Manchester_Metropolitan_University,Manchester Metropolitan University,http://dbpedia.org/resource/Manchester_Metropolitan_University,68.8
+http://dbpedia.org/resource/University_of_East_London,University of East London,http://dbpedia.org/resource/University_of_East_London,68.795
+http://dbpedia.org/resource/EDHEC_Business_School,EDHEC Business School,http://dbpedia.org/resource/EDHEC_Business_School,68.79
+http://dbpedia.org/resource/Southern_University,Southern University,http://dbpedia.org/resource/Southern_University,68.75
+"http://dbpedia.org/resource/Christ_College,_Irinjalakuda","Christ College, Irinjalakuda","http://dbpedia.org/resource/Christ_College,_Irinjalakuda",68.74000000000001
+http://dbpedia.org/resource/Harvard_Divinity_School,Harvard Divinity School,http://dbpedia.org/resource/Harvard_Divinity_School,68.695
+http://dbpedia.org/resource/Babeș-Bolyai_University,Babeș-Bolyai University,http://dbpedia.org/resource/Babeș-Bolyai_University,68.685
+http://dbpedia.org/resource/IIT_Bhubaneswar,IIT Bhubaneswar,http://dbpedia.org/resource/IIT_Bhubaneswar,68.68
+http://dbpedia.org/resource/School_for_Advanced_Studies_in_the_Social_Sciences,School for Advanced Studies in the Social Sciences,http://dbpedia.org/resource/School_for_Advanced_Studies_in_the_Social_Sciences,68.625
+http://dbpedia.org/resource/Mahatma_Gandhi_College,Mahatma Gandhi College,http://dbpedia.org/resource/Mahatma_Gandhi_College,68.58500000000001
+http://dbpedia.org/resource/Emmanuel_College_(Massachusetts),Emmanuel College (Massachusetts),http://dbpedia.org/resource/Emmanuel_College_(Massachusetts),68.58500000000001
+http://dbpedia.org/resource/University_of_Groningen,University of Groningen,http://dbpedia.org/resource/University_of_Groningen,68.575
+http://dbpedia.org/resource/Oklahoma_Baptist_University,Oklahoma Baptist University,http://dbpedia.org/resource/Oklahoma_Baptist_University,68.57
+http://dbpedia.org/resource/London_South_Bank_University,London South Bank University,http://dbpedia.org/resource/London_South_Bank_University,68.54
+http://dbpedia.org/resource/Maharishi_International_University,Maharishi International University,http://dbpedia.org/resource/Maharishi_International_University,68.515
+http://dbpedia.org/resource/Acharya_Institute_of_Technology,Acharya Institute of Technology,http://dbpedia.org/resource/Acharya_Institute_of_Technology,68.49499999999999
+http://dbpedia.org/resource/SRM_Institute_of_Science_and_Technology,SRM Institute of Science and Technology,http://dbpedia.org/resource/SRM_Institute_of_Science_and_Technology,68.44500000000001
+http://dbpedia.org/resource/University_of_Plymouth,University of Plymouth,http://dbpedia.org/resource/University_of_Plymouth,68.355
+http://dbpedia.org/resource/William_Peace_University,William Peace University,http://dbpedia.org/resource/William_Peace_University,68.255
+http://dbpedia.org/resource/University_of_Tübingen,University of Tübingen,http://dbpedia.org/resource/University_of_Tübingen,68.21000000000001
+http://dbpedia.org/resource/Universiti_Sains_Malaysia,Universiti Sains Malaysia,http://dbpedia.org/resource/Universiti_Sains_Malaysia,68.095
+http://dbpedia.org/resource/Curtin_University,Curtin University,http://dbpedia.org/resource/Curtin_University,68.08
+http://dbpedia.org/resource/University_of_Wales,University of Wales,http://dbpedia.org/resource/University_of_Wales,68.02000000000001
+http://dbpedia.org/resource/Tohoku_University,Tohoku University,http://dbpedia.org/resource/Tohoku_University,67.99499999999999
+http://dbpedia.org/resource/Sree_Kerala_Varma_College,Sree Kerala Varma College,http://dbpedia.org/resource/Sree_Kerala_Varma_College,67.98
+http://dbpedia.org/resource/Wilkes_University,Wilkes University,http://dbpedia.org/resource/Wilkes_University,67.97000000000001
+http://dbpedia.org/resource/St._Cloud_State_University,St. Cloud State University,http://dbpedia.org/resource/St._Cloud_State_University,67.97
+http://dbpedia.org/resource/Towson_University,Towson University,http://dbpedia.org/resource/Towson_University,67.92
+http://dbpedia.org/resource/Chestnut_Hill_College,Chestnut Hill College,http://dbpedia.org/resource/Chestnut_Hill_College,67.91
+http://dbpedia.org/resource/Graduate_Institute_of_International_and_Development_Studies,Graduate Institute of International and Development Studies,http://dbpedia.org/resource/Graduate_Institute_of_International_and_Development_Studies,67.86999999999999
+http://dbpedia.org/resource/Southern_Adventist_University,Southern Adventist University,http://dbpedia.org/resource/Southern_Adventist_University,67.865
+http://dbpedia.org/resource/Florida_Institute_of_Technology,Florida Institute of Technology,http://dbpedia.org/resource/Florida_Institute_of_Technology,67.835
+http://dbpedia.org/resource/University_of_Turin,University of Turin,http://dbpedia.org/resource/University_of_Turin,67.75
+http://dbpedia.org/resource/Memorial_University_of_Newfoundland,Memorial University of Newfoundland,http://dbpedia.org/resource/Memorial_University_of_Newfoundland,67.68499999999999
+http://dbpedia.org/resource/Azeezia_Medical_College,Azeezia Medical College,http://dbpedia.org/resource/Azeezia_Medical_College,67.67
+http://dbpedia.org/resource/University_of_St._Thomas_(Texas),University of St. Thomas (Texas),http://dbpedia.org/resource/University_of_St._Thomas_(Texas),67.64999999999999
+http://dbpedia.org/resource/Maulana_Abul_Kalam_Azad_University_of_Technology,Maulana Abul Kalam Azad University of Technology,http://dbpedia.org/resource/Maulana_Abul_Kalam_Azad_University_of_Technology,67.605
+http://dbpedia.org/resource/Centro_Escolar_University,Centro Escolar University,http://dbpedia.org/resource/Centro_Escolar_University,67.535
+http://dbpedia.org/resource/Emporia_State_University,Emporia State University,http://dbpedia.org/resource/Emporia_State_University,67.5
+http://dbpedia.org/resource/Martin_Luther_College,Martin Luther College,http://dbpedia.org/resource/Martin_Luther_College,67.49499999999999
+http://dbpedia.org/resource/University_of_Bedfordshire,University of Bedfordshire,http://dbpedia.org/resource/University_of_Bedfordshire,67.46
+http://dbpedia.org/resource/Saint_Peter's_University,Saint Peter's University,http://dbpedia.org/resource/Saint_Peter's_University,67.45
+http://dbpedia.org/resource/Alma_College,Alma College,http://dbpedia.org/resource/Alma_College,67.44000000000001
+http://dbpedia.org/resource/Tata_Institute_of_Social_Sciences,Tata Institute of Social Sciences,http://dbpedia.org/resource/Tata_Institute_of_Social_Sciences,67.44
+http://dbpedia.org/resource/University_of_Strasbourg,University of Strasbourg,http://dbpedia.org/resource/University_of_Strasbourg,67.41000000000001
+http://dbpedia.org/resource/Pannalal_Girdharlal_Dayanand_Anglo_Vedic_College,Pannalal Girdharlal Dayanand Anglo Vedic College,http://dbpedia.org/resource/Pannalal_Girdharlal_Dayanand_Anglo_Vedic_College,67.365
+http://dbpedia.org/resource/VIT-AP_University,VIT-AP University,http://dbpedia.org/resource/VIT-AP_University,67.33500000000001
+http://dbpedia.org/resource/Rajiv_Gandhi_Institute_of_Petroleum_Technology,Rajiv Gandhi Institute of Petroleum Technology,http://dbpedia.org/resource/Rajiv_Gandhi_Institute_of_Petroleum_Technology,67.31
+http://dbpedia.org/resource/Delhi_Technological_University,Delhi Technological University,http://dbpedia.org/resource/Delhi_Technological_University,67.285
+http://dbpedia.org/resource/Lagos_State_University,Lagos State University,http://dbpedia.org/resource/Lagos_State_University,67.265
+http://dbpedia.org/resource/Mercy_College_(New_York),Mercy College (New York),http://dbpedia.org/resource/Mercy_College_(New_York),67.26
+"http://dbpedia.org/resource/Minnesota_State_University,_Mankato","Minnesota State University, Mankato","http://dbpedia.org/resource/Minnesota_State_University,_Mankato",67.2
+http://dbpedia.org/resource/University_of_Sarajevo,University of Sarajevo,http://dbpedia.org/resource/University_of_Sarajevo,67.19
+http://dbpedia.org/resource/Loyola_University_New_Orleans,Loyola University New Orleans,http://dbpedia.org/resource/Loyola_University_New_Orleans,67.14999999999999
+http://dbpedia.org/resource/Luther_College_(Iowa),Luther College (Iowa),http://dbpedia.org/resource/Luther_College_(Iowa),67.145
+http://dbpedia.org/resource/Central_Michigan_University,Central Michigan University,http://dbpedia.org/resource/Central_Michigan_University,67.13
+http://dbpedia.org/resource/University_of_Guelph,University of Guelph,http://dbpedia.org/resource/University_of_Guelph,67.07000000000001
+http://dbpedia.org/resource/Edinburgh_College_of_Art,Edinburgh College of Art,http://dbpedia.org/resource/Edinburgh_College_of_Art,67.05499999999999
+http://dbpedia.org/resource/Beloit_College,Beloit College,http://dbpedia.org/resource/Beloit_College,67.02
+http://dbpedia.org/resource/University_of_Coimbra,University of Coimbra,http://dbpedia.org/resource/University_of_Coimbra,66.90500000000002
+http://dbpedia.org/resource/Nnamdi_Azikiwe_University,Nnamdi Azikiwe University,http://dbpedia.org/resource/Nnamdi_Azikiwe_University,66.88499999999999
+http://dbpedia.org/resource/Bemidji_State_University,Bemidji State University,http://dbpedia.org/resource/Bemidji_State_University,66.845
+http://dbpedia.org/resource/University_of_Padua,University of Padua,http://dbpedia.org/resource/University_of_Padua,66.825
+http://dbpedia.org/resource/Adelphi_University,Adelphi University,http://dbpedia.org/resource/Adelphi_University,66.78500000000001
+http://dbpedia.org/resource/Oglethorpe_University,Oglethorpe University,http://dbpedia.org/resource/Oglethorpe_University,66.695
+http://dbpedia.org/resource/Eötvös_Loránd_University,Eötvös Loránd University,http://dbpedia.org/resource/Eötvös_Loránd_University,66.69
+http://dbpedia.org/resource/Indian_Institute_of_Spices_Research,Indian Institute of Spices Research,http://dbpedia.org/resource/Indian_Institute_of_Spices_Research,66.61999999999999
+http://dbpedia.org/resource/University_of_Lincoln,University of Lincoln,http://dbpedia.org/resource/University_of_Lincoln,66.59000000000002
+http://dbpedia.org/resource/University_of_Calicut,University of Calicut,http://dbpedia.org/resource/University_of_Calicut,66.58500000000001
+http://dbpedia.org/resource/Institute_of_Cancer_Research,Institute of Cancer Research,http://dbpedia.org/resource/Institute_of_Cancer_Research,66.565
+http://dbpedia.org/resource/Kerala_Kalamandalam,Kerala Kalamandalam,http://dbpedia.org/resource/Kerala_Kalamandalam,66.55
+"http://dbpedia.org/resource/National_Law_University,_Jodhpur","National Law University, Jodhpur","http://dbpedia.org/resource/National_Law_University,_Jodhpur",66.53
+http://dbpedia.org/resource/Immaculata_University,Immaculata University,http://dbpedia.org/resource/Immaculata_University,66.485
+http://dbpedia.org/resource/MIT_Sloan_School_of_Management,MIT Sloan School of Management,http://dbpedia.org/resource/MIT_Sloan_School_of_Management,66.415
+http://dbpedia.org/resource/National_Institute_of_Technology_Calicut,National Institute of Technology Calicut,http://dbpedia.org/resource/National_Institute_of_Technology_Calicut,66.38
+http://dbpedia.org/resource/University_of_Brighton,University of Brighton,http://dbpedia.org/resource/University_of_Brighton,66.34500000000001
+http://dbpedia.org/resource/University_of_Technology_Sydney,University of Technology Sydney,http://dbpedia.org/resource/University_of_Technology_Sydney,66.29
+http://dbpedia.org/resource/National_University_of_Colombia,National University of Colombia,http://dbpedia.org/resource/National_University_of_Colombia,66.28000000000002
+http://dbpedia.org/resource/Ross_School_of_Business,Ross School of Business,http://dbpedia.org/resource/Ross_School_of_Business,66.255
+http://dbpedia.org/resource/Montpellier_2_University,Montpellier 2 University,http://dbpedia.org/resource/Montpellier_2_University,66.165
+http://dbpedia.org/resource/Wilson_College_(Pennsylvania),Wilson College (Pennsylvania),http://dbpedia.org/resource/Wilson_College_(Pennsylvania),66.165
+http://dbpedia.org/resource/Paine_College,Paine College,http://dbpedia.org/resource/Paine_College,66.16000000000001
+http://dbpedia.org/resource/Royal_Central_School_of_Speech_and_Drama,Royal Central School of Speech and Drama,http://dbpedia.org/resource/Royal_Central_School_of_Speech_and_Drama,66.14500000000001
+"http://dbpedia.org/resource/Queens_College,_City_University_of_New_York","Queens College, City University of New York","http://dbpedia.org/resource/Queens_College,_City_University_of_New_York",66.14
+http://dbpedia.org/resource/University_of_Wisconsin_Experimental_College,University of Wisconsin Experimental College,http://dbpedia.org/resource/University_of_Wisconsin_Experimental_College,66.14
+http://dbpedia.org/resource/Teesside_University,Teesside University,http://dbpedia.org/resource/Teesside_University,66.135
+http://dbpedia.org/resource/Kutztown_University_of_Pennsylvania,Kutztown University of Pennsylvania,http://dbpedia.org/resource/Kutztown_University_of_Pennsylvania,66.11
+http://dbpedia.org/resource/University_of_Arkansas_at_Pine_Bluff,University of Arkansas at Pine Bluff,http://dbpedia.org/resource/University_of_Arkansas_at_Pine_Bluff,66.09500000000001
+http://dbpedia.org/resource/Tallinn_University_of_Technology,Tallinn University of Technology,http://dbpedia.org/resource/Tallinn_University_of_Technology,66.05499999999999
+http://dbpedia.org/resource/University_of_Tartu,University of Tartu,http://dbpedia.org/resource/University_of_Tartu,66.05499999999999
+http://dbpedia.org/resource/Saha_Institute_of_Nuclear_Physics,Saha Institute of Nuclear Physics,http://dbpedia.org/resource/Saha_Institute_of_Nuclear_Physics,66.05499999999999
+http://dbpedia.org/resource/Tunghai_University,Tunghai University,http://dbpedia.org/resource/Tunghai_University,66.035
+http://dbpedia.org/resource/Pázmány_Péter_Catholic_University,Pázmány Péter Catholic University,http://dbpedia.org/resource/Pázmány_Péter_Catholic_University,66.025
+http://dbpedia.org/resource/University_of_Waterloo_Faculty_of_Engineering,University of Waterloo Faculty of Engineering,http://dbpedia.org/resource/University_of_Waterloo_Faculty_of_Engineering,66.01
+http://dbpedia.org/resource/IIT_Delhi,IIT Delhi,http://dbpedia.org/resource/IIT_Delhi,65.99499999999999
+http://dbpedia.org/resource/Berea_College,Berea College,http://dbpedia.org/resource/Berea_College,65.96500000000002
+http://dbpedia.org/resource/China_University_of_Petroleum,China University of Petroleum,http://dbpedia.org/resource/China_University_of_Petroleum,65.925
+http://dbpedia.org/resource/ENSAIT,ENSAIT,http://dbpedia.org/resource/ENSAIT,65.92
+http://dbpedia.org/resource/University_of_Karachi,University of Karachi,http://dbpedia.org/resource/University_of_Karachi,65.78500000000001
+http://dbpedia.org/resource/Université_Laval,Université Laval,http://dbpedia.org/resource/Université_Laval,65.74
+http://dbpedia.org/resource/Regent's_University_London,Regent's University London,http://dbpedia.org/resource/Regent's_University_London,65.74
+http://dbpedia.org/resource/Adam_Mickiewicz_University_in_Poznań,Adam Mickiewicz University in Poznań,http://dbpedia.org/resource/Adam_Mickiewicz_University_in_Poznań,65.645
+http://dbpedia.org/resource/Hudson_Valley_Community_College,Hudson Valley Community College,http://dbpedia.org/resource/Hudson_Valley_Community_College,65.605
+http://dbpedia.org/resource/Holy_Family_University,Holy Family University,http://dbpedia.org/resource/Holy_Family_University,65.56500000000001
+http://dbpedia.org/resource/University_of_Göttingen,University of Göttingen,http://dbpedia.org/resource/University_of_Göttingen,65.55
+http://dbpedia.org/resource/University_of_Oslo,University of Oslo,http://dbpedia.org/resource/University_of_Oslo,65.515
+http://dbpedia.org/resource/Rutgers_University–Camden,Rutgers University–Camden,http://dbpedia.org/resource/Rutgers_University–Camden,65.455
+http://dbpedia.org/resource/Gordon_College_(Massachusetts),Gordon College (Massachusetts),http://dbpedia.org/resource/Gordon_College_(Massachusetts),65.405
+http://dbpedia.org/resource/Saint_Petersburg_State_University,Saint Petersburg State University,http://dbpedia.org/resource/Saint_Petersburg_State_University,65.36
+http://dbpedia.org/resource/University_of_Ljubljana,University of Ljubljana,http://dbpedia.org/resource/University_of_Ljubljana,65.35
+http://dbpedia.org/resource/Georgia_Southern_University,Georgia Southern University,http://dbpedia.org/resource/Georgia_Southern_University,65.325
+http://dbpedia.org/resource/University_of_the_East,University of the East,http://dbpedia.org/resource/University_of_the_East,65.315
+http://dbpedia.org/resource/National_Defence_College_(India),National Defence College (India),http://dbpedia.org/resource/National_Defence_College_(India),65.295

@@ -1,0 +1,1001 @@
+id,label,source,score
+Q41506,Stanford University,Q41506,524.09
+Q49117,University of Pennsylvania,Q49117,502.67
+Q49108,Massachusetts Institute of Technology,Q49108,467.10499999999996
+Q174710,"University of California, Los Angeles",Q174710,347.6
+Q213439,University of Virginia,Q213439,333.69000000000005
+Q29052,Vanderbilt University,Q29052,331.565
+Q309350,Northwestern University,Q309350,323.725
+Q168751,Duke University,Q168751,311.61
+Q761534,University of Georgia,Q761534,292.965
+Q130965,Fordham University,Q130965,280.46
+Q617433,Syracuse University,Q617433,276.76
+Q777403,Washington University in St. Louis,Q777403,270.93
+Q1972050,University of Johannesburg,Q1972050,268.91
+Q49110,Boston University,Q49110,262.445
+Q15144,University of Massachusetts Boston,Q15144,261.08000000000004
+Q193727,Johns Hopkins University,Q193727,260.85
+Q534643,University of the Witwatersrand,Q534643,253.245
+Q170027,University of London,Q170027,249.11
+Q7842,University of Tokyo,Q7842,248.79000000000002
+Q670897,Arizona State University,Q670897,242.44000000000003
+Q861548,Florida State University,Q861548,230.64499999999998
+Q161562,California Institute of Technology,Q161562,230.21500000000003
+Q738258,University of Miami,Q738258,224.365
+Q216273,University of St Andrews,Q216273,223.25
+Q197543,Zhejiang University,Q197543,222.595
+Q16955,Tsinghua University,Q16955,219.5
+Q49212,Texas A&M University,Q49212,214.29000000000002
+Q1026831,California Lutheran University,Q1026831,208.01
+Q129421,"University of California, Davis",Q129421,204.05500000000004
+Q895457,Bowling Green State University,Q895457,201.67
+Q500606,University of South Florida,Q500606,200.06499999999997
+Q49167,Wesleyan University,Q49167,200.00500000000002
+Q432475,University of Canterbury,Q432475,197.985
+Q274486,Waseda University,Q274486,195.235
+Q230899,University of Manchester,Q230899,192.82000000000002
+Q149990,University of Rochester,Q149990,189.05499999999998
+Q49118,Boston College,Q49118,182.44000000000003
+Q184478,University of California,Q184478,182.235
+Q1411222,George Mason University,Q1411222,181.09000000000003
+Q2620177,College of the Holy Cross,Q2620177,181.015
+Q37548,Northeastern University,Q37548,180.635
+Q18575815,Industrial and Mining Water Research Unit,Q18575815,179.61
+Q378014,University of al-Qarawiyyin,Q378014,177.51500000000001
+Q810771,Bates College,Q810771,177.10000000000002
+Q1468607,Liberty University,Q1468607,175.93500000000003
+Q1045828,University of East Anglia,Q1045828,175.82
+Q263064,"University of California, Santa Barbara",Q263064,175.365
+Q216243,Nalanda Mahavihara,Q216243,174.195
+Q495015,Fudan University,Q495015,173.7
+Q143451,University of Central Florida,Q143451,172.875
+Q806116,Banaras Hindu University,Q806116,171.92
+Q752663,Delft University of Technology,Q752663,169.56500000000003
+Q49120,Tufts University,Q49120,168.32000000000002
+Q176667,IIE MSA,Q176667,167.425
+Q183170,University of Texas at San Antonio,Q183170,167.35
+Q65379,Virginia Tech,Q65379,165.76500000000001
+Q1360303,University of Kentucky,Q1360303,164.24500000000003
+Q262854,University of Lancaster,Q262854,159.935
+Q6842964,Midrand Graduate Institute,Q6842964,159.57500000000002
+Q866012,University of Queensland,Q866012,158.595
+Q109609635,CityVarsity,Q109609635,158.57000000000002
+Q4997932,Bunting Road Campus Auckland Park,Q4997932,156.90499999999997
+Q165980,University of Vienna,Q165980,156.73000000000002
+Q392667,Wake Forest University,Q392667,156.365
+Q525169,Shanghai Jiao Tong University,Q525169,153.77
+Q15142,University of Massachusetts Amherst,Q15142,152.425
+Q2140778,Rochester Institute of Technology,Q2140778,152.35
+Q1193547,Tulane University,Q1193547,151.04000000000002
+Q604470,Shandong University,Q604470,150.465
+Q1134606,Massey University,Q1134606,150.19500000000002
+Q498526,San José State University,Q498526,149.51
+Q49119,Brandeis University,Q49119,149.19
+Q1033335,Canisius College,Q1033335,148.19
+Q1378320,Swarthmore College,Q1378320,147.79000000000002
+Q1781394,University of Texas at Dallas,Q1781394,146.53000000000003
+Q188370,Marquette University,Q188370,146.31
+Q218506,Lund University,Q218506,146.085
+Q1709596,New York Institute of Technology,Q1709596,146.045
+Q144488,University of Warsaw,Q144488,144.53000000000003
+Q165053,Anna University,Q165053,144.265
+Q995265,Bryn Mawr College,Q995265,143.41500000000002
+Q1797817,Hampton University,Q1797817,143.23999999999998
+Q1472358,University of Houston,Q1472358,143.195
+Q1202039,"Royal Holloway, University of London",Q1202039,142.77
+Q540672,Auburn University,Q540672,140.38
+Q1075339,Ohio University,Q1075339,140.365
+Q189441,Jagiellonian University,Q189441,139.175
+Q214341,University of Amsterdam,Q214341,138.81
+Q16947,Tongji University,Q16947,138.74999999999997
+Q2002619,Nottingham Trent University,Q2002619,137.86
+Q15570,The Chinese University of Hong Kong,Q15570,137.5
+Q1026868,"California State Polytechnic University, Pomona",Q1026868,137.155
+Q1204714,Pratt Institute,Q1204714,137.08
+Q115376,West Virginia University,Q115376,136.905
+Q174158,Hebrew University of Jerusalem,Q174158,136.305
+Q1420239,Temple University,Q1420239,136.14499999999998
+Q1068072,University of Delaware,Q1068072,135.72
+Q13164,Moscow State University,Q13164,135.32000000000002
+Q2034790,East China Normal University,Q2034790,135.06
+Q49204,Smith College,Q49204,134.95000000000002
+Q49205,Wellesley College,Q49205,134.73
+Q173959,Al-Azhar University,Q173959,134.645
+Q1061104,"University of California, San Francisco",Q1061104,133.94500000000002
+Q222738,National Autonomous University of Mexico,Q222738,133.395
+Q49211,Rensselaer Polytechnic Institute,Q49211,132.46
+Q5617088,Lindenwood University,Q5617088,132.105
+Q1682329,Tuskegee University,Q1682329,131.965
+Q1052614,Utah State University,Q1052614,131.17000000000002
+Q1353679,University of Nebraska–Lincoln,Q1353679,130.625
+Q178972,Sun Yat-sen University,Q178972,129.86499999999998
+Q219317,University of Pavia,Q219317,129.31500000000003
+Q815352,California State University,Q815352,128.86499999999998
+Q336264,Kyoto University,Q336264,128.83
+Q1536258,Southern Methodist University,Q1536258,128.48999999999998
+Q895401,Bowdoin College,Q895401,128.45000000000002
+Q185246,Uppsala University,Q185246,128.26500000000001
+Q734774,Saint Louis University,Q734774,127.75
+Q1446181,Hunter College,Q1446181,127.25999999999999
+Q837164,Newcastle University,Q837164,125.46499999999999
+Q31249,Kansas State University,Q31249,124.875
+Q7894410,University of Vale do Rio dos Sinos,Q7894410,124.71500000000002
+Q1357891,Middlebury College,Q1357891,124.71000000000002
+Q1094046,"City, University of London",Q1094046,124.61999999999999
+Q1142924,University of Malaya,Q1142924,124.615
+Q156598,Leiden University,Q156598,124.21999999999998
+Q1782980,University of Lagos,Q1782980,124.03999999999999
+Q833670,Katholieke Universiteit Leuven,Q833670,123.79000000000002
+Q2092392,University of Dayton,Q2092392,121.875
+Q665105,University of Delhi,Q665105,121.735
+Q1798612,Mercer University,Q1798612,121.655
+Q863813,Binghamton University,Q863813,121.535
+Q547867,National and Kapodistrian University of Athens,Q547867,120.36999999999999
+Q1317143,University of Louisville,Q1317143,120.34000000000002
+Q1247544,University of Westminster,Q1247544,119.315
+Q626591,Texas Southern University,Q626591,118.65
+Q1111640,Colorado State University,Q1111640,117.75999999999999
+Q519349,Southern Illinois University Edwardsville,Q519349,117.25
+Q1476484,North Carolina Agricultural and Technical State University,Q1476484,116.45
+Q735049,"University of Maryland, Baltimore County",Q735049,116.34500000000001
+Q1432632,University of Reading,Q1432632,115.66499999999999
+Q579611,Haverford College,Q579611,115.19
+Q519427,University of Denver,Q519427,113.69500000000001
+Q954035,University of Bradford,Q954035,113.16999999999999
+Q7681303,Tamil Nadu Open University,Q7681303,113.115
+Q1026932,"California State University, Los Angeles",Q1026932,112.00999999999999
+Q2321391,"St Mary's University, Twickenham",Q2321391,111.89500000000001
+Q1681928,Norwich University,Q1681928,111.86500000000001
+Q93662,St. Bonaventure University,Q93662,111.825
+Q1179599,DePauw University,Q1179599,111.36500000000001
+Q258943,James Madison University,Q258943,111.29499999999999
+Q2000129,University of Hawaiʻi at Mānoa,Q2000129,110.69
+Q1537759,Loyola University Chicago,Q1537759,110.22000000000001
+Q1311379,Trinity University,Q1311379,110.18
+Q992830,Santa Clara University,Q992830,110.0
+Q667568,Aristotle University of Thessaloniki,Q667568,109.575
+Q1074103,University of Science and Technology of China,Q1074103,109.46500000000002
+Q556098,Pace University,Q556098,109.36999999999999
+Q233300,Beijing International Studies University,Q233300,108.79000000000002
+Q1254897,Far Eastern University,Q1254897,108.525
+Q2495907,University of Scranton,Q2495907,108.035
+Q1859178,University of Strathclyde,Q1859178,107.82
+Q1809286,Lawrence University,Q1809286,107.7
+Q632558,Harbin Institute of Technology,Q632558,107.105
+Q4380853,Missouri University of Science and Technology,Q4380853,106.005
+Q319239,Tel Aviv University,Q319239,105.95
+Q805122,Ball State University,Q805122,105.77000000000001
+Q1474100,Old Dominion University,Q1474100,105.34000000000002
+Q1637611,Palacký University Olomouc,Q1637611,104.865
+Q1872239,Louisiana Tech University,Q1872239,104.11
+Q1795487,Drew University,Q1795487,104.055
+Q7919327,Vels University,Q7919327,103.815
+Q1737734,University of Keele,Q1737734,103.63
+Q1137665,Ghent University,Q1137665,103.235
+Q1472663,University of Alabama at Birmingham,Q1472663,103.205
+Q1861687,Montana State University,Q1861687,103.17000000000002
+Q193510,University of Padua,Q193510,102.99000000000001
+Q2503809,Kingston University,Q2503809,102.875
+Q748106,Glasgow School of Art,Q748106,102.84000000000002
+Q429863,Florida Atlantic University,Q429863,102.76500000000001
+Q74343,Duquesne University,Q74343,102.455
+Q1179603,DePaul University,Q1179603,102.17000000000002
+Q1056373,Gallaudet University,Q1056373,101.94999999999999
+Q3551770,Southeast University,Q3551770,101.065
+Q850730,University of Groningen,Q850730,101.06
+Q659706,Illinois Institute of Technology,Q659706,100.685
+Q658192,Vilnius University,Q658192,100.61
+Q60776625,International Institute of Tamil Studies,Q60776625,100.595
+Q1153094,Sophia University,Q1153094,100.5
+Q757391,Central European University,Q757391,100.3
+Q1144673,Royal Academy of Music,Q1144673,99.97500000000002
+Q39997,Korea University,Q39997,99.66499999999999
+Q3551774,University of Wales Trinity Saint David,Q3551774,99.66000000000001
+Q1610024,Heriot-Watt University,Q1610024,99.265
+Q1333399,University of Leicester,Q1333399,98.54
+Q1771717,Portland State University,Q1771717,98.37
+Q1642421,Philippine Normal University,Q1642421,97.895
+Q1849843,Xavier University,Q1849843,96.98500000000001
+Q1422458,University of Bath,Q1422458,96.875
+Q1202897,Dublin City University,Q1202897,96.53
+Q3121493,Oral Roberts University,Q3121493,96.48500000000001
+Q27621,Saint Petersburg State University,Q27621,96.32499999999999
+Q499911,University of Turin,Q499911,96.28
+Q1439629,Providence College,Q1439629,96.05000000000001
+Q657222,Stevens Institute of Technology,Q657222,95.98
+Q11194540,National Dong Hwa University,Q11194540,95.63
+Q721064,Nanyang Technological University,Q721064,95.28500000000001
+Q1816872,University of Gloucestershire,Q1816872,94.38499999999999
+Q622137,Lehigh University,Q622137,94.355
+Q1256981,San Francisco State University,Q1256981,94.325
+Q1475413,Saint Joseph's University,Q1475413,94.29
+Q3530803,Cochin University of Science and Technology,Q3530803,94.19500000000001
+Q3443498,Oklahoma City University,Q3443498,94.12
+Q981237,Xi'an Jiaotong University,Q981237,94.00999999999999
+Q204181,University of Tartu,Q204181,93.94500000000001
+Q221653,Utrecht University,Q221653,93.71
+Q204626,Hitotsubashi University,Q204626,93.38
+Q1472315,Grand Valley State University,Q1472315,93.355
+Q204457,University of Bergen,Q204457,92.79000000000002
+Q206702,University of Zurich,Q206702,92.57
+Q1030044,Quinnipiac University,Q1030044,92.51
+Q1137652,Maastricht University,Q1137652,92.43
+Q651233,Osaka University,Q651233,92.355
+Q4359408,State University of New York at Purchase,Q4359408,91.87
+Q1433199,Indiana University – Purdue University Indianapolis,Q1433199,91.625
+Q1517021,University of Western Australia,Q1517021,91.46500000000002
+Q2164222,Rollins College,Q2164222,91.24
+Q737835,University of Tehran,Q737835,91.21
+Q573954,University of Limerick,Q573954,90.895
+Q1048851,Yeshiva University,Q1048851,90.61000000000001
+Q2299797,Beihang University,Q2299797,90.61
+Q4785174,Arcadia University,Q4785174,90.51
+Q1317163,Instituto Tecnológico de Aeronáutica,Q1317163,90.485
+Q1546437,Paris Dauphine University,Q1546437,89.92000000000002
+Q5146753,College of Magic,Q5146753,89.91499999999999
+Q1669453,St. Ambrose University,Q1669453,89.815
+Q1278221,Eastern Michigan University,Q1278221,89.81000000000002
+Q1760791,Middlesex University,Q1760791,89.795
+Q3443493,Shaw University,Q3443493,89.78500000000001
+Q1786078,Loyola Marymount University,Q1786078,89.76
+Q540751,Anglia Ruskin University,Q540751,89.73
+Q1187444,University of Pécs,Q1187444,89.685
+Q194445,Cairo University,Q194445,89.59500000000001
+Q4748684,Amrita Vishwa Vidyapeetham,Q4748684,89.595
+Q348402,Adam Mickiewicz University in Poznań,Q348402,89.535
+Q1062129,Tohoku University,Q1062129,88.92
+Q956056,Transylvania University,Q956056,88.715
+Q469476,The American University in Cairo,Q469476,88.67
+Q262760,Swiss Federal Institute of Technology in Lausanne,Q262760,88.37
+Q1818020,Liverpool Hope University,Q1818020,88.36500000000001
+Q1850416,Museu Nacional,Q1850416,88.16
+Q4570781,Lincoln University,Q4570781,87.995
+Q1026909,"California State University, Dominguez Hills",Q1026909,87.87
+Q2096524,Ulster University,Q2096524,87.66
+Q1138080,Coventry University,Q1138080,87.44000000000001
+Q1109135,College of Europe,Q1109135,87.26
+Q1515048,Naval Postgraduate School,Q1515048,86.98000000000002
+Q1191132,Nagoya University,Q1191132,86.87
+Q5203187,D'Youville University,Q5203187,86.79
+Q1798499,Nova Southeastern University,Q1798499,86.635
+Q1728622,"University of California, Merced",Q1728622,86.36000000000001
+Q585828,Seton Hall University,Q585828,86.30000000000001
+Q1579397,Bandung Institute of Technology,Q1579397,86.295
+Q1814758,Virginia Union University,Q1814758,86.255
+Q7458159,Sewanee: The University of the South,Q7458159,86.205
+Q2894666,Bellarmine University,Q2894666,86.11
+Q606140,University of Waikato,Q606140,86.06
+Q782116,Oakland University,Q782116,86.05
+Q7895782,University of Michigan–Dearborn,Q7895782,86.0
+Q1534573,Staffordshire University,Q1534573,85.955
+Q1276963,Sacred Heart University,Q1276963,85.84500000000001
+Q1026919,"California State University, Fresno",Q1026919,85.84500000000001
+Q1475020,Furman University,Q1475020,85.355
+Q1632007,OCAD University,Q1632007,85.035
+Q1209733,Thammasat University,Q1209733,84.58999999999999
+Q1869028,London Metropolitan University,Q1869028,84.47999999999999
+Q4114428,Uniformed Services University of the Health Sciences,Q4114428,84.345
+Q142617,Tata Institute of Fundamental Research,Q142617,84.02499999999999
+Q1054905,Morgan State University,Q1054905,83.91
+Q3298359,Belmont University,Q3298359,83.86
+Q333705,Technion – Israel Institute of Technology,Q333705,83.71000000000001
+Q1747601,Jackson State University,Q1747601,83.25
+Q12432,Michigan Technological University,Q12432,83.22
+Q390087,Xavier University of Louisiana,Q390087,83.22
+Q2393647,Lamar University,Q2393647,83.105
+Q16968025,Qualitas Career Academy,Q16968025,83.01499999999999
+Q963530,University of Stirling,Q963530,82.89500000000001
+Q727516,University of KwaZulu-Natal,Q727516,82.85000000000001
+Q1026944,"California State University, San Bernardino",Q1026944,82.85
+Q5971900,University of Electronic Science and Technology of China,Q5971900,82.71
+Q3495253,St. Edward's University,Q3495253,82.595
+Q1393301,Fairleigh Dickinson University,Q1393301,82.58
+Q55637988,Xiamen University Malaysia,Q55637988,82.545
+Q924318,Wheaton College,Q924318,82.335
+Q2281517,Sichuan University,Q2281517,82.075
+Q1143242,University of Glamorgan,Q1143242,81.685
+Q743615,University of Tsukuba,Q743615,81.59000000000002
+Q1788342,The Robert Gordon University,Q1788342,81.26
+Q7649352,Susquehanna University,Q7649352,81.2
+Q1326230,Nihon University,Q1326230,81.03
+Q1430048,Florida A&M University,Q1430048,81.02
+Q649998,University of Nairobi,Q649998,80.93
+Q1138374,St. John's University,Q1138374,80.83500000000001
+Q1249251,Missouri State University,Q1249251,80.70500000000001
+Q1569421,Andes University,Q1569421,80.67
+Q1816202,University of Wolverhampton,Q1816202,80.63499999999999
+Q3091754,Bath Spa University,Q3091754,80.625
+Q1342013,"Saint Petersburg State University of Information Technologies, Mechanics and Optics",Q1342013,80.55
+Q1896148,University of Greenwich,Q1896148,80.29
+Q762243,University of Chester,Q762243,80.08
+Q864450,Biola University,Q864450,79.87
+Q3474474,Savannah State University,Q3474474,79.86500000000001
+Q75478,New York University Tandon School of Engineering,Q75478,79.86000000000001
+Q5399470,Loyola University Maryland,Q5399470,79.70500000000001
+Q1474019,University of Hull,Q1474019,79.69
+Q854280,Royal Institute of Technology,Q854280,79.63500000000002
+Q809106,Barry University,Q809106,79.495
+Q2983870,Royal Roads Military College,Q2983870,79.24000000000001
+Q2698482,Calvin University,Q2698482,78.93
+Q1848657,University of Tulsa,Q1848657,78.77000000000001
+Q2471216,Thomas Jefferson University,Q2471216,78.7
+Q1411093,St. Lawrence University,Q1411093,78.685
+Q1026916,"California State University, East Bay",Q1026916,78.66500000000002
+Q5061965,Central University of Kerala,Q5061965,78.62
+Q538452,Babeș-Bolyai University,Q538452,78.59500000000001
+Q620640,Appalachian State University,Q620640,78.44
+Q1857773,University of Central Lancashire,Q1857773,78.35000000000001
+Q1695578,Salve Regina University,Q1695578,78.325
+Q691851,University of Naples Federico II,Q691851,78.31
+Q6381586,Samford University,Q6381586,78.13999999999999
+Q1320232,University of Detroit Mercy,Q1320232,78.08500000000001
+Q632506,Norfolk State University,Q632506,78.03
+Q6393491,Kerala University of Health Sciences,Q6393491,78.015
+Q587326,Tokyo Institute of Technology,Q587326,77.97000000000001
+Q7877608,Uganda Management Institute,Q7877608,77.91000000000001
+Q1335573,Emerson College,Q1335573,77.86500000000001
+Q4816174,Atlanta University Center,Q4816174,77.60499999999999
+Q4026988,University of Evansville,Q4026988,77.35000000000001
+Q1321380,University of North Carolina at Greensboro,Q1321380,77.25
+Q8215036,University of New England,Q8215036,76.86000000000001
+Q15177600,"All India Institute of Medical Sciences, New Delhi",Q15177600,76.86
+Q624560,"California State Polytechnic University, Humboldt",Q624560,76.78500000000001
+Q5211272,Dallas Baptist University,Q5211272,76.765
+Q7111021,Our Lady of the Lake University,Q7111021,76.59000000000002
+Q1640731,Universitat Politècnica de Catalunya,Q1640731,76.56499999999998
+Q1115878,University of Richmond,Q1115878,76.5
+Q219564,Karolinska Institutet,Q219564,76.295
+Q1126179,Lincoln University,Q1126179,76.25
+Q12060410,Hollins University,Q12060410,76.14
+Q574586,Murray State University,Q574586,76.13499999999999
+Q7338305,Rivers State University of Science and Technology,Q7338305,76.115
+Q2874477,Avondale University,Q2874477,76.10000000000001
+Q1780816,State University of New York at Albany,Q1780816,76.07000000000001
+Q3898136,Paul Quinn College,Q3898136,76.06500000000001
+Q4289527,Bogdan Khmelnitsky Melitopol State Pedagogical University,Q4289527,75.92
+Q1518804,North Carolina Central University,Q1518804,75.9
+Q2065666,University of the Arts London,Q2065666,75.315
+Q3547527,Lyceum of the Philippines University,Q3547527,75.28500000000001
+Q7690168,Taylor University,Q7690168,75.23
+Q3306469,Prairie View A&M University,Q3306469,75.2
+Q1072029,University of Wales,Q1072029,75.2
+Q280824,Eindhoven University of Technology,Q280824,75.13
+Q1887879,University of San Francisco,Q1887879,75.01
+Q845332,Haskell Indian Nations University,Q845332,74.99
+Q6395480,Kettering University,Q6395480,74.94
+Q7707478,Texas A&M University–Kingsville,Q7707478,74.79
+Q1752117,Sheffield Hallam University,Q1752117,74.565
+Q758659,Auckland University of Technology,Q758659,74.495
+Q181177,Cranfield University,Q181177,74.49
+Q3444527,William Paterson University,Q3444527,74.375
+Q11979088,Johnson C. Smith University,Q11979088,74.30999999999999
+Q23101,Beijing Institute of Technology,Q23101,74.305
+Q1477812,Nanjing Normal University,Q1477812,74.3
+Q3117949,University of Valle,Q3117949,74.19
+Q1065414,Free University of Amsterdam,Q1065414,74.16
+Q1783148,University of Alabama in Huntsville,Q1783148,73.985
+Q1188786,Kyushu University,Q1188786,73.96000000000001
+Q1849271,Leeds Trinity University,Q1849271,73.915
+Q3468361,Texas Woman's University,Q3468361,73.715
+Q612665,Vrije Universiteit Brussel,Q612665,73.455
+Q6569551,Trinity Western University,Q6569551,73.425
+Q5508130,Full Sail University,Q5508130,73.39
+Q653638,Babcock University,Q653638,73.38000000000001
+Q3509289,University of Calabar,Q3509289,73.365
+Q6818830,Mercyhurst University,Q6818830,73.33000000000001
+Q2005511,University of Fort Hare,Q2005511,73.25999999999999
+Q5440485,Federal University of Technology Owerri,Q5440485,72.88
+Q770544,Creighton University,Q770544,72.85000000000001
+Q1711558,University of Plymouth,Q1711558,72.80999999999999
+Q190336,Minzu University of China,Q190336,72.655
+Q1525831,The University of Texas MD Anderson Cancer Center,Q1525831,72.55499999999999
+Q315658,University of Wrocław,Q315658,72.425
+Q604487,Tallinn University of Technology,Q604487,72.41499999999999
+Q1056848,Oakwood University,Q1056848,72.36
+Q1345942,University of East London,Q1345942,72.27499999999999
+Q1474129,Towson University,Q1474129,72.27000000000001
+Q314536,Norwegian University of Science and Technology,Q314536,72.26
+Q1971174,University of South Wales,Q1971174,72.14
+Q46756,Kenyatta University,Q46756,72.09500000000001
+Q1937387,"Minnesota State University, Mankato",Q1937387,72.06
+Q1973130,University of Science Malaysia,Q1973130,72.02
+Q3244291,Adamson University,Q3244291,71.89
+Q3056813,University of Brighton,Q3056813,71.855
+Q608338,University of Bucharest,Q608338,71.63999999999999
+Q7432485,"School of International and Public Affairs, Columbia University",Q7432485,71.56
+Q649868,Hunan University,Q649868,71.55
+Q7432347,School for Creative and Performing Arts,Q7432347,71.42999999999999
+Q1191344,Northern Illinois University,Q1191344,71.17
+Q7895022,"Federal University of Agriculture, Abeokuta",Q7895022,71.03500000000001
+Q1576899,Universiti Teknologi MARA,Q1576899,70.935
+Q2738622,University of Salford,Q2738622,70.915
+Q644478,University of Galway,Q644478,70.905
+Q1889100,University of Phoenix,Q1889100,70.885
+Q452406,Kasetsart University,Q452406,70.675
+Q1760438,Queens College,Q1760438,70.66000000000001
+Q3182943,Bournemouth University,Q3182943,70.63499999999999
+Q99979304,Sree Narayanaguru Open University,Q99979304,70.595
+Q836805,Chalmers University of Technology,Q836805,70.495
+Q5171546,Cornell Tech,Q5171546,70.47000000000001
+Q1367256,Moscow Institute of Physics and Technology,Q1367256,70.42999999999999
+Q6781811,Maryville University,Q6781811,70.38499999999999
+Q369839,University of Szeged,Q369839,70.24
+Q1331614,Nelson Mandela University,Q1331614,70.2
+Q7896279,University of Science and Arts of Oklahoma,Q7896279,70.19500000000001
+Q3047150,University of Bedfordshire,Q3047150,70.145
+Q766447,Federal University of Rio Grande do Sul,Q766447,70.13499999999999
+Q1186843,Budapest University of Technology and Economics,Q1186843,70.12499999999999
+Q1813761,University of the Incarnate Word,Q1813761,70.11
+Q847099,Franz Liszt Academy of Music,Q847099,70.05499999999999
+Q1730032,Wilberforce University,Q1730032,70.045
+Q367774,Oklahoma Baptist University,Q367774,70.01
+Q691686,Geneva Graduate Institute,Q691686,69.99499999999999
+Q5125034,Claflin University,Q5125034,69.99
+Q3443737,Saint Peter's University,Q3443737,69.75
+Q6465284,La Sierra University,Q6465284,69.69
+Q1136874,St. Cloud State University,Q1136874,69.66
+Q6191740,Jiangsu University,Q6191740,69.56499999999998
+Q6393305,Kerala Agricultural University,Q6393305,69.53
+Q624959,Georgia Southern University,Q624959,69.51
+Q8002474,Wilkes University,Q8002474,69.495
+Q113788,Kazan Federal University,Q113788,69.485
+Q1340908,Kutztown University of Pennsylvania,Q1340908,69.405
+Q1711196,Huazhong University of Science and Technology,Q1711196,69.33999999999999
+Q4682076,Adelphi University,Q4682076,69.33500000000001
+Q8016704,William Peace University,Q8016704,69.325
+Q1540301,Hong Kong Metropolitan University,Q1540301,69.30999999999999
+Q8043260,Xavier Institute of Management and Entrepreneurship,Q8043260,69.275
+Q1339396,Emporia State University,Q1339396,69.26500000000001
+Q372608,University of Basel,Q372608,69.13499999999999
+Q2738646,University of Lincoln,Q2738646,69.12
+Q5428907,Faculty of Arts,Q5428907,69.03
+Q172430,Loyola University New Orleans,Q172430,68.985
+Q7895546,University of Ilorin,Q7895546,68.96000000000001
+Q7569568,Southern Adventist University,Q7569568,68.92
+Q6733411,Maharishi International University,Q6733411,68.78
+Q2392351,Leeds Beckett University,Q2392351,68.585
+Q4400868,Oglethorpe University,Q4400868,68.49499999999999
+Q7895155,University of Calicut,Q7895155,68.44
+Q849611,Lagos State University,Q849611,68.395
+Q3695910,Teesside University,Q3695910,68.135
+Q2495922,University of St. Thomas,Q2495922,68.005
+Q5038449,Cardiff Metropolitan University,Q5038449,67.78
+Q13572981,University of South Alabama,Q13572981,67.69999999999999
+Q1805243,Alcorn State University,Q1805243,67.61999999999999
+Q13140900,Nnamdi Azikiwe University,Q13140900,67.545
+Q6004301,Immaculata University,Q6004301,67.51499999999999
+Q1523902,Alexandru Ioan Cuza University,Q1523902,67.47500000000001
+Q574606,Université Libre de Bruxelles,Q574606,67.33
+Q3443893,West Chester University of Pennsylvania,Q3443893,67.215
+Q820887,University of Florence,Q820887,67.2
+Q1474157,University of New Orleans,Q1474157,67.16000000000001
+Q5663364,Harper Adams University,Q5663364,67.13
+Q502352,Regent University,Q502352,67.115
+Q7934591,Virginia State University,Q7934591,67.11
+Q3347298,"Maulana Abul Kalam Azad University of Technology, West Bengal",Q3347298,66.935
+Q816377,Bemidji State University,Q816377,66.845
+Q2151120,Tata Institute of Social Sciences,Q2151120,66.83500000000001
+Q3630445,Delhi Technological University,Q3630445,66.795
+Q1422594,Sam Houston State University,Q1422594,66.75500000000001
+Q7347821,Robert Morris University,Q7347821,66.61999999999999
+Q2601879,Maynooth University,Q2601879,66.56
+Q3151770,D. Mendeleev University of Chemical Technology of Russia,Q3151770,66.545
+Q895439,Bowie State University,Q895439,66.445
+Q2975783,Naropa University,Q2975783,66.42999999999999
+Q6973731,National Institute of Technology Calicut,Q6973731,66.265
+Q5087708,Chatham University,Q5087708,66.185
+Q116485,University of Louisiana at Lafayette,Q116485,66.09000000000002
+Q666128,Indiana State University,Q666128,66.02
+Q18125959,Indian Institute of Spices Research,Q18125959,65.99999999999999
+Q15899144,China University of Petroleum,Q15899144,65.91000000000001
+Q4882717,Belhaven University,Q4882717,65.79
+Q927304,University of Nigeria,Q927304,65.75999999999999
+Q1640726,National Technical University of Athens,Q1640726,65.715
+Q3551545,Centro Escolar University,Q3551545,65.66499999999999
+Q931865,Clarkson University,Q931865,65.63999999999999
+Q406402,University of Mumbai,Q406402,65.525
+Q1532470,Kennesaw State University,Q1532470,65.455
+Q1133013,National University of Kyiv-Mohyla Academy,Q1133013,65.44
+Q500131,Arkansas State University,Q500131,65.415
+Q2008672,Obafemi Awolowo University,Q2008672,65.375
+Q4359655,Dillard University,Q4359655,65.365
+Q1026902,"California State University, Bakersfield",Q1026902,65.19
+Q3634084,Ranchi University,Q3634084,65.185
+Q221645,Stockholm University,Q221645,65.175
+Q632004,Radboud University Nijmegen,Q632004,65.10000000000001
+Q1432030,Jilin University,Q1432030,65.005
+Q18748785,University of Texas admissions controversy,Q18748785,64.96000000000001
+Q7886376,Union University,Q7886376,64.92999999999999
+Q749421,University of Cincinnati – College-Conservatory of Music,Q749421,64.89
+Q270272,The Rockefeller University,Q270272,64.88
+Q8028571,Wittenberg University,Q8028571,64.865
+Q3443325,Widener University,Q3443325,64.775
+Q5656138,Harding University,Q5656138,64.755
+Q3244049,University of Southern Maine,Q3244049,64.70499999999998
+Q622683,University of Graz,Q622683,64.63
+Q1285262,University of Alaska Fairbanks,Q1285262,64.60000000000001
+Q1285252,University of Alaska Anchorage,Q1285252,64.60000000000001
+Q2529518,University of Tripoli,Q2529518,64.58000000000001
+Q429561,Wichita State University,Q429561,64.535
+Q1330634,University of Brasília,Q1330634,64.49
+Q1343386,Shanghai University,Q1343386,64.46
+Q1537303,Gonzaga University,Q1537303,64.44500000000001
+Q1104405,Coastal Carolina University,Q1104405,64.38000000000001
+Q5057029,Cedarville University,Q5057029,64.365
+Q1062121,University of the South Pacific,Q1062121,64.335
+Q7131380,Pannalal Girdharlal Dayanand Anglo Vedic College,Q7131380,64.25999999999999
+Q7032755,Niger Delta University,Q7032755,64.24499999999999
+Q2341039,Stetson University,Q2341039,64.18999999999998
+Q1959511,National Research University – Higher School of Economics,Q1959511,64.145
+Q3817847,ShanghaiTech University,Q3817847,64.09500000000001
+Q6974033,"National Law University, Jodhpur",Q6974033,63.97
+Q7603626,State University of New York at Plattsburgh,Q7603626,63.96500000000001
+Q4583636,Azusa Pacific University,Q4583636,63.93
+Q195046,Worcester Polytechnic Institute,Q195046,63.905
+Q2261128,D'Annunzio University of Chieti–Pescara,Q2261128,63.879999999999995
+Q6974654,National Open University of Nigeria,Q6974654,63.87
+Q5168881,Coppin State University,Q5168881,63.815
+Q7404818,Salisbury University,Q7404818,63.81499999999999
+Q7382823,Rutgers University–Camden,Q7382823,63.775000000000006
+Q257655,China Agricultural University,Q257655,63.685
+Q5916417,Houston Christian University,Q5916417,63.56
+Q2687517,Jinan University,Q2687517,63.56
+Q229022,Università Cattolica del Sacro Cuore,Q229022,63.515
+Q3075124,Trent University,Q3075124,63.38499999999999
+Q3445256,Southern New Hampshire University,Q3445256,63.265
+Q5061828,Central South University,Q5061828,63.14999999999999
+Q17028121,University of Texas Rio Grande Valley,Q17028121,63.105
+Q2495825,University of Arkansas at Pine Bluff,Q2495825,63.04
+Q1494353,Airlangga University,Q1494353,63.025000000000006
+Q1353139,Glasgow Caledonian University,Q1353139,62.99
+Q49089,University of Maryland Eastern Shore,Q49089,62.94500000000001
+Q277681,Semmelweis University,Q277681,62.935
+Q5628071,Mahatma Gandhi Kashi Vidyapeeth,Q5628071,62.865
+Q1163431,PSL University,Q1163431,62.83500000000001
+Q1510516,University of Science and Technology Beijing,Q1510516,62.775000000000006
+Q1334582,University of Liège,Q1334582,62.74
+Q1407897,Ferris State University,Q1407897,62.56500000000001
+Q1328372,Tokyo University of Foreign Studies,Q1328372,62.53999999999999
+Q601956,Aalborg University,Q601956,62.53
+Q748085,University of Perugia,Q748085,62.515
+Q1470544,Frostburg State University,Q1470544,62.504999999999995
+Q109176,Andrews University,Q109176,62.49999999999999
+Q3577853,"University of California College of the Law, San Francisco",Q3577853,62.470000000000006
+Q7329259,Stockton University,Q7329259,62.44
+Q638859,Mills College at Northeastern,Q638859,62.425000000000004
+Q1379613,Marshall University,Q1379613,62.42000000000001
+Q7590239,"St. Mary's College, Thrissur",Q7590239,62.415
+Q3551409,Gardner–Webb University,Q3551409,62.415
+Q1050078,Western Carolina University,Q1050078,62.379999999999995
+Q4900600,Bhagat Phool Singh Mahila Vishwavidyalaya,Q4900600,62.37
+Q223037,University of the East,Q223037,62.33
+Q3348916,West Bengal National University of Juridical Sciences,Q3348916,62.10999999999999
+Q851164,Corvinus University of Budapest,Q851164,62.08
+Q7708205,Texas Wesleyan University,Q7708205,62.00999999999999
+Q3551657,Niagara University,Q3551657,61.815
+Q1031803,Tor Vergata University of Rome,Q1031803,61.775000000000006
+Q4568893,Elon University,Q4568893,61.629999999999995
+Q4475799,Lanzhou University,Q4475799,61.60500000000001
+Q766034,International Space University,Q766034,61.565
+Q5465153,Fontbonne University,Q5465153,61.565
+Q3123462,University of Northampton,Q3123462,61.54500000000001
+Q2473859,Uganda Christian University,Q2473859,61.515
+Q1094742,University of Sunderland,Q1094742,61.35
+Q832550,Northwestern Polytechnical University,Q832550,61.29500000000001
+Q5088071,Chaudhary Charan Singh Haryana Agricultural University,Q5088071,61.23999999999999
+Q2655352,East China University of Science and Technology,Q2655352,61.12499999999999
+Q3182956,Canterbury Christ Church University,Q3182956,61.1
+Q56837,National Research Nuclear University,Q56837,61.025000000000006
+Q1781094,University of Northern Iowa,Q1781094,60.965
+Q831227,National University of Defense Technology,Q831227,60.935
+Q1419737,Guildhall School of Music and Drama,Q1419737,60.83
+Q1945756,Shenzhen University,Q1945756,60.769999999999996
+Q1026925,"California State University, Fullerton",Q1026925,60.75999999999999
+Q3945126,Saint Xavier University,Q3945126,60.69
+Q4507421,College of Charleston,Q4507421,60.61500000000001
+Q6079964,Istanbul University-Cerrahpaşa,Q6079964,60.6
+Q2159219,Illinois Wesleyan University,Q2159219,60.550000000000004
+Q8026588,Winthrop University,Q8026588,60.54500000000001
+Q7178629,Petra Christian University,Q7178629,60.48499999999999
+Q2124886,Roosevelt University,Q2124886,60.45
+Q834857,Chongqing University,Q834857,60.365
+Q3551688,Walla Walla University,Q3551688,60.29
+Q939607,University of Roehampton,Q939607,60.28
+Q782600,Linköping University,Q782600,60.260000000000005
+Q1190852,Algiers 1 University,Q1190852,60.02000000000001
+Q3634524,University of Kashmir,Q3634524,60.015
+Q7452397,Sepuluh Nopember Institute of Technology,Q7452397,59.934999999999995
+Q4253367,University of Lucknow,Q4253367,59.875
+Q5290854,Dominican University,Q5290854,59.805
+Q784171,National University of La Plata,Q784171,59.79500000000001
+Q1183967,Delaware State University,Q1183967,59.69
+Q1805085,Chapman University,Q1805085,59.64
+Q1470817,University of the Highlands and Islands,Q1470817,59.625
+Q935290,"University of Wales, Newport",Q935290,59.625
+Q7208069,Point Loma Nazarene University,Q7208069,59.6
+Q7700206,Tennessee Technological University,Q7700206,59.59
+Q2007778,University of West London,Q2007778,59.53
+Q1474624,Yerevan State University,Q1474624,59.53
+Q7502154,Shorter University,Q7502154,59.50999999999999
+Q1270831,University of Redlands,Q1270831,59.41
+Q2723670,Ain Shams University,Q2723670,59.394999999999996
+Q3547601,National University,Q3547601,59.379999999999995
+Q5061957,Central University of Finance and Economics,Q5061957,59.325
+Q1474105,Western Kentucky University,Q1474105,59.31
+Q17105410,Federal University of Technology Minna,Q17105410,59.28
+Q18387794,APJ Abdul Kalam Technological University,Q18387794,59.28
+Q1783608,University of Northern Colorado,Q1783608,59.27000000000001
+Q542498,Ave Maria University,Q542498,59.24
+Q7896523,University of Uyo,Q7896523,59.23000000000001
+Q1524992,International Islamic University Malaysia,Q1524992,59.075
+Q7895109,University of Baltimore,Q7895109,59.03000000000001
+Q833961,China University of Political Science and Law,Q833961,58.925000000000004
+Q3446076,Bridgewater State University,Q3446076,58.915
+Q3551577,University of Chichester,Q3551577,58.890000000000015
+Q1698206,University of Montevallo,Q1698206,58.805
+Q5042860,Carlow University,Q5042860,58.69000000000001
+Q7402055,Saint Paul University Quezon City,Q7402055,58.669999999999995
+Q4587760,Beijing Jiaotong University,Q4587760,58.660000000000004
+Q2598272,University for the Creative Arts,Q2598272,58.660000000000004
+Q699543,National Taiwan University of Science and Technology,Q699543,58.555
+Q626804,Mahidol University,Q626804,58.550000000000004
+Q3551609,University of King's College,Q3551609,58.504999999999995
+Q1132587,Spiru Haret University,Q1132587,58.48
+Q558922,Illinois State University,Q558922,58.470000000000006
+Q46023,Indian Institute of Management Lucknow,Q46023,58.410000000000004
+Q2031560,Tianjin University,Q2031560,58.355
+Q3509297,University of Abuja,Q3509297,58.254999999999995
+Q1817686,Troy University,Q1817686,58.21000000000001
+Q3445541,Cheyney University of Pennsylvania,Q3445541,58.125
+Q5142796,Colegio Cesar Chavez,Q5142796,58.025000000000006
+Q624970,Northern Michigan University,Q624970,57.995
+Q5059076,Centenary College of Louisiana,Q5059076,57.965
+Q5061855,Central State University,Q5061855,57.915
+Q6833225,Michael Okpara University of Agriculture,Q6833225,57.88499999999999
+Q426045,University of Malta,Q426045,57.79500000000001
+Q41790,Chung-Ang University,Q41790,57.77000000000001
+Q701818,Taipei Medical University,Q701818,57.665
+Q2323376,St. Thomas University,Q2323376,57.660000000000004
+Q1191166,University of Hyderabad,Q1191166,57.595
+Q392774,University for Peace,Q392774,57.565
+Q6922044,Mount Mary College,Q6922044,57.515
+Q17054926,West China Union University,Q17054926,57.470000000000006
+Q3551429,Longwood University,Q3551429,57.410000000000004
+Q5100405,Chinese Center for Disease Control and Prevention,Q5100405,57.345000000000006
+Q1263535,University of Novi Sad,Q1263535,57.34
+Q7996977,Whitworth University,Q7996977,57.31
+Q637346,University of West Alabama,Q637346,57.28999999999999
+Q727675,Asian Institute of Technology,Q727675,57.275000000000006
+Q3629946,Austin Community College District,Q3629946,57.23499999999999
+Q1026832,California Maritime Academy,Q1026832,57.215
+Q3551584,San Beda University,Q3551584,57.185
+Q747053,University of Hartford,Q747053,57.14999999999999
+Q1591654,Lake Superior State University,Q1591654,57.115
+Q1406935,Koforidua Technical University,Q1406935,57.11499999999999
+Q3135913,Savitribai Phule Pune University,Q3135913,57.050000000000004
+Q1232428,University of the Basque Country,Q1232428,57.035000000000004
+Q624571,Sonoma State University,Q624571,56.965
+Q644789,Catholic University of Leuven,Q644789,56.900000000000006
+Q48880972,China University of Geosciences (Beijing),Q48880972,56.900000000000006
+Q2302663,University of Aleppo,Q2302663,56.879999999999995
+Q7063504,Notre Dame of Maryland University,Q7063504,56.83
+Q1552247,University of Kerala,Q1552247,56.78
+Q5547686,Augusta University,Q5547686,56.74
+Q6023669,Indiana University – Purdue University Fort Wayne,Q6023669,56.7
+Q657374,University of Mary Washington,Q657374,56.644999999999996
+Q16734211,Kwara State University,Q16734211,56.629999999999995
+Q7603627,State University of New York at Oswego,Q7603627,56.61000000000001
+Q1152190,Ritsumeikan University,Q1152190,56.565
+Q4116236,Mansoura University,Q4116236,56.49
+Q6129947,Shanghai University of Finance and Economics,Q6129947,56.434999999999995
+Q3509319,Abia State University,Q3509319,56.419999999999995
+Q6393501,Kerala Veterinary and Animal Sciences University,Q6393501,56.365
+Q472167,University of Winnipeg,Q472167,56.34
+Q1473796,University of North Florida,Q1473796,56.275000000000006
+Q7060123,Northwest Missouri State University,Q7060123,56.275000000000006
+Q689400,TU Wien,Q689400,56.275000000000006
+Q2065695,Solent University,Q2065695,56.265
+Q337382,Acadia University,Q337382,56.23
+Q1074084,China University of Mining and Technology,Q1074084,56.225
+Q5666316,Harris–Stowe State University,Q5666316,56.19
+Q6382148,Kean University,Q6382148,56.150000000000006
+Q1231724,Utah Tech University,Q1231724,56.14500000000001
+Q5432602,Falmouth University,Q5432602,56.050000000000004
+Q3181122,Padjadjaran University,Q3181122,56.050000000000004
+Q1861974,University of Cumbria,Q1861974,56.0
+Q12061548,McKendree University,Q12061548,55.955
+Q633040,Morehead State University,Q633040,55.94
+Q935018,Jacksonville University,Q935018,55.92000000000001
+Q1798494,Johnson & Wales University,Q1798494,55.905
+Q1236136,University of Bari,Q1236136,55.900000000000006
+Q2092358,Osmania University,Q2092358,55.885000000000005
+Q6879494,Missouri Baptist University,Q6879494,55.73500000000001
+Q3046238,EUCLID,Q3046238,55.705
+Q2407584,Texas A&M University–Commerce,Q2407584,55.660000000000004
+Q1056123,Suffolk University,Q1056123,55.425000000000004
+Q1711141,Judson University,Q1711141,55.379999999999995
+Q6364161,Kannur University,Q6364161,55.315
+Q1509957,Süleyman Demirel University,Q1509957,55.269999999999996
+Q7080808,Ohio Dominican University,Q7080808,55.265
+Q3183295,University of Derby,Q3183295,55.205
+Q2038889,St. Francis Xavier University,Q2038889,55.165
+Q1549932,University of the Punjab,Q1549932,55.125
+Q7401830,Saint Mary's College of Quezon City,Q7401830,55.115
+Q23110,Nanjing University of Aeronautics and Astronautics,Q23110,55.09
+Q1857293,Pontifical Catholic University of Rio de Janeiro,Q1857293,55.055
+Q1066989,Alliant International University,Q1066989,55.044999999999995
+Q7895970,University of North Georgia,Q7895970,55.00999999999999
+Q5594651,Rockhurst University,Q5594651,54.919999999999995
+Q248919,Walter Sisulu University,Q248919,54.900000000000006
+Q5581122,Gombe State University,Q5581122,54.894999999999996
+Q1069994,Tokyo University of Science,Q1069994,54.775000000000006
+Q3152453,National Polytechnic Institute of Toulouse,Q3152453,54.75
+Q2822225,Academy of Art University,Q2822225,54.73
+Q8055565,York St John University,Q8055565,54.625
+Q3316928,Mississippi Valley State University,Q3316928,54.584999999999994
+Q7895785,University of Michigan–Flint,Q7895785,54.470000000000006
+Q5440484,"Modibbo Adama University, Yola",Q5440484,54.415
+Q610253,University of Jordan,Q610253,54.355
+Q16967405,Pontifical universities in Rome,Q16967405,54.294999999999995
+Q3551748,Cape Breton University,Q3551748,54.275000000000006
+Q2097334,Pittsburg State University,Q2097334,54.184999999999995
+Q467164,American University of Armenia,Q467164,54.165
+Q6149540,State University of New York at Geneseo,Q6149540,54.084999999999994
+Q49041,Allen University,Q49041,54.065
+Q7247886,University of Kalyani,Q7247886,54.0
+Q1057447,Loma Linda University,Q1057447,53.96000000000001
+Q7270829,Queens University of Charlotte,Q7270829,53.935
+Q1238770,Addis Ababa University,Q1238770,53.900000000000006
+Q1505925,University of Abertay Dundee,Q1505925,53.85
+Q4146980,State University of New York at Oneonta,Q4146980,53.79500000000001
+Q1718656,Warsaw University of Technology,Q1718656,53.79000000000001
+Q2992101,Concordia University Texas,Q2992101,53.760000000000005
+Q4821180,Augustine Institute,Q4821180,53.715
+Q3445045,Bethel University,Q3445045,53.669999999999995
+Q5001978,Busitema University,Q5001978,53.620000000000005
+Q632465,Radford University,Q632465,53.60999999999999
+Q15043613,Prince Abubakar Audu University,Q15043613,53.6
+Q3915401,Egerton University,Q3915401,53.56
+Q1068615,The University of the Arts,Q1068615,53.555
+Q458467,Sudan University of Science and Technology,Q458467,53.49
+Q7877609,Uganda Martyrs University,Q7877609,53.43
+Q1368179,Tarlac State University,Q1368179,53.379999999999995
+Q6223569,John Brown University,Q6223569,53.300000000000004
+Q7198162,Pisa University System,Q7198162,53.27499999999999
+Q5094823,Chhatrapati Shahu Ji Maharaj University,Q5094823,53.25
+Q6879096,Mississippi College,Q6879096,53.23500000000001
+Q3803587,Bahá'í Institute for Higher Education,Q3803587,53.20500000000001
+Q137503,University of Łódź,Q137503,53.205
+Q774520,Université de Kinshasa,Q774520,53.18
+Q1278210,Eastern Mennonite University,Q1278210,53.13499999999999
+Q3298457,Bethune-Cookman University,Q3298457,53.115
+Q5929270,Pacific University,Q5929270,53.105
+Q662131,Hohai University,Q662131,53.08500000000001
+Q6733535,"Mahatma Gandhi University, Kerala",Q6733535,53.06
+Q625103,University of Missouri–St. Louis,Q625103,53.050000000000004
+Q2566683,Wheeling University,Q2566683,53.044999999999995
+Q6979223,National University of Advanced Legal Studies,Q6979223,52.98499999999999
+Q835779,University of International Business and Economics,Q835779,52.955
+Q1329478,Czech Technical University in Prague,Q1329478,52.95
+Q4118040,University of Massachusetts Dartmouth,Q4118040,52.925000000000004
+Q7895018,"University of Agricultural Sciences, Bangalore",Q7895018,52.885000000000005
+Q915989,Queen Margaret University,Q915989,52.785000000000004
+Q3790133,Universidade Federal de Santa Maria,Q3790133,52.73500000000001
+Q6984798,Nebraska Wesleyan University,Q6984798,52.69499999999999
+Q12815487,National University of Public Service,Q12815487,52.69
+Q7895023,"University of Agriculture, Makurdi",Q7895023,52.68
+Q457793,Federico Santa María Technical University,Q457793,52.615
+Q8072005,Zimbabwe Open University,Q8072005,52.615
+Q7108022,Osun State University,Q7108022,52.565
+Q493141,University of Botswana,Q493141,52.550000000000004
+Q1782724,University of Central Arkansas,Q1782724,52.535000000000004
+Q4881133,Beijing Forestry University,Q4881133,52.53
+Q4702511,"Al-hikmah University, Ilorin",Q4702511,52.53
+Q1279835,School of Visual Arts,Q1279835,52.525000000000006
+Q371522,University of Gothenburg,Q371522,52.504999999999995
+Q496536,Kyung Hee University,Q496536,52.49
+Q1091287,Chuo University,Q1091287,52.435
+Q2119752,University of Urbino,Q2119752,52.400000000000006
+Q6412129,King University,Q6412129,52.39
+Q3444675,Christopher Newport University,Q3444675,52.379999999999995
+Q1534879,Golden Gate University,Q1534879,52.35
+Q3551549,University of Oran,Q3551549,52.35
+Q1071609,Chiang Mai University,Q1071609,52.31
+Q7382780,Rutgers University–Newark,Q7382780,52.29
+Q1661325,Indiana University of Pennsylvania,Q1661325,52.2
+Q16976363,Sree Krishna College,Q16976363,52.150000000000006
+Q7603625,State University of New York at New Paltz,Q7603625,52.050000000000004
+Q111943244,"Federal University of Agriculture, Zuru",Q111943244,52.04
+Q111956066,University of the Philippines Film Institute,Q111956066,51.94000000000001
+Q7110141,Ouachita Baptist University,Q7110141,51.91
+Q1055874,University of Bridgeport,Q1055874,51.894999999999996
+Q7585673,Sree Sankaracharya Sanskrit University,Q7585673,51.834999999999994
+Q5330550,Eastern University,Q5330550,51.81
+Q17053883,Government T D,Q17053883,51.805
+Q1568237,National University,Q1568237,51.754999999999995
+Q4817297,Atomic Minerals Directorate for Exploration and Research,Q4817297,51.745
+Q1575044,Visva-Bharati University,Q1575044,51.74
+Q634396,McNeese State University,Q634396,51.675000000000004
+Q220226,University of Namibia,Q220226,51.665
+Q6728390,Madonna University,Q6728390,51.535000000000004
+Q3052113,Embry–Riddle Aeronautical University,Q3052113,51.415
+Q1363559,Northeastern University,Q1363559,51.415
+Q3953805,Nanjing University of Science and Technology,Q3953805,51.35
+Q13122809,Moi University,Q13122809,51.35
+Q725198,Ashesi University,Q725198,51.33
+Q7895554,University of Indianapolis,Q7895554,51.29
+Q7082127,Oklahoma Christian University,Q7082127,51.29
+Q41114,Ewha Womans University,Q41114,51.245
+Q6631334,Bryant & Stratton College,Q6631334,51.23499999999999
+Q5547419,Georgia College & State University,Q5547419,51.225
+Q6515384,Lee University,Q6515384,51.19
+Q1641504,University of Palermo,Q1641504,51.19
+Q2030894,Albert Einstein College of Medicine,Q2030894,51.185
+Q7896148,University of Pittsburgh at Johnstown,Q7896148,51.165000000000006
+Q940919,Utah Valley University,Q940919,51.150000000000006
+Q5108941,Christ University,Q5108941,51.125
+Q492442,United Nations University,Q492442,51.08500000000001
+Q2001231,Northwestern State University,Q2001231,51.035
+Q1783603,Long Island University,Q1783603,50.980000000000004
+Q7987876,Western Governors University,Q7987876,50.83
+Q1765168,Communication University of China,Q1765168,50.81
+Q1570483,University of Eswatini,Q1570483,50.775000000000006
+Q7569505,Southeastern University,Q7569505,50.76499999999999
+Q5061424,Central Methodist University,Q5061424,50.75
+Q60845,Thunchath Ezhuthachan Malayalam University,Q60845,50.715
+Q1430054,Florida Gulf Coast University,Q1430054,50.69
+Q6806451,Medical University of South Carolina,Q6806451,50.665000000000006
+Q7792539,Thomas More University,Q7792539,50.655
+Q5483039,Franciscan University of Steubenville,Q5483039,50.655
+Q1303297,University of Theatre and Film Arts,Q1303297,50.645
+Q12523349,Jakarta State Islamic University,Q12523349,50.55
+Q1477368,Dalian University of Technology,Q1477368,50.510000000000005
+Q3551422,Southwest Jiaotong University,Q3551422,50.51
+Q2753927,Kyambogo University,Q2753927,50.495000000000005
+Q2096395,Universiti Teknologi Petronas,Q2096395,50.449999999999996
+Q7894438,Universiti Tunku Abdul Rahman,Q7894438,50.435
+Q2746795,Guru Gobind Singh Indraprastha University,Q2746795,50.395
+Q6124019,Jain University,Q6124019,50.345
+Q3162985,Tashkent State Technical University,Q3162985,50.34
+Q67212715,INSA Hauts-de-France,Q67212715,50.325
+Q6875342,Misericordia University,Q6875342,50.275000000000006
+Q1421182,Multimedia University,Q1421182,50.195
+Q1783191,Youngstown State University,Q1783191,50.175000000000004
+Q487804,Dongguk University,Q487804,50.17000000000001
+Q1278253,Eastern Washington University,Q1278253,50.120000000000005
+Q448403,Buckinghamshire New University,Q448403,50.115
+Q648674,St. Matthew's University,Q648674,50.11
+Q914024,Yokohama City University,Q914024,50.105000000000004
+Q1702696,Jomo Kenyatta University of Agriculture and Technology,Q1702696,50.0
+Q4647420,A.T. Still University,Q4647420,49.995
+Q7127976,Palm Beach Atlantic University,Q7127976,49.85
+Q2399264,Université de technologie de Belfort-Montbéliard,Q2399264,49.75
+Q2495841,"University of Colorado, at Colorado Springs",Q2495841,49.735
+Q1472245,Bauman Moscow State Technical University,Q1472245,49.695
+Q498407,University of Latvia,Q498407,49.650000000000006
+Q671642,University of Malawi,Q671642,49.63
+Q727492,IUAV University of Venice,Q727492,49.56999999999999
+Q5472214,Fort Valley State University,Q5472214,49.555
+Q5539406,George Fox University,Q5539406,49.445
+Q13139758,Lahore University of Management Sciences,Q13139758,49.445
+Q3087723,British University in Egypt,Q3087723,49.415
+Q6395612,Keuka College,Q6395612,49.39
+Q1805202,Baldwin Wallace University,Q1805202,49.294999999999995
+Q1165599,Dar ul-Funun,Q1165599,49.26
+Q4927158,Block O,Q4927158,49.24000000000001
+Q7001944,Neumann University,Q7001944,49.175000000000004
+Q3551772,University of Wisconsin–Whitewater,Q3551772,49.129999999999995
+Q4005868,University of Texas Health Science Center at San Antonio,Q4005868,49.120000000000005
+Q2917699,Tanta University,Q2917699,49.08500000000001
+Q4887352,Benedictine University,Q4887352,49.085
+Q3302016,Langston University,Q3302016,49.074999999999996
+Q904219,Campbell University,Q904219,49.045
+Q4788041,Ardhi University,Q4788041,49.04
+Q262617,Fuller Theological Seminary,Q262617,48.97
+Q5158998,Concordia University Irvine,Q5158998,48.955
+Q751289,The University of Tampa,Q751289,48.945
+Q85449,Igor Sikorsky Kyiv Polytechnic Institute,Q85449,48.93000000000001
+Q458530,Burapha University,Q458530,48.925
+Q634651,Texas A&M University–Corpus Christi,Q634651,48.92
+Q6842554,Midlands State University,Q6842554,48.894999999999996
+Q3446091,Alfred University,Q3446091,48.83500000000001
+Q2114730,University of Shizuoka,Q2114730,48.83500000000001
+Q30263435,University of Fort Lauderdale,Q30263435,48.835
+Q573061,Budapest Business School,Q573061,48.794999999999995
+Q985808,Northwest A&F University,Q985808,48.794999999999995
+Q1666981,John Carroll University,Q1666981,48.785
+Q6859396,Millersville University of Pennsylvania,Q6859396,48.78
+Q2166335,University of Southern Denmark,Q2166335,48.74
+Q7499204,Shiv Nadar University,Q7499204,48.685
+Q7572993,Spalding University,Q7572993,48.66
+Q501841,University of Turku,Q501841,48.615
+Q4881146,Beijing Institute of Petrochemical Technology,Q4881146,48.615
+Q7570171,Southern Nazarene University,Q7570171,48.595
+Q1192597,Kobe University,Q1192597,48.575
+Q649299,Regis University,Q649299,48.57
+Q3695681,Norwich University of the Arts,Q3695681,48.565
+Q3493422,Spicer Adventist University,Q3493422,48.535
+Q6188268,Jesus and Mary College,Q6188268,48.525
+Q1248821,University of Catania,Q1248821,48.48
+Q55456518,Purdue University Fort Wayne,Q55456518,48.465
+Q8026034,Winston-Salem State University,Q8026034,48.445
+Q16935354,Narsee Monjee Institute of Management Studies,Q16935354,48.415
+Q1144682,Beijing Foreign Studies University,Q1144682,48.3
+Q1245999,University of Siena,Q1245999,48.145
+Q745391,Assumption University,Q745391,48.13
+Q10854039,Islamic Azad University Central Tehran Branch,Q10854039,48.080000000000005
+Q837544,Donghua University,Q837544,48.075
+Q7896201,University of Rajasthan,Q7896201,48.06
+Q892503,Saint Leo University,Q892503,48.050000000000004
+Q3276104,Madurai Kamaraj University,Q3276104,48.015
+Q4570025,Grand Canyon University,Q4570025,47.81999999999999
+Q7653715,Swansea University Medical School,Q7653715,47.81
+Q3275637,University of Central Oklahoma,Q3275637,47.745000000000005
+Q3551510,Washington Adventist University,Q3551510,47.685
+Q1276380,University of St. Francis,Q1276380,47.669999999999995
+Q52162280,Tarsus University,Q52162280,47.66499999999999
+Q5968342,The Education University of Hong Kong,Q5968342,47.595
+Q2212977,Saint Mary's University,Q2212977,47.595
+Q4803762,Asbury University,Q4803762,47.535
+Q8214783,University of La Verne,Q8214783,47.525
+Q14712798,Marymount University,Q14712798,47.475
+Q1489002,Universiti Malaysia Terengganu,Q1489002,47.47
+Q7603623,State University of New York at Cortland,Q7603623,47.455
+Q5593620,Grambling State University,Q5593620,47.39
+Q726793,Asia-Pacific International University,Q726793,47.39
+Q4754216,Anderson University,Q4754216,47.365
+Q175529,John Paul II Catholic University of Lublin,Q175529,47.345
+Q3695750,Salem State University,Q3695750,47.33
+Q5055814,Cebu Normal University,Q5055814,47.32
+Q634669,East Tennessee State University,Q634669,47.31
+Q6207837,Jodhpur National University,Q6207837,47.3
+Q1791968,Kumasi Technical University,Q1791968,47.275
+Q1296153,University of the West of Scotland,Q1296153,47.27
+Q6781819,Marywood University,Q6781819,47.269999999999996
+Q12010517,Wentworth Institute of Technology,Q12010517,47.145
+Q15045626,Mount Kenya University,Q15045626,47.14
+Q1278206,Eastern Kentucky University,Q1278206,47.135000000000005
+Q7895509,University of Houston–Downtown,Q7895509,47.099999999999994
+Q1144565,Umeå University,Q1144565,47.06999999999999
+Q641084,Arellano University,Q641084,47.050000000000004
+Q7894380,Federal University of Sergipe,Q7894380,47.01
+Q7088000,Olivet Nazarene University,Q7088000,46.995000000000005
+Q3275551,Annamalai University,Q3275551,46.995
+Q693674,Bentley University,Q693674,46.94
+Q1465448,Politehnica University of Bucharest,Q1465448,46.855
+Q280247,Fluminense Federal University,Q280247,46.84
+Q1588869,Université de Lubumbashi,Q1588869,46.824999999999996
+Q5220742,Southern Wesleyan University,Q5220742,46.765
+Q1364550,Helwan University,Q1364550,46.665
+Q5327643,East Africa University,Q5327643,46.615
+Q1232831,Universidade Federal do Paraná,Q1232831,46.61000000000001
+Q1122171,Brno University of Technology,Q1122171,46.52
+Q19893498,Maharishi Markandeshwar Institute of Medical Sciences and Research,Q19893498,46.510000000000005
+Q1245318,University of Messina,Q1245318,46.445
+Q3551629,Maseno University,Q3551629,46.41
+Q1633799,Baku State University,Q1633799,46.370000000000005
+Q5244080,DeSales University,Q5244080,46.35
+Q1076606,University Joseph Ki-Zerbo,Q1076606,46.345
+Q5434569,Far Eastern University - Diliman,Q5434569,46.325
+Q1563992,California Baptist University,Q1563992,46.32
+Q7986925,West Virginia University College of Law,Q7986925,46.305
+Q1547084,University of Twente,Q1547084,46.290000000000006
+Q6884705,Mizoram University,Q6884705,46.285
+Q1455176,Shanghai International Studies University,Q1455176,46.26
+Q649882,Yunnan University,Q649882,46.235
+Q714891,National Central University,Q714891,45.970000000000006
+Q3551554,Tarleton State University,Q3551554,45.965
+Q2587376,Fresno Pacific University,Q2587376,45.925
+Q6359130,Kampala University,Q6359130,45.905
+Q1946114,Middlebury Institute of International Studies at Monterey,Q1946114,45.855
+Q12523365,Widya Mandala Catholic University,Q12523365,45.825
+Q3875225,University of Zanjan,Q3875225,45.795
+Q7401676,Saint Louis University,Q7401676,45.78
+Q1949773,Seton Hill University,Q1949773,45.765
+Q5440478,Universidade Federal de Mato Grosso do Sul,Q5440478,45.76
+Q116756590,North Wales Medical School,Q116756590,45.75
+Q2166712,Rose–Hulman Institute of Technology,Q2166712,45.75
+Q4115744,Egypt-Japan University of Science and Technology,Q4115744,45.72
+Q111181553,Georgia Baptist College,Q111181553,45.71
+Q7976817,Waynesburg University,Q7976817,45.705
+Q94810,Universiti Tenaga Nasional,Q94810,45.67

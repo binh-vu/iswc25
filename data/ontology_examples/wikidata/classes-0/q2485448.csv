@@ -1,0 +1,1001 @@
+id,label,source,score
+Q271805,National Collegiate Athletic Association,Q271805,241.52000000000004
+Q7865800,USA Climbing,Q7865800,214.85500000000002
+Q233929,NASCAR,Q233929,196.265
+Q4824774,Australian Underwater Federation,Q4824774,178.85
+Q16958476,Turkish Underwater Sports Federation,Q16958476,174.565
+Q1916564,Nederlandse Onderwatersport Bond,Q1916564,161.265
+Q552989,Nationalsozialistischer Reichsbund für Leibesübungen,Q552989,155.425
+Q3091794,Fédération Française d'Études et de Sports Sous-Marins,Q3091794,154.39
+Q661526,Russian Tennis Federation,Q661526,145.375
+Q2907539,Board of Control for Cricket in India,Q2907539,128.09
+Q389763,Hellenic Football Federation,Q389763,127.46
+Q1032195,U Sports,Q1032195,121.29499999999999
+Q1520453,United Soccer League,Q1520453,116.31500000000001
+Q621084,Saudi Arabian Football Federation,Q621084,104.505
+Q908169,England and Wales Cricket Board,Q908169,100.57000000000001
+Q2948695,American Collegiate Hockey Association,Q2948695,90.69500000000001
+Q1605869,Hellenic Basketball Federation,Q1605869,90.285
+Q27962096,Hungarian Canoe Federation,Q27962096,89.85000000000001
+Q806536,Bangladesh Football Federation,Q806536,89.585
+Q326322,Hockey Australia,Q326322,88.81
+Q3565259,Sports Association of Professional Football,Q3565259,88.455
+Q872028,Southern German football championship,Q872028,86.78500000000001
+Q2543683,Women's Flat Track Derby Association,Q2543683,82.94999999999999
+Q3882782,Ontario Hockey Association,Q3882782,80.95
+Q30588350,International Wrestling Federation,Q30588350,80.45
+Q1153629,Canadian Junior Hockey League,Q1153629,80.00500000000001
+Q3494179,Ontario University Athletics,Q3494179,79.78
+Q7437802,Scottish Junior Football Association,Q7437802,79.25
+Q2925723,British Cycling,Q2925723,78.00999999999999
+Q4651525,AFL Commission,Q4651525,77.375
+Q105562241,Armenian Basketball Federation,Q105562241,77.05
+Q3547336,USA Track & Field,Q3547336,75.495
+Q3547330,USA Swimming,Q3547330,73.23
+Q242791,Kyokushin kaikan,Q242791,72.60000000000001
+Q1124822,Argentine Basketball Confederation,Q1124822,71.3
+Q4071524,U.S. Figure Skating,Q4071524,70.08000000000001
+Q2112938,USA Volleyball,Q2112938,69.695
+Q23057988,Greek Amputee Football Association,Q23057988,69.56
+Q2869088,Athletics Canada,Q2869088,69.07499999999999
+Q1187243,United States Golf Association,Q1187243,67.22500000000001
+Q7094646,CurlON,Q7094646,66.99499999999999
+Q7101328,Oregon School Activities Association,Q7101328,66.33
+Q4971125,British Swimming,Q4971125,66.03
+Q2500386,USA Basketball,Q2500386,65.89
+Q7437967,Scottish Rowing,Q7437967,65.58
+Q19622087,Scottish Volleyball Association,Q19622087,63.559999999999995
+Q1479313,French Basketball Federation,Q1479313,63.550000000000004
+Q2333221,Basketball Federation of Serbia,Q2333221,63.28000000000001
+Q2935766,Canada Basketball,Q2935766,63.075
+Q1647513,UK Athletics,Q1647513,62.650000000000006
+Q1107166,Italian Basketball Federation,Q1107166,62.52000000000001
+Q5512960,GB Boxing,Q5512960,62.165
+Q106484297,Sunshine Coast Gympie Rugby League,Q106484297,61.709999999999994
+Q3741469,Angolan Basketball Federation,Q3741469,61.43
+Q3494880,Tennis Australia,Q3494880,61.32000000000001
+Q264335,Estonian Football Association,Q264335,60.635000000000005
+Q7579304,Sport Canada,Q7579304,60.535
+Q4709125,Albanian Federation of Volleyball,Q4709125,60.400000000000006
+Q5188008,Croquet Association,Q5188008,60.25500000000001
+Q843262,Amateur Boxing Association of England,Q843262,59.73000000000001
+Q7940372,Volleyball England,Q7940372,59.185
+Q263014,Japan Karate Association,Q263014,59.12
+Q62395195,Silambam Asia,Q62395195,59.084999999999994
+Q12403700,Handball Union of Russia,Q12403700,58.885000000000005
+Q19622021,Volleyball Federation of Armenia,Q19622021,58.85500000000001
+Q927765,National Association of Intercollegiate Athletics,Q927765,58.769999999999996
+Q7865791,USA Baseball,Q7865791,58.61000000000001
+Q4819248,Turkish Volleyball Federation,Q4819248,58.224999999999994
+Q3002581,Cricket South Africa,Q3002581,57.74
+Q2568659,Lithuanian Basketball Federation,Q2568659,56.42000000000001
+Q1323194,Portuguese Basketball Federation,Q1323194,55.845
+Q20977899,Basque Football Federation,Q20977899,55.73500000000001
+Q17510360,Portuguese Tennis Federation,Q17510360,55.405
+Q108913259,Armenian Handball Federation,Q108913259,54.88499999999999
+Q4970979,British Rowing,Q4970979,54.584999999999994
+Q3092150,All-Russia Athletic Federation,Q3092150,54.515
+Q20806715,Albanian Swimming Federation,Q20806715,54.425000000000004
+Q1342760,Table Tennis England,Q1342760,54.25
+Q1426308,Japan Sumo Association,Q1426308,54.2
+Q108887889,Armenian Swimming Federation,Q108887889,53.82000000000001
+Q1162640,Hungarian Swimming Association,Q1162640,53.57499999999999
+Q7865813,USA Gymnastics,Q7865813,53.43
+Q7700298,Tennis Canada,Q7700298,53.294999999999995
+Q62395768,World Silambam Association,Q62395768,53.29
+Q16515242,New Zealand Cricket,Q16515242,52.84000000000001
+Q3741101,Basketball Wales,Q3741101,52.69
+Q16354979,Albanian Weightlifting Federation,Q16354979,52.629999999999995
+Q279519,British Darts Organisation,Q279519,52.62
+Q3741153,Basketball Australia,Q3741153,52.615
+Q3091543,Swiss Basketball,Q3091543,52.54500000000001
+Q958120,USA Table Tennis,Q958120,52.394999999999996
+Q3550733,United States Australian Football League,Q3550733,51.760000000000005
+Q11316,Italian Athletics Federation,Q11316,51.745000000000005
+Q3741223,basketballscotland,Q3741223,51.74
+Q606581,Asian Women's Handball Championship,Q606581,51.495
+Q4127468,Russian Volleyball Federation,Q4127468,51.19
+Q3546411,National Collegiate Athletic Association,Q3546411,51.120000000000005
+Q1963290,American Contract Bridge League,Q1963290,51.08500000000001
+Q16931927,Lancashire County Rugby Football Union,Q16931927,50.845
+Q2610359,World of Outlaws,Q2610359,50.815000000000005
+Q1336907,Japan Basketball Association,Q1336907,50.35
+Q623756,Myanmar Football Federation,Q623756,50.2
+Q3741165,England Basketball,Q3741165,49.99
+Q918820,British Canoe Union,Q918820,49.955
+Q3067881,"Italian Federation of Judo, Karate and Martial Arts",Q3067881,49.75
+Q732876,professional golf tour,Q732876,49.599999999999994
+Q3092222,Tunisian Volleyball Federation,Q3092222,49.5
+Q16736933,Hellenic Volleyball Federation,Q16736933,49.285
+Q7656211,Swimming Australia,Q7656211,49.055
+Q5184960,Cricket Canada,Q5184960,48.875
+Q7903387,Uttarakhand Cricket Association,Q7903387,48.17
+Q67636972,Figure Skating Federation of Armenia,Q67636972,47.775000000000006
+Q4823918,Paddle Australia,Q4823918,47.625
+Q16974360,Mountain Pacific Sports Federation,Q16974360,47.57
+Q25035975,IPSC Armenia,Q25035975,47.550000000000004
+Q108939948,Judo Federation of Armenia,Q108939948,47.525000000000006
+Q5198285,Cycling Australia,Q5198285,47.505
+Q7673173,Table Tennis Association of Wales,Q7673173,47.465
+Q1337913,Lawn Tennis Association,Q1337913,47.455
+Q28153899,Hungarian Judo Association,Q28153899,47.410000000000004
+Q3684877,Commonwealth Games Federation,Q3684877,47.22
+Q5030694,Canadian Yachting Association,Q5030694,46.87
+Q3644999,British Basketball,Q3644999,46.845
+Q5184980,Cricket Scotland,Q5184980,46.635
+Q302442,Welsh Badminton Cymru,Q302442,46.475
+Q48796607,South African Bridge Federation,Q48796607,45.875
+Q3522967,Indian Football Association,Q3522967,45.87
+Q1156323,United States Tennis Association,Q1156323,45.699999999999996
+Q3547321,USA Cycling,Q3547321,45.645
+Q4824713,Australian Stock Car Auto Racing,Q4824713,45.605
+Q108907053,Armenian Weightlifting Federation,Q108907053,45.595
+Q2660316,Football Federation of the Soviet Union,Q2660316,45.495000000000005
+Q3060761,European Bridge League,Q3060761,45.480000000000004
+Q3741499,Federação Portuguesa de Atletismo,Q3741499,45.07
+Q2886670,Baseball Canada,Q2886670,45.025000000000006
+Q487066,Deutscher Leichtathletik-Verband,Q487066,44.93000000000001
+Q2060292,Fédération française d'athlétisme,Q2060292,44.715
+Q261332,Magyar Atlétikai Szövetség,Q261332,44.465
+Q2869069,Athletics Australia,Q2869069,44.394999999999996
+Q799607,Badminton England,Q799607,44.385
+Q2339616,Samahang Bopols ng Pilipinas,Q2339616,44.324999999999996
+Q4824233,Australian Handball Federation,Q4824233,44.18
+Q4969584,British Boxing Board of Control,Q4969584,43.9
+Q6978115,National Rifle Association,Q6978115,43.75500000000001
+Q2048830,Pan American Hockey Federation,Q2048830,43.754999999999995
+Q3091439,Armenian Athletic Federation,Q3091439,43.65
+Q6859,Deutscher Volleyball-Verband,Q6859,43.595
+Q30592003,Japan Handball Association,Q30592003,43.525000000000006
+Q4049573,Skate Canada,Q4049573,43.495000000000005
+Q1083959,Brazilian Basketball Confederation,Q1083959,43.425000000000004
+Q3092184,Athletics South Africa,Q3092184,43.42000000000001
+Q3567429,West Indies Cricket Board,Q3567429,43.405
+Q3092237,Uruguayan Basketball Federation,Q3092237,43.26500000000001
+Q5198290,Cycling Federation of India,Q5198290,43.26
+Q24910624,Gulf Cup Federation,Q24910624,43.245000000000005
+Q1399975,Spanish Ice Sports Federation,Q1399975,43.23
+Q2385474,Confederação Brasileira de Atletismo,Q2385474,43.2
+Q17013408,Pakistan Basketball Federation,Q17013408,43.074999999999996
+Q7927226,Victorian Ice Hockey Association,Q7927226,42.96000000000001
+Q13636343,Hockey India,Q13636343,42.78
+Q1162292,Hungarian Fencing Federation,Q1162292,42.69
+Q7981875,Welsh Chess Union,Q7981875,42.665
+Q19622007,Volleyball South Africa,Q19622007,42.455
+Q4907332,Cycling New Zealand,Q4907332,42.38
+Q31358752,Singapore Taekwondo Federation,Q31358752,42.275000000000006
+Q326054,England Hockey,Q326054,42.120000000000005
+Q1934559,Netherlands Bridge League,Q1934559,42.080000000000005
+Q28224633,Hungarian Basketball Federation,Q28224633,42.025
+Q2282100,Icelandic Basketball Federation,Q2282100,41.99
+Q1377944,Norwegian Bridge Federation,Q1377944,41.97
+Q109254598,AusCycling,Q109254598,41.97
+Q799617,Badminton Scotland,Q799617,41.94499999999999
+Q1107068,Italian Volleyball Federation,Q1107068,41.885000000000005
+Q7855256,Turkish Cycling Federation,Q7855256,41.885
+Q2230227,Royal Dutch Athletics Federation,Q2230227,41.870000000000005
+Q107318629,Armenian Cycling Federation,Q107318629,41.785
+Q2733817,Russian Basketball Federation,Q2733817,41.76
+Q3091954,Cycling Ireland,Q3091954,41.730000000000004
+Q1205300,German Swimming Federation,Q1205300,41.7
+Q108933673,Armenian Shooting Federation,Q108933673,41.655
+Q3091761,Estonian Athletic Association,Q3091761,41.47
+Q3741161,Basketball Federation of India,Q3741161,41.464999999999996
+Q764417,Japan Rugby Football Union,Q764417,41.36000000000001
+Q11822628,Polish Volleyball Federation,Q11822628,41.35
+Q2867398,Canadian Cycling Association,Q2867398,41.305
+Q108063649,"Union of Mixed Martial Arts ""MMA"" of Russia",Q108063649,41.230000000000004
+Q12270302,Brazilian Bridge Federation,Q12270302,41.15
+Q48783265,Canoeing South Africa,Q48783265,41.105
+Q105438556,Philippine National Volleyball Federation,Q105438556,40.940000000000005
+Q3092229,Turkish Athletic Federation,Q3092229,40.935
+Q55637216,Volleyball Federation of India,Q55637216,40.905
+Q5093308,Chess Scotland,Q5093308,40.87
+Q16835026,Athletics Federation of India,Q16835026,40.855
+Q19622026,Estonian Volleyball Federation,Q19622026,40.825
+Q3550724,United States Aquatic Sports,Q3550724,40.805
+Q4729032,All Japan Kickboxing Federation,Q4729032,40.79
+Q27957591,Hungarian Wrestling Federation,Q27957591,40.56
+Q4793228,Armenian Sailing Federation,Q4793228,40.425
+Q3741324,British Judo Association,Q3741324,40.405
+Q5439966,Federación Paraguaya de Atletismo,Q5439966,40.4
+Q3875498,New York GAA,Q3875498,40.31
+Q2867711,French wrestling federation,Q2867711,40.09
+Q2867836,Israeli Athletics Association,Q2867836,40.050000000000004
+Q3092102,Polski Związek Lekkiej Atletyki,Q3092102,40.04
+Q4824790,Australian Volleyball Federation,Q4824790,39.96
+Q2197613,Nederlandse Volleyball Bond,Q2197613,39.85
+Q15306340,Kazakhstan Tennis Federation,Q15306340,39.8
+Q3741292,Puerto Rican Basketball Federation,Q3741292,39.795
+Q1605645,Croatian Basketball Federation,Q1605645,39.795
+Q56063762,Swimming Federation of India,Q56063762,39.78
+Q306081,Austrian Bridge Federation,Q306081,39.755
+Q3091782,Finnish Athletics Federation,Q3091782,39.75
+Q2867408,Athletics Ireland,Q2867408,39.730000000000004
+Q24892845,Uttarakhand State Football Association,Q24892845,39.58
+Q3138999,Hockey Québec,Q3138999,39.52
+Q7890859,United States Orienteering Federation,Q7890859,39.52
+Q16324878,USA Team Handball,Q16324878,39.475
+Q528935,English Chess Federation,Q528935,39.445
+Q17510355,Federação Portuguesa de Canoagem,Q17510355,39.43
+Q1107965,Federazione Ciclistica Italiana,Q1107965,39.42
+Q7582102,Squash Canada,Q7582102,39.375
+Q3741168,Basketball Ireland,Q3741168,39.365
+Q9634431,Japan Volleyball Association,Q9634431,39.364999999999995
+Q7673177,Table Tennis Federation of Kosovo,Q7673177,39.35
+Q3354755,Norwegian Athletics Association,Q3354755,39.335
+Q11667656,Ukrainian Athletic Federation,Q11667656,39.29500000000001
+Q326146,Scottish Hockey Union,Q326146,39.245000000000005
+Q7889884,United States Fencing Association,Q7889884,39.18000000000001
+Q4971164,British Triathlon Federation,Q4971164,39.16
+Q7378214,Rugby League Ireland,Q7378214,39.025
+Q5032918,Canoe Wales,Q5032918,39.01
+Q3091472,British Gymnastics,Q3091472,38.995000000000005
+Q3091907,Hungarian Bridge Federation,Q3091907,38.99000000000001
+Q5448019,Figure Skating Federation of Russia,Q5448019,38.99
+Q5198297,Cycling South Africa,Q5198297,38.95
+Q3091508,Croatian Athletics Federation,Q3091508,38.949999999999996
+Q3092165,Athletics Federation of Serbia,Q3092165,38.89
+Q48795617,South African National Climbing Federation,Q48795617,38.80500000000001
+Q2501992,USA Boxing,Q2501992,38.79500000000001
+Q5184969,Cricket Ireland,Q5184969,38.765
+Q582776,Italian Ice Sports Federation,Q582776,38.685
+Q2422776,Golf Union of Wales,Q2422776,38.685
+Q3741271,Cyprus Basketball Federation,Q3741271,38.655
+Q7284329,Railways Sports Promotion Board,Q7284329,38.650000000000006
+Q48969015,USA Cricket,Q48969015,38.645
+Q4728990,All India Tennis Association,Q4728990,38.64
+Q7700318,Tennis New Zealand,Q7700318,38.635
+Q106764237,Rwanda Cycling Federation,Q106764237,38.605
+Q7575513,Speed Skating Canada,Q7575513,38.550000000000004
+Q7855321,Turkish Swimming Federation,Q7855321,38.51
+Q871589,Brandenburg football championship,Q871589,38.5
+Q1646832,Český atletický svaz,Q1646832,38.49
+Q641855,French Cycling Federation,Q641855,38.405
+Q7134680,Paraguayan Basketball Federation,Q7134680,38.26
+Q7981997,Welsh Surfing Federation,Q7981997,38.160000000000004
+Q3741167,Iraqi Basketball Association,Q3741167,38.129999999999995
+Q1747102,Tunisia Basketball Federation,Q1747102,38.11
+Q7700311,Tennis Ireland,Q7700311,38.095
+Q868983,Finnish Swimming Federation,Q868983,38.035
+Q2402866,Luxembourg Athletics Federation,Q2402866,38.00000000000001
+Q2564940,Israel Basketball Association,Q2564940,37.96
+Q5187171,Croatian Volleyball Federation,Q5187171,37.91
+Q5378272,English Golf Union,Q5378272,37.904999999999994
+Q5147929,Colombian Cycling Federation,Q5147929,37.835
+Q3741143,Venezuelan Basketball Federation,Q3741143,37.79
+Q7891194,United States Practical Shooting Association,Q7891194,37.785000000000004
+Q3741086,Federação Paulista de Futebol,Q3741086,37.745
+Q2372899,Swiss Athletics Federation,Q2372899,37.715
+Q28223157,South African Hockey Association,Q28223157,37.695
+Q7673174,Table Tennis Australia,Q7673174,37.69
+Q5200500,Cyprus Volleyball Federation,Q5200500,37.655
+Q4481848,Azerbaijan Volleyball Federation,Q4481848,37.64
+Q20704358,Iran Weightlifting Federation,Q20704358,37.629999999999995
+Q6303805,Judo Australia,Q6303805,37.615
+Q3091853,French Shooting Federation,Q3091853,37.585
+Q13539130,Slovak Volleyball Federation,Q13539130,37.51500000000001
+Q1505454,Japan Association of Athletics Federations,Q1505454,37.455
+Q1751395,Swedish Athletics Association,Q1751395,37.275
+Q3091530,Danish Athletics Federation,Q3091530,37.235
+Q24970760,Handball Federation of Ukraine,Q24970760,37.23
+Q2220199,Netherlands Basketball Federation,Q2220199,37.18
+Q3408366,Basketball Federation of North Macedonia,Q3408366,37.095
+Q5439933,Federació Andorrana d'Atletisme,Q5439933,37.07
+Q6972603,National Federation of State High School Associations,Q6972603,37.035000000000004
+Q3091449,Austrian Athletics Federation,Q3091449,37.02
+Q7371942,Rowing South Africa,Q7371942,37.019999999999996
+Q3091436,Aquatics Canada,Q3091436,37.0
+Q18127316,Philippine Swimming,Q18127316,36.985
+Q3092138,Romanian Athletics Federation,Q3092138,36.97
+Q1606200,Basketball Federation of Slovenia,Q1606200,36.945
+Q4728925,All India Chess Federation,Q4728925,36.86
+Q104853709,Lithuanian Handball Federation,Q104853709,36.815000000000005
+Q5439953,Federación Mexicana de Asociaciones de Atletismo,Q5439953,36.809999999999995
+Q6157864,Japan Swimming Federation,Q6157864,36.805
+Q3741190,Basketball Finland,Q3741190,36.765
+Q50843852,Estonian Swimming Federation,Q50843852,36.725
+Q5875582,Hockey Manitoba,Q5875582,36.71
+Q9338568,Slovak Athletic Federation,Q9338568,36.71
+Q3091830,Fédération Française de Natation,Q3091830,36.695
+Q5030677,Canadian Wheelchair Sports Association,Q5030677,36.684999999999995
+Q16355001,Volleyball Federation of Kosovo,Q16355001,36.64
+Q2679614,Royal Belgian Athletics Association,Q2679614,36.605000000000004
+Q5100609,Chinese Skating Association,Q5100609,36.605000000000004
+Q12872476,Heraklion Football Clubs Association,Q12872476,36.589999999999996
+Q3741156,Egyptian Basketball Federation,Q3741156,36.57
+Q7125562,Pakistan Cycling Federation,Q7125562,36.53
+Q7061075,Norwegian Cycling Federation,Q7061075,36.515
+Q28196105,Israel Canoe Association,Q28196105,36.51
+Q3092161,Athletic Federation of Slovenia,Q3092161,36.455000000000005
+Q3628062,Athletics Kenya,Q3628062,36.425000000000004
+Q6156604,Japan Cycling Federation,Q6156604,36.4
+Q7522872,Singapore Amateur Cycling Association,Q7522872,36.36
+Q883846,German Cycling Federation,Q883846,36.345
+Q1474300,Pakistan Hockey Federation,Q1474300,36.300000000000004
+Q1606300,Basketball Federation of Bosnia and Herzegovina,Q1606300,36.235
+Q16971692,Sports Taekwondo Australia,Q16971692,36.195
+Q3091430,Albanian Athletics Federation,Q3091430,36.154999999999994
+Q5439941,Federación Colombiana de Atletismo,Q5439941,36.125
+Q2867333,Argentine Bridge Association,Q2867333,36.11
+Q7184956,Philippine Amateur Track and Field Association,Q7184956,36.11
+Q16245224,Australian Professional Rodeo Association,Q16245224,36.105
+Q5159629,Confederación Argentina de Atletismo,Q5159629,36.089999999999996
+Q2669348,Gibraltar Hockey Association,Q2669348,36.085
+Q11894804,Finnish Shooting Sport Federation,Q11894804,35.940000000000005
+Q19577887,Singapore Swimming Association,Q19577887,35.915
+Q5187100,Croatian Canoe Federation,Q5187100,35.83
+Q22132109,Kosovo Athletic Federation,Q22132109,35.800000000000004
+Q2867403,Amateur Athletic Association of Cyprus,Q2867403,35.78999999999999
+Q7865842,USA Taekwondo,Q7865842,35.785
+Q56064061,Taekwondo Federation of India,Q56064061,35.73
+Q3091468,Bulgarian Athletic Federation,Q3091468,35.714999999999996
+Q3741212,Norges Basketballforbund,Q3741212,35.675
+Q7437761,Scottish Golf Union,Q7437761,35.645
+Q18125220,Athletics Federation of Pakistan,Q18125220,35.635
+Q5580567,Golf Australia,Q5580567,35.62499999999999
+Q7125721,Pakistan Tennis Federation,Q7125721,35.615
+Q116745412,Karate India Organisation,Q116745412,35.529999999999994
+Q10280687,Portuguese Swimming Federation,Q10280687,35.52
+Q3843999,Malta Amateur Athletic Association,Q3843999,35.5
+Q15820061,Table Tennis Federation of India,Q15820061,35.475
+Q3741151,Basketball Austria,Q3741151,35.45
+Q3091981,Athletic Federation of Montenegro,Q3091981,35.385000000000005
+Q5198299,Cycling Finland,Q5198299,35.38
+Q56063991,Judo Federation of India,Q56063991,35.365
+Q6070601,Irish Chess Union,Q6070601,35.32
+Q4823976,Australian Chess Federation,Q4823976,35.195
+Q7232631,Portuguese Cycling Federation,Q7232631,35.125
+Q3091463,British Fencing Association,Q3091463,35.125
+Q15466201,Pakistan Golf Federation,Q15466201,35.12499999999999
+Q3091906,Athletic Federation of Georgia,Q3091906,35.085
+Q3091951,Icelandic Athletic Federation,Q3091951,35.059999999999995
+Q30636985,Thailand Swimming Association,Q30636985,35.035000000000004
+Q3637554,Belarus Athletic Federation,Q3637554,35.03
+Q7892615,United States of America Cricket Association,Q7892615,34.99
+Q5159864,Confederação Brasileira de Voleibol,Q5159864,34.975
+Q77901869,Basketball Belgium,Q77901869,34.97
+Q55636579,United States Soccer Federation State Soccer Association,Q55636579,34.97
+Q4735475,Alpine Canada,Q4735475,34.945
+Q3741035,San Marino Athletics Federation,Q3741035,34.945
+Q4740546,Amateur Swimming Association,Q4740546,34.895
+Q24191502,Table Tennis Canada,Q24191502,34.81
+Q3091528,Athletics Federation of Moldova,Q3091528,34.779999999999994
+Q30647326,Durham County Rugby Football Union,Q30647326,34.75
+Q6496260,Latin American Table Tennis Union,Q6496260,34.730000000000004
+Q3741275,Haitian Federation of Basketball,Q3741275,34.730000000000004
+Q4958723,Brazilian Cycling Confederation,Q4958723,34.714999999999996
+Q5187163,Croatian Swimming Federation,Q5187163,34.69499999999999
+Q9161706,Athletic Federation of Bosnia and Herzegovina,Q9161706,34.61000000000001
+Q16245227,Australian Weightlifting Federation,Q16245227,34.565000000000005
+Q18127212,Pakistan Volleyball Federation,Q18127212,34.550000000000004
+Q1485023,United States Chess Federation,Q1485023,34.52
+Q3091985,Monegasque Athletics Federation,Q3091985,34.49
+Q3550461,Royal Dutch Cycling Union,Q3550461,34.48500000000001
+Q1091005,Norwegian Ice Hockey Association,Q1091005,34.485
+Q7654634,Swedish Cycling Federation,Q7654634,34.464999999999996
+Q6978114,National Rifle Association of India,Q6978114,34.46
+Q6019936,Indian Boxing Federation,Q6019936,34.445
+Q3092141,Royal Moroccan Federation of Basketball,Q3092141,34.425000000000004
+Q3091454,Azerbaijan Athletics Federation,Q3091454,34.425
+Q7080825,Ohio High School Athletic Association,Q7080825,34.415
+Q2869068,Athletics New Zealand,Q2869068,34.395
+Q5624214,Gymnastics Australia,Q5624214,34.325
+Q4824141,Australian Fencing Federation,Q4824141,34.305
+Q3091519,Athletic Federation of Macedonia,Q3091519,34.300000000000004
+Q3741227,Slovak Basketball Association,Q3741227,34.269999999999996
+Q18127217,Pakistan Wrestling Federation,Q18127217,34.230000000000004
+Q55604715,Bahrain Handball Federation,Q55604715,34.225
+Q65064575,Danish Basketball Association,Q65064575,34.145
+Q11390196,All Japan Judo Federation,Q11390196,34.14
+Q17067752,Wellington Rugby League,Q17067752,34.115
+Q3091524,Ukrainian Basketball Federation,Q3091524,34.095
+Q7700326,Tennis Wales,Q7700326,34.075
+Q16947338,Philippine Table Tennis Federation,Q16947338,34.075
+Q3741147,Albanian Basketball Association,Q3741147,34.07
+Q3741218,Czech Basketball Federation,Q3741218,34.03
+Q16245215,Australian International Shooting,Q16245215,34.025
+Q3741209,Nigeria Basketball Federation,Q3741209,34.005
+Q5439958,Federación Mexicana de Ciclismo,Q5439958,34.004999999999995
+Q8071974,Zimbabwe Cycling Federation,Q8071974,33.885
+Q3741114,Luxembourg Basketball Federation,Q3741114,33.875
+Q5100632,Chinese Taipei Cycling Association,Q5100632,33.805
+Q27962478,Athletic Federation of Yugoslavia,Q27962478,33.78
+Q17051171,Kazakhstan Cycling Federation,Q17051171,33.725
+Q546360,Professional Chess Association,Q546360,33.725
+Q5100432,Chinese Cycling Association,Q5100432,33.71
+Q60762184,Botswana Cycling Association,Q60762184,33.705000000000005
+Q5778773,Cycling Federation of the Islamic Republic of Iran,Q5778773,33.69
+Q840842,Ligue Réunionnaise de Football,Q840842,33.68
+Q56273894,World Muaythai Federation,Q56273894,33.654999999999994
+Q3091424,Algerian Basketball Federation,Q3091424,33.65
+Q11506598,Japan Chess Association,Q11506598,33.65
+Q3741322,Scottishathletics,Q3741322,33.599999999999994
+Q2372755,Swimming New Zealand,Q2372755,33.48500000000001
+Q12879226,Hellenic Swimming Federation,Q12879226,33.480000000000004
+Q7523105,Singapore Sailing Federation,Q7523105,33.46
+Q513666,German Alpine Club,Q513666,33.43
+Q5439971,Federación Venezolana de Atletismo,Q5439971,33.36
+Q5378411,English Women's Golf Association,Q5378411,33.345
+Q48784039,South African Table Tennis Board,Q48784039,33.325
+Q18127203,Pakistan Swimming Federation,Q18127203,33.325
+Q18127207,Pakistan Taekwondo Federation,Q18127207,33.315
+Q6741990,Malaysian National Cycling Federation,Q6741990,33.26
+Q6816098,Men's Roller Derby Association,Q6816098,33.25
+Q17048908,Tuvalu Athletics Association,Q17048908,33.18
+Q5857258,Federacion insegura,Q5857258,33.059999999999995
+Q39050199,Athletics Association of Thailand,Q39050199,33.01
+Q7373873,Royal Caledonian Curling Club,Q7373873,32.964999999999996
+Q5290759,Dominican Republic Cycling Federation,Q5290759,32.96
+Q5448115,Fiji Cycling Association,Q5448115,32.95000000000001
+Q3740991,Federazione Italiana Tennis,Q3740991,32.9
+Q5894485,Hong Kong Cycling Association,Q5894485,32.895
+Q6070466,Irish Amateur Boxing Association,Q6070466,32.89
+Q3741220,Polish Basketball Association,Q3741220,32.855000000000004
+Q19870548,AFL England,Q19870548,32.845
+Q16972022,Triathlon Australia,Q16972022,32.835
+Q7973334,Water Polo and Swimming Federation of Montenegro,Q7973334,32.835
+Q24834821,Chinese Taipei Basketball Association,Q24834821,32.73
+Q28184158,New South Wales Country Rugby Union,Q28184158,32.7
+Q3092147,Royal Spanish Cycling Federation,Q3092147,32.68
+Q7125535,Pakistan Boxing Federation,Q7125535,32.67
+Q3741192,Georgian Basketball Federation,Q3741192,32.655
+Q42378101,South African Taekwondo Federation,Q42378101,32.605000000000004
+Q5439960,Federación Nacional de Atletismo de Guatemala,Q5439960,32.55
+Q16943315,Malaysia Athletic Federation,Q16943315,32.54
+Q2069924,Azerbaijan Chess Federation,Q2069924,32.525
+Q1274746,USA Badminton,Q1274746,32.510000000000005
+Q18127205,Pakistan Table Tennis Federation,Q18127205,32.42
+Q6026060,Indonesian Cycling Federation,Q6026060,32.42
+Q5401547,Estonian Cyclists' Union,Q5401547,32.39
+Q15713016,Kiribati Athletics Association,Q15713016,32.385
+Q17004719,Swim Ireland,Q17004719,32.38
+Q104852953,Georgian National Handball Federation,Q104852953,32.37
+Q5440922,Federação Pernambucana de Futebol,Q5440922,32.365
+Q42377961,South African Equestrian Federation,Q42377961,32.335
+Q7267098,Qatar Cycling Federation,Q7267098,32.29
+Q7889631,United States Collegiate Athletic Association,Q7889631,32.245
+Q48845582,Serbian Swimming Federation,Q48845582,32.18
+Q7582110,Squash Wales,Q7582110,32.175000000000004
+Q1349946,Fédération Française de Tennis,Q1349946,32.165
+Q787511,Automobile Racing Club of America,Q787511,32.145
+Q3831858,Libyan Arab Basketball Federation,Q3831858,32.14
+Q19622015,Volleyball Federation of Vietnam,Q19622015,32.125
+Q17028919,USA Judo,Q17028919,32.1
+Q109057355,Water Polo Federation of Armenia,Q109057355,32.085
+Q2447681,Football Association of Yugoslavia,Q2447681,31.975
+Q2293723,Royal Dutch Swimming Federation,Q2293723,31.965000000000003
+Q29025089,New Zealand Professional Boxing Association,Q29025089,31.955000000000002
+Q54949845,Egyptian Volleyball Federation,Q54949845,31.950000000000003
+Q84835029,United States Team Handball Federation,Q84835029,31.860000000000003
+Q3741264,Federació Andorrana de Basquetbol,Q3741264,31.85
+Q4481846,Russian Cycling Federation,Q4481846,31.82
+Q48791514,South African National Boxing Organisation,Q48791514,31.810000000000002
+Q104854134,Lebanese Handball Federation,Q104854134,31.81
+Q3092149,Moroccan Royal Volleyball Federation,Q3092149,31.805000000000003
+Q13563404,Lithuanian Cycling Federation,Q13563404,31.759999999999998
+Q1479391,French Federation of Ice Sports,Q1479391,31.755000000000003
+Q19622003,Qatar Volleyball Association,Q19622003,31.75
+Q5026439,Cameroon Cycling Federation,Q5026439,31.74
+Q2415163,Jamaica Athletics Administrative Association,Q2415163,31.695
+Q5613413,Guam Cycling Federation,Q5613413,31.695
+Q5511526,Fédération Libanaise de Cyclisme,Q5511526,31.680000000000003
+Q104853134,Wisconsin State Curling Association,Q104853134,31.670000000000005
+Q799604,Badminton Canada,Q799604,31.67
+Q16245180,Association of Boxing Alliances in the Philippines,Q16245180,31.650000000000002
+Q5439949,Federación Ecuatoriana de Atletismo,Q5439949,31.604999999999997
+Q7185261,Philippine Taekwondo Association,Q7185261,31.59
+Q48784459,Judo South Africa,Q48784459,31.58
+Q7185264,Philippine Tennis Association,Q7185264,31.575000000000003
+Q7565801,Tennis South Africa,Q7565801,31.55
+Q15066346,Islamic Republic of Iran Volleyball Federation,Q15066346,31.535000000000004
+Q2405247,Royal Belgian Cycling League,Q2405247,31.52
+Q48845842,Cyprus Swimming Federation,Q48845842,31.515
+Q104854513,Cameroon Handball Federation,Q104854513,31.47
+Q105474756,History of the International Ice Hockey Federation,Q105474756,31.450000000000003
+Q15713315,Federated States of Micronesia Athletic Association,Q15713315,31.425
+Q5857460,Argentine Volleyball Federation,Q5857460,31.37
+Q5100634,Chinese Taipei Volleyball Association,Q5100634,31.330000000000002
+Q108999608,National Archery Federation of Armenia,Q108999608,31.330000000000002
+Q6303803,Judo Canada,Q6303803,31.305000000000003
+Q6156586,Japan Cricket Association,Q6156586,31.295
+Q2935767,Equine Canada,Q2935767,31.28
+Q369510,Icelandic Swimming Association,Q369510,31.274999999999995
+Q6087258,Israel Tennis Association,Q6087258,31.245
+Q4481850,Volleyball Federation of the Republic of Kazakhstan,Q4481850,31.22
+Q11992080,Norwegian Skating Association,Q11992080,31.210000000000004
+Q623200,Aquatic Sports Association of Malta,Q623200,31.189999999999998
+Q6503656,Lawn Tennis Association of Thailand,Q6503656,31.175
+Q3091532,Federação Bahiana de Futebol,Q3091532,31.17
+Q16258020,British Ice Skating,Q16258020,31.12
+Q5093298,Chess Federation of Canada,Q5093298,31.09
+Q39045932,Fencing Association of India,Q39045932,31.075000000000003
+Q1452752,Pakistan Badminton Federation,Q1452752,30.960000000000004
+Q39087587,East Midlands Rugby Football Union,Q39087587,30.959999999999997
+Q6973896,National Junior College Athletic Association,Q6973896,30.959999999999997
+Q6431615,Korea Cycling Federation,Q6431615,30.939999999999998
+Q1999072,Norwegian Swimming Federation,Q1999072,30.905
+Q5329528,East Timor Cycling Federation,Q5329528,30.895000000000007
+Q39336699,Estonian Table Tennis Federation,Q39336699,30.825000000000003
+Q3741096,Belize Basketball Federation,Q3741096,30.814999999999998
+Q39336711,Estonian Tennis Association,Q39336711,30.775000000000002
+Q42257201,Estonian Handball Association,Q42257201,30.765
+Q7371939,Rowing Federation of India,Q7371939,30.754999999999995
+Q7889693,United States Curling Association,Q7889693,30.735000000000003
+Q3091729,Federação Cearense de Futebol,Q3091729,30.729999999999997
+Q1718645,Russian Triathlon Federation,Q1718645,30.674999999999997
+Q104854516,Congolese Handball Federation,Q104854516,30.67
+Q7889875,United States Equestrian Federation,Q7889875,30.660000000000004
+Q5439974,Federación de Atletismo de Puerto Rico,Q5439974,30.58
+Q4266792,PGA Tour Canada,Q4266792,30.564999999999998
+Q7865836,USA Shooting,Q7865836,30.545
+Q6722693,Macau Cycling Association,Q6722693,30.510000000000005
+Q15729677,Golf Canada,Q15729677,30.479999999999997
+Q323728,German Olympic Sports Confederation,Q323728,30.450000000000003
+Q5439947,Federación Dominicana de Asociaciones de Atletismo,Q5439947,30.42
+Q5439937,Federación Atlética de Chile,Q5439937,30.42
+Q6157867,Japan Tennis Association,Q6157867,30.42
+Q43302830,Chess South Africa,Q43302830,30.415000000000006
+Q5159630,Confederación Atlética del Uruguay,Q5159630,30.409999999999997
+Q5384299,Equestrian Australia,Q5384299,30.375
+Q684973,Swiss Cycling,Q684973,30.374999999999996
+Q23139850,Polish Sport Shooting Federation,Q23139850,30.314999999999998
+Q4763970,Anguilla Amateur Athletic Federation,Q4763970,30.305000000000003
+Q96411363,Turkmenistan Basketball Federation,Q96411363,30.260000000000005
+Q4866544,Baseball New Zealand,Q4866544,30.24
+Q16982839,Guam Track and Field Association,Q16982839,30.224999999999994
+Q2744672,Royal Spanish Tennis Federation,Q2744672,30.215
+Q7875928,US Sailing,Q7875928,30.205
+Q48791464,South African Weightlifting Federation,Q48791464,30.200000000000003
+Q5440915,Federação Catarinense de Futebol,Q5440915,30.195
+Q5219706,Danish Cycling Federation,Q5219706,30.165
+Q8046445,Australian Sailing,Q8046445,30.115
+Q4882959,Belize Amateur Athletic Association,Q4882959,30.104999999999997
+Q17332348,Pakistan Judo Federation,Q17332348,30.104999999999997
+Q5378003,England Squash,Q5378003,30.05
+Q3429719,U.S. Ski & Snowboard,Q3429719,30.049999999999997
+Q5439935,Federació Andorrana de Natació,Q5439935,30.03
+Q19704843,Brazilian Confederation of Aquatic Sports,Q19704843,30.005000000000003
+Q4825477,Austrian Cycling Federation,Q4825477,29.979999999999997
+Q5439967,Federación Salvadoreña de Atletismo,Q5439967,29.979999999999997
+Q5060318,Central American & Caribbean Tennis Confederation,Q5060318,29.960000000000004
+Q614735,Federação de Futebol do Estado do Rio de Janeiro,Q614735,29.895
+Q7585967,Sri Lanka Tennis Association,Q7585967,29.884999999999998
+Q104860832,Pro Box NZ,Q104860832,29.865
+Q1120069,Ice Hockey Federation of Ukraine,Q1120069,29.84
+Q4892640,Bermuda National Athletics Association,Q4892640,29.84
+Q104901447,The R&A,Q104901447,29.814999999999998
+Q5440916,Federação Gaúcha de Futebol,Q5440916,29.805000000000003
+Q2867411,Chinese Athletic Association,Q2867411,29.78
+Q4813774,Athletics Association of Barbados,Q4813774,29.765
+Q4824461,Australian National Drag Racing Association,Q4824461,29.755000000000003
+Q107015867,Afghanistan Volleyball Association,Q107015867,29.755000000000003
+Q1204964,German Judo Federation,Q1204964,29.75
+Q96373100,Bangladesh Volleyball Federation,Q96373100,29.720000000000006
+Q589190,Polish Cycling Federation,Q589190,29.705000000000002
+Q28154436,Israel Judo Association,Q28154436,29.62
+Q5439963,Federación Nicaragüense de Atletismo,Q5439963,29.615
+Q326152,Hockey Ireland,Q326152,29.605000000000004
+Q1204252,German Taekwondo Union,Q1204252,29.604999999999997
+Q16949201,Athletics Cook Islands,Q16949201,29.6
+Q17022374,Northern Marianas Athletics,Q17022374,29.595000000000006
+Q5894226,Hong Kong Amateur Athletic Association,Q5894226,29.595
+Q18127214,Pakistan Weightlifting Federation,Q18127214,29.59
+Q24185103,Vietnam Athletics Federation,Q24185103,29.56
+Q4970576,British Orienteering Federation,Q4970576,29.53
+Q2086290,Koninklijke Nederlandse Cricket Bond,Q2086290,29.53
+Q7865865,USA Triathlon,Q7865865,29.515000000000004
+Q17005196,Philippine National Shooting Association,Q17005196,29.515
+Q5440910,Federação Caboverdiana de Atletismo,Q5440910,29.495
+Q16971602,Ski & Snowboard Australia,Q16971602,29.494999999999994
+Q2867362,Curling Canada,Q2867362,29.49
+Q23023569,Taekwondo New Zealand,Q23023569,29.465
+Q3091741,Federação Paranaense de Futebol,Q3091741,29.460000000000004
+Q3091426,Algerian Volleyball Federation,Q3091426,29.425
+Q17048921,Marshall Islands Athletics,Q17048921,29.42
+Q18387142,Chess Federation of Pakistan,Q18387142,29.415
+Q2577785,Royal Dutch Lawn Tennis Association,Q2577785,29.385000000000005
+Q7125541,Pakistan Canoe and Kayak Federation,Q7125541,29.385000000000005
+Q7522927,Singapore Chess Federation,Q7522927,29.384999999999998
+Q28454140,Botswana Athletics Association,Q28454140,29.380000000000003
+Q5439964,Federación Panameña de Atletismo,Q5439964,29.330000000000002
+Q19621960,Bhutan Volleyball Federation,Q19621960,29.295
+Q7401600,Saint Kitts & Nevis Amateur Athletic Association,Q7401600,29.259999999999998
+Q5290688,Dominica Amateur Athletic Association,Q5290688,29.254999999999995
+Q3091791,French Boxing Federation,Q3091791,29.225
+Q65122032,Berkshire Rugby Football Union,Q65122032,29.215000000000003
+Q16948371,Persatuan Atletik Seluruh Indonesia,Q16948371,29.199999999999996
+Q106592926,Estonian Judo Association,Q106592926,29.175
+Q104857634,Boxing NZ,Q104857634,29.165000000000006
+Q17016741,Saint Lucia Athletics Association,Q17016741,29.159999999999997
+Q3741349,Pakistan Rugby Union,Q3741349,29.154999999999998
+Q3091740,Federação Mineira de Futebol,Q3091740,29.150000000000002
+Q2963770,Chinese Taipei Track & Field Association,Q2963770,29.125
+Q7855247,Turkish Chess Federation,Q7855247,29.09
+Q5942740,Hungarian Cycling Federation,Q5942740,29.07
+Q4813776,Athletics Association of Guyana,Q4813776,29.064999999999998
+Q5439936,Federación Atlética de Bolivia,Q5439936,29.05
+Q17047787,Ethiopian Athletic Federation,Q17047787,28.985
+Q3091558,Federação Alagoana de Futebol,Q3091558,28.980000000000004
+Q6970603,National Association of Athletics Administrations of Trinidad & Tobago,Q6970603,28.975
+Q1817616,Royal Dutch Chess Federation,Q1817616,28.939999999999998
+Q3091502,Federación Cubana de Atletismo,Q3091502,28.885000000000005
+Q17048948,Palau Track and Field Association,Q17048948,28.87
+Q5440909,Angolan Athletics Federation,Q5440909,28.865
+Q85812060,United Arab Emirates Handball Federation,Q85812060,28.855000000000004
+Q16949204,Athletics Fiji,Q16949204,28.855000000000004
+Q17014028,Athletic Solomons,Q17014028,28.845
+Q6086881,Israel Cycling Federation,Q6086881,28.844999999999995
+Q3091732,Federação Goiana de Futebol,Q3091732,28.8
+Q107325885,Azerbaijan Cycling Federation,Q107325885,28.785000000000004
+Q106592788,Estonian Boxing Association,Q106592788,28.765
+Q4971198,British Virgin Islands Athletics Association,Q4971198,28.745
+Q4842326,Bahamas Association of Athletic Associations,Q4842326,28.729999999999997
+Q2538517,Royal Belgian Tennis Federation,Q2538517,28.67
+Q11379193,Czech Cycling Federation,Q11379193,28.654999999999998
+Q3091555,Federação Amazonense de Futebol,Q3091555,28.654999999999998
+Q19577116,Ghana Athletics Association,Q19577116,28.634999999999998
+Q56064068,Ice Skating Association of India,Q56064068,28.61
+Q104853170,Dominican Republic Handball Federation,Q104853170,28.6
+Q7646300,Suriname Athletics Federation,Q7646300,28.59
+Q5439943,Federación Costarricense de Atletismo,Q5439943,28.59
+Q1295645,Estonian Badminton Federation,Q1295645,28.59
+Q7522942,Singapore Cricket Association,Q7522942,28.580000000000002
+Q25056928,Portuguese Shooting Federation,Q25056928,28.57
+Q85749133,British and Irish Boxing Authority,Q85749133,28.52
+Q3091535,Federal District Football Federation,Q3091535,28.504999999999995
+Q7691435,Team Athletics Saint Vincent & The Grenadines,Q7691435,28.5
+Q16983780,Hellenic Cycling Federation,Q16983780,28.49
+Q5607360,Grenada Athletic Association,Q5607360,28.49
+Q4802008,Arubaanse Atletiek Bond,Q4802008,28.480000000000004
+Q17055933,Niue Athletics Association,Q17055933,28.460000000000004
+Q106645536,England Athletics,Q106645536,28.459999999999997
+Q110761822,Czech Table Tennis Association,Q110761822,28.415
+Q30645786,Hertfordshire Rugby Football Union,Q30645786,28.415
+Q5055345,Cayman Islands Athletic Association,Q5055345,28.395
+Q5511520,Fédération Haïtienne d'Athlétisme Amateur,Q5511520,28.375
+Q5439965,Federación Nacional Hondureña de Atletismo,Q5439965,28.365
+Q7865873,USA Weightlifting,Q7865873,28.365
+Q5440927,Federação de Atletismo da Guiné-Bissau,Q5440927,28.34
+Q6546842,Ligue Régionale d'Athlétisme de la Guadeloupe,Q6546842,28.31
+Q2177145,Ice Hockey Federation of Russia,Q2177145,28.27
+Q7855276,Turkish Ice Skating Federation,Q7855276,28.27
+Q20526189,Croatian Cycling Federation,Q20526189,28.265
+Q3091842,French Federation of Taekwondo and Related Disciplines,Q3091842,28.245000000000005
+Q12592577,Korea Volleyball Association,Q12592577,28.24
+Q117774796,Shooting Federation of Canada,Q117774796,28.24
+Q2993046,United States Bowling Congress,Q2993046,28.205000000000002
+Q799612,Badminton New Zealand,Q799612,28.205000000000002
+Q15240917,Kuwait Cricket Association,Q15240917,28.195000000000007
+Q6888808,Modern Pentathlon Australia,Q6888808,28.165
+Q18128925,Uganda Athletics Federation,Q18128925,28.159999999999997
+Q13102698,Luxembourgish Cycling Federation,Q13102698,28.14
+Q3412441,Qatar Athletics Federation,Q3412441,28.129999999999995
+Q871970,Central German football championship,Q871970,28.115000000000006
+Q3362942,Athletics Papua New Guinea,Q3362942,28.04
+Q107316610,Icelandic Cycling Union,Q107316610,28.02
+Q19621996,Nepal Volleyball Association,Q19621996,28.02
+Q7437988,Scottish Squash and Racketball,Q7437988,27.97
+Q17014049,Athletics Nauru,Q17014049,27.97
+Q20807019,Botswana Tennis Association,Q20807019,27.965
+Q18129003,Vanuatu Handball Association,Q18129003,27.939999999999998
+Q5198291,Cycling Federation of Serbia,Q5198291,27.939999999999998
+Q20723293,Monegasque Tennis Federation,Q20723293,27.929999999999996
+Q23091840,Canadian Weightlifting Federation,Q23091840,27.919999999999995
+Q28223666,Estonian Practical Shooting Association,Q28223666,27.884999999999998
+Q5348379,Egyptian Athletic Federation,Q5348379,27.880000000000003
+Q5440917,Federação Moçambicana de Atletismo,Q5440917,27.87
+Q1125071,Brazilian Ice Sports Federation,Q1125071,27.865
+Q7185274,Philippine Weightlifting Association,Q7185274,27.855000000000004
+Q3091559,Federação Amapaense de Futebol,Q3091559,27.845
+Q16970781,American Samoa Track & Field Association,Q16970781,27.84
+Q6546863,Ligue de Martinique d'Athlétisme,Q6546863,27.834999999999997
+Q21039331,Andorran Cycling Federation,Q21039331,27.81
+Q106593182,Estonian Weightlifting Federation,Q106593182,27.799999999999997
+Q28195914,Irish Target Sports,Q28195914,27.78
+Q48791580,South African Shooting Sport Confederation,Q48791580,27.779999999999998
+Q6026195,Indonesian Tennis Association,Q6026195,27.779999999999998
+Q7541525,Slovak Cycling Federation,Q7541525,27.77
+Q16851029,JudoScotland,Q16851029,27.765
+Q6546845,Ligue d'Athlétisme de la Guyane,Q6546845,27.74
+Q693076,Brazilian Tennis Confederation,Q693076,27.709999999999997
+Q17014063,Athletics Vanuatu,Q17014063,27.705
+Q18351512,Amateur Swimming Union of Malaysia,Q18351512,27.679999999999996
+Q24185065,Cycling Federation of Nigeria,Q24185065,27.650000000000002
+Q4774781,Antigua & Barbuda Athletic Association,Q4774781,27.645
+Q3092217,Fédération Tunisienne de Tennis,Q3092217,27.645
+Q6906572,Montserrat Amateur Athletic Association,Q6906572,27.625
+Q7382120,Russian Rugby League Federation,Q7382120,27.62
+Q5159800,Confederation of Australian Motor Sport,Q5159800,27.62
+Q11667730,Athletics Norfolk Island,Q11667730,27.605000000000004
+Q7522921,Singapore Canoe Federation,Q7522921,27.599999999999994
+Q17018122,Tennis Federation of Serbia,Q17018122,27.59
+Q799610,Badminton Nederland,Q799610,27.564999999999998
+Q3091552,Federação de Futebol do Estado do Acre,Q3091552,27.56
+Q3091952,Irish Fencing Federation,Q3091952,27.55
+Q7267123,Qatar Tennis Federation,Q7267123,27.519999999999996
+Q1479317,French Chess Federation,Q1479317,27.49
+Q7541802,Slovenian Cycling Federation,Q7541802,27.465
+Q1479308,Fédération Française de Badminton,Q1479308,27.415
+Q4813780,Athletics Federation of Nigeria,Q4813780,27.409999999999997
+Q5200449,Cyprus Cycling Federation,Q5200449,27.39
+Q48784385,Surfing South Africa,Q48784385,27.35
+Q22948936,Lebanese Swimming Federation,Q22948936,27.335000000000004
+Q5580647,Golfing Union of Ireland,Q5580647,27.314999999999998
+Q65061692,English Curling Association,Q65061692,27.305000000000003
+Q3092143,Fédération Royale Marocaine d'Athlétisme,Q3092143,27.304999999999996
+Q96375938,Danish Golf Union,Q96375938,27.304999999999996
+Q871990,Western German Sport Federation,Q871990,27.3
+Q5439948,Federación Ecuatoguineana de Atletismo,Q5439948,27.299999999999997
+Q6510932,Lebanese Rugby League Federation,Q6510932,27.27
+Q19622067,Libyan Volleyball Federation,Q19622067,27.27
+Q7933938,Virgin Islands Track & Field Federation,Q7933938,27.265
+Q7981929,Welsh Lacrosse Association,Q7981929,27.255000000000003
+Q3091710,USA Football,Q3091710,27.230000000000004
+Q47493133,Bahamas Lawn Tennis Association,Q47493133,27.209999999999997
+Q3740990,Italian Taekwondo Federation,Q3740990,27.174999999999997
+Q1094787,Fédération Nigérienne de Football,Q1094787,27.165
+Q6068695,Turkish Fencing Federation,Q6068695,27.154999999999998
+Q17002567,Estonia Rugby League Federation,Q17002567,27.11
+Q375609,Spanish Badminton Federation,Q375609,27.104999999999997
+Q56063631,Indian Golf Union,Q56063631,27.095
+Q7855473,Turks & Caicos Islands Amateur Athletic Association,Q7855473,27.075000000000003
+Q2350894,South American Board of New Federations,Q2350894,27.070000000000007
+Q3091988,Monegasque Cycling Federation,Q3091988,27.07
+Q48782872,South African Gymnastics Federation,Q48782872,27.060000000000002
+Q16247661,Ice Skating Australia,Q16247661,27.015
+Q5594826,Grand National Cross Country,Q5594826,26.995
+Q16409860,Estonian Wrestling Federation,Q16409860,26.985000000000003
+Q11389956,All Japan Taekwondo Association,Q11389956,26.985
+Q3547329,USA Water Polo,Q3547329,26.960000000000004
+Q1993284,Nippon Badminton Association,Q1993284,26.955000000000002
+Q3091739,Federação Maranhense de Futebol,Q3091739,26.939999999999998
+Q116980420,Singapore Hockey Federation,Q116980420,26.909999999999997
+Q5440928,Federação Sergipana de Futebol,Q5440928,26.905
+Q1203745,Deutsche Reiterliche Vereinigung,Q1203745,26.905
+Q3091487,Chile Tennis Federation,Q3091487,26.890000000000004
+Q3091557,Federação de Futebol do Estado do Espírito Santo,Q3091557,26.879999999999995
+Q6489485,Larissa Football Clubs Association,Q6489485,26.86
+Q3091736,Federação de Futebol de Mato Grosso do Sul,Q3091736,26.854999999999997
+Q1536294,National Hot Rod Association,Q1536294,26.814999999999998
+Q5440932,Federação de Futebol do Piauí,Q5440932,26.804999999999996
+Q22031533,Kosovo Swimming Federation,Q22031533,26.79
+Q18125584,Equestrian Federation of Pakistan,Q18125584,26.785000000000004
+Q6706247,Luxembourg Tennis Federation,Q6706247,26.730000000000004
+Q1115059,Confederação Brasileira de Desportos,Q1115059,26.725
+Q5440926,Federação Tocantinense de Futebol,Q5440926,26.709999999999997
+Q6918291,Motorcycling Australia,Q6918291,26.695
+Q96373098,Bangladesh Taekwondo Federation,Q96373098,26.685000000000002
+Q5440919,Federação Norte-rio-grandense de Futebol,Q5440919,26.680000000000003
+Q109524371,Armenian Table Soccer Federation,Q109524371,26.665000000000006
+Q110445421,Pakistan Fencing Federation,Q110445421,26.665
+Q22949233,Palestine Athletic Federation,Q22949233,26.659999999999997
+Q6895750,Moldovan Cycling Federation,Q6895750,26.6
+Q7904572,Uzbekistan Tennis Federation,Q7904572,26.59
+Q12361320,Estonian Chess Federation,Q12361320,26.585000000000004
+Q7865809,USA Field Hockey,Q7865809,26.584999999999997
+Q2265477,New Zealand Chess Federation,Q2265477,26.57
+Q12749004,Yugoslav Cycling Federation,Q12749004,26.540000000000006
+Q97268602,Deutscher Hockey-Bund,Q97268602,26.54
+Q19621803,South African Baseball Union,Q19621803,26.515000000000004
+Q7656178,Swim Wales,Q7656178,26.495
+Q1402700,Norwegian Chess Federation,Q1402700,26.47
+Q7981886,Welsh Cycling,Q7981886,26.465
+Q3091737,Federação Mato-Grossense de Futebol,Q3091737,26.445
+Q20527231,Croatian Tennis Association,Q20527231,26.415
+Q5440929,Federação de Futebol do Estado de Rondônia,Q5440929,26.405
+Q3091742,Federação Paraense de Futebol,Q3091742,26.365
+Q5440923,Federação Santomense de Atletismo,Q5440923,26.314999999999998
+Q5194633,Curaçaose Atletiek Bond,Q5194633,26.314999999999998
+Q18127319,Triathlon Association of the Philippines,Q18127319,26.29
+Q108872215,Armwrestling Federation of Armenia,Q108872215,26.284999999999997
+Q113659163,Vatican Cycling,Q113659163,26.28
+Q109561745,National Kendo Federation of Armenia,Q109561745,26.28
+Q20164827,Austrian Taekwondo Federation,Q20164827,26.28
+Q28402257,Somerset Rugby Football Union,Q28402257,26.27
+Q6543930,Liechtenstein Cycling Federation,Q6543930,26.254999999999995
+Q5440924,Federação Roraimense de Futebol,Q5440924,26.245
+Q7565947,South America Tennis Confederation,Q7565947,26.235
+Q109546378,Armenian Shotokan Karate Federation,Q109546378,26.185000000000002
+Q7525072,Sint Maarten Amateur Athletic Association,Q7525072,26.165000000000006
+Q3304263,Tennis Federation of Kosovo,Q3304263,26.165
+Q7554069,Softball Australia,Q7554069,26.154999999999998
+Q18127201,Pakistan Sailing Federation,Q18127201,26.150000000000002
+Q90264873,Kosovo Taekwondo Federation,Q90264873,26.075000000000003
+Q7981998,Welsh Target Shooting Federation,Q7981998,26.07
+Q16958462,Turkish Hockey Federation,Q16958462,26.064999999999998
+Q3091575,Federação Paraibana de Futebol,Q3091575,26.060000000000002
+Q1324294,National Badminton Federation of Russia,Q1324294,26.055000000000003
+Q18127024,National Rifle Association of Pakistan,Q18127024,26.034999999999997
+Q24909885,Hungarian Rugby League Federation,Q24909885,26.029999999999998
+Q47005855,New Zealand Go Society,Q47005855,26.02
+Q96373083,Bangladesh Judo Federation,Q96373083,25.939999999999998
+Q18127191,Pakistan Gymnastic Federation,Q18127191,25.939999999999998
+Q7184954,Philippine Amateur Fencers Association,Q7184954,25.935000000000002
+Q7981928,Welsh Judo Association,Q7981928,25.895
+Q5440931,Romanian Tennis Federation,Q5440931,25.884999999999998
+Q14083260,Norwegian Boxing Federation,Q14083260,25.830000000000002
+Q48783459,Triathlon South Africa,Q48783459,25.78
+Q7700307,Tennis Federation of Montenegro,Q7700307,25.74
+Q65315158,Kosovo Judo Federation,Q65315158,25.729999999999997
+Q16851830,Kazakhstan Judo Federation,Q16851830,25.72
+Q19577719,Russian Fencing Federation,Q19577719,25.715
+Q96411384,Turkmenistan Tennis Federation,Q96411384,25.700000000000003
+Q5348451,Egyptian Tennis Federation,Q5348451,25.675
+Q16941224,Gymnastics Association of the Philippines,Q16941224,25.675
+Q1141687,Badminton Sweden,Q1141687,25.654999999999998
+Q20526283,Croatian Boxing Federation,Q20526283,25.615
+Q28163523,Lawn Tennis Association of Malaysia,Q28163523,25.59
+Q633874,Danmarks Badminton Forbund,Q633874,25.585
+Q16239606,Hong Kong Chess Federation,Q16239606,25.58
+Q28446720,Dominican Republic Taekwondo Federation,Q28446720,25.564999999999998
+Q16147104,Algerian Swimming Federation,Q16147104,25.564999999999998
+Q3181174,Ultimate Canada,Q3181174,25.345
+Q18127210,Pakistan Triathlon Federation,Q18127210,25.340000000000003
+Q4355493,Portuguese Chess Federation,Q4355493,25.33
+Q7004959,Nevis Amateur Athletic Association,Q7004959,25.32
+Q25535691,Hellas Rugby League Federation,Q25535691,25.285
+Q18127200,Pakistan Rowing Federation,Q18127200,25.28
+Q7700296,Tennis Association of Bosnia and Herzegovina,Q7700296,25.270000000000003
+Q61401015,Estonian Gymnastics Federation,Q61401015,25.23
+Q48805367,Ghana Taekwondo Federation,Q48805367,25.19
+Q16967301,Jamaica Rugby League Association,Q16967301,25.17
+Q21041886,Uruguayan Taekwondo Federation,Q21041886,25.169999999999998
+Q107260201,Bahamas Aquatic Federation,Q107260201,25.11
+Q781405,Australian Floorball Association,Q781405,25.095
+Q18124867,Football Association of Odisha,Q18124867,25.095
+Q306409,Austrian Chess Federation,Q306409,25.049999999999997
+Q16851069,Cameroon Swimming and Life Saving Federation,Q16851069,24.985000000000003
+Q7582105,Squash Rackets Federation of India,Q7582105,24.98
+Q105226488,Netball New South Wales,Q105226488,24.98
+Q815454,Belgian Badminton Federation,Q815454,24.965
+Q7437644,Scottish Canoe Association,Q7437644,24.955
+Q3091780,French Fencing Federation,Q3091780,24.935000000000002
+Q48806034,Nigeria Taekwondo Federation,Q48806034,24.930000000000003
+Q5446914,Field Hockey Canada,Q5446914,24.93
+Q106592843,Estonian Canoe Federation,Q106592843,24.925
+Q2992634,Confederação Brasileira de Xadrez,Q2992634,24.85
+Q953273,Federazione Italiana Scherma,Q953273,24.84
+Q5200498,Cyprus Tennis Federation,Q5200498,24.835
+Q1162296,Hungarian Water Polo Federation,Q1162296,24.834999999999997
+Q3091912,Hungarian Chess Federation,Q3091912,24.799999999999997
+Q4481841,Boxing Federation of Russia,Q4481841,24.785
+Q16827047,Benin Swimming Federation,Q16827047,24.775
+Q3091812,French Gymnastics Federation,Q3091812,24.744999999999997
+Q6071187,Irish Sailing Association,Q6071187,24.72
+Q658493,Royal Dutch Rowing Federation,Q658493,24.700000000000003
+Q5401643,Estonian Yachting Union,Q5401643,24.674999999999997
+Q104846095,United States of America Wushu Kungfu Federation,Q104846095,24.615000000000002
+Q16828552,Angolan Swimming Federation,Q16828552,24.605
+Q6999089,Netherlands Antilles Tennis Federation,Q6999089,24.560000000000002
+Q1781672,Koninklijke Nederlandse Hockey Bond,Q1781672,24.545
+Q7209886,Polish Chess Federation,Q7209886,24.535
+Q1913275,Auto-Cycle Union,Q1913275,24.46
+Q3741045,Italian Chess Federation,Q3741045,24.459999999999997
+Q16964877,National Golf Association of the Philippines,Q16964877,24.435
+Q28223748,Denmark Rugby League Federation,Q28223748,24.43
+Q5187102,Croatian Chess Federation,Q5187102,24.385
+Q1632893,Ice Hockey Association of India,Q1632893,24.375
+Q61396329,Estonian Rowing Association,Q61396329,24.375
+Q4941098,Bonaire Lawn Tennis Association,Q4941098,24.345
+Q1005052,Bund Deutscher Sportschützen,Q1005052,24.34
+Q106216133,Algerian Judo Federation,Q106216133,24.34
+Q111152786,British Shooting,Q111152786,24.33
+Q7566127,South Australian Netball Association Inc,Q7566127,24.314999999999998
+Q16849604,Burundi Swimming Federation,Q16849604,24.31
+Q16950963,Congolese Amateur Swimming Federation,Q16950963,24.284999999999997
+Q17067846,Yachting New Zealand,Q17067846,24.265
+Q55612598,Ghana Judo Association,Q55612598,24.26
+Q17025976,Romanian Fencing Federation,Q17025976,24.240000000000002
+Q9846731,Brazilian Judo Confederation,Q9846731,24.24
+Q16828575,Burkinabé Swimming and Life Saving Federation,Q16828575,24.225
+Q16930866,Yugoslav Tennis Association,Q16930866,24.225
+Q7981906,Welsh Gymnastics,Q7981906,24.175
+Q12361281,Estonian Shooting Sport Federation,Q12361281,24.16
+Q2381336,South Eastern German football championship,Q2381336,24.15
+Q5448113,Fiji Chess Federation,Q5448113,24.14
+Q106593001,Estonian Triathlon Union,Q106593001,24.135
+Q25056926,Ukrainian Practical Shooting Association,Q25056926,24.125
+Q16937064,Philippine Sailing Association,Q16937064,24.115000000000002
+Q3092148,Royal Moroccan Tennis Federation,Q3092148,24.09
+Q11992042,Norwegian Gymnastics Federation,Q11992042,24.015
+Q3740908,Italian Gymnastics Federation,Q3740908,23.955
+Q306138,Austrian Fencing Federation,Q306138,23.94
+Q113012108,Thailand Hockey Association,Q113012108,23.93
+Q16245210,Australian Curling Federation,Q16245210,23.915000000000003
+Q16829104,Central African Republic Swimming Federation,Q16829104,23.894999999999996
+Q42325024,British Bobsleigh & Skeleton Association,Q42325024,23.885
+Q11992077,Norges Skytterforbund,Q11992077,23.86
+Q25044392,Nigeria Weightlifting Federation,Q25044392,23.855000000000004
+Q24185135,Tonga National Rugby League,Q24185135,23.855
+Q112939239,Korea Hockey Association,Q112939239,23.835
+Q11507010,Japan Rifle Shooting Sport Federation,Q11507010,23.835
+Q28196104,Israel Fencing Association,Q28196104,23.83
+Q3092195,Swedish Chess Federation,Q3092195,23.765
+Q48784091,South African Modern Pentathlon Association,Q48784091,23.765
+Q5384298,Equestrian Association of the Philippines,Q5384298,23.715000000000003
+Q4481903,Weightlifting Federation of the Republic of Kazakhstan,Q4481903,23.71
+Q5378301,English Lacrosse Association,Q5378301,23.7
+Q24185381,Australian Eight Ball Federation,Q24185381,23.675
+Q17021671,Welsh Amateur Rowing Association,Q17021671,23.675
+Q326117,New Zealand Hockey Federation,Q326117,23.665
+Q320488,Baltic football championship,Q320488,23.645000000000003
+Q17098547,Serbian Weightlifting Federation,Q17098547,23.580000000000002
+Q18479437,Brazilian Gymnastics Federation,Q18479437,23.564999999999998
+Q28184162,Queensland Country Rugby Union,Q28184162,23.540000000000003
+Q16927137,Comoros Swimming Federation,Q16927137,23.540000000000003
+Q7437694,Scottish Cycling,Q7437694,23.54
+Q25058207,Larong Hockey sa Pilipinas,Q25058207,23.425
+Q97738485,Rowing Victoria,Q97738485,23.375
+Q5744723,Uruguayan Championship of the Uruguayan Football Federation,Q5744723,23.375
+Q4481872,Japan Skating Federation,Q4481872,23.365
+Q1205309,Deutscher Segler Verband,Q1205309,23.345
+Q18128137,WINTER SPORTS FEDERATION PAKISTAN,Q18128137,23.345
+Q4907055,Bihar Cricket Association,Q4907055,23.255
+Q24185101,Dominican Republic Weightlifting Federation,Q24185101,23.25
+Q7127401,Palestinian Tennis Association,Q7127401,23.225
+Q5440897,Federation of Welsh Anglers,Q5440897,23.22
+Q16995813,Lacrosse Scotland,Q16995813,23.205
+Q4443710,Shooting Union of Russia,Q4443710,23.135
+Q110517013,Pakistan Modern Pentathlon Federation,Q110517013,23.134999999999998
+Q113659126,Vatican Taekwondo,Q113659126,23.07
+Q16828481,Bulgarian Chess Federation,Q16828481,23.045
+Q4824357,Australian Karting Association,Q4824357,22.975
+Q5184959,Cricket Board of Wales,Q5184959,22.965
+Q6393339,Kerala Football Association,Q6393339,22.96
+Q7987954,Western India Football Association,Q7987954,22.94
+Q4785995,Archery Australia,Q4785995,22.935
+Q6602567,Israel Gymnastics Federation,Q6602567,22.924999999999997
+Q6741694,Malaysia Chess Federation,Q6741694,22.875
+Q7981891,Welsh Federation of Coarse Anglers,Q7981891,22.845000000000002
+Q317800,German Ski Association,Q317800,22.735
+Q676925,Swiss Gymnastics Federation,Q676925,22.71
+Q30587803,Cricket Hong Kong,Q30587803,22.700000000000003
+Q5594824,Grand National Archery Society,Q5594824,22.700000000000003
+Q106592873,Estonian Equestrian Federation,Q106592873,22.62
+Q16764642,Luxembourg Federation of Sporting Arms Shooting,Q16764642,22.595
+Q7541838,Slovenian Rowing Federation,Q7541838,22.58
+Q16919128,Qatar Cricket Association,Q16919128,22.560000000000002
+Q5100631,Chinese Taipei Chess Association,Q5100631,22.545
+Q871160,Deutsche Eislauf-Union,Q871160,22.535
+Q10602277,Norges Golfforbund,Q10602277,22.52
+Q115534680,Ukrainian Shooting Federation,Q115534680,22.505
+Q112939207,Japan Hockey Association,Q112939207,22.455
+Q16829025,Antigua and Barbuda Amateur Bodybuilding and Weightlifting Federation,Q16829025,22.435
+Q7981884,Welsh Crown Green Bowling Association,Q7981884,22.37
+Q7981893,Welsh Federation of Sea Anglers,Q7981893,22.365
+Q7582108,Squash South Africa,Q7582108,22.305000000000003
+Q306459,Ski Austria,Q306459,22.295
+Q23073621,IPSC Australia,Q23073621,22.245
+Q60762078,Tamilnadu Football Association,Q60762078,22.24
+Q9255115,Estonian Ski Association,Q9255115,22.209999999999997
+Q2604416,Ligue de Football de la Guyane,Q2604416,22.185000000000002
+Q6157889,Japan Weightlifting Association,Q6157889,22.159999999999997
+Q7185406,Philippine Cricket Association,Q7185406,22.075000000000003
+Q5372560,Emirates Cricket Board,Q5372560,22.02
+Q39045407,Russian Field Hockey Federation,Q39045407,21.990000000000002
+Q7981930,Welsh Ladies Baseball Union,Q7981930,21.96
+Q5559143,Gibraltar Cycling Association,Q5559143,21.935000000000002
+Q17078070,Remotely Operated Auto Racers,Q17078070,21.935000000000002
+Q5857290,Uruguayan Chess Federation,Q5857290,21.929999999999996
+Q917289,Japan Ice Hockey Federation,Q917289,21.895000000000003
+Q7982005,Welsh Triathlon,Q7982005,21.880000000000003
+Q5184970,Cricket Kenya,Q5184970,21.875
+Q25057473,Italian Dynamic Shooting Federation,Q25057473,21.86
+Q10685223,Swedish Shooting Sport Federation,Q10685223,21.855
+Q1703794,Argentine Hockey Confederation,Q1703794,21.845
+Q106592909,Estonian Golf Federation,Q106592909,21.825000000000003
+Q740022,Japan Karate Federation,Q740022,21.784999999999997
+Q11822651,Polish Yachting Association,Q11822651,21.770000000000003
+Q7618073,Stockholms Fotbollförbund,Q7618073,21.77
+Q10685036,Swedish Golf Federation,Q10685036,21.655
+Q21106320,Gymnastics Federation of Nigeria,Q21106320,21.650000000000002
+Q7378255,Rugby and Cricket Federation of the Islamic Republic of Iran,Q7378255,21.625
+Q7981867,Welsh Bowls Federation,Q7981867,21.615
+Q17083404,Philippine Skating Union,Q17083404,21.595
+Q7558647,Solomon Islands Rugby League Federation,Q7558647,21.585
+Q6741952,Malaysian Cricket Association,Q6741952,21.58
+Q2203615,Royal Belgian Hockey Association,Q2203615,21.53
+Q3091858,French Sailing Federation,Q3091858,21.519999999999996
+Q4970014,British Go Association,Q4970014,21.5
+Q2015300,Nordic Golf League,Q2015300,21.48

@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/Jackie_Robinson,Jackie Robinson,http://dbpedia.org/resource/Jackie_Robinson,430.93500000000006
+http://dbpedia.org/resource/Willie_Mays,Willie Mays,http://dbpedia.org/resource/Willie_Mays,410.845
+http://dbpedia.org/resource/Derek_Jeter,Derek Jeter,http://dbpedia.org/resource/Derek_Jeter,397.84499999999997
+http://dbpedia.org/resource/Alex_Rodriguez,Alex Rodriguez,http://dbpedia.org/resource/Alex_Rodriguez,394.46
+http://dbpedia.org/resource/Sandy_Koufax,Sandy Koufax,http://dbpedia.org/resource/Sandy_Koufax,393.78
+http://dbpedia.org/resource/Joe_Torre,Joe Torre,http://dbpedia.org/resource/Joe_Torre,371.355
+http://dbpedia.org/resource/Reggie_Jackson,Reggie Jackson,http://dbpedia.org/resource/Reggie_Jackson,364.23
+http://dbpedia.org/resource/Frank_Robinson,Frank Robinson,http://dbpedia.org/resource/Frank_Robinson,363.87
+http://dbpedia.org/resource/Babe_Ruth,Babe Ruth,http://dbpedia.org/resource/Babe_Ruth,354.46000000000004
+http://dbpedia.org/resource/Albert_Pujols,Albert Pujols,http://dbpedia.org/resource/Albert_Pujols,353.55499999999995
+http://dbpedia.org/resource/Mariano_Rivera,Mariano Rivera,http://dbpedia.org/resource/Mariano_Rivera,349.53499999999997
+http://dbpedia.org/resource/Tony_Gwynn,Tony Gwynn,http://dbpedia.org/resource/Tony_Gwynn,347.625
+http://dbpedia.org/resource/Mickey_Mantle,Mickey Mantle,http://dbpedia.org/resource/Mickey_Mantle,346.5
+http://dbpedia.org/resource/Larry_Walker,Larry Walker,http://dbpedia.org/resource/Larry_Walker,332.44
+http://dbpedia.org/resource/Hank_Aaron,Hank Aaron,http://dbpedia.org/resource/Hank_Aaron,327.69499999999994
+http://dbpedia.org/resource/Johnny_Bench,Johnny Bench,http://dbpedia.org/resource/Johnny_Bench,326.99
+http://dbpedia.org/resource/Roy_Halladay,Roy Halladay,http://dbpedia.org/resource/Roy_Halladay,308.18000000000006
+http://dbpedia.org/resource/Tom_Seaver,Tom Seaver,http://dbpedia.org/resource/Tom_Seaver,306.41499999999996
+http://dbpedia.org/resource/David_Ortiz,David Ortiz,http://dbpedia.org/resource/David_Ortiz,305.22999999999996
+http://dbpedia.org/resource/Pete_Rose,Pete Rose,http://dbpedia.org/resource/Pete_Rose,301.335
+http://dbpedia.org/resource/Casey_Stengel,Casey Stengel,http://dbpedia.org/resource/Casey_Stengel,300.825
+http://dbpedia.org/resource/Ken_Griffey_Jr.,Ken Griffey Jr.,http://dbpedia.org/resource/Ken_Griffey_Jr.,300.4750000000001
+http://dbpedia.org/resource/Barry_Bonds,Barry Bonds,http://dbpedia.org/resource/Barry_Bonds,292.005
+http://dbpedia.org/resource/Justin_Verlander,Justin Verlander,http://dbpedia.org/resource/Justin_Verlander,289.83500000000004
+http://dbpedia.org/resource/Billy_Martin,Billy Martin,http://dbpedia.org/resource/Billy_Martin,286.695
+http://dbpedia.org/resource/Joe_Morgan,Joe Morgan,http://dbpedia.org/resource/Joe_Morgan,285.675
+http://dbpedia.org/resource/Cal_Ripken_Jr.,Cal Ripken Jr.,http://dbpedia.org/resource/Cal_Ripken_Jr.,279.925
+http://dbpedia.org/resource/Clayton_Kershaw,Clayton Kershaw,http://dbpedia.org/resource/Clayton_Kershaw,276.09499999999997
+http://dbpedia.org/resource/Dave_Winfield,Dave Winfield,http://dbpedia.org/resource/Dave_Winfield,275.33
+http://dbpedia.org/resource/Lou_Gehrig,Lou Gehrig,http://dbpedia.org/resource/Lou_Gehrig,272.415
+http://dbpedia.org/resource/Curt_Schilling,Curt Schilling,http://dbpedia.org/resource/Curt_Schilling,270.25
+http://dbpedia.org/resource/Jim_Kaat,Jim Kaat,http://dbpedia.org/resource/Jim_Kaat,269.35499999999996
+http://dbpedia.org/resource/Randy_Johnson,Randy Johnson,http://dbpedia.org/resource/Randy_Johnson,269.235
+http://dbpedia.org/resource/Mike_Schmidt,Mike Schmidt,http://dbpedia.org/resource/Mike_Schmidt,266.435
+http://dbpedia.org/resource/Ted_Williams,Ted Williams,http://dbpedia.org/resource/Ted_Williams,265.935
+http://dbpedia.org/resource/Roger_Clemens,Roger Clemens,http://dbpedia.org/resource/Roger_Clemens,264.265
+http://dbpedia.org/resource/Pedro_Martínez,Pedro Martínez,http://dbpedia.org/resource/Pedro_Martínez,262.77
+http://dbpedia.org/resource/Bob_Gibson,Bob Gibson,http://dbpedia.org/resource/Bob_Gibson,262.29999999999995
+http://dbpedia.org/resource/Don_Drysdale,Don Drysdale,http://dbpedia.org/resource/Don_Drysdale,258.095
+http://dbpedia.org/resource/Stan_Musial,Stan Musial,http://dbpedia.org/resource/Stan_Musial,257.215
+http://dbpedia.org/resource/John_Smoltz,John Smoltz,http://dbpedia.org/resource/John_Smoltz,251.08000000000004
+http://dbpedia.org/resource/Mike_Trout,Mike Trout,http://dbpedia.org/resource/Mike_Trout,250.84000000000003
+http://dbpedia.org/resource/Ty_Cobb,Ty Cobb,http://dbpedia.org/resource/Ty_Cobb,247.29000000000002
+http://dbpedia.org/resource/Brooks_Robinson,Brooks Robinson,http://dbpedia.org/resource/Brooks_Robinson,243.32999999999998
+http://dbpedia.org/resource/Cy_Young,Cy Young,http://dbpedia.org/resource/Cy_Young,240.76999999999998
+http://dbpedia.org/resource/Jim_Thome,Jim Thome,http://dbpedia.org/resource/Jim_Thome,240.355
+http://dbpedia.org/resource/Steve_Carlton,Steve Carlton,http://dbpedia.org/resource/Steve_Carlton,237.385
+http://dbpedia.org/resource/Gaylord_Perry,Gaylord Perry,http://dbpedia.org/resource/Gaylord_Perry,235.545
+http://dbpedia.org/resource/Andre_Dawson,Andre Dawson,http://dbpedia.org/resource/Andre_Dawson,233.23
+http://dbpedia.org/resource/Shohei_Ohtani,Shohei Ohtani,http://dbpedia.org/resource/Shohei_Ohtani,232.94999999999996
+http://dbpedia.org/resource/Yogi_Berra,Yogi Berra,http://dbpedia.org/resource/Yogi_Berra,232.64499999999998
+http://dbpedia.org/resource/Rickey_Henderson,Rickey Henderson,http://dbpedia.org/resource/Rickey_Henderson,232.52000000000004
+http://dbpedia.org/resource/Rogers_Hornsby,Rogers Hornsby,http://dbpedia.org/resource/Rogers_Hornsby,231.54999999999995
+http://dbpedia.org/resource/Barry_Larkin,Barry Larkin,http://dbpedia.org/resource/Barry_Larkin,230.985
+http://dbpedia.org/resource/Miguel_Cabrera,Miguel Cabrera,http://dbpedia.org/resource/Miguel_Cabrera,229.485
+http://dbpedia.org/resource/Whitey_Ford,Whitey Ford,http://dbpedia.org/resource/Whitey_Ford,228.115
+http://dbpedia.org/resource/Jeff_Bagwell,Jeff Bagwell,http://dbpedia.org/resource/Jeff_Bagwell,227.74499999999995
+http://dbpedia.org/resource/Max_Scherzer,Max Scherzer,http://dbpedia.org/resource/Max_Scherzer,226.64499999999998
+http://dbpedia.org/resource/Aaron_Judge,Aaron Judge,http://dbpedia.org/resource/Aaron_Judge,226.29000000000002
+http://dbpedia.org/resource/John_McGraw,John McGraw,http://dbpedia.org/resource/John_McGraw,226.22000000000003
+http://dbpedia.org/resource/Tommy_Lasorda,Tommy Lasorda,http://dbpedia.org/resource/Tommy_Lasorda,225.95000000000002
+http://dbpedia.org/resource/Ichiro_Suzuki,Ichiro Suzuki,http://dbpedia.org/resource/Ichiro_Suzuki,224.45000000000002
+http://dbpedia.org/resource/Terry_Francona,Terry Francona,http://dbpedia.org/resource/Terry_Francona,224.365
+http://dbpedia.org/resource/Chipper_Jones,Chipper Jones,http://dbpedia.org/resource/Chipper_Jones,222.22000000000003
+http://dbpedia.org/resource/Manny_Ramirez,Manny Ramirez,http://dbpedia.org/resource/Manny_Ramirez,221.70000000000002
+http://dbpedia.org/resource/Texas_Rangers_minor_league_players,Texas Rangers minor league players,http://dbpedia.org/resource/Texas_Rangers_minor_league_players,221.06
+http://dbpedia.org/resource/Christy_Mathewson,Christy Mathewson,http://dbpedia.org/resource/Christy_Mathewson,220.55500000000004
+http://dbpedia.org/resource/Bob_Feller,Bob Feller,http://dbpedia.org/resource/Bob_Feller,220.18500000000006
+http://dbpedia.org/resource/Grover_Cleveland_Alexander,Grover Cleveland Alexander,http://dbpedia.org/resource/Grover_Cleveland_Alexander,219.5
+http://dbpedia.org/resource/Nap_Lajoie,Nap Lajoie,http://dbpedia.org/resource/Nap_Lajoie,218.05999999999995
+http://dbpedia.org/resource/Ferguson_Jenkins,Ferguson Jenkins,http://dbpedia.org/resource/Ferguson_Jenkins,216.71499999999997
+http://dbpedia.org/resource/Nolan_Ryan,Nolan Ryan,http://dbpedia.org/resource/Nolan_Ryan,216.47500000000002
+http://dbpedia.org/resource/José_Altuve,José Altuve,http://dbpedia.org/resource/José_Altuve,216.125
+http://dbpedia.org/resource/Mark_McGwire,Mark McGwire,http://dbpedia.org/resource/Mark_McGwire,215.81499999999997
+http://dbpedia.org/resource/Jimmie_Foxx,Jimmie Foxx,http://dbpedia.org/resource/Jimmie_Foxx,214.57
+http://dbpedia.org/resource/Dusty_Baker,Dusty Baker,http://dbpedia.org/resource/Dusty_Baker,214.07
+http://dbpedia.org/resource/Frank_Thomas_(designated_hitter),Frank Thomas (designated hitter),http://dbpedia.org/resource/Frank_Thomas_(designated_hitter),212.115
+http://dbpedia.org/resource/Carl_Yastrzemski,Carl Yastrzemski,http://dbpedia.org/resource/Carl_Yastrzemski,212.035
+http://dbpedia.org/resource/Lou_Brock,Lou Brock,http://dbpedia.org/resource/Lou_Brock,209.4
+http://dbpedia.org/resource/Orlando_Cepeda,Orlando Cepeda,http://dbpedia.org/resource/Orlando_Cepeda,208.76
+http://dbpedia.org/resource/Early_Wynn,Early Wynn,http://dbpedia.org/resource/Early_Wynn,208.735
+http://dbpedia.org/resource/Hank_Greenberg,Hank Greenberg,http://dbpedia.org/resource/Hank_Greenberg,208.72
+http://dbpedia.org/resource/Roger_Maris,Roger Maris,http://dbpedia.org/resource/Roger_Maris,208.45499999999998
+http://dbpedia.org/resource/Roberto_Clemente,Roberto Clemente,http://dbpedia.org/resource/Roberto_Clemente,208.43000000000004
+http://dbpedia.org/resource/Buster_Posey,Buster Posey,http://dbpedia.org/resource/Buster_Posey,207.57500000000002
+http://dbpedia.org/resource/Willie_Stargell,Willie Stargell,http://dbpedia.org/resource/Willie_Stargell,207.10000000000002
+http://dbpedia.org/resource/Red_Ruffing,Red Ruffing,http://dbpedia.org/resource/Red_Ruffing,205.71499999999997
+http://dbpedia.org/resource/David_Price_(baseball),David Price (baseball),http://dbpedia.org/resource/David_Price_(baseball),204.76
+http://dbpedia.org/resource/Yadier_Molina,Yadier Molina,http://dbpedia.org/resource/Yadier_Molina,204.70000000000002
+http://dbpedia.org/resource/Bert_Blyleven,Bert Blyleven,http://dbpedia.org/resource/Bert_Blyleven,202.755
+http://dbpedia.org/resource/Bob_Lemon,Bob Lemon,http://dbpedia.org/resource/Bob_Lemon,202.58500000000004
+http://dbpedia.org/resource/Mookie_Betts,Mookie Betts,http://dbpedia.org/resource/Mookie_Betts,202.555
+http://dbpedia.org/resource/Don_Sutton,Don Sutton,http://dbpedia.org/resource/Don_Sutton,201.99
+http://dbpedia.org/resource/Leo_Durocher,Leo Durocher,http://dbpedia.org/resource/Leo_Durocher,201.88
+http://dbpedia.org/resource/Dennis_Eckersley,Dennis Eckersley,http://dbpedia.org/resource/Dennis_Eckersley,199.54
+http://dbpedia.org/resource/Larry_Doby,Larry Doby,http://dbpedia.org/resource/Larry_Doby,199.45499999999998
+http://dbpedia.org/resource/Kirby_Puckett,Kirby Puckett,http://dbpedia.org/resource/Kirby_Puckett,199.095
+http://dbpedia.org/resource/Lefty_Grove,Lefty Grove,http://dbpedia.org/resource/Lefty_Grove,198.99
+http://dbpedia.org/resource/Ryan_Braun,Ryan Braun,http://dbpedia.org/resource/Ryan_Braun,198.405
+http://dbpedia.org/resource/Trevor_Hoffman,Trevor Hoffman,http://dbpedia.org/resource/Trevor_Hoffman,198.11
+http://dbpedia.org/resource/Stephen_Vogt,Stephen Vogt,http://dbpedia.org/resource/Stephen_Vogt,198.035
+http://dbpedia.org/resource/Willie_McCovey,Willie McCovey,http://dbpedia.org/resource/Willie_McCovey,197.385
+http://dbpedia.org/resource/Chuck_Klein,Chuck Klein,http://dbpedia.org/resource/Chuck_Klein,197.28500000000003
+http://dbpedia.org/resource/Sparky_Anderson,Sparky Anderson,http://dbpedia.org/resource/Sparky_Anderson,197.25
+http://dbpedia.org/resource/Catfish_Hunter,Catfish Hunter,http://dbpedia.org/resource/Catfish_Hunter,194.255
+http://dbpedia.org/resource/Phil_Rizzuto,Phil Rizzuto,http://dbpedia.org/resource/Phil_Rizzuto,194.205
+http://dbpedia.org/resource/Don_Mattingly,Don Mattingly,http://dbpedia.org/resource/Don_Mattingly,193.76999999999998
+http://dbpedia.org/resource/Matt_Holliday,Matt Holliday,http://dbpedia.org/resource/Matt_Holliday,193.72500000000002
+http://dbpedia.org/resource/Robin_Roberts_(baseball),Robin Roberts (baseball),http://dbpedia.org/resource/Robin_Roberts_(baseball),192.45000000000002
+http://dbpedia.org/resource/Ryan_Howard,Ryan Howard,http://dbpedia.org/resource/Ryan_Howard,191.265
+http://dbpedia.org/resource/Orel_Hershiser,Orel Hershiser,http://dbpedia.org/resource/Orel_Hershiser,190.61
+http://dbpedia.org/resource/Harmon_Killebrew,Harmon Killebrew,http://dbpedia.org/resource/Harmon_Killebrew,188.60500000000002
+http://dbpedia.org/resource/Greg_Maddux,Greg Maddux,http://dbpedia.org/resource/Greg_Maddux,188.375
+http://dbpedia.org/resource/Tim_McCarver,Tim McCarver,http://dbpedia.org/resource/Tim_McCarver,188.335
+http://dbpedia.org/resource/Miller_Huggins,Miller Huggins,http://dbpedia.org/resource/Miller_Huggins,186.65
+http://dbpedia.org/resource/George_Brett,George Brett,http://dbpedia.org/resource/George_Brett,186.45000000000002
+http://dbpedia.org/resource/Carl_Hubbell,Carl Hubbell,http://dbpedia.org/resource/Carl_Hubbell,185.85500000000002
+http://dbpedia.org/resource/George_Kell,George Kell,http://dbpedia.org/resource/George_Kell,185.14000000000001
+http://dbpedia.org/resource/Walter_Johnson,Walter Johnson,http://dbpedia.org/resource/Walter_Johnson,185.08
+http://dbpedia.org/resource/Pee_Wee_Reese,Pee Wee Reese,http://dbpedia.org/resource/Pee_Wee_Reese,184.645
+http://dbpedia.org/resource/Jim_Rice,Jim Rice,http://dbpedia.org/resource/Jim_Rice,184.465
+http://dbpedia.org/resource/Ryne_Sandberg,Ryne Sandberg,http://dbpedia.org/resource/Ryne_Sandberg,183.60000000000002
+http://dbpedia.org/resource/Jimmy_Rollins,Jimmy Rollins,http://dbpedia.org/resource/Jimmy_Rollins,182.925
+http://dbpedia.org/resource/Stephen_Strasburg,Stephen Strasburg,http://dbpedia.org/resource/Stephen_Strasburg,182.445
+http://dbpedia.org/resource/Dwight_Gooden,Dwight Gooden,http://dbpedia.org/resource/Dwight_Gooden,180.57500000000002
+http://dbpedia.org/resource/Joe_McCarthy_(manager),Joe McCarthy (manager),http://dbpedia.org/resource/Joe_McCarthy_(manager),179.85
+http://dbpedia.org/resource/Juan_Marichal,Juan Marichal,http://dbpedia.org/resource/Juan_Marichal,179.80999999999997
+http://dbpedia.org/resource/Gil_Hodges,Gil Hodges,http://dbpedia.org/resource/Gil_Hodges,179.77999999999997
+http://dbpedia.org/resource/Gabe_Kapler,Gabe Kapler,http://dbpedia.org/resource/Gabe_Kapler,179.68
+http://dbpedia.org/resource/George_Sisler,George Sisler,http://dbpedia.org/resource/George_Sisler,178.795
+http://dbpedia.org/resource/Jack_Morris,Jack Morris,http://dbpedia.org/resource/Jack_Morris,178.34
+http://dbpedia.org/resource/Branch_Rickey,Branch Rickey,http://dbpedia.org/resource/Branch_Rickey,178.14
+http://dbpedia.org/resource/Vladimir_Guerrero,Vladimir Guerrero,http://dbpedia.org/resource/Vladimir_Guerrero,177.745
+http://dbpedia.org/resource/Walter_Alston,Walter Alston,http://dbpedia.org/resource/Walter_Alston,176.98499999999999
+http://dbpedia.org/resource/Madison_Bumgarner,Madison Bumgarner,http://dbpedia.org/resource/Madison_Bumgarner,175.91500000000002
+http://dbpedia.org/resource/Ed_Delahanty,Ed Delahanty,http://dbpedia.org/resource/Ed_Delahanty,175.10500000000002
+http://dbpedia.org/resource/Lefty_Gomez,Lefty Gomez,http://dbpedia.org/resource/Lefty_Gomez,175.05
+http://dbpedia.org/resource/Rollie_Fingers,Rollie Fingers,http://dbpedia.org/resource/Rollie_Fingers,174.99
+http://dbpedia.org/resource/Matt_Vasgersian,Matt Vasgersian,http://dbpedia.org/resource/Matt_Vasgersian,174.81500000000003
+http://dbpedia.org/resource/Dazzy_Vance,Dazzy Vance,http://dbpedia.org/resource/Dazzy_Vance,173.63
+http://dbpedia.org/resource/Carlos_Beltrán,Carlos Beltrán,http://dbpedia.org/resource/Carlos_Beltrán,173.565
+http://dbpedia.org/resource/Duke_Snider,Duke Snider,http://dbpedia.org/resource/Duke_Snider,173.4
+http://dbpedia.org/resource/Tony_La_Russa,Tony La Russa,http://dbpedia.org/resource/Tony_La_Russa,173.10500000000002
+http://dbpedia.org/resource/Harry_Caray,Harry Caray,http://dbpedia.org/resource/Harry_Caray,172.97500000000002
+http://dbpedia.org/resource/Maury_Wills,Maury Wills,http://dbpedia.org/resource/Maury_Wills,172.89999999999998
+http://dbpedia.org/resource/David_Cone,David Cone,http://dbpedia.org/resource/David_Cone,171.42499999999998
+http://dbpedia.org/resource/Zack_Greinke,Zack Greinke,http://dbpedia.org/resource/Zack_Greinke,171.13
+http://dbpedia.org/resource/Warren_Spahn,Warren Spahn,http://dbpedia.org/resource/Warren_Spahn,170.765
+http://dbpedia.org/resource/Gerrit_Cole,Gerrit Cole,http://dbpedia.org/resource/Gerrit_Cole,170.32500000000002
+http://dbpedia.org/resource/Lou_Boudreau,Lou Boudreau,http://dbpedia.org/resource/Lou_Boudreau,170.16
+http://dbpedia.org/resource/Ozzie_Smith,Ozzie Smith,http://dbpedia.org/resource/Ozzie_Smith,169.705
+http://dbpedia.org/resource/Cliff_Lee,Cliff Lee,http://dbpedia.org/resource/Cliff_Lee,169.07000000000002
+http://dbpedia.org/resource/Ernie_Banks,Ernie Banks,http://dbpedia.org/resource/Ernie_Banks,168.96
+http://dbpedia.org/resource/Rod_Carew,Rod Carew,http://dbpedia.org/resource/Rod_Carew,168.24
+http://dbpedia.org/resource/Monte_Irvin,Monte Irvin,http://dbpedia.org/resource/Monte_Irvin,167.67000000000002
+http://dbpedia.org/resource/San_Francisco_Giants_minor_league_players,San Francisco Giants minor league players,http://dbpedia.org/resource/San_Francisco_Giants_minor_league_players,166.63
+http://dbpedia.org/resource/Kris_Bryant,Kris Bryant,http://dbpedia.org/resource/Kris_Bryant,166.62
+http://dbpedia.org/resource/Hal_Newhouser,Hal Newhouser,http://dbpedia.org/resource/Hal_Newhouser,166.245
+http://dbpedia.org/resource/Gary_Carter,Gary Carter,http://dbpedia.org/resource/Gary_Carter,166.18
+http://dbpedia.org/resource/Roy_Campanella,Roy Campanella,http://dbpedia.org/resource/Roy_Campanella,165.8
+http://dbpedia.org/resource/Bryce_Harper,Bryce Harper,http://dbpedia.org/resource/Bryce_Harper,165.545
+http://dbpedia.org/resource/Honus_Wagner,Honus Wagner,http://dbpedia.org/resource/Honus_Wagner,165.185
+http://dbpedia.org/resource/Al_Kaline,Al Kaline,http://dbpedia.org/resource/Al_Kaline,164.81
+http://dbpedia.org/resource/Mickey_Cochrane,Mickey Cochrane,http://dbpedia.org/resource/Mickey_Cochrane,164.63
+http://dbpedia.org/resource/Phil_Niekro,Phil Niekro,http://dbpedia.org/resource/Phil_Niekro,164.20000000000002
+http://dbpedia.org/resource/Bill_Dickey,Bill Dickey,http://dbpedia.org/resource/Bill_Dickey,163.995
+http://dbpedia.org/resource/Andy_Pettitte,Andy Pettitte,http://dbpedia.org/resource/Andy_Pettitte,163.85500000000002
+http://dbpedia.org/resource/Johan_Santana,Johan Santana,http://dbpedia.org/resource/Johan_Santana,163.38
+http://dbpedia.org/resource/Bucky_Harris,Bucky Harris,http://dbpedia.org/resource/Bucky_Harris,162.57999999999998
+http://dbpedia.org/resource/Tim_Lincecum,Tim Lincecum,http://dbpedia.org/resource/Tim_Lincecum,162.495
+http://dbpedia.org/resource/Dick_Williams,Dick Williams,http://dbpedia.org/resource/Dick_Williams,162.31
+http://dbpedia.org/resource/Bobby_Valentine,Bobby Valentine,http://dbpedia.org/resource/Bobby_Valentine,161.67
+http://dbpedia.org/resource/Paul_Molitor,Paul Molitor,http://dbpedia.org/resource/Paul_Molitor,160.99
+http://dbpedia.org/resource/Connie_Mack,Connie Mack,http://dbpedia.org/resource/Connie_Mack,160.71
+http://dbpedia.org/resource/Pat_Burrell,Pat Burrell,http://dbpedia.org/resource/Pat_Burrell,160.26999999999998
+http://dbpedia.org/resource/Rick_Sutcliffe,Rick Sutcliffe,http://dbpedia.org/resource/Rick_Sutcliffe,160.115
+http://dbpedia.org/resource/Burleigh_Grimes,Burleigh Grimes,http://dbpedia.org/resource/Burleigh_Grimes,159.995
+http://dbpedia.org/resource/Jacoby_Ellsbury,Jacoby Ellsbury,http://dbpedia.org/resource/Jacoby_Ellsbury,159.49
+http://dbpedia.org/resource/Pat_Gillick,Pat Gillick,http://dbpedia.org/resource/Pat_Gillick,159.475
+http://dbpedia.org/resource/Barry_Zito,Barry Zito,http://dbpedia.org/resource/Barry_Zito,158.92499999999998
+http://dbpedia.org/resource/Carlton_Fisk,Carlton Fisk,http://dbpedia.org/resource/Carlton_Fisk,158.875
+http://dbpedia.org/resource/Ron_Guidry,Ron Guidry,http://dbpedia.org/resource/Ron_Guidry,158.68499999999997
+http://dbpedia.org/resource/Richie_Ashburn,Richie Ashburn,http://dbpedia.org/resource/Richie_Ashburn,158.16500000000002
+http://dbpedia.org/resource/Steven_Matz,Steven Matz,http://dbpedia.org/resource/Steven_Matz,157.95
+http://dbpedia.org/resource/Tommy_Hutton,Tommy Hutton,http://dbpedia.org/resource/Tommy_Hutton,157.39000000000001
+http://dbpedia.org/resource/Alvin_Dark,Alvin Dark,http://dbpedia.org/resource/Alvin_Dark,157.30500000000004
+http://dbpedia.org/resource/John_Montgomery_Ward,John Montgomery Ward,http://dbpedia.org/resource/John_Montgomery_Ward,157.29
+http://dbpedia.org/resource/Andruw_Jones,Andruw Jones,http://dbpedia.org/resource/Andruw_Jones,156.77
+http://dbpedia.org/resource/Roberto_Alomar,Roberto Alomar,http://dbpedia.org/resource/Roberto_Alomar,156.665
+http://dbpedia.org/resource/Los_Angeles_Dodgers_minor_league_players,Los Angeles Dodgers minor league players,http://dbpedia.org/resource/Los_Angeles_Dodgers_minor_league_players,156.615
+http://dbpedia.org/resource/Bernie_Williams,Bernie Williams,http://dbpedia.org/resource/Bernie_Williams,156.36
+http://dbpedia.org/resource/Darryl_Strawberry,Darryl Strawberry,http://dbpedia.org/resource/Darryl_Strawberry,155.93
+http://dbpedia.org/resource/Eddie_Collins,Eddie Collins,http://dbpedia.org/resource/Eddie_Collins,155.89499999999998
+http://dbpedia.org/resource/Minnie_Miñoso,Minnie Miñoso,http://dbpedia.org/resource/Minnie_Miñoso,155.51500000000001
+http://dbpedia.org/resource/Home_Run_Baker,Home Run Baker,http://dbpedia.org/resource/Home_Run_Baker,155.435
+http://dbpedia.org/resource/Ed_Barrow,Ed Barrow,http://dbpedia.org/resource/Ed_Barrow,154.87
+http://dbpedia.org/resource/Joe_Girardi,Joe Girardi,http://dbpedia.org/resource/Joe_Girardi,154.395
+http://dbpedia.org/resource/Billy_Southworth,Billy Southworth,http://dbpedia.org/resource/Billy_Southworth,153.99
+http://dbpedia.org/resource/Al_Rosen,Al Rosen,http://dbpedia.org/resource/Al_Rosen,152.73999999999998
+http://dbpedia.org/resource/Harry_Heilmann,Harry Heilmann,http://dbpedia.org/resource/Harry_Heilmann,152.59
+http://dbpedia.org/resource/Johnny_Mize,Johnny Mize,http://dbpedia.org/resource/Johnny_Mize,152.54500000000002
+http://dbpedia.org/resource/Lou_Piniella,Lou Piniella,http://dbpedia.org/resource/Lou_Piniella,152.25
+http://dbpedia.org/resource/Yu_Darvish,Yu Darvish,http://dbpedia.org/resource/Yu_Darvish,152.175
+http://dbpedia.org/resource/Steve_Stone_(baseball),Steve Stone (baseball),http://dbpedia.org/resource/Steve_Stone_(baseball),151.95000000000002
+http://dbpedia.org/resource/Nelson_Cruz,Nelson Cruz,http://dbpedia.org/resource/Nelson_Cruz,151.855
+http://dbpedia.org/resource/Adam_Wainwright,Adam Wainwright,http://dbpedia.org/resource/Adam_Wainwright,151.81000000000003
+http://dbpedia.org/resource/Matt_Kemp,Matt Kemp,http://dbpedia.org/resource/Matt_Kemp,151.73499999999999
+http://dbpedia.org/resource/Tris_Speaker,Tris Speaker,http://dbpedia.org/resource/Tris_Speaker,151.57
+http://dbpedia.org/resource/Jose_Canseco,Jose Canseco,http://dbpedia.org/resource/Jose_Canseco,150.30499999999998
+http://dbpedia.org/resource/Craig_Biggio,Craig Biggio,http://dbpedia.org/resource/Craig_Biggio,150.07999999999998
+http://dbpedia.org/resource/Herb_Pennock,Herb Pennock,http://dbpedia.org/resource/Herb_Pennock,149.98999999999998
+http://dbpedia.org/resource/Dale_Murphy,Dale Murphy,http://dbpedia.org/resource/Dale_Murphy,149.825
+http://dbpedia.org/resource/Josh_Hamilton,Josh Hamilton,http://dbpedia.org/resource/Josh_Hamilton,149.465
+http://dbpedia.org/resource/Nolan_Arenado,Nolan Arenado,http://dbpedia.org/resource/Nolan_Arenado,149.32
+http://dbpedia.org/resource/Lee_Smith_(baseball),Lee Smith (baseball),http://dbpedia.org/resource/Lee_Smith_(baseball),149.17499999999998
+http://dbpedia.org/resource/Kevin_Youkilis,Kevin Youkilis,http://dbpedia.org/resource/Kevin_Youkilis,149.12999999999997
+http://dbpedia.org/resource/Fred_Lynn,Fred Lynn,http://dbpedia.org/resource/Fred_Lynn,148.535
+http://dbpedia.org/resource/Josh_Beckett,Josh Beckett,http://dbpedia.org/resource/Josh_Beckett,148.39499999999998
+http://dbpedia.org/resource/Joe_Mauer,Joe Mauer,http://dbpedia.org/resource/Joe_Mauer,148.23499999999999
+http://dbpedia.org/resource/Jacob_deGrom,Jacob deGrom,http://dbpedia.org/resource/Jacob_deGrom,148.03
+http://dbpedia.org/resource/Jake_Peavy,Jake Peavy,http://dbpedia.org/resource/Jake_Peavy,147.705
+http://dbpedia.org/resource/Jason_Heyward,Jason Heyward,http://dbpedia.org/resource/Jason_Heyward,147.625
+http://dbpedia.org/resource/Iván_Rodríguez,Iván Rodríguez,http://dbpedia.org/resource/Iván_Rodríguez,147.44
+http://dbpedia.org/resource/Mel_Ott,Mel Ott,http://dbpedia.org/resource/Mel_Ott,146.955
+http://dbpedia.org/resource/José_Bautista,José Bautista,http://dbpedia.org/resource/José_Bautista,146.48999999999998
+http://dbpedia.org/resource/Nomar_Garciaparra,Nomar Garciaparra,http://dbpedia.org/resource/Nomar_Garciaparra,145.05
+http://dbpedia.org/resource/Tino_Martinez,Tino Martinez,http://dbpedia.org/resource/Tino_Martinez,144.925
+http://dbpedia.org/resource/Gary_Sheffield,Gary Sheffield,http://dbpedia.org/resource/Gary_Sheffield,144.855
+http://dbpedia.org/resource/Charlie_Gehringer,Charlie Gehringer,http://dbpedia.org/resource/Charlie_Gehringer,144.765
+http://dbpedia.org/resource/Chicago_Cubs_minor_league_players,Chicago Cubs minor league players,http://dbpedia.org/resource/Chicago_Cubs_minor_league_players,144.59
+http://dbpedia.org/resource/Ralph_Kiner,Ralph Kiner,http://dbpedia.org/resource/Ralph_Kiner,144.53
+http://dbpedia.org/resource/Whitey_Herzog,Whitey Herzog,http://dbpedia.org/resource/Whitey_Herzog,144.44000000000003
+http://dbpedia.org/resource/Edgar_Martínez,Edgar Martínez,http://dbpedia.org/resource/Edgar_Martínez,144.21
+http://dbpedia.org/resource/Todd_Helton,Todd Helton,http://dbpedia.org/resource/Todd_Helton,144.20999999999998
+http://dbpedia.org/resource/Alex_Gordon,Alex Gordon,http://dbpedia.org/resource/Alex_Gordon,144.075
+http://dbpedia.org/resource/Cat_Osterman,Cat Osterman,http://dbpedia.org/resource/Cat_Osterman,143.905
+http://dbpedia.org/resource/Rube_Waddell,Rube Waddell,http://dbpedia.org/resource/Rube_Waddell,143.725
+http://dbpedia.org/resource/Mike_Piazza,Mike Piazza,http://dbpedia.org/resource/Mike_Piazza,143.63499999999996
+http://dbpedia.org/resource/Boston_Red_Sox_minor_league_players,Boston Red Sox minor league players,http://dbpedia.org/resource/Boston_Red_Sox_minor_league_players,143.36
+http://dbpedia.org/resource/Tony_Oliva,Tony Oliva,http://dbpedia.org/resource/Tony_Oliva,143.34
+http://dbpedia.org/resource/Giancarlo_Stanton,Giancarlo Stanton,http://dbpedia.org/resource/Giancarlo_Stanton,143.335
+http://dbpedia.org/resource/Sammy_Sosa,Sammy Sosa,http://dbpedia.org/resource/Sammy_Sosa,143.275
+http://dbpedia.org/resource/Carlos_Correa,Carlos Correa,http://dbpedia.org/resource/Carlos_Correa,143.055
+http://dbpedia.org/resource/Matt_Williams_(third_baseman),Matt Williams (third baseman),http://dbpedia.org/resource/Matt_Williams_(third_baseman),142.905
+http://dbpedia.org/resource/Cap_Anson,Cap Anson,http://dbpedia.org/resource/Cap_Anson,142.815
+http://dbpedia.org/resource/Chris_Young_(pitcher),Chris Young (pitcher),http://dbpedia.org/resource/Chris_Young_(pitcher),142.64000000000001
+http://dbpedia.org/resource/Paul_Goldschmidt,Paul Goldschmidt,http://dbpedia.org/resource/Paul_Goldschmidt,142.315
+http://dbpedia.org/resource/CC_Sabathia,CC Sabathia,http://dbpedia.org/resource/CC_Sabathia,141.615
+http://dbpedia.org/resource/Mike_Mussina,Mike Mussina,http://dbpedia.org/resource/Mike_Mussina,141.32500000000002
+http://dbpedia.org/resource/John_Clarkson,John Clarkson,http://dbpedia.org/resource/John_Clarkson,141.175
+http://dbpedia.org/resource/Ian_Kinsler,Ian Kinsler,http://dbpedia.org/resource/Ian_Kinsler,140.85999999999999
+http://dbpedia.org/resource/Wade_Boggs,Wade Boggs,http://dbpedia.org/resource/Wade_Boggs,140.465
+http://dbpedia.org/resource/Hoyt_Wilhelm,Hoyt Wilhelm,http://dbpedia.org/resource/Hoyt_Wilhelm,140.30499999999998
+http://dbpedia.org/resource/Andrew_McCutchen,Andrew McCutchen,http://dbpedia.org/resource/Andrew_McCutchen,140.12
+http://dbpedia.org/resource/Dave_Parker,Dave Parker,http://dbpedia.org/resource/Dave_Parker,140.015
+http://dbpedia.org/resource/Tom_Glavine,Tom Glavine,http://dbpedia.org/resource/Tom_Glavine,139.73999999999998
+http://dbpedia.org/resource/Frankie_Frisch,Frankie Frisch,http://dbpedia.org/resource/Frankie_Frisch,139.705
+http://dbpedia.org/resource/Dan_Brouthers,Dan Brouthers,http://dbpedia.org/resource/Dan_Brouthers,139.28
+http://dbpedia.org/resource/Sam_Thompson,Sam Thompson,http://dbpedia.org/resource/Sam_Thompson,139.095
+http://dbpedia.org/resource/Dustin_Pedroia,Dustin Pedroia,http://dbpedia.org/resource/Dustin_Pedroia,138.89000000000001
+http://dbpedia.org/resource/Sam_Crawford,Sam Crawford,http://dbpedia.org/resource/Sam_Crawford,138.77
+http://dbpedia.org/resource/Tim_Keefe,Tim Keefe,http://dbpedia.org/resource/Tim_Keefe,138.31500000000003
+http://dbpedia.org/resource/Hugh_Duffy,Hugh Duffy,http://dbpedia.org/resource/Hugh_Duffy,138.10999999999999
+http://dbpedia.org/resource/Cody_Bellinger,Cody Bellinger,http://dbpedia.org/resource/Cody_Bellinger,138.105
+http://dbpedia.org/resource/Jon_Miller,Jon Miller,http://dbpedia.org/resource/Jon_Miller,137.595
+http://dbpedia.org/resource/Don_Zimmer,Don Zimmer,http://dbpedia.org/resource/Don_Zimmer,137.475
+http://dbpedia.org/resource/Bill_Veeck,Bill Veeck,http://dbpedia.org/resource/Bill_Veeck,137.37
+http://dbpedia.org/resource/Freddie_Freeman,Freddie Freeman,http://dbpedia.org/resource/Freddie_Freeman,137.055
+http://dbpedia.org/resource/Pittsburgh_Pirates_minor_league_players,Pittsburgh Pirates minor league players,http://dbpedia.org/resource/Pittsburgh_Pirates_minor_league_players,136.885
+http://dbpedia.org/resource/Satchel_Paige,Satchel Paige,http://dbpedia.org/resource/Satchel_Paige,136.86999999999998
+http://dbpedia.org/resource/Jason_Varitek,Jason Varitek,http://dbpedia.org/resource/Jason_Varitek,136.015
+http://dbpedia.org/resource/Alex_Bregman,Alex Bregman,http://dbpedia.org/resource/Alex_Bregman,136.01
+"http://dbpedia.org/resource/Billy_Hamilton_(baseball,_born_1866)","Billy Hamilton (baseball, born 1866)","http://dbpedia.org/resource/Billy_Hamilton_(baseball,_born_1866)",135.82000000000002
+http://dbpedia.org/resource/Keith_Hernandez,Keith Hernandez,http://dbpedia.org/resource/Keith_Hernandez,135.255
+http://dbpedia.org/resource/Joe_Medwick,Joe Medwick,http://dbpedia.org/resource/Joe_Medwick,135.065
+http://dbpedia.org/resource/Sam_Fuld,Sam Fuld,http://dbpedia.org/resource/Sam_Fuld,134.815
+http://dbpedia.org/resource/Joe_Carter,Joe Carter,http://dbpedia.org/resource/Joe_Carter,134.76
+http://dbpedia.org/resource/Paul_Waner,Paul Waner,http://dbpedia.org/resource/Paul_Waner,134.41
+http://dbpedia.org/resource/Hack_Wilson,Hack Wilson,http://dbpedia.org/resource/Hack_Wilson,134.35999999999999
+http://dbpedia.org/resource/Bobby_Cox,Bobby Cox,http://dbpedia.org/resource/Bobby_Cox,134.355
+http://dbpedia.org/resource/Goose_Gossage,Goose Gossage,http://dbpedia.org/resource/Goose_Gossage,133.385
+http://dbpedia.org/resource/Earl_Weaver,Earl Weaver,http://dbpedia.org/resource/Earl_Weaver,133.24499999999998
+http://dbpedia.org/resource/Jim_Bottomley,Jim Bottomley,http://dbpedia.org/resource/Jim_Bottomley,133.015
+http://dbpedia.org/resource/Bucky_Dent,Bucky Dent,http://dbpedia.org/resource/Bucky_Dent,132.41
+http://dbpedia.org/resource/Joe_Gordon,Joe Gordon,http://dbpedia.org/resource/Joe_Gordon,131.94000000000003
+http://dbpedia.org/resource/Trevor_Bauer,Trevor Bauer,http://dbpedia.org/resource/Trevor_Bauer,131.845
+http://dbpedia.org/resource/Rick_Dempsey,Rick Dempsey,http://dbpedia.org/resource/Rick_Dempsey,131.73
+http://dbpedia.org/resource/Addie_Joss,Addie Joss,http://dbpedia.org/resource/Addie_Joss,131.71
+http://dbpedia.org/resource/Dick_Allen,Dick Allen,http://dbpedia.org/resource/Dick_Allen,131.50999999999996
+http://dbpedia.org/resource/Frank_Chance,Frank Chance,http://dbpedia.org/resource/Frank_Chance,130.35999999999999
+http://dbpedia.org/resource/Washington_Nationals_minor_league_players,Washington Nationals minor league players,http://dbpedia.org/resource/Washington_Nationals_minor_league_players,130.305
+http://dbpedia.org/resource/Thurman_Munson,Thurman Munson,http://dbpedia.org/resource/Thurman_Munson,130.20000000000002
+http://dbpedia.org/resource/Wilbert_Robinson,Wilbert Robinson,http://dbpedia.org/resource/Wilbert_Robinson,130.125
+http://dbpedia.org/resource/Davey_Johnson,Davey Johnson,http://dbpedia.org/resource/Davey_Johnson,129.99499999999998
+http://dbpedia.org/resource/Red_Schoendienst,Red Schoendienst,http://dbpedia.org/resource/Red_Schoendienst,129.96
+http://dbpedia.org/resource/Mark_Teixeira,Mark Teixeira,http://dbpedia.org/resource/Mark_Teixeira,129.885
+http://dbpedia.org/resource/Mark_Kotsay,Mark Kotsay,http://dbpedia.org/resource/Mark_Kotsay,129.86999999999998
+http://dbpedia.org/resource/Bob_Uecker,Bob Uecker,http://dbpedia.org/resource/Bob_Uecker,128.855
+http://dbpedia.org/resource/Christian_Yelich,Christian Yelich,http://dbpedia.org/resource/Christian_Yelich,128.815
+http://dbpedia.org/resource/Stan_Coveleski,Stan Coveleski,http://dbpedia.org/resource/Stan_Coveleski,128.79500000000002
+http://dbpedia.org/resource/Dave_Stewart_(baseball),Dave Stewart (baseball),http://dbpedia.org/resource/Dave_Stewart_(baseball),128.67499999999998
+http://dbpedia.org/resource/Willie_Keeler,Willie Keeler,http://dbpedia.org/resource/Willie_Keeler,128.455
+http://dbpedia.org/resource/Prince_Fielder,Prince Fielder,http://dbpedia.org/resource/Prince_Fielder,128.05
+http://dbpedia.org/resource/Dontrelle_Willis,Dontrelle Willis,http://dbpedia.org/resource/Dontrelle_Willis,127.875
+http://dbpedia.org/resource/Javier_Báez,Javier Báez,http://dbpedia.org/resource/Javier_Báez,127.86999999999999
+http://dbpedia.org/resource/Jack_Chesbro,Jack Chesbro,http://dbpedia.org/resource/Jack_Chesbro,127.7
+http://dbpedia.org/resource/Tom_Yawkey,Tom Yawkey,http://dbpedia.org/resource/Tom_Yawkey,127.49499999999999
+http://dbpedia.org/resource/Sal_Maglie,Sal Maglie,http://dbpedia.org/resource/Sal_Maglie,127.25
+http://dbpedia.org/resource/Don_Baylor,Don Baylor,http://dbpedia.org/resource/Don_Baylor,126.94000000000001
+http://dbpedia.org/resource/Jake_Arrieta,Jake Arrieta,http://dbpedia.org/resource/Jake_Arrieta,126.935
+http://dbpedia.org/resource/Tony_Pérez,Tony Pérez,http://dbpedia.org/resource/Tony_Pérez,126.92000000000002
+http://dbpedia.org/resource/Bob_Turley,Bob Turley,http://dbpedia.org/resource/Bob_Turley,126.76499999999999
+http://dbpedia.org/resource/Denny_McLain,Denny McLain,http://dbpedia.org/resource/Denny_McLain,126.35000000000001
+http://dbpedia.org/resource/Tug_McGraw,Tug McGraw,http://dbpedia.org/resource/Tug_McGraw,126.33
+http://dbpedia.org/resource/Ned_Hanlon_(baseball),Ned Hanlon (baseball),http://dbpedia.org/resource/Ned_Hanlon_(baseball),125.815
+http://dbpedia.org/resource/Luis_Aparicio,Luis Aparicio,http://dbpedia.org/resource/Luis_Aparicio,125.575
+http://dbpedia.org/resource/Elston_Howard,Elston Howard,http://dbpedia.org/resource/Elston_Howard,125.41499999999999
+http://dbpedia.org/resource/Billy_Pierce,Billy Pierce,http://dbpedia.org/resource/Billy_Pierce,125.23
+http://dbpedia.org/resource/Larry_Bowa,Larry Bowa,http://dbpedia.org/resource/Larry_Bowa,125.03500000000003
+http://dbpedia.org/resource/Chief_Bender,Chief Bender,http://dbpedia.org/resource/Chief_Bender,124.865
+http://dbpedia.org/resource/Ernie_Harwell,Ernie Harwell,http://dbpedia.org/resource/Ernie_Harwell,124.625
+http://dbpedia.org/resource/Houston_Astros_minor_league_players,Houston Astros minor league players,http://dbpedia.org/resource/Houston_Astros_minor_league_players,124.33999999999999
+http://dbpedia.org/resource/New_York_Yankees_minor_league_players,New York Yankees minor league players,http://dbpedia.org/resource/New_York_Yankees_minor_league_players,124.075
+http://dbpedia.org/resource/Trea_Turner,Trea Turner,http://dbpedia.org/resource/Trea_Turner,123.79499999999999
+http://dbpedia.org/resource/Al_Simmons,Al Simmons,http://dbpedia.org/resource/Al_Simmons,123.78999999999999
+http://dbpedia.org/resource/Bill_McKechnie,Bill McKechnie,http://dbpedia.org/resource/Bill_McKechnie,123.75999999999999
+http://dbpedia.org/resource/George_Foster_(baseball),George Foster (baseball),http://dbpedia.org/resource/George_Foster_(baseball),123.755
+http://dbpedia.org/resource/Pete_Alonso,Pete Alonso,http://dbpedia.org/resource/Pete_Alonso,123.68
+http://dbpedia.org/resource/Buddy_Blattner,Buddy Blattner,http://dbpedia.org/resource/Buddy_Blattner,123.50999999999999
+http://dbpedia.org/resource/Kirk_Gibson,Kirk Gibson,http://dbpedia.org/resource/Kirk_Gibson,123.49
+http://dbpedia.org/resource/Ozzie_Guillén,Ozzie Guillén,http://dbpedia.org/resource/Ozzie_Guillén,123.405
+http://dbpedia.org/resource/Hughie_Jennings,Hughie Jennings,http://dbpedia.org/resource/Hughie_Jennings,123.10000000000001
+http://dbpedia.org/resource/Jon_Lester,Jon Lester,http://dbpedia.org/resource/Jon_Lester,122.25
+http://dbpedia.org/resource/Jeff_Torborg,Jeff Torborg,http://dbpedia.org/resource/Jeff_Torborg,121.95999999999998
+http://dbpedia.org/resource/Phil_Nevin,Phil Nevin,http://dbpedia.org/resource/Phil_Nevin,121.91500000000002
+http://dbpedia.org/resource/Tampa_Bay_Rays_minor_league_players,Tampa Bay Rays minor league players,http://dbpedia.org/resource/Tampa_Bay_Rays_minor_league_players,121.775
+http://dbpedia.org/resource/Jorge_Posada,Jorge Posada,http://dbpedia.org/resource/Jorge_Posada,121.755
+http://dbpedia.org/resource/Mike_Cuellar,Mike Cuellar,http://dbpedia.org/resource/Mike_Cuellar,121.51999999999998
+http://dbpedia.org/resource/Detroit_Tigers_minor_league_players,Detroit Tigers minor league players,http://dbpedia.org/resource/Detroit_Tigers_minor_league_players,121.355
+http://dbpedia.org/resource/Heinie_Manush,Heinie Manush,http://dbpedia.org/resource/Heinie_Manush,121.21
+http://dbpedia.org/resource/Masahiro_Tanaka,Masahiro Tanaka,http://dbpedia.org/resource/Masahiro_Tanaka,121.08999999999999
+http://dbpedia.org/resource/Joey_Votto,Joey Votto,http://dbpedia.org/resource/Joey_Votto,121.075
+http://dbpedia.org/resource/Mark_Prior,Mark Prior,http://dbpedia.org/resource/Mark_Prior,121.06
+http://dbpedia.org/resource/Charles_Radbourn,Charles Radbourn,http://dbpedia.org/resource/Charles_Radbourn,120.91999999999999
+http://dbpedia.org/resource/Bucky_Walters,Bucky Walters,http://dbpedia.org/resource/Bucky_Walters,120.89500000000001
+http://dbpedia.org/resource/Buck_Showalter,Buck Showalter,http://dbpedia.org/resource/Buck_Showalter,120.76999999999998
+http://dbpedia.org/resource/Bruce_Sutter,Bruce Sutter,http://dbpedia.org/resource/Bruce_Sutter,120.60500000000002
+http://dbpedia.org/resource/Gabby_Hartnett,Gabby Hartnett,http://dbpedia.org/resource/Gabby_Hartnett,120.255
+http://dbpedia.org/resource/Curtis_Granderson,Curtis Granderson,http://dbpedia.org/resource/Curtis_Granderson,120.25000000000003
+http://dbpedia.org/resource/Cincinnati_Reds_minor_league_players,Cincinnati Reds minor league players,http://dbpedia.org/resource/Cincinnati_Reds_minor_league_players,119.775
+http://dbpedia.org/resource/Bret_Saberhagen,Bret Saberhagen,http://dbpedia.org/resource/Bret_Saberhagen,119.63
+http://dbpedia.org/resource/Cole_Hamels,Cole Hamels,http://dbpedia.org/resource/Cole_Hamels,119.535
+http://dbpedia.org/resource/Roger_Connor,Roger Connor,http://dbpedia.org/resource/Roger_Connor,119.49999999999999
+http://dbpedia.org/resource/Harold_Reynolds,Harold Reynolds,http://dbpedia.org/resource/Harold_Reynolds,119.4
+http://dbpedia.org/resource/Josh_Donaldson,Josh Donaldson,http://dbpedia.org/resource/Josh_Donaldson,119.14500000000001
+http://dbpedia.org/resource/Joe_Kelley,Joe Kelley,http://dbpedia.org/resource/Joe_Kelley,119.055
+http://dbpedia.org/resource/Philip_Humber,Philip Humber,http://dbpedia.org/resource/Philip_Humber,119.02000000000001
+http://dbpedia.org/resource/Jerry_Remy,Jerry Remy,http://dbpedia.org/resource/Jerry_Remy,118.71999999999998
+http://dbpedia.org/resource/Waite_Hoyt,Waite Hoyt,http://dbpedia.org/resource/Waite_Hoyt,118.615
+http://dbpedia.org/resource/Elmer_Flick,Elmer Flick,http://dbpedia.org/resource/Elmer_Flick,118.615
+http://dbpedia.org/resource/Amos_Rusie,Amos Rusie,http://dbpedia.org/resource/Amos_Rusie,118.535
+http://dbpedia.org/resource/Josh_Gibson,Josh Gibson,http://dbpedia.org/resource/Josh_Gibson,118.43500000000002
+http://dbpedia.org/resource/George_Kelly_(baseball),George Kelly (baseball),http://dbpedia.org/resource/George_Kelly_(baseball),118.38
+http://dbpedia.org/resource/Chase_Utley,Chase Utley,http://dbpedia.org/resource/Chase_Utley,118.29000000000002
+http://dbpedia.org/resource/Mike_Flanagan_(baseball),Mike Flanagan (baseball),http://dbpedia.org/resource/Mike_Flanagan_(baseball),118.28000000000003
+http://dbpedia.org/resource/Corey_Kluber,Corey Kluber,http://dbpedia.org/resource/Corey_Kluber,118.2
+http://dbpedia.org/resource/Shane_Victorino,Shane Victorino,http://dbpedia.org/resource/Shane_Victorino,118.10500000000002
+http://dbpedia.org/resource/Bobby_Richardson,Bobby Richardson,http://dbpedia.org/resource/Bobby_Richardson,117.90499999999997
+http://dbpedia.org/resource/Eppa_Rixey,Eppa Rixey,http://dbpedia.org/resource/Eppa_Rixey,117.83
+http://dbpedia.org/resource/Juan_Soto,Juan Soto,http://dbpedia.org/resource/Juan_Soto,117.49499999999999
+http://dbpedia.org/resource/Salvador_Pérez,Salvador Pérez,http://dbpedia.org/resource/Salvador_Pérez,117.23
+http://dbpedia.org/resource/Roger_Bresnahan,Roger Bresnahan,http://dbpedia.org/resource/Roger_Bresnahan,117.03
+http://dbpedia.org/resource/Lance_Berkman,Lance Berkman,http://dbpedia.org/resource/Lance_Berkman,116.84999999999998
+http://dbpedia.org/resource/Carlos_Delgado,Carlos Delgado,http://dbpedia.org/resource/Carlos_Delgado,116.76000000000002
+http://dbpedia.org/resource/Goose_Goslin,Goose Goslin,http://dbpedia.org/resource/Goose_Goslin,116.55500000000002
+http://dbpedia.org/resource/Robin_Yount,Robin Yount,http://dbpedia.org/resource/Robin_Yount,116.42500000000001
+http://dbpedia.org/resource/Frank_Viola,Frank Viola,http://dbpedia.org/resource/Frank_Viola,116.245
+http://dbpedia.org/resource/Hyun-jin_Ryu,Hyun-jin Ryu,http://dbpedia.org/resource/Hyun-jin_Ryu,116.10000000000001
+http://dbpedia.org/resource/Charles_Comiskey,Charles Comiskey,http://dbpedia.org/resource/Charles_Comiskey,115.81500000000001
+http://dbpedia.org/resource/R._A._Dickey,R. A. Dickey,http://dbpedia.org/resource/R._A._Dickey,115.69
+http://dbpedia.org/resource/Fred_McGriff,Fred McGriff,http://dbpedia.org/resource/Fred_McGriff,115.405
+http://dbpedia.org/resource/Adrián_González,Adrián González,http://dbpedia.org/resource/Adrián_González,115.33
+http://dbpedia.org/resource/Adrián_Beltré,Adrián Beltré,http://dbpedia.org/resource/Adrián_Beltré,114.94999999999999
+http://dbpedia.org/resource/Dave_McNally,Dave McNally,http://dbpedia.org/resource/Dave_McNally,114.33999999999999
+http://dbpedia.org/resource/Harold_Baines,Harold Baines,http://dbpedia.org/resource/Harold_Baines,114.305
+http://dbpedia.org/resource/Albert_Spalding,Albert Spalding,http://dbpedia.org/resource/Albert_Spalding,113.86
+http://dbpedia.org/resource/Joc_Pederson,Joc Pederson,http://dbpedia.org/resource/Joc_Pederson,113.775
+http://dbpedia.org/resource/Mike_Torrez,Mike Torrez,http://dbpedia.org/resource/Mike_Torrez,113.64499999999998
+http://dbpedia.org/resource/Monica_Abbott,Monica Abbott,http://dbpedia.org/resource/Monica_Abbott,113.22499999999998
+http://dbpedia.org/resource/Oakland_Athletics_minor_league_players,Oakland Athletics minor league players,http://dbpedia.org/resource/Oakland_Athletics_minor_league_players,113.11
+http://dbpedia.org/resource/Joe_Tinker,Joe Tinker,http://dbpedia.org/resource/Joe_Tinker,112.72500000000001
+http://dbpedia.org/resource/Tommie_Agee,Tommie Agee,http://dbpedia.org/resource/Tommie_Agee,112.47000000000001
+http://dbpedia.org/resource/Bruce_Bochy,Bruce Bochy,http://dbpedia.org/resource/Bruce_Bochy,112.33
+http://dbpedia.org/resource/Max_Fried,Max Fried,http://dbpedia.org/resource/Max_Fried,112.125
+http://dbpedia.org/resource/Kid_Nichols,Kid Nichols,http://dbpedia.org/resource/Kid_Nichols,112.055
+http://dbpedia.org/resource/Robinson_Canó,Robinson Canó,http://dbpedia.org/resource/Robinson_Canó,111.91
+http://dbpedia.org/resource/Joe_Garagiola_Sr.,Joe Garagiola Sr.,http://dbpedia.org/resource/Joe_Garagiola_Sr.,111.815
+http://dbpedia.org/resource/Cliff_Floyd,Cliff Floyd,http://dbpedia.org/resource/Cliff_Floyd,111.72000000000001
+http://dbpedia.org/resource/Johnny_Evers,Johnny Evers,http://dbpedia.org/resource/Johnny_Evers,111.685
+http://dbpedia.org/resource/Herb_Score,Herb Score,http://dbpedia.org/resource/Herb_Score,111.63499999999999
+http://dbpedia.org/resource/Ed_Walsh,Ed Walsh,http://dbpedia.org/resource/Ed_Walsh,111.59500000000001
+http://dbpedia.org/resource/Charlie_Manuel,Charlie Manuel,http://dbpedia.org/resource/Charlie_Manuel,111.56
+http://dbpedia.org/resource/Willie_Randolph,Willie Randolph,http://dbpedia.org/resource/Willie_Randolph,111.41
+http://dbpedia.org/resource/Vic_Willis,Vic Willis,http://dbpedia.org/resource/Vic_Willis,111.36999999999999
+http://dbpedia.org/resource/Hideo_Nomo,Hideo Nomo,http://dbpedia.org/resource/Hideo_Nomo,111.025
+http://dbpedia.org/resource/Vida_Blue,Vida Blue,http://dbpedia.org/resource/Vida_Blue,110.97500000000001
+http://dbpedia.org/resource/Danielle_Lawrie,Danielle Lawrie,http://dbpedia.org/resource/Danielle_Lawrie,110.955
+http://dbpedia.org/resource/Rafael_Palmeiro,Rafael Palmeiro,http://dbpedia.org/resource/Rafael_Palmeiro,110.75
+http://dbpedia.org/resource/Keilani_Ricketts,Keilani Ricketts,http://dbpedia.org/resource/Keilani_Ricketts,110.705
+http://dbpedia.org/resource/Chris_Sale,Chris Sale,http://dbpedia.org/resource/Chris_Sale,110.7
+http://dbpedia.org/resource/Baltimore_Orioles_minor_league_players,Baltimore Orioles minor league players,http://dbpedia.org/resource/Baltimore_Orioles_minor_league_players,110.66499999999999
+http://dbpedia.org/resource/Willie_Wilson_(baseball),Willie Wilson (baseball),http://dbpedia.org/resource/Willie_Wilson_(baseball),110.625
+http://dbpedia.org/resource/Dallas_Green_(baseball),Dallas Green (baseball),http://dbpedia.org/resource/Dallas_Green_(baseball),110.555
+http://dbpedia.org/resource/John_Olerud,John Olerud,http://dbpedia.org/resource/John_Olerud,110.54500000000002
+http://dbpedia.org/resource/Adam_Jones_(baseball),Adam Jones (baseball),http://dbpedia.org/resource/Adam_Jones_(baseball),110.37
+http://dbpedia.org/resource/Bill_Virdon,Bill Virdon,http://dbpedia.org/resource/Bill_Virdon,110.29999999999998
+http://dbpedia.org/resource/Nick_Swisher,Nick Swisher,http://dbpedia.org/resource/Nick_Swisher,109.96499999999999
+http://dbpedia.org/resource/Ron_Santo,Ron Santo,http://dbpedia.org/resource/Ron_Santo,109.87
+http://dbpedia.org/resource/Justin_Morneau,Justin Morneau,http://dbpedia.org/resource/Justin_Morneau,109.42000000000002
+http://dbpedia.org/resource/Mordecai_Brown,Mordecai Brown,http://dbpedia.org/resource/Mordecai_Brown,109.325
+http://dbpedia.org/resource/Tony_Kubek,Tony Kubek,http://dbpedia.org/resource/Tony_Kubek,109.32
+http://dbpedia.org/resource/Rube_Marquard,Rube Marquard,http://dbpedia.org/resource/Rube_Marquard,109.185
+http://dbpedia.org/resource/Kevin_Kennedy_(baseball),Kevin Kennedy (baseball),http://dbpedia.org/resource/Kevin_Kennedy_(baseball),108.84999999999998
+http://dbpedia.org/resource/Scott_Rolen,Scott Rolen,http://dbpedia.org/resource/Scott_Rolen,108.55000000000001
+http://dbpedia.org/resource/Yordan_Álvarez,Yordan Álvarez,http://dbpedia.org/resource/Yordan_Álvarez,108.39500000000001
+http://dbpedia.org/resource/Bobby_Grich,Bobby Grich,http://dbpedia.org/resource/Bobby_Grich,108.305
+http://dbpedia.org/resource/Marcell_Ozuna,Marcell Ozuna,http://dbpedia.org/resource/Marcell_Ozuna,108.285
+http://dbpedia.org/resource/Dennis_Martínez,Dennis Martínez,http://dbpedia.org/resource/Dennis_Martínez,108.01500000000001
+http://dbpedia.org/resource/John_Schuerholz,John Schuerholz,http://dbpedia.org/resource/John_Schuerholz,107.96
+http://dbpedia.org/resource/Frank_Tanana,Frank Tanana,http://dbpedia.org/resource/Frank_Tanana,107.92000000000002
+http://dbpedia.org/resource/Sandy_Alomar_Jr.,Sandy Alomar Jr.,http://dbpedia.org/resource/Sandy_Alomar_Jr.,107.775
+http://dbpedia.org/resource/Tim_Salmon,Tim Salmon,http://dbpedia.org/resource/Tim_Salmon,107.75500000000002
+http://dbpedia.org/resource/Eric_Davis_(baseball),Eric Davis (baseball),http://dbpedia.org/resource/Eric_Davis_(baseball),107.64500000000001
+http://dbpedia.org/resource/Dick_Groat,Dick Groat,http://dbpedia.org/resource/Dick_Groat,107.48
+http://dbpedia.org/resource/Daisuke_Matsuzaka,Daisuke Matsuzaka,http://dbpedia.org/resource/Daisuke_Matsuzaka,107.42500000000001
+http://dbpedia.org/resource/Enos_Slaughter,Enos Slaughter,http://dbpedia.org/resource/Enos_Slaughter,107.17500000000001
+http://dbpedia.org/resource/Zack_Wheat,Zack Wheat,http://dbpedia.org/resource/Zack_Wheat,107.08999999999999
+http://dbpedia.org/resource/Will_Clark,Will Clark,http://dbpedia.org/resource/Will_Clark,106.98
+http://dbpedia.org/resource/King_Kelly,King Kelly,http://dbpedia.org/resource/King_Kelly,106.58999999999999
+http://dbpedia.org/resource/Fred_Haney,Fred Haney,http://dbpedia.org/resource/Fred_Haney,106.525
+http://dbpedia.org/resource/Andrés_Galarraga,Andrés Galarraga,http://dbpedia.org/resource/Andrés_Galarraga,106.305
+http://dbpedia.org/resource/Wilbur_Wood,Wilbur Wood,http://dbpedia.org/resource/Wilbur_Wood,106.24999999999999
+http://dbpedia.org/resource/Mel_Stottlemyre,Mel Stottlemyre,http://dbpedia.org/resource/Mel_Stottlemyre,106.2
+http://dbpedia.org/resource/Don_Demeter,Don Demeter,http://dbpedia.org/resource/Don_Demeter,106.19000000000001
+http://dbpedia.org/resource/Jerry_Coleman,Jerry Coleman,http://dbpedia.org/resource/Jerry_Coleman,106.19000000000001
+http://dbpedia.org/resource/Ronald_Acuña_Jr.,Ronald Acuña Jr.,http://dbpedia.org/resource/Ronald_Acuña_Jr.,105.92500000000001
+http://dbpedia.org/resource/Toronto_Blue_Jays_minor_league_players,Toronto Blue Jays minor league players,http://dbpedia.org/resource/Toronto_Blue_Jays_minor_league_players,105.56
+http://dbpedia.org/resource/Deacon_White,Deacon White,http://dbpedia.org/resource/Deacon_White,105.28
+http://dbpedia.org/resource/Bobby_Murcer,Bobby Murcer,http://dbpedia.org/resource/Bobby_Murcer,105.075
+http://dbpedia.org/resource/Cleveland_Guardians_minor_league_players,Cleveland Guardians minor league players,http://dbpedia.org/resource/Cleveland_Guardians_minor_league_players,105.05000000000001
+http://dbpedia.org/resource/Andrew_Benintendi,Andrew Benintendi,http://dbpedia.org/resource/Andrew_Benintendi,105.00999999999999
+http://dbpedia.org/resource/Juan_González_(baseball),Juan González (baseball),http://dbpedia.org/resource/Juan_González_(baseball),104.97500000000001
+http://dbpedia.org/resource/Nick_Markakis,Nick Markakis,http://dbpedia.org/resource/Nick_Markakis,104.83999999999999
+http://dbpedia.org/resource/Kansas_City_Royals_minor_league_players,Kansas City Royals minor league players,http://dbpedia.org/resource/Kansas_City_Royals_minor_league_players,104.76499999999999
+http://dbpedia.org/resource/Matt_Cain,Matt Cain,http://dbpedia.org/resource/Matt_Cain,104.58
+http://dbpedia.org/resource/Julio_Urías,Julio Urías,http://dbpedia.org/resource/Julio_Urías,104.405
+http://dbpedia.org/resource/Aubrey_Huff,Aubrey Huff,http://dbpedia.org/resource/Aubrey_Huff,104.12
+http://dbpedia.org/resource/Shane_Bieber,Shane Bieber,http://dbpedia.org/resource/Shane_Bieber,104.11999999999999
+http://dbpedia.org/resource/Frankie_Crosetti,Frankie Crosetti,http://dbpedia.org/resource/Frankie_Crosetti,104.03
+http://dbpedia.org/resource/Jimmy_Dykes,Jimmy Dykes,http://dbpedia.org/resource/Jimmy_Dykes,103.79500000000002
+http://dbpedia.org/resource/Félix_Hernández,Félix Hernández,http://dbpedia.org/resource/Félix_Hernández,103.64500000000001
+http://dbpedia.org/resource/Mark_Fidrych,Mark Fidrych,http://dbpedia.org/resource/Mark_Fidrych,103.575
+http://dbpedia.org/resource/Andrew_Miller_(baseball),Andrew Miller (baseball),http://dbpedia.org/resource/Andrew_Miller_(baseball),103.50999999999999
+http://dbpedia.org/resource/Larry_Dierker,Larry Dierker,http://dbpedia.org/resource/Larry_Dierker,103.43
+http://dbpedia.org/resource/Dolf_Luque,Dolf Luque,http://dbpedia.org/resource/Dolf_Luque,103.14500000000001
+http://dbpedia.org/resource/Al_Leiter,Al Leiter,http://dbpedia.org/resource/Al_Leiter,102.985
+http://dbpedia.org/resource/Kenley_Jansen,Kenley Jansen,http://dbpedia.org/resource/Kenley_Jansen,102.89499999999998
+http://dbpedia.org/resource/J._D._Martinez,J. D. Martinez,http://dbpedia.org/resource/J._D._Martinez,102.75999999999999
+http://dbpedia.org/resource/Bill_Mazeroski,Bill Mazeroski,http://dbpedia.org/resource/Bill_Mazeroski,102.555
+http://dbpedia.org/resource/Sal_Bando,Sal Bando,http://dbpedia.org/resource/Sal_Bando,102.55000000000001
+http://dbpedia.org/resource/Mayo_Smith,Mayo Smith,http://dbpedia.org/resource/Mayo_Smith,102.51499999999999
+http://dbpedia.org/resource/Kiki_Cuyler,Kiki Cuyler,http://dbpedia.org/resource/Kiki_Cuyler,102.41999999999999
+http://dbpedia.org/resource/Steve_Garvey,Steve Garvey,http://dbpedia.org/resource/Steve_Garvey,102.38999999999999
+http://dbpedia.org/resource/Kyle_Schwarber,Kyle Schwarber,http://dbpedia.org/resource/Kyle_Schwarber,102.36500000000001
+http://dbpedia.org/resource/Kenny_Lofton,Kenny Lofton,http://dbpedia.org/resource/Kenny_Lofton,102.07
+http://dbpedia.org/resource/Jimmy_Collins,Jimmy Collins,http://dbpedia.org/resource/Jimmy_Collins,102.045
+http://dbpedia.org/resource/Ike_Davis,Ike Davis,http://dbpedia.org/resource/Ike_Davis,102.035
+http://dbpedia.org/resource/Robin_Ventura,Robin Ventura,http://dbpedia.org/resource/Robin_Ventura,101.785
+http://dbpedia.org/resource/Rocco_Baldelli,Rocco Baldelli,http://dbpedia.org/resource/Rocco_Baldelli,101.685
+http://dbpedia.org/resource/Corey_Seager,Corey Seager,http://dbpedia.org/resource/Corey_Seager,101.62
+http://dbpedia.org/resource/José_Reyes_(infielder),José Reyes (infielder),http://dbpedia.org/resource/José_Reyes_(infielder),101.46
+http://dbpedia.org/resource/Ken_Harrelson,Ken Harrelson,http://dbpedia.org/resource/Ken_Harrelson,101.37
+http://dbpedia.org/resource/Anthony_Rendon,Anthony Rendon,http://dbpedia.org/resource/Anthony_Rendon,101.30499999999999
+http://dbpedia.org/resource/J._D._Drew,J. D. Drew,http://dbpedia.org/resource/J._D._Drew,101.23
+http://dbpedia.org/resource/Don_Orsillo,Don Orsillo,http://dbpedia.org/resource/Don_Orsillo,100.78999999999999
+http://dbpedia.org/resource/George_Springer,George Springer,http://dbpedia.org/resource/George_Springer,100.71
+http://dbpedia.org/resource/Billy_Williams,Billy Williams,http://dbpedia.org/resource/Billy_Williams,100.67500000000001
+http://dbpedia.org/resource/Johnny_Damon,Johnny Damon,http://dbpedia.org/resource/Johnny_Damon,100.595
+http://dbpedia.org/resource/Paul_Konerko,Paul Konerko,http://dbpedia.org/resource/Paul_Konerko,100.56
+http://dbpedia.org/resource/J._T._Realmuto,J. T. Realmuto,http://dbpedia.org/resource/J._T._Realmuto,100.535
+http://dbpedia.org/resource/Ron_Darling,Ron Darling,http://dbpedia.org/resource/Ron_Darling,100.455
+http://dbpedia.org/resource/Del_Ennis,Del Ennis,http://dbpedia.org/resource/Del_Ennis,100.405
+http://dbpedia.org/resource/Craig_Breslow,Craig Breslow,http://dbpedia.org/resource/Craig_Breslow,100.275
+http://dbpedia.org/resource/Craig_Kimbrel,Craig Kimbrel,http://dbpedia.org/resource/Craig_Kimbrel,100.245
+http://dbpedia.org/resource/Greg_Luzinski,Greg Luzinski,http://dbpedia.org/resource/Greg_Luzinski,100.165
+http://dbpedia.org/resource/Ernie_Lombardi,Ernie Lombardi,http://dbpedia.org/resource/Ernie_Lombardi,100.03999999999999
+http://dbpedia.org/resource/Jackie_Jensen,Jackie Jensen,http://dbpedia.org/resource/Jackie_Jensen,99.96
+http://dbpedia.org/resource/Eddie_Plank,Eddie Plank,http://dbpedia.org/resource/Eddie_Plank,99.88
+http://dbpedia.org/resource/David_Justice,David Justice,http://dbpedia.org/resource/David_Justice,99.87
+http://dbpedia.org/resource/Don_Newcombe,Don Newcombe,http://dbpedia.org/resource/Don_Newcombe,99.77
+http://dbpedia.org/resource/Bobby_Abreu,Bobby Abreu,http://dbpedia.org/resource/Bobby_Abreu,99.73
+http://dbpedia.org/resource/Kevin_Brown_(right-handed_pitcher),Kevin Brown (right-handed pitcher),http://dbpedia.org/resource/Kevin_Brown_(right-handed_pitcher),99.71000000000001
+http://dbpedia.org/resource/Gavvy_Cravath,Gavvy Cravath,http://dbpedia.org/resource/Gavvy_Cravath,99.66
+http://dbpedia.org/resource/Chris_Davis_(baseball),Chris Davis (baseball),http://dbpedia.org/resource/Chris_Davis_(baseball),99.54
+http://dbpedia.org/resource/Joe_Maddon,Joe Maddon,http://dbpedia.org/resource/Joe_Maddon,99.39999999999999
+http://dbpedia.org/resource/Ted_Simmons,Ted Simmons,http://dbpedia.org/resource/Ted_Simmons,99.275
+http://dbpedia.org/resource/Dansby_Swanson,Dansby Swanson,http://dbpedia.org/resource/Dansby_Swanson,99.00999999999999
+http://dbpedia.org/resource/Joe_Cronin,Joe Cronin,http://dbpedia.org/resource/Joe_Cronin,98.72
+http://dbpedia.org/resource/Bartolo_Colón,Bartolo Colón,http://dbpedia.org/resource/Bartolo_Colón,98.61
+http://dbpedia.org/resource/Ted_Lyons,Ted Lyons,http://dbpedia.org/resource/Ted_Lyons,98.57499999999999
+http://dbpedia.org/resource/Eddie_Mathews,Eddie Mathews,http://dbpedia.org/resource/Eddie_Mathews,98.33999999999999
+http://dbpedia.org/resource/Bud_Black,Bud Black,http://dbpedia.org/resource/Bud_Black,98.305
+http://dbpedia.org/resource/Ian_Kennedy,Ian Kennedy,http://dbpedia.org/resource/Ian_Kennedy,98.045
+http://dbpedia.org/resource/Jocelyn_Alo,Jocelyn Alo,http://dbpedia.org/resource/Jocelyn_Alo,97.96000000000001
+http://dbpedia.org/resource/Joe_Sewell,Joe Sewell,http://dbpedia.org/resource/Joe_Sewell,97.64
+http://dbpedia.org/resource/Bob_Boone,Bob Boone,http://dbpedia.org/resource/Bob_Boone,97.59500000000001
+http://dbpedia.org/resource/Bobby_Shantz,Bobby Shantz,http://dbpedia.org/resource/Bobby_Shantz,97.56
+http://dbpedia.org/resource/Eric_Hosmer,Eric Hosmer,http://dbpedia.org/resource/Eric_Hosmer,97.495
+http://dbpedia.org/resource/Dwight_Evans_(baseball),Dwight Evans (baseball),http://dbpedia.org/resource/Dwight_Evans_(baseball),97.47000000000001
+http://dbpedia.org/resource/Willie_McGee,Willie McGee,http://dbpedia.org/resource/Willie_McGee,97.44999999999999
+http://dbpedia.org/resource/Harry_Wright,Harry Wright,http://dbpedia.org/resource/Harry_Wright,97.415
+http://dbpedia.org/resource/David_Wells,David Wells,http://dbpedia.org/resource/David_Wells,97.25
+http://dbpedia.org/resource/Blake_Snell,Blake Snell,http://dbpedia.org/resource/Blake_Snell,97.19999999999999
+http://dbpedia.org/resource/Jesse_Burkett,Jesse Burkett,http://dbpedia.org/resource/Jesse_Burkett,97.05
+http://dbpedia.org/resource/Bill_Terry,Bill Terry,http://dbpedia.org/resource/Bill_Terry,96.845
+http://dbpedia.org/resource/Chris_Chambliss,Chris Chambliss,http://dbpedia.org/resource/Chris_Chambliss,96.775
+http://dbpedia.org/resource/Darin_Erstad,Darin Erstad,http://dbpedia.org/resource/Darin_Erstad,96.715
+http://dbpedia.org/resource/Jered_Weaver,Jered Weaver,http://dbpedia.org/resource/Jered_Weaver,96.685
+http://dbpedia.org/resource/Vladimir_Guerrero_Jr.,Vladimir Guerrero Jr.,http://dbpedia.org/resource/Vladimir_Guerrero_Jr.,96.53
+http://dbpedia.org/resource/Sam_Rice,Sam Rice,http://dbpedia.org/resource/Sam_Rice,96.4
+http://dbpedia.org/resource/Francisco_Lindor,Francisco Lindor,http://dbpedia.org/resource/Francisco_Lindor,95.92
+http://dbpedia.org/resource/Atlanta_Braves_minor_league_players,Atlanta Braves minor league players,http://dbpedia.org/resource/Atlanta_Braves_minor_league_players,95.72000000000001
+http://dbpedia.org/resource/Carl_Crawford,Carl Crawford,http://dbpedia.org/resource/Carl_Crawford,95.715
+http://dbpedia.org/resource/Shawn_Green,Shawn Green,http://dbpedia.org/resource/Shawn_Green,95.69
+http://dbpedia.org/resource/Ken_Boyer,Ken Boyer,http://dbpedia.org/resource/Ken_Boyer,95.63499999999999
+http://dbpedia.org/resource/Dave_Bancroft,Dave Bancroft,http://dbpedia.org/resource/Dave_Bancroft,95.605
+http://dbpedia.org/resource/Manny_Machado,Manny Machado,http://dbpedia.org/resource/Manny_Machado,95.34
+http://dbpedia.org/resource/Jack_Coombs,Jack Coombs,http://dbpedia.org/resource/Jack_Coombs,95.315
+http://dbpedia.org/resource/Philadelphia_Phillies_minor_league_players,Philadelphia Phillies minor league players,http://dbpedia.org/resource/Philadelphia_Phillies_minor_league_players,95.28
+http://dbpedia.org/resource/Lenny_Dykstra,Lenny Dykstra,http://dbpedia.org/resource/Lenny_Dykstra,95.145
+http://dbpedia.org/resource/Yuli_Gurriel,Yuli Gurriel,http://dbpedia.org/resource/Yuli_Gurriel,95.08999999999999
+http://dbpedia.org/resource/Mark_Gubicza,Mark Gubicza,http://dbpedia.org/resource/Mark_Gubicza,95.0
+http://dbpedia.org/resource/Paul_O'Neill_(baseball),Paul O'Neill (baseball),http://dbpedia.org/resource/Paul_O'Neill_(baseball),95.0
+http://dbpedia.org/resource/Mark_DeRosa,Mark DeRosa,http://dbpedia.org/resource/Mark_DeRosa,94.935
+http://dbpedia.org/resource/Bob_Melvin,Bob Melvin,http://dbpedia.org/resource/Bob_Melvin,94.805
+http://dbpedia.org/resource/Tony_Peña,Tony Peña,http://dbpedia.org/resource/Tony_Peña,94.715
+http://dbpedia.org/resource/Steve_Lyons_(baseball),Steve Lyons (baseball),http://dbpedia.org/resource/Steve_Lyons_(baseball),94.67500000000001
+http://dbpedia.org/resource/Marcus_Stroman,Marcus Stroman,http://dbpedia.org/resource/Marcus_Stroman,94.46000000000001
+http://dbpedia.org/resource/Byron_Buxton,Byron Buxton,http://dbpedia.org/resource/Byron_Buxton,94.38
+http://dbpedia.org/resource/Max_Carey,Max Carey,http://dbpedia.org/resource/Max_Carey,94.33500000000001
+http://dbpedia.org/resource/George_Earnshaw,George Earnshaw,http://dbpedia.org/resource/George_Earnshaw,94.32
+http://dbpedia.org/resource/Alfonso_Soriano,Alfonso Soriano,http://dbpedia.org/resource/Alfonso_Soriano,94.265
+http://dbpedia.org/resource/Earl_Averill,Earl Averill,http://dbpedia.org/resource/Earl_Averill,94.26
+http://dbpedia.org/resource/LaTroy_Hawkins,LaTroy Hawkins,http://dbpedia.org/resource/LaTroy_Hawkins,93.935
+http://dbpedia.org/resource/Roy_Oswalt,Roy Oswalt,http://dbpedia.org/resource/Roy_Oswalt,93.905
+http://dbpedia.org/resource/Mark_Buehrle,Mark Buehrle,http://dbpedia.org/resource/Mark_Buehrle,93.88
+http://dbpedia.org/resource/Édgar_Rentería,Édgar Rentería,http://dbpedia.org/resource/Édgar_Rentería,93.765
+http://dbpedia.org/resource/Mysterious_Walker,Mysterious Walker,http://dbpedia.org/resource/Mysterious_Walker,93.69500000000001
+http://dbpedia.org/resource/Phil_Hughes,Phil Hughes,http://dbpedia.org/resource/Phil_Hughes,93.685
+http://dbpedia.org/resource/DJ_LeMahieu,DJ LeMahieu,http://dbpedia.org/resource/DJ_LeMahieu,93.48500000000001
+http://dbpedia.org/resource/Sadaharu_Oh,Sadaharu Oh,http://dbpedia.org/resource/Sadaharu_Oh,93.45
+http://dbpedia.org/resource/Brian_Snitker,Brian Snitker,http://dbpedia.org/resource/Brian_Snitker,93.245
+http://dbpedia.org/resource/Eduardo_Pérez,Eduardo Pérez,http://dbpedia.org/resource/Eduardo_Pérez,93.195
+http://dbpedia.org/resource/St._Louis_Cardinals_minor_league_players,St. Louis Cardinals minor league players,http://dbpedia.org/resource/St._Louis_Cardinals_minor_league_players,93.16499999999999
+http://dbpedia.org/resource/Martín_Dihigo,Martín Dihigo,http://dbpedia.org/resource/Martín_Dihigo,93.005
+http://dbpedia.org/resource/Cumberland_Posey,Cumberland Posey,http://dbpedia.org/resource/Cumberland_Posey,92.94
+http://dbpedia.org/resource/Rick_Porcello,Rick Porcello,http://dbpedia.org/resource/Rick_Porcello,92.89999999999999
+http://dbpedia.org/resource/Oscar_Charleston,Oscar Charleston,http://dbpedia.org/resource/Oscar_Charleston,92.89999999999999
+http://dbpedia.org/resource/Hank_Sauer,Hank Sauer,http://dbpedia.org/resource/Hank_Sauer,92.775
+http://dbpedia.org/resource/Garry_Maddox,Garry Maddox,http://dbpedia.org/resource/Garry_Maddox,92.69
+http://dbpedia.org/resource/Mike_Shannon,Mike Shannon,http://dbpedia.org/resource/Mike_Shannon,92.42999999999999
+"http://dbpedia.org/resource/Luis_Gonzalez_(outfielder,_born_1967)","Luis Gonzalez (outfielder, born 1967)","http://dbpedia.org/resource/Luis_Gonzalez_(outfielder,_born_1967)",92.0
+http://dbpedia.org/resource/Eric_Karros,Eric Karros,http://dbpedia.org/resource/Eric_Karros,91.995
+http://dbpedia.org/resource/Jay_Bruce,Jay Bruce,http://dbpedia.org/resource/Jay_Bruce,91.92
+http://dbpedia.org/resource/Mickey_Lolich,Mickey Lolich,http://dbpedia.org/resource/Mickey_Lolich,91.88
+http://dbpedia.org/resource/Dave_Kingman,Dave Kingman,http://dbpedia.org/resource/Dave_Kingman,91.85
+http://dbpedia.org/resource/Aaron_Rowand,Aaron Rowand,http://dbpedia.org/resource/Aaron_Rowand,91.745
+http://dbpedia.org/resource/Johnny_Oates,Johnny Oates,http://dbpedia.org/resource/Johnny_Oates,91.73
+http://dbpedia.org/resource/Carlos_Peña,Carlos Peña,http://dbpedia.org/resource/Carlos_Peña,91.675
+http://dbpedia.org/resource/Lefty_O'Doul,Lefty O'Doul,http://dbpedia.org/resource/Lefty_O'Doul,91.675
+http://dbpedia.org/resource/David_Wright,David Wright,http://dbpedia.org/resource/David_Wright,91.63
+http://dbpedia.org/resource/Tim_Wallach,Tim Wallach,http://dbpedia.org/resource/Tim_Wallach,91.485
+http://dbpedia.org/resource/Cy_Seymour,Cy Seymour,http://dbpedia.org/resource/Cy_Seymour,91.30000000000001
+http://dbpedia.org/resource/Francisco_Liriano,Francisco Liriano,http://dbpedia.org/resource/Francisco_Liriano,91.265
+http://dbpedia.org/resource/A._J._Pierzynski,A. J. Pierzynski,http://dbpedia.org/resource/A._J._Pierzynski,91.25
+http://dbpedia.org/resource/Jonathan_Lucroy,Jonathan Lucroy,http://dbpedia.org/resource/Jonathan_Lucroy,91.22000000000001
+http://dbpedia.org/resource/Mike_Scott_(baseball),Mike Scott (baseball),http://dbpedia.org/resource/Mike_Scott_(baseball),91.11500000000001
+http://dbpedia.org/resource/José_Abreu,José Abreu,http://dbpedia.org/resource/José_Abreu,91.105
+http://dbpedia.org/resource/Harry_Hooper,Harry Hooper,http://dbpedia.org/resource/Harry_Hooper,90.91000000000001
+http://dbpedia.org/resource/Arky_Vaughan,Arky Vaughan,http://dbpedia.org/resource/Arky_Vaughan,90.78
+http://dbpedia.org/resource/Rick_Ferrell,Rick Ferrell,http://dbpedia.org/resource/Rick_Ferrell,90.685
+http://dbpedia.org/resource/A._J._Hinch,A. J. Hinch,http://dbpedia.org/resource/A._J._Hinch,90.55000000000001
+http://dbpedia.org/resource/Tony_Lazzeri,Tony Lazzeri,http://dbpedia.org/resource/Tony_Lazzeri,90.475
+http://dbpedia.org/resource/Minnesota_Twins_minor_league_players,Minnesota Twins minor league players,http://dbpedia.org/resource/Minnesota_Twins_minor_league_players,90.41
+http://dbpedia.org/resource/Albert_Belle,Albert Belle,http://dbpedia.org/resource/Albert_Belle,90.355
+http://dbpedia.org/resource/José_Fernández_(pitcher),José Fernández (pitcher),http://dbpedia.org/resource/José_Fernández_(pitcher),90.345
+http://dbpedia.org/resource/Kevin_Mitchell_(baseball),Kevin Mitchell (baseball),http://dbpedia.org/resource/Kevin_Mitchell_(baseball),90.34
+http://dbpedia.org/resource/Vic_Raschi,Vic Raschi,http://dbpedia.org/resource/Vic_Raschi,90.335
+http://dbpedia.org/resource/Chicago_White_Sox_minor_league_players,Chicago White Sox minor league players,http://dbpedia.org/resource/Chicago_White_Sox_minor_league_players,90.215
+http://dbpedia.org/resource/Jim_Abbott,Jim Abbott,http://dbpedia.org/resource/Jim_Abbott,89.985
+http://dbpedia.org/resource/Miguel_Tejada,Miguel Tejada,http://dbpedia.org/resource/Miguel_Tejada,89.94
+http://dbpedia.org/resource/Kyle_Tucker,Kyle Tucker,http://dbpedia.org/resource/Kyle_Tucker,89.805
+http://dbpedia.org/resource/Colorado_Rockies_minor_league_players,Colorado Rockies minor league players,http://dbpedia.org/resource/Colorado_Rockies_minor_league_players,89.765
+http://dbpedia.org/resource/Johnny_Cueto,Johnny Cueto,http://dbpedia.org/resource/Johnny_Cueto,89.705
+http://dbpedia.org/resource/Todd_Worrell,Todd Worrell,http://dbpedia.org/resource/Todd_Worrell,89.685
+http://dbpedia.org/resource/Jason_Marquis,Jason Marquis,http://dbpedia.org/resource/Jason_Marquis,89.635
+http://dbpedia.org/resource/Dock_Ellis,Dock Ellis,http://dbpedia.org/resource/Dock_Ellis,89.55
+http://dbpedia.org/resource/Hensley_Meulens,Hensley Meulens,http://dbpedia.org/resource/Hensley_Meulens,89.35000000000001
+http://dbpedia.org/resource/Jackie_Bradley_Jr.,Jackie Bradley Jr.,http://dbpedia.org/resource/Jackie_Bradley_Jr.,89.06
+http://dbpedia.org/resource/Bert_Campaneris,Bert Campaneris,http://dbpedia.org/resource/Bert_Campaneris,88.995
+http://dbpedia.org/resource/Jenny_Dalton-Hill,Jenny Dalton-Hill,http://dbpedia.org/resource/Jenny_Dalton-Hill,88.965
+http://dbpedia.org/resource/Matt_Harvey,Matt Harvey,http://dbpedia.org/resource/Matt_Harvey,88.735
+http://dbpedia.org/resource/Buck_Ewing,Buck Ewing,http://dbpedia.org/resource/Buck_Ewing,88.72000000000001
+http://dbpedia.org/resource/Alex_Cora,Alex Cora,http://dbpedia.org/resource/Alex_Cora,88.67500000000001
+http://dbpedia.org/resource/Bret_Boone,Bret Boone,http://dbpedia.org/resource/Bret_Boone,88.6
+http://dbpedia.org/resource/Terry_Collins,Terry Collins,http://dbpedia.org/resource/Terry_Collins,88.575
+http://dbpedia.org/resource/Mike_Lieberthal,Mike Lieberthal,http://dbpedia.org/resource/Mike_Lieberthal,88.505
+http://dbpedia.org/resource/Jim_O'Rourke_(baseball),Jim O'Rourke (baseball),http://dbpedia.org/resource/Jim_O'Rourke_(baseball),88.445
+http://dbpedia.org/resource/Earle_Combs,Earle Combs,http://dbpedia.org/resource/Earle_Combs,88.39
+http://dbpedia.org/resource/Anthony_Rizzo,Anthony Rizzo,http://dbpedia.org/resource/Anthony_Rizzo,88.34
+http://dbpedia.org/resource/Jayson_Werth,Jayson Werth,http://dbpedia.org/resource/Jayson_Werth,88.32
+http://dbpedia.org/resource/Vernon_Wells,Vernon Wells,http://dbpedia.org/resource/Vernon_Wells,88.165
+http://dbpedia.org/resource/Derek_Lowe,Derek Lowe,http://dbpedia.org/resource/Derek_Lowe,87.965
+http://dbpedia.org/resource/Noah_Syndergaard,Noah Syndergaard,http://dbpedia.org/resource/Noah_Syndergaard,87.96000000000001
+http://dbpedia.org/resource/Sherry_Magee,Sherry Magee,http://dbpedia.org/resource/Sherry_Magee,87.96
+http://dbpedia.org/resource/Pat_Malone,Pat Malone,http://dbpedia.org/resource/Pat_Malone,87.815
+http://dbpedia.org/resource/Dee_Strange-Gordon,Dee Strange-Gordon,http://dbpedia.org/resource/Dee_Strange-Gordon,87.795
+http://dbpedia.org/resource/Yoenis_Céspedes,Yoenis Céspedes,http://dbpedia.org/resource/Yoenis_Céspedes,87.59
+http://dbpedia.org/resource/Bob_Brenly,Bob Brenly,http://dbpedia.org/resource/Bob_Brenly,87.395
+http://dbpedia.org/resource/Matt_Carpenter_(baseball),Matt Carpenter (baseball),http://dbpedia.org/resource/Matt_Carpenter_(baseball),87.275
+http://dbpedia.org/resource/Hippo_Vaughn,Hippo Vaughn,http://dbpedia.org/resource/Hippo_Vaughn,86.97500000000001
+http://dbpedia.org/resource/Seattle_Mariners_minor_league_players,Seattle Mariners minor league players,http://dbpedia.org/resource/Seattle_Mariners_minor_league_players,86.895
+http://dbpedia.org/resource/Los_Angeles_Angels_minor_league_players,Los Angeles Angels minor league players,http://dbpedia.org/resource/Los_Angeles_Angels_minor_league_players,86.80000000000001
+http://dbpedia.org/resource/George_Weiss_(baseball),George Weiss (baseball),http://dbpedia.org/resource/George_Weiss_(baseball),86.735
+http://dbpedia.org/resource/Juan_Samuel,Juan Samuel,http://dbpedia.org/resource/Juan_Samuel,86.60000000000001
+http://dbpedia.org/resource/Pablo_Sandoval,Pablo Sandoval,http://dbpedia.org/resource/Pablo_Sandoval,86.4
+http://dbpedia.org/resource/Lew_Burdette,Lew Burdette,http://dbpedia.org/resource/Lew_Burdette,86.315
+http://dbpedia.org/resource/Don_Larsen,Don Larsen,http://dbpedia.org/resource/Don_Larsen,86.22
+http://dbpedia.org/resource/Al_López,Al López,http://dbpedia.org/resource/Al_López,86.07
+http://dbpedia.org/resource/Clint_Courtney,Clint Courtney,http://dbpedia.org/resource/Clint_Courtney,86.025
+http://dbpedia.org/resource/Carlos_Zambrano,Carlos Zambrano,http://dbpedia.org/resource/Carlos_Zambrano,86.015
+http://dbpedia.org/resource/Sergio_Romo,Sergio Romo,http://dbpedia.org/resource/Sergio_Romo,86.005
+http://dbpedia.org/resource/Tim_Hudson,Tim Hudson,http://dbpedia.org/resource/Tim_Hudson,85.955
+http://dbpedia.org/resource/Rudy_York,Rudy York,http://dbpedia.org/resource/Rudy_York,85.865
+http://dbpedia.org/resource/Montana_Fouts,Montana Fouts,http://dbpedia.org/resource/Montana_Fouts,85.735
+http://dbpedia.org/resource/Lon_Warneke,Lon Warneke,http://dbpedia.org/resource/Lon_Warneke,85.705
+http://dbpedia.org/resource/John_Lackey,John Lackey,http://dbpedia.org/resource/John_Lackey,85.54
+http://dbpedia.org/resource/Wes_Ferrell,Wes Ferrell,http://dbpedia.org/resource/Wes_Ferrell,85.10000000000001
+http://dbpedia.org/resource/Carlos_González_(baseball),Carlos González (baseball),http://dbpedia.org/resource/Carlos_González_(baseball),84.93
+http://dbpedia.org/resource/Miami_Marlins_minor_league_players,Miami Marlins minor league players,http://dbpedia.org/resource/Miami_Marlins_minor_league_players,84.91000000000001
+http://dbpedia.org/resource/Mark_Grace,Mark Grace,http://dbpedia.org/resource/Mark_Grace,84.685
+http://dbpedia.org/resource/Justin_Upton,Justin Upton,http://dbpedia.org/resource/Justin_Upton,84.54000000000002
+http://dbpedia.org/resource/Dave_Martinez,Dave Martinez,http://dbpedia.org/resource/Dave_Martinez,84.46
+http://dbpedia.org/resource/Todd_Frazier,Todd Frazier,http://dbpedia.org/resource/Todd_Frazier,84.295
+http://dbpedia.org/resource/Luis_Tiant,Luis Tiant,http://dbpedia.org/resource/Luis_Tiant,84.25
+http://dbpedia.org/resource/Melky_Cabrera,Melky Cabrera,http://dbpedia.org/resource/Melky_Cabrera,84.215
+http://dbpedia.org/resource/Frank_Howard_(baseball),Frank Howard (baseball),http://dbpedia.org/resource/Frank_Howard_(baseball),84.14500000000001
+http://dbpedia.org/resource/David_Ross_(baseball),David Ross (baseball),http://dbpedia.org/resource/David_Ross_(baseball),83.835
+http://dbpedia.org/resource/Johnny_Antonelli,Johnny Antonelli,http://dbpedia.org/resource/Johnny_Antonelli,83.81
+http://dbpedia.org/resource/Kris_Benson,Kris Benson,http://dbpedia.org/resource/Kris_Benson,83.72
+http://dbpedia.org/resource/Pie_Traynor,Pie Traynor,http://dbpedia.org/resource/Pie_Traynor,83.68
+http://dbpedia.org/resource/Arizona_Diamondbacks_minor_league_players,Arizona Diamondbacks minor league players,http://dbpedia.org/resource/Arizona_Diamondbacks_minor_league_players,83.60000000000001
+http://dbpedia.org/resource/Ryan_Zimmerman,Ryan Zimmerman,http://dbpedia.org/resource/Ryan_Zimmerman,83.53
+http://dbpedia.org/resource/Ellis_Burks,Ellis Burks,http://dbpedia.org/resource/Ellis_Burks,83.415
+http://dbpedia.org/resource/Zack_Wheeler,Zack Wheeler,http://dbpedia.org/resource/Zack_Wheeler,83.39
+http://dbpedia.org/resource/Hank_O'Day,Hank O'Day,http://dbpedia.org/resource/Hank_O'Day,83.22
+http://dbpedia.org/resource/Al_Oliver,Al Oliver,http://dbpedia.org/resource/Al_Oliver,83.215
+http://dbpedia.org/resource/Ray_Schalk,Ray Schalk,http://dbpedia.org/resource/Ray_Schalk,83.21000000000001
+http://dbpedia.org/resource/Mickey_Welch,Mickey Welch,http://dbpedia.org/resource/Mickey_Welch,82.93
+http://dbpedia.org/resource/Scott_Feldman,Scott Feldman,http://dbpedia.org/resource/Scott_Feldman,82.86500000000001
+http://dbpedia.org/resource/Lance_Parrish,Lance Parrish,http://dbpedia.org/resource/Lance_Parrish,82.82
+http://dbpedia.org/resource/Ray_Dandridge,Ray Dandridge,http://dbpedia.org/resource/Ray_Dandridge,82.80000000000001
+http://dbpedia.org/resource/Freddie_Patek,Freddie Patek,http://dbpedia.org/resource/Freddie_Patek,82.77000000000001
+http://dbpedia.org/resource/Scott_Kazmir,Scott Kazmir,http://dbpedia.org/resource/Scott_Kazmir,82.56
+http://dbpedia.org/resource/Ralph_Houk,Ralph Houk,http://dbpedia.org/resource/Ralph_Houk,82.52499999999999
+http://dbpedia.org/resource/Jon_Matlack,Jon Matlack,http://dbpedia.org/resource/Jon_Matlack,82.455
+http://dbpedia.org/resource/George_Bell_(outfielder),George Bell (outfielder),http://dbpedia.org/resource/George_Bell_(outfielder),82.41000000000001
+http://dbpedia.org/resource/Mike_Scioscia,Mike Scioscia,http://dbpedia.org/resource/Mike_Scioscia,82.29
+http://dbpedia.org/resource/Ross_Youngs,Ross Youngs,http://dbpedia.org/resource/Ross_Youngs,82.015
+http://dbpedia.org/resource/Frank_Selee,Frank Selee,http://dbpedia.org/resource/Frank_Selee,81.98
+http://dbpedia.org/resource/Larry_MacPhail,Larry MacPhail,http://dbpedia.org/resource/Larry_MacPhail,81.935
+http://dbpedia.org/resource/Julio_Rodríguez_(baseball),Julio Rodríguez (baseball),http://dbpedia.org/resource/Julio_Rodríguez_(baseball),81.51
+http://dbpedia.org/resource/Liván_Hernández,Liván Hernández,http://dbpedia.org/resource/Liván_Hernández,81.51
+http://dbpedia.org/resource/Johnny_Podres,Johnny Podres,http://dbpedia.org/resource/Johnny_Podres,81.445
+http://dbpedia.org/resource/Willie_Davis_(baseball),Willie Davis (baseball),http://dbpedia.org/resource/Willie_Davis_(baseball),81.405
+http://dbpedia.org/resource/Brett_Gardner,Brett Gardner,http://dbpedia.org/resource/Brett_Gardner,81.34500000000001
+http://dbpedia.org/resource/Chuck_Dressen,Chuck Dressen,http://dbpedia.org/resource/Chuck_Dressen,80.91499999999999
+http://dbpedia.org/resource/Hideki_Matsui,Hideki Matsui,http://dbpedia.org/resource/Hideki_Matsui,80.9
+http://dbpedia.org/resource/New_York_Mets_minor_league_players,New York Mets minor league players,http://dbpedia.org/resource/New_York_Mets_minor_league_players,80.875
+http://dbpedia.org/resource/Buck_Leonard,Buck Leonard,http://dbpedia.org/resource/Buck_Leonard,80.84
+http://dbpedia.org/resource/Aaron_Nola,Aaron Nola,http://dbpedia.org/resource/Aaron_Nola,80.83999999999999
+http://dbpedia.org/resource/Bob_Welch_(baseball),Bob Welch (baseball),http://dbpedia.org/resource/Bob_Welch_(baseball),80.72
+http://dbpedia.org/resource/Kyle_Lewis,Kyle Lewis,http://dbpedia.org/resource/Kyle_Lewis,80.685
+http://dbpedia.org/resource/Mark_Mulder,Mark Mulder,http://dbpedia.org/resource/Mark_Mulder,80.64
+http://dbpedia.org/resource/Fred_Clarke,Fred Clarke,http://dbpedia.org/resource/Fred_Clarke,80.55
+http://dbpedia.org/resource/Courtney_Blades,Courtney Blades,http://dbpedia.org/resource/Courtney_Blades,80.49000000000001
+http://dbpedia.org/resource/Guillermo_Mota,Guillermo Mota,http://dbpedia.org/resource/Guillermo_Mota,80.46
+http://dbpedia.org/resource/Lee_MacPhail,Lee MacPhail,http://dbpedia.org/resource/Lee_MacPhail,80.35
+http://dbpedia.org/resource/Billy_Herman,Billy Herman,http://dbpedia.org/resource/Billy_Herman,80.26
+http://dbpedia.org/resource/Donie_Bush,Donie Bush,http://dbpedia.org/resource/Donie_Bush,80.23500000000001
+http://dbpedia.org/resource/Michael_Wacha,Michael Wacha,http://dbpedia.org/resource/Michael_Wacha,80.08
+http://dbpedia.org/resource/Rich_Hill_(pitcher),Rich Hill (pitcher),http://dbpedia.org/resource/Rich_Hill_(pitcher),80.065
+http://dbpedia.org/resource/Hank_Bauer,Hank Bauer,http://dbpedia.org/resource/Hank_Bauer,80.025
+http://dbpedia.org/resource/Milwaukee_Brewers_minor_league_players,Milwaukee Brewers minor league players,http://dbpedia.org/resource/Milwaukee_Brewers_minor_league_players,79.875
+http://dbpedia.org/resource/Gene_Tenace,Gene Tenace,http://dbpedia.org/resource/Gene_Tenace,79.56
+http://dbpedia.org/resource/Jason_Bay,Jason Bay,http://dbpedia.org/resource/Jason_Bay,79.545
+http://dbpedia.org/resource/Alex_Anthopoulos,Alex Anthopoulos,http://dbpedia.org/resource/Alex_Anthopoulos,79.545
+http://dbpedia.org/resource/Matt_Stairs,Matt Stairs,http://dbpedia.org/resource/Matt_Stairs,79.50999999999999
+http://dbpedia.org/resource/Chick_Hafey,Chick Hafey,http://dbpedia.org/resource/Chick_Hafey,79.47
+http://dbpedia.org/resource/Hobie_Landrith,Hobie Landrith,http://dbpedia.org/resource/Hobie_Landrith,79.36
+http://dbpedia.org/resource/Aaron_Boone,Aaron Boone,http://dbpedia.org/resource/Aaron_Boone,79.33000000000001
+http://dbpedia.org/resource/Warren_Giles,Warren Giles,http://dbpedia.org/resource/Warren_Giles,79.325
+http://dbpedia.org/resource/Ryan_Lavarnway,Ryan Lavarnway,http://dbpedia.org/resource/Ryan_Lavarnway,79.30000000000001
+http://dbpedia.org/resource/Sam_Jones_(baseball),Sam Jones (baseball),http://dbpedia.org/resource/Sam_Jones_(baseball),79.25999999999999
+http://dbpedia.org/resource/Johnny_Sain,Johnny Sain,http://dbpedia.org/resource/Johnny_Sain,79.10500000000002
+http://dbpedia.org/resource/Dallas_Keuchel,Dallas Keuchel,http://dbpedia.org/resource/Dallas_Keuchel,79.06
+http://dbpedia.org/resource/Joe_Nathan,Joe Nathan,http://dbpedia.org/resource/Joe_Nathan,79.02
+http://dbpedia.org/resource/Rick_Manning,Rick Manning,http://dbpedia.org/resource/Rick_Manning,79.0
+http://dbpedia.org/resource/Seung-hwan_Oh,Seung-hwan Oh,http://dbpedia.org/resource/Seung-hwan_Oh,78.98
+http://dbpedia.org/resource/Tim_Wakefield,Tim Wakefield,http://dbpedia.org/resource/Tim_Wakefield,78.9
+http://dbpedia.org/resource/Johnny_Vander_Meer,Johnny Vander Meer,http://dbpedia.org/resource/Johnny_Vander_Meer,78.87
+http://dbpedia.org/resource/Jonathan_India,Jonathan India,http://dbpedia.org/resource/Jonathan_India,78.85000000000001
+http://dbpedia.org/resource/Brad_Hand,Brad Hand,http://dbpedia.org/resource/Brad_Hand,78.845
+http://dbpedia.org/resource/Brian_Cashman,Brian Cashman,http://dbpedia.org/resource/Brian_Cashman,78.705
+http://dbpedia.org/resource/John_Hiller,John Hiller,http://dbpedia.org/resource/John_Hiller,78.675
+http://dbpedia.org/resource/Dean_Chance,Dean Chance,http://dbpedia.org/resource/Dean_Chance,78.625
+http://dbpedia.org/resource/Vic_Davalillo,Vic Davalillo,http://dbpedia.org/resource/Vic_Davalillo,78.595
+http://dbpedia.org/resource/Mo_Vaughn,Mo Vaughn,http://dbpedia.org/resource/Mo_Vaughn,78.55
+http://dbpedia.org/resource/Jimmy_Key,Jimmy Key,http://dbpedia.org/resource/Jimmy_Key,78.54
+http://dbpedia.org/resource/Andy_Hansen,Andy Hansen,http://dbpedia.org/resource/Andy_Hansen,78.49
+http://dbpedia.org/resource/Nellie_Fox,Nellie Fox,http://dbpedia.org/resource/Nellie_Fox,78.45
+http://dbpedia.org/resource/Robbie_Ray,Robbie Ray,http://dbpedia.org/resource/Robbie_Ray,78.42000000000002
+http://dbpedia.org/resource/Troy_Glaus,Troy Glaus,http://dbpedia.org/resource/Troy_Glaus,78.39500000000001
+http://dbpedia.org/resource/Harry_Walker,Harry Walker,http://dbpedia.org/resource/Harry_Walker,78.37500000000001
+http://dbpedia.org/resource/Hanley_Ramírez,Hanley Ramírez,http://dbpedia.org/resource/Hanley_Ramírez,78.375
+http://dbpedia.org/resource/Mike_Lowell,Mike Lowell,http://dbpedia.org/resource/Mike_Lowell,78.16000000000001
+http://dbpedia.org/resource/Troy_Tulowitzki,Troy Tulowitzki,http://dbpedia.org/resource/Troy_Tulowitzki,78.135
+http://dbpedia.org/resource/Kolten_Wong,Kolten Wong,http://dbpedia.org/resource/Kolten_Wong,78.11500000000001
+http://dbpedia.org/resource/Bobby_Doerr,Bobby Doerr,http://dbpedia.org/resource/Bobby_Doerr,77.905
+http://dbpedia.org/resource/Wes_Parker,Wes Parker,http://dbpedia.org/resource/Wes_Parker,77.89000000000001
+http://dbpedia.org/resource/Jerry_Manuel,Jerry Manuel,http://dbpedia.org/resource/Jerry_Manuel,77.86000000000001
+http://dbpedia.org/resource/Ken_Singleton,Ken Singleton,http://dbpedia.org/resource/Ken_Singleton,77.845
+http://dbpedia.org/resource/Steve_Busby,Steve Busby,http://dbpedia.org/resource/Steve_Busby,77.56
+http://dbpedia.org/resource/Tommy_Bond_(baseball),Tommy Bond (baseball),http://dbpedia.org/resource/Tommy_Bond_(baseball),77.56
+http://dbpedia.org/resource/Brooks_Kieschnick,Brooks Kieschnick,http://dbpedia.org/resource/Brooks_Kieschnick,77.5
+http://dbpedia.org/resource/Buck_Freeman,Buck Freeman,http://dbpedia.org/resource/Buck_Freeman,77.415
+http://dbpedia.org/resource/John_Vukovich,John Vukovich,http://dbpedia.org/resource/John_Vukovich,77.34500000000001
+http://dbpedia.org/resource/Buck_Martinez,Buck Martinez,http://dbpedia.org/resource/Buck_Martinez,77.295
+http://dbpedia.org/resource/Kerry_Wood,Kerry Wood,http://dbpedia.org/resource/Kerry_Wood,77.15
+http://dbpedia.org/resource/Brian_Roberts_(baseball),Brian Roberts (baseball),http://dbpedia.org/resource/Brian_Roberts_(baseball),77.125
+http://dbpedia.org/resource/Gary_Matthews,Gary Matthews,http://dbpedia.org/resource/Gary_Matthews,77.065
+http://dbpedia.org/resource/Bill_White_(first_baseman),Bill White (first baseman),http://dbpedia.org/resource/Bill_White_(first_baseman),77.015
+http://dbpedia.org/resource/John_McNamara_(baseball),John McNamara (baseball),http://dbpedia.org/resource/John_McNamara_(baseball),76.98
+http://dbpedia.org/resource/Howard_Johnson_(baseball),Howard Johnson (baseball),http://dbpedia.org/resource/Howard_Johnson_(baseball),76.83500000000001
+http://dbpedia.org/resource/Nick_Castellanos,Nick Castellanos,http://dbpedia.org/resource/Nick_Castellanos,76.76
+http://dbpedia.org/resource/Toshiya_Sugiuchi,Toshiya Sugiuchi,http://dbpedia.org/resource/Toshiya_Sugiuchi,76.73
+http://dbpedia.org/resource/Brad_Wilkerson,Brad Wilkerson,http://dbpedia.org/resource/Brad_Wilkerson,76.67
+http://dbpedia.org/resource/Jake_Beckley,Jake Beckley,http://dbpedia.org/resource/Jake_Beckley,76.615
+http://dbpedia.org/resource/Jason_Giambi,Jason Giambi,http://dbpedia.org/resource/Jason_Giambi,76.42999999999999
+http://dbpedia.org/resource/Norm_Cash,Norm Cash,http://dbpedia.org/resource/Norm_Cash,76.345
+http://dbpedia.org/resource/Red_Faber,Red Faber,http://dbpedia.org/resource/Red_Faber,76.32
+http://dbpedia.org/resource/Joey_Gallo,Joey Gallo,http://dbpedia.org/resource/Joey_Gallo,76.215
+http://dbpedia.org/resource/Randy_Jones_(baseball),Randy Jones (baseball),http://dbpedia.org/resource/Randy_Jones_(baseball),76.2
+http://dbpedia.org/resource/Cool_Papa_Bell,Cool Papa Bell,http://dbpedia.org/resource/Cool_Papa_Bell,76.19
+http://dbpedia.org/resource/Tommy_McCarthy_(baseball),Tommy McCarthy (baseball),http://dbpedia.org/resource/Tommy_McCarthy_(baseball),76.145
+http://dbpedia.org/resource/Aroldis_Chapman,Aroldis Chapman,http://dbpedia.org/resource/Aroldis_Chapman,75.925
+http://dbpedia.org/resource/Jermaine_Dye,Jermaine Dye,http://dbpedia.org/resource/Jermaine_Dye,75.77000000000001
+http://dbpedia.org/resource/Haywood_Sullivan,Haywood Sullivan,http://dbpedia.org/resource/Haywood_Sullivan,75.74
+http://dbpedia.org/resource/Bengie_Molina,Bengie Molina,http://dbpedia.org/resource/Bengie_Molina,75.705
+http://dbpedia.org/resource/Eric_Byrnes,Eric Byrnes,http://dbpedia.org/resource/Eric_Byrnes,75.62499999999999
+http://dbpedia.org/resource/José_Rijo,José Rijo,http://dbpedia.org/resource/José_Rijo,75.61999999999999
+http://dbpedia.org/resource/Rick_Monday,Rick Monday,http://dbpedia.org/resource/Rick_Monday,75.44999999999999
+http://dbpedia.org/resource/Ken_Hubbs,Ken Hubbs,http://dbpedia.org/resource/Ken_Hubbs,75.425
+http://dbpedia.org/resource/David_Robertson_(baseball),David Robertson (baseball),http://dbpedia.org/resource/David_Robertson_(baseball),75.39500000000001
+http://dbpedia.org/resource/Roy_Sievers,Roy Sievers,http://dbpedia.org/resource/Roy_Sievers,75.32499999999999
+http://dbpedia.org/resource/Nori_Aoki,Nori Aoki,http://dbpedia.org/resource/Nori_Aoki,75.3
+http://dbpedia.org/resource/Rocky_Colavito,Rocky Colavito,http://dbpedia.org/resource/Rocky_Colavito,75.215
+http://dbpedia.org/resource/Eric_Chavez,Eric Chavez,http://dbpedia.org/resource/Eric_Chavez,75.205
+http://dbpedia.org/resource/Santiago_Casilla,Santiago Casilla,http://dbpedia.org/resource/Santiago_Casilla,75.145
+http://dbpedia.org/resource/Xander_Bogaerts,Xander Bogaerts,http://dbpedia.org/resource/Xander_Bogaerts,75.105
+http://dbpedia.org/resource/Aurelio_Rodríguez,Aurelio Rodríguez,http://dbpedia.org/resource/Aurelio_Rodríguez,75.05
+http://dbpedia.org/resource/Lance_Lynn,Lance Lynn,http://dbpedia.org/resource/Lance_Lynn,75.005
+http://dbpedia.org/resource/Jamie_Moyer,Jamie Moyer,http://dbpedia.org/resource/Jamie_Moyer,74.935
+http://dbpedia.org/resource/C._J._Nitkowski,C. J. Nitkowski,http://dbpedia.org/resource/C._J._Nitkowski,74.925
+http://dbpedia.org/resource/Gus_Zernial,Gus Zernial,http://dbpedia.org/resource/Gus_Zernial,74.82
+http://dbpedia.org/resource/Brad_Ausmus,Brad Ausmus,http://dbpedia.org/resource/Brad_Ausmus,74.76499999999999
+http://dbpedia.org/resource/Javier_López_(baseball),Javier López (baseball),http://dbpedia.org/resource/Javier_López_(baseball),74.67
+http://dbpedia.org/resource/John_Kruk,John Kruk,http://dbpedia.org/resource/John_Kruk,74.66
+http://dbpedia.org/resource/Spud_Chandler,Spud Chandler,http://dbpedia.org/resource/Spud_Chandler,74.625
+http://dbpedia.org/resource/Rod_Allen,Rod Allen,http://dbpedia.org/resource/Rod_Allen,74.62
+http://dbpedia.org/resource/David_Freese,David Freese,http://dbpedia.org/resource/David_Freese,74.59
+http://dbpedia.org/resource/Luke_Appling,Luke Appling,http://dbpedia.org/resource/Luke_Appling,74.565
+http://dbpedia.org/resource/Danny_Murtaugh,Danny Murtaugh,http://dbpedia.org/resource/Danny_Murtaugh,74.54
+http://dbpedia.org/resource/Ned_Garver,Ned Garver,http://dbpedia.org/resource/Ned_Garver,74.505
+http://dbpedia.org/resource/Rabbit_Maranville,Rabbit Maranville,http://dbpedia.org/resource/Rabbit_Maranville,74.46000000000001
+http://dbpedia.org/resource/Doug_Glanville,Doug Glanville,http://dbpedia.org/resource/Doug_Glanville,74.405
+http://dbpedia.org/resource/Adley_Rutschman,Adley Rutschman,http://dbpedia.org/resource/Adley_Rutschman,74.35000000000001
+http://dbpedia.org/resource/Dick_Donovan,Dick Donovan,http://dbpedia.org/resource/Dick_Donovan,74.315
+http://dbpedia.org/resource/Dick_Howser,Dick Howser,http://dbpedia.org/resource/Dick_Howser,74.31
+http://dbpedia.org/resource/A._J._Burnett,A. J. Burnett,http://dbpedia.org/resource/A._J._Burnett,74.255
+http://dbpedia.org/resource/Ralph_Terry,Ralph Terry,http://dbpedia.org/resource/Ralph_Terry,74.135
+http://dbpedia.org/resource/Larry_Corcoran,Larry Corcoran,http://dbpedia.org/resource/Larry_Corcoran,74.05499999999999
+http://dbpedia.org/resource/Shelby_Miller,Shelby Miller,http://dbpedia.org/resource/Shelby_Miller,73.97500000000001
+http://dbpedia.org/resource/Chad_Mottola,Chad Mottola,http://dbpedia.org/resource/Chad_Mottola,73.945
+http://dbpedia.org/resource/San_Diego_Padres_minor_league_players,San Diego Padres minor league players,http://dbpedia.org/resource/San_Diego_Padres_minor_league_players,73.91000000000001
+http://dbpedia.org/resource/Cy_Williams,Cy Williams,http://dbpedia.org/resource/Cy_Williams,73.9
+http://dbpedia.org/resource/Jimmy_Piersall,Jimmy Piersall,http://dbpedia.org/resource/Jimmy_Piersall,73.83500000000001
+http://dbpedia.org/resource/Freddy_Sanchez,Freddy Sanchez,http://dbpedia.org/resource/Freddy_Sanchez,73.83000000000001
+http://dbpedia.org/resource/Tom_Kelly_(baseball),Tom Kelly (baseball),http://dbpedia.org/resource/Tom_Kelly_(baseball),73.83
+http://dbpedia.org/resource/Rick_Reuschel,Rick Reuschel,http://dbpedia.org/resource/Rick_Reuschel,73.64
+http://dbpedia.org/resource/Julio_Franco,Julio Franco,http://dbpedia.org/resource/Julio_Franco,73.53
+http://dbpedia.org/resource/Ted_Kluszewski,Ted Kluszewski,http://dbpedia.org/resource/Ted_Kluszewski,73.49
+http://dbpedia.org/resource/Jerry_Kindall,Jerry Kindall,http://dbpedia.org/resource/Jerry_Kindall,73.455
+http://dbpedia.org/resource/Travis_Jankowski,Travis Jankowski,http://dbpedia.org/resource/Travis_Jankowski,73.405
+http://dbpedia.org/resource/Mike_McCormick_(pitcher),Mike McCormick (pitcher),http://dbpedia.org/resource/Mike_McCormick_(pitcher),73.4
+http://dbpedia.org/resource/Andy_Benes,Andy Benes,http://dbpedia.org/resource/Andy_Benes,73.22
+http://dbpedia.org/resource/Tommy_Davis_(outfielder),Tommy Davis (outfielder),http://dbpedia.org/resource/Tommy_Davis_(outfielder),73.195
+http://dbpedia.org/resource/Clint_Hurdle,Clint Hurdle,http://dbpedia.org/resource/Clint_Hurdle,73.175
+http://dbpedia.org/resource/Raúl_Ibañez,Raúl Ibañez,http://dbpedia.org/resource/Raúl_Ibañez,73.15
+http://dbpedia.org/resource/Freddie_Lindstrom,Freddie Lindstrom,http://dbpedia.org/resource/Freddie_Lindstrom,73.03000000000002
+http://dbpedia.org/resource/Jim_Lonborg,Jim Lonborg,http://dbpedia.org/resource/Jim_Lonborg,73.03000000000002
+http://dbpedia.org/resource/Chuck_Knoblauch,Chuck Knoblauch,http://dbpedia.org/resource/Chuck_Knoblauch,73.00999999999999
+http://dbpedia.org/resource/Cecil_Fielder,Cecil Fielder,http://dbpedia.org/resource/Cecil_Fielder,73.005
+http://dbpedia.org/resource/George_Wright_(sportsman),George Wright (sportsman),http://dbpedia.org/resource/George_Wright_(sportsman),72.935
+http://dbpedia.org/resource/Walker_Buehler,Walker Buehler,http://dbpedia.org/resource/Walker_Buehler,72.87
+http://dbpedia.org/resource/Ernie_Whitt,Ernie Whitt,http://dbpedia.org/resource/Ernie_Whitt,72.735
+http://dbpedia.org/resource/Pepper_Martin,Pepper Martin,http://dbpedia.org/resource/Pepper_Martin,72.615
+http://dbpedia.org/resource/Felipe_Alou,Felipe Alou,http://dbpedia.org/resource/Felipe_Alou,72.61
+http://dbpedia.org/resource/Jesse_Haines,Jesse Haines,http://dbpedia.org/resource/Jesse_Haines,72.53000000000002
+http://dbpedia.org/resource/Billy_Evans,Billy Evans,http://dbpedia.org/resource/Billy_Evans,72.355
+http://dbpedia.org/resource/Bobby_Wallace_(baseball),Bobby Wallace (baseball),http://dbpedia.org/resource/Bobby_Wallace_(baseball),72.325
+http://dbpedia.org/resource/Jack_Stivetts,Jack Stivetts,http://dbpedia.org/resource/Jack_Stivetts,72.30499999999999
+http://dbpedia.org/resource/Francisco_Rodríguez_(Venezuelan_pitcher),Francisco Rodríguez (Venezuelan pitcher),http://dbpedia.org/resource/Francisco_Rodríguez_(Venezuelan_pitcher),72.295
+http://dbpedia.org/resource/Travis_d'Arnaud,Travis d'Arnaud,http://dbpedia.org/resource/Travis_d'Arnaud,72.295
+http://dbpedia.org/resource/Dante_Bichette,Dante Bichette,http://dbpedia.org/resource/Dante_Bichette,72.235
+http://dbpedia.org/resource/Mike_Boddicker,Mike Boddicker,http://dbpedia.org/resource/Mike_Boddicker,72.2
+http://dbpedia.org/resource/Bob_Horner,Bob Horner,http://dbpedia.org/resource/Bob_Horner,72.175
+http://dbpedia.org/resource/Tsuyoshi_Wada,Tsuyoshi Wada,http://dbpedia.org/resource/Tsuyoshi_Wada,72.08000000000001
+http://dbpedia.org/resource/Adam_Duvall,Adam Duvall,http://dbpedia.org/resource/Adam_Duvall,72.06
+http://dbpedia.org/resource/Shigeo_Nagashima,Shigeo Nagashima,http://dbpedia.org/resource/Shigeo_Nagashima,71.92999999999999
+http://dbpedia.org/resource/Paul_Richards_(baseball),Paul Richards (baseball),http://dbpedia.org/resource/Paul_Richards_(baseball),71.86
+http://dbpedia.org/resource/Willard_Brown,Willard Brown,http://dbpedia.org/resource/Willard_Brown,71.84500000000001
+http://dbpedia.org/resource/Jeff_Francoeur,Jeff Francoeur,http://dbpedia.org/resource/Jeff_Francoeur,71.845
+http://dbpedia.org/resource/Paul_Blair_(baseball),Paul Blair (baseball),http://dbpedia.org/resource/Paul_Blair_(baseball),71.81
+http://dbpedia.org/resource/Dave_Stieb,Dave Stieb,http://dbpedia.org/resource/Dave_Stieb,71.67999999999999
+http://dbpedia.org/resource/John_Mayberry_Jr.,John Mayberry Jr.,http://dbpedia.org/resource/John_Mayberry_Jr.,71.615
+http://dbpedia.org/resource/Gene_Mauch,Gene Mauch,http://dbpedia.org/resource/Gene_Mauch,71.4
+http://dbpedia.org/resource/Jerry_Koosman,Jerry Koosman,http://dbpedia.org/resource/Jerry_Koosman,71.385
+http://dbpedia.org/resource/Billy_Wagner,Billy Wagner,http://dbpedia.org/resource/Billy_Wagner,71.38000000000001
+http://dbpedia.org/resource/Fernando_Tatís_Jr.,Fernando Tatís Jr.,http://dbpedia.org/resource/Fernando_Tatís_Jr.,71.345
+http://dbpedia.org/resource/Tyler_O'Neill,Tyler O'Neill,http://dbpedia.org/resource/Tyler_O'Neill,71.06
+http://dbpedia.org/resource/Heinie_Zimmerman,Heinie Zimmerman,http://dbpedia.org/resource/Heinie_Zimmerman,71.005
+http://dbpedia.org/resource/Smoky_Joe_Wood,Smoky Joe Wood,http://dbpedia.org/resource/Smoky_Joe_Wood,70.995
+http://dbpedia.org/resource/Carlos_Santana_(baseball),Carlos Santana (baseball),http://dbpedia.org/resource/Carlos_Santana_(baseball),70.925
+http://dbpedia.org/resource/David_Bell_(baseball),David Bell (baseball),http://dbpedia.org/resource/David_Bell_(baseball),70.88499999999999
+http://dbpedia.org/resource/Harrison_Bader,Harrison Bader,http://dbpedia.org/resource/Harrison_Bader,70.88499999999999
+http://dbpedia.org/resource/Michael_Young_(baseball),Michael Young (baseball),http://dbpedia.org/resource/Michael_Young_(baseball),70.875
+http://dbpedia.org/resource/Bobo_Newsom,Bobo Newsom,http://dbpedia.org/resource/Bobo_Newsom,70.865
+http://dbpedia.org/resource/Blue_Moon_Odom,Blue Moon Odom,http://dbpedia.org/resource/Blue_Moon_Odom,70.66
+http://dbpedia.org/resource/Corbin_Burnes,Corbin Burnes,http://dbpedia.org/resource/Corbin_Burnes,70.58
+http://dbpedia.org/resource/Tom_Sturdivant,Tom Sturdivant,http://dbpedia.org/resource/Tom_Sturdivant,70.375
+http://dbpedia.org/resource/Ryan_Dempster,Ryan Dempster,http://dbpedia.org/resource/Ryan_Dempster,70.355
+http://dbpedia.org/resource/Mike_Matheny,Mike Matheny,http://dbpedia.org/resource/Mike_Matheny,70.3
+http://dbpedia.org/resource/Mike_Moustakas,Mike Moustakas,http://dbpedia.org/resource/Mike_Moustakas,70.28
+http://dbpedia.org/resource/Jesse_Barfield,Jesse Barfield,http://dbpedia.org/resource/Jesse_Barfield,70.225
+http://dbpedia.org/resource/Kenny_Rogers_(baseball),Kenny Rogers (baseball),http://dbpedia.org/resource/Kenny_Rogers_(baseball),70.15
+http://dbpedia.org/resource/Carlos_Carrasco_(baseball),Carlos Carrasco (baseball),http://dbpedia.org/resource/Carlos_Carrasco_(baseball),69.91000000000001
+http://dbpedia.org/resource/Tyler_Skaggs,Tyler Skaggs,http://dbpedia.org/resource/Tyler_Skaggs,69.83500000000001
+http://dbpedia.org/resource/Fernando_Rodney,Fernando Rodney,http://dbpedia.org/resource/Fernando_Rodney,69.755
+http://dbpedia.org/resource/Steve_O'Neill,Steve O'Neill,http://dbpedia.org/resource/Steve_O'Neill,69.73
+http://dbpedia.org/resource/Justin_Turner,Justin Turner,http://dbpedia.org/resource/Justin_Turner,69.65
+http://dbpedia.org/resource/José_Cruz_Jr.,José Cruz Jr.,http://dbpedia.org/resource/José_Cruz_Jr.,69.44500000000001
+http://dbpedia.org/resource/Hunter_Pence,Hunter Pence,http://dbpedia.org/resource/Hunter_Pence,69.41000000000001
+http://dbpedia.org/resource/Cristóbal_Torriente,Cristóbal Torriente,http://dbpedia.org/resource/Cristóbal_Torriente,69.35000000000001
+http://dbpedia.org/resource/Vinny_Castilla,Vinny Castilla,http://dbpedia.org/resource/Vinny_Castilla,69.25
+http://dbpedia.org/resource/Torey_Lovullo,Torey Lovullo,http://dbpedia.org/resource/Torey_Lovullo,69.14
+http://dbpedia.org/resource/Terry_Pendleton,Terry Pendleton,http://dbpedia.org/resource/Terry_Pendleton,69.10000000000001
+http://dbpedia.org/resource/Deacon_McGuire,Deacon McGuire,http://dbpedia.org/resource/Deacon_McGuire,69.05999999999999
+http://dbpedia.org/resource/Dick_Sisler,Dick Sisler,http://dbpedia.org/resource/Dick_Sisler,68.96000000000001
+http://dbpedia.org/resource/Andy_Van_Slyke,Andy Van Slyke,http://dbpedia.org/resource/Andy_Van_Slyke,68.915
+http://dbpedia.org/resource/Ralph_Garr,Ralph Garr,http://dbpedia.org/resource/Ralph_Garr,68.88999999999999
+http://dbpedia.org/resource/Bobby_Ávila,Bobby Ávila,http://dbpedia.org/resource/Bobby_Ávila,68.875
+http://dbpedia.org/resource/Moe_Drabowsky,Moe Drabowsky,http://dbpedia.org/resource/Moe_Drabowsky,68.86999999999999
+http://dbpedia.org/resource/Jud_Wilson,Jud Wilson,http://dbpedia.org/resource/Jud_Wilson,68.86
+http://dbpedia.org/resource/Bob_Meusel,Bob Meusel,http://dbpedia.org/resource/Bob_Meusel,68.81
+http://dbpedia.org/resource/Ollie_Carnegie,Ollie Carnegie,http://dbpedia.org/resource/Ollie_Carnegie,68.735
+http://dbpedia.org/resource/Biz_Mackey,Biz Mackey,http://dbpedia.org/resource/Biz_Mackey,68.685
+http://dbpedia.org/resource/Mike_Hampton,Mike Hampton,http://dbpedia.org/resource/Mike_Hampton,68.60000000000001
+http://dbpedia.org/resource/Royce_Clayton,Royce Clayton,http://dbpedia.org/resource/Royce_Clayton,68.58500000000001
+http://dbpedia.org/resource/Cody_Ross,Cody Ross,http://dbpedia.org/resource/Cody_Ross,68.545
+http://dbpedia.org/resource/Bill_Haselman,Bill Haselman,http://dbpedia.org/resource/Bill_Haselman,68.505
+http://dbpedia.org/resource/Stephen_Piscotty,Stephen Piscotty,http://dbpedia.org/resource/Stephen_Piscotty,68.485
+http://dbpedia.org/resource/Bill_Buckner,Bill Buckner,http://dbpedia.org/resource/Bill_Buckner,68.475
+http://dbpedia.org/resource/Lee_Seung-yuop,Lee Seung-yuop,http://dbpedia.org/resource/Lee_Seung-yuop,68.445
+http://dbpedia.org/resource/Bid_McPhee,Bid McPhee,http://dbpedia.org/resource/Bid_McPhee,68.41000000000001
+http://dbpedia.org/resource/Ferris_Fain,Ferris Fain,http://dbpedia.org/resource/Ferris_Fain,68.35000000000001
+http://dbpedia.org/resource/Clay_Buchholz,Clay Buchholz,http://dbpedia.org/resource/Clay_Buchholz,68.34
+http://dbpedia.org/resource/Darrell_Evans,Darrell Evans,http://dbpedia.org/resource/Darrell_Evans,68.3
+http://dbpedia.org/resource/Curt_Flood,Curt Flood,http://dbpedia.org/resource/Curt_Flood,68.265
+http://dbpedia.org/resource/Cito_Gaston,Cito Gaston,http://dbpedia.org/resource/Cito_Gaston,68.2
+http://dbpedia.org/resource/Mitch_Williams,Mitch Williams,http://dbpedia.org/resource/Mitch_Williams,68.15
+http://dbpedia.org/resource/Jack_McKeon,Jack McKeon,http://dbpedia.org/resource/Jack_McKeon,68.125
+http://dbpedia.org/resource/Birdie_Tebbetts,Birdie Tebbetts,http://dbpedia.org/resource/Birdie_Tebbetts,68.115
+http://dbpedia.org/resource/Andrew_Friedman,Andrew Friedman,http://dbpedia.org/resource/Andrew_Friedman,68.105
+http://dbpedia.org/resource/Paul_Hines,Paul Hines,http://dbpedia.org/resource/Paul_Hines,68.07
+http://dbpedia.org/resource/Bill_Watkins_(baseball),Bill Watkins (baseball),http://dbpedia.org/resource/Bill_Watkins_(baseball),68.03
+http://dbpedia.org/resource/Kyle_Gibson,Kyle Gibson,http://dbpedia.org/resource/Kyle_Gibson,68.025
+http://dbpedia.org/resource/Michael_Conforto,Michael Conforto,http://dbpedia.org/resource/Michael_Conforto,68.025
+http://dbpedia.org/resource/Cameron_Maybin,Cameron Maybin,http://dbpedia.org/resource/Cameron_Maybin,68.025
+http://dbpedia.org/resource/Liam_Hendriks,Liam Hendriks,http://dbpedia.org/resource/Liam_Hendriks,67.97500000000001
+http://dbpedia.org/resource/Hal_McRae,Hal McRae,http://dbpedia.org/resource/Hal_McRae,67.86999999999999
+http://dbpedia.org/resource/Dave_Righetti,Dave Righetti,http://dbpedia.org/resource/Dave_Righetti,67.86
+http://dbpedia.org/resource/Jonathan_Papelbon,Jonathan Papelbon,http://dbpedia.org/resource/Jonathan_Papelbon,67.82
+http://dbpedia.org/resource/Ewell_Blackwell,Ewell Blackwell,http://dbpedia.org/resource/Ewell_Blackwell,67.65
+http://dbpedia.org/resource/Jim_Leyland,Jim Leyland,http://dbpedia.org/resource/Jim_Leyland,67.625
+http://dbpedia.org/resource/Hayato_Sakamoto,Hayato Sakamoto,http://dbpedia.org/resource/Hayato_Sakamoto,67.59000000000002
+http://dbpedia.org/resource/Don_Buford,Don Buford,http://dbpedia.org/resource/Don_Buford,67.55499999999999
+http://dbpedia.org/resource/Russell_Branyan,Russell Branyan,http://dbpedia.org/resource/Russell_Branyan,67.55499999999999
+http://dbpedia.org/resource/Brad_Lidge,Brad Lidge,http://dbpedia.org/resource/Brad_Lidge,67.53000000000002
+http://dbpedia.org/resource/George_Scott_(first_baseman),George Scott (first baseman),http://dbpedia.org/resource/George_Scott_(first_baseman),67.515
+http://dbpedia.org/resource/Barney_Dreyfuss,Barney Dreyfuss,http://dbpedia.org/resource/Barney_Dreyfuss,67.485
+http://dbpedia.org/resource/Patrick_Corbin,Patrick Corbin,http://dbpedia.org/resource/Patrick_Corbin,67.42
+http://dbpedia.org/resource/Amos_Otis,Amos Otis,http://dbpedia.org/resource/Amos_Otis,67.365
+http://dbpedia.org/resource/Tom_Grieve,Tom Grieve,http://dbpedia.org/resource/Tom_Grieve,67.345
+http://dbpedia.org/resource/Omar_Vizquel,Omar Vizquel,http://dbpedia.org/resource/Omar_Vizquel,67.27499999999999
+http://dbpedia.org/resource/José_Mota_(baseball),José Mota (baseball),http://dbpedia.org/resource/José_Mota_(baseball),67.25999999999999
+http://dbpedia.org/resource/Bullet_Rogan,Bullet Rogan,http://dbpedia.org/resource/Bullet_Rogan,67.235
+http://dbpedia.org/resource/Nate_Schierholtz,Nate Schierholtz,http://dbpedia.org/resource/Nate_Schierholtz,67.15500000000002
+http://dbpedia.org/resource/Dixie_Walker,Dixie Walker,http://dbpedia.org/resource/Dixie_Walker,67.15
+http://dbpedia.org/resource/Floyd_Bannister,Floyd Bannister,http://dbpedia.org/resource/Floyd_Bannister,67.145
+http://dbpedia.org/resource/Danny_Valencia,Danny Valencia,http://dbpedia.org/resource/Danny_Valencia,67.13499999999999
+http://dbpedia.org/resource/Andre_Ethier,Andre Ethier,http://dbpedia.org/resource/Andre_Ethier,66.945
+http://dbpedia.org/resource/B._J._Surhoff,B. J. Surhoff,http://dbpedia.org/resource/B._J._Surhoff,66.93499999999999
+http://dbpedia.org/resource/Luke_Hochevar,Luke Hochevar,http://dbpedia.org/resource/Luke_Hochevar,66.925
+http://dbpedia.org/resource/Craig_Counsell,Craig Counsell,http://dbpedia.org/resource/Craig_Counsell,66.915
+http://dbpedia.org/resource/Chippy_Gaw,Chippy Gaw,http://dbpedia.org/resource/Chippy_Gaw,66.875
+http://dbpedia.org/resource/Dom_DiMaggio,Dom DiMaggio,http://dbpedia.org/resource/Dom_DiMaggio,66.835
+http://dbpedia.org/resource/Judy_Johnson,Judy Johnson,http://dbpedia.org/resource/Judy_Johnson,66.8
+http://dbpedia.org/resource/Jim_Frey,Jim Frey,http://dbpedia.org/resource/Jim_Frey,66.765
+http://dbpedia.org/resource/Dave_Henderson,Dave Henderson,http://dbpedia.org/resource/Dave_Henderson,66.76499999999999
+http://dbpedia.org/resource/Carl_Mays,Carl Mays,http://dbpedia.org/resource/Carl_Mays,66.72500000000001
+http://dbpedia.org/resource/Marquis_Grissom,Marquis Grissom,http://dbpedia.org/resource/Marquis_Grissom,66.67
+http://dbpedia.org/resource/Jeff_Kent,Jeff Kent,http://dbpedia.org/resource/Jeff_Kent,66.66
+http://dbpedia.org/resource/Brandon_Crawford,Brandon Crawford,http://dbpedia.org/resource/Brandon_Crawford,66.625
+http://dbpedia.org/resource/Matt_Morris_(baseball),Matt Morris (baseball),http://dbpedia.org/resource/Matt_Morris_(baseball),66.5
+http://dbpedia.org/resource/Jarrod_Saltalamacchia,Jarrod Saltalamacchia,http://dbpedia.org/resource/Jarrod_Saltalamacchia,66.49000000000001
+http://dbpedia.org/resource/Earl_Battey,Earl Battey,http://dbpedia.org/resource/Earl_Battey,66.44
+http://dbpedia.org/resource/LaMarr_Hoyt,LaMarr Hoyt,http://dbpedia.org/resource/LaMarr_Hoyt,66.3
+http://dbpedia.org/resource/Kevin_Gausman,Kevin Gausman,http://dbpedia.org/resource/Kevin_Gausman,66.29
+http://dbpedia.org/resource/Ben_Davis_(baseball),Ben Davis (baseball),http://dbpedia.org/resource/Ben_Davis_(baseball),66.19999999999999
+http://dbpedia.org/resource/Marco_Gonzales,Marco Gonzales,http://dbpedia.org/resource/Marco_Gonzales,66.17
+http://dbpedia.org/resource/Lloyd_Waner,Lloyd Waner,http://dbpedia.org/resource/Lloyd_Waner,66.14999999999999
+http://dbpedia.org/resource/Joe_Niekro,Joe Niekro,http://dbpedia.org/resource/Joe_Niekro,66.09500000000001
+http://dbpedia.org/resource/Joey_Cora,Joey Cora,http://dbpedia.org/resource/Joey_Cora,65.965
+http://dbpedia.org/resource/Paul_Owens_(baseball),Paul Owens (baseball),http://dbpedia.org/resource/Paul_Owens_(baseball),65.905
+http://dbpedia.org/resource/Luke_Sewell,Luke Sewell,http://dbpedia.org/resource/Luke_Sewell,65.88
+http://dbpedia.org/resource/Tip_O'Neill_(baseball),Tip O'Neill (baseball),http://dbpedia.org/resource/Tip_O'Neill_(baseball),65.83500000000001
+http://dbpedia.org/resource/Aaron_Sele,Aaron Sele,http://dbpedia.org/resource/Aaron_Sele,65.795
+http://dbpedia.org/resource/Brian_Wilson_(baseball),Brian Wilson (baseball),http://dbpedia.org/resource/Brian_Wilson_(baseball),65.79
+http://dbpedia.org/resource/Éric_Gagné,Éric Gagné,http://dbpedia.org/resource/Éric_Gagné,65.645
+http://dbpedia.org/resource/Michael_Cuddyer,Michael Cuddyer,http://dbpedia.org/resource/Michael_Cuddyer,65.57000000000001
+http://dbpedia.org/resource/Tim_Leary,Tim Leary,http://dbpedia.org/resource/Tim_Leary,65.52499999999999
+http://dbpedia.org/resource/Jeremy_Affeldt,Jeremy Affeldt,http://dbpedia.org/resource/Jeremy_Affeldt,65.515
+http://dbpedia.org/resource/Joaquín_Andújar,Joaquín Andújar,http://dbpedia.org/resource/Joaquín_Andújar,65.265
+http://dbpedia.org/resource/Tim_Anderson_(baseball),Tim Anderson (baseball),http://dbpedia.org/resource/Tim_Anderson_(baseball),65.25500000000001
+http://dbpedia.org/resource/Howie_Pollet,Howie Pollet,http://dbpedia.org/resource/Howie_Pollet,65.24
+http://dbpedia.org/resource/Mike_Hargrove,Mike Hargrove,http://dbpedia.org/resource/Mike_Hargrove,65.175
+"http://dbpedia.org/resource/Bob_Miller_(pitcher,_born_1939)","Bob Miller (pitcher, born 1939)","http://dbpedia.org/resource/Bob_Miller_(pitcher,_born_1939)",65.115
+http://dbpedia.org/resource/Eddie_Lopat,Eddie Lopat,http://dbpedia.org/resource/Eddie_Lopat,65.105
+http://dbpedia.org/resource/Leon_Day,Leon Day,http://dbpedia.org/resource/Leon_Day,65.065
+http://dbpedia.org/resource/Al_Bumbry,Al Bumbry,http://dbpedia.org/resource/Al_Bumbry,65.05499999999999
+http://dbpedia.org/resource/Kurt_Bevacqua,Kurt Bevacqua,http://dbpedia.org/resource/Kurt_Bevacqua,65.025
+http://dbpedia.org/resource/Joe_Morgan_(manager),Joe Morgan (manager),http://dbpedia.org/resource/Joe_Morgan_(manager),64.86
+http://dbpedia.org/resource/Mike_Cameron,Mike Cameron,http://dbpedia.org/resource/Mike_Cameron,64.82999999999998
+http://dbpedia.org/resource/John_Lowenstein,John Lowenstein,http://dbpedia.org/resource/John_Lowenstein,64.80999999999999
+http://dbpedia.org/resource/Jimmy_McAleer,Jimmy McAleer,http://dbpedia.org/resource/Jimmy_McAleer,64.775
+http://dbpedia.org/resource/Scott_Erickson,Scott Erickson,http://dbpedia.org/resource/Scott_Erickson,64.765
+http://dbpedia.org/resource/Preston_Wilson,Preston Wilson,http://dbpedia.org/resource/Preston_Wilson,64.73
+http://dbpedia.org/resource/Michael_Barrett_(baseball),Michael Barrett (baseball),http://dbpedia.org/resource/Michael_Barrett_(baseball),64.66000000000001
+http://dbpedia.org/resource/Yasmani_Grandal,Yasmani Grandal,http://dbpedia.org/resource/Yasmani_Grandal,64.57000000000001
+http://dbpedia.org/resource/Leon_Durham,Leon Durham,http://dbpedia.org/resource/Leon_Durham,64.56
+http://dbpedia.org/resource/Sam_McDowell,Sam McDowell,http://dbpedia.org/resource/Sam_McDowell,64.545
+http://dbpedia.org/resource/Aaron_Harang,Aaron Harang,http://dbpedia.org/resource/Aaron_Harang,64.52499999999999
+http://dbpedia.org/resource/Bruce_Hurst,Bruce Hurst,http://dbpedia.org/resource/Bruce_Hurst,64.50999999999999
+http://dbpedia.org/resource/Johnny_Callison,Johnny Callison,http://dbpedia.org/resource/Johnny_Callison,64.49499999999999
+http://dbpedia.org/resource/Chase_Headley,Chase Headley,http://dbpedia.org/resource/Chase_Headley,64.38499999999999
+http://dbpedia.org/resource/Juan_Pierre,Juan Pierre,http://dbpedia.org/resource/Juan_Pierre,64.37499999999999
+http://dbpedia.org/resource/Ben_McDonald,Ben McDonald,http://dbpedia.org/resource/Ben_McDonald,64.28
+http://dbpedia.org/resource/Marty_Marion,Marty Marion,http://dbpedia.org/resource/Marty_Marion,64.215
+http://dbpedia.org/resource/Daniel_Bard,Daniel Bard,http://dbpedia.org/resource/Daniel_Bard,64.205
+http://dbpedia.org/resource/Chris_Leroux,Chris Leroux,http://dbpedia.org/resource/Chris_Leroux,64.195
+http://dbpedia.org/resource/Marty_Hogan,Marty Hogan,http://dbpedia.org/resource/Marty_Hogan,64.155
+http://dbpedia.org/resource/Harvey_Kuenn,Harvey Kuenn,http://dbpedia.org/resource/Harvey_Kuenn,64.08
+http://dbpedia.org/resource/Rob_Refsnyder,Rob Refsnyder,http://dbpedia.org/resource/Rob_Refsnyder,64.075
+http://dbpedia.org/resource/Chris_Short,Chris Short,http://dbpedia.org/resource/Chris_Short,63.995000000000005
+http://dbpedia.org/resource/Sonny_Gray,Sonny Gray,http://dbpedia.org/resource/Sonny_Gray,63.97
+http://dbpedia.org/resource/Eddie_Stanky,Eddie Stanky,http://dbpedia.org/resource/Eddie_Stanky,63.95000000000002
+http://dbpedia.org/resource/Bob_Friend,Bob Friend,http://dbpedia.org/resource/Bob_Friend,63.94
+http://dbpedia.org/resource/Chuck_Tanner,Chuck Tanner,http://dbpedia.org/resource/Chuck_Tanner,63.93
+http://dbpedia.org/resource/Mark_Appel,Mark Appel,http://dbpedia.org/resource/Mark_Appel,63.915

@@ -1,0 +1,402 @@
+id,label,source,score
+Q941797,Koeberg Nuclear Power Station,Q941797,116.025
+Q795104,Bruce Nuclear Generating Station,Q795104,80.58
+Q5767271,Hinkley Point C nuclear power station,Q5767271,78.9
+Q1516614,Indian Point Energy Center,Q1516614,74.95500000000001
+Q1516546,Diablo Canyon Power Plant,Q1516546,74.03
+Q762368,San Onofre Nuclear Generating Station,Q762368,67.015
+Q475652,Seabrook Station Nuclear Power Plant,Q475652,58.04500000000001
+Q1642138,Jaitapur Nuclear Power Project,Q1642138,56.845000000000006
+Q1331046,Monju Nuclear Power Plant,Q1331046,56.794999999999995
+Q862589,Three Mile Island Nuclear Generating Station,Q862589,54.220000000000006
+Q114295,Fukushima Daiichi Nuclear Power Plant,Q114295,53.69
+Q1739490,Vermont Yankee Nuclear Power Plant,Q1739490,50.575
+Q204637,Bushehr Nuclear Power Plant,Q204637,49.78
+Q838461,Trojan Nuclear Power Plant,Q838461,47.77
+Q1739397,Dounreay,Q1739397,45.894999999999996
+Q1412996,Olkiluoto Nuclear Power Plant,Q1412996,45.68
+Q847648,Shoreham Nuclear Power Plant,Q847648,45.575
+Q1274134,Karachi Nuclear Power Plant,Q1274134,45.505
+Q947549,Vogtle Electric Generating Plant,Q947549,44.735
+Q1650555,Browns Ferry Nuclear Power Plant,Q1650555,44.019999999999996
+Q1508667,Palo Verde Nuclear Generating Station,Q1508667,42.45
+Q725100,Kashiwazaki-Kariwa Nuclear Power Plant,Q725100,42.38
+Q1247509,Byron Nuclear Generating Station,Q1247509,40.35
+Q1466274,Dungeness Nuclear Power Station,Q1466274,40.01500000000001
+Q215419,Chernobyl Nuclear Power Plant,Q215419,39.73500000000001
+Q972715,Madras Atomic Power Station,Q972715,38.785
+Q654974,Nine Mile Point Nuclear Generating Station,Q654974,38.224999999999994
+Q946058,Armenian Nuclear Power Plant,Q946058,38.21
+Q676411,Fessenheim Nuclear Power Plant,Q676411,38.07
+Q1739496,Watts Bar Nuclear Generating Station,Q1739496,38.01
+Q572403,Hartlepool Nuclear Power Station,Q572403,37.5
+Q838816,Fukushima Daini Nuclear Power Plant,Q838816,37.24
+Q1739486,Turkey Point Nuclear Generating Station,Q1739486,36.625
+Q337376,Kudankulam Nuclear Power Plant,Q337376,36.55
+Q2805405,Bataan Nuclear Power Plant,Q2805405,36.405
+Q1739392,Davis-Besse Nuclear Power Station,Q1739392,36.195
+Q1739400,Fort Calhoun Nuclear Generating Station,Q1739400,36.050000000000004
+Q1516622,James A. FitzPatrick Nuclear Power Plant,Q1516622,35.69
+Q1739455,Pickering Nuclear Generating Station,Q1739455,35.410000000000004
+Q2944597,Ginna Nuclear Generating Station,Q2944597,35.23500000000001
+Q1233845,Rancho Seco Nuclear Generating Station,Q1233845,35.165
+Q1536314,Oyster Creek Nuclear Generating Station,Q1536314,35.155
+Q1637580,North Anna Nuclear Generating Station,Q1637580,35.04
+Q964007,Daya Bay Nuclear Power Plant,Q964007,34.6
+Q1639556,Sequoyah Nuclear Generating Station,Q1639556,34.595
+Q675779,Bellefonte Nuclear Generating Station,Q675779,34.57
+Q2639309,Belarusian nuclear power plant,Q2639309,33.975
+Q1739367,Calvert Cliffs Nuclear Power Plant,Q1739367,33.325
+Q1067623,Onagawa Nuclear Power Plant,Q1067623,32.934999999999995
+Q4936447,Bodega Bay Nuclear Power Plant,Q4936447,32.925
+Q2944605,Millstone Nuclear Power Plant,Q2944605,32.895
+Q24525665,Phipps Bend Nuclear Power Plant,Q24525665,32.504999999999995
+Q1739391,Darlington Nuclear Generating Station,Q1739391,32.455000000000005
+Q1739372,Chapelcross nuclear power station,Q1739372,31.775000000000002
+Q1466261,Torness Nuclear Power Station,Q1466261,31.759999999999998
+Q371357,South Texas Nuclear Generating Station,Q371357,31.719999999999995
+Q1536182,Hinkley Point B Nuclear Power Station,Q1536182,31.295
+Q1739449,Oldbury Nuclear Power Station,Q1739449,31.06
+Q782133,Hunterston B nuclear power station,Q782133,30.580000000000002
+Q1557235,Virgil C. Summer Nuclear Generating Station,Q1557235,30.439999999999998
+Q1516283,Dresden Generating Station,Q1516283,30.384999999999998
+Q1739500,Wylfa Nuclear Power Station,Q1739500,30.384999999999998
+Q928750,Duane Arnold Energy Center,Q928750,30.325000000000003
+Q522938,Enrico Fermi Nuclear Generating Station,Q522938,30.035000000000004
+Q686800,Beznau Nuclear Power Plant,Q686800,29.985
+Q828534,Winfrith,Q828534,29.685000000000002
+Q909477,Zaporizhzhia Nuclear Power Plant,Q909477,29.564999999999998
+Q707536,Longmen Nuclear Power Plant,Q707536,29.56
+Q1765322,Hinkley Point A nuclear power station,Q1765322,29.47500000000001
+Q1739399,Doel Nuclear Power Station,Q1739399,29.42
+Q1519910,Taishan Nuclear Power Plant,Q1519910,28.695
+Q55063313,Sizewell C nuclear power station,Q55063313,28.685
+Q1568903,Shearon Harris Nuclear Power Plant,Q1568903,28.37
+Q211150,Bradwell nuclear power station,Q211150,27.654999999999998
+Q1514659,Kewaunee Power Station,Q1514659,27.480000000000004
+Q1739379,Clinton Nuclear Generating Station,Q1739379,27.429999999999996
+Q686931,Mühleberg Nuclear Power Plant,Q686931,27.080000000000002
+Q1739389,Superphénix,Q1739389,26.705000000000002
+Q1493850,Callaway Energy Center,Q1493850,26.675
+Q82404,Chashma Nuclear Power Complex,Q82404,26.540000000000006
+Q533357,Palisades Nuclear Generating Station,Q533357,26.380000000000003
+Q1536186,Pilgrim Nuclear Generating Station,Q1536186,26.22
+Q847687,Ignalina Nuclear Power Plant,Q847687,26.17
+Q586892,Fuqing Nuclear Power Plant,Q586892,26.05
+Q3664616,Levy County Nuclear Power Plant,Q3664616,26.05
+Q2944613,Prairie Island Nuclear Power Plant,Q2944613,26.009999999999998
+Q841463,Yankee Rowe Nuclear Power Station,Q841463,25.995
+Q1630042,Akkuyu Nuclear Power Plant,Q1630042,25.835000000000004
+Q969222,Perry Nuclear Generating Station,Q969222,25.82
+Q1739383,Cooper Nuclear Station,Q1739383,25.725
+Q605091,Donald C. Cook Nuclear Generating Station,Q605091,25.44
+Q1516618,Columbia Generating Station,Q1516618,25.424999999999997
+Q525334,Trawsfynydd nuclear power station,Q525334,25.4
+Q1536231,Point Beach Nuclear Plant,Q1536231,25.310000000000002
+Q1537026,Monticello Nuclear Generating Plant,Q1537026,25.159999999999997
+Q1517795,Catawba Nuclear Station,Q1517795,25.115
+Q5197089,Saxton Nuclear Generating Station,Q5197089,25.07
+Q1535402,Peach Bottom Nuclear Generating Station,Q1535402,25.025
+Q985274,Arkansas Nuclear One,Q985274,24.965
+Q1432276,Comanche Peak Nuclear Power Plant,Q1432276,24.950000000000003
+Q2944614,Quad Cities Nuclear Generating Station,Q2944614,24.93
+Q1391137,Point Lepreau Nuclear Generating Station,Q1391137,24.885
+Q536084,Obrigheim Nuclear Power Plant,Q536084,24.830000000000002
+Q390252,Flamanville Nuclear Power Plant,Q390252,24.810000000000002
+Q571906,Grand Gulf Nuclear Generating Station,Q571906,24.779999999999998
+Q7380438,Rooppur Nuclear Power Plant,Q7380438,24.735
+Q611354,Susquehanna Steam Electric Station,Q611354,24.655
+Q5944807,Hunterston A nuclear power station,Q5944807,24.605
+Q1426933,Oconee Nuclear Station,Q1426933,24.47
+Q1516266,Limerick Nuclear Power Plant,Q1516266,24.345
+Q1535057,Salem Nuclear Power Plant,Q1535057,24.34
+Q1739457,WNP-3 and WNP-5,Q1739457,24.284999999999997
+Q1516276,Hope Creek Nuclear Generating Station,Q1516276,24.07
+Q738945,Tōkai Nuclear Power Plant,Q738945,24.049999999999997
+Q290561,River Bend Nuclear Generating Station,Q290561,23.965
+Q1029375,Yangjiang Nuclear Power Station,Q1029375,23.924999999999997
+Q674107,Braidwood Nuclear Generating Station,Q674107,23.92
+Q1739385,Crystal River 3 Nuclear Power Plant,Q1739385,23.855000000000004
+Q1567468,Surry Nuclear Power Plant,Q1567468,23.85
+Q1595271,Berkeley nuclear power station,Q1595271,23.68
+Q839256,Zion Nuclear Power Station,Q839256,23.585
+Q7639757,Sundesert Nuclear Power Plant,Q7639757,23.369999999999997
+Q657029,Gundremmingen Nuclear Power Plant,Q657029,23.200000000000003
+Q24068,McGuire Nuclear Station,Q24068,23.200000000000003
+Q154006,Tricastin nuclear power plant,Q154006,22.99
+Q1739494,Waterford Nuclear Generating Station,Q1739494,22.950000000000003
+Q1516539,Brunswick Nuclear Generating Station,Q1516539,22.945
+Q836576,H. B. Robinson Nuclear Generating Station,Q836576,22.840000000000003
+Q1739425,La Crosse Boiling Water Reactor,Q1739425,22.695
+Q1418603,LaSalle County Nuclear Generating Station,Q1418603,22.64
+Q687422,Gösgen Nuclear Power Plant,Q687422,22.625
+Q1579871,St. Lucie Nuclear Power Plant,Q1579871,22.505
+Q4883120,Bell Bend Nuclear Power Plant,Q4883120,22.33
+Q1739478,Tianwan Nuclear Power Plant,Q1739478,22.32
+Q163911,Wolf Creek Generating Station,Q163911,22.285
+Q1517424,Joseph M. Farley Nuclear Generating Station,Q1517424,22.205
+Q1516627,Maine Yankee Nuclear Power Plant,Q1516627,21.995
+Q1735267,Beaver Valley Nuclear Generating Station,Q1735267,21.950000000000003
+Q28854324,Blue Castle Project,Q28854324,21.895
+Q1029398,Sanmen Nuclear Power Station,Q1029398,21.79
+Q1623116,Tsuruga Nuclear Power Plant,Q1623116,21.730000000000004
+Q1516337,Edwin I. Hatch Nuclear Power Plant,Q1516337,21.71
+Q836568,Big Rock Point Nuclear Power Plant,Q836568,21.71
+Q1739404,Hallam Nuclear Generating Station,Q1739404,21.555000000000003
+Q1739422,Kaliningrad Nuclear Power Plant,Q1739422,21.525
+Q1739439,Ling Ao Nuclear Power Plant,Q1739439,21.5
+Q850462,Piqua Nuclear Generating Station,Q850462,21.474999999999998
+Q97585855,Bradwell B nuclear power station,Q97585855,21.43
+Q995979,Hamaoka Nuclear Power Plant,Q995979,21.349999999999998
+Q250830,Rajasthan Atomic Power Station,Q250830,21.299999999999997
+Q3279825,Leningrad Nuclear Power Plant,Q3279825,21.23
+Q1739475,Tarapur Atomic Power Station,Q1739475,21.1
+Q5092188,Cherokee Nuclear Power Plant,Q5092188,21.019999999999996
+Q566211,THTR-300,Q566211,21.0
+Q1739396,Elk River Station,Q1739396,20.985
+Q1483977,Qinshan Nuclear Power Plant,Q1483977,20.91
+Q836572,Vallecitos Nuclear Center,Q836572,20.85
+Q1248956,Cernavodă Nuclear Power Plant,Q1248956,20.53
+Q1739481,Tihange Nuclear Power Station,Q1739481,20.474999999999998
+Q3664606,William States Lee III Nuclear Generating Station,Q3664606,20.33
+Q14159771,Shidao Bay Nuclear Power Plant,Q14159771,20.325
+Q655384,Humboldt Bay Nuclear Power Plant,Q655384,20.28
+Q1575435,Forsmark Nuclear Power Plant,Q1575435,20.1
+Q1739415,Kakrapar Atomic Power Station,Q1739415,19.93
+Q575633,Connecticut Yankee Nuclear Power Plant,Q575633,19.915000000000003
+Q384685,Mihama Nuclear Power Plant,Q384685,19.689999999999998
+Q1739453,Obninsk Nuclear Power Plant,Q1739453,19.625
+Q1371612,Cattenom Nuclear Power Plant,Q1371612,19.395
+Q1735730,Sendai Nuclear Power Plant,Q1735730,18.995
+Q644493,Saint-Laurent Nuclear Power Plant,Q644493,18.995
+Q1633906,Ōi Nuclear Power Plant,Q1633906,18.904999999999998
+Q205774,Ringhals Nuclear Power Plant,Q205774,18.86
+Q132171,Hongyanhe Nuclear Power Plant,Q132171,18.84
+Q5469815,Forked River Nuclear Power Plant,Q5469815,18.784999999999997
+Q2944609,Pathfinder Nuclear Generating Station,Q2944609,18.705
+Q1029384,Haiyang Nuclear Power Plant,Q1029384,18.439999999999998
+Q1353243,Darkhovin Nuclear Power Plant,Q1353243,18.41
+Q1739363,Blayais Nuclear Power Plant,Q1739363,18.320000000000004
+Q452789,SNR-300,Q452789,18.270000000000003
+Q1502091,Temelín Nuclear Power Station,Q1502091,18.25
+Q1186009,Bugey Nuclear Power Plant,Q1186009,17.835
+Q1739416,Kaiga Atomic Power Station..,Q1739416,17.705000000000002
+Q1188635,Paks Nuclear Power Plant,Q1188635,17.564999999999998
+Q1739407,Gravelines Nuclear Power Station,Q1739407,17.459999999999997
+Q835447,Ningde Nuclear Power Plant,Q835447,17.385
+Q712797,Maanshan Nuclear Power Plant,Q712797,17.365000000000002
+Q1201465,Ikata Nuclear Power Plant,Q1201465,17.345
+Q1715858,Cofrentes Nuclear Power Plant,Q1715858,17.314999999999998
+Q136274,Changjiang Nuclear Power Plant,Q136274,17.11
+Q1513575,Genkai Nuclear Power Plant,Q1513575,16.915000000000003
+Q835791,Novovoronezh Nuclear Power Plant II,Q835791,16.915000000000003
+Q1318977,Penly Nuclear Power Plant,Q1318977,16.895
+Q1739377,Chooz Nuclear Power Plant,Q1739377,16.814999999999998
+Q7441789,Sears Isle Nuclear Power Plant,Q7441789,16.790000000000003
+Q1739375,Civaux Nuclear Power Plant,Q1739375,16.615
+Q1032792,Kozloduy Nuclear Power Plant,Q1032792,16.56
+Q113368,Phénix,Q113368,16.44
+Q367676,Tomari Nuclear Power Plant,Q367676,16.439999999999998
+Q288334,Cruas Nuclear Power Plant,Q288334,16.41
+Q300178,AVR reactor,Q300178,16.35
+Q1111040,Gentilly Nuclear Generating Station,Q1111040,16.115
+Q135679,Fangchenggang Nuclear Power Plant,Q135679,16.05
+Q94805,Biblis Nuclear Power Plant,Q94805,15.86
+Q3664614,Gorakhpur Nuclear Power Plant,Q3664614,15.740000000000002
+Q679563,Brokdorf Nuclear Power Plant,Q679563,15.67
+Q711929,Kuosheng Nuclear Power Plant,Q711929,15.630000000000003
+Q1739359,Beloyarsk Nuclear Power Station,Q1739359,15.625
+Q1489205,Brennilis Nuclear Power Plant,Q1489205,15.620000000000003
+Q281837,Leibstadt Nuclear Power Plant,Q281837,15.485000000000003
+Q535990,Stade Nuclear Power Plant,Q535990,15.46
+Q1530519,Paluel Nuclear Power Plant,Q1530519,15.450000000000001
+Q28223974,Xudabao Nuclear Power Plant,Q28223974,15.379999999999999
+Q1739508,Ågesta Nuclear Plant,Q1739508,15.3
+Q19959586,Barakah nuclear power plant,Q19959586,15.254999999999999
+Q703271,Krümmel Nuclear Power Plant,Q703271,15.21
+Q1465285,Golfech Nuclear Power Plant,Q1465285,15.15
+Q1735581,Chinon Nuclear Power Plant,Q1735581,15.079999999999998
+Q2409863,Saint-Alban Nuclear Power Plant,Q2409863,15.035
+Q2008105,Higashidōri Nuclear Power Plant,Q2008105,15.01
+Q1840807,China Experimental Fast Reactor,Q1840807,14.719999999999999
+Q1557429,Takahama Nuclear Power Plant,Q1557429,14.575000000000001
+Q1645882,Belleville Nuclear Power Plant,Q1645882,14.57
+Q1640751,Kola Nuclear Power Plant,Q1640751,14.55
+Q1312991,Narora Atomic Power Station,Q1312991,14.504999999999999
+Q1029360,Fangjiashan Nuclear Power Plant,Q1029360,14.42
+Q891025,BONUS Reactor Facility,Q891025,14.344999999999999
+Q1739448,Novovoronezh Nuclear Power Plant,Q1739448,14.235
+Q1756456,Atucha Nuclear Power Plant,Q1756456,14.21
+Q1471555,Nogent Nuclear Power Plant,Q1471555,14.21
+Q535877,Lingen Nuclear Power Plant,Q535877,14.165
+Q1500817,Fugen Nuclear Power Plant,Q1500817,14.165
+Q1739436,Kursk Nuclear Power Plant,Q1739436,14.14
+Q672931,Shika Nuclear Power Plant,Q672931,14.089999999999998
+Q302114,Neckarwestheim Nuclear Power Plant,Q302114,14.06
+Q135639,Xianning Nuclear Power Plant,Q135639,14.030000000000001
+Q918661,Dampierre Nuclear Power Plant,Q918661,13.995
+Q704293,Brunsbüttel Nuclear Power Plant,Q704293,13.879999999999999
+Q1431041,Almaraz Nuclear Power Plant,Q1431041,13.67
+Q946530,Douglas Point Nuclear Generating Station,Q946530,13.66
+Q712574,Jinshan Nuclear Power Plant,Q712574,13.545
+Q1739356,Balakovo Nuclear Power Plant,Q1739356,13.504999999999999
+Q1739471,Shimane Nuclear Power Plant,Q1739471,13.485
+Q1739474,Smolensk Nuclear Power Plant,Q1739474,13.415000000000001
+Q1000969,Jervis Bay Nuclear Power Plant proposal,Q1000969,13.255000000000003
+Q935091,Ōma Nuclear Power Plant,Q935091,13.205000000000002
+Q30894419,Zhangzhou Nuclear Power Plant,Q30894419,12.990000000000002
+Q543712,Mülheim-Kärlich Nuclear Power Plant,Q543712,12.925
+Q743467,Hanhikivi Nuclear Power Plant,Q743467,12.850000000000001
+Q85764720,Guangxi Bailong Nuclear Power Project,Q85764720,12.765
+Q112150280,San'ao Nuclear Power Plant,Q112150280,12.54
+Q1753259,Calder Hall,Q1753259,12.375
+Q85860592,Taipingling Nuclear Power Plant,Q85860592,12.305000000000001
+Q688190,Emsland Nuclear Power Plant,Q688190,12.28
+Q1739463,Rostov Nuclear Power Plant,Q1739463,12.24
+Q1539046,Oskarshamn Nuclear Power Plant,Q1539046,12.225
+Q655947,Greifswald Nuclear Power Plant,Q655947,12.175
+Q3367024,Namie-Odaka Nuclear Power Plant,Q3367024,12.030000000000001
+Q13220866,Sinop Nuclear Power Plant,Q13220866,11.82
+Q948689,Nuclear Power Demonstration,Q948689,11.785
+Q30083718,El Dabaa Nuclear Power Plant,Q30083718,11.719999999999999
+Q301915,Rivne Nuclear Power Plant,Q301915,11.695
+Q474478,Krško Nuclear Power Plant,Q474478,11.685
+Q1695264,Santa María de Garoña Nuclear Power Plant,Q1695264,11.685
+Q486898,Kori Nuclear Power Plant,Q486898,11.655
+Q1739418,Kalinin Nuclear Power Plant,Q1739418,11.605
+Q569510,Isar Nuclear Power Plant,Q569510,11.450000000000001
+Q1561460,José Cabrera Nuclear Power Station,Q1561460,11.4
+Q3664613,Kovvada Atomic Power Project,Q3664613,11.39
+Q48795655,Geregu nuclear power plant,Q48795655,11.21
+Q507704,Vandellòs Nuclear Power Plant,Q507704,11.12
+Q186223,South Ukraine Nuclear Power Plant,Q186223,11.035
+Q48795688,Itu nuclear power plant,Q48795688,11.030000000000001
+Q1520384,Lemoniz Nuclear Power Plant,Q1520384,10.93
+Q597821,Embalse Nuclear Power Station,Q597821,10.8
+Q1037144,Khmelnytskyi Nuclear Power Plant,Q1037144,10.75
+Q484896,Wolseong Nuclear Power Plant,Q484896,10.71
+Q1085951,Mochovce Nuclear Power Plant,Q1085951,10.674999999999999
+Q24949566,Chutka Nuclear Power Plant,Q24949566,10.585
+Q740586,Angra Nuclear Power Plant,Q740586,10.505
+Q656869,Grafenrheinfeld Nuclear Power Plant,Q656869,10.375
+Q1640098,Ascó Nuclear Power Plant,Q1640098,10.355
+Q687033,Dukovany Nuclear Power Station,Q687033,10.270000000000001
+Q1739484,Trillo Nuclear Power Plant,Q1739484,10.030000000000001
+Q657018,Grohnde Nuclear Power Plant,Q657018,9.915000000000001
+Q1537471,Visaginas Nuclear Power Plant,Q1537471,9.850000000000001
+Q839585,Sibirskaya Nuclear Power Plant,Q839585,9.63
+Q656534,Barsebäck Nuclear Power Plant,Q656534,9.375
+Q496248,Hanul Nuclear Power Plant,Q496248,9.36
+Q883247,Niederaichbach nuclear power station,Q883247,9.275
+Q569525,Philippsburg Nuclear Power Plant,Q569525,9.26
+Q4515680,Chyhyryn Nuclear Power Plant,Q4515680,9.24
+Q1061884,Loviisa Nuclear Power Plant,Q1061884,9.075000000000001
+Q1381790,Borssele Nuclear Power Station,Q1381790,8.9
+Q543775,Rheinsberg Nuclear Power Plant,Q543775,8.764999999999999
+Q1480246,Kaiseraugst Nuclear Power Plant,Q1480246,8.705
+Q655061,Unterweser Nuclear Power Plant,Q655061,8.645000000000001
+Q1121496,Crimean Atomic Energy Station,Q1121496,8.6
+Q1739429,Latina Nuclear Power Plant,Q1739429,8.215
+Q371499,Laguna Verde Nuclear Power Station,Q371499,8.045
+Q1739488,Valdecaballeros Nuclear Power Plant,Q1739488,7.994999999999999
+Q473952,Kahl Nuclear Power Plant,Q473952,7.825
+Q496260,Hanbit Nuclear Power Plant,Q496260,7.785000000000001
+Q318042,Großwelzheim Nuclear Power Plant,Q318042,7.03
+Q2092357,Soreq Nuclear Research Center,Q2092357,7.0
+Q833602,Bohunice Nuclear Power Plant,Q833602,6.6000000000000005
+Q1724901,Garigliano Nuclear Power Plant,Q1724901,6.390000000000001
+Q593463,Zwentendorf Nuclear Power Plant,Q593463,6.39
+Q615128,Montalto di Castro Nuclear Power Station,Q615128,6.345000000000001
+Q663406,Niederamt Nuclear Power Plant,Q663406,6.235
+Q1739370,Caorso Nuclear Power Plant,Q1739370,6.185
+Q117848044,Haripur Nuclear Power Plant,Q117848044,5.99
+Q575275,Dodewaard nuclear power plant,Q575275,5.9
+Q1626301,Enrico Fermi Nuclear Power Plant,Q1626301,5.745
+Q7038783,Ninh Thuận 2 Nuclear Power Plant,Q7038783,4.465
+Q4357537,R4 nuclear reactor,Q4357537,4.36
+Q25384399,Sidi Boulbra,Q25384399,4.089999999999999
+Q1528979,CIRENE,Q1528979,3.0549999999999997
+Q104946709,Sizewell B power station,Q104946709,1.62
+Q323216,Würgassen Nuclear Power Plant,Q323216,1.615
+Q54296442,Hinkley Point nuclear power stations,Q54296442,1.5350000000000001
+Q104946950,Dungeness B power station,Q104946950,1.52
+Q104946808,Heysham 2 power station,Q104946808,1.4300000000000002
+Q11527936,Tokai Power Station,Q11527936,1.335
+Q1739355,Bashkir Nuclear Power Station,Q1739355,1.33
+Q15116524,,Q15116524,1.33
+Q104946799,Heysham 1 power station,Q104946799,1.2400000000000002
+Q1739434,Leningrad Nuclear Power Plant II,Q1739434,1.14
+Q21777235,Tokai No.2 Power Station,Q21777235,1.05
+Q3664630,,Q3664630,1.05
+Q870170,Mehrzweckforschungsreaktor Karlsruhe,Q870170,1.045
+Q1739493,Wyhl nuclear power station,Q1739493,1.045
+Q2944616,,Q2944616,1.045
+Q16698859,Smolensk Nuclear Power Plant II,Q16698859,0.9550000000000001
+Q60851209,Nuclear power plant in the Jizzakh region of Uzbekistan,Q60851209,0.9500000000000001
+Q1739468,South Ural Nuclear Power Station,Q1739468,0.9500000000000001
+Q1739403,,Q1739403,0.9500000000000001
+Q5760816,Central Nuclear de Moral de Sayago,Q5760816,0.855
+Q3664619,Nizhegorodsk Nuclear Power Plant,Q3664619,0.855
+Q92584370,,Q92584370,0.855
+Q3664615,Kursk Nuclear Power Plant 2,Q3664615,0.855
+Q3664612,Kola Nuclear Power Plant II,Q3664612,0.855
+Q870534,,Q870534,0.855
+Q19950917,Erdeven nuclear power project,Q19950917,0.765
+Q9252499,"""Warta"" Nuclear Power Plant",Q9252499,0.76
+Q4342936,Pamir-630D,Q4342936,0.76
+Q13101619,Remerschen nuclear power station,Q13101619,0.76
+Q2825920,Plogoff nuclear power project,Q2825920,0.76
+Q989879,Shin Kori Nuclear Power Plant,Q989879,0.76
+Q2366994,Carnet nuclear power project,Q2366994,0.76
+Q13419743,Bohunice A1 Nuclear Power Plant,Q13419743,0.6699999999999999
+Q17012735,Sanba Nuclear Power Plant,Q17012735,0.665
+Q11360506,Kaminoseki Nuclear Power Plant,Q11360506,0.665
+Q11614891,,Q11614891,0.665
+Q115941522,,Q115941522,0.665
+Q92584373,Blahutovice Nuclear Powerstation,Q92584373,0.665
+Q28409026,Xiapu Nuclear Power Plant,Q28409026,0.665
+Q109377736,San'ao nuclear power plant,Q109377736,0.665
+Q3979513,TES-3,Q3979513,0.57
+Q3664625,Shin Hanul Nuclear Power Plant,Q3664625,0.57
+Q2944606,Pengze Nuclear Power Plant,Q2944606,0.57
+Q11369655,,Q11369655,0.57
+Q115100127,Gentilly-2 Generating Station,Q115100127,0.57
+Q15938258,Nanyang Nuclear Power Plant,Q15938258,0.57
+Q1566977,,Q1566977,0.57
+Q24862545,,Q24862545,0.47500000000000003
+Q24861532,,Q24861532,0.47500000000000003
+Q30899943,,Q30899943,0.47500000000000003
+Q17224591,,Q17224591,0.47500000000000003
+Q3664621,Lufeng Nuclear Power Plant,Q3664621,0.47500000000000003
+Q24862576,,Q24862576,0.47500000000000003
+Q3664623,,Q3664623,0.47500000000000003
+Q28418076,Lufeng Nuclear Power Plant,Q28418076,0.47500000000000003
+Q3664617,Mithi Virdi Nuclear Power Plant,Q3664617,0.47500000000000003
+Q3664611,,Q3664611,0.47500000000000003
+Q3664533,,Q3664533,0.47500000000000003
+Q3664633,,Q3664633,0.47500000000000003
+Q24861835,,Q24861835,0.47500000000000003
+Q3664610,Hongshiding Nuclear Power Plant,Q3664610,0.47500000000000003
+Q30894437,Sanming Nuclear Power Plant,Q30894437,0.47500000000000003
+Q123393,Shin Wolsong Nuclear Power Plant,Q123393,0.47500000000000003
+Q17017842,Jiamusi Nuclear Power Plant,Q17017842,0.47500000000000003
+Q3664628,Taohuajiang Nuclear Power Plant,Q3664628,0.47500000000000003
+Q104946958,Dungeness A power station,Q104946958,0.47500000000000003
+Q24860756,,Q24860756,0.47500000000000003
+Q24861291,,Q24861291,0.47500000000000003
+Q111128523,,Q111128523,0.38
+Q3664629,,Q3664629,0.38
+Q30894423,,Q30894423,0.38
+Q118877142,Central Nuclear de Ferrel,Q118877142,0.38
+Q30894434,,Q30894434,0.38
+Q3664609,,Q3664609,0.38
+Q108904470,Warta-Klempic Nuclear Power Station,Q108904470,0.38
+Q17762235,,Q17762235,0.38
+Q11573334,,Q11573334,0.38
+Q3664632,,Q3664632,0.38
+Q17764341,,Q17764341,0.38
+Q3664618,,Q3664618,0.38
+Q1124801,,Q1124801,0.38
+Q5760813,,Q5760813,0.38
+Q48838058,,Q48838058,0.38
+Q110259610,İğneada Nuclear Power Plant,Q110259610,0.285

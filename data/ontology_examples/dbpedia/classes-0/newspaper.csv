@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/The_New_York_Times,The New York Times,http://dbpedia.org/resource/The_New_York_Times,1585.77
+http://dbpedia.org/resource/The_Guardian,The Guardian,http://dbpedia.org/resource/The_Guardian,882.2850000000001
+http://dbpedia.org/resource/Los_Angeles_Times,Los Angeles Times,http://dbpedia.org/resource/Los_Angeles_Times,563.495
+http://dbpedia.org/resource/The_London_Gazette,The London Gazette,http://dbpedia.org/resource/The_London_Gazette,497.6650000000001
+http://dbpedia.org/resource/The_Washington_Post,The Washington Post,http://dbpedia.org/resource/The_Washington_Post,475.0900000000001
+http://dbpedia.org/resource/The_Times,The Times,http://dbpedia.org/resource/The_Times,358.85
+http://dbpedia.org/resource/USA_Today,USA Today,http://dbpedia.org/resource/USA_Today,351.09
+http://dbpedia.org/resource/The_Daily_Telegraph,The Daily Telegraph,http://dbpedia.org/resource/The_Daily_Telegraph,332.16
+http://dbpedia.org/resource/The_Times_of_India,The Times of India,http://dbpedia.org/resource/The_Times_of_India,326.59
+http://dbpedia.org/resource/Chicago_Tribune,Chicago Tribune,http://dbpedia.org/resource/Chicago_Tribune,293.055
+http://dbpedia.org/resource/The_Independent,The Independent,http://dbpedia.org/resource/The_Independent,290.38000000000005
+http://dbpedia.org/resource/The_Wall_Street_Journal,The Wall Street Journal,http://dbpedia.org/resource/The_Wall_Street_Journal,261.565
+http://dbpedia.org/resource/The_Hindu,The Hindu,http://dbpedia.org/resource/The_Hindu,256.59000000000003
+http://dbpedia.org/resource/The_Boston_Globe,The Boston Globe,http://dbpedia.org/resource/The_Boston_Globe,213.38
+http://dbpedia.org/resource/The_A.V._Club,The A.V. Club,http://dbpedia.org/resource/The_A.V._Club,191.8
+http://dbpedia.org/resource/Daily_Mail,Daily Mail,http://dbpedia.org/resource/Daily_Mail,190.41500000000002
+http://dbpedia.org/resource/Adevărul,Adevărul,http://dbpedia.org/resource/Adevărul,188.955
+http://dbpedia.org/resource/The_Washington_Times,The Washington Times,http://dbpedia.org/resource/The_Washington_Times,188.725
+http://dbpedia.org/resource/The_Sydney_Morning_Herald,The Sydney Morning Herald,http://dbpedia.org/resource/The_Sydney_Morning_Herald,186.50500000000002
+http://dbpedia.org/resource/Financial_Times,Financial Times,http://dbpedia.org/resource/Financial_Times,174.735
+http://dbpedia.org/resource/Daily_Maverick,Daily Maverick,http://dbpedia.org/resource/Daily_Maverick,174.26
+http://dbpedia.org/resource/New_York_Post,New York Post,http://dbpedia.org/resource/New_York_Post,166.32000000000005
+http://dbpedia.org/resource/Wits_Vuvuzela,Wits Vuvuzela,http://dbpedia.org/resource/Wits_Vuvuzela,163.185
+http://dbpedia.org/resource/Mayihlome_News,Mayihlome News,http://dbpedia.org/resource/Mayihlome_News,162.575
+http://dbpedia.org/resource/Sunday_Times_(South_Africa),Sunday Times (South Africa),http://dbpedia.org/resource/Sunday_Times_(South_Africa),160.87
+http://dbpedia.org/resource/The_Star_(South_Africa),The Star (South Africa),http://dbpedia.org/resource/The_Star_(South_Africa),160.14
+http://dbpedia.org/resource/Beeld,Beeld,http://dbpedia.org/resource/Beeld,158.535
+http://dbpedia.org/resource/City_Press_(South_Africa),City Press (South Africa),http://dbpedia.org/resource/City_Press_(South_Africa),158.41
+http://dbpedia.org/resource/The_New_Age_(South_African_newspaper),The New Age (South African newspaper),http://dbpedia.org/resource/The_New_Age_(South_African_newspaper),157.06
+http://dbpedia.org/resource/Daily_Sun_(South_Africa),Daily Sun (South Africa),http://dbpedia.org/resource/Daily_Sun_(South_Africa),157.045
+http://dbpedia.org/resource/The_Sunday_Independent_(South_Africa),The Sunday Independent (South Africa),http://dbpedia.org/resource/The_Sunday_Independent_(South_Africa),155.9
+http://dbpedia.org/resource/Românul,Românul,http://dbpedia.org/resource/Românul,155.32500000000002
+http://dbpedia.org/resource/The_Sowetan,The Sowetan,http://dbpedia.org/resource/The_Sowetan,155.19000000000003
+http://dbpedia.org/resource/Rapport_(newspaper),Rapport (newspaper),http://dbpedia.org/resource/Rapport_(newspaper),154.115
+http://dbpedia.org/resource/Mail_&_Guardian,Mail & Guardian,http://dbpedia.org/resource/Mail_&_Guardian,153.9
+http://dbpedia.org/resource/Business_Day_(South_Africa),Business Day (South Africa),http://dbpedia.org/resource/Business_Day_(South_Africa),153.03000000000003
+http://dbpedia.org/resource/The_Citizen_(South_African_newspaper),The Citizen (South African newspaper),http://dbpedia.org/resource/The_Citizen_(South_African_newspaper),152.545
+http://dbpedia.org/resource/TimesLIVE,TimesLIVE,http://dbpedia.org/resource/TimesLIVE,152.23499999999999
+http://dbpedia.org/resource/Daily_Express,Daily Express,http://dbpedia.org/resource/Daily_Express,152.23
+http://dbpedia.org/resource/The_South_African,The South African,http://dbpedia.org/resource/The_South_African,151.41
+http://dbpedia.org/resource/Jewish_Report,Jewish Report,http://dbpedia.org/resource/Jewish_Report,151.29
+http://dbpedia.org/resource/The_Economist,The Economist,http://dbpedia.org/resource/The_Economist,145.48499999999999
+http://dbpedia.org/resource/The_Irish_Times,The Irish Times,http://dbpedia.org/resource/The_Irish_Times,144.33
+http://dbpedia.org/resource/The_Oregonian,The Oregonian,http://dbpedia.org/resource/The_Oregonian,141.38
+http://dbpedia.org/resource/Daily_Mirror,Daily Mirror,http://dbpedia.org/resource/Daily_Mirror,141.33
+http://dbpedia.org/resource/Das_Schwarze_Korps,Das Schwarze Korps,http://dbpedia.org/resource/Das_Schwarze_Korps,139.0
+http://dbpedia.org/resource/The_Sunday_Times,The Sunday Times,http://dbpedia.org/resource/The_Sunday_Times,136.85999999999999
+http://dbpedia.org/resource/Toronto_Star,Toronto Star,http://dbpedia.org/resource/Toronto_Star,136.18500000000003
+http://dbpedia.org/resource/The_Philadelphia_Inquirer,The Philadelphia Inquirer,http://dbpedia.org/resource/The_Philadelphia_Inquirer,134.82000000000002
+http://dbpedia.org/resource/Chicago_Sun-Times,Chicago Sun-Times,http://dbpedia.org/resource/Chicago_Sun-Times,134.42000000000002
+http://dbpedia.org/resource/The_Globe_and_Mail,The Globe and Mail,http://dbpedia.org/resource/The_Globe_and_Mail,133.195
+http://dbpedia.org/resource/Pravda,Pravda,http://dbpedia.org/resource/Pravda,130.155
+http://dbpedia.org/resource/The_Onion,The Onion,http://dbpedia.org/resource/The_Onion,127.98
+http://dbpedia.org/resource/The_Observer,The Observer,http://dbpedia.org/resource/The_Observer,127.77000000000001
+http://dbpedia.org/resource/The_Age,The Age,http://dbpedia.org/resource/The_Age,127.40500000000003
+http://dbpedia.org/resource/Acta_Apostolicae_Sedis,Acta Apostolicae Sedis,http://dbpedia.org/resource/Acta_Apostolicae_Sedis,126.73
+http://dbpedia.org/resource/An_Phoblacht,An Phoblacht,http://dbpedia.org/resource/An_Phoblacht,126.13499999999999
+http://dbpedia.org/resource/Je_suis_partout,Je suis partout,http://dbpedia.org/resource/Je_suis_partout,122.38999999999999
+http://dbpedia.org/resource/The_Hill_(newspaper),The Hill (newspaper),http://dbpedia.org/resource/The_Hill_(newspaper),120.63
+http://dbpedia.org/resource/News_of_the_World,News of the World,http://dbpedia.org/resource/News_of_the_World,118.13500000000002
+http://dbpedia.org/resource/China_Daily,China Daily,http://dbpedia.org/resource/China_Daily,110.17000000000002
+http://dbpedia.org/resource/Miami_Herald,Miami Herald,http://dbpedia.org/resource/Miami_Herald,108.80000000000001
+http://dbpedia.org/resource/Il_Popolo_d'Italia,Il Popolo d'Italia,http://dbpedia.org/resource/Il_Popolo_d'Italia,108.58500000000002
+http://dbpedia.org/resource/Dainik_Jagran,Dainik Jagran,http://dbpedia.org/resource/Dainik_Jagran,108.25499999999998
+http://dbpedia.org/resource/Global_Times,Global Times,http://dbpedia.org/resource/Global_Times,107.785
+http://dbpedia.org/resource/Houston_Chronicle,Houston Chronicle,http://dbpedia.org/resource/Houston_Chronicle,106.67500000000001
+http://dbpedia.org/resource/The_Australian,The Australian,http://dbpedia.org/resource/The_Australian,106.14500000000001
+http://dbpedia.org/resource/San_Francisco_Chronicle,San Francisco Chronicle,http://dbpedia.org/resource/San_Francisco_Chronicle,103.53500000000003
+http://dbpedia.org/resource/Billboard_K-Town,Billboard K-Town,http://dbpedia.org/resource/Billboard_K-Town,103.4
+http://dbpedia.org/resource/Daily_Collegian,Daily Collegian,http://dbpedia.org/resource/Daily_Collegian,102.535
+http://dbpedia.org/resource/New_York_Daily_News,New York Daily News,http://dbpedia.org/resource/New_York_Daily_News,102.235
+http://dbpedia.org/resource/Metro_(British_newspaper),Metro (British newspaper),http://dbpedia.org/resource/Metro_(British_newspaper),97.44000000000001
+http://dbpedia.org/resource/The_Epoch_Times,The Epoch Times,http://dbpedia.org/resource/The_Epoch_Times,96.695
+http://dbpedia.org/resource/The_Musalman,The Musalman,http://dbpedia.org/resource/The_Musalman,96.64
+http://dbpedia.org/resource/The_Baltimore_Sun,The Baltimore Sun,http://dbpedia.org/resource/The_Baltimore_Sun,96.17000000000002
+http://dbpedia.org/resource/South_China_Morning_Post,South China Morning Post,http://dbpedia.org/resource/South_China_Morning_Post,95.53
+http://dbpedia.org/resource/Berliner_Journal,Berliner Journal,http://dbpedia.org/resource/Berliner_Journal,95.15
+http://dbpedia.org/resource/Madras_Musings,Madras Musings,http://dbpedia.org/resource/Madras_Musings,93.56
+http://dbpedia.org/resource/Haaretz,Haaretz,http://dbpedia.org/resource/Haaretz,93.09000000000002
+http://dbpedia.org/resource/The_Indian_Express,The Indian Express,http://dbpedia.org/resource/The_Indian_Express,92.66
+http://dbpedia.org/resource/Evening_Standard,Evening Standard,http://dbpedia.org/resource/Evening_Standard,92.57000000000001
+http://dbpedia.org/resource/The_Village_Voice,The Village Voice,http://dbpedia.org/resource/The_Village_Voice,91.08999999999999
+http://dbpedia.org/resource/Irish_Independent,Irish Independent,http://dbpedia.org/resource/Irish_Independent,88.08500000000001
+http://dbpedia.org/resource/The_Cincinnati_Enquirer,The Cincinnati Enquirer,http://dbpedia.org/resource/The_Cincinnati_Enquirer,87.98000000000002
+http://dbpedia.org/resource/The_Concrete_Herald,The Concrete Herald,http://dbpedia.org/resource/The_Concrete_Herald,87.69999999999999
+http://dbpedia.org/resource/Charlie_Hebdo,Charlie Hebdo,http://dbpedia.org/resource/Charlie_Hebdo,87.57499999999999
+http://dbpedia.org/resource/Pittsburgh_Post-Gazette,Pittsburgh Post-Gazette,http://dbpedia.org/resource/Pittsburgh_Post-Gazette,87.325
+http://dbpedia.org/resource/The_Cincinnati_Post,The Cincinnati Post,http://dbpedia.org/resource/The_Cincinnati_Post,87.30000000000001
+http://dbpedia.org/resource/Official_Journal_of_the_European_Union,Official Journal of the European Union,http://dbpedia.org/resource/Official_Journal_of_the_European_Union,86.36
+http://dbpedia.org/resource/The_Daily_Telegraph_(Sydney),The Daily Telegraph (Sydney),http://dbpedia.org/resource/The_Daily_Telegraph_(Sydney),86.14
+http://dbpedia.org/resource/Hindustan_Times,Hindustan Times,http://dbpedia.org/resource/Hindustan_Times,86.12
+http://dbpedia.org/resource/Vatican_News,Vatican News,http://dbpedia.org/resource/Vatican_News,85.24000000000001
+http://dbpedia.org/resource/United_States_Statutes_at_Large,United States Statutes at Large,http://dbpedia.org/resource/United_States_Statutes_at_Large,85.01499999999999
+http://dbpedia.org/resource/The_Plain_Dealer,The Plain Dealer,http://dbpedia.org/resource/The_Plain_Dealer,84.93
+http://dbpedia.org/resource/L'Osservatore_Romano,L'Osservatore Romano,http://dbpedia.org/resource/L'Osservatore_Romano,83.60000000000001
+http://dbpedia.org/resource/The_Providence_Journal,The Providence Journal,http://dbpedia.org/resource/The_Providence_Journal,82.715
+http://dbpedia.org/resource/The_Advertiser_(Adelaide),The Advertiser (Adelaide),http://dbpedia.org/resource/The_Advertiser_(Adelaide),82.63
+http://dbpedia.org/resource/Detroit_Free_Press,Detroit Free Press,http://dbpedia.org/resource/Detroit_Free_Press,82.265
+http://dbpedia.org/resource/Deseret_News,Deseret News,http://dbpedia.org/resource/Deseret_News,82.06
+http://dbpedia.org/resource/The_Dallas_Morning_News,The Dallas Morning News,http://dbpedia.org/resource/The_Dallas_Morning_News,80.52499999999999
+http://dbpedia.org/resource/Irish_Examiner,Irish Examiner,http://dbpedia.org/resource/Irish_Examiner,78.915
+http://dbpedia.org/resource/The_Christian_Science_Monitor,The Christian Science Monitor,http://dbpedia.org/resource/The_Christian_Science_Monitor,78.29
+http://dbpedia.org/resource/The_Mercury_News,The Mercury News,http://dbpedia.org/resource/The_Mercury_News,76.28
+http://dbpedia.org/resource/The_West_Australian,The West Australian,http://dbpedia.org/resource/The_West_Australian,76.165
+http://dbpedia.org/resource/Seara_(newspaper),Seara (newspaper),http://dbpedia.org/resource/Seara_(newspaper),75.96499999999999
+http://dbpedia.org/resource/Milwaukee_Journal_Sentinel,Milwaukee Journal Sentinel,http://dbpedia.org/resource/Milwaukee_Journal_Sentinel,75.705
+http://dbpedia.org/resource/Republican_News,Republican News,http://dbpedia.org/resource/Republican_News,75.59500000000001
+http://dbpedia.org/resource/Europe-Action,Europe-Action,http://dbpedia.org/resource/Europe-Action,73.84000000000002
+http://dbpedia.org/resource/The_Press,The Press,http://dbpedia.org/resource/The_Press,73.415
+http://dbpedia.org/resource/The_Canberra_Times,The Canberra Times,http://dbpedia.org/resource/The_Canberra_Times,72.325
+http://dbpedia.org/resource/The_Liberator_(newspaper),The Liberator (newspaper),http://dbpedia.org/resource/The_Liberator_(newspaper),72.235
+http://dbpedia.org/resource/Orlando_Sentinel,Orlando Sentinel,http://dbpedia.org/resource/Orlando_Sentinel,71.98500000000001
+http://dbpedia.org/resource/The_Patriot_Ledger,The Patriot Ledger,http://dbpedia.org/resource/The_Patriot_Ledger,71.11
+http://dbpedia.org/resource/The_Oklahoman,The Oklahoman,http://dbpedia.org/resource/The_Oklahoman,70.52000000000001
+http://dbpedia.org/resource/The_Burlington_Free_Press,The Burlington Free Press,http://dbpedia.org/resource/The_Burlington_Free_Press,70.11
+http://dbpedia.org/resource/The_Columbus_Dispatch,The Columbus Dispatch,http://dbpedia.org/resource/The_Columbus_Dispatch,70.08500000000001
+http://dbpedia.org/resource/I_(newspaper),I (newspaper),http://dbpedia.org/resource/I_(newspaper),69.47000000000001
+http://dbpedia.org/resource/Boston_Herald,Boston Herald,http://dbpedia.org/resource/Boston_Herald,69.05
+http://dbpedia.org/resource/The_Argus_(Brighton),The Argus (Brighton),http://dbpedia.org/resource/The_Argus_(Brighton),68.98
+http://dbpedia.org/resource/Gazette_of_the_United_States,Gazette of the United States,http://dbpedia.org/resource/Gazette_of_the_United_States,68.705
+http://dbpedia.org/resource/Avanti!_(newspaper),Avanti! (newspaper),http://dbpedia.org/resource/Avanti!_(newspaper),68.255
+http://dbpedia.org/resource/The_Arizona_Republic,The Arizona Republic,http://dbpedia.org/resource/The_Arizona_Republic,67.415
+http://dbpedia.org/resource/Sunday_Mirror,Sunday Mirror,http://dbpedia.org/resource/Sunday_Mirror,67.215
+http://dbpedia.org/resource/The_Indianapolis_Star,The Indianapolis Star,http://dbpedia.org/resource/The_Indianapolis_Star,67.015
+http://dbpedia.org/resource/Janayugom,Janayugom,http://dbpedia.org/resource/Janayugom,66.915
+http://dbpedia.org/resource/Madhyamam,Madhyamam,http://dbpedia.org/resource/Madhyamam,66.48
+http://dbpedia.org/resource/The_North_Star_(anti-slavery_newspaper),The North Star (anti-slavery newspaper),http://dbpedia.org/resource/The_North_Star_(anti-slavery_newspaper),66.44
+http://dbpedia.org/resource/Mada_Masr,Mada Masr,http://dbpedia.org/resource/Mada_Masr,66.39
+http://dbpedia.org/resource/The_Standard-Times_(New_Bedford),The Standard-Times (New Bedford),http://dbpedia.org/resource/The_Standard-Times_(New_Bedford),66.235
+http://dbpedia.org/resource/Apple_Daily,Apple Daily,http://dbpedia.org/resource/Apple_Daily,66.165
+http://dbpedia.org/resource/The_National_(Scotland),The National (Scotland),http://dbpedia.org/resource/The_National_(Scotland),66.06
+http://dbpedia.org/resource/The_Des_Moines_Register,The Des Moines Register,http://dbpedia.org/resource/The_Des_Moines_Register,65.58
+http://dbpedia.org/resource/Donegal_News,Donegal News,http://dbpedia.org/resource/Donegal_News,64.695
+http://dbpedia.org/resource/Sunday_Independent_(Ireland),Sunday Independent (Ireland),http://dbpedia.org/resource/Sunday_Independent_(Ireland),64.585
+http://dbpedia.org/resource/The_New_Indian_Express,The New Indian Express,http://dbpedia.org/resource/The_New_Indian_Express,64.275
+http://dbpedia.org/resource/Statesman_Journal,Statesman Journal,http://dbpedia.org/resource/Statesman_Journal,64.19999999999999
+http://dbpedia.org/resource/Roll_Call,Roll Call,http://dbpedia.org/resource/Roll_Call,63.465
+http://dbpedia.org/resource/Malayala_Manorama,Malayala Manorama,http://dbpedia.org/resource/Malayala_Manorama,63.345000000000006
+http://dbpedia.org/resource/Cape_Cod_Times,Cape Cod Times,http://dbpedia.org/resource/Cape_Cod_Times,63.215
+http://dbpedia.org/resource/City_A.M.,City A.M.,http://dbpedia.org/resource/City_A.M.,62.805
+http://dbpedia.org/resource/La_Repubblica,La Repubblica,http://dbpedia.org/resource/La_Repubblica,62.41
+http://dbpedia.org/resource/Sunday_Sport,Sunday Sport,http://dbpedia.org/resource/Sunday_Sport,62.17499999999999
+http://dbpedia.org/resource/St._Louis_Post-Dispatch,St. Louis Post-Dispatch,http://dbpedia.org/resource/St._Louis_Post-Dispatch,62.120000000000005
+http://dbpedia.org/resource/Lavender_Woman,Lavender Woman,http://dbpedia.org/resource/Lavender_Woman,62.050000000000004
+http://dbpedia.org/resource/The_MetroWest_Daily_News,The MetroWest Daily News,http://dbpedia.org/resource/The_MetroWest_Daily_News,61.155
+http://dbpedia.org/resource/Navayugom,Navayugom,http://dbpedia.org/resource/Navayugom,61.105
+http://dbpedia.org/resource/Daily_Monitor,Daily Monitor,http://dbpedia.org/resource/Daily_Monitor,61.010000000000005
+http://dbpedia.org/resource/Daily_Record_(Scotland),Daily Record (Scotland),http://dbpedia.org/resource/Daily_Record_(Scotland),60.66499999999999
+http://dbpedia.org/resource/Star_Tribune,Star Tribune,http://dbpedia.org/resource/Star_Tribune,60.650000000000006
+http://dbpedia.org/resource/Central_Florida_Future,Central Florida Future,http://dbpedia.org/resource/Central_Florida_Future,60.565
+http://dbpedia.org/resource/Cambridge_Chronicle,Cambridge Chronicle,http://dbpedia.org/resource/Cambridge_Chronicle,60.39
+http://dbpedia.org/resource/Asbury_Park_Press,Asbury Park Press,http://dbpedia.org/resource/Asbury_Park_Press,60.305
+http://dbpedia.org/resource/Le_Monde,Le Monde,http://dbpedia.org/resource/Le_Monde,60.269999999999996
+http://dbpedia.org/resource/The_Forward,The Forward,http://dbpedia.org/resource/The_Forward,59.87499999999999
+http://dbpedia.org/resource/Le_Figaro,Le Figaro,http://dbpedia.org/resource/Le_Figaro,59.644999999999996
+http://dbpedia.org/resource/The_New-England_Courant,The New-England Courant,http://dbpedia.org/resource/The_New-England_Courant,59.49
+http://dbpedia.org/resource/Newsday,Newsday,http://dbpedia.org/resource/Newsday,59.43
+http://dbpedia.org/resource/Reference_News,Reference News,http://dbpedia.org/resource/Reference_News,59.394999999999996
+http://dbpedia.org/resource/The_Mercury_(Hobart),The Mercury (Hobart),http://dbpedia.org/resource/The_Mercury_(Hobart),59.305
+http://dbpedia.org/resource/Democrat_and_Chronicle,Democrat and Chronicle,http://dbpedia.org/resource/Democrat_and_Chronicle,59.23
+http://dbpedia.org/resource/The_Star-Ledger,The Star-Ledger,http://dbpedia.org/resource/The_Star-Ledger,59.2
+http://dbpedia.org/resource/El_Paso_Times,El Paso Times,http://dbpedia.org/resource/El_Paso_Times,59.135000000000005
+http://dbpedia.org/resource/The_Harvard_Crimson,The Harvard Crimson,http://dbpedia.org/resource/The_Harvard_Crimson,59.105
+http://dbpedia.org/resource/The_Courier-Mail,The Courier-Mail,http://dbpedia.org/resource/The_Courier-Mail,58.69499999999999
+http://dbpedia.org/resource/National_Post,National Post,http://dbpedia.org/resource/National_Post,58.59
+http://dbpedia.org/resource/Karavali_Ale,Karavali Ale,http://dbpedia.org/resource/Karavali_Ale,58.294999999999995
+http://dbpedia.org/resource/The_Irish_Press,The Irish Press,http://dbpedia.org/resource/The_Irish_Press,58.275000000000006
+http://dbpedia.org/resource/The_Barnstable_Patriot,The Barnstable Patriot,http://dbpedia.org/resource/The_Barnstable_Patriot,58.1
+http://dbpedia.org/resource/Austin_American-Statesman,Austin American-Statesman,http://dbpedia.org/resource/Austin_American-Statesman,58.065
+http://dbpedia.org/resource/The_Herald_News,The Herald News,http://dbpedia.org/resource/The_Herald_News,57.98000000000001
+http://dbpedia.org/resource/The_Tennessean,The Tennessean,http://dbpedia.org/resource/The_Tennessean,57.89500000000001
+http://dbpedia.org/resource/The_Signpost,The Signpost,http://dbpedia.org/resource/The_Signpost,57.705
+http://dbpedia.org/resource/The_Northern_Echo,The Northern Echo,http://dbpedia.org/resource/The_Northern_Echo,57.504999999999995
+http://dbpedia.org/resource/Liberty_(1881–1908),Liberty (1881–1908),http://dbpedia.org/resource/Liberty_(1881–1908),57.285
+http://dbpedia.org/resource/The_Philippine_Star,The Philippine Star,http://dbpedia.org/resource/The_Philippine_Star,57.165
+http://dbpedia.org/resource/The_Impartial_Reporter,The Impartial Reporter,http://dbpedia.org/resource/The_Impartial_Reporter,57.150000000000006
+http://dbpedia.org/resource/The_Daily_News_Transcript,The Daily News Transcript,http://dbpedia.org/resource/The_Daily_News_Transcript,57.105
+http://dbpedia.org/resource/Unomásuno,Unomásuno,http://dbpedia.org/resource/Unomásuno,56.905
+http://dbpedia.org/resource/Genius_of_Universal_Emancipation,Genius of Universal Emancipation,http://dbpedia.org/resource/Genius_of_Universal_Emancipation,56.754999999999995
+http://dbpedia.org/resource/Telegram_&_Gazette,Telegram & Gazette,http://dbpedia.org/resource/Telegram_&_Gazette,56.715
+http://dbpedia.org/resource/The_Jerusalem_Post,The Jerusalem Post,http://dbpedia.org/resource/The_Jerusalem_Post,56.64
+http://dbpedia.org/resource/Chicago_Catholic,Chicago Catholic,http://dbpedia.org/resource/Chicago_Catholic,56.5
+http://dbpedia.org/resource/The_Milford_Daily_News,The Milford Daily News,http://dbpedia.org/resource/The_Milford_Daily_News,56.33000000000001
+http://dbpedia.org/resource/The_Chosun_Ilbo,The Chosun Ilbo,http://dbpedia.org/resource/The_Chosun_Ilbo,56.15500000000001
+http://dbpedia.org/resource/The_Daily_News_Tribune,The Daily News Tribune,http://dbpedia.org/resource/The_Daily_News_Tribune,56.09
+http://dbpedia.org/resource/The_Scotsman,The Scotsman,http://dbpedia.org/resource/The_Scotsman,56.07000000000001
+http://dbpedia.org/resource/Sunday_Herald,Sunday Herald,http://dbpedia.org/resource/Sunday_Herald,55.93
+http://dbpedia.org/resource/Dawn_(newspaper),Dawn (newspaper),http://dbpedia.org/resource/Dawn_(newspaper),55.865
+http://dbpedia.org/resource/Taunton_Daily_Gazette,Taunton Daily Gazette,http://dbpedia.org/resource/Taunton_Daily_Gazette,55.74
+http://dbpedia.org/resource/Mumbai_Mirror,Mumbai Mirror,http://dbpedia.org/resource/Mumbai_Mirror,55.565
+http://dbpedia.org/resource/Montreal_Gazette,Montreal Gazette,http://dbpedia.org/resource/Montreal_Gazette,55.535
+http://dbpedia.org/resource/Daily_Worker,Daily Worker,http://dbpedia.org/resource/Daily_Worker,55.410000000000004
+http://dbpedia.org/resource/The_Irish_News,The Irish News,http://dbpedia.org/resource/The_Irish_News,55.28
+http://dbpedia.org/resource/The_Journal_News,The Journal News,http://dbpedia.org/resource/The_Journal_News,55.254999999999995
+http://dbpedia.org/resource/Uthayan,Uthayan,http://dbpedia.org/resource/Uthayan,55.04500000000001
+http://dbpedia.org/resource/The_Enterprise_(Brockton),The Enterprise (Brockton),http://dbpedia.org/resource/The_Enterprise_(Brockton),54.94500000000001
+http://dbpedia.org/resource/Otago_Daily_Times,Otago Daily Times,http://dbpedia.org/resource/Otago_Daily_Times,54.825
+http://dbpedia.org/resource/El_Espectador,El Espectador,http://dbpedia.org/resource/El_Espectador,54.81
+http://dbpedia.org/resource/The_Beaver_County_Times,The Beaver County Times,http://dbpedia.org/resource/The_Beaver_County_Times,54.70500000000001
+http://dbpedia.org/resource/Sunderland_Echo,Sunderland Echo,http://dbpedia.org/resource/Sunderland_Echo,54.675000000000004
+http://dbpedia.org/resource/The_Seattle_Times,The Seattle Times,http://dbpedia.org/resource/The_Seattle_Times,54.620000000000005
+http://dbpedia.org/resource/The_Atlanta_Journal-Constitution,The Atlanta Journal-Constitution,http://dbpedia.org/resource/The_Atlanta_Journal-Constitution,54.595
+http://dbpedia.org/resource/The_Commercial_Appeal,The Commercial Appeal,http://dbpedia.org/resource/The_Commercial_Appeal,54.495000000000005
+http://dbpedia.org/resource/The_Sunday_People,The Sunday People,http://dbpedia.org/resource/The_Sunday_People,54.46500000000001
+http://dbpedia.org/resource/Enterprise-Sun,Enterprise-Sun,http://dbpedia.org/resource/Enterprise-Sun,54.400000000000006
+http://dbpedia.org/resource/Philippine_Daily_Inquirer,Philippine Daily Inquirer,http://dbpedia.org/resource/Philippine_Daily_Inquirer,54.300000000000004
+http://dbpedia.org/resource/Sarasota_Herald-Tribune,Sarasota Herald-Tribune,http://dbpedia.org/resource/Sarasota_Herald-Tribune,54.265000000000015
+http://dbpedia.org/resource/Belfast_Telegraph,Belfast Telegraph,http://dbpedia.org/resource/Belfast_Telegraph,54.120000000000005
+http://dbpedia.org/resource/The_New_European,The New European,http://dbpedia.org/resource/The_New_European,53.800000000000004
+http://dbpedia.org/resource/Hartford_Courant,Hartford Courant,http://dbpedia.org/resource/Hartford_Courant,53.79
+http://dbpedia.org/resource/The_Inquirer_and_Mirror,The Inquirer and Mirror,http://dbpedia.org/resource/The_Inquirer_and_Mirror,53.61000000000001
+http://dbpedia.org/resource/Windy_City_Times,Windy City Times,http://dbpedia.org/resource/Windy_City_Times,53.58500000000001
+http://dbpedia.org/resource/York_Daily_Record,York Daily Record,http://dbpedia.org/resource/York_Daily_Record,53.52499999999999
+http://dbpedia.org/resource/Daily_Sport,Daily Sport,http://dbpedia.org/resource/Daily_Sport,53.45
+http://dbpedia.org/resource/The_Asahi_Shimbun,The Asahi Shimbun,http://dbpedia.org/resource/The_Asahi_Shimbun,53.39500000000001
+http://dbpedia.org/resource/The_Washington_Free_Beacon,The Washington Free Beacon,http://dbpedia.org/resource/The_Washington_Free_Beacon,53.315
+http://dbpedia.org/resource/The_Echo_(Cork_newspaper),The Echo (Cork newspaper),http://dbpedia.org/resource/The_Echo_(Cork_newspaper),53.31
+http://dbpedia.org/resource/Stereogum,Stereogum,http://dbpedia.org/resource/Stereogum,53.24
+http://dbpedia.org/resource/Daily_Bruin,Daily Bruin,http://dbpedia.org/resource/Daily_Bruin,53.23000000000001
+http://dbpedia.org/resource/The_Wellesley_Townsman,The Wellesley Townsman,http://dbpedia.org/resource/The_Wellesley_Townsman,53.160000000000004
+http://dbpedia.org/resource/The_Sentinel_(Staffordshire),The Sentinel (Staffordshire),http://dbpedia.org/resource/The_Sentinel_(Staffordshire),53.044999999999995
+http://dbpedia.org/resource/Pittsburgh_Courier,Pittsburgh Courier,http://dbpedia.org/resource/Pittsburgh_Courier,52.99
+http://dbpedia.org/resource/Akron_Beacon_Journal,Akron Beacon Journal,http://dbpedia.org/resource/Akron_Beacon_Journal,52.975
+http://dbpedia.org/resource/Brighton_Herald,Brighton Herald,http://dbpedia.org/resource/Brighton_Herald,52.96499999999999
+http://dbpedia.org/resource/Dinamalar,Dinamalar,http://dbpedia.org/resource/Dinamalar,52.89
+http://dbpedia.org/resource/Observer-Dispatch,Observer-Dispatch,http://dbpedia.org/resource/Observer-Dispatch,52.89
+http://dbpedia.org/resource/The_Daytona_Beach_News-Journal,The Daytona Beach News-Journal,http://dbpedia.org/resource/The_Daytona_Beach_News-Journal,52.595000000000006
+http://dbpedia.org/resource/The_Clarion-Ledger,The Clarion-Ledger,http://dbpedia.org/resource/The_Clarion-Ledger,52.434999999999995
+http://dbpedia.org/resource/Middleboro_Gazette,Middleboro Gazette,http://dbpedia.org/resource/Middleboro_Gazette,52.19
+http://dbpedia.org/resource/The_Florida_Times-Union,The Florida Times-Union,http://dbpedia.org/resource/The_Florida_Times-Union,52.155
+http://dbpedia.org/resource/The_Sunday_Leader,The Sunday Leader,http://dbpedia.org/resource/The_Sunday_Leader,52.13499999999999
+http://dbpedia.org/resource/Greenock_Telegraph,Greenock Telegraph,http://dbpedia.org/resource/Greenock_Telegraph,52.1
+http://dbpedia.org/resource/Southern_Daily_Echo,Southern Daily Echo,http://dbpedia.org/resource/Southern_Daily_Echo,51.89
+http://dbpedia.org/resource/Lansing_State_Journal,Lansing State Journal,http://dbpedia.org/resource/Lansing_State_Journal,51.85
+http://dbpedia.org/resource/The_Denver_Post,The Denver Post,http://dbpedia.org/resource/The_Denver_Post,51.825
+http://dbpedia.org/resource/Business_Standard,Business Standard,http://dbpedia.org/resource/Business_Standard,51.82000000000001
+http://dbpedia.org/resource/Dinakaran,Dinakaran,http://dbpedia.org/resource/Dinakaran,51.68
+http://dbpedia.org/resource/The_Sunday_Telegraph,The Sunday Telegraph,http://dbpedia.org/resource/The_Sunday_Telegraph,51.67000000000001
+http://dbpedia.org/resource/Seattle_Post-Intelligencer,Seattle Post-Intelligencer,http://dbpedia.org/resource/Seattle_Post-Intelligencer,51.64
+http://dbpedia.org/resource/Protathlitis,Protathlitis,http://dbpedia.org/resource/Protathlitis,51.559999999999995
+http://dbpedia.org/resource/Mathrubhumi,Mathrubhumi,http://dbpedia.org/resource/Mathrubhumi,51.535000000000004
+http://dbpedia.org/resource/Bay_State_Banner,Bay State Banner,http://dbpedia.org/resource/Bay_State_Banner,51.52000000000001
+http://dbpedia.org/resource/The_Advocate_(Fairhaven),The Advocate (Fairhaven),http://dbpedia.org/resource/The_Advocate_(Fairhaven),51.43
+http://dbpedia.org/resource/Le_Père_Duchesne,Le Père Duchesne,http://dbpedia.org/resource/Le_Père_Duchesne,51.39500000000001
+http://dbpedia.org/resource/Daily_Star_Sunday,Daily Star Sunday,http://dbpedia.org/resource/Daily_Star_Sunday,51.305
+http://dbpedia.org/resource/Glasgow_Times,Glasgow Times,http://dbpedia.org/resource/Glasgow_Times,51.21000000000001
+http://dbpedia.org/resource/The_Hankyoreh,The Hankyoreh,http://dbpedia.org/resource/The_Hankyoreh,51.150000000000006
+http://dbpedia.org/resource/The_Press_(York),The Press (York),http://dbpedia.org/resource/The_Press_(York),51.115
+http://dbpedia.org/resource/The_Jewish_Chronicle,The Jewish Chronicle,http://dbpedia.org/resource/The_Jewish_Chronicle,50.775000000000006
+http://dbpedia.org/resource/Swindon_Advertiser,Swindon Advertiser,http://dbpedia.org/resource/Swindon_Advertiser,50.585
+http://dbpedia.org/resource/San_Antonio_Express-News,San Antonio Express-News,http://dbpedia.org/resource/San_Antonio_Express-News,50.52000000000001
+http://dbpedia.org/resource/Richmond_Times-Dispatch,Richmond Times-Dispatch,http://dbpedia.org/resource/Richmond_Times-Dispatch,50.445
+http://dbpedia.org/resource/Deccan_Herald,Deccan Herald,http://dbpedia.org/resource/Deccan_Herald,50.43000000000001
+http://dbpedia.org/resource/The_Charlotte_Observer,The Charlotte Observer,http://dbpedia.org/resource/The_Charlotte_Observer,50.335
+http://dbpedia.org/resource/The_San_Diego_Union-Tribune,The San Diego Union-Tribune,http://dbpedia.org/resource/The_San_Diego_Union-Tribune,50.31999999999999
+http://dbpedia.org/resource/Janmabhumi,Janmabhumi,http://dbpedia.org/resource/Janmabhumi,50.31
+http://dbpedia.org/resource/Woman's_Journal,Woman's Journal,http://dbpedia.org/resource/Woman's_Journal,50.255
+http://dbpedia.org/resource/The_News_Journal,The News Journal,http://dbpedia.org/resource/The_News_Journal,50.14
+http://dbpedia.org/resource/The_Berkshire_Eagle,The Berkshire Eagle,http://dbpedia.org/resource/The_Berkshire_Eagle,50.01
+http://dbpedia.org/resource/Darlington_&_Stockton_Times,Darlington & Stockton Times,http://dbpedia.org/resource/Darlington_&_Stockton_Times,49.97
+http://dbpedia.org/resource/Deshabhimani,Deshabhimani,http://dbpedia.org/resource/Deshabhimani,49.894999999999996
+http://dbpedia.org/resource/Klassekampen,Klassekampen,http://dbpedia.org/resource/Klassekampen,49.765
+http://dbpedia.org/resource/Sankei_Shimbun,Sankei Shimbun,http://dbpedia.org/resource/Sankei_Shimbun,49.755
+http://dbpedia.org/resource/The_Kansas_City_Star,The Kansas City Star,http://dbpedia.org/resource/The_Kansas_City_Star,49.73
+http://dbpedia.org/resource/Courier-Post,Courier-Post,http://dbpedia.org/resource/Courier-Post,49.675000000000004
+http://dbpedia.org/resource/Vijaya_Karnataka,Vijaya Karnataka,http://dbpedia.org/resource/Vijaya_Karnataka,49.629999999999995
+http://dbpedia.org/resource/The_Orange_County_Register,The Orange County Register,http://dbpedia.org/resource/The_Orange_County_Register,49.56
+http://dbpedia.org/resource/FSView_&_Florida_Flambeau,FSView & Florida Flambeau,http://dbpedia.org/resource/FSView_&_Florida_Flambeau,49.495000000000005
+http://dbpedia.org/resource/The_Bolton_News,The Bolton News,http://dbpedia.org/resource/The_Bolton_News,49.385
+http://dbpedia.org/resource/Amarillo_Globe-News,Amarillo Globe-News,http://dbpedia.org/resource/Amarillo_Globe-News,49.29
+http://dbpedia.org/resource/The_Hillsboro_Argus,The Hillsboro Argus,http://dbpedia.org/resource/The_Hillsboro_Argus,49.28
+http://dbpedia.org/resource/The_Independent_Florida_Alligator,The Independent Florida Alligator,http://dbpedia.org/resource/The_Independent_Florida_Alligator,49.275000000000006
+http://dbpedia.org/resource/Australian_Financial_Review,Australian Financial Review,http://dbpedia.org/resource/Australian_Financial_Review,49.265
+http://dbpedia.org/resource/The_Star_(Malaysia),The Star (Malaysia),http://dbpedia.org/resource/The_Star_(Malaysia),49.25
+http://dbpedia.org/resource/Great_Falls_Tribune,Great Falls Tribune,http://dbpedia.org/resource/Great_Falls_Tribune,49.125
+http://dbpedia.org/resource/Sudharma,Sudharma,http://dbpedia.org/resource/Sudharma,48.96000000000001
+http://dbpedia.org/resource/Bournemouth_Daily_Echo,Bournemouth Daily Echo,http://dbpedia.org/resource/Bournemouth_Daily_Echo,48.945
+http://dbpedia.org/resource/South_Wales_Argus,South Wales Argus,http://dbpedia.org/resource/South_Wales_Argus,48.93
+http://dbpedia.org/resource/Chess_Today,Chess Today,http://dbpedia.org/resource/Chess_Today,48.865
+http://dbpedia.org/resource/The_Dartmouth_Review,The Dartmouth Review,http://dbpedia.org/resource/The_Dartmouth_Review,48.83
+http://dbpedia.org/resource/The_Newcastle_Herald,The Newcastle Herald,http://dbpedia.org/resource/The_Newcastle_Herald,48.595
+http://dbpedia.org/resource/Florida_Today,Florida Today,http://dbpedia.org/resource/Florida_Today,48.48499999999999
+http://dbpedia.org/resource/Philadelphia_Daily_News,Philadelphia Daily News,http://dbpedia.org/resource/Philadelphia_Daily_News,48.4
+http://dbpedia.org/resource/The_Augusta_Chronicle,The Augusta Chronicle,http://dbpedia.org/resource/The_Augusta_Chronicle,48.375
+http://dbpedia.org/resource/Nasha_Niva,Nasha Niva,http://dbpedia.org/resource/Nasha_Niva,48.300000000000004
+http://dbpedia.org/resource/Times_Herald-Record,Times Herald-Record,http://dbpedia.org/resource/Times_Herald-Record,48.28
+http://dbpedia.org/resource/The_Irish_Post,The Irish Post,http://dbpedia.org/resource/The_Irish_Post,48.27
+http://dbpedia.org/resource/Dina_Thanthi,Dina Thanthi,http://dbpedia.org/resource/Dina_Thanthi,48.2
+http://dbpedia.org/resource/The_Hudson_Reporter,The Hudson Reporter,http://dbpedia.org/resource/The_Hudson_Reporter,48.099999999999994
+http://dbpedia.org/resource/Frankfurter_Allgemeine_Zeitung,Frankfurter Allgemeine Zeitung,http://dbpedia.org/resource/Frankfurter_Allgemeine_Zeitung,48.095
+http://dbpedia.org/resource/Public_Opinion_(Chambersburg),Public Opinion (Chambersburg),http://dbpedia.org/resource/Public_Opinion_(Chambersburg),48.080000000000005
+http://dbpedia.org/resource/Shanghai_Evening_Post_&_Mercury,Shanghai Evening Post & Mercury,http://dbpedia.org/resource/Shanghai_Evening_Post_&_Mercury,48.07
+http://dbpedia.org/resource/Indymedia,Indymedia,http://dbpedia.org/resource/Indymedia,48.004999999999995
+http://dbpedia.org/resource/Corriere_della_Sera,Corriere della Sera,http://dbpedia.org/resource/Corriere_della_Sera,47.99
+http://dbpedia.org/resource/Varthabharathi,Varthabharathi,http://dbpedia.org/resource/Varthabharathi,47.974999999999994
+http://dbpedia.org/resource/The_Revolution_(newspaper),The Revolution (newspaper),http://dbpedia.org/resource/The_Revolution_(newspaper),47.935
+http://dbpedia.org/resource/Lubbock_Avalanche-Journal,Lubbock Avalanche-Journal,http://dbpedia.org/resource/Lubbock_Avalanche-Journal,47.86
+http://dbpedia.org/resource/South_Bend_Tribune,South Bend Tribune,http://dbpedia.org/resource/South_Bend_Tribune,47.76
+http://dbpedia.org/resource/The_Tuscaloosa_News,The Tuscaloosa News,http://dbpedia.org/resource/The_Tuscaloosa_News,47.695
+"http://dbpedia.org/resource/The_Republican_(Springfield,_Massachusetts)","The Republican (Springfield, Massachusetts)","http://dbpedia.org/resource/The_Republican_(Springfield,_Massachusetts)",47.695
+http://dbpedia.org/resource/The_Ithaca_Journal,The Ithaca Journal,http://dbpedia.org/resource/The_Ithaca_Journal,47.595
+http://dbpedia.org/resource/Pocono_Record,Pocono Record,http://dbpedia.org/resource/Pocono_Record,47.595
+http://dbpedia.org/resource/Tallahassee_Democrat,Tallahassee Democrat,http://dbpedia.org/resource/Tallahassee_Democrat,47.385
+http://dbpedia.org/resource/Worcester_News,Worcester News,http://dbpedia.org/resource/Worcester_News,47.325
+http://dbpedia.org/resource/Athens_Banner-Herald,Athens Banner-Herald,http://dbpedia.org/resource/Athens_Banner-Herald,47.265
+http://dbpedia.org/resource/Montgomery_Advertiser,Montgomery Advertiser,http://dbpedia.org/resource/Montgomery_Advertiser,47.245
+http://dbpedia.org/resource/South_Wales_Echo,South Wales Echo,http://dbpedia.org/resource/South_Wales_Echo,47.135000000000005
+http://dbpedia.org/resource/The_Register-Guard,The Register-Guard,http://dbpedia.org/resource/The_Register-Guard,47.115
+http://dbpedia.org/resource/The_Palm_Beach_Post,The Palm Beach Post,http://dbpedia.org/resource/The_Palm_Beach_Post,47.1
+http://dbpedia.org/resource/Nuacht24,Nuacht24,http://dbpedia.org/resource/Nuacht24,47.03
+http://dbpedia.org/resource/Deepika_(newspaper),Deepika (newspaper),http://dbpedia.org/resource/Deepika_(newspaper),46.87
+http://dbpedia.org/resource/Ventura_County_Star,Ventura County Star,http://dbpedia.org/resource/Ventura_County_Star,46.83500000000001
+http://dbpedia.org/resource/Evansville_Courier_&_Press,Evansville Courier & Press,http://dbpedia.org/resource/Evansville_Courier_&_Press,46.83500000000001
+http://dbpedia.org/resource/The_Cornell_Daily_Sun,The Cornell Daily Sun,http://dbpedia.org/resource/The_Cornell_Daily_Sun,46.775
+http://dbpedia.org/resource/The_Pittsburgh_Press,The Pittsburgh Press,http://dbpedia.org/resource/The_Pittsburgh_Press,46.51
+http://dbpedia.org/resource/International_Business_Times,International Business Times,http://dbpedia.org/resource/International_Business_Times,46.405
+http://dbpedia.org/resource/The_Oxford_Times,The Oxford Times,http://dbpedia.org/resource/The_Oxford_Times,46.370000000000005
+http://dbpedia.org/resource/Novaya_Gazeta,Novaya Gazeta,http://dbpedia.org/resource/Novaya_Gazeta,46.305
+http://dbpedia.org/resource/Dorset_Echo,Dorset Echo,http://dbpedia.org/resource/Dorset_Echo,46.245000000000005
+http://dbpedia.org/resource/Chandrika_(newspaper),Chandrika (newspaper),http://dbpedia.org/resource/Chandrika_(newspaper),46.24
+http://dbpedia.org/resource/Candour_(magazine),Candour (magazine),http://dbpedia.org/resource/Candour_(magazine),46.24
+http://dbpedia.org/resource/The_Daily_News_Journal,The Daily News Journal,http://dbpedia.org/resource/The_Daily_News_Journal,46.230000000000004
+http://dbpedia.org/resource/Die_Welt,Die Welt,http://dbpedia.org/resource/Die_Welt,46.205
+http://dbpedia.org/resource/The_Tribune_(Chandigarh),The Tribune (Chandigarh),http://dbpedia.org/resource/The_Tribune_(Chandigarh),46.095000000000006
+http://dbpedia.org/resource/Telegraph_&_Argus,Telegraph & Argus,http://dbpedia.org/resource/Telegraph_&_Argus,46.074999999999996
+"http://dbpedia.org/resource/The_Intelligencer_(Doylestown,_Pennsylvania)","The Intelligencer (Doylestown, Pennsylvania)","http://dbpedia.org/resource/The_Intelligencer_(Doylestown,_Pennsylvania)",46.045
+http://dbpedia.org/resource/The_Eagle-Tribune,The Eagle-Tribune,http://dbpedia.org/resource/The_Eagle-Tribune,46.044999999999995
+http://dbpedia.org/resource/The_Morning_Call,The Morning Call,http://dbpedia.org/resource/The_Morning_Call,45.935
+http://dbpedia.org/resource/Kerala_Kaumudi,Kerala Kaumudi,http://dbpedia.org/resource/Kerala_Kaumudi,45.74
+http://dbpedia.org/resource/Erie_Times-News,Erie Times-News,http://dbpedia.org/resource/Erie_Times-News,45.650000000000006
+http://dbpedia.org/resource/Columbia_Daily_Spectator,Columbia Daily Spectator,http://dbpedia.org/resource/Columbia_Daily_Spectator,45.65
+http://dbpedia.org/resource/Spartanburg_Herald-Journal,Spartanburg Herald-Journal,http://dbpedia.org/resource/Spartanburg_Herald-Journal,45.595
+http://dbpedia.org/resource/Deutsche_Shanghai_Zeitung,Deutsche Shanghai Zeitung,http://dbpedia.org/resource/Deutsche_Shanghai_Zeitung,45.555
+http://dbpedia.org/resource/The_Times_(Shreveport),The Times (Shreveport),http://dbpedia.org/resource/The_Times_(Shreveport),45.5
+http://dbpedia.org/resource/South_Wales_Evening_Post,South Wales Evening Post,http://dbpedia.org/resource/South_Wales_Evening_Post,45.435
+http://dbpedia.org/resource/Deccan_Chronicle,Deccan Chronicle,http://dbpedia.org/resource/Deccan_Chronicle,45.415000000000006
+http://dbpedia.org/resource/Packet_Newspapers,Packet Newspapers,http://dbpedia.org/resource/Packet_Newspapers,45.36
+http://dbpedia.org/resource/Gazeta_Wyborcza,Gazeta Wyborcza,http://dbpedia.org/resource/Gazeta_Wyborcza,45.34
+http://dbpedia.org/resource/Knoxville_News_Sentinel,Knoxville News Sentinel,http://dbpedia.org/resource/Knoxville_News_Sentinel,45.269999999999996
+http://dbpedia.org/resource/Illawarra_Mercury,Illawarra Mercury,http://dbpedia.org/resource/Illawarra_Mercury,45.205
+http://dbpedia.org/resource/Maitland_Mercury,Maitland Mercury,http://dbpedia.org/resource/Maitland_Mercury,45.185
+http://dbpedia.org/resource/Maalai_Malar,Maalai Malar,http://dbpedia.org/resource/Maalai_Malar,45.050000000000004
+http://dbpedia.org/resource/Thejas,Thejas,http://dbpedia.org/resource/Thejas,45.015
+http://dbpedia.org/resource/The_Record_Herald,The Record Herald,http://dbpedia.org/resource/The_Record_Herald,44.995
+http://dbpedia.org/resource/Central_Penn_Business_Journal,Central Penn Business Journal,http://dbpedia.org/resource/Central_Penn_Business_Journal,44.879999999999995
+http://dbpedia.org/resource/Mid-Day,Mid-Day,http://dbpedia.org/resource/Mid-Day,44.83
+http://dbpedia.org/resource/Marca_(newspaper),Marca (newspaper),http://dbpedia.org/resource/Marca_(newspaper),44.83
+http://dbpedia.org/resource/Lebanon_Daily_News,Lebanon Daily News,http://dbpedia.org/resource/Lebanon_Daily_News,44.595
+http://dbpedia.org/resource/Omaha_World-Herald,Omaha World-Herald,http://dbpedia.org/resource/Omaha_World-Herald,44.525000000000006
+http://dbpedia.org/resource/The_Herald_(Glasgow),The Herald (Glasgow),http://dbpedia.org/resource/The_Herald_(Glasgow),44.5
+http://dbpedia.org/resource/Bild,Bild,http://dbpedia.org/resource/Bild,44.495000000000005
+http://dbpedia.org/resource/Prajavani,Prajavani,http://dbpedia.org/resource/Prajavani,44.43000000000001
+http://dbpedia.org/resource/Brasil_Paralelo,Brasil Paralelo,http://dbpedia.org/resource/Brasil_Paralelo,44.385
+http://dbpedia.org/resource/The_Daily_Orange,The Daily Orange,http://dbpedia.org/resource/The_Daily_Orange,44.355
+http://dbpedia.org/resource/Kannada_Prabha,Kannada Prabha,http://dbpedia.org/resource/Kannada_Prabha,44.3
+http://dbpedia.org/resource/Manchester_Evening_News,Manchester Evening News,http://dbpedia.org/resource/Manchester_Evening_News,44.225
+http://dbpedia.org/resource/The_Siasat_Daily,The Siasat Daily,http://dbpedia.org/resource/The_Siasat_Daily,43.97
+http://dbpedia.org/resource/Star-News,Star-News,http://dbpedia.org/resource/Star-News,43.955
+http://dbpedia.org/resource/The_Jewish_Advocate,The Jewish Advocate,http://dbpedia.org/resource/The_Jewish_Advocate,43.915
+http://dbpedia.org/resource/The_Statesman_(India),The Statesman (India),http://dbpedia.org/resource/The_Statesman_(India),43.875
+http://dbpedia.org/resource/Siraj_Daily,Siraj Daily,http://dbpedia.org/resource/Siraj_Daily,43.870000000000005
+http://dbpedia.org/resource/Mangalam_Publications,Mangalam Publications,http://dbpedia.org/resource/Mangalam_Publications,43.745
+http://dbpedia.org/resource/The_Portsmouth_Herald,The Portsmouth Herald,http://dbpedia.org/resource/The_Portsmouth_Herald,43.71000000000001
+http://dbpedia.org/resource/Alamogordo_Daily_News,Alamogordo Daily News,http://dbpedia.org/resource/Alamogordo_Daily_News,43.67
+http://dbpedia.org/resource/Eenadu,Eenadu,http://dbpedia.org/resource/Eenadu,43.645
+http://dbpedia.org/resource/The_Wayne_Independent,The Wayne Independent,http://dbpedia.org/resource/The_Wayne_Independent,43.615
+http://dbpedia.org/resource/Siskiyou_Daily_News,Siskiyou Daily News,http://dbpedia.org/resource/Siskiyou_Daily_News,43.49
+http://dbpedia.org/resource/Daily_American_(Pennsylvania_newspaper),Daily American (Pennsylvania newspaper),http://dbpedia.org/resource/Daily_American_(Pennsylvania_newspaper),43.485
+http://dbpedia.org/resource/The_Desert_Sun,The Desert Sun,http://dbpedia.org/resource/The_Desert_Sun,43.445
+http://dbpedia.org/resource/Varsity_(Cambridge),Varsity (Cambridge),http://dbpedia.org/resource/Varsity_(Cambridge),43.43
+http://dbpedia.org/resource/Pensacola_News_Journal,Pensacola News Journal,http://dbpedia.org/resource/Pensacola_News_Journal,43.42
+http://dbpedia.org/resource/Cherwell_(newspaper),Cherwell (newspaper),http://dbpedia.org/resource/Cherwell_(newspaper),43.379999999999995
+http://dbpedia.org/resource/The_News_Leader,The News Leader,http://dbpedia.org/resource/The_News_Leader,43.305
+http://dbpedia.org/resource/El_Mundo_(Spain),El Mundo (Spain),http://dbpedia.org/resource/El_Mundo_(Spain),43.275000000000006
+http://dbpedia.org/resource/Udayavani,Udayavani,http://dbpedia.org/resource/Udayavani,43.230000000000004
+http://dbpedia.org/resource/The_Repository,The Repository,http://dbpedia.org/resource/The_Repository,43.16
+http://dbpedia.org/resource/Dinamani,Dinamani,http://dbpedia.org/resource/Dinamani,43.155
+http://dbpedia.org/resource/ABC_(newspaper),ABC (newspaper),http://dbpedia.org/resource/ABC_(newspaper),43.03
+http://dbpedia.org/resource/Dainik_Bhaskar,Dainik Bhaskar,http://dbpedia.org/resource/Dainik_Bhaskar,42.995000000000005
+http://dbpedia.org/resource/Boston_Guardian,Boston Guardian,http://dbpedia.org/resource/Boston_Guardian,42.995000000000005
+http://dbpedia.org/resource/Lankesh_Patrike,Lankesh Patrike,http://dbpedia.org/resource/Lankesh_Patrike,42.98500000000001
+http://dbpedia.org/resource/Richmond_and_Twickenham_Times,Richmond and Twickenham Times,http://dbpedia.org/resource/Richmond_and_Twickenham_Times,42.975
+http://dbpedia.org/resource/Hosa_Digantha,Hosa Digantha,http://dbpedia.org/resource/Hosa_Digantha,42.905
+http://dbpedia.org/resource/Ei_Samay_Sangbadpatra,Ei Samay Sangbadpatra,http://dbpedia.org/resource/Ei_Samay_Sangbadpatra,42.885000000000005
+http://dbpedia.org/resource/Rockford_Register_Star,Rockford Register Star,http://dbpedia.org/resource/Rockford_Register_Star,42.85
+http://dbpedia.org/resource/The_Illustrated_London_News,The Illustrated London News,http://dbpedia.org/resource/The_Illustrated_London_News,42.83
+http://dbpedia.org/resource/Jutarnji_list,Jutarnji list,http://dbpedia.org/resource/Jutarnji_list,42.825
+http://dbpedia.org/resource/The_Marion_Star,The Marion Star,http://dbpedia.org/resource/The_Marion_Star,42.794999999999995
+http://dbpedia.org/resource/Vijayavani,Vijayavani,http://dbpedia.org/resource/Vijayavani,42.765
+http://dbpedia.org/resource/Wisconsin_State_Journal,Wisconsin State Journal,http://dbpedia.org/resource/Wisconsin_State_Journal,42.73000000000001
+http://dbpedia.org/resource/Rocky_Mountain_Outlook,Rocky Mountain Outlook,http://dbpedia.org/resource/Rocky_Mountain_Outlook,42.605
+http://dbpedia.org/resource/Federal_Register,Federal Register,http://dbpedia.org/resource/Federal_Register,42.52
+http://dbpedia.org/resource/Hai_Bangalore,Hai Bangalore,http://dbpedia.org/resource/Hai_Bangalore,42.455
+http://dbpedia.org/resource/Viduthalai_(newspaper),Viduthalai (newspaper),http://dbpedia.org/resource/Viduthalai_(newspaper),42.445
+http://dbpedia.org/resource/Asheville_Citizen-Times,Asheville Citizen-Times,http://dbpedia.org/resource/Asheville_Citizen-Times,42.385000000000005
+http://dbpedia.org/resource/El_País,El País,http://dbpedia.org/resource/El_País,42.370000000000005
+http://dbpedia.org/resource/Arbeiter-Zeitung_(Chicago),Arbeiter-Zeitung (Chicago),http://dbpedia.org/resource/Arbeiter-Zeitung_(Chicago),42.32
+http://dbpedia.org/resource/The_Hawk_Eye,The Hawk Eye,http://dbpedia.org/resource/The_Hawk_Eye,42.275000000000006
+http://dbpedia.org/resource/Rocky_Mountain_News,Rocky Mountain News,http://dbpedia.org/resource/Rocky_Mountain_News,42.269999999999996
+http://dbpedia.org/resource/Mangaluru_Samachara,Mangaluru Samachara,http://dbpedia.org/resource/Mangaluru_Samachara,42.17
+http://dbpedia.org/resource/The_Londoner,The Londoner,http://dbpedia.org/resource/The_Londoner,42.155
+http://dbpedia.org/resource/The_Gainesville_Sun,The Gainesville Sun,http://dbpedia.org/resource/The_Gainesville_Sun,42.055
+http://dbpedia.org/resource/AFL_Record,AFL Record,http://dbpedia.org/resource/AFL_Record,42.004999999999995
+http://dbpedia.org/resource/Utusan_Malaysia,Utusan Malaysia,http://dbpedia.org/resource/Utusan_Malaysia,41.97
+http://dbpedia.org/resource/Mint_(newspaper),Mint (newspaper),http://dbpedia.org/resource/Mint_(newspaper),41.965
+http://dbpedia.org/resource/Henderson_Gleaner,Henderson Gleaner,http://dbpedia.org/resource/Henderson_Gleaner,41.95
+http://dbpedia.org/resource/Calgary_Herald,Calgary Herald,http://dbpedia.org/resource/Calgary_Herald,41.93000000000001
+http://dbpedia.org/resource/The_Patriot-News,The Patriot-News,http://dbpedia.org/resource/The_Patriot-News,41.895
+http://dbpedia.org/resource/Der_Poylisher_Yidl,Der Poylisher Yidl,http://dbpedia.org/resource/Der_Poylisher_Yidl,41.845
+http://dbpedia.org/resource/Reno_Gazette-Journal,Reno Gazette-Journal,http://dbpedia.org/resource/Reno_Gazette-Journal,41.825
+http://dbpedia.org/resource/General_(newspaper),General (newspaper),http://dbpedia.org/resource/General_(newspaper),41.81999999999999
+http://dbpedia.org/resource/The_Irish_World_(London),The Irish World (London),http://dbpedia.org/resource/The_Irish_World_(London),41.81
+http://dbpedia.org/resource/Boston_Daily_Advertiser,Boston Daily Advertiser,http://dbpedia.org/resource/Boston_Daily_Advertiser,41.805
+http://dbpedia.org/resource/News.com.au,News.com.au,http://dbpedia.org/resource/News.com.au,41.725
+http://dbpedia.org/resource/L'Unità,L'Unità,http://dbpedia.org/resource/L'Unità,41.61
+http://dbpedia.org/resource/Financial_Tribune,Financial Tribune,http://dbpedia.org/resource/Financial_Tribune,41.61
+http://dbpedia.org/resource/Usha_Kirana,Usha Kirana,http://dbpedia.org/resource/Usha_Kirana,41.555
+http://dbpedia.org/resource/Samyukta_Karnataka,Samyukta Karnataka,http://dbpedia.org/resource/Samyukta_Karnataka,41.555
+http://dbpedia.org/resource/Chicago_Reader,Chicago Reader,http://dbpedia.org/resource/Chicago_Reader,41.550000000000004
+http://dbpedia.org/resource/The_Fayetteville_Observer,The Fayetteville Observer,http://dbpedia.org/resource/The_Fayetteville_Observer,41.54
+http://dbpedia.org/resource/The_News_Herald_(Panama_City),The News Herald (Panama City),http://dbpedia.org/resource/The_News_Herald_(Panama_City),41.51
+http://dbpedia.org/resource/Savannah_Morning_News,Savannah Morning News,http://dbpedia.org/resource/Savannah_Morning_News,41.455000000000005
+http://dbpedia.org/resource/Green_Bay_Press-Gazette,Green Bay Press-Gazette,http://dbpedia.org/resource/Green_Bay_Press-Gazette,41.415
+http://dbpedia.org/resource/The_Morning_Sun,The Morning Sun,http://dbpedia.org/resource/The_Morning_Sun,41.275000000000006
+http://dbpedia.org/resource/JoongAng_Ilbo,JoongAng Ilbo,http://dbpedia.org/resource/JoongAng_Ilbo,41.260000000000005
+http://dbpedia.org/resource/National_Herald,National Herald,http://dbpedia.org/resource/National_Herald,41.21
+http://dbpedia.org/resource/The_Post-Crescent,The Post-Crescent,http://dbpedia.org/resource/The_Post-Crescent,41.21
+http://dbpedia.org/resource/Burlington_County_Times,Burlington County Times,http://dbpedia.org/resource/Burlington_County_Times,41.205000000000005
+http://dbpedia.org/resource/The_Greenville_News,The Greenville News,http://dbpedia.org/resource/The_Greenville_News,41.2
+http://dbpedia.org/resource/The_Times-Picayune/The_New_Orleans_Advocate,The Times-Picayune/The New Orleans Advocate,http://dbpedia.org/resource/The_Times-Picayune/The_New_Orleans_Advocate,41.2
+http://dbpedia.org/resource/Vishwavani_News,Vishwavani News,http://dbpedia.org/resource/Vishwavani_News,41.195
+http://dbpedia.org/resource/Hattiesburg_American,Hattiesburg American,http://dbpedia.org/resource/Hattiesburg_American,41.150000000000006
+http://dbpedia.org/resource/The_Examiner_(Missouri),The Examiner (Missouri),http://dbpedia.org/resource/The_Examiner_(Missouri),41.125
+http://dbpedia.org/resource/The_Wakefield_Daily_Item,The Wakefield Daily Item,http://dbpedia.org/resource/The_Wakefield_Daily_Item,41.085
+http://dbpedia.org/resource/The_Japan_Times,The Japan Times,http://dbpedia.org/resource/The_Japan_Times,41.040000000000006
+http://dbpedia.org/resource/The_Topeka_Capital-Journal,The Topeka Capital-Journal,http://dbpedia.org/resource/The_Topeka_Capital-Journal,40.980000000000004
+http://dbpedia.org/resource/Journal_Star_(Peoria),Journal Star (Peoria),http://dbpedia.org/resource/Journal_Star_(Peoria),40.96
+http://dbpedia.org/resource/Dunfermline_Press,Dunfermline Press,http://dbpedia.org/resource/Dunfermline_Press,40.935
+http://dbpedia.org/resource/Anandabazar_Patrika,Anandabazar Patrika,http://dbpedia.org/resource/Anandabazar_Patrika,40.905
+http://dbpedia.org/resource/Ottawa_Citizen,Ottawa Citizen,http://dbpedia.org/resource/Ottawa_Citizen,40.845
+http://dbpedia.org/resource/Baltimore_Afro-American,Baltimore Afro-American,http://dbpedia.org/resource/Baltimore_Afro-American,40.82000000000001
+http://dbpedia.org/resource/Jacksonville_Daily_News,Jacksonville Daily News,http://dbpedia.org/resource/Jacksonville_Daily_News,40.82
+http://dbpedia.org/resource/Sakal,Sakal,http://dbpedia.org/resource/Sakal,40.795
+http://dbpedia.org/resource/Maharashtra_Times,Maharashtra Times,http://dbpedia.org/resource/Maharashtra_Times,40.785
+http://dbpedia.org/resource/The_Telegraph_(India),The Telegraph (India),http://dbpedia.org/resource/The_Telegraph_(India),40.745000000000005
+http://dbpedia.org/resource/The_Sheboygan_Press,The Sheboygan Press,http://dbpedia.org/resource/The_Sheboygan_Press,40.725
+http://dbpedia.org/resource/Golos_Truda,Golos Truda,http://dbpedia.org/resource/Golos_Truda,40.69
+http://dbpedia.org/resource/Derry_Journal,Derry Journal,http://dbpedia.org/resource/Derry_Journal,40.665
+http://dbpedia.org/resource/The_Dispatch_(Lexington),The Dispatch (Lexington),http://dbpedia.org/resource/The_Dispatch_(Lexington),40.64500000000001
+http://dbpedia.org/resource/Virginia_Argus_and_Hampshire_Advertiser,Virginia Argus and Hampshire Advertiser,http://dbpedia.org/resource/Virginia_Argus_and_Hampshire_Advertiser,40.629999999999995
+http://dbpedia.org/resource/Argus_Leader,Argus Leader,http://dbpedia.org/resource/Argus_Leader,40.58500000000001
+http://dbpedia.org/resource/The_Ledger,The Ledger,http://dbpedia.org/resource/The_Ledger,40.55500000000001
+http://dbpedia.org/resource/Daily_Record_(Maryland),Daily Record (Maryland),http://dbpedia.org/resource/Daily_Record_(Maryland),40.55
+"http://dbpedia.org/resource/Times-News_(Burlington,_North_Carolina)","Times-News (Burlington, North Carolina)","http://dbpedia.org/resource/Times-News_(Burlington,_North_Carolina)",40.52
+http://dbpedia.org/resource/The_Express-Times,The Express-Times,http://dbpedia.org/resource/The_Express-Times,40.510000000000005
+http://dbpedia.org/resource/Laiko_Vima,Laiko Vima,http://dbpedia.org/resource/Laiko_Vima,40.5
+http://dbpedia.org/resource/The_Black_Panther_(newspaper),The Black Panther (newspaper),http://dbpedia.org/resource/The_Black_Panther_(newspaper),40.425000000000004
+http://dbpedia.org/resource/Donegal_Democrat,Donegal Democrat,http://dbpedia.org/resource/Donegal_Democrat,40.410000000000004
+http://dbpedia.org/resource/The_Hans_India,The Hans India,http://dbpedia.org/resource/The_Hans_India,40.405
+http://dbpedia.org/resource/The_Gadsden_Times,The Gadsden Times,http://dbpedia.org/resource/The_Gadsden_Times,40.285000000000004
+http://dbpedia.org/resource/The_State_Journal-Register,The State Journal-Register,http://dbpedia.org/resource/The_State_Journal-Register,40.205000000000005
+http://dbpedia.org/resource/Laredo_Morning_Times,Laredo Morning Times,http://dbpedia.org/resource/Laredo_Morning_Times,40.095000000000006
+http://dbpedia.org/resource/Cherokee_Phoenix,Cherokee Phoenix,http://dbpedia.org/resource/Cherokee_Phoenix,40.065
+http://dbpedia.org/resource/The_Pueblo_Chieftain,The Pueblo Chieftain,http://dbpedia.org/resource/The_Pueblo_Chieftain,40.025000000000006
+"http://dbpedia.org/resource/Times-News_(Hendersonville,_North_Carolina)","Times-News (Hendersonville, North Carolina)","http://dbpedia.org/resource/Times-News_(Hendersonville,_North_Carolina)",40.01
+http://dbpedia.org/resource/The_Herald-Times,The Herald-Times,http://dbpedia.org/resource/The_Herald-Times,40.004999999999995
+http://dbpedia.org/resource/Tucson_Citizen,Tucson Citizen,http://dbpedia.org/resource/Tucson_Citizen,40.0
+http://dbpedia.org/resource/La_Prensa_(San_Antonio),La Prensa (San Antonio),http://dbpedia.org/resource/La_Prensa_(San_Antonio),39.95
+http://dbpedia.org/resource/Record-Courier_(Ohio),Record-Courier (Ohio),http://dbpedia.org/resource/Record-Courier_(Ohio),39.935
+http://dbpedia.org/resource/L'Humanité,L'Humanité,http://dbpedia.org/resource/L'Humanité,39.9
+http://dbpedia.org/resource/Berrow's_Worcester_Journal,Berrow's Worcester Journal,http://dbpedia.org/resource/Berrow's_Worcester_Journal,39.805
+http://dbpedia.org/resource/Bangalore_Mirror,Bangalore Mirror,http://dbpedia.org/resource/Bangalore_Mirror,39.805
+http://dbpedia.org/resource/The_Jackson_Sun,The Jackson Sun,http://dbpedia.org/resource/The_Jackson_Sun,39.794999999999995
+http://dbpedia.org/resource/The_Progress-Index,The Progress-Index,http://dbpedia.org/resource/The_Progress-Index,39.785000000000004
+http://dbpedia.org/resource/The_Daily_Tar_Heel,The Daily Tar Heel,http://dbpedia.org/resource/The_Daily_Tar_Heel,39.785
+http://dbpedia.org/resource/Lancashire_Telegraph,Lancashire Telegraph,http://dbpedia.org/resource/Lancashire_Telegraph,39.78
+http://dbpedia.org/resource/Atlanta_Daily_World,Atlanta Daily World,http://dbpedia.org/resource/Atlanta_Daily_World,39.745000000000005
+http://dbpedia.org/resource/New_England_Informer,New England Informer,http://dbpedia.org/resource/New_England_Informer,39.715
+http://dbpedia.org/resource/Al-Thawra_(newspaper),Al-Thawra (newspaper),http://dbpedia.org/resource/Al-Thawra_(newspaper),39.589999999999996
+http://dbpedia.org/resource/Wausau_Daily_Herald,Wausau Daily Herald,http://dbpedia.org/resource/Wausau_Daily_Herald,39.555
+http://dbpedia.org/resource/Treasure_Coast_Newspapers,Treasure Coast Newspapers,http://dbpedia.org/resource/Treasure_Coast_Newspapers,39.445
+http://dbpedia.org/resource/Poughkeepsie_Journal,Poughkeepsie Journal,http://dbpedia.org/resource/Poughkeepsie_Journal,39.35
+http://dbpedia.org/resource/The_Korea_Times,The Korea Times,http://dbpedia.org/resource/The_Korea_Times,39.290000000000006
+http://dbpedia.org/resource/Telefon_Hírmondó,Telefon Hírmondó,http://dbpedia.org/resource/Telefon_Hírmondó,39.23500000000001
+http://dbpedia.org/resource/The_Houma_Courier,The Houma Courier,http://dbpedia.org/resource/The_Houma_Courier,39.230000000000004
+http://dbpedia.org/resource/Corpus_Christi_Caller-Times,Corpus Christi Caller-Times,http://dbpedia.org/resource/Corpus_Christi_Caller-Times,39.21000000000001
+http://dbpedia.org/resource/The_Charlotte_Post,The Charlotte Post,http://dbpedia.org/resource/The_Charlotte_Post,39.085
+http://dbpedia.org/resource/The_Hutchinson_News,The Hutchinson News,http://dbpedia.org/resource/The_Hutchinson_News,39.02
+http://dbpedia.org/resource/Pittsburgh_Tribune-Review,Pittsburgh Tribune-Review,http://dbpedia.org/resource/Pittsburgh_Tribune-Review,38.980000000000004
+"http://dbpedia.org/resource/Daily_Herald_(Columbia,_Tennessee)","Daily Herald (Columbia, Tennessee)","http://dbpedia.org/resource/Daily_Herald_(Columbia,_Tennessee)",38.945
+http://dbpedia.org/resource/The_Leader_(Corning),The Leader (Corning),http://dbpedia.org/resource/The_Leader_(Corning),38.93
+http://dbpedia.org/resource/The_Journal_Record,The Journal Record,http://dbpedia.org/resource/The_Journal_Record,38.875
+http://dbpedia.org/resource/The_Salinas_Californian,The Salinas Californian,http://dbpedia.org/resource/The_Salinas_Californian,38.875
+http://dbpedia.org/resource/Dodge_City_Daily_Globe,Dodge City Daily Globe,http://dbpedia.org/resource/Dodge_City_Daily_Globe,38.815
+http://dbpedia.org/resource/Iowa_City_Press-Citizen,Iowa City Press-Citizen,http://dbpedia.org/resource/Iowa_City_Press-Citizen,38.81
+http://dbpedia.org/resource/The_Times-Reporter,The Times-Reporter,http://dbpedia.org/resource/The_Times-Reporter,38.800000000000004
+http://dbpedia.org/resource/Business_Line,Business Line,http://dbpedia.org/resource/Business_Line,38.790000000000006
+http://dbpedia.org/resource/Las_Cruces_Sun-News,Las Cruces Sun-News,http://dbpedia.org/resource/Las_Cruces_Sun-News,38.785000000000004
+http://dbpedia.org/resource/The_Times_Herald,The Times Herald,http://dbpedia.org/resource/The_Times_Herald,38.785
+http://dbpedia.org/resource/Al-Baʽath,Al-Baʽath,http://dbpedia.org/resource/Al-Baʽath,38.760000000000005
+http://dbpedia.org/resource/Olney_Daily_Mail,Olney Daily Mail,http://dbpedia.org/resource/Olney_Daily_Mail,38.745000000000005
+http://dbpedia.org/resource/Navbharat_Times,Navbharat Times,http://dbpedia.org/resource/Navbharat_Times,38.735
+http://dbpedia.org/resource/Ajit_(newspaper),Ajit (newspaper),http://dbpedia.org/resource/Ajit_(newspaper),38.730000000000004
+"http://dbpedia.org/resource/The_Daily_Times_(Salisbury,_Maryland)","The Daily Times (Salisbury, Maryland)","http://dbpedia.org/resource/The_Daily_Times_(Salisbury,_Maryland)",38.730000000000004
+http://dbpedia.org/resource/Mansfield_News_Journal,Mansfield News Journal,http://dbpedia.org/resource/Mansfield_News_Journal,38.720000000000006
+http://dbpedia.org/resource/Kinston_Free_Press,Kinston Free Press,http://dbpedia.org/resource/Kinston_Free_Press,38.71
+http://dbpedia.org/resource/The_Real_Paper,The Real Paper,http://dbpedia.org/resource/The_Real_Paper,38.685
+http://dbpedia.org/resource/Trolley_Times,Trolley Times,http://dbpedia.org/resource/Trolley_Times,38.675000000000004
+http://dbpedia.org/resource/Washington_Examiner,Washington Examiner,http://dbpedia.org/resource/Washington_Examiner,38.675000000000004
+http://dbpedia.org/resource/Tulsa_World,Tulsa World,http://dbpedia.org/resource/Tulsa_World,38.675000000000004
+http://dbpedia.org/resource/Aftenposten,Aftenposten,http://dbpedia.org/resource/Aftenposten,38.67
+http://dbpedia.org/resource/Foster's_Daily_Democrat,Foster's Daily Democrat,http://dbpedia.org/resource/Foster's_Daily_Democrat,38.665
+http://dbpedia.org/resource/La_Stampa,La Stampa,http://dbpedia.org/resource/La_Stampa,38.665
+http://dbpedia.org/resource/Naples_Daily_News,Naples Daily News,http://dbpedia.org/resource/Naples_Daily_News,38.605
+"http://dbpedia.org/resource/The_Daily_Advertiser_(Lafayette,_Louisiana)","The Daily Advertiser (Lafayette, Louisiana)","http://dbpedia.org/resource/The_Daily_Advertiser_(Lafayette,_Louisiana)",38.595
+http://dbpedia.org/resource/The_Evening_Tribune_(Hornell),The Evening Tribune (Hornell),http://dbpedia.org/resource/The_Evening_Tribune_(Hornell),38.575
+http://dbpedia.org/resource/Honi_Soit,Honi Soit,http://dbpedia.org/resource/Honi_Soit,38.54
+http://dbpedia.org/resource/The_Gaston_Gazette,The Gaston Gazette,http://dbpedia.org/resource/The_Gaston_Gazette,38.53
+http://dbpedia.org/resource/Abilene_Reporter-News,Abilene Reporter-News,http://dbpedia.org/resource/Abilene_Reporter-News,38.52
+http://dbpedia.org/resource/The_Salina_Journal,The Salina Journal,http://dbpedia.org/resource/The_Salina_Journal,38.515
+http://dbpedia.org/resource/Kitsap_Sun,Kitsap Sun,http://dbpedia.org/resource/Kitsap_Sun,38.49
+http://dbpedia.org/resource/The_Recorder_(Port_Pirie),The Recorder (Port Pirie),http://dbpedia.org/resource/The_Recorder_(Port_Pirie),38.474999999999994
+http://dbpedia.org/resource/Fort_Worth_Star-Telegram,Fort Worth Star-Telegram,http://dbpedia.org/resource/Fort_Worth_Star-Telegram,38.465
+http://dbpedia.org/resource/Liverpool_Daily_Post,Liverpool Daily Post,http://dbpedia.org/resource/Liverpool_Daily_Post,38.395
+"http://dbpedia.org/resource/The_Record_(Stockton,_California)","The Record (Stockton, California)","http://dbpedia.org/resource/The_Record_(Stockton,_California)",38.385000000000005
+http://dbpedia.org/resource/Daily_Record_(New_Jersey),Daily Record (New Jersey),http://dbpedia.org/resource/Daily_Record_(New_Jersey),38.36
+http://dbpedia.org/resource/Carlsbad_Current-Argus,Carlsbad Current-Argus,http://dbpedia.org/resource/Carlsbad_Current-Argus,38.345
+http://dbpedia.org/resource/Telegraph_and_Texas_Register,Telegraph and Texas Register,http://dbpedia.org/resource/Telegraph_and_Texas_Register,38.335
+http://dbpedia.org/resource/The_News-Press,The News-Press,http://dbpedia.org/resource/The_News-Press,38.325
+http://dbpedia.org/resource/The_Independent_(Massillon),The Independent (Massillon),http://dbpedia.org/resource/The_Independent_(Massillon),38.28
+http://dbpedia.org/resource/Billboard_Brasil,Billboard Brasil,http://dbpedia.org/resource/Billboard_Brasil,38.265
+http://dbpedia.org/resource/The_Evening_News_(Sault_Ste._Marie),The Evening News (Sault Ste. Marie),http://dbpedia.org/resource/The_Evening_News_(Sault_Ste._Marie),38.265
+http://dbpedia.org/resource/Holyoke_Transcript-Telegram,Holyoke Transcript-Telegram,http://dbpedia.org/resource/Holyoke_Transcript-Telegram,38.25
+http://dbpedia.org/resource/Winston-Salem_Journal,Winston-Salem Journal,http://dbpedia.org/resource/Winston-Salem_Journal,38.25
+http://dbpedia.org/resource/Church_News,Church News,http://dbpedia.org/resource/Church_News,38.22
+http://dbpedia.org/resource/Saamana,Saamana,http://dbpedia.org/resource/Saamana,38.21
+http://dbpedia.org/resource/The_Holland_Sentinel,The Holland Sentinel,http://dbpedia.org/resource/The_Holland_Sentinel,38.185
+"http://dbpedia.org/resource/Sun_Journal_(New_Bern,_North_Carolina)","Sun Journal (New Bern, North Carolina)","http://dbpedia.org/resource/Sun_Journal_(New_Bern,_North_Carolina)",38.18
+http://dbpedia.org/resource/The_Observer_(Uganda),The Observer (Uganda),http://dbpedia.org/resource/The_Observer_(Uganda),38.175
+http://dbpedia.org/resource/The_Herald-Mail,The Herald-Mail,http://dbpedia.org/resource/The_Herald-Mail,38.16
+http://dbpedia.org/resource/Manila_Bulletin,Manila Bulletin,http://dbpedia.org/resource/Manila_Bulletin,38.135000000000005
+http://dbpedia.org/resource/Grimsby_Telegraph,Grimsby Telegraph,http://dbpedia.org/resource/Grimsby_Telegraph,38.089999999999996
+http://dbpedia.org/resource/San_Angelo_Standard-Times,San Angelo Standard-Times,http://dbpedia.org/resource/San_Angelo_Standard-Times,38.07
+http://dbpedia.org/resource/The_Times_of_Israel,The Times of Israel,http://dbpedia.org/resource/The_Times_of_Israel,38.055
+http://dbpedia.org/resource/Northwest_Florida_Daily_News,Northwest Florida Daily News,http://dbpedia.org/resource/Northwest_Florida_Daily_News,38.03
+http://dbpedia.org/resource/Missoulian,Missoulian,http://dbpedia.org/resource/Missoulian,38.005
+http://dbpedia.org/resource/Catholic_Worker_(newspaper),Catholic Worker (newspaper),http://dbpedia.org/resource/Catholic_Worker_(newspaper),37.98
+http://dbpedia.org/resource/Brownwood_Bulletin,Brownwood Bulletin,http://dbpedia.org/resource/Brownwood_Bulletin,37.964999999999996
+http://dbpedia.org/resource/Star-Gazette,Star-Gazette,http://dbpedia.org/resource/Star-Gazette,37.955000000000005
+http://dbpedia.org/resource/The_Newton_Kansan,The Newton Kansan,http://dbpedia.org/resource/The_Newton_Kansan,37.91
+http://dbpedia.org/resource/The_Daily_Pennsylvanian,The Daily Pennsylvanian,http://dbpedia.org/resource/The_Daily_Pennsylvanian,37.87500000000001
+http://dbpedia.org/resource/Tribune_(magazine),Tribune (magazine),http://dbpedia.org/resource/Tribune_(magazine),37.875
+http://dbpedia.org/resource/The_Tufts_Daily,The Tufts Daily,http://dbpedia.org/resource/The_Tufts_Daily,37.86000000000001
+http://dbpedia.org/resource/News_Chief,News Chief,http://dbpedia.org/resource/News_Chief,37.83
+http://dbpedia.org/resource/Sturgis_Journal,Sturgis Journal,http://dbpedia.org/resource/Sturgis_Journal,37.82000000000001
+http://dbpedia.org/resource/Palm_Beach_Daily_News,Palm Beach Daily News,http://dbpedia.org/resource/Palm_Beach_Daily_News,37.809999999999995
+http://dbpedia.org/resource/Boston_Gazette,Boston Gazette,http://dbpedia.org/resource/Boston_Gazette,37.78
+"http://dbpedia.org/resource/The_Reporter_(Fond_du_Lac,_Wisconsin)","The Reporter (Fond du Lac, Wisconsin)","http://dbpedia.org/resource/The_Reporter_(Fond_du_Lac,_Wisconsin)",37.775
+http://dbpedia.org/resource/Hillsdale_Daily_News,Hillsdale Daily News,http://dbpedia.org/resource/Hillsdale_Daily_News,37.75000000000001
+http://dbpedia.org/resource/The_Herald_(Ireland),The Herald (Ireland),http://dbpedia.org/resource/The_Herald_(Ireland),37.735
+http://dbpedia.org/resource/Punjab_Kesari,Punjab Kesari,http://dbpedia.org/resource/Punjab_Kesari,37.675000000000004
+http://dbpedia.org/resource/The_Shawnee_News-Star,The Shawnee News-Star,http://dbpedia.org/resource/The_Shawnee_News-Star,37.559999999999995
+http://dbpedia.org/resource/The_Shelby_Star,The Shelby Star,http://dbpedia.org/resource/The_Shelby_Star,37.550000000000004
+http://dbpedia.org/resource/Freedom's_Journal,Freedom's Journal,http://dbpedia.org/resource/Freedom's_Journal,37.525
+http://dbpedia.org/resource/Battle_Creek_Enquirer,Battle Creek Enquirer,http://dbpedia.org/resource/Battle_Creek_Enquirer,37.525
+http://dbpedia.org/resource/Chillicothe_Gazette,Chillicothe Gazette,http://dbpedia.org/resource/Chillicothe_Gazette,37.52
+http://dbpedia.org/resource/Wellsville_Daily_Reporter,Wellsville Daily Reporter,http://dbpedia.org/resource/Wellsville_Daily_Reporter,37.48
+http://dbpedia.org/resource/Vanglaini,Vanglaini,http://dbpedia.org/resource/Vanglaini,37.465
+http://dbpedia.org/resource/The_Leaf-Chronicle,The Leaf-Chronicle,http://dbpedia.org/resource/The_Leaf-Chronicle,37.445
+http://dbpedia.org/resource/The_Pioneer_(India),The Pioneer (India),http://dbpedia.org/resource/The_Pioneer_(India),37.434999999999995
+http://dbpedia.org/resource/The_Herald_Times_Reporter,The Herald Times Reporter,http://dbpedia.org/resource/The_Herald_Times_Reporter,37.43
+http://dbpedia.org/resource/Arizona_Capitol_Times,Arizona Capitol Times,http://dbpedia.org/resource/Arizona_Capitol_Times,37.37
+http://dbpedia.org/resource/Times_Record_News,Times Record News,http://dbpedia.org/resource/Times_Record_News,37.35
+http://dbpedia.org/resource/Boston_Business_Journal,Boston Business Journal,http://dbpedia.org/resource/Boston_Business_Journal,37.335
+http://dbpedia.org/resource/National_Gazette,National Gazette,http://dbpedia.org/resource/National_Gazette,37.32
+http://dbpedia.org/resource/Cheboygan_Daily_Tribune,Cheboygan Daily Tribune,http://dbpedia.org/resource/Cheboygan_Daily_Tribune,37.254999999999995
+http://dbpedia.org/resource/Wollongong_Advertiser,Wollongong Advertiser,http://dbpedia.org/resource/Wollongong_Advertiser,37.225
+http://dbpedia.org/resource/The_Times_Telegram,The Times Telegram,http://dbpedia.org/resource/The_Times_Telegram,37.135
+http://dbpedia.org/resource/Ames_Tribune,Ames Tribune,http://dbpedia.org/resource/Ames_Tribune,37.135
+http://dbpedia.org/resource/Brighton_Voice,Brighton Voice,http://dbpedia.org/resource/Brighton_Voice,37.129999999999995
+http://dbpedia.org/resource/The_Register-Mail,The Register-Mail,http://dbpedia.org/resource/The_Register-Mail,37.105
+http://dbpedia.org/resource/Boston_American,Boston American,http://dbpedia.org/resource/Boston_American,37.095
+http://dbpedia.org/resource/Pacific_Daily_News,Pacific Daily News,http://dbpedia.org/resource/Pacific_Daily_News,37.09499999999999
+http://dbpedia.org/resource/Asana_Journal,Asana Journal,http://dbpedia.org/resource/Asana_Journal,37.085
+http://dbpedia.org/resource/Springfield_News-Leader,Springfield News-Leader,http://dbpedia.org/resource/Springfield_News-Leader,37.075
+http://dbpedia.org/resource/Times_Recorder,Times Recorder,http://dbpedia.org/resource/Times_Recorder,37.059999999999995
+http://dbpedia.org/resource/The_New_York_Sun,The New York Sun,http://dbpedia.org/resource/The_New_York_Sun,37.055
+http://dbpedia.org/resource/Coshocton_Tribune,Coshocton Tribune,http://dbpedia.org/resource/Coshocton_Tribune,37.029999999999994
+http://dbpedia.org/resource/Bartlesville_Examiner-Enterprise,Bartlesville Examiner-Enterprise,http://dbpedia.org/resource/Bartlesville_Examiner-Enterprise,37.025
+http://dbpedia.org/resource/Los_Angeles_Herald_Examiner,Los Angeles Herald Examiner,http://dbpedia.org/resource/Los_Angeles_Herald_Examiner,37.01
+http://dbpedia.org/resource/The_Journal_Standard,The Journal Standard,http://dbpedia.org/resource/The_Journal_Standard,36.96
+http://dbpedia.org/resource/The_Daily_Leader,The Daily Leader,http://dbpedia.org/resource/The_Daily_Leader,36.96
+http://dbpedia.org/resource/The_Daily_Ledger,The Daily Ledger,http://dbpedia.org/resource/The_Daily_Ledger,36.915000000000006
+http://dbpedia.org/resource/Chillicothe_Constitution-Tribune,Chillicothe Constitution-Tribune,http://dbpedia.org/resource/Chillicothe_Constitution-Tribune,36.9
+http://dbpedia.org/resource/Lincoln_Courier,Lincoln Courier,http://dbpedia.org/resource/Lincoln_Courier,36.87
+http://dbpedia.org/resource/Pekin_Daily_Times,Pekin Daily Times,http://dbpedia.org/resource/Pekin_Daily_Times,36.855
+http://dbpedia.org/resource/The_Ardmoreite,The Ardmoreite,http://dbpedia.org/resource/The_Ardmoreite,36.845
+http://dbpedia.org/resource/The_San_Bernardino_Sun,The San Bernardino Sun,http://dbpedia.org/resource/The_San_Bernardino_Sun,36.824999999999996
+http://dbpedia.org/resource/The_Daily_Reporter_(Coldwater),The Daily Reporter (Coldwater),http://dbpedia.org/resource/The_Daily_Reporter_(Coldwater),36.79
+http://dbpedia.org/resource/Loksatta,Loksatta,http://dbpedia.org/resource/Loksatta,36.78
+http://dbpedia.org/resource/Star_Courier,Star Courier,http://dbpedia.org/resource/Star_Courier,36.77
+http://dbpedia.org/resource/The_Phoenix_(newspaper),The Phoenix (newspaper),http://dbpedia.org/resource/The_Phoenix_(newspaper),36.77
+http://dbpedia.org/resource/The_Chicago_Defender,The Chicago Defender,http://dbpedia.org/resource/The_Chicago_Defender,36.765
+http://dbpedia.org/resource/Fairbanks_Daily_News-Miner,Fairbanks Daily News-Miner,http://dbpedia.org/resource/Fairbanks_Daily_News-Miner,36.760000000000005
+http://dbpedia.org/resource/Alice_Echo-News_Journal,Alice Echo-News Journal,http://dbpedia.org/resource/Alice_Echo-News_Journal,36.76
+http://dbpedia.org/resource/The_Herald_Democrat,The Herald Democrat,http://dbpedia.org/resource/The_Herald_Democrat,36.74999999999999
+http://dbpedia.org/resource/Mineral_Daily_News-Tribune,Mineral Daily News-Tribune,http://dbpedia.org/resource/Mineral_Daily_News-Tribune,36.745
+http://dbpedia.org/resource/Corvallis_Gazette-Times,Corvallis Gazette-Times,http://dbpedia.org/resource/Corvallis_Gazette-Times,36.735
+http://dbpedia.org/resource/University_Times,University Times,http://dbpedia.org/resource/University_Times,36.72
+http://dbpedia.org/resource/The_Baxter_Bulletin,The Baxter Bulletin,http://dbpedia.org/resource/The_Baxter_Bulletin,36.71999999999999
+http://dbpedia.org/resource/The_Rolla_Daily_News,The Rolla Daily News,http://dbpedia.org/resource/The_Rolla_Daily_News,36.7
+http://dbpedia.org/resource/Ionia_Sentinel-Standard,Ionia Sentinel-Standard,http://dbpedia.org/resource/Ionia_Sentinel-Standard,36.684999999999995
+http://dbpedia.org/resource/Fort_Collins_Coloradoan,Fort Collins Coloradoan,http://dbpedia.org/resource/Fort_Collins_Coloradoan,36.68
+http://dbpedia.org/resource/The_Daily_Princetonian,The Daily Princetonian,http://dbpedia.org/resource/The_Daily_Princetonian,36.67
+http://dbpedia.org/resource/Secolo_d'Italia,Secolo d'Italia,http://dbpedia.org/resource/Secolo_d'Italia,36.67
+http://dbpedia.org/resource/Deming_Headlight,Deming Headlight,http://dbpedia.org/resource/Deming_Headlight,36.6
+http://dbpedia.org/resource/Daily_Review_Atlas,Daily Review Atlas,http://dbpedia.org/resource/Daily_Review_Atlas,36.565
+http://dbpedia.org/resource/The_Detroit_News,The Detroit News,http://dbpedia.org/resource/The_Detroit_News,36.515
+http://dbpedia.org/resource/The_Oak_Ridger,The Oak Ridger,http://dbpedia.org/resource/The_Oak_Ridger,36.5
+http://dbpedia.org/resource/Houston_Press_(Scripps_Howard),Houston Press (Scripps Howard),http://dbpedia.org/resource/Houston_Press_(Scripps_Howard),36.495
+http://dbpedia.org/resource/Hindu_Tamil_Thisai,Hindu Tamil Thisai,http://dbpedia.org/resource/Hindu_Tamil_Thisai,36.49
+http://dbpedia.org/resource/New_York_Journal-American,New York Journal-American,http://dbpedia.org/resource/New_York_Journal-American,36.49
+http://dbpedia.org/resource/Finance_&_Commerce,Finance & Commerce,http://dbpedia.org/resource/Finance_&_Commerce,36.480000000000004
+http://dbpedia.org/resource/Northern_Whig,Northern Whig,http://dbpedia.org/resource/Northern_Whig,36.465
+http://dbpedia.org/resource/The_Tech_(newspaper),The Tech (newspaper),http://dbpedia.org/resource/The_Tech_(newspaper),36.464999999999996
+http://dbpedia.org/resource/Watertown_Public_Opinion,Watertown Public Opinion,http://dbpedia.org/resource/Watertown_Public_Opinion,36.43
+http://dbpedia.org/resource/The_Daily_Free_Press,The Daily Free Press,http://dbpedia.org/resource/The_Daily_Free_Press,36.410000000000004
+http://dbpedia.org/resource/Znamya_(newspaper),Znamya (newspaper),http://dbpedia.org/resource/Znamya_(newspaper),36.385
+http://dbpedia.org/resource/The_American_News,The American News,http://dbpedia.org/resource/The_American_News,36.379999999999995
+http://dbpedia.org/resource/Hindustan_(newspaper),Hindustan (newspaper),http://dbpedia.org/resource/Hindustan_(newspaper),36.379999999999995
+http://dbpedia.org/resource/Du_Quoin_Evening_Call,Du Quoin Evening Call,http://dbpedia.org/resource/Du_Quoin_Evening_Call,36.355
+http://dbpedia.org/resource/Casual_Living,Casual Living,http://dbpedia.org/resource/Casual_Living,36.33
+http://dbpedia.org/resource/The_Sunday_Times_(Western_Australia),The Sunday Times (Western Australia),http://dbpedia.org/resource/The_Sunday_Times_(Western_Australia),36.309999999999995
+http://dbpedia.org/resource/Leavenworth_Times,Leavenworth Times,http://dbpedia.org/resource/Leavenworth_Times,36.28
+http://dbpedia.org/resource/Spare_Change_News,Spare Change News,http://dbpedia.org/resource/Spare_Change_News,36.28
+http://dbpedia.org/resource/Rajasthan_Patrika,Rajasthan Patrika,http://dbpedia.org/resource/Rajasthan_Patrika,36.275
+http://dbpedia.org/resource/New_York_Native,New York Native,http://dbpedia.org/resource/New_York_Native,36.275
+http://dbpedia.org/resource/Garden_City_Telegram,Garden City Telegram,http://dbpedia.org/resource/Garden_City_Telegram,36.245
+http://dbpedia.org/resource/The_Brown_Daily_Herald,The Brown Daily Herald,http://dbpedia.org/resource/The_Brown_Daily_Herald,36.23
+http://dbpedia.org/resource/The_Star_Press,The Star Press,http://dbpedia.org/resource/The_Star_Press,36.175000000000004
+http://dbpedia.org/resource/Forest_Grove_Leader,Forest Grove Leader,http://dbpedia.org/resource/Forest_Grove_Leader,36.145
+http://dbpedia.org/resource/Watford_Observer,Watford Observer,http://dbpedia.org/resource/Watford_Observer,36.14
+http://dbpedia.org/resource/Folha_de_S.Paulo,Folha de S.Paulo,http://dbpedia.org/resource/Folha_de_S.Paulo,36.125
+http://dbpedia.org/resource/The_Pall_Mall_Gazette,The Pall Mall Gazette,http://dbpedia.org/resource/The_Pall_Mall_Gazette,36.085
+http://dbpedia.org/resource/Palladium-Item,Palladium-Item,http://dbpedia.org/resource/Palladium-Item,36.080000000000005
+http://dbpedia.org/resource/The_Advocate_(Newark),The Advocate (Newark),http://dbpedia.org/resource/The_Advocate_(Newark),36.08
+http://dbpedia.org/resource/Zamin_Ryot,Zamin Ryot,http://dbpedia.org/resource/Zamin_Ryot,36.074999999999996
+http://dbpedia.org/resource/Petoskey_News-Review,Petoskey News-Review,http://dbpedia.org/resource/Petoskey_News-Review,36.07
+http://dbpedia.org/resource/Reading_Chronicle,Reading Chronicle,http://dbpedia.org/resource/Reading_Chronicle,36.059999999999995
+http://dbpedia.org/resource/The_Pilot_(Massachusetts_newspaper),The Pilot (Massachusetts newspaper),http://dbpedia.org/resource/The_Pilot_(Massachusetts_newspaper),36.055
+http://dbpedia.org/resource/The_Daily_Republican,The Daily Republican,http://dbpedia.org/resource/The_Daily_Republican,36.035000000000004
+http://dbpedia.org/resource/Zapata_Times,Zapata Times,http://dbpedia.org/resource/Zapata_Times,36.015
+http://dbpedia.org/resource/Southwest_Times_Record,Southwest Times Record,http://dbpedia.org/resource/Southwest_Times_Record,35.98500000000001
+http://dbpedia.org/resource/Boonville_Daily_News,Boonville Daily News,http://dbpedia.org/resource/Boonville_Daily_News,35.98
+http://dbpedia.org/resource/The_Louisville_Times,The Louisville Times,http://dbpedia.org/resource/The_Louisville_Times,35.964999999999996
+http://dbpedia.org/resource/Daily_American_(Illinois),Daily American (Illinois),http://dbpedia.org/resource/Daily_American_(Illinois),35.96
+http://dbpedia.org/resource/Omaha_Star,Omaha Star,http://dbpedia.org/resource/Omaha_Star,35.895
+http://dbpedia.org/resource/The_Carmi_Times,The Carmi Times,http://dbpedia.org/resource/The_Carmi_Times,35.88
+http://dbpedia.org/resource/The_Daily_Independent_(Ridgecrest),The Daily Independent (Ridgecrest),http://dbpedia.org/resource/The_Daily_Independent_(Ridgecrest),35.815
+http://dbpedia.org/resource/Long_Island_Business_News,Long Island Business News,http://dbpedia.org/resource/Long_Island_Business_News,35.755
+http://dbpedia.org/resource/Wisconsin_Rapids_Daily_Tribune,Wisconsin Rapids Daily Tribune,http://dbpedia.org/resource/Wisconsin_Rapids_Daily_Tribune,35.74
+http://dbpedia.org/resource/The_Daily_Jeffersonian,The Daily Jeffersonian,http://dbpedia.org/resource/The_Daily_Jeffersonian,35.735
+http://dbpedia.org/resource/The_Bulletin_(Norwich),The Bulletin (Norwich),http://dbpedia.org/resource/The_Bulletin_(Norwich),35.73
+http://dbpedia.org/resource/La_Voz_(Phoenix),La Voz (Phoenix),http://dbpedia.org/resource/La_Voz_(Phoenix),35.725
+http://dbpedia.org/resource/Townsville_Bulletin,Townsville Bulletin,http://dbpedia.org/resource/Townsville_Bulletin,35.72
+http://dbpedia.org/resource/Charlevoix_Courier,Charlevoix Courier,http://dbpedia.org/resource/Charlevoix_Courier,35.714999999999996
+http://dbpedia.org/resource/Redding_Record_Searchlight,Redding Record Searchlight,http://dbpedia.org/resource/Redding_Record_Searchlight,35.7
+http://dbpedia.org/resource/Beauregard_Daily_News,Beauregard Daily News,http://dbpedia.org/resource/Beauregard_Daily_News,35.7
+http://dbpedia.org/resource/Boone_News-Republican,Boone News-Republican,http://dbpedia.org/resource/Boone_News-Republican,35.695
+http://dbpedia.org/resource/The_St._Augustine_Record,The St. Augustine Record,http://dbpedia.org/resource/The_St._Augustine_Record,35.68
+http://dbpedia.org/resource/Home_Accents_Today,Home Accents Today,http://dbpedia.org/resource/Home_Accents_Today,35.675000000000004
+http://dbpedia.org/resource/Kirksville_Daily_Express,Kirksville Daily Express,http://dbpedia.org/resource/Kirksville_Daily_Express,35.635000000000005
+http://dbpedia.org/resource/Yomiuri_Shimbun,Yomiuri Shimbun,http://dbpedia.org/resource/Yomiuri_Shimbun,35.63
+http://dbpedia.org/resource/The_Daily_News_(UK),The Daily News (UK),http://dbpedia.org/resource/The_Daily_News_(UK),35.625
+http://dbpedia.org/resource/Večernji_list,Večernji list,http://dbpedia.org/resource/Večernji_list,35.625
+http://dbpedia.org/resource/Southern_Metropolis_Daily,Southern Metropolis Daily,http://dbpedia.org/resource/Southern_Metropolis_Daily,35.615
+http://dbpedia.org/resource/Freedom_(British_newspaper),Freedom (British newspaper),http://dbpedia.org/resource/Freedom_(British_newspaper),35.615
+http://dbpedia.org/resource/Mysooru_Mithra,Mysooru Mithra,http://dbpedia.org/resource/Mysooru_Mithra,35.595
+http://dbpedia.org/resource/Gaylord_Herald_Times,Gaylord Herald Times,http://dbpedia.org/resource/Gaylord_Herald_Times,35.535
+http://dbpedia.org/resource/The_Dong-a_Ilbo,The Dong-a Ilbo,http://dbpedia.org/resource/The_Dong-a_Ilbo,35.535
+http://dbpedia.org/resource/The_Wellington_Daily_News,The Wellington Daily News,http://dbpedia.org/resource/The_Wellington_Daily_News,35.52
+http://dbpedia.org/resource/Miami_News-Record,Miami News-Record,http://dbpedia.org/resource/Miami_News-Record,35.504999999999995
+http://dbpedia.org/resource/Leesville_Daily_Leader,Leesville Daily Leader,http://dbpedia.org/resource/Leesville_Daily_Leader,35.495
+http://dbpedia.org/resource/The_Boston_Record,The Boston Record,http://dbpedia.org/resource/The_Boston_Record,35.480000000000004
+http://dbpedia.org/resource/Lancaster_Eagle-Gazette,Lancaster Eagle-Gazette,http://dbpedia.org/resource/Lancaster_Eagle-Gazette,35.46
+http://dbpedia.org/resource/Prajasakti,Prajasakti,http://dbpedia.org/resource/Prajasakti,35.43
+http://dbpedia.org/resource/Bucks_Free_Press,Bucks Free Press,http://dbpedia.org/resource/Bucks_Free_Press,35.41
+http://dbpedia.org/resource/Cork_Free_Press,Cork Free Press,http://dbpedia.org/resource/Cork_Free_Press,35.355000000000004
+http://dbpedia.org/resource/The_Philadelphia_Tribune,The Philadelphia Tribune,http://dbpedia.org/resource/The_Philadelphia_Tribune,35.345
+http://dbpedia.org/resource/Salisbury_Journal,Salisbury Journal,http://dbpedia.org/resource/Salisbury_Journal,35.275000000000006
+http://dbpedia.org/resource/The_Daily_Siftings_Herald,The Daily Siftings Herald,http://dbpedia.org/resource/The_Daily_Siftings_Herald,35.26
+http://dbpedia.org/resource/Bucks_County_Courier_Times,Bucks County Courier Times,http://dbpedia.org/resource/Bucks_County_Courier_Times,35.25
+http://dbpedia.org/resource/Bastrop_Daily_Enterprise,Bastrop Daily Enterprise,http://dbpedia.org/resource/Bastrop_Daily_Enterprise,35.24
+http://dbpedia.org/resource/Anderson_Independent-Mail,Anderson Independent-Mail,http://dbpedia.org/resource/Anderson_Independent-Mail,35.235
+http://dbpedia.org/resource/Jewish_Herald-Voice,Jewish Herald-Voice,http://dbpedia.org/resource/Jewish_Herald-Voice,35.230000000000004
+http://dbpedia.org/resource/Bluffton_Today,Bluffton Today,http://dbpedia.org/resource/Bluffton_Today,35.2
+http://dbpedia.org/resource/Willamette_Week,Willamette Week,http://dbpedia.org/resource/Willamette_Week,35.184999999999995
+http://dbpedia.org/resource/Church_Times,Church Times,http://dbpedia.org/resource/Church_Times,35.17
+http://dbpedia.org/resource/Albany_Democrat-Herald,Albany Democrat-Herald,http://dbpedia.org/resource/Albany_Democrat-Herald,35.145
+http://dbpedia.org/resource/Uttarbanga_Sambad,Uttarbanga Sambad,http://dbpedia.org/resource/Uttarbanga_Sambad,35.14
+http://dbpedia.org/resource/Daily_Press_(California),Daily Press (California),http://dbpedia.org/resource/Daily_Press_(California),35.14
+http://dbpedia.org/resource/Yale_Daily_News,Yale Daily News,http://dbpedia.org/resource/Yale_Daily_News,35.105
+http://dbpedia.org/resource/The_Free_Press_Journal,The Free Press Journal,http://dbpedia.org/resource/The_Free_Press_Journal,35.080000000000005
+http://dbpedia.org/resource/Libération,Libération,http://dbpedia.org/resource/Libération,35.055
+http://dbpedia.org/resource/Bay_Windows,Bay Windows,http://dbpedia.org/resource/Bay_Windows,34.980000000000004
+http://dbpedia.org/resource/Svenska_Dagbladet,Svenska Dagbladet,http://dbpedia.org/resource/Svenska_Dagbladet,34.975
+http://dbpedia.org/resource/Journal_&_Courier,Journal & Courier,http://dbpedia.org/resource/Journal_&_Courier,34.96
+http://dbpedia.org/resource/Jacksonville_Business_Journal,Jacksonville Business Journal,http://dbpedia.org/resource/Jacksonville_Business_Journal,34.905
+http://dbpedia.org/resource/Vancouver_Sun,Vancouver Sun,http://dbpedia.org/resource/Vancouver_Sun,34.85500000000001
+http://dbpedia.org/resource/Aftonbladet,Aftonbladet,http://dbpedia.org/resource/Aftonbladet,34.835
+http://dbpedia.org/resource/Der_Ruf_(newspaper),Der Ruf (newspaper),http://dbpedia.org/resource/Der_Ruf_(newspaper),34.830000000000005
+http://dbpedia.org/resource/Toronto_Sun,Toronto Sun,http://dbpedia.org/resource/Toronto_Sun,34.82
+http://dbpedia.org/resource/Oakland_Tribune,Oakland Tribune,http://dbpedia.org/resource/Oakland_Tribune,34.805
+http://dbpedia.org/resource/Nava_Bharat,Nava Bharat,http://dbpedia.org/resource/Nava_Bharat,34.785
+http://dbpedia.org/resource/The_Pratt_Tribune,The Pratt Tribune,http://dbpedia.org/resource/The_Pratt_Tribune,34.775
+http://dbpedia.org/resource/Nash_Vesnik,Nash Vesnik,http://dbpedia.org/resource/Nash_Vesnik,34.765
+http://dbpedia.org/resource/News_Letter,News Letter,http://dbpedia.org/resource/News_Letter,34.72
+http://dbpedia.org/resource/Columbus_Alive,Columbus Alive,http://dbpedia.org/resource/Columbus_Alive,34.72
+http://dbpedia.org/resource/The_Massachusetts_Daily_Collegian,The Massachusetts Daily Collegian,http://dbpedia.org/resource/The_Massachusetts_Daily_Collegian,34.7
+http://dbpedia.org/resource/Rochester_Times-Union,Rochester Times-Union,http://dbpedia.org/resource/Rochester_Times-Union,34.690000000000005
+http://dbpedia.org/resource/Ayr_Advertiser,Ayr Advertiser,http://dbpedia.org/resource/Ayr_Advertiser,34.67
+http://dbpedia.org/resource/FrontPage_Magazine,FrontPage Magazine,http://dbpedia.org/resource/FrontPage_Magazine,34.665
+http://dbpedia.org/resource/Gazette_and_Herald,Gazette and Herald,http://dbpedia.org/resource/Gazette_and_Herald,34.65
+http://dbpedia.org/resource/The_Salem_News,The Salem News,http://dbpedia.org/resource/The_Salem_News,34.615
+http://dbpedia.org/resource/International_Herald_Tribune,International Herald Tribune,http://dbpedia.org/resource/International_Herald_Tribune,34.605000000000004
+http://dbpedia.org/resource/Black_Mountain_News,Black Mountain News,http://dbpedia.org/resource/Black_Mountain_News,34.605
+http://dbpedia.org/resource/Seminole_Chronicle,Seminole Chronicle,http://dbpedia.org/resource/Seminole_Chronicle,34.599999999999994
+http://dbpedia.org/resource/Desert_Dispatch,Desert Dispatch,http://dbpedia.org/resource/Desert_Dispatch,34.59499999999999
+http://dbpedia.org/resource/El_Sol_de_Salinas,El Sol de Salinas,http://dbpedia.org/resource/El_Sol_de_Salinas,34.589999999999996
+http://dbpedia.org/resource/The_McDonough_County_Voice,The McDonough County Voice,http://dbpedia.org/resource/The_McDonough_County_Voice,34.580000000000005
+http://dbpedia.org/resource/Press_&_Sun-Bulletin,Press & Sun-Bulletin,http://dbpedia.org/resource/Press_&_Sun-Bulletin,34.580000000000005
+http://dbpedia.org/resource/The_Pitt_News,The Pitt News,http://dbpedia.org/resource/The_Pitt_News,34.575
+http://dbpedia.org/resource/Lokmat,Lokmat,http://dbpedia.org/resource/Lokmat,34.555
+http://dbpedia.org/resource/Imphal_Free_Press,Imphal Free Press,http://dbpedia.org/resource/Imphal_Free_Press,34.535
+http://dbpedia.org/resource/The_Oklahoma_Eagle,The Oklahoma Eagle,http://dbpedia.org/resource/The_Oklahoma_Eagle,34.495
+http://dbpedia.org/resource/Washington_Blade,Washington Blade,http://dbpedia.org/resource/Washington_Blade,34.49
+http://dbpedia.org/resource/The_Washington_Star,The Washington Star,http://dbpedia.org/resource/The_Washington_Star,34.449999999999996
+http://dbpedia.org/resource/World_Journal,World Journal,http://dbpedia.org/resource/World_Journal,34.44
+http://dbpedia.org/resource/The_Delaware_Wave,The Delaware Wave,http://dbpedia.org/resource/The_Delaware_Wave,34.415
+http://dbpedia.org/resource/The_Daily_News_of_Newburyport,The Daily News of Newburyport,http://dbpedia.org/resource/The_Daily_News_of_Newburyport,34.379999999999995
+http://dbpedia.org/resource/Die_Zeit,Die Zeit,http://dbpedia.org/resource/Die_Zeit,34.345
+http://dbpedia.org/resource/Boston_Evening_Transcript,Boston Evening Transcript,http://dbpedia.org/resource/Boston_Evening_Transcript,34.315
+http://dbpedia.org/resource/Jago_Bangla,Jago Bangla,http://dbpedia.org/resource/Jago_Bangla,34.295
+http://dbpedia.org/resource/The_Herald_(Melbourne),The Herald (Melbourne),http://dbpedia.org/resource/The_Herald_(Melbourne),34.245
+http://dbpedia.org/resource/Gloucester_Daily_Times,Gloucester Daily Times,http://dbpedia.org/resource/Gloucester_Daily_Times,34.22
+http://dbpedia.org/resource/The_Assam_Tribune,The Assam Tribune,http://dbpedia.org/resource/The_Assam_Tribune,34.215
+http://dbpedia.org/resource/CiN_Weekly,CiN Weekly,http://dbpedia.org/resource/CiN_Weekly,34.185
+http://dbpedia.org/resource/The_Sunday_Press,The Sunday Press,http://dbpedia.org/resource/The_Sunday_Press,34.175000000000004
+http://dbpedia.org/resource/Blog_del_Narco,Blog del Narco,http://dbpedia.org/resource/Blog_del_Narco,34.13
+http://dbpedia.org/resource/Donegal_People's_Press,Donegal People's Press,http://dbpedia.org/resource/Donegal_People's_Press,34.105000000000004
+http://dbpedia.org/resource/The_Buffalo_News,The Buffalo News,http://dbpedia.org/resource/The_Buffalo_News,34.1
+http://dbpedia.org/resource/Sunday_Mercury_(New_York),Sunday Mercury (New York),http://dbpedia.org/resource/Sunday_Mercury_(New_York),34.045
+http://dbpedia.org/resource/Ottawa_Herald,Ottawa Herald,http://dbpedia.org/resource/Ottawa_Herald,34.025
+http://dbpedia.org/resource/Hope_Star,Hope Star,http://dbpedia.org/resource/Hope_Star,34.01
+http://dbpedia.org/resource/The_Jewish_Press,The Jewish Press,http://dbpedia.org/resource/The_Jewish_Press,34.01
+http://dbpedia.org/resource/Sunday_Observer_(Sri_Lanka),Sunday Observer (Sri Lanka),http://dbpedia.org/resource/Sunday_Observer_(Sri_Lanka),33.995
+http://dbpedia.org/resource/Der_Deutsche_Canadier,Der Deutsche Canadier,http://dbpedia.org/resource/Der_Deutsche_Canadier,33.98
+http://dbpedia.org/resource/The_Tribune-Democrat,The Tribune-Democrat,http://dbpedia.org/resource/The_Tribune-Democrat,33.96
+http://dbpedia.org/resource/The_Universe_(student_newspaper),The Universe (student newspaper),http://dbpedia.org/resource/The_Universe_(student_newspaper),33.9
+http://dbpedia.org/resource/The_Sacramento_Bee,The Sacramento Bee,http://dbpedia.org/resource/The_Sacramento_Bee,33.87499999999999
+http://dbpedia.org/resource/Los_Angeles_Daily_News,Los Angeles Daily News,http://dbpedia.org/resource/Los_Angeles_Daily_News,33.83
+http://dbpedia.org/resource/Andhra_Prabha,Andhra Prabha,http://dbpedia.org/resource/Andhra_Prabha,33.81999999999999
+http://dbpedia.org/resource/Divya_Bhaskar,Divya Bhaskar,http://dbpedia.org/resource/Divya_Bhaskar,33.785000000000004
+http://dbpedia.org/resource/Raivaaja,Raivaaja,http://dbpedia.org/resource/Raivaaja,33.735
+http://dbpedia.org/resource/LA_Weekly,LA Weekly,http://dbpedia.org/resource/LA_Weekly,33.64
+http://dbpedia.org/resource/Firat_News_Agency,Firat News Agency,http://dbpedia.org/resource/Firat_News_Agency,33.580000000000005
+http://dbpedia.org/resource/The_Advertiser_News,The Advertiser News,http://dbpedia.org/resource/The_Advertiser_News,33.565000000000005
+http://dbpedia.org/resource/Télam,Télam,http://dbpedia.org/resource/Télam,33.535000000000004
+http://dbpedia.org/resource/Border_Report,Border Report,http://dbpedia.org/resource/Border_Report,33.5
+http://dbpedia.org/resource/The_Irish_Catholic,The Irish Catholic,http://dbpedia.org/resource/The_Irish_Catholic,33.495
+http://dbpedia.org/resource/The_Daily_(News_Corporation),The Daily (News Corporation),http://dbpedia.org/resource/The_Daily_(News_Corporation),33.435
+http://dbpedia.org/resource/Gujarat_Samachar,Gujarat Samachar,http://dbpedia.org/resource/Gujarat_Samachar,33.394999999999996
+http://dbpedia.org/resource/The_Heckler_(newspaper),The Heckler (newspaper),http://dbpedia.org/resource/The_Heckler_(newspaper),33.38
+http://dbpedia.org/resource/Vjesnik,Vjesnik,http://dbpedia.org/resource/Vjesnik,33.365
+http://dbpedia.org/resource/Madonna_House_Apostolate,Madonna House Apostolate,http://dbpedia.org/resource/Madonna_House_Apostolate,33.355000000000004
+http://dbpedia.org/resource/The_Student_Life,The Student Life,http://dbpedia.org/resource/The_Student_Life,33.3
+http://dbpedia.org/resource/Dover_Post,Dover Post,http://dbpedia.org/resource/Dover_Post,33.29500000000001
+http://dbpedia.org/resource/Port_Stephens_Examiner,Port Stephens Examiner,http://dbpedia.org/resource/Port_Stephens_Examiner,33.265
+http://dbpedia.org/resource/Ruidoso_News,Ruidoso News,http://dbpedia.org/resource/Ruidoso_News,33.214999999999996
+http://dbpedia.org/resource/The_Daily_Toreador,The Daily Toreador,http://dbpedia.org/resource/The_Daily_Toreador,33.175
+http://dbpedia.org/resource/Portland_Press_Herald,Portland Press Herald,http://dbpedia.org/resource/Portland_Press_Herald,33.165
+http://dbpedia.org/resource/Minnesota_Spokesman-Recorder,Minnesota Spokesman-Recorder,http://dbpedia.org/resource/Minnesota_Spokesman-Recorder,33.155
+http://dbpedia.org/resource/Ganashakti,Ganashakti,http://dbpedia.org/resource/Ganashakti,33.145
+http://dbpedia.org/resource/Evening_Press,Evening Press,http://dbpedia.org/resource/Evening_Press,33.125
+http://dbpedia.org/resource/Baltimore_Times,Baltimore Times,http://dbpedia.org/resource/Baltimore_Times,33.125
+http://dbpedia.org/resource/The_Sun_(Lowell),The Sun (Lowell),http://dbpedia.org/resource/The_Sun_(Lowell),33.12
+http://dbpedia.org/resource/Los_Angeles_Free_Press,Los Angeles Free Press,http://dbpedia.org/resource/Los_Angeles_Free_Press,33.115
+http://dbpedia.org/resource/Washington_Jewish_Week,Washington Jewish Week,http://dbpedia.org/resource/Washington_Jewish_Week,33.089999999999996
+http://dbpedia.org/resource/Greater_Kashmir,Greater Kashmir,http://dbpedia.org/resource/Greater_Kashmir,33.059999999999995
+http://dbpedia.org/resource/Dayton_Daily_News,Dayton Daily News,http://dbpedia.org/resource/Dayton_Daily_News,33.055
+http://dbpedia.org/resource/The_Asian_Age,The Asian Age,http://dbpedia.org/resource/The_Asian_Age,33.010000000000005
+http://dbpedia.org/resource/The_Post-Standard,The Post-Standard,http://dbpedia.org/resource/The_Post-Standard,33.01
+http://dbpedia.org/resource/Malaysiakini,Malaysiakini,http://dbpedia.org/resource/Malaysiakini,32.995000000000005
+http://dbpedia.org/resource/The_Westminster_Gazette,The Westminster Gazette,http://dbpedia.org/resource/The_Westminster_Gazette,32.98500000000001
+http://dbpedia.org/resource/San_Francisco_Examiner,San Francisco Examiner,http://dbpedia.org/resource/San_Francisco_Examiner,32.89000000000001
+http://dbpedia.org/resource/New_York_Amsterdam_News,New York Amsterdam News,http://dbpedia.org/resource/New_York_Amsterdam_News,32.885
+http://dbpedia.org/resource/Dharitri_(newspaper),Dharitri (newspaper),http://dbpedia.org/resource/Dharitri_(newspaper),32.84499999999999
+http://dbpedia.org/resource/Deshdoot,Deshdoot,http://dbpedia.org/resource/Deshdoot,32.815000000000005
+http://dbpedia.org/resource/New_Pittsburgh_Courier,New Pittsburgh Courier,http://dbpedia.org/resource/New_Pittsburgh_Courier,32.775000000000006
+http://dbpedia.org/resource/Özgür_Gündem,Özgür Gündem,http://dbpedia.org/resource/Özgür_Gündem,32.775
+http://dbpedia.org/resource/The_Navhind_Times,The Navhind Times,http://dbpedia.org/resource/The_Navhind_Times,32.765
+http://dbpedia.org/resource/The_State_News,The State News,http://dbpedia.org/resource/The_State_News,32.760000000000005
+http://dbpedia.org/resource/Camden_New_Journal,Camden New Journal,http://dbpedia.org/resource/Camden_New_Journal,32.67
+http://dbpedia.org/resource/TeessideLive,TeessideLive,http://dbpedia.org/resource/TeessideLive,32.650000000000006
+http://dbpedia.org/resource/Arizona_Business_Gazette,Arizona Business Gazette,http://dbpedia.org/resource/Arizona_Business_Gazette,32.62
+http://dbpedia.org/resource/Mondoweiss,Mondoweiss,http://dbpedia.org/resource/Mondoweiss,32.574999999999996
+http://dbpedia.org/resource/Houston_Press,Houston Press,http://dbpedia.org/resource/Houston_Press,32.565
+http://dbpedia.org/resource/The_Border_Watch,The Border Watch,http://dbpedia.org/resource/The_Border_Watch,32.565
+http://dbpedia.org/resource/Harvard_Law_Record,Harvard Law Record,http://dbpedia.org/resource/Harvard_Law_Record,32.555
+http://dbpedia.org/resource/Edmonton_Journal,Edmonton Journal,http://dbpedia.org/resource/Edmonton_Journal,32.535000000000004
+http://dbpedia.org/resource/Dainik_Navajyoti,Dainik Navajyoti,http://dbpedia.org/resource/Dainik_Navajyoti,32.485
+http://dbpedia.org/resource/Namasthe_Telangana,Namasthe Telangana,http://dbpedia.org/resource/Namasthe_Telangana,32.44
+http://dbpedia.org/resource/The_Sun_Chronicle,The Sun Chronicle,http://dbpedia.org/resource/The_Sun_Chronicle,32.415000000000006
+http://dbpedia.org/resource/News_&_Review,News & Review,http://dbpedia.org/resource/News_&_Review,32.395
+http://dbpedia.org/resource/The_Cairns_Post,The Cairns Post,http://dbpedia.org/resource/The_Cairns_Post,32.385
+http://dbpedia.org/resource/The_London_Paper,The London Paper,http://dbpedia.org/resource/The_London_Paper,32.375
+http://dbpedia.org/resource/Northern_Territory_News,Northern Territory News,http://dbpedia.org/resource/Northern_Territory_News,32.37499999999999
+http://dbpedia.org/resource/Liverpool_Echo,Liverpool Echo,http://dbpedia.org/resource/Liverpool_Echo,32.32
+http://dbpedia.org/resource/Arizona_Daily_Star,Arizona Daily Star,http://dbpedia.org/resource/Arizona_Daily_Star,32.305
+http://dbpedia.org/resource/The_Boston_Post,The Boston Post,http://dbpedia.org/resource/The_Boston_Post,32.295
+http://dbpedia.org/resource/Daily_Herald_(Utah),Daily Herald (Utah),http://dbpedia.org/resource/Daily_Herald_(Utah),32.28
+http://dbpedia.org/resource/Daily_Desher_Katha,Daily Desher Katha,http://dbpedia.org/resource/Daily_Desher_Katha,32.275
+http://dbpedia.org/resource/New_York_World-Telegram,New York World-Telegram,http://dbpedia.org/resource/New_York_World-Telegram,32.265
+http://dbpedia.org/resource/Felix_(newspaper),Felix (newspaper),http://dbpedia.org/resource/Felix_(newspaper),32.245
+http://dbpedia.org/resource/Andhra_Jyothi,Andhra Jyothi,http://dbpedia.org/resource/Andhra_Jyothi,32.214999999999996
+http://dbpedia.org/resource/La_Vanguardia,La Vanguardia,http://dbpedia.org/resource/La_Vanguardia,32.195
+http://dbpedia.org/resource/Illustrated_Daily_News,Illustrated Daily News,http://dbpedia.org/resource/Illustrated_Daily_News,32.185
+http://dbpedia.org/resource/Janmabhoomi_(Gujarati_newspaper),Janmabhoomi (Gujarati newspaper),http://dbpedia.org/resource/Janmabhoomi_(Gujarati_newspaper),32.17000000000001
+http://dbpedia.org/resource/Taasir,Taasir,http://dbpedia.org/resource/Taasir,32.165
+http://dbpedia.org/resource/Asomiya_Pratidin,Asomiya Pratidin,http://dbpedia.org/resource/Asomiya_Pratidin,32.145
+http://dbpedia.org/resource/Las_Vegas_Review-Journal,Las Vegas Review-Journal,http://dbpedia.org/resource/Las_Vegas_Review-Journal,32.12
+http://dbpedia.org/resource/Kyunghyang_Shinmun,Kyunghyang Shinmun,http://dbpedia.org/resource/Kyunghyang_Shinmun,32.025
+http://dbpedia.org/resource/Pudhari,Pudhari,http://dbpedia.org/resource/Pudhari,31.999999999999996
+http://dbpedia.org/resource/St._Paul_Pioneer_Press,St. Paul Pioneer Press,http://dbpedia.org/resource/St._Paul_Pioneer_Press,31.995
+http://dbpedia.org/resource/Kumanovski_Vesnik,Kumanovski Vesnik,http://dbpedia.org/resource/Kumanovski_Vesnik,31.995
+http://dbpedia.org/resource/Geelong_Advertiser,Geelong Advertiser,http://dbpedia.org/resource/Geelong_Advertiser,31.974999999999994
+http://dbpedia.org/resource/Richmond_Post,Richmond Post,http://dbpedia.org/resource/Richmond_Post,31.955000000000002
+http://dbpedia.org/resource/Ebela,Ebela,http://dbpedia.org/resource/Ebela,31.940000000000005
+http://dbpedia.org/resource/The_Salt_Lake_Tribune,The Salt Lake Tribune,http://dbpedia.org/resource/The_Salt_Lake_Tribune,31.925000000000008
+http://dbpedia.org/resource/Daily_Times_Chronicle,Daily Times Chronicle,http://dbpedia.org/resource/Daily_Times_Chronicle,31.925
+http://dbpedia.org/resource/Telangana_Today,Telangana Today,http://dbpedia.org/resource/Telangana_Today,31.910000000000004
+http://dbpedia.org/resource/Aj_(newspaper),Aj (newspaper),http://dbpedia.org/resource/Aj_(newspaper),31.835000000000004
+http://dbpedia.org/resource/Cumhuriyet,Cumhuriyet,http://dbpedia.org/resource/Cumhuriyet,31.82
+http://dbpedia.org/resource/Ploshtad_(newspaper),Ploshtad (newspaper),http://dbpedia.org/resource/Ploshtad_(newspaper),31.795
+http://dbpedia.org/resource/Divya_Himachal,Divya Himachal,http://dbpedia.org/resource/Divya_Himachal,31.779999999999998
+http://dbpedia.org/resource/The_Ceylon_Observer,The Ceylon Observer,http://dbpedia.org/resource/The_Ceylon_Observer,31.74
+http://dbpedia.org/resource/Nava_Telangana,Nava Telangana,http://dbpedia.org/resource/Nava_Telangana,31.72
+http://dbpedia.org/resource/The_Express_Tribune,The Express Tribune,http://dbpedia.org/resource/The_Express_Tribune,31.680000000000007
+http://dbpedia.org/resource/Business_Spectator,Business Spectator,http://dbpedia.org/resource/Business_Spectator,31.650000000000002
+http://dbpedia.org/resource/Meduza,Meduza,http://dbpedia.org/resource/Meduza,31.64
+http://dbpedia.org/resource/Nava_Kaal,Nava Kaal,http://dbpedia.org/resource/Nava_Kaal,31.615
+http://dbpedia.org/resource/Chicago_Bee,Chicago Bee,http://dbpedia.org/resource/Chicago_Bee,31.5
+"http://dbpedia.org/resource/The_Advocate_(Portland,_Oregon)","The Advocate (Portland, Oregon)","http://dbpedia.org/resource/The_Advocate_(Portland,_Oregon)",31.485
+http://dbpedia.org/resource/Sangbad_Pratidin,Sangbad Pratidin,http://dbpedia.org/resource/Sangbad_Pratidin,31.455000000000002
+http://dbpedia.org/resource/Dainik_Tribune,Dainik Tribune,http://dbpedia.org/resource/Dainik_Tribune,31.450000000000003
+http://dbpedia.org/resource/Blic,Blic,http://dbpedia.org/resource/Blic,31.444999999999993
+http://dbpedia.org/resource/Socialist_Worker,Socialist Worker,http://dbpedia.org/resource/Socialist_Worker,31.435000000000002
+http://dbpedia.org/resource/Jag_Bani,Jag Bani,http://dbpedia.org/resource/Jag_Bani,31.415
+http://dbpedia.org/resource/Jai_Hind_(newspaper),Jai Hind (newspaper),http://dbpedia.org/resource/Jai_Hind_(newspaper),31.400000000000002
+http://dbpedia.org/resource/NavGujarat_Samay,NavGujarat Samay,http://dbpedia.org/resource/NavGujarat_Samay,31.374999999999996
+http://dbpedia.org/resource/Il_Giornale,Il Giornale,http://dbpedia.org/resource/Il_Giornale,31.37
+http://dbpedia.org/resource/Washington_Bee,Washington Bee,http://dbpedia.org/resource/Washington_Bee,31.355000000000004
+http://dbpedia.org/resource/Dielli,Dielli,http://dbpedia.org/resource/Dielli,31.354999999999997
+http://dbpedia.org/resource/Business_Post,Business Post,http://dbpedia.org/resource/Business_Post,31.34
+http://dbpedia.org/resource/Edinburgh_Advertiser,Edinburgh Advertiser,http://dbpedia.org/resource/Edinburgh_Advertiser,31.334999999999997
+http://dbpedia.org/resource/Lincoln_Journal_Star,Lincoln Journal Star,http://dbpedia.org/resource/Lincoln_Journal_Star,31.295
+http://dbpedia.org/resource/Saugus_Advertiser,Saugus Advertiser,http://dbpedia.org/resource/Saugus_Advertiser,31.285000000000004
+http://dbpedia.org/resource/North_Adams_Transcript,North Adams Transcript,http://dbpedia.org/resource/North_Adams_Transcript,31.265
+http://dbpedia.org/resource/Times_Union_(Albany),Times Union (Albany),http://dbpedia.org/resource/Times_Union_(Albany),31.200000000000003
+http://dbpedia.org/resource/Tarun_Bharat,Tarun Bharat,http://dbpedia.org/resource/Tarun_Bharat,31.190000000000005
+http://dbpedia.org/resource/Sambad,Sambad,http://dbpedia.org/resource/Sambad,31.189999999999998
+http://dbpedia.org/resource/Sudar_Oli,Sudar Oli,http://dbpedia.org/resource/Sudar_Oli,31.17
+http://dbpedia.org/resource/Sunday_World,Sunday World,http://dbpedia.org/resource/Sunday_World,31.154999999999998
+http://dbpedia.org/resource/The_Grand_Rapids_Press,The Grand Rapids Press,http://dbpedia.org/resource/The_Grand_Rapids_Press,31.11
+http://dbpedia.org/resource/The_Spokesman-Review,The Spokesman-Review,http://dbpedia.org/resource/The_Spokesman-Review,31.085000000000004
+http://dbpedia.org/resource/The_Daily_Star_(Bangladesh),The Daily Star (Bangladesh),http://dbpedia.org/resource/The_Daily_Star_(Bangladesh),31.085000000000004
+http://dbpedia.org/resource/The_Whirlwind_(newspaper),The Whirlwind (newspaper),http://dbpedia.org/resource/The_Whirlwind_(newspaper),31.08
+http://dbpedia.org/resource/BusinessWorld,BusinessWorld,http://dbpedia.org/resource/BusinessWorld,31.075000000000003
+http://dbpedia.org/resource/Navshakti,Navshakti,http://dbpedia.org/resource/Navshakti,31.054999999999996
+http://dbpedia.org/resource/Star_of_Mysore,Star of Mysore,http://dbpedia.org/resource/Star_of_Mysore,31.045
+http://dbpedia.org/resource/Atlantis_(newspaper),Atlantis (newspaper),http://dbpedia.org/resource/Atlantis_(newspaper),31.04
+http://dbpedia.org/resource/The_Beaumont_Enterprise,The Beaumont Enterprise,http://dbpedia.org/resource/The_Beaumont_Enterprise,31.035000000000004
+http://dbpedia.org/resource/Bombay_Samachar,Bombay Samachar,http://dbpedia.org/resource/Bombay_Samachar,31.035000000000004
+http://dbpedia.org/resource/Dainik_Sambad,Dainik Sambad,http://dbpedia.org/resource/Dainik_Sambad,31.019999999999996
+http://dbpedia.org/resource/Jagat_Darpan,Jagat Darpan,http://dbpedia.org/resource/Jagat_Darpan,31.010000000000005
+http://dbpedia.org/resource/Irish_Daily_Star,Irish Daily Star,http://dbpedia.org/resource/Irish_Daily_Star,31.004999999999995
+http://dbpedia.org/resource/MX_(newspaper),MX (newspaper),http://dbpedia.org/resource/MX_(newspaper),30.985
+http://dbpedia.org/resource/Daily_News_(Sri_Lanka),Daily News (Sri Lanka),http://dbpedia.org/resource/Daily_News_(Sri_Lanka),30.935
+http://dbpedia.org/resource/O_Heraldo,O Heraldo,http://dbpedia.org/resource/O_Heraldo,30.905
+http://dbpedia.org/resource/London_Student,London Student,http://dbpedia.org/resource/London_Student,30.895000000000007
+http://dbpedia.org/resource/The_Toowoomba_Chronicle,The Toowoomba Chronicle,http://dbpedia.org/resource/The_Toowoomba_Chronicle,30.759999999999998
+http://dbpedia.org/resource/Ganadabi,Ganadabi,http://dbpedia.org/resource/Ganadabi,30.725
+http://dbpedia.org/resource/The_Heathen_Woman's_Friend,The Heathen Woman's Friend,http://dbpedia.org/resource/The_Heathen_Woman's_Friend,30.685
+http://dbpedia.org/resource/Proletarian_Era,Proletarian Era,http://dbpedia.org/resource/Proletarian_Era,30.675
+http://dbpedia.org/resource/Bartaman,Bartaman,http://dbpedia.org/resource/Bartaman,30.67
+http://dbpedia.org/resource/Sanjevani,Sanjevani,http://dbpedia.org/resource/Sanjevani,30.650000000000002
+http://dbpedia.org/resource/The_Munster_Express,The Munster Express,http://dbpedia.org/resource/The_Munster_Express,30.634999999999998
+http://dbpedia.org/resource/The_Daily_Cardinal,The Daily Cardinal,http://dbpedia.org/resource/The_Daily_Cardinal,30.630000000000003
+http://dbpedia.org/resource/Makkal_Osai,Makkal Osai,http://dbpedia.org/resource/Makkal_Osai,30.605000000000004
+http://dbpedia.org/resource/Portland_State_Vanguard,Portland State Vanguard,http://dbpedia.org/resource/Portland_State_Vanguard,30.59
+http://dbpedia.org/resource/Visalaandhra,Visalaandhra,http://dbpedia.org/resource/Visalaandhra,30.584999999999997
+http://dbpedia.org/resource/The_New_Day_(newspaper),The New Day (newspaper),http://dbpedia.org/resource/The_New_Day_(newspaper),30.564999999999998
+http://dbpedia.org/resource/Sambhaav,Sambhaav,http://dbpedia.org/resource/Sambhaav,30.555000000000003
+http://dbpedia.org/resource/Hari_Bhoomi,Hari Bhoomi,http://dbpedia.org/resource/Hari_Bhoomi,30.545
+http://dbpedia.org/resource/Aajkaal,Aajkaal,http://dbpedia.org/resource/Aajkaal,30.54
+http://dbpedia.org/resource/The_News_&_Observer,The News & Observer,http://dbpedia.org/resource/The_News_&_Observer,30.495
+http://dbpedia.org/resource/Cork_Independent_(newspaper),Cork Independent (newspaper),http://dbpedia.org/resource/Cork_Independent_(newspaper),30.47500000000001
+http://dbpedia.org/resource/Gay_Community_News_(Boston),Gay Community News (Boston),http://dbpedia.org/resource/Gay_Community_News_(Boston),30.460000000000004
+http://dbpedia.org/resource/Gujarat_Today,Gujarat Today,http://dbpedia.org/resource/Gujarat_Today,30.445
+http://dbpedia.org/resource/Daily_Excelsior,Daily Excelsior,http://dbpedia.org/resource/Daily_Excelsior,30.429999999999996
+http://dbpedia.org/resource/The_Sunday_Times_(Sri_Lanka),The Sunday Times (Sri Lanka),http://dbpedia.org/resource/The_Sunday_Times_(Sri_Lanka),30.415000000000006
+http://dbpedia.org/resource/Politiken,Politiken,http://dbpedia.org/resource/Politiken,30.410000000000004
+http://dbpedia.org/resource/Bangladesh_Pratidin,Bangladesh Pratidin,http://dbpedia.org/resource/Bangladesh_Pratidin,30.395
+http://dbpedia.org/resource/The_Birmingham_News,The Birmingham News,http://dbpedia.org/resource/The_Birmingham_News,30.39
+http://dbpedia.org/resource/Central_Chronicle,Central Chronicle,http://dbpedia.org/resource/Central_Chronicle,30.379999999999995
+http://dbpedia.org/resource/La_Voix_du_Nord_(daily),La Voix du Nord (daily),http://dbpedia.org/resource/La_Voix_du_Nord_(daily),30.37
+http://dbpedia.org/resource/Manush_Patrika,Manush Patrika,http://dbpedia.org/resource/Manush_Patrika,30.365
+http://dbpedia.org/resource/The_Daily_Barometer,The Daily Barometer,http://dbpedia.org/resource/The_Daily_Barometer,30.365
+http://dbpedia.org/resource/Centre_Daily_Times,Centre Daily Times,http://dbpedia.org/resource/Centre_Daily_Times,30.330000000000002
+http://dbpedia.org/resource/The_Kerryman,The Kerryman,http://dbpedia.org/resource/The_Kerryman,30.330000000000002
+http://dbpedia.org/resource/Jacksonville_Free_Press,Jacksonville Free Press,http://dbpedia.org/resource/Jacksonville_Free_Press,30.314999999999998
+http://dbpedia.org/resource/Nhân_Dân,Nhân Dân,http://dbpedia.org/resource/Nhân_Dân,30.305000000000003
+http://dbpedia.org/resource/Sakala_(Odia),Sakala (Odia),http://dbpedia.org/resource/Sakala_(Odia),30.240000000000006
+http://dbpedia.org/resource/Andhra_Bhoomi,Andhra Bhoomi,http://dbpedia.org/resource/Andhra_Bhoomi,30.224999999999994
+http://dbpedia.org/resource/Gibraltar_Chronicle,Gibraltar Chronicle,http://dbpedia.org/resource/Gibraltar_Chronicle,30.22
+http://dbpedia.org/resource/Theekkathir,Theekkathir,http://dbpedia.org/resource/Theekkathir,30.185
+http://dbpedia.org/resource/Connecticut_Post,Connecticut Post,http://dbpedia.org/resource/Connecticut_Post,30.155
+http://dbpedia.org/resource/Indianapolis_Times,Indianapolis Times,http://dbpedia.org/resource/Indianapolis_Times,30.134999999999998
+http://dbpedia.org/resource/Le_Soir,Le Soir,http://dbpedia.org/resource/Le_Soir,30.130000000000003
+http://dbpedia.org/resource/Amar_Asom,Amar Asom,http://dbpedia.org/resource/Amar_Asom,30.12
+http://dbpedia.org/resource/Gujarat_Mitra,Gujarat Mitra,http://dbpedia.org/resource/Gujarat_Mitra,30.104999999999997
+http://dbpedia.org/resource/The_Sentinel_(Guwahati),The Sentinel (Guwahati),http://dbpedia.org/resource/The_Sentinel_(Guwahati),30.1
+http://dbpedia.org/resource/The_Samaja,The Samaja,http://dbpedia.org/resource/The_Samaja,30.09
+http://dbpedia.org/resource/Q-Notes,Q-Notes,http://dbpedia.org/resource/Q-Notes,30.085000000000004
+http://dbpedia.org/resource/Houston_Defender,Houston Defender,http://dbpedia.org/resource/Houston_Defender,30.045
+http://dbpedia.org/resource/The_Moscow_Times,The Moscow Times,http://dbpedia.org/resource/The_Moscow_Times,30.034999999999997
+http://dbpedia.org/resource/Birmingham_Mail,Birmingham Mail,http://dbpedia.org/resource/Birmingham_Mail,29.99
+http://dbpedia.org/resource/Dainik_Agradoot,Dainik Agradoot,http://dbpedia.org/resource/Dainik_Agradoot,29.985
+http://dbpedia.org/resource/Beobachter_(magazine),Beobachter (magazine),http://dbpedia.org/resource/Beobachter_(magazine),29.965
+http://dbpedia.org/resource/The_People's_Voice_(newspaper),The People's Voice (newspaper),http://dbpedia.org/resource/The_People's_Voice_(newspaper),29.925
+http://dbpedia.org/resource/Livingston_County_Daily_Press_&_Argus,Livingston County Daily Press & Argus,http://dbpedia.org/resource/Livingston_County_Daily_Press_&_Argus,29.925
+http://dbpedia.org/resource/News_&_Record,News & Record,http://dbpedia.org/resource/News_&_Record,29.925
+http://dbpedia.org/resource/Oslobođenje,Oslobođenje,http://dbpedia.org/resource/Oslobođenje,29.925
+http://dbpedia.org/resource/Niyomiya_Barta,Niyomiya Barta,http://dbpedia.org/resource/Niyomiya_Barta,29.915000000000006
+http://dbpedia.org/resource/The_Malaysian_Insider,The Malaysian Insider,http://dbpedia.org/resource/The_Malaysian_Insider,29.915
+http://dbpedia.org/resource/Qaumi_Awaz,Qaumi Awaz,http://dbpedia.org/resource/Qaumi_Awaz,29.885000000000005
+http://dbpedia.org/resource/Reading_Eagle,Reading Eagle,http://dbpedia.org/resource/Reading_Eagle,29.885000000000005
+http://dbpedia.org/resource/Punjabi_Tribune,Punjabi Tribune,http://dbpedia.org/resource/Punjabi_Tribune,29.875000000000007
+http://dbpedia.org/resource/Narodnaja_Volya_(newspaper),Narodnaja Volya (newspaper),http://dbpedia.org/resource/Narodnaja_Volya_(newspaper),29.874999999999996
+http://dbpedia.org/resource/Sentinel_&_Enterprise,Sentinel & Enterprise,http://dbpedia.org/resource/Sentinel_&_Enterprise,29.83
+http://dbpedia.org/resource/Ekdin,Ekdin,http://dbpedia.org/resource/Ekdin,29.814999999999998
+http://dbpedia.org/resource/La_Solidaridad,La Solidaridad,http://dbpedia.org/resource/La_Solidaridad,29.785000000000004
+http://dbpedia.org/resource/Waikato_Times,Waikato Times,http://dbpedia.org/resource/Waikato_Times,29.785000000000004
+http://dbpedia.org/resource/Bangor_Daily_News,Bangor Daily News,http://dbpedia.org/resource/Bangor_Daily_News,29.75
+http://dbpedia.org/resource/Le_Parisien,Le Parisien,http://dbpedia.org/resource/Le_Parisien,29.75
+http://dbpedia.org/resource/Brooklyn_Eagle,Brooklyn Eagle,http://dbpedia.org/resource/Brooklyn_Eagle,29.709999999999997
+http://dbpedia.org/resource/Neues_Deutschland,Neues Deutschland,http://dbpedia.org/resource/Neues_Deutschland,29.705000000000002
+http://dbpedia.org/resource/Dainik_Asam,Dainik Asam,http://dbpedia.org/resource/Dainik_Asam,29.700000000000003
+http://dbpedia.org/resource/Mainichi_Shimbun,Mainichi Shimbun,http://dbpedia.org/resource/Mainichi_Shimbun,29.690000000000005
+http://dbpedia.org/resource/The_Daily_Illini,The Daily Illini,http://dbpedia.org/resource/The_Daily_Illini,29.685
+http://dbpedia.org/resource/The_Appeal_(newspaper),The Appeal (newspaper),http://dbpedia.org/resource/The_Appeal_(newspaper),29.679999999999996
+http://dbpedia.org/resource/Asomiya_Khabar,Asomiya Khabar,http://dbpedia.org/resource/Asomiya_Khabar,29.64
+http://dbpedia.org/resource/Dainik_Janambhumi,Dainik Janambhumi,http://dbpedia.org/resource/Dainik_Janambhumi,29.64
+http://dbpedia.org/resource/Financial_Chronicle,Financial Chronicle,http://dbpedia.org/resource/Financial_Chronicle,29.634999999999998
+http://dbpedia.org/resource/Times-News_(Idaho),Times-News (Idaho),http://dbpedia.org/resource/Times-News_(Idaho),29.629999999999995
+http://dbpedia.org/resource/Mana_Telangana,Mana Telangana,http://dbpedia.org/resource/Mana_Telangana,29.625
+http://dbpedia.org/resource/The_Sligo_Champion,The Sligo Champion,http://dbpedia.org/resource/The_Sligo_Champion,29.615
+http://dbpedia.org/resource/Puber_Kalom,Puber Kalom,http://dbpedia.org/resource/Puber_Kalom,29.6
+"http://dbpedia.org/resource/The_Philanthropist_(Cincinnati,_Ohio)","The Philanthropist (Cincinnati, Ohio)","http://dbpedia.org/resource/The_Philanthropist_(Cincinnati,_Ohio)",29.564999999999998
+http://dbpedia.org/resource/Gold_Coast_Bulletin,Gold Coast Bulletin,http://dbpedia.org/resource/Gold_Coast_Bulletin,29.535000000000004
+http://dbpedia.org/resource/The_Call_(Kansas_City),The Call (Kansas City),http://dbpedia.org/resource/The_Call_(Kansas_City),29.534999999999997
+http://dbpedia.org/resource/The_North_East_Times,The North East Times,http://dbpedia.org/resource/The_North_East_Times,29.53
+http://dbpedia.org/resource/The_Sun_(New_York_City),The Sun (New York City),http://dbpedia.org/resource/The_Sun_(New_York_City),29.5
+http://dbpedia.org/resource/Lebanon_Express,Lebanon Express,http://dbpedia.org/resource/Lebanon_Express,29.465
+http://dbpedia.org/resource/L'Est_Républicain,L'Est Républicain,http://dbpedia.org/resource/L'Est_Républicain,29.449999999999996
+http://dbpedia.org/resource/The_Jewish_Journal_of_Greater_Los_Angeles,The Jewish Journal of Greater Los Angeles,http://dbpedia.org/resource/The_Jewish_Journal_of_Greater_Los_Angeles,29.42
+http://dbpedia.org/resource/Janasadharan,Janasadharan,http://dbpedia.org/resource/Janasadharan,29.415
+http://dbpedia.org/resource/Poknapham,Poknapham,http://dbpedia.org/resource/Poknapham,29.410000000000004
+http://dbpedia.org/resource/PM_(newspaper),PM (newspaper),http://dbpedia.org/resource/PM_(newspaper),29.409999999999997
+http://dbpedia.org/resource/Metro_India,Metro India,http://dbpedia.org/resource/Metro_India,29.400000000000002
+http://dbpedia.org/resource/The_Michigan_Daily,The Michigan Daily,http://dbpedia.org/resource/The_Michigan_Daily,29.37
+http://dbpedia.org/resource/Sun_(Ceylon),Sun (Ceylon),http://dbpedia.org/resource/Sun_(Ceylon),29.365000000000006
+http://dbpedia.org/resource/The_Times_of_Ceylon,The Times of Ceylon,http://dbpedia.org/resource/The_Times_of_Ceylon,29.355000000000004
+http://dbpedia.org/resource/Brisbane_Times,Brisbane Times,http://dbpedia.org/resource/Brisbane_Times,29.354999999999997
+http://dbpedia.org/resource/The_Island_(Sri_Lanka),The Island (Sri Lanka),http://dbpedia.org/resource/The_Island_(Sri_Lanka),29.34
+http://dbpedia.org/resource/The_Hitavada,The Hitavada,http://dbpedia.org/resource/The_Hitavada,29.330000000000002
+http://dbpedia.org/resource/The_Mizoram_Post,The Mizoram Post,http://dbpedia.org/resource/The_Mizoram_Post,29.275000000000002
+http://dbpedia.org/resource/Hull_Daily_Mail,Hull Daily Mail,http://dbpedia.org/resource/Hull_Daily_Mail,29.27
+http://dbpedia.org/resource/SF_Public_Press,SF Public Press,http://dbpedia.org/resource/SF_Public_Press,29.255000000000003
+http://dbpedia.org/resource/Kashmir_Times,Kashmir Times,http://dbpedia.org/resource/Kashmir_Times,29.235
+http://dbpedia.org/resource/Prabhat_Khabar,Prabhat Khabar,http://dbpedia.org/resource/Prabhat_Khabar,29.209999999999997
+http://dbpedia.org/resource/The_Star_(1888),The Star (1888),http://dbpedia.org/resource/The_Star_(1888),29.205
+http://dbpedia.org/resource/Coventry_Telegraph,Coventry Telegraph,http://dbpedia.org/resource/Coventry_Telegraph,29.195
+http://dbpedia.org/resource/Daily_Emerald,Daily Emerald,http://dbpedia.org/resource/Daily_Emerald,29.195
+http://dbpedia.org/resource/The_Student_(newspaper),The Student (newspaper),http://dbpedia.org/resource/The_Student_(newspaper),29.160000000000004
+http://dbpedia.org/resource/Hamodia,Hamodia,http://dbpedia.org/resource/Hamodia,29.159999999999997
+http://dbpedia.org/resource/Kalantar,Kalantar,http://dbpedia.org/resource/Kalantar,29.155
+http://dbpedia.org/resource/Kutchmitra,Kutchmitra,http://dbpedia.org/resource/Kutchmitra,29.149999999999995
+http://dbpedia.org/resource/Michigan_Chronicle,Michigan Chronicle,http://dbpedia.org/resource/Michigan_Chronicle,29.080000000000002
+http://dbpedia.org/resource/The_Sun_News-Pictorial,The Sun News-Pictorial,http://dbpedia.org/resource/The_Sun_News-Pictorial,29.08

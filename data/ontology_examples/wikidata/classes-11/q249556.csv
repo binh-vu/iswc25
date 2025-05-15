@@ -1,0 +1,1001 @@
+id,label,source,score
+Q819425,Indian Railways,Q819425,298.19
+Q23239,Amtrak,Q23239,249.86
+Q46974,Canadian Pacific Railway,Q46974,244.31499999999997
+Q2165702,State Railway of Thailand,Q2165702,228.27999999999997
+Q935025,Metropolitan Railway,Q935025,221.94500000000005
+Q843251,Great Western Railway,Q843251,196.47000000000003
+Q624798,Canadian National Railway,Q624798,196.46
+Q267122,BNSF Railway,Q267122,182.83
+Q9322,Deutsche Bahn,Q9322,156.10000000000002
+Q623717,St. Lawrence and Atlantic Railroad,Q623717,147.47
+Q1544319,Great North of Scotland Railway,Q1544319,147.05
+Q725793,Union Pacific Railroad,Q725793,142.535
+Q1197895,Pennsylvania Railroad,Q1197895,134.195
+Q1321054,Norfolk Southern Railway,Q1321054,130.06
+Q42847646,Locomotives of the Stockton and Darlington Railway,Q42847646,127.14000000000001
+Q2107112,Pacific Electric Railway,Q2107112,126.60500000000002
+Q846655,Israel Railways Corporation Ltd,Q846655,125.88999999999999
+Q766647,Metrolink,Q766647,125.32000000000001
+Q605169,British Rail,Q605169,124.74499999999999
+Q876720,VIA Rail Canada,Q876720,124.64000000000001
+Q13646,SNCF,Q13646,123.96
+Q1725537,"New York, Susquehanna and Western Railway",Q1725537,123.69
+Q5283358,District Railway,Q5283358,119.605
+Q918096,Pakistan Railways,Q918096,119.155
+Q856783,CSX Transportation,Q856783,117.46500000000002
+Q864803,Korean State Railway,Q864803,115.96500000000002
+Q629139,"London, Midland and Scottish Railway",Q629139,115.54499999999999
+Q7056819,North Staffordshire Railway,Q7056819,114.96
+Q375044,Stockton and Darlington Railway,Q375044,114.03499999999997
+Q693105,Highland Railway,Q693105,113.46499999999999
+Q753942,"Atchison, Topeka and Santa Fe Railway",Q753942,110.13
+Q805757,Baltimore and Ohio Railroad,Q805757,109.48
+Q48732508,Railway in Haryana,Q48732508,109.25
+Q55607779,"Cleveland, Painesville and Ashtabula Railroad (1848–1869)",Q55607779,109.06500000000001
+Q17020757,"York, Newcastle and Berwick Railway",Q17020757,105.505
+Q1073489,China State Railway Group,Q1073489,105.16
+Q499967,Türkiye Cumhuriyeti Devlet Demiryolları,Q499967,104.51999999999998
+Q2047733,Palestine Railways,Q2047733,103.71499999999999
+Q27012668,Brightline,Q27012668,102.05000000000001
+Q1092839,London and North Eastern Railway,Q1092839,101.87
+Q1473764,Southern Pacific Transportation Company,Q1473764,98.58999999999999
+Q83835,Swiss Federal Railways,Q83835,98.185
+Q2962831,Cheshire Lines Committee,Q2962831,97.735
+Q7906335,V/Line,Q7906335,96.97
+Q1353770,Erie Railroad,Q1353770,95.13000000000001
+Q1071790,"Chicago, Burlington and Quincy Railroad",Q1071790,93.42000000000002
+Q7115210,"Oxford, Worcester and Wolverhampton Railway",Q7115210,93.31500000000001
+Q3997890,Caledonian Railway,Q3997890,92.94500000000001
+Q107980329,ScotRail Trains,Q107980329,92.72
+Q741266,Southern Railway,Q741266,91.69
+Q472941,DB Cargo UK,Q472941,91.395
+Q3787685,Huron Central Railway,Q3787685,90.73
+Q1053892,Central London Railway,Q1053892,90.36000000000001
+Q379439,Queensland Rail,Q379439,89.84
+Q1750203,North British Railway,Q1750203,89.77
+Q73043,Iarnród Éireann—Irish Rail,Q73043,89.335
+Q65090907,East Midlands Railway,Q65090907,89.11
+Q2972705,"Cincinnati, Lebanon and Northern Railway",Q2972705,88.895
+Q4849221,Baker Street and Waterloo Railway,Q4849221,88.48500000000001
+Q490228,Lehigh Valley Railroad,Q490228,87.88
+Q4969105,Bristol and Gloucester Railway,Q4969105,87.37
+Q3114621,Grand Trunk Western Railroad,Q3114621,87.32000000000001
+Q1486303,London and North Western Railway,Q1486303,86.92000000000002
+Q633760,Conrail,Q633760,86.185
+Q2113906,Providence and Worcester Railroad,Q2113906,85.73
+Q6955406,NSW TrainLink,Q6955406,85.415
+Q2320362,St. Louis–San Francisco Railway,Q2320362,85.415
+Q5132023,"Cleveland, Columbus and Cincinnati Railroad",Q5132023,85.155
+Q1371464,New York Central Railroad,Q1371464,84.815
+Q1932006,Midland Railway,Q1932006,84.575
+Q286262,c2c,Q286262,83.36
+Q806540,Bangor and Aroostook Railroad,Q806540,83.25
+Q659169,Hull and Barnsley Railway,Q659169,82.67
+Q1072021,Chicago and North Western Transportation Company,Q1072021,82.4
+Q6744919,Malton and Driffield Railway,Q6744919,82.17500000000001
+Q384045,Delaware and Hudson Railway,Q384045,81.935
+Q18169,Korea Railroad Corporation,Q18169,81.83500000000001
+Q48792266,Valley Railway,Q48792266,80.44
+Q11693544,"Montreal, Maine and Atlantic Railway",Q11693544,80.32
+Q3826415,South Eastern Railway,Q3826415,79.205
+Q663120,Southern Railway,Q663120,78.28500000000001
+Q2962343,Ottawa Valley Railway,Q2962343,78.125
+Q1183933,"Delaware, Lackawanna and Western Railroad",Q1183933,77.435
+Q3195297,Kent and East Sussex Railway,Q3195297,76.325
+Q1362870,Hudson Bay Railway,Q1362870,75.84
+Q795231,Căile Ferate Române,Q795231,75.28500000000001
+Q1071804,"Chicago, Milwaukee, St. Paul and Pacific Railroad",Q1071804,75.04
+Q1408014,Ferrovia Paulista S/A,Q1408014,74.91
+Q918747,Louisville and Nashville Railroad,Q918747,74.63999999999999
+Q1937120,NI Railways,Q1937120,73.47500000000001
+Q5461258,Florida Central and Peninsular Railroad,Q5461258,73.35000000000001
+Q7457959,Severn and Wye Railway,Q7457959,72.94500000000001
+Q7570227,Southern Ontario Railway,Q7570227,72.90499999999999
+Q7321658,Rhymney Railway,Q7321658,72.475
+Q1933886,"Moorgate Branch, Open portion",Q1933886,72.46
+Q4930869,Blyth and Tyne Railway,Q4930869,72.22500000000001
+Q3826027,"Great Northern, Piccadilly and Brompton Railway",Q3826027,71.285
+Q1398696,Liverpool and Manchester Railway,Q1398696,70.545
+Q3339036,"New York, Ontario and Western Railway",Q3339036,70.49499999999999
+Q4763393,Anglesey Central Railway,Q4763393,70.25999999999999
+Q1272318,Great Northern Railway,Q1272318,69.94
+Q3216463,Lake Shore and Michigan Southern Railway,Q3216463,69.85000000000001
+Q693285,"Charing Cross, Euston and Hampstead Railway",Q693285,69.55499999999999
+Q3321166,Monon Railroad,Q3321166,69.43499999999999
+Q1094056,City and South London Railway,Q1094056,69.39
+Q5609336,Grimsby and Immingham Electric Railway,Q5609336,69.22
+Q3344207,Northern Central Railway,Q3344207,69.03
+Q688684,Great Central Railway,Q688684,68.97500000000001
+Q3352823,Ontario Northland Railway,Q3352823,68.705
+Q7437875,Scottish North Eastern Railway,Q7437875,68.405
+Q917079,Norfolk and Western Railway,Q917079,67.89999999999999
+Q1121141,Compagnie Internationale des Wagons-Lits,Q1121141,66.99
+Q923337,Ukrainian Railways,Q923337,66.86
+Q498404,"Chicago, Rock Island and Pacific Railroad",Q498404,66.37
+Q3050850,"Elgin, Joliet and Eastern Railway",Q3050850,66.03000000000002
+Q2048811,Pan Am Railways,Q2048811,65.47
+Q5572897,Glyn Valley Tramway,Q5572897,64.825
+Q3802035,Chester and Holyhead Railway,Q3802035,64.59500000000001
+Q5095720,Chicago North Shore and Milwaukee Railroad,Q5095720,64.465
+Q696419,South Manchuria Railway,Q696419,64.285
+Q1779703,Lancashire and Yorkshire Railway,Q1779703,64.18499999999999
+Q17009619,Massawippi Valley Railway,Q17009619,63.769999999999996
+Q638263,"Richmond, Fredericksburg and Potomac Railroad",Q638263,63.69499999999999
+Q7909557,Vale of Neath Railway,Q7909557,63.334999999999994
+Q787383,North Eastern Railway,Q787383,62.56999999999999
+Q1111538,Colorado and Southern Railway,Q1111538,62.34
+Q7232218,Portpatrick and Wigtownshire Joint Railway,Q7232218,62.135000000000005
+Q1070560,Chesapeake and Ohio Railway,Q1070560,61.33000000000001
+Q16998819,Newcastle & Carlisle Railway,Q16998819,61.31
+Q17103825,Manchester and Milford Railway,Q17103825,61.254999999999995
+Q15228447,"Glasgow, Paisley, Kilmarnock and Ayr Railway",Q15228447,61.05500000000001
+Q1162114,Victorian Railways,Q1162114,60.94
+Q7984828,West Coast Railway Company,Q7984828,60.94
+Q181811,Great Northern Railway,Q181811,60.845
+Q1885607,Maine Central Railroad Company,Q1885607,60.475
+Q2066966,Atlantic Coast Line Railroad,Q2066966,60.37
+Q5338299,Edinburgh and Glasgow Railway,Q5338299,59.74
+Q632324,White Pass and Yukon Route,Q632324,59.709999999999994
+Q6116255,Trenes Argentinos Operaciones,Q6116255,59.595
+Q3826042,"London, Chatham and Dover Railway",Q3826042,59.54
+Q7933902,Virgin CrossCountry,Q7933902,59.315
+Q981178,Llanelly Railway,Q981178,59.169999999999995
+Q1428642,Penn Central Transportation Company,Q1428642,58.995
+Q1032234,Canadian Northern Railway,Q1032234,58.99
+Q3460982,Sacramento Northern Railway,Q3460982,58.905
+Q2962383,New Brunswick East Coast Railway,Q2962383,58.900000000000006
+Q1059978,Ferrocarriles Argentinos,Q1059978,58.69500000000001
+Q12055065,Clarence Railway,Q12055065,58.315
+Q218438,Amtrak California,Q218438,58.035000000000004
+Q5314856,Dundee and Arbroath Railway,Q5314856,57.77000000000001
+Q4870104,Battle River Railway,Q4870104,57.63499999999999
+Q2745027,Kereta Api Indonesia,Q2745027,57.495000000000005
+Q900778,Yugoslav Railways,Q900778,57.135000000000005
+Q6516169,Leeds and Selby Railway,Q6516169,57.08
+Q6479123,Lakeside Miniature Railway,Q6479123,56.765
+Q7660181,Sydney Trains,Q7660181,56.639999999999986
+Q7017848,Newfoundland Railway,Q7017848,56.394999999999996
+Q10931299,Metro Trains Melbourne,Q10931299,56.309999999999995
+Q3552730,Utah Railway,Q3552730,56.23499999999999
+Q2388342,Quebec Gatineau Railway,Q2388342,56.169999999999995
+Q2899911,Bessemer and Lake Erie Railroad,Q2899911,56.0
+Q5021767,Callander and Oban Railway,Q5021767,55.97
+Q15091625,West Jersey and Seashore Railroad,Q15091625,55.629999999999995
+Q5532708,Genesee & Wyoming Australia,Q5532708,55.455
+Q1474645,Quebec North Shore and Labrador Railway,Q1474645,55.334999999999994
+Q5576334,Goderich–Exeter Railway,Q5576334,55.300000000000004
+Q16980898,Kansas City Southern,Q16980898,55.245000000000005
+Q83822,Austrian Federal Railways,Q83822,54.959999999999994
+Q16956409,Central Maine & Quebec Railway,Q16956409,54.95
+Q2646029,Glasgow and South Western Railway,Q2646029,54.129999999999995
+Q5338133,"Edinburgh, Leith and Newhaven Railway",Q5338133,54.08
+Q7985371,West Highland Railway,Q7985371,53.95
+Q2304446,South Eastern and Chatham Railway,Q2304446,53.925000000000004
+Q5161498,Connecticut Company,Q5161498,53.650000000000006
+Q602935,Hellenic Railways Organisation,Q602935,53.23500000000001
+Q15458970,"Minneapolis, St. Paul and Sault Ste. Marie Railroad",Q15458970,52.205
+Q3050172,El Paso and Southwestern Railroad,Q3050172,52.14
+Q3041137,"Duluth, Missabe and Iron Range Railway",Q3041137,51.365
+Q1245875,Missouri Pacific Railroad,Q1245875,51.29
+Q1124796,Wabash Railroad,Q1124796,51.22
+Q44353,DB Cargo,Q44353,51.215
+Q5566720,"Glasgow, Barrhead and Kilmarnock Joint Railway",Q5566720,50.74
+Q7094908,Ontario Southland Railway,Q7094908,50.65
+Q3319124,Albany and Schenectady Railroad,Q3319124,50.605
+Q2984583,Columbus and Greenville Railway,Q2984583,50.57
+Q2783191,Aurizon,Q2783191,50.120000000000005
+Q766616,Slovenske železnice,Q766616,50.025000000000006
+Q6001353,Ilwaco Railway and Navigation Company,Q6001353,50.02
+Q2636301,Alabama and Gulf Coast Railway,Q2636301,49.98500000000001
+Q5566724,"Glasgow, Dumbarton and Helensburgh Railway",Q5566724,49.685
+Q365751,Chicago Great Western Railway,Q365751,49.67
+Q18853,DB Regio,Q18853,49.48500000000001
+Q743414,Central Vermont Railway,Q743414,49.205000000000005
+Q3103777,Georgia Southern and Florida Railway,Q3103777,49.155
+Q3229121,Lehigh and New England Railroad,Q3229121,49.03
+Q1016648,Burlington Northern Railroad,Q1016648,49.025000000000006
+Q1244599,Nizam's Guaranteed State Railway,Q1244599,48.955
+Q2962334,Cartier Railway,Q2962334,48.64
+Q4784938,Arbroath and Forfar Railway,Q4784938,48.575
+Q7437857,Scottish Midland Junction Railway,Q7437857,48.47
+Q931988,Croatian Railways,Q931988,48.41
+Q3041134,"Duluth, Winnipeg and Pacific Railway",Q3041134,48.39
+Q2069121,Pennsylvania-Reading Seashore Lines,Q2069121,48.31
+Q1053974,Central Railroad of New Jersey,Q1053974,48.254999999999995
+Q5043067,Carlton Trail Railway,Q5043067,48.13
+Q3339032,"New York, Chicago and St. Louis Railroad",Q3339032,48.08
+Q7849632,Tshiuetin Rail Transportation,Q7849632,48.050000000000004
+Q4940244,Bolton and Leigh Railway,Q4940244,47.97
+Q5338300,Edinburgh and Northern Railway,Q5338300,47.91
+Q8030564,Wolverton and Stony Stratford Tramway,Q8030564,47.885
+Q12061715,Mersey Railway,Q12061715,47.835
+Q3389425,Pittsburgh and West Virginia Railway,Q3389425,47.83
+Q7826250,"Toronto, Hamilton and Buffalo Railway",Q7826250,47.80500000000001
+Q83823,Ferrovie dello Stato Italiane,Q83823,47.78
+Q3103772,Georgia Railroad and Banking Company,Q3103772,47.75
+Q1187590,Keretapi Tanah Melayu,Q1187590,47.705000000000005
+Q3375269,Pere Marquette Railway,Q3375269,47.64
+Q5566729,"Glasgow, Paisley and Greenock Railway",Q5566729,46.96
+Q1219708,Lynton and Barnstaple Railway,Q1219708,46.88
+Q3216468,Lake Superior and Ishpeming Railroad,Q3216468,46.845
+Q495863,Chosen Government Railway,Q495863,46.83
+Q25000242,Western Labrador Rail Services,Q25000242,46.72
+Q2407640,Texas Mexican Railway,Q2407640,46.68000000000001
+Q698082,Deutsche Reichsbahn,Q698082,46.540000000000006
+Q648081,"Nashville, Chattanooga and St. Louis Railway",Q648081,46.505
+Q7109122,"Ottawa, Arnprior and Parry Sound Railway",Q7109122,46.379999999999995
+Q5328700,East Kent Light Railway,Q5328700,46.365
+Q5291031,Dominion Atlantic Railway,Q5291031,46.335
+Q2944435,Central of Georgia Railway,Q2944435,46.205
+Q7569180,Southampton and Dorchester Railway,Q7569180,46.05500000000001
+Q1069374,Chemins de fer de l'Ouest,Q1069374,46.045
+Q907655,Iraqi Republic Railways,Q907655,46.015
+Q3547983,Ulster and Delaware Railroad,Q3547983,45.72
+Q6023720,Indiana and Ohio Railway,Q6023720,45.525
+Q4666965,Aberdeen Railway,Q4666965,45.5
+Q3315538,Minneapolis and St. Louis Railway,Q3315538,45.49
+Q7294235,Rapid transit operations of the BRT and BMT,Q7294235,45.394999999999996
+Q6383353,Keewatin Railway Company,Q6383353,45.379999999999995
+Q2835752,Algoma Central Railway,Q2835752,45.145
+Q5041409,Carlisle and Silloth Bay Railway,Q5041409,45.050000000000004
+Q917938,Bristol Harbour Railway,Q917938,45.050000000000004
+Q6060277,Inverness and Aberdeen Junction Railway,Q6060277,44.87
+Q83824,DSB,Q83824,44.775000000000006
+Q7160143,Peebles Railway,Q7160143,44.63
+Q164914,Lithuanian Railways,Q164914,44.63
+Q6900908,Monkland and Kirkintilloch Railway,Q6900908,44.565
+Q8055610,York and North Midland Railway,Q8055610,44.465
+Q1502902,Underground Electric Railways Company of London,Q1502902,44.29
+Q7437653,Scottish Central Railway,Q7437653,44.26
+Q5595054,Grand River Railway,Q5595054,44.045
+Q7902349,Utah Division,Q7902349,43.99
+Q85775619,Lake Erie and Northern Railway,Q85775619,43.905
+Q942194,Rutland Railway,Q942194,43.7
+Q833689,New England Central Railroad,Q833689,43.695
+Q617956,Azerbaijan Railways,Q617956,43.660000000000004
+Q7567046,South Devon Railway,Q7567046,43.425
+Q444183,Erie Lackawanna Railway,Q444183,43.29
+Q2972706,"Cincinnati, New Orleans and Texas Pacific Railway",Q2972706,43.26
+Q249591,Polish State Railways,Q249591,43.165
+Q12053340,Boston and Albany Railroad,Q12053340,43.120000000000005
+Q16848372,Invergarry and Fort Augustus Railway,Q16848372,42.72
+Q3878567,Northern Counties Committee,Q3878567,42.67
+Q2645718,Grand Trunk Railway,Q2645718,42.54500000000001
+Q3560691,Virginia and Truckee Railroad,Q3560691,42.544999999999995
+Q3488234,Société de chemin de fer de la Gaspésie,Q3488234,42.405
+Q2963280,"Chicago, St. Paul, Minneapolis and Omaha Railway",Q2963280,42.385
+Q1666820,Natal Government Railways,Q1666820,42.285
+Q23042087,Lowca Light Railway,Q23042087,42.27
+Q370343,Nevada Northern Railway,Q370343,42.190000000000005
+Q5564847,Girvan and Portpatrick Junction Railway,Q5564847,42.185
+Q7414408,San Joaquin Valley Railroad,Q7414408,42.11
+Q83878,Serbian Railways,Q83878,42.084999999999994
+Q647518,Lehigh and Hudson River Railway,Q647518,42.055
+Q7504271,Shropshire Union Railways and Canal Company,Q7504271,42.045
+Q5330271,Eastern Maine Railway,Q5330271,42.02
+Q2261937,Seaboard System Railroad,Q2261937,41.955
+Q2586077,Wisconsin and Southern Railroad,Q2586077,41.82
+Q5566725,"Glasgow, Dumfries and Carlisle Railway",Q5566725,41.79
+Q12858578,InterCity,Q12858578,41.74
+Q28699048,Seoul Metro,Q28699048,41.730000000000004
+Q5095411,"Chicago, Fort Wayne and Eastern Railroad",Q5095411,41.715
+Q18708323,Sirhowy Railway,Q18708323,41.685
+Q3788105,KiwiRail,Q3788105,41.63
+Q913248,VR Group,Q913248,41.580000000000005
+Q7157836,Peak Rail,Q7157836,41.5
+Q5061563,Central Oregon and Pacific Railroad,Q5061563,41.449999999999996
+Q3055404,St. Louis Southwestern Railway,Q3055404,41.425000000000004
+Q1121227,Companhia Paulista de Trens Metropolitanos,Q1121227,41.290000000000006
+Q676639,Südostbahn,Q676639,41.16
+Q2869388,Atlantic City Railroad,Q2869388,41.155
+Q3471409,San Diego and Arizona Eastern Railway,Q3471409,41.005
+Q7083742,Old Colony Railroad,Q7083742,41.0
+Q1326458,Elron,Q1326458,40.974999999999994
+Q2979274,Clinchfield Railroad,Q2979274,40.974999999999994
+Q7099814,Orangeville Brampton Railway,Q7099814,40.945
+Q1134344,Cornwall Railway,Q1134344,40.93000000000001
+Q7051105,Norfolk Southern Railway,Q7051105,40.87
+Q115984,Hekurudha Shqiptare,Q115984,40.845000000000006
+Q4851830,Ballochney Railway,Q4851830,40.765
+Q20539346,Stewart Southern Railway,Q20539346,40.605
+Q3078106,Fort Worth and Denver Railway,Q3078106,40.525000000000006
+Q111955743,Manila Railroad Company,Q111955743,40.480000000000004
+Q5147781,Colne and Trawden Light Railway Company,Q5147781,40.46
+Q16982125,Gulf Coast Lines,Q16982125,40.43
+Q11563876,Manchukuo National Railway,Q11563876,40.385
+Q3120739,"Gulf, Mobile and Ohio Railroad",Q3120739,40.345
+Q6906512,Montrose and Bervie railway,Q6906512,40.14500000000001
+Q921442,Makedonski Železnici,Q921442,40.04
+Q1140854,Cromford and High Peak Railway,Q1140854,39.94499999999999
+Q480161,Abkhazian railway,Q480161,39.82
+Q2962382,Chemin de fer de la Rivière Romaine,Q2962382,39.80500000000001
+Q2413819,Montour Railroad,Q2413819,39.800000000000004
+Q1868882,"London, Tilbury and Southend Railway",Q1868882,39.724999999999994
+Q2840491,Alton Railroad,Q2840491,39.605000000000004
+Q3389420,"Pittsburg, Shawmut and Northern Railroad",Q3389420,39.575
+Q149274,Euskotren Trena,Q149274,39.535
+Q1018027,"Butte, Anaconda and Pacific Railway",Q1018027,39.435
+Q2963279,"Chicago, Peoria and St. Louis Railroad",Q2963279,39.324999999999996
+Q12859175,Network SouthEast,Q12859175,39.285
+Q5737913,"Hereford, Hay and Brecon Railway",Q5737913,39.24
+Q7538584,Slamannan Railway,Q7538584,39.235
+Q1584305,Sabah State Railway,Q1584305,39.050000000000004
+Q16981113,Last Mountain Railway,Q16981113,38.94
+Q7014895,New York and New England Railroad,Q7014895,38.925
+Q7619244,Stonehouse and Nailsworth Railway,Q7619244,38.879999999999995
+Q28220824,TCDD Taşımacılık,Q28220824,38.83500000000001
+Q4985525,Buenos Aires Great Southern Railway,Q4985525,38.8
+Q4854855,"Banff, Macduff and Turriff Junction Railway",Q4854855,38.775000000000006
+Q7300474,Reading Blue Mountain and Northern Railroad,Q7300474,38.76499999999999
+Q802693,St. Johnsbury and Lamoille County Railroad,Q802693,38.68
+Q5566722,"Glasgow, Bothwell, Hamilton and Coatbridge Railway",Q5566722,38.505
+Q60740071,Bolton and Preston Railway,Q60740071,38.504999999999995
+Q558087,Ann Arbor Railroad,Q558087,38.485
+Q2927632,"Buffalo Bayou, Brazos and Colorado Railway",Q2927632,38.395
+Q7232090,Portland and Western Railroad,Q7232090,38.395
+Q658126,Syrian Railways,Q658126,38.335
+Q6060281,Inverness and Perth Junction Railway,Q6060281,38.254999999999995
+Q3374775,Pennsylvania Company,Q3374775,38.235
+Q3116077,Green Bay and Western Railroad,Q3116077,38.075
+Q7707202,Tewkesbury and Malvern Railway,Q7707202,38.06
+Q6796991,Maybole and Girvan Railway,Q6796991,38.03
+Q955093,Gulf and Ship Island Railroad,Q955093,38.025
+Q10323528,Manchester and Leeds Railway,Q10323528,37.964999999999996
+Q5209979,"Dakota, Minnesota and Eastern Railroad",Q5209979,37.96
+Q5472601,Forth and Clyde Junction Railway,Q5472601,37.955
+Q6060279,Inverness and Aviemore Direct Railway,Q6060279,37.935
+Q7766140,The St. Andrews Railway,Q7766140,37.9
+Q85814921,"Wellington, Grey and Bruce Railway",Q85814921,37.875
+Q2748502,CountryLink,Q2748502,37.87
+Q3378840,"Philadelphia, Baltimore and Washington Railroad",Q3378840,37.86
+Q4916856,Birmingham and Gloucester Railway,Q4916856,37.830000000000005
+Q5316772,Dursley and Midland Junction Railway,Q5316772,37.82500000000001
+Q943113,Chicago and Eastern Illinois Railroad,Q943113,37.775
+Q3024775,"Detroit, Toledo and Ironton Railroad",Q3024775,37.72
+Q2972708,Cincinnati Northern Railroad,Q2972708,37.72
+Q2069534,Hankai Tramway,Q2069534,37.7
+Q117706368,Canadian Pacific Kansas City,Q117706368,37.684999999999995
+Q5713646,Hendre-Ddu Tramway,Q5713646,37.574999999999996
+Q3488125,Société des chemins de fer du Québec,Q3488125,37.535
+Q2869401,"Norfolk, Franklin and Danville Railway",Q2869401,37.52
+Q5594573,Grand Forks Railway,Q5594573,37.495
+Q7248577,Progress Rail Services,Q7248577,37.475
+Q977145,Ferromex,Q977145,37.474999999999994
+Q85752812,"Cleveland, Akron and Columbus Railroad",Q85752812,37.47
+Q1070640,Chessie System,Q1070640,37.465
+Q5916804,Houston and Texas Central Railway,Q5916804,37.37499999999999
+Q5330017,Eastern Bengal Railway,Q5330017,37.325
+Q5599916,Great Sandhills Railway,Q5599916,37.24
+Q48814053,Cando Rail Services Ltd.,Q48814053,36.955000000000005
+Q1421154,Fitchburg Railroad,Q1421154,36.8
+Q3024782,Detroit and Mackinac Railway,Q3024782,36.645
+Q3492328,Southern Railway of British Columbia,Q3492328,36.599999999999994
+Q241921,Armenian Railways,Q241921,36.22
+Q6825268,Metropolitan Street Railway,Q6825268,36.125
+Q6052640,International Rail Road Systems,Q6052640,35.96
+Q3560669,Virginia Central Railroad,Q3560669,35.95
+Q4854856,"Banff, Portsoy & Strathisla Railway",Q4854856,35.839999999999996
+Q5020717,California Northern Railroad,Q5020717,35.81
+Q3041133,"Duluth, South Shore and Atlantic Railway",Q3041133,35.74
+Q3471407,San Diego and Arizona Railway,Q3471407,35.71
+Q7985701,West Lancashire Light Railway,Q7985701,35.68
+Q7057079,North Union Railway,Q7057079,35.675000000000004
+Q7659873,Sydney Coal Railway,Q7659873,35.675000000000004
+Q3715773,Dublin and Kingstown Railway,Q3715773,35.665
+Q14992730,Deeside Railway,Q14992730,35.655
+Q1069105,Kazakhstan Temir Zholy,Q1069105,35.635000000000005
+Q3472633,"Santa Fe, Prescott and Phoenix Railway",Q3472633,35.615
+Q2869379,Atlanta and West Point Rail Road,Q2869379,35.61
+Q5328144,East Coast State Railway,Q5328144,35.495
+Q6483047,Lancashire Union Railway,Q6483047,35.46
+Q4949954,Boundary Trail Railway,Q4949954,35.44
+Q108100012,Sartigan Railway,Q108100012,35.39
+Q4732977,Alloa Railway,Q4732977,35.39
+Q5447371,Fife Lake Railway,Q5447371,35.349999999999994
+Q246206,Osaka Municipal Transportation Bureau,Q246206,35.33
+Q1554270,"Gulf, Colorado and Santa Fe Railway",Q1554270,35.33
+Q6386436,Kelowna Pacific Railway,Q6386436,35.290000000000006
+Q1069376,Chemins de fer de l'État,Q1069376,35.245
+Q1100675,"Cleveland, Cincinnati, Chicago and St. Louis Railway",Q1100675,35.135
+Q7832852,Hellenic Train,Q7832852,35.04
+Q3493711,Spokane and Inland Empire Railroad,Q3493711,34.865
+Q3080579,LKAB Malmtrafik,Q3080579,34.855000000000004
+Q14992745,"North British, Arbroath and Montrose Railway",Q14992745,34.815
+Q1054033,Central Trains,Q1054033,34.794999999999995
+Q7017190,Newburgh and North Fife Railway,Q7017190,34.75
+Q28921355,Jan Sadharan Express,Q28921355,34.7
+Q3519350,Texas and New Orleans Railroad,Q3519350,34.695
+Q3355812,Oregon Short Line Railroad,Q3355812,34.690000000000005
+Q2937240,Cape Breton and Central Nova Scotia Railway,Q2937240,34.675
+Q3256536,Litchfield and Madison Railway,Q3256536,34.645
+Q7230557,Port Colborne Harbour Railway,Q7230557,34.565
+Q7057158,North Wales Narrow Gauge Railways,Q7057158,34.43
+Q7242020,Preston and Longridge Railway,Q7242020,34.28
+Q4887999,Central Argentine Railway,Q4887999,34.24
+Q5314859,Dundee and Perth Railway,Q5314859,34.23500000000001
+Q6060288,Inverness and Ross-shire Railway,Q6060288,34.14
+Q920016,British Railways Board,Q920016,34.12499999999999
+Q2990214,Compagnie Meusienne de Chemins de Fer,Q2990214,34.120000000000005
+Q525359,Société Nationale des Chemins de Fer Luxembourgeois,Q525359,34.105000000000004
+Q7231884,Portland Branch Railway,Q7231884,34.085
+Q7235300,"Potteries, Shrewsbury and North Wales Railway",Q7235300,34.085
+Q628919,Grand Rapids and Indiana Railroad,Q628919,34.085
+Q6964332,Nantlle Railway,Q6964332,34.07
+Q5029741,Canadian Atlantic Railway,Q5029741,34.07
+Q6060284,Inverness and Nairn Railway,Q6060284,34.03
+Q5061397,Central Manitoba Railway,Q5061397,34.025
+Q1540051,Quebec Central Railway,Q1540051,34.02
+Q7081808,Okanagan Valley Railway,Q7081808,34.005
+Q5161611,Connecticut Southern Railroad,Q5161611,33.99
+Q2962327,Chemin de fer Baie des Chaleurs,Q2962327,33.925000000000004
+Q4722156,Alford and Sutton Tramway,Q4722156,33.895
+Q2872451,Auto-Train Corporation,Q2872451,33.800000000000004
+Q3495278,"St. Louis, Iron Mountain and Southern Railway Company",Q3495278,33.775
+Q6694030,Lowestoft Corporation Tramways,Q6694030,33.77
+Q3362093,Panhandle and Santa Fe Railway,Q3362093,33.725
+Q5327951,East Broad Top Railroad and Coal Company,Q5327951,33.71
+Q5050059,Castle Douglas and Dumfries Railway,Q5050059,33.705
+Q5604358,Greenock and Ayrshire Railway,Q5604358,33.68
+Q2962372,Roberval and Saguenay Railway,Q2962372,33.665000000000006
+Q3321169,Monongahela Railway,Q3321169,33.53999999999999
+Q5599675,Great Northern Railway (Ireland),Q5599675,33.47
+Q24993335,Lumo,Q24993335,33.47
+Q7231204,Port of Montreal railway,Q7231204,33.44
+Q6385266,Keith and Dufftown Railway,Q6385266,33.379999999999995
+Q5247005,Dearne District Light Railway,Q5247005,33.370000000000005
+Q1361484,Kansas City Southern de México,Q1361484,33.355
+Q2829144,"Akron, Canton and Youngstown Railroad",Q2829144,33.32
+Q2984384,Colorado and Wyoming Railway,Q2984384,33.275
+Q3078081,Fort Smith and Western Railway,Q3078081,33.255
+Q3508991,Syracuse and Binghamton Railroad,Q3508991,33.099999999999994
+Q3493709,Spokane International Railroad,Q3493709,33.050000000000004
+Q60741116,Everett and Monte Cristo Railway,Q60741116,33.035
+Q7885982,Union Railroad,Q7885982,33.025
+Q6672479,Long Creek Railroad,Q6672479,32.895
+Q14992510,Missouri and North Arkansas Railroad,Q14992510,32.875
+Q1121203,Companhia Paulista de Estradas de Ferro,Q1121203,32.525
+Q4906370,Big Sky Rail,Q4906370,32.52
+Q28230842,Forty Mile Rail,Q28230842,32.504999999999995
+Q3078111,Fort Worth and Rio Grande Railway,Q3078111,32.43
+Q839246,Intercolonial Railway,Q839246,32.43
+Q7094946,Ontario and Quebec Railway,Q7094946,32.325
+Q1125591,SuperVia,Q1125591,32.309999999999995
+Q3216456,Lake Erie and Western Railroad,Q3216456,32.23500000000001
+Q7912122,Valley Lines,Q7912122,32.19499999999999
+Q4830437,Axholme Joint Railway,Q4830437,32.16
+Q5170735,"Cork, Bandon and South Coast Railway",Q5170735,32.15
+Q2962339,Chemin de fer Lanaudière,Q2962339,32.115
+Q6519250,Leicester and Swannington Railway,Q6519250,32.045
+Q2045552,Pacific National,Q2045552,32.005
+Q7242023,Preston and Wyre Joint Railway,Q7242023,31.785000000000004
+Q2972703,"Cincinnati, Hamilton and Dayton Railway",Q2972703,31.640000000000004
+Q3572034,Yazoo and Mississippi Valley Railroad,Q3572034,31.629999999999995
+Q2869373,"Atlanta, Birmingham and Coast Railroad",Q2869373,31.6
+Q1967598,National Railways of Zimbabwe,Q1967598,31.595
+Q7205901,Plynlimon and Hafan Tramway,Q7205901,31.5
+Q5061735,Central Railroad of Indiana,Q5061735,31.450000000000003
+Q4985551,Buenos Aires Western Railway,Q4985551,31.435000000000002
+Q55962686,Via Mobilidade Linhas 5 e 17,Q55962686,31.42
+Q3398394,Port Reading Railroad,Q3398394,31.415
+Q5604361,Greenock and Wemyss Bay Railway,Q5604361,31.375
+Q679910,Empresa de los Ferrocarriles del Estado,Q679910,31.29
+Q12072660,Wells Harbour Railway,Q12072660,31.22
+Q372974,Kaiser Ferdinands-Nordbahn,Q372974,31.210000000000004
+Q7018966,Newport Railway,Q7018966,31.199999999999996
+Q19944915,Trenes Argentinos Cargas,Q19944915,31.155
+Q5554759,Gettysburg Electric Railway,Q5554759,31.135000000000005
+Q7650002,Sutherland and Caithness Railway,Q7650002,31.105000000000004
+Q7164710,Pensacola and Atlantic Railroad,Q7164710,31.084999999999997
+Q1711861,Uganda Railways Corporation,Q1711861,31.08
+Q3530571,"Toledo, St. Louis and Western Railroad",Q3530571,31.060000000000002
+Q7170907,Perth and Dunkeld Railway,Q7170907,31.034999999999997
+Q1663639,Kenya Railways Corporation,Q1663639,30.955000000000002
+Q3024776,"Detroit, Grand Haven and Milwaukee Railway",Q3024776,30.759999999999998
+Q7228414,"Pontypridd, Caerphilly and Newport Railway",Q7228414,30.730000000000004
+Q14992733,Esk Valley Railway (Scotland),Q14992733,30.715000000000003
+Q742422,PKP Cargo,Q742422,30.655
+Q16679012,Tanganyika Concessions Limited,Q16679012,30.634999999999998
+Q2120159,Chicago South Shore and South Bend,Q2120159,30.619999999999994
+Q787398,Oklahoma City – Ada – Atoka Railway,Q787398,30.61
+Q5057182,Cedryn Quarry Tramway,Q5057182,30.585000000000004
+Q655994,International – Great Northern Railroad,Q655994,30.515
+Q6386754,Kelvin Valley Railway,Q6386754,30.504999999999995
+Q5453455,First North Western,Q5453455,30.455
+Q7085614,"Oldham, Ashton and Guide Bridge Railway",Q7085614,30.450000000000003
+Q5278289,Dingwall and Skye Railway,Q5278289,30.420000000000005
+Q7989349,"Weston, Clevedon and Portishead Light Railway",Q7989349,30.370000000000005
+Q5600225,Great Western and Great Central Joint Railway,Q5600225,30.34
+Q303093,"Cincinnati, Indianapolis and Western Railroad",Q303093,30.330000000000002
+Q19619342,Ferrocarriles Argentinos Sociedad del Estado,Q19619342,30.28
+Q2982351,Colas Rail,Q2982351,30.274999999999995
+Q4667119,"Aberlady, Gullane and North Berwick Railway",Q4667119,30.255000000000003
+Q4863464,Barrhead Branch,Q4863464,30.245
+Q7920378,Ventura County Railroad,Q7920378,30.235
+Q283039,"St. Louis, San Francisco and Texas Railway",Q283039,30.200000000000006
+Q7055980,North London Railway,Q7055980,30.124999999999996
+Q5416050,Evansville and Crawfordsville Railroad,Q5416050,30.084999999999997
+Q5645263,Hamilton and Strathaven Railway,Q5645263,29.955
+Q7503714,Shrewsbury and Hereford Railway,Q7503714,29.939999999999998
+Q1815809,ONCF,Q1815809,29.905
+Q48782115,"Vancouver, Victoria and Eastern Railway",Q48782115,29.854999999999997
+Q5566968,Glasgow and Milngavie Junction Railway,Q5566968,29.525000000000002
+Q18619240,Kilsyth and Bonnybridge railway,Q18619240,29.515000000000004
+Q2990395,Compañía de los caminos de hierro del Norte,Q2990395,29.495
+Q4791309,Arizona Eastern Railway,Q4791309,29.474999999999994
+Q3177521,Jersey Eastern Railway,Q3177521,29.395
+Q2364214,St. Louis Southwestern Railway of Texas,Q2364214,29.195
+Q16995876,Lanchester Valley Railway,Q16995876,29.034999999999997
+Q83832,Kosovo Railways,Q83832,29.005000000000003
+Q7182603,"Philadelphia, Wilmington and Baltimore Railroad",Q7182603,29.0
+Q4804724,Ashby and Nuneaton Joint Railway,Q4804724,28.965
+Q6914113,Morristown & Erie Railway,Q6914113,28.940000000000005
+Q7320727,Rhiwbach Tramway,Q7320727,28.92
+Q4763413,Anglia Railways,Q4763413,28.89
+Q3530574,Toledo and Ohio Central Railway,Q3530574,28.845
+Q5329124,East Penn Railroad,Q5329124,28.825000000000003
+Q119161,Schweizerische Centralbahn,Q119161,28.744999999999994
+Q3375003,Peoria and Eastern Railway,Q3375003,28.715
+Q429389,Bodensee-Toggenburg-Bahn,Q429389,28.630000000000003
+Q610143,Bulgarian State Railways,Q610143,28.61
+Q2048166,Housatonic Railroad,Q2048166,28.465
+Q4345666,Isle of Wight Steam Railway,Q4345666,28.445
+Q7649985,Sutherland Railway,Q7649985,28.429999999999996
+Q5422778,Eyemouth Railway,Q5422778,28.354999999999997
+Q5532240,General Terminus and Glasgow Harbour Railway,Q5532240,28.325000000000003
+Q3400858,Croesor Tramway,Q3400858,28.314999999999998
+Q48812506,Oakland Railroad Company,Q48812506,28.284999999999997
+Q824752,Netherlands-South African Railway Company,Q824752,28.25
+Q246824,BLS AG,Q246824,28.24
+Q25682124,Dibru–Sadiya Railway,Q25682124,28.124999999999996
+Q2892173,Bay Line Railroad,Q2892173,28.12
+Q1121125,Chemins de fer Orientaux,Q1121125,28.064999999999998
+Q4724298,Algoma Eastern Railway,Q4724298,28.0
+Q5267773,Devon Valley Railway,Q5267773,27.840000000000003
+Q5586876,Gorseddau Junction and Portmadoc Railway,Q5586876,27.749999999999996
+Q6955265,Vy Gjøvikbanen,Q6955265,27.689999999999998
+Q18156853,"Rapid City, Pierre and Eastern Railroad",Q18156853,27.6
+Q617732,Montreux Oberland Bernois Railway,Q617732,27.575000000000003
+Q1301181,London and Birmingham Railway,Q1301181,27.495
+Q5452750,First Coast Railroad,Q5452750,27.455000000000002
+Q7837813,Trefor Quarry railway,Q7837813,27.355000000000004
+Q5187563,Cromarty and Dingwall Light Railway,Q5187563,27.325000000000003
+Q4925049,Blane Valley Railway,Q4925049,27.295
+Q2962375,"Glasgow, Yoker and Clydebank Railway",Q2962375,27.245
+Q7687456,Tasmanian Government Railways,Q7687456,27.195
+Q7709917,Thames Trains,Q7709917,27.165
+Q6808943,Megatrain,Q6808943,27.125
+Q1121154,Compagnie des chemins de fer de Paris à Lyon et à la Méditerranée,Q1121154,27.07
+Q4921676,Black River and Western Railroad,Q4921676,27.005000000000003
+Q26234621,Rumo S.A.,Q26234621,27.0
+Q7679997,Talla Railway,Q7679997,26.97
+Q142200,Calea Ferată din Moldova,Q142200,26.955
+Q6744041,Mallaig Extension Railway,Q6744041,26.895000000000007
+Q7908474,Etihad Rail,Q7908474,26.82
+Q4741342,"Ambergate, Nottingham, Boston and Eastern Junction Railway",Q4741342,26.814999999999998
+Q5313107,Duke of Sutherland's Railway,Q5313107,26.790000000000006
+Q5555390,Ghana Railway Corporation,Q5555390,26.784999999999997
+Q7797050,Thousand Islands Railway,Q7797050,26.709999999999997
+Q5256603,"Denbigh, Ruthin and Corwen Railway",Q5256603,26.695
+Q4791714,"Arkansas, Louisiana and Mississippi Railroad",Q4791714,26.665
+Q6044847,InterCity West Coast,Q6044847,26.57
+Q803168,Scarborough and Whitby Railway,Q803168,26.425
+Q7492564,"Sheffield, Ashton-under-Lyne and Manchester Railway",Q7492564,26.39
+Q60740558,Wigan Branch Railway,Q60740558,26.200000000000003
+Q4805845,Ashover Light Railway,Q4805845,26.095
+Q5559949,Gifford and Garvald Railway,Q5559949,26.05
+Q10585074,Midland Counties Railway,Q10585074,25.930000000000003
+Q96374136,Burlington and Northwestern Railway,Q96374136,25.929999999999996
+Q7232112,"Portmadoc, Beddgelert and South Snowdon Railway",Q7232112,25.880000000000003
+Q39158,Chinese Eastern Railway,Q39158,25.86
+Q16926345,Ministry of Posts and Communications,Q16926345,25.775000000000002
+Q7622099,Strathendrick and Aberfoyle Railway,Q7622099,25.675
+Q16997768,Midland Railway Doe Lea Branch Line,Q16997768,25.310000000000002
+Q5600230,Great Whipsnade Railway,Q5600230,25.284999999999997
+Q5061738,Central Railroad of Indianapolis,Q5061738,25.275000000000002
+Q25338990,Indian Railway Stations Development Corporation,Q25338990,25.275
+Q6842257,Midhurst Railways,Q6842257,25.255000000000003
+Q7014887,New York and Atlantic Railway,Q7014887,25.24
+Q5020983,California Southern Railroad,Q5020983,25.185000000000002
+Q6913958,Morris and Essex Railroad,Q6913958,25.165000000000003
+Q7228412,Pontypool and Blaenavon Railway,Q7228412,25.145
+Q3304245,North Midland Railway,Q3304245,25.084999999999997
+Q7008591,New Haven and Northampton Company,Q7008591,25.08
+Q7414146,San Francisco and San Mateo Electric Railway,Q7414146,24.985
+Q5162679,Conrail Shared Assets Operations,Q5162679,24.985
+Q5161796,Connex South Eastern,Q5161796,24.97
+Q5860790,Ferrocarriles Vascongados,Q5860790,24.96
+Q1139703,Polregio,Q1139703,24.885000000000005
+Q591484,Connexxion,Q591484,24.705
+Q7909530,Vale of Clwyd Railway,Q7909530,24.545
+Q4726855,Aliquippa and Ohio River Railroad,Q4726855,24.54
+Q4966452,Bridge of Weir Railway,Q4966452,24.375
+Q2160819,Rocky Mountaineer,Q2160819,24.375
+Q16961133,Charlottesville and Albemarle Railway,Q16961133,24.33
+Q3700357,Birmingham and Derby Junction Railway,Q3700357,24.28
+Q664642,Sihltal Zürich Uetliberg Bahn,Q664642,24.215000000000003
+Q2990084,Compagnie du chemin de fer Grand-Central de France,Q2990084,24.189999999999998
+Q851963,Leo Express Global,Q851963,24.125
+Q5600013,Great Southern Railways,Q5600013,24.115
+Q48817406,Kenyon and Leigh Junction Railway,Q48817406,24.11
+Q227796,Taiwan Sugar Railways,Q227796,24.08
+Q7924717,VicTrack,Q7924717,24.075000000000003
+Q5087918,Chattenden and Upnor Railway,Q5087918,24.07
+Q16999674,Rohilkund and Kumaon Railway,Q16999674,23.98
+Q25459717,Srbija Voz,Q25459717,23.909999999999997
+Q7442210,Seattle and Walla Walla Railroad,Q7442210,23.87
+Q731438,Euro Cargo Rail,Q731438,23.845
+Q7721670,Vale of Glamorgan Railway,Q7721670,23.755
+Q997617,CSR Corporation Limited,Q997617,23.700000000000003
+Q8055703,Yorkshire Dales Railway,Q8055703,23.645
+Q327094,Latvian Railways,Q327094,23.635000000000005
+Q501329,Vietnam Railways,Q501329,23.564999999999998
+Q116014,Estonian Railways,Q116014,23.52
+Q7653721,Swansea Vale Railway,Q7653721,23.490000000000002
+Q7057652,Northampton and Peterborough Railway,Q7057652,23.450000000000003
+Q7988139,Western Pacific Railroad,Q7988139,23.39
+Q5547409,Georgia Central Railway,Q5547409,23.375
+Q8301325,SJ AB,Q8301325,23.37
+Q3978311,Sussex Railroad,Q3978311,23.345
+Q2517112,Vermont Railway,Q2517112,23.310000000000002
+Q6516164,Leeds and Bradford Railway,Q6516164,23.299999999999997
+Q6800371,McCloud Railway,Q6800371,23.270000000000003
+Q16983212,Orange Belt Railway,Q16983212,23.230000000000004
+Q5161794,Connex South Central,Q5161794,23.180000000000003
+Q4357795,Kansas and Oklahoma Railroad,Q4357795,23.14
+Q41960807,Chemins de Fer de la Basse-Egypte,Q41960807,23.085
+Q5126093,Clarbeston Road and Letterston Railway,Q5126093,22.885
+Q675756,Lyria,Q675756,22.85
+Q7920687,Transdev Auckland,Q7920687,22.810000000000002
+Q802221,Grand Junction Railroad and Depot Company,Q802221,22.8
+Q5462920,Flushing and North Side Railroad,Q5462920,22.785
+Q5445399,Ferrobaires,Q5445399,22.755000000000003
+Q4957645,Brantford and Hamilton Electric Railway,Q4957645,22.73
+Q7961801,Wales and West,Q7961801,22.705
+Q5600020,Great Southern and Western Railway,Q5600020,22.695
+Q590406,PKP Intercity,Q590406,22.615
+Q28405730,Merionethshire Railway,Q28405730,22.59
+Q1983338,New Zealand Railways Corporation,Q1983338,22.55
+Q17017576,Shrewsbury and Welshpool Railway,Q17017576,22.540000000000003
+Q76987,Belarusian Railway,Q76987,22.53
+Q17098038,Hellenic State Railways,Q17098038,22.3
+Q6772615,Marquette Rail,Q6772615,22.299999999999997
+Q55136941,Rail Operations Group,Q55136941,22.269999999999996
+Q5179776,Cowlyd Tramway,Q5179776,22.22
+Q7988058,Western Maryland Scenic Railroad,Q7988058,22.18
+Q5263354,Derwent Valley Railway,Q5263354,22.08
+Q7101427,Oregon and California Railroad,Q7101427,22.060000000000002
+Q7568536,South Staffordshire Railway,Q7568536,22.0
+Q18392497,Spuyten Duyvil and Port Morris Railroad,Q18392497,21.925
+Q4145883,Gorseddau Tramway,Q4145883,21.775
+Q6393030,Keokuk Junction Railway,Q6393030,21.76
+Q5044897,Carolina Southern Railroad,Q5044897,21.73
+Q5860706,Puerto Deseado Railway,Q5860706,21.659999999999997
+Q24260866,Columbus and Chattahoochee Railroad,Q24260866,21.584999999999997
+Q28451201,Atlantic and Gulf Railroad,Q28451201,21.57
+Q7331048,Richmond and Petersburg Railroad,Q7331048,21.55
+Q6023220,Indiana Harbor Belt Railroad,Q6023220,21.49
+Q728128,Linx,Q728128,21.475
+Q3431904,Rift Valley Railways Consortium,Q3431904,21.424999999999997
+Q5445412,Ferrocarril Provincial de Buenos Aires,Q5445412,21.22
+Q5594525,Grand Elk Railroad,Q5594525,21.2
+Q847141,Trenitalia France,Q847141,21.19
+Q5043801,Carnarvonshire Railway,Q5043801,21.189999999999998
+Q700563,Deutsche Reichsbahn (GDR),Q700563,21.16
+Q16932243,"Manchester, Buxton, Matlock and Midland Junction Railway",Q16932243,21.045
+Q6394675,Kerry Tramway,Q6394675,21.04
+Q5600205,Great Western Railway,Q5600205,20.895000000000003
+Q6728517,Madras Railway,Q6728517,20.89
+Q7649360,Susquehanna and New York Railroad,Q7649360,20.875
+Q5598972,Great Cockcrow Railway,Q5598972,20.87
+Q16969211,"Memphis, Clarksville and Louisville Railroad",Q16969211,20.86
+Q6842127,Middletown and New Jersey Railroad,Q6842127,20.725
+Q27048804,Kanawha River Railroad,Q27048804,20.674999999999997
+Q1546843,Nepal Railways,Q1546843,20.57
+Q5329505,East Tennessee Railway,Q5329505,20.525000000000002
+Q16160090,AN Railway,Q16160090,20.49
+Q42954977,Byron Bay Railroad Company,Q42954977,20.44
+Q16553214,Corredores Ferroviarios,Q16553214,20.315
+Q7603486,State Rail Authority of New South Wales,Q7603486,20.305000000000003
+Q875199,Badner Bahn,Q875199,20.194999999999997
+Q882823,Ortenau S-Bahn,Q882823,20.189999999999998
+Q7974739,Watlington and Princes Risborough Railway,Q7974739,20.17
+Q1827989,Liskeard and Caradon Railway,Q1827989,20.105
+Q3399113,Central Chubut Railway,Q3399113,20.095
+Q7665664,São Paulo Railway,Q7665664,20.095
+Q30638178,Transcisco Tours,Q30638178,20.07
+Q896102,Hessische Landesbahn,Q896102,20.064999999999998
+Q5685851,Hay Railway,Q5685851,20.045
+Q4887615,Bengal Dooars Railway,Q4887615,19.87
+Q1277719,East African Railways and Harbours Corporation,Q1277719,19.87
+Q4864995,Barsi Light Railway,Q4864995,19.765
+Q5353390,Elan Valley Railway,Q5353390,19.665
+Q1069370,Chemins de Fer de Provence,Q1069370,19.650000000000002
+Q7618192,Stocksbridge Railway,Q7618192,19.620000000000005
+Q4983268,Buckinghamshire Railway,Q4983268,19.544999999999998
+Q2410491,Baltimore and Potomac Railroad,Q2410491,19.54
+Q6747238,"Manchester, South Junction and Altrincham Railway",Q6747238,19.5
+Q7985927,West Midland Railway,Q7985927,19.465
+Q4816617,Atlantic and Western Railway,Q4816617,19.36
+Q7268590,Quakers Yard and Merthyr Railway,Q7268590,19.32
+Q16488732,Argentren,Q16488732,19.275000000000002
+Q7566396,South Branch Valley Railroad,Q7566396,19.27
+Q7909559,Vale of Towy Railway,Q7909559,19.26
+Q2297197,Tunisian Railways,Q2297197,19.245
+Q4985553,Buenos Aires and Rosario Railway,Q4985553,19.21
+Q4046725,Petersburg Railroad,Q4046725,19.145
+Q20712361,Southern Heights Light Railway,Q20712361,19.145
+Q7389338,SCT Logistics,Q7389338,19.05
+Q5516514,Gaekwar's Baroda State Railway,Q5516514,19.0
+Q5150172,Columbus and Xenia Railroad,Q5150172,18.990000000000002
+Q6651242,Little Ormes Head Quarry tramway,Q6651242,18.985
+Q39052230,Florida Southern Railway,Q39052230,18.98
+Q5598915,Great Bush Railway,Q5598915,18.974999999999998
+Q4705322,Alabama Southern Railroad,Q4705322,18.935
+Q2225236,Noord-Friesche Locaalspoorweg-Maatschappij,Q2225236,18.904999999999998
+Q4985539,Buenos Aires Midland Railway,Q4985539,18.815
+Q7057167,North Wales and Liverpool Railway,Q7057167,18.779999999999998
+Q7415881,Sand Springs Railway,Q7415881,18.725
+Q7880037,Ulster Transport Authority,Q7880037,18.72
+Q8022796,Wilmington and Weldon Railroad,Q8022796,18.680000000000003
+Q5695724,Heber Valley Railroad,Q5695724,18.669999999999998
+Q690774,Ferrocentral,Q690774,18.665
+Q7110266,Oudh and Tirhut Railway,Q7110266,18.654999999999998
+Q5379214,Enniskillen and Bundoran Railway,Q5379214,18.56
+Q65050405,Grand Union,Q65050405,18.54
+Q7051083,Norfolk Railway,Q7051083,18.53
+Q6413986,Kinmel Camp Railway,Q6413986,18.505
+Q1419357,Transcaucasus Railway,Q1419357,18.45
+Q5468123,Fordyce and Princeton Railroad,Q5468123,18.445
+Q488238,Chemins de Fer Ottomans d'Anatolie,Q488238,18.37
+Q4791865,Arkansas Southern Railroad,Q4791865,18.36
+Q6477832,Lake State Railway,Q6477832,18.35
+Q7986616,West Sussex Railway,Q7986616,18.33
+Q16996844,London and Southampton Railway,Q16996844,18.290000000000003
+Q117865561,Waterbury and Milldale Tramway,Q117865561,18.245
+Q687175,Deutsche Bundesbahn,Q687175,18.23
+Q277030,Imperial Royal Austrian State Railways,Q277030,18.165
+Q7618140,"Stockport, Timperley and Altrincham Junction Railway",Q7618140,18.06
+Q5095879,Chicago and Western Indiana Railroad,Q5095879,17.995
+Q2037930,Sakhalin Railway,Q2037930,17.945
+Q1660947,Südostbayernbahn,Q1660947,17.925
+Q1125524,Trenes de Buenos Aires,Q1125524,17.89
+Q5431505,Fakenham and Dereham Railway Society,Q5431505,17.87
+Q5461257,Florida Central Railroad,Q5461257,17.87
+Q80990,Republike Srpske Railways,Q80990,17.84
+Q6792497,"Napoleon, Defiance and Western Railway",Q6792497,17.77
+Q5860799,Argentine State Railway,Q5860799,17.764999999999997
+Q60740559,Preston and Wigan Railway,Q60740559,17.715
+Q7909551,Vale of Llangollen Railway,Q7909551,17.63
+Q60743288,Decatur & Eastern Illinois Railroad,Q60743288,17.575
+Q17049672,Bengal and North Western Railway,Q17049672,17.55
+Q7415812,Sand Hutton Light Railway,Q7415812,17.515
+Q247358,Appenzeller Bahnen,Q247358,17.365
+Q6747574,Manchester and Wigan Railway,Q6747574,17.36
+Q118352249,"Boston, Hoosac Tunnel and Western Railway",Q118352249,17.29
+Q190208,Zentralbahn,Q190208,17.26
+Q8034134,"Worcester, Bromyard and Leominster Railway",Q8034134,17.195
+Q5025638,Cambridge to Mildenhall railway,Q5025638,17.185
+Q4884910,Belvidere and Delaware River Railway,Q4884910,17.18
+Q1278238,Eastern Railroad,Q1278238,17.165000000000003
+Q7569563,Southern & Silverton Rail,Q7569563,17.139999999999997
+Q4985549,Buenos Aires and Ensenada Port Railway,Q4985549,17.124999999999996
+Q7708306,Texas – New Mexico Railroad,Q7708306,17.1
+Q21997687,Wemyss Estate Railway,Q21997687,17.025
+Q65049406,Florida Gulf & Atlantic Railroad,Q65049406,16.985
+Q7570469,Southern Shorthaul Railroad,Q7570469,16.98
+Q4166191,Donetsian Railway,Q4166191,16.965
+Q28163228,Hamilton and North-Western Railway,Q28163228,16.965
+Q16933398,Merchant's Railway,Q16933398,16.91
+Q7101284,Oregon Pacific Railroad,Q7101284,16.815
+Q7930431,Villa María and Rufino Railway,Q7930431,16.815
+Q1339786,Emu Bay Railway,Q1339786,16.81
+Q55099056,Lynn and Hunstanton Railway,Q55099056,16.805000000000003
+Q7492793,Sheffield and Rotherham Railway,Q7492793,16.76
+Q24908273,Olympia and Belmore Railroad,Q24908273,16.745
+Q2384474,Compagnie du chemin de fer du Bas-Congo au Katanga,Q2384474,16.705000000000002
+Q878900,Transdev Sachsen-Anhalt,Q878900,16.669999999999998
+Q690220,Grand Junction Railway,Q690220,16.605
+Q7986663,West Texas and Lubbock Railway,Q7986663,16.58
+Q2842923,Ferrocarril Central Norte,Q2842923,16.525000000000002
+Q7571068,Southside Railroad,Q7571068,16.52
+Q17083450,Porbandar State Railway,Q17083450,16.475
+Q7199207,"Pittsburgh, Fort Wayne and Chicago Railway",Q7199207,16.47
+Q5123409,Compañía General de Ferrocarriles en la Provincia de Buenos Aires,Q5123409,16.465
+Q96937836,Railcoop,Q96937836,16.45
+Q7495534,Sherwood Forest Railway,Q7495534,16.365
+Q5547874,Georgia and Florida Railway,Q5547874,16.355
+Q24259975,Allentown & Auburn Railroad,Q24259975,16.34
+Q38182538,Companhia do Metropolitano de São Paulo,Q38182538,16.29
+Q1407952,PeruRail,Q1407952,16.13
+Q1982888,New South Wales Government Railways,Q1982888,16.11
+Q1144530,Southwestern Railways,Q1144530,16.025000000000002
+Q7932853,Vintage Trains,Q7932853,16.014999999999997
+Q4983200,Buckingham Branch Railroad,Q4983200,15.999999999999998
+Q4950703,Bowaters Paper Railway,Q4950703,15.944999999999997
+Q24525700,Farmville and Powhatan Railroad,Q24525700,15.92
+Q4843104,Bahía Blanca and North Western Railway,Q4843104,15.875
+Q4985550,Buenos Aires and Pacific Railway,Q4985550,15.875
+Q4861861,Barnoldswick Railway,Q4861861,15.870000000000003
+Q5904162,Horncastle Railway,Q5904162,15.830000000000002
+Q5330096,Eastern Counties and Thames Junction Railway,Q5330096,15.765
+Q7294573,Raritan River Railroad,Q7294573,15.735
+Q281032,Unidad de Gestión Operativa Ferroviaria de Emergencia,Q281032,15.68
+Q5478368,Tren Patagónico,Q5478368,15.675
+Q1036035,CargoNet,Q1036035,15.66
+Q4882671,Belgrano Cargas,Q4882671,15.635000000000003
+Q15633785,Dhrangadhra Railway,Q15633785,15.630000000000003
+Q80988,Railways of the Federation of Bosnia and Herzegovina,Q80988,15.615000000000002
+Q2990069,Compagnie du Chemin de fer du Congo Supérieur aux Grands Lacs africains,Q2990069,15.585
+Q7503713,Shrewsbury and Birmingham Railway,Q7503713,15.489999999999998
+Q118550733,New York and Canada Railroad,Q118550733,15.474999999999998
+Q7620588,Stourbridge Railroad,Q7620588,15.43
+Q16987875,Castle Eden Railway,Q16987875,15.405000000000001
+Q4918054,Bishops Castle Railway,Q4918054,15.37
+Q8033355,Woodside and South Croydon Joint Railway,Q8033355,15.349999999999998
+Q7057494,North and South Western Junction Railway,Q7057494,15.29
+Q7231038,Port Whitby and Port Perry Railway,Q7231038,15.269999999999996
+Q17513631,California Central Railway,Q17513631,15.165000000000001
+Q65049690,Southern Central Railroad,Q65049690,15.16
+Q5184839,Crewe and Shrewsbury Railway,Q5184839,15.155
+Q28407922,Mexican Southern Railroad,Q28407922,15.145
+Q1129483,Nuevo Central Argentino,Q1129483,15.14
+Q1570315,Lviv Railways,Q1570315,15.129999999999999
+Q12501611,KAI Commuter,Q12501611,15.124999999999998
+Q4821000,Augusta and Knoxville Railroad,Q4821000,15.080000000000002
+Q22979891,Hanseatische Eisenbahn,Q22979891,15.05
+Q29095006,Mississippi Valley and Western Railway,Q29095006,15.045
+Q7402059,Saint Paul and Pacific Railroad,Q7402059,14.96
+Q5092964,Cheshire Midland Railway,Q5092964,14.950000000000001
+Q11864993,"Iowa, Chicago and Eastern Railroad",Q11864993,14.950000000000001
+Q952981,Ferroexpreso Pampeano,Q952981,14.844999999999999
+Q928944,Metropolitano,Q928944,14.795
+Q30914776,Ocampo Railway,Q30914776,14.740000000000002
+Q4789419,Argentine North Eastern Railway,Q4789419,14.729999999999999
+Q6689558,Louisville and Indiana Railroad,Q6689558,14.725000000000001
+Q43079458,Winona and St. Peter Railroad,Q43079458,14.71
+Q5461513,Florida Midland Railroad,Q5461513,14.619999999999997
+Q28162962,Depietri Railways and Elevators,Q28162962,14.614999999999998
+Q7620575,Stour Valley Railway,Q7620575,14.594999999999999
+Q6020160,Indian Creek Railroad,Q6020160,14.589999999999998
+Q7404833,Salisbury and Yeovil Railway,Q7404833,14.564999999999998
+Q1481581,National Railway Company of the Congo,Q1481581,14.469999999999999
+Q7570380,Southern Railway routes west of Salisbury,Q7570380,14.465000000000002
+Q6921923,Mount Lyell Mining and Railway Company,Q6921923,14.445000000000002
+Q6868384,Minnesota Northern Railroad,Q6868384,14.41
+Q2869402,Atlantic and Pacific Railroad,Q2869402,14.399999999999999
+Q1479358,Malawi Railways,Q1479358,14.365000000000002
+Q388187,Pont–Brassus Railway,Q388187,14.355000000000002
+Q24088803,Domun Railway Company,Q24088803,14.350000000000001
+Q1125533,Ferrovías S.A.C.,Q1125533,14.290000000000001
+Q5875162,Hoboken Shore Railroad,Q5875162,14.290000000000001
+Q3082613,Hakodate Transportation Bureau,Q3082613,14.290000000000001
+Q4985541,Buenos Aires Northern Railway,Q4985541,14.234999999999998
+Q5445404,Ferrocarril Central de Buenos Aires,Q5445404,14.225000000000001
+Q18356161,ScotRail,Q18356161,14.225000000000001
+Q28449146,Tampa and Gulf Coast Railroad,Q28449146,14.225000000000001
+Q7077107,Octoraro Railway,Q7077107,14.205000000000002
+Q3736799,Ferrovienord,Q3736799,14.190000000000001
+Q5508423,Fulton County Street Railroad,Q5508423,14.094999999999999
+Q336717,ČD Cargo,Q336717,14.07
+Q25927159,Crimea Railway,Q25927159,14.05
+Q117720964,Norfolk County Railroad,Q117720964,14.014999999999999
+Q224680,Rigi Railways,Q224680,14.004999999999999
+Q23783839,Régional Saignelégier–Glovelier,Q23783839,13.975000000000001
+Q7232019,"Portland Railway, Light and Power Company",Q7232019,13.940000000000001
+Q4805989,"Ashton, Stalybridge and Liverpool Junction Railway",Q4805989,13.935000000000002
+Q1760023,Unidad de Gestión Operativa Mitre Sarmiento,Q1760023,13.89
+Q4823331,Austin Western Railroad,Q4823331,13.879999999999999
+Q19868145,Ohio Southern Railroad,Q19868145,13.875
+Q8023304,"Wilsontown, Morningside and Coltness Railway",Q8023304,13.864999999999998
+Q117035055,North Missouri Railroad,Q117035055,13.850000000000001
+Q5399811,Essex Thameside,Q5399811,13.8
+Q1811123,Serveis Ferroviaris de Mallorca,Q1811123,13.785
+Q16932213,Lauder Light Railway,Q16932213,13.77
+Q4879948,Beer Heights Light Railway,Q4879948,13.745
+Q20710952,Mississippi and Tennessee Railroad,Q20710952,13.745
+Q1351775,Gorky Railway,Q1351775,13.740000000000002
+Q16995841,Lambton Railway,Q16995841,13.739999999999998
+Q39060423,Wellingborough Tramway,Q39060423,13.729999999999999
+Q24944409,Buenos Aires al Pacífico S.A.,Q24944409,13.68
+Q4889670,Bennett Brook Railway,Q4889670,13.665
+Q16980223,Blue Ridge Southern Railroad,Q16980223,13.65
+Q5425363,FEMESA,Q5425363,13.65
+Q18737066,Northern Belle,Q18737066,13.62
+Q388593,Metrovías,Q388593,13.594999999999999
+Q3069359,ViaQuatro,Q3069359,13.55
+Q4785260,Arcata and Mad River Railroad,Q4785260,13.535
+Q1946844,Northern Railway,Q1946844,13.535
+Q2989923,Compagnie des chemins de fer Bône-Guelma,Q2989923,13.430000000000001
+Q5434615,Far Tottering and Oyster Creek Branch Railway,Q5434615,13.420000000000002
+Q22032089,Gettysburg and Northern Railroad,Q22032089,13.41
+Q3344169,North Shore Railroad,Q3344169,13.385
+Q181697,Raaberbahn,Q181697,13.335
+Q5461533,Florida Northern Railroad,Q5461533,13.329999999999998
+Q4178743,Ferrocarril de Antofagasta a Bolivia,Q4178743,13.295000000000002
+Q11271260,Chosen Railway,Q11271260,13.295
+Q3240122,"Piraeus, Athens and Peloponnese Railways",Q3240122,13.21
+Q60486257,Ithaca Central Railroad,Q60486257,13.21
+Q7129579,Pan Am Southern,Q7129579,13.17
+Q7617283,Stillwater Central Railroad,Q7617283,13.100000000000001
+Q29536647,Bern-Lötschberg-Simplon-Bahn,Q29536647,13.100000000000001
+Q84771832,Sandy River Railroad,Q84771832,13.094999999999999
+Q17514004,Auburn and Northern Railroad,Q17514004,13.075000000000001
+Q7056313,North Pennsylvania Railroad,Q7056313,13.04
+Q2636292,Alabama Warrior Railway,Q2636292,12.965000000000002
+Q29094882,Kalamazoo and White Pigeon Railroad,Q29094882,12.945
+Q5445446,Ferrosur Roca,Q5445446,12.91
+Q22580751,Roy Hill Railway,Q22580751,12.854999999999999
+Q5547251,Brienz–Rothorn railway,Q5547251,12.839999999999998
+Q5329495,"East Tennessee, Virginia and Georgia Railway",Q5329495,12.839999999999998
+Q24037763,Chemin de fer Saignelégier–La Chaux-de-Fonds,Q24037763,12.830000000000002
+Q7205736,"Plymouth, Devonport and South Western Junction Railway",Q7205736,12.81
+Q900963,Kumamoto City Transportation Bureau,Q900963,12.799999999999999
+Q5024095,Calumet River Railway,Q5024095,12.75
+Q20712278,Oregon Coast Scenic Railroad,Q20712278,12.74
+Q6981109,Naugatuck Railroad,Q6981109,12.735
+Q28458679,Tenbury Railway,Q28458679,12.715
+Q7335012,"Ringwood, Christchurch and Bournemouth Railway",Q7335012,12.665
+Q1128837,Trenes Especiales Argentinos,Q1128837,12.655000000000001
+Q5380703,Entre Ríos Railway,Q5380703,12.655
+Q2521737,VIAS,Q2521737,12.63
+Q14705001,Omaha Zoo Railroad,Q14705001,12.595
+Q20713557,Cross-country lines of the Glasgow and South Western Railway,Q20713557,12.555
+Q18708256,Charles River Railroad,Q18708256,12.524999999999999
+Q7101292,Oregon Portage Railroad,Q7101292,12.520000000000001
+Q911710,Transnistrian Railway,Q911710,12.504999999999999
+Q2479928,DSBFirst,Q2479928,12.475000000000001
+Q5445400,Ferrocarril Andino,Q5445400,12.469999999999999
+Q609332,Transports publics fribourgeois,Q609332,12.435
+Q48733790,Gyeongin Railway,Q48733790,12.420000000000002
+Q24088914,Ag Valley Railroad,Q24088914,12.37
+Q388208,Wynental and Suhrental Railway,Q388208,12.354999999999999
+Q60761630,Serengeti Express,Q60761630,12.27
+Q21997686,Wemyss and Buckhaven Railway,Q21997686,12.255
+Q5599271,Great Grimsby and Sheffield Junction Railway,Q5599271,12.24
+Q3537114,Kagoshima City Transportation Bureau,Q3537114,12.219999999999999
+Q2095427,Sverdlovsk Railway,Q2095427,12.21
+Q1516327,Rede Ferroviária Federal S.A.,Q1516327,12.170000000000002
+Q4705169,Alabama & Tennessee River Railway,Q4705169,12.155000000000001
+Q247851,Kyrgyz Railways,Q247851,12.149999999999999
+Q7419564,Santa Fe Southern Railway,Q7419564,12.125
+Q6483282,Lancaster and Chester Railroad,Q6483282,12.1
+Q384763,Santa Fe Western Railway,Q384763,12.095
+Q48990155,"London, Huron and Bruce Railway",Q48990155,12.094999999999999
+Q7923437,Vestfold Privatbaner,Q7923437,12.075
+Q6724885,Macon and Brunswick Railroad,Q6724885,12.07
+Q5046473,Carrizo Gorge Railway,Q5046473,12.065
+Q7054579,North Carolina Railroad,Q7054579,12.065
+Q5524311,Garston and Liverpool Railway,Q5524311,12.05
+Q16980729,Jacksonville and Southwestern Railroad,Q16980729,12.04
+Q7878109,Uintah Railway,Q7878109,12.020000000000001
+Q3060836,Europorte,Q3060836,12.02
+Q4851521,Ballard Terminal Railroad,Q4851521,12.02
+Q1141191,Artesia,Q1141191,11.99
+Q1868392,Lokalbahn AG,Q1868392,11.98
+Q304059,Austrian Northwestern Railway,Q304059,11.975000000000001
+Q8055611,York and Peach Bottom Railway,Q8055611,11.935
+Q4789399,Argentine Great Western Railway,Q4789399,11.920000000000002
+Q16997315,Mansfield Railway,Q16997315,11.89
+Q15223107,Harry Needle Railroad Company,Q15223107,11.88
+Q8003325,Willamette Valley Railway,Q8003325,11.875
+Q5034677,Cape Cod Central Railroad,Q5034677,11.82
+Q4825837,Autauga Northern Railroad,Q4825837,11.82
+Q6751706,Mansfield and Pinxton Railway,Q6751706,11.81
+Q5445401,Central Entre Rios Railway,Q5445401,11.79
+Q4816242,"Atlantic, Mississippi and Ohio Railroad",Q4816242,11.79
+Q11538215,Sakuradani Light Railway,Q11538215,11.785
+Q1028092,Green Cargo,Q1028092,11.785
+Q16975308,Grenada Railway,Q16975308,11.77
+Q7101192,Oregon Eastern Railway,Q7101192,11.76
+Q116057983,Fort Wayne and Jackson Railroad,Q116057983,11.75
+Q7914330,Vandalia Railroad,Q7914330,11.73
+Q18413954,Carillon & Grenville Railway,Q18413954,11.73
+Q5364248,Elkhart and Western Railroad,Q5364248,11.695
+Q16995866,"Lancashire, Derbyshire and East Coast Railway Beighton Branch",Q16995866,11.674999999999999
+Q7166162,Peoria and Pekin Union Railway,Q7166162,11.670000000000002
+Q1334063,Nigerian Railway Corporation,Q1334063,11.645000000000001
+Q60749457,United Electric Railways,Q60749457,11.62
+Q569273,Treni Regionali Ticino Lombardia,Q569273,11.585
+Q54933095,Columbia Terminal Railroad,Q54933095,11.57
+Q3562294,VFLI,Q3562294,11.56

@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/British_Caledonian,British Caledonian,http://dbpedia.org/resource/British_Caledonian,234.685
+http://dbpedia.org/resource/Lufthansa,Lufthansa,http://dbpedia.org/resource/Lufthansa,196.445
+http://dbpedia.org/resource/Continental_Airlines,Continental Airlines,http://dbpedia.org/resource/Continental_Airlines,195.785
+http://dbpedia.org/resource/Delta_Air_Lines,Delta Air Lines,http://dbpedia.org/resource/Delta_Air_Lines,193.78499999999997
+http://dbpedia.org/resource/British_European_Airways,British European Airways,http://dbpedia.org/resource/British_European_Airways,186.49
+http://dbpedia.org/resource/Qantas,Qantas,http://dbpedia.org/resource/Qantas,182.885
+http://dbpedia.org/resource/South_African_Airways,South African Airways,http://dbpedia.org/resource/South_African_Airways,177.2
+http://dbpedia.org/resource/Pan_Am,Pan Am,http://dbpedia.org/resource/Pan_Am,175.785
+http://dbpedia.org/resource/Air_Canada,Air Canada,http://dbpedia.org/resource/Air_Canada,170.34500000000003
+http://dbpedia.org/resource/United_Airlines,United Airlines,http://dbpedia.org/resource/United_Airlines,166.985
+http://dbpedia.org/resource/KLM,KLM,http://dbpedia.org/resource/KLM,165.11
+http://dbpedia.org/resource/Northwest_Airlines,Northwest Airlines,http://dbpedia.org/resource/Northwest_Airlines,163.29
+http://dbpedia.org/resource/Air_France,Air France,http://dbpedia.org/resource/Air_France,162.41000000000003
+http://dbpedia.org/resource/Garuda_Indonesia,Garuda Indonesia,http://dbpedia.org/resource/Garuda_Indonesia,161.84000000000003
+http://dbpedia.org/resource/Japan_Airlines,Japan Airlines,http://dbpedia.org/resource/Japan_Airlines,161.765
+http://dbpedia.org/resource/Qatar_Airways,Qatar Airways,http://dbpedia.org/resource/Qatar_Airways,161.645
+http://dbpedia.org/resource/Vietnam_Airlines,Vietnam Airlines,http://dbpedia.org/resource/Vietnam_Airlines,161.285
+http://dbpedia.org/resource/British_Airways,British Airways,http://dbpedia.org/resource/British_Airways,161.14
+http://dbpedia.org/resource/All_Nippon_Airways,All Nippon Airways,http://dbpedia.org/resource/All_Nippon_Airways,160.89
+http://dbpedia.org/resource/American_Airlines,American Airlines,http://dbpedia.org/resource/American_Airlines,160.635
+http://dbpedia.org/resource/Ryanair,Ryanair,http://dbpedia.org/resource/Ryanair,160.155
+http://dbpedia.org/resource/Cathay_Pacific,Cathay Pacific,http://dbpedia.org/resource/Cathay_Pacific,160.06
+http://dbpedia.org/resource/Turkish_Airlines,Turkish Airlines,http://dbpedia.org/resource/Turkish_Airlines,159.445
+http://dbpedia.org/resource/Aeroflot,Aeroflot,http://dbpedia.org/resource/Aeroflot,155.92499999999998
+http://dbpedia.org/resource/Alaska_Airlines,Alaska Airlines,http://dbpedia.org/resource/Alaska_Airlines,154.96
+http://dbpedia.org/resource/Air_India,Air India,http://dbpedia.org/resource/Air_India,152.76000000000002
+http://dbpedia.org/resource/Aerolíneas_Argentinas,Aerolíneas Argentinas,http://dbpedia.org/resource/Aerolíneas_Argentinas,152.57000000000002
+http://dbpedia.org/resource/Egyptair,Egyptair,http://dbpedia.org/resource/Egyptair,151.45000000000002
+http://dbpedia.org/resource/Ethiopian_Airlines,Ethiopian Airlines,http://dbpedia.org/resource/Ethiopian_Airlines,151.1
+http://dbpedia.org/resource/China_Airlines,China Airlines,http://dbpedia.org/resource/China_Airlines,150.82500000000002
+http://dbpedia.org/resource/Biman_Bangladesh_Airlines,Biman Bangladesh Airlines,http://dbpedia.org/resource/Biman_Bangladesh_Airlines,150.065
+http://dbpedia.org/resource/Pakistan_International_Airlines,Pakistan International Airlines,http://dbpedia.org/resource/Pakistan_International_Airlines,149.935
+http://dbpedia.org/resource/JetBlue,JetBlue,http://dbpedia.org/resource/JetBlue,147.81500000000003
+http://dbpedia.org/resource/China_Southern_Airlines,China Southern Airlines,http://dbpedia.org/resource/China_Southern_Airlines,143.915
+http://dbpedia.org/resource/El_Al,El Al,http://dbpedia.org/resource/El_Al,141.12
+http://dbpedia.org/resource/Korean_Air,Korean Air,http://dbpedia.org/resource/Korean_Air,140.32
+http://dbpedia.org/resource/British_United_Airways,British United Airways,http://dbpedia.org/resource/British_United_Airways,140.315
+http://dbpedia.org/resource/Aer_Lingus,Aer Lingus,http://dbpedia.org/resource/Aer_Lingus,139.21
+http://dbpedia.org/resource/Scandinavian_Airlines,Scandinavian Airlines,http://dbpedia.org/resource/Scandinavian_Airlines,138.70000000000002
+http://dbpedia.org/resource/WestJet,WestJet,http://dbpedia.org/resource/WestJet,137.675
+http://dbpedia.org/resource/Finnair,Finnair,http://dbpedia.org/resource/Finnair,137.64
+http://dbpedia.org/resource/Virgin_Australia,Virgin Australia,http://dbpedia.org/resource/Virgin_Australia,136.48499999999999
+http://dbpedia.org/resource/EVA_Air,EVA Air,http://dbpedia.org/resource/EVA_Air,134.945
+http://dbpedia.org/resource/Air_Algérie,Air Algérie,http://dbpedia.org/resource/Air_Algérie,133.76
+http://dbpedia.org/resource/Thai_Airways_International,Thai Airways International,http://dbpedia.org/resource/Thai_Airways_International,132.775
+http://dbpedia.org/resource/LOT_Polish_Airlines,LOT Polish Airlines,http://dbpedia.org/resource/LOT_Polish_Airlines,129.98499999999999
+http://dbpedia.org/resource/Trans_World_Airlines,Trans World Airlines,http://dbpedia.org/resource/Trans_World_Airlines,129.70000000000002
+http://dbpedia.org/resource/Alitalia,Alitalia,http://dbpedia.org/resource/Alitalia,128.845
+http://dbpedia.org/resource/Iberia_(airline),Iberia (airline),http://dbpedia.org/resource/Iberia_(airline),128.37
+http://dbpedia.org/resource/Air_China,Air China,http://dbpedia.org/resource/Air_China,127.07000000000001
+http://dbpedia.org/resource/FedEx_Express,FedEx Express,http://dbpedia.org/resource/FedEx_Express,124.78
+http://dbpedia.org/resource/Air_New_Zealand,Air New Zealand,http://dbpedia.org/resource/Air_New_Zealand,124.25
+http://dbpedia.org/resource/TAP_Air_Portugal,TAP Air Portugal,http://dbpedia.org/resource/TAP_Air_Portugal,123.485
+http://dbpedia.org/resource/Gol_Linhas_Aéreas_Inteligentes,Gol Linhas Aéreas Inteligentes,http://dbpedia.org/resource/Gol_Linhas_Aéreas_Inteligentes,122.55000000000001
+http://dbpedia.org/resource/Dan-Air,Dan-Air,http://dbpedia.org/resource/Dan-Air,122.485
+http://dbpedia.org/resource/US_Airways,US Airways,http://dbpedia.org/resource/US_Airways,121.755
+http://dbpedia.org/resource/Virgin_Atlantic,Virgin Atlantic,http://dbpedia.org/resource/Virgin_Atlantic,120.91
+http://dbpedia.org/resource/Emirates_(airline),Emirates (airline),http://dbpedia.org/resource/Emirates_(airline),120.625
+http://dbpedia.org/resource/Hawaiian_Airlines,Hawaiian Airlines,http://dbpedia.org/resource/Hawaiian_Airlines,119.445
+http://dbpedia.org/resource/Austrian_Airlines,Austrian Airlines,http://dbpedia.org/resource/Austrian_Airlines,118.46999999999998
+http://dbpedia.org/resource/Virgin_Galactic,Virgin Galactic,http://dbpedia.org/resource/Virgin_Galactic,117.755
+http://dbpedia.org/resource/Kenya_Airways,Kenya Airways,http://dbpedia.org/resource/Kenya_Airways,117.57499999999999
+http://dbpedia.org/resource/Malaysia_Airlines,Malaysia Airlines,http://dbpedia.org/resource/Malaysia_Airlines,117.07
+http://dbpedia.org/resource/China_Eastern_Airlines,China Eastern Airlines,http://dbpedia.org/resource/China_Eastern_Airlines,116.96999999999998
+http://dbpedia.org/resource/Royal_Air_Maroc,Royal Air Maroc,http://dbpedia.org/resource/Royal_Air_Maroc,114.47500000000001
+http://dbpedia.org/resource/Flybe_(1979–2020),Flybe (1979–2020),http://dbpedia.org/resource/Flybe_(1979–2020),113.43
+http://dbpedia.org/resource/TAAG_Angola_Airlines,TAAG Angola Airlines,http://dbpedia.org/resource/TAAG_Angola_Airlines,112.63999999999999
+http://dbpedia.org/resource/British_Eagle,British Eagle,http://dbpedia.org/resource/British_Eagle,112.4
+http://dbpedia.org/resource/Singapore_Airlines,Singapore Airlines,http://dbpedia.org/resource/Singapore_Airlines,111.16499999999999
+http://dbpedia.org/resource/Asiana_Airlines,Asiana Airlines,http://dbpedia.org/resource/Asiana_Airlines,110.74499999999999
+http://dbpedia.org/resource/Hainan_Airlines,Hainan Airlines,http://dbpedia.org/resource/Hainan_Airlines,109.565
+http://dbpedia.org/resource/Avianca,Avianca,http://dbpedia.org/resource/Avianca,107.95
+http://dbpedia.org/resource/Iran_Air,Iran Air,http://dbpedia.org/resource/Iran_Air,105.66
+http://dbpedia.org/resource/EasyJet,EasyJet,http://dbpedia.org/resource/EasyJet,105.63
+http://dbpedia.org/resource/British_Caledonian_in_the_1980s,British Caledonian in the 1980s,http://dbpedia.org/resource/British_Caledonian_in_the_1980s,104.59499999999998
+http://dbpedia.org/resource/Condor_(airline),Condor (airline),http://dbpedia.org/resource/Condor_(airline),102.92000000000002
+http://dbpedia.org/resource/Saudia,Saudia,http://dbpedia.org/resource/Saudia,102.735
+http://dbpedia.org/resource/British_Overseas_Airways_Corporation,British Overseas Airways Corporation,http://dbpedia.org/resource/British_Overseas_Airways_Corporation,101.92
+http://dbpedia.org/resource/Air_Berlin,Air Berlin,http://dbpedia.org/resource/Air_Berlin,101.53
+http://dbpedia.org/resource/British_Caledonian_in_the_1970s,British Caledonian in the 1970s,http://dbpedia.org/resource/British_Caledonian_in_the_1970s,101.08
+http://dbpedia.org/resource/Icelandair,Icelandair,http://dbpedia.org/resource/Icelandair,100.785
+http://dbpedia.org/resource/Kuwait_Airways,Kuwait Airways,http://dbpedia.org/resource/Kuwait_Airways,100.74000000000001
+http://dbpedia.org/resource/Swiss_International_Air_Lines,Swiss International Air Lines,http://dbpedia.org/resource/Swiss_International_Air_Lines,100.105
+http://dbpedia.org/resource/LATAM_Brasil,LATAM Brasil,http://dbpedia.org/resource/LATAM_Brasil,98.885
+http://dbpedia.org/resource/Modern_Air_Transport,Modern Air Transport,http://dbpedia.org/resource/Modern_Air_Transport,98.785
+http://dbpedia.org/resource/Airlink,Airlink,http://dbpedia.org/resource/Airlink,97.83500000000001
+http://dbpedia.org/resource/Caledonian_Airways,Caledonian Airways,http://dbpedia.org/resource/Caledonian_Airways,97.76500000000001
+http://dbpedia.org/resource/TAROM,TAROM,http://dbpedia.org/resource/TAROM,95.565
+http://dbpedia.org/resource/Adria_Airways,Adria Airways,http://dbpedia.org/resource/Adria_Airways,95.44000000000001
+http://dbpedia.org/resource/Braniff_International_Airways,Braniff International Airways,http://dbpedia.org/resource/Braniff_International_Airways,95.35000000000001
+http://dbpedia.org/resource/Cubana_de_Aviación,Cubana de Aviación,http://dbpedia.org/resource/Cubana_de_Aviación,95.285
+http://dbpedia.org/resource/Aegean_Airlines,Aegean Airlines,http://dbpedia.org/resource/Aegean_Airlines,93.905
+http://dbpedia.org/resource/UPS_Airlines,UPS Airlines,http://dbpedia.org/resource/UPS_Airlines,93.685
+http://dbpedia.org/resource/XiamenAir,XiamenAir,http://dbpedia.org/resource/XiamenAir,93.435
+http://dbpedia.org/resource/Copa_Airlines,Copa Airlines,http://dbpedia.org/resource/Copa_Airlines,93.355
+http://dbpedia.org/resource/Etihad_Airways,Etihad Airways,http://dbpedia.org/resource/Etihad_Airways,93.03000000000002
+http://dbpedia.org/resource/List_of_Norwegian_Air_Shuttle_tail_fin_heroes_and_fleet,List of Norwegian Air Shuttle tail fin heroes and fleet,http://dbpedia.org/resource/List_of_Norwegian_Air_Shuttle_tail_fin_heroes_and_fleet,92.35000000000001
+http://dbpedia.org/resource/Brussels_Airlines,Brussels Airlines,http://dbpedia.org/resource/Brussels_Airlines,92.26
+http://dbpedia.org/resource/LAM_Mozambique_Airlines,LAM Mozambique Airlines,http://dbpedia.org/resource/LAM_Mozambique_Airlines,92.0
+http://dbpedia.org/resource/Aeroméxico,Aeroméxico,http://dbpedia.org/resource/Aeroméxico,91.67500000000001
+http://dbpedia.org/resource/Wizz_Air,Wizz Air,http://dbpedia.org/resource/Wizz_Air,91.56
+http://dbpedia.org/resource/Czech_Airlines,Czech Airlines,http://dbpedia.org/resource/Czech_Airlines,90.605
+http://dbpedia.org/resource/Precision_Air,Precision Air,http://dbpedia.org/resource/Precision_Air,90.44
+http://dbpedia.org/resource/Sichuan_Airlines,Sichuan Airlines,http://dbpedia.org/resource/Sichuan_Airlines,90.26
+http://dbpedia.org/resource/Eastern_Air_Lines,Eastern Air Lines,http://dbpedia.org/resource/Eastern_Air_Lines,90.13000000000001
+http://dbpedia.org/resource/LATAM_Chile,LATAM Chile,http://dbpedia.org/resource/LATAM_Chile,90.07499999999999
+http://dbpedia.org/resource/Mesa_Airlines,Mesa Airlines,http://dbpedia.org/resource/Mesa_Airlines,89.75999999999999
+http://dbpedia.org/resource/Gulf_Air,Gulf Air,http://dbpedia.org/resource/Gulf_Air,88.055
+http://dbpedia.org/resource/Air_Mauritius,Air Mauritius,http://dbpedia.org/resource/Air_Mauritius,87.50999999999999
+http://dbpedia.org/resource/AirBaltic,AirBaltic,http://dbpedia.org/resource/AirBaltic,87.325
+http://dbpedia.org/resource/Canadian_Airlines_International,Canadian Airlines International,http://dbpedia.org/resource/Canadian_Airlines_International,86.775
+http://dbpedia.org/resource/Comair_(South_Africa),Comair (South Africa),http://dbpedia.org/resource/Comair_(South_Africa),86.77
+http://dbpedia.org/resource/Norwegian_Air_Shuttle,Norwegian Air Shuttle,http://dbpedia.org/resource/Norwegian_Air_Shuttle,86.735
+http://dbpedia.org/resource/British_Midland_International,British Midland International,http://dbpedia.org/resource/British_Midland_International,86.53500000000001
+http://dbpedia.org/resource/Swissair,Swissair,http://dbpedia.org/resource/Swissair,86.445
+http://dbpedia.org/resource/Cathay_Dragon,Cathay Dragon,http://dbpedia.org/resource/Cathay_Dragon,86.2
+http://dbpedia.org/resource/Air_Afrique,Air Afrique,http://dbpedia.org/resource/Air_Afrique,86.08999999999999
+http://dbpedia.org/resource/Vueling,Vueling,http://dbpedia.org/resource/Vueling,86.07
+http://dbpedia.org/resource/Channel_Airways,Channel Airways,http://dbpedia.org/resource/Channel_Airways,85.33500000000001
+http://dbpedia.org/resource/Amazon_Air,Amazon Air,http://dbpedia.org/resource/Amazon_Air,85.27
+http://dbpedia.org/resource/Avianca_Brasil,Avianca Brasil,http://dbpedia.org/resource/Avianca_Brasil,85.07
+http://dbpedia.org/resource/Libyan_Airlines,Libyan Airlines,http://dbpedia.org/resource/Libyan_Airlines,84.94
+http://dbpedia.org/resource/ITA_Airways,ITA Airways,http://dbpedia.org/resource/ITA_Airways,84.84
+http://dbpedia.org/resource/S7_Airlines,S7 Airlines,http://dbpedia.org/resource/S7_Airlines,84.61500000000001
+http://dbpedia.org/resource/Varig,Varig,http://dbpedia.org/resource/Varig,83.93
+http://dbpedia.org/resource/Olympic_Air,Olympic Air,http://dbpedia.org/resource/Olympic_Air,83.705
+http://dbpedia.org/resource/Bangkok_Airways,Bangkok Airways,http://dbpedia.org/resource/Bangkok_Airways,83.41
+http://dbpedia.org/resource/Syrian_Air,Syrian Air,http://dbpedia.org/resource/Syrian_Air,83.36
+http://dbpedia.org/resource/Frontier_Airlines,Frontier Airlines,http://dbpedia.org/resource/Frontier_Airlines,83.25
+http://dbpedia.org/resource/Nigeria_Airways,Nigeria Airways,http://dbpedia.org/resource/Nigeria_Airways,83.17
+http://dbpedia.org/resource/SriLankan_Airlines,SriLankan Airlines,http://dbpedia.org/resource/SriLankan_Airlines,82.975
+http://dbpedia.org/resource/Allegiant_Air,Allegiant Air,http://dbpedia.org/resource/Allegiant_Air,82.855
+http://dbpedia.org/resource/Air_Greenland,Air Greenland,http://dbpedia.org/resource/Air_Greenland,82.46
+http://dbpedia.org/resource/Atlas_Air,Atlas Air,http://dbpedia.org/resource/Atlas_Air,82.39000000000001
+http://dbpedia.org/resource/Western_Airlines,Western Airlines,http://dbpedia.org/resource/Western_Airlines,82.265
+http://dbpedia.org/resource/Philippine_Airlines,Philippine Airlines,http://dbpedia.org/resource/Philippine_Airlines,82.26
+http://dbpedia.org/resource/Ansett_Australia,Ansett Australia,http://dbpedia.org/resource/Ansett_Australia,82.25999999999999
+http://dbpedia.org/resource/Southwest_Airlines,Southwest Airlines,http://dbpedia.org/resource/Southwest_Airlines,81.89500000000001
+http://dbpedia.org/resource/Tunisair,Tunisair,http://dbpedia.org/resource/Tunisair,81.50999999999999
+http://dbpedia.org/resource/Eurowings,Eurowings,http://dbpedia.org/resource/Eurowings,81.495
+http://dbpedia.org/resource/Court_Line,Court Line,http://dbpedia.org/resource/Court_Line,81.29500000000002
+http://dbpedia.org/resource/Transaero,Transaero,http://dbpedia.org/resource/Transaero,81.085
+http://dbpedia.org/resource/Braathens,Braathens,http://dbpedia.org/resource/Braathens,81.045
+http://dbpedia.org/resource/Nordwind_Airlines,Nordwind Airlines,http://dbpedia.org/resource/Nordwind_Airlines,80.98
+http://dbpedia.org/resource/Royal_Brunei_Airlines,Royal Brunei Airlines,http://dbpedia.org/resource/Royal_Brunei_Airlines,80.805
+http://dbpedia.org/resource/Air_Tanzania,Air Tanzania,http://dbpedia.org/resource/Air_Tanzania,80.585
+http://dbpedia.org/resource/Shanghai_Airlines,Shanghai Airlines,http://dbpedia.org/resource/Shanghai_Airlines,80.31
+http://dbpedia.org/resource/Level_(airline_brand),Level (airline brand),http://dbpedia.org/resource/Level_(airline_brand),80.065
+http://dbpedia.org/resource/Air_Botswana,Air Botswana,http://dbpedia.org/resource/Air_Botswana,79.91
+http://dbpedia.org/resource/Fiji_Airways,Fiji Airways,http://dbpedia.org/resource/Fiji_Airways,79.815
+http://dbpedia.org/resource/Austral_Líneas_Aéreas,Austral Líneas Aéreas,http://dbpedia.org/resource/Austral_Líneas_Aéreas,79.705
+http://dbpedia.org/resource/Interjet,Interjet,http://dbpedia.org/resource/Interjet,79.39999999999999
+http://dbpedia.org/resource/Shandong_Airlines,Shandong Airlines,http://dbpedia.org/resource/Shandong_Airlines,78.885
+http://dbpedia.org/resource/Air_Italy_(2018–2020),Air Italy (2018–2020),http://dbpedia.org/resource/Air_Italy_(2018–2020),78.755
+http://dbpedia.org/resource/Royal_Jordanian,Royal Jordanian,http://dbpedia.org/resource/Royal_Jordanian,78.315
+http://dbpedia.org/resource/Interflug,Interflug,http://dbpedia.org/resource/Interflug,78.185
+http://dbpedia.org/resource/Rossiya_Airlines,Rossiya Airlines,http://dbpedia.org/resource/Rossiya_Airlines,78.17
+http://dbpedia.org/resource/Volga-Dnepr_Airlines,Volga-Dnepr Airlines,http://dbpedia.org/resource/Volga-Dnepr_Airlines,77.97
+http://dbpedia.org/resource/Shenzhen_Airlines,Shenzhen Airlines,http://dbpedia.org/resource/Shenzhen_Airlines,77.79
+http://dbpedia.org/resource/Yemenia,Yemenia,http://dbpedia.org/resource/Yemenia,77.72
+http://dbpedia.org/resource/SunExpress,SunExpress,http://dbpedia.org/resource/SunExpress,77.64500000000001
+http://dbpedia.org/resource/Hong_Kong_Airlines,Hong Kong Airlines,http://dbpedia.org/resource/Hong_Kong_Airlines,77.465
+http://dbpedia.org/resource/Bamboo_Airways,Bamboo Airways,http://dbpedia.org/resource/Bamboo_Airways,77.41000000000001
+http://dbpedia.org/resource/Air_Europa,Air Europa,http://dbpedia.org/resource/Air_Europa,77.225
+http://dbpedia.org/resource/SkyWest_Airlines,SkyWest Airlines,http://dbpedia.org/resource/SkyWest_Airlines,77.15
+http://dbpedia.org/resource/Aviaarktika,Aviaarktika,http://dbpedia.org/resource/Aviaarktika,76.63
+http://dbpedia.org/resource/Air_Namibia,Air Namibia,http://dbpedia.org/resource/Air_Namibia,76.45499999999998
+http://dbpedia.org/resource/Air_Cairo,Air Cairo,http://dbpedia.org/resource/Air_Cairo,76.22500000000001
+http://dbpedia.org/resource/HK_Express,HK Express,http://dbpedia.org/resource/HK_Express,76.08
+http://dbpedia.org/resource/South_African_Express,South African Express,http://dbpedia.org/resource/South_African_Express,75.675
+http://dbpedia.org/resource/Air_Zimbabwe,Air Zimbabwe,http://dbpedia.org/resource/Air_Zimbabwe,75.485
+http://dbpedia.org/resource/Spanair,Spanair,http://dbpedia.org/resource/Spanair,75.465
+http://dbpedia.org/resource/Trans_States_Airlines,Trans States Airlines,http://dbpedia.org/resource/Trans_States_Airlines,75.275
+http://dbpedia.org/resource/Azul_Brazilian_Airlines,Azul Brazilian Airlines,http://dbpedia.org/resource/Azul_Brazilian_Airlines,75.24
+http://dbpedia.org/resource/Volaris,Volaris,http://dbpedia.org/resource/Volaris,75.175
+http://dbpedia.org/resource/Air_Austral,Air Austral,http://dbpedia.org/resource/Air_Austral,75.11
+http://dbpedia.org/resource/Union_de_Transports_Aériens,Union de Transports Aériens,http://dbpedia.org/resource/Union_de_Transports_Aériens,74.765
+http://dbpedia.org/resource/RwandAir,RwandAir,http://dbpedia.org/resource/RwandAir,74.645
+http://dbpedia.org/resource/Sudan_Airways,Sudan Airways,http://dbpedia.org/resource/Sudan_Airways,74.60000000000001
+http://dbpedia.org/resource/Laker_Airways,Laker Airways,http://dbpedia.org/resource/Laker_Airways,74.04
+http://dbpedia.org/resource/Air_Transat,Air Transat,http://dbpedia.org/resource/Air_Transat,73.685
+http://dbpedia.org/resource/Air_Nostrum,Air Nostrum,http://dbpedia.org/resource/Air_Nostrum,73.49
+http://dbpedia.org/resource/Mexicana_de_Aviación,Mexicana de Aviación,http://dbpedia.org/resource/Mexicana_de_Aviación,72.96000000000001
+http://dbpedia.org/resource/National_Airlines_(1934–1980),National Airlines (1934–1980),http://dbpedia.org/resource/National_Airlines_(1934–1980),72.865
+http://dbpedia.org/resource/Smartavia,Smartavia,http://dbpedia.org/resource/Smartavia,72.505
+http://dbpedia.org/resource/Africa_World_Airlines,Africa World Airlines,http://dbpedia.org/resource/Africa_World_Airlines,72.48
+http://dbpedia.org/resource/Star_Air_Service,Star Air Service,http://dbpedia.org/resource/Star_Air_Service,72.435
+http://dbpedia.org/resource/Jet_Airways,Jet Airways,http://dbpedia.org/resource/Jet_Airways,72.165
+http://dbpedia.org/resource/Middle_East_Airlines,Middle East Airlines,http://dbpedia.org/resource/Middle_East_Airlines,71.82000000000001
+http://dbpedia.org/resource/Widerøe,Widerøe,http://dbpedia.org/resource/Widerøe,71.72500000000001
+http://dbpedia.org/resource/Vistara,Vistara,http://dbpedia.org/resource/Vistara,71.45
+http://dbpedia.org/resource/Northeast_Airlines,Northeast Airlines,http://dbpedia.org/resource/Northeast_Airlines,71.20500000000001
+http://dbpedia.org/resource/Uzbekistan_Airways,Uzbekistan Airways,http://dbpedia.org/resource/Uzbekistan_Airways,70.985
+http://dbpedia.org/resource/Norwegian_Long_Haul,Norwegian Long Haul,http://dbpedia.org/resource/Norwegian_Long_Haul,70.735
+http://dbpedia.org/resource/Air_Serbia,Air Serbia,http://dbpedia.org/resource/Air_Serbia,70.465
+http://dbpedia.org/resource/NetJets,NetJets,http://dbpedia.org/resource/NetJets,70.355
+http://dbpedia.org/resource/Air_Corsica,Air Corsica,http://dbpedia.org/resource/Air_Corsica,70.05999999999999
+http://dbpedia.org/resource/Air_Arabia,Air Arabia,http://dbpedia.org/resource/Air_Arabia,70.035
+http://dbpedia.org/resource/CemAir,CemAir,http://dbpedia.org/resource/CemAir,70.02000000000001
+http://dbpedia.org/resource/IndiGo,IndiGo,http://dbpedia.org/resource/IndiGo,70.00999999999999
+http://dbpedia.org/resource/LATAM_Cargo_Brasil,LATAM Cargo Brasil,http://dbpedia.org/resource/LATAM_Cargo_Brasil,69.955
+http://dbpedia.org/resource/ABX_Air,ABX Air,http://dbpedia.org/resource/ABX_Air,69.875
+http://dbpedia.org/resource/FlySafair,FlySafair,http://dbpedia.org/resource/FlySafair,69.84
+http://dbpedia.org/resource/Virgin_America,Virgin America,http://dbpedia.org/resource/Virgin_America,69.72500000000001
+http://dbpedia.org/resource/Pegasus_Airlines,Pegasus Airlines,http://dbpedia.org/resource/Pegasus_Airlines,69.08999999999999
+http://dbpedia.org/resource/Silver_City_Airways,Silver City Airways,http://dbpedia.org/resource/Silver_City_Airways,68.79
+http://dbpedia.org/resource/Croatia_Airlines,Croatia Airlines,http://dbpedia.org/resource/Croatia_Airlines,68.66
+http://dbpedia.org/resource/Drukair,Drukair,http://dbpedia.org/resource/Drukair,68.24000000000001
+http://dbpedia.org/resource/Avianca_El_Salvador,Avianca El Salvador,http://dbpedia.org/resource/Avianca_El_Salvador,68.205
+http://dbpedia.org/resource/Air_Peace,Air Peace,http://dbpedia.org/resource/Air_Peace,68.105
+http://dbpedia.org/resource/Air_Europe,Air Europe,http://dbpedia.org/resource/Air_Europe,68.02500000000002
+http://dbpedia.org/resource/Air_Madagascar,Air Madagascar,http://dbpedia.org/resource/Air_Madagascar,67.855
+http://dbpedia.org/resource/First_Air,First Air,http://dbpedia.org/resource/First_Air,67.705
+http://dbpedia.org/resource/Martinair,Martinair,http://dbpedia.org/resource/Martinair,67.7
+http://dbpedia.org/resource/Kingfisher_Airlines,Kingfisher Airlines,http://dbpedia.org/resource/Kingfisher_Airlines,67.675
+http://dbpedia.org/resource/Aircalin,Aircalin,http://dbpedia.org/resource/Aircalin,67.66000000000001
+http://dbpedia.org/resource/Corsair_International,Corsair International,http://dbpedia.org/resource/Corsair_International,67.565
+http://dbpedia.org/resource/Republic_Airways,Republic Airways,http://dbpedia.org/resource/Republic_Airways,67.565
+http://dbpedia.org/resource/Lucky_Air,Lucky Air,http://dbpedia.org/resource/Lucky_Air,67.55499999999999
+http://dbpedia.org/resource/OTT_Airlines,OTT Airlines,http://dbpedia.org/resource/OTT_Airlines,67.515
+http://dbpedia.org/resource/Safair,Safair,http://dbpedia.org/resource/Safair,67.245
+http://dbpedia.org/resource/Envoy_Air,Envoy Air,http://dbpedia.org/resource/Envoy_Air,66.905
+http://dbpedia.org/resource/Spirit_Airlines,Spirit Airlines,http://dbpedia.org/resource/Spirit_Airlines,66.735
+http://dbpedia.org/resource/Capital_Airlines_(United_States),Capital Airlines (United States),http://dbpedia.org/resource/Capital_Airlines_(United_States),66.695
+http://dbpedia.org/resource/Nippon_Cargo_Airlines,Nippon Cargo Airlines,http://dbpedia.org/resource/Nippon_Cargo_Airlines,66.545
+http://dbpedia.org/resource/Ural_Airlines,Ural Airlines,http://dbpedia.org/resource/Ural_Airlines,66.455
+http://dbpedia.org/resource/Maersk_Air,Maersk Air,http://dbpedia.org/resource/Maersk_Air,66.23
+http://dbpedia.org/resource/Lufthansa_CityLine,Lufthansa CityLine,http://dbpedia.org/resource/Lufthansa_CityLine,66.14999999999999
+http://dbpedia.org/resource/Porter_Airlines,Porter Airlines,http://dbpedia.org/resource/Porter_Airlines,66.07
+http://dbpedia.org/resource/Blue_Air,Blue Air,http://dbpedia.org/resource/Blue_Air,65.955
+http://dbpedia.org/resource/Cebu_Pacific,Cebu Pacific,http://dbpedia.org/resource/Cebu_Pacific,65.90000000000002
+http://dbpedia.org/resource/Oman_Air,Oman Air,http://dbpedia.org/resource/Oman_Air,65.83000000000001
+http://dbpedia.org/resource/Monarch_Airlines,Monarch Airlines,http://dbpedia.org/resource/Monarch_Airlines,65.815
+http://dbpedia.org/resource/Ukraine_International_Airlines,Ukraine International Airlines,http://dbpedia.org/resource/Ukraine_International_Airlines,65.72500000000001
+http://dbpedia.org/resource/Lufthansa_Cargo,Lufthansa Cargo,http://dbpedia.org/resource/Lufthansa_Cargo,65.63499999999999
+http://dbpedia.org/resource/Utair,Utair,http://dbpedia.org/resource/Utair,65.615
+http://dbpedia.org/resource/Olympic_Airlines,Olympic Airlines,http://dbpedia.org/resource/Olympic_Airlines,65.58
+http://dbpedia.org/resource/Air_Astana,Air Astana,http://dbpedia.org/resource/Air_Astana,65.48
+http://dbpedia.org/resource/Deutsche_Luft_Hansa,Deutsche Luft Hansa,http://dbpedia.org/resource/Deutsche_Luft_Hansa,65.44500000000001
+http://dbpedia.org/resource/American_Eagle_(airline_brand),American Eagle (airline brand),http://dbpedia.org/resource/American_Eagle_(airline_brand),65.115
+http://dbpedia.org/resource/CommuteAir,CommuteAir,http://dbpedia.org/resource/CommuteAir,64.77499999999999
+http://dbpedia.org/resource/ATA_Airlines,ATA Airlines,http://dbpedia.org/resource/ATA_Airlines,64.57
+http://dbpedia.org/resource/Surinam_Airways,Surinam Airways,http://dbpedia.org/resource/Surinam_Airways,64.47500000000001
+http://dbpedia.org/resource/Air_Koryo,Air Koryo,http://dbpedia.org/resource/Air_Koryo,64.3
+http://dbpedia.org/resource/Nationwide_Airlines_(South_Africa),Nationwide Airlines (South Africa),http://dbpedia.org/resource/Nationwide_Airlines_(South_Africa),64.26
+http://dbpedia.org/resource/Binter_Canarias,Binter Canarias,http://dbpedia.org/resource/Binter_Canarias,64.25
+http://dbpedia.org/resource/Air_Belgium_(2016),Air Belgium (2016),http://dbpedia.org/resource/Air_Belgium_(2016),64.22500000000001
+http://dbpedia.org/resource/Okay_Airways,Okay Airways,http://dbpedia.org/resource/Okay_Airways,64.095
+http://dbpedia.org/resource/TUI_fly_Deutschland,TUI fly Deutschland,http://dbpedia.org/resource/TUI_fly_Deutschland,63.99000000000001
+http://dbpedia.org/resource/Loong_Air,Loong Air,http://dbpedia.org/resource/Loong_Air,63.615
+http://dbpedia.org/resource/Coast_Air,Coast Air,http://dbpedia.org/resource/Coast_Air,62.885000000000005
+http://dbpedia.org/resource/Arkia,Arkia,http://dbpedia.org/resource/Arkia,62.865
+http://dbpedia.org/resource/Mesaba_Airlines,Mesaba Airlines,http://dbpedia.org/resource/Mesaba_Airlines,62.54000000000001
+http://dbpedia.org/resource/Nordair,Nordair,http://dbpedia.org/resource/Nordair,62.355
+http://dbpedia.org/resource/Israir_Airlines,Israir Airlines,http://dbpedia.org/resource/Israir_Airlines,62.19499999999999
+http://dbpedia.org/resource/Ohana_by_Hawaiian,Ohana by Hawaiian,http://dbpedia.org/resource/Ohana_by_Hawaiian,62.16
+http://dbpedia.org/resource/Aigle_Azur,Aigle Azur,http://dbpedia.org/resource/Aigle_Azur,62.015000000000015
+http://dbpedia.org/resource/Azul_Conecta,Azul Conecta,http://dbpedia.org/resource/Azul_Conecta,61.87499999999999
+http://dbpedia.org/resource/MASkargo,MASkargo,http://dbpedia.org/resource/MASkargo,61.85999999999999
+http://dbpedia.org/resource/Sabena,Sabena,http://dbpedia.org/resource/Sabena,61.81
+http://dbpedia.org/resource/Viasa,Viasa,http://dbpedia.org/resource/Viasa,61.75
+http://dbpedia.org/resource/MIAT_Mongolian_Airlines,MIAT Mongolian Airlines,http://dbpedia.org/resource/MIAT_Mongolian_Airlines,61.745
+http://dbpedia.org/resource/JALways,JALways,http://dbpedia.org/resource/JALways,61.61000000000001
+http://dbpedia.org/resource/Air_Tahiti,Air Tahiti,http://dbpedia.org/resource/Air_Tahiti,61.345000000000006
+http://dbpedia.org/resource/Air_Tahiti_Nui,Air Tahiti Nui,http://dbpedia.org/resource/Air_Tahiti_Nui,61.24
+http://dbpedia.org/resource/SilkAir,SilkAir,http://dbpedia.org/resource/SilkAir,61.215
+http://dbpedia.org/resource/Loganair,Loganair,http://dbpedia.org/resource/Loganair,61.065
+http://dbpedia.org/resource/Myanmar_Airways_International,Myanmar Airways International,http://dbpedia.org/resource/Myanmar_Airways_International,60.81499999999999
+http://dbpedia.org/resource/Luxair,Luxair,http://dbpedia.org/resource/Luxair,60.745000000000005
+http://dbpedia.org/resource/Flydubai,Flydubai,http://dbpedia.org/resource/Flydubai,60.73500000000001
+http://dbpedia.org/resource/AirAsia,AirAsia,http://dbpedia.org/resource/AirAsia,60.459999999999994
+http://dbpedia.org/resource/Insel_Air,Insel Air,http://dbpedia.org/resource/Insel_Air,60.45
+http://dbpedia.org/resource/Thai_AirAsia,Thai AirAsia,http://dbpedia.org/resource/Thai_AirAsia,60.39500000000001
+http://dbpedia.org/resource/SAS_Commuter,SAS Commuter,http://dbpedia.org/resource/SAS_Commuter,60.37
+http://dbpedia.org/resource/Japan_Air_System,Japan Air System,http://dbpedia.org/resource/Japan_Air_System,60.21000000000001
+http://dbpedia.org/resource/Delta_Connection,Delta Connection,http://dbpedia.org/resource/Delta_Connection,59.955
+http://dbpedia.org/resource/Skyways_(British_airline),Skyways (British airline),http://dbpedia.org/resource/Skyways_(British_airline),59.93
+http://dbpedia.org/resource/Azerbaijan_Airlines,Azerbaijan Airlines,http://dbpedia.org/resource/Azerbaijan_Airlines,59.69999999999999
+http://dbpedia.org/resource/Caribbean_Airlines,Caribbean Airlines,http://dbpedia.org/resource/Caribbean_Airlines,59.58500000000001
+http://dbpedia.org/resource/T'way_Air,T'way Air,http://dbpedia.org/resource/T'way_Air,59.565
+http://dbpedia.org/resource/AirBridgeCargo,AirBridgeCargo,http://dbpedia.org/resource/AirBridgeCargo,59.44499999999999
+http://dbpedia.org/resource/Blue_Panorama_Airlines,Blue Panorama Airlines,http://dbpedia.org/resource/Blue_Panorama_Airlines,59.425000000000004
+http://dbpedia.org/resource/United_Express,United Express,http://dbpedia.org/resource/United_Express,59.33
+http://dbpedia.org/resource/Allegheny_Airlines,Allegheny Airlines,http://dbpedia.org/resource/Allegheny_Airlines,59.22
+http://dbpedia.org/resource/East_African_Airways,East African Airways,http://dbpedia.org/resource/East_African_Airways,59.17000000000001
+http://dbpedia.org/resource/AirUK,AirUK,http://dbpedia.org/resource/AirUK,59.10499999999999
+http://dbpedia.org/resource/America_West_Airlines,America West Airlines,http://dbpedia.org/resource/America_West_Airlines,59.050000000000004
+http://dbpedia.org/resource/Atlantic_Southeast_Airlines,Atlantic Southeast Airlines,http://dbpedia.org/resource/Atlantic_Southeast_Airlines,58.81
+http://dbpedia.org/resource/Corendon_Airlines,Corendon Airlines,http://dbpedia.org/resource/Corendon_Airlines,58.665
+http://dbpedia.org/resource/Juneyao_Air,Juneyao Air,http://dbpedia.org/resource/Juneyao_Air,58.66
+http://dbpedia.org/resource/Air_Seychelles,Air Seychelles,http://dbpedia.org/resource/Air_Seychelles,58.650000000000006
+http://dbpedia.org/resource/Lloyd_Aéreo_Boliviano,Lloyd Aéreo Boliviano,http://dbpedia.org/resource/Lloyd_Aéreo_Boliviano,58.615
+http://dbpedia.org/resource/VietJet_Air,VietJet Air,http://dbpedia.org/resource/VietJet_Air,58.53
+http://dbpedia.org/resource/CityJet,CityJet,http://dbpedia.org/resource/CityJet,58.510000000000005
+http://dbpedia.org/resource/Aeropostal_Alas_de_Venezuela,Aeropostal Alas de Venezuela,http://dbpedia.org/resource/Aeropostal_Alas_de_Venezuela,58.129999999999995
+http://dbpedia.org/resource/LIAT,LIAT,http://dbpedia.org/resource/LIAT,57.834999999999994
+http://dbpedia.org/resource/Transavia_France,Transavia France,http://dbpedia.org/resource/Transavia_France,57.745000000000005
+http://dbpedia.org/resource/AirAsia_X,AirAsia X,http://dbpedia.org/resource/AirAsia_X,57.650000000000006
+http://dbpedia.org/resource/Jin_Air,Jin Air,http://dbpedia.org/resource/Jin_Air,57.639999999999986
+http://dbpedia.org/resource/Cayman_Airways,Cayman Airways,http://dbpedia.org/resource/Cayman_Airways,57.510000000000005
+http://dbpedia.org/resource/Air_Wisconsin,Air Wisconsin,http://dbpedia.org/resource/Air_Wisconsin,57.495000000000005
+http://dbpedia.org/resource/Flynas,Flynas,http://dbpedia.org/resource/Flynas,57.37
+http://dbpedia.org/resource/Jat_Airways,Jat Airways,http://dbpedia.org/resource/Jat_Airways,57.28
+http://dbpedia.org/resource/Air_Vanuatu,Air Vanuatu,http://dbpedia.org/resource/Air_Vanuatu,57.16499999999999
+http://dbpedia.org/resource/Jetstar,Jetstar,http://dbpedia.org/resource/Jetstar,57.1
+http://dbpedia.org/resource/Euroberlin_France,Euroberlin France,http://dbpedia.org/resource/Euroberlin_France,57.095
+http://dbpedia.org/resource/Belavia,Belavia,http://dbpedia.org/resource/Belavia,57.00500000000001
+http://dbpedia.org/resource/Air_Malta,Air Malta,http://dbpedia.org/resource/Air_Malta,56.79
+http://dbpedia.org/resource/Meridiana,Meridiana,http://dbpedia.org/resource/Meridiana,56.58
+http://dbpedia.org/resource/Transwest_Air,Transwest Air,http://dbpedia.org/resource/Transwest_Air,56.459999999999994
+http://dbpedia.org/resource/ExpressJet,ExpressJet,http://dbpedia.org/resource/ExpressJet,56.38000000000001
+http://dbpedia.org/resource/Mahan_Air,Mahan Air,http://dbpedia.org/resource/Mahan_Air,56.355
+http://dbpedia.org/resource/Horizon_Air,Horizon Air,http://dbpedia.org/resource/Horizon_Air,56.06499999999999
+http://dbpedia.org/resource/European_Air_Transport_Leipzig,European Air Transport Leipzig,http://dbpedia.org/resource/European_Air_Transport_Leipzig,55.86000000000001
+http://dbpedia.org/resource/LATAM_Colombia,LATAM Colombia,http://dbpedia.org/resource/LATAM_Colombia,55.78
+http://dbpedia.org/resource/GoJet_Airlines,GoJet Airlines,http://dbpedia.org/resource/GoJet_Airlines,55.615
+http://dbpedia.org/resource/Aerosvit_Ukrainian_Airlines,Aerosvit Ukrainian Airlines,http://dbpedia.org/resource/Aerosvit_Ukrainian_Airlines,55.58
+http://dbpedia.org/resource/Serviços_Aéreos_Cruzeiro_do_Sul,Serviços Aéreos Cruzeiro do Sul,http://dbpedia.org/resource/Serviços_Aéreos_Cruzeiro_do_Sul,55.48
+http://dbpedia.org/resource/Mohawk_Airlines,Mohawk Airlines,http://dbpedia.org/resource/Mohawk_Airlines,55.470000000000006
+http://dbpedia.org/resource/Tianjin_Airlines,Tianjin Airlines,http://dbpedia.org/resource/Tianjin_Airlines,55.47
+http://dbpedia.org/resource/AnadoluJet,AnadoluJet,http://dbpedia.org/resource/AnadoluJet,55.419999999999995
+http://dbpedia.org/resource/APG_Airlines,APG Airlines,http://dbpedia.org/resource/APG_Airlines,55.36499999999999
+http://dbpedia.org/resource/Asky_Airlines,Asky Airlines,http://dbpedia.org/resource/Asky_Airlines,55.129999999999995
+http://dbpedia.org/resource/Montenegro_Airlines,Montenegro Airlines,http://dbpedia.org/resource/Montenegro_Airlines,55.115
+http://dbpedia.org/resource/Aloha_Airlines,Aloha Airlines,http://dbpedia.org/resource/Aloha_Airlines,55.065
+http://dbpedia.org/resource/VASP,VASP,http://dbpedia.org/resource/VASP,55.055
+http://dbpedia.org/resource/QantasLink,QantasLink,http://dbpedia.org/resource/QantasLink,55.03000000000001
+http://dbpedia.org/resource/Cargolux,Cargolux,http://dbpedia.org/resource/Cargolux,55.019999999999996
+http://dbpedia.org/resource/Air_Macau,Air Macau,http://dbpedia.org/resource/Air_Macau,54.915
+http://dbpedia.org/resource/French_Bee,French Bee,http://dbpedia.org/resource/French_Bee,54.625
+http://dbpedia.org/resource/Nextjet,Nextjet,http://dbpedia.org/resource/Nextjet,54.550000000000004
+http://dbpedia.org/resource/Kalitta_Air,Kalitta Air,http://dbpedia.org/resource/Kalitta_Air,54.45
+http://dbpedia.org/resource/Cargojet,Cargojet,http://dbpedia.org/resource/Cargojet,54.28
+http://dbpedia.org/resource/Arik_Air,Arik Air,http://dbpedia.org/resource/Arik_Air,54.115
+http://dbpedia.org/resource/Nile_Air,Nile Air,http://dbpedia.org/resource/Nile_Air,54.1
+http://dbpedia.org/resource/Aeromar,Aeromar,http://dbpedia.org/resource/Aeromar,53.90500000000001
+http://dbpedia.org/resource/Pacific_Southwest_Airlines,Pacific Southwest Airlines,http://dbpedia.org/resource/Pacific_Southwest_Airlines,53.825
+http://dbpedia.org/resource/DHL_International_Aviation_ME,DHL International Aviation ME,http://dbpedia.org/resource/DHL_International_Aviation_ME,53.800000000000004
+http://dbpedia.org/resource/Livingston_Compagnia_Aerea,Livingston Compagnia Aerea,http://dbpedia.org/resource/Livingston_Compagnia_Aerea,53.56999999999999
+http://dbpedia.org/resource/Air_Europa_Express,Air Europa Express,http://dbpedia.org/resource/Air_Europa_Express,53.355
+http://dbpedia.org/resource/Mandarin_Airlines,Mandarin Airlines,http://dbpedia.org/resource/Mandarin_Airlines,53.32000000000001
+http://dbpedia.org/resource/Avianca_Costa_Rica,Avianca Costa Rica,http://dbpedia.org/resource/Avianca_Costa_Rica,53.18
+http://dbpedia.org/resource/Air_Midwest,Air Midwest,http://dbpedia.org/resource/Air_Midwest,53.165
+http://dbpedia.org/resource/New_York_Air,New York Air,http://dbpedia.org/resource/New_York_Air,53.08
+http://dbpedia.org/resource/Vladivostok_Air,Vladivostok Air,http://dbpedia.org/resource/Vladivostok_Air,53.055
+http://dbpedia.org/resource/Braathens_Regional_Aviation,Braathens Regional Aviation,http://dbpedia.org/resource/Braathens_Regional_Aviation,53.050000000000004
+http://dbpedia.org/resource/Air_Sénégal_International,Air Sénégal International,http://dbpedia.org/resource/Air_Sénégal_International,53.010000000000005
+http://dbpedia.org/resource/West_Wind_Aviation,West Wind Aviation,http://dbpedia.org/resource/West_Wind_Aviation,52.995
+http://dbpedia.org/resource/Iran_Airtour,Iran Airtour,http://dbpedia.org/resource/Iran_Airtour,52.975
+http://dbpedia.org/resource/Air_Niugini,Air Niugini,http://dbpedia.org/resource/Air_Niugini,52.95
+http://dbpedia.org/resource/Wardair,Wardair,http://dbpedia.org/resource/Wardair,52.78
+http://dbpedia.org/resource/Trans-Canada_Air_Lines,Trans-Canada Air Lines,http://dbpedia.org/resource/Trans-Canada_Air_Lines,52.78
+http://dbpedia.org/resource/Taquan_Air,Taquan Air,http://dbpedia.org/resource/Taquan_Air,52.725
+http://dbpedia.org/resource/Janet_(airline),Janet (airline),http://dbpedia.org/resource/Janet_(airline),52.629999999999995
+http://dbpedia.org/resource/TAME,TAME,http://dbpedia.org/resource/TAME,52.435
+http://dbpedia.org/resource/ASL_Airlines_Ireland,ASL Airlines Ireland,http://dbpedia.org/resource/ASL_Airlines_Ireland,52.39
+http://dbpedia.org/resource/Azores_Airlines,Azores Airlines,http://dbpedia.org/resource/Azores_Airlines,52.379999999999995
+http://dbpedia.org/resource/Aero_Dili,Aero Dili,http://dbpedia.org/resource/Aero_Dili,52.28
+http://dbpedia.org/resource/Bulgaria_Air,Bulgaria Air,http://dbpedia.org/resource/Bulgaria_Air,52.23500000000001
+http://dbpedia.org/resource/Tigerair_Australia,Tigerair Australia,http://dbpedia.org/resource/Tigerair_Australia,52.23499999999999
+http://dbpedia.org/resource/Canadian_Pacific_Air_Lines,Canadian Pacific Air Lines,http://dbpedia.org/resource/Canadian_Pacific_Air_Lines,52.055
+http://dbpedia.org/resource/Wamos_Air,Wamos Air,http://dbpedia.org/resource/Wamos_Air,51.870000000000005
+http://dbpedia.org/resource/Congo_Airways,Congo Airways,http://dbpedia.org/resource/Congo_Airways,51.745000000000005
+http://dbpedia.org/resource/Buffalo_Airways,Buffalo Airways,http://dbpedia.org/resource/Buffalo_Airways,51.74
+http://dbpedia.org/resource/Suparna_Airlines,Suparna Airlines,http://dbpedia.org/resource/Suparna_Airlines,51.635000000000005
+http://dbpedia.org/resource/Air_Calédonie,Air Calédonie,http://dbpedia.org/resource/Air_Calédonie,51.49
+http://dbpedia.org/resource/Air_Burkina,Air Burkina,http://dbpedia.org/resource/Air_Burkina,51.45
+http://dbpedia.org/resource/Uganda_Airlines,Uganda Airlines,http://dbpedia.org/resource/Uganda_Airlines,51.44499999999999
+http://dbpedia.org/resource/China_Cargo_Airlines,China Cargo Airlines,http://dbpedia.org/resource/China_Cargo_Airlines,51.410000000000004
+http://dbpedia.org/resource/Boliviana_de_Aviación,Boliviana de Aviación,http://dbpedia.org/resource/Boliviana_de_Aviación,51.394999999999996
+http://dbpedia.org/resource/Seaborne_Airlines,Seaborne Airlines,http://dbpedia.org/resource/Seaborne_Airlines,51.370000000000005
+http://dbpedia.org/resource/Norwegian_Air_Lines,Norwegian Air Lines,http://dbpedia.org/resource/Norwegian_Air_Lines,51.300000000000004
+http://dbpedia.org/resource/Balkan_Bulgarian_Airlines,Balkan Bulgarian Airlines,http://dbpedia.org/resource/Balkan_Bulgarian_Airlines,51.22
+http://dbpedia.org/resource/Air_Moldova,Air Moldova,http://dbpedia.org/resource/Air_Moldova,51.145
+http://dbpedia.org/resource/GB_Airways,GB Airways,http://dbpedia.org/resource/GB_Airways,51.05500000000001
+http://dbpedia.org/resource/SBA_Airlines,SBA Airlines,http://dbpedia.org/resource/SBA_Airlines,51.010000000000005
+http://dbpedia.org/resource/Copa_Airlines_Colombia,Copa Airlines Colombia,http://dbpedia.org/resource/Copa_Airlines_Colombia,50.95
+http://dbpedia.org/resource/Neos_(airline),Neos (airline),http://dbpedia.org/resource/Neos_(airline),50.915
+http://dbpedia.org/resource/Snowflake_(airline),Snowflake (airline),http://dbpedia.org/resource/Snowflake_(airline),50.91
+http://dbpedia.org/resource/Onur_Air,Onur Air,http://dbpedia.org/resource/Onur_Air,50.865
+http://dbpedia.org/resource/Pacific_Western_Airlines,Pacific Western Airlines,http://dbpedia.org/resource/Pacific_Western_Airlines,50.845
+http://dbpedia.org/resource/Midwest_Airlines,Midwest Airlines,http://dbpedia.org/resource/Midwest_Airlines,50.795
+http://dbpedia.org/resource/Cargolux_Italia,Cargolux Italia,http://dbpedia.org/resource/Cargolux_Italia,50.725
+http://dbpedia.org/resource/Sky_Airline,Sky Airline,http://dbpedia.org/resource/Sky_Airline,50.620000000000005
+http://dbpedia.org/resource/Maersk_Air_UK,Maersk Air UK,http://dbpedia.org/resource/Maersk_Air_UK,50.61
+http://dbpedia.org/resource/PrivatAir,PrivatAir,http://dbpedia.org/resource/PrivatAir,50.580000000000005
+http://dbpedia.org/resource/Skyways_(Swedish_airline),Skyways (Swedish airline),http://dbpedia.org/resource/Skyways_(Swedish_airline),50.555
+http://dbpedia.org/resource/Air_India_Express,Air India Express,http://dbpedia.org/resource/Air_India_Express,50.475
+http://dbpedia.org/resource/Tassili_Airlines,Tassili Airlines,http://dbpedia.org/resource/Tassili_Airlines,50.465
+http://dbpedia.org/resource/Kam_Air,Kam Air,http://dbpedia.org/resource/Kam_Air,50.46
+http://dbpedia.org/resource/LATAM_Cargo_Chile,LATAM Cargo Chile,http://dbpedia.org/resource/LATAM_Cargo_Chile,50.45
+http://dbpedia.org/resource/Arkaim_(airline),Arkaim (airline),http://dbpedia.org/resource/Arkaim_(airline),50.365
+http://dbpedia.org/resource/China_Express_Airlines,China Express Airlines,http://dbpedia.org/resource/China_Express_Airlines,50.175
+http://dbpedia.org/resource/Beijing_Capital_Airlines,Beijing Capital Airlines,http://dbpedia.org/resource/Beijing_Capital_Airlines,50.12
+http://dbpedia.org/resource/Pan_American-Grace_Airways,Pan American-Grace Airways,http://dbpedia.org/resource/Pan_American-Grace_Airways,50.095
+http://dbpedia.org/resource/Citilink,Citilink,http://dbpedia.org/resource/Citilink,50.06
+http://dbpedia.org/resource/Tailwind_Airlines,Tailwind Airlines,http://dbpedia.org/resource/Tailwind_Airlines,49.975
+http://dbpedia.org/resource/Pawan_Hans,Pawan Hans,http://dbpedia.org/resource/Pawan_Hans,49.915000000000006
+http://dbpedia.org/resource/Iberojet_(airline),Iberojet (airline),http://dbpedia.org/resource/Iberojet_(airline),49.72
+http://dbpedia.org/resource/LATAM_Perú,LATAM Perú,http://dbpedia.org/resource/LATAM_Perú,49.685
+http://dbpedia.org/resource/Eastern_Provincial_Airways,Eastern Provincial Airways,http://dbpedia.org/resource/Eastern_Provincial_Airways,49.43
+http://dbpedia.org/resource/People_Express_Airlines_(1980s),People Express Airlines (1980s),http://dbpedia.org/resource/People_Express_Airlines_(1980s),49.425
+http://dbpedia.org/resource/Avianca_Ecuador,Avianca Ecuador,http://dbpedia.org/resource/Avianca_Ecuador,49.379999999999995
+http://dbpedia.org/resource/AtlasGlobal,AtlasGlobal,http://dbpedia.org/resource/AtlasGlobal,49.330000000000005
+http://dbpedia.org/resource/Stobart_Air,Stobart Air,http://dbpedia.org/resource/Stobart_Air,49.295
+http://dbpedia.org/resource/OLT_Express,OLT Express,http://dbpedia.org/resource/OLT_Express,49.235
+http://dbpedia.org/resource/New_Zealand_National_Airways_Corporation,New Zealand National Airways Corporation,http://dbpedia.org/resource/New_Zealand_National_Airways_Corporation,49.145
+http://dbpedia.org/resource/LATAM_Argentina,LATAM Argentina,http://dbpedia.org/resource/LATAM_Argentina,49.04
+http://dbpedia.org/resource/Kish_Air,Kish Air,http://dbpedia.org/resource/Kish_Air,49.0
+http://dbpedia.org/resource/Ozark_Air_Lines,Ozark Air Lines,http://dbpedia.org/resource/Ozark_Air_Lines,48.905
+http://dbpedia.org/resource/Aeroamerica,Aeroamerica,http://dbpedia.org/resource/Aeroamerica,48.865
+http://dbpedia.org/resource/LATAM_Paraguay,LATAM Paraguay,http://dbpedia.org/resource/LATAM_Paraguay,48.815
+http://dbpedia.org/resource/Ariana_Afghan_Airlines,Ariana Afghan Airlines,http://dbpedia.org/resource/Ariana_Afghan_Airlines,48.75
+http://dbpedia.org/resource/DHL_Air_UK,DHL Air UK,http://dbpedia.org/resource/DHL_Air_UK,48.73
+http://dbpedia.org/resource/Continental_Express,Continental Express,http://dbpedia.org/resource/Continental_Express,48.59
+http://dbpedia.org/resource/Skymark_Airlines,Skymark Airlines,http://dbpedia.org/resource/Skymark_Airlines,48.580000000000005
+http://dbpedia.org/resource/Singapore_Airlines_Cargo,Singapore Airlines Cargo,http://dbpedia.org/resource/Singapore_Airlines_Cargo,48.56999999999999
+http://dbpedia.org/resource/Poste_Air_Cargo,Poste Air Cargo,http://dbpedia.org/resource/Poste_Air_Cargo,48.545
+http://dbpedia.org/resource/Donavia,Donavia,http://dbpedia.org/resource/Donavia,48.300000000000004
+http://dbpedia.org/resource/OpenSkies,OpenSkies,http://dbpedia.org/resource/OpenSkies,48.205
+http://dbpedia.org/resource/GX_Airlines,GX Airlines,http://dbpedia.org/resource/GX_Airlines,48.150000000000006
+http://dbpedia.org/resource/Dobrolet_(low-cost_airline),Dobrolet (low-cost airline),http://dbpedia.org/resource/Dobrolet_(low-cost_airline),48.115
+http://dbpedia.org/resource/Jeju_Air,Jeju Air,http://dbpedia.org/resource/Jeju_Air,48.05
+http://dbpedia.org/resource/Compass_Airlines_(North_America),Compass Airlines (North America),http://dbpedia.org/resource/Compass_Airlines_(North_America),48.035
+http://dbpedia.org/resource/Frontier_Airlines_(1950–1986),Frontier Airlines (1950–1986),http://dbpedia.org/resource/Frontier_Airlines_(1950–1986),47.975
+http://dbpedia.org/resource/Business_Express_Airlines,Business Express Airlines,http://dbpedia.org/resource/Business_Express_Airlines,47.865
+http://dbpedia.org/resource/Color_Air,Color Air,http://dbpedia.org/resource/Color_Air,47.81
+http://dbpedia.org/resource/Eurowings_Discover,Eurowings Discover,http://dbpedia.org/resource/Eurowings_Discover,47.68
+http://dbpedia.org/resource/China_Postal_Airlines,China Postal Airlines,http://dbpedia.org/resource/China_Postal_Airlines,47.650000000000006
+http://dbpedia.org/resource/Universal_Helicopters,Universal Helicopters,http://dbpedia.org/resource/Universal_Helicopters,47.65
+http://dbpedia.org/resource/Aviaco,Aviaco,http://dbpedia.org/resource/Aviaco,47.62
+http://dbpedia.org/resource/LATAM_Ecuador,LATAM Ecuador,http://dbpedia.org/resource/LATAM_Ecuador,47.58
+http://dbpedia.org/resource/Fred._Olsen_Airtransport,Fred. Olsen Airtransport,http://dbpedia.org/resource/Fred._Olsen_Airtransport,47.555
+http://dbpedia.org/resource/Nesma_Airlines,Nesma Airlines,http://dbpedia.org/resource/Nesma_Airlines,47.504999999999995
+http://dbpedia.org/resource/Tasman_Empire_Airways_Limited,Tasman Empire Airways Limited,http://dbpedia.org/resource/Tasman_Empire_Airways_Limited,47.44
+http://dbpedia.org/resource/Hahn_Air,Hahn Air,http://dbpedia.org/resource/Hahn_Air,47.44
+http://dbpedia.org/resource/Lion_Air,Lion Air,http://dbpedia.org/resource/Lion_Air,47.435
+http://dbpedia.org/resource/Itapemirim_Transportes_Aéreos_(2020–2022),Itapemirim Transportes Aéreos (2020–2022),http://dbpedia.org/resource/Itapemirim_Transportes_Aéreos_(2020–2022),47.31
+http://dbpedia.org/resource/Reno_Air,Reno Air,http://dbpedia.org/resource/Reno_Air,47.300000000000004
+http://dbpedia.org/resource/Safi_Airways,Safi Airways,http://dbpedia.org/resource/Safi_Airways,47.28
+http://dbpedia.org/resource/AirTran_Airways,AirTran Airways,http://dbpedia.org/resource/AirTran_Airways,47.235
+http://dbpedia.org/resource/Iran_Aseman_Airlines,Iran Aseman Airlines,http://dbpedia.org/resource/Iran_Aseman_Airlines,47.215
+http://dbpedia.org/resource/British_United_Air_Ferries,British United Air Ferries,http://dbpedia.org/resource/British_United_Air_Ferries,47.21000000000001
+http://dbpedia.org/resource/Panair_do_Brasil,Panair do Brasil,http://dbpedia.org/resource/Panair_do_Brasil,47.205000000000005
+http://dbpedia.org/resource/Zoom_Airlines,Zoom Airlines,http://dbpedia.org/resource/Zoom_Airlines,47.169999999999995
+http://dbpedia.org/resource/Silver_Airways,Silver Airways,http://dbpedia.org/resource/Silver_Airways,47.1
+http://dbpedia.org/resource/FlyEgypt,FlyEgypt,http://dbpedia.org/resource/FlyEgypt,46.97
+http://dbpedia.org/resource/Conviasa,Conviasa,http://dbpedia.org/resource/Conviasa,46.95
+http://dbpedia.org/resource/Colgan_Air,Colgan Air,http://dbpedia.org/resource/Colgan_Air,46.875
+http://dbpedia.org/resource/Dniproavia,Dniproavia,http://dbpedia.org/resource/Dniproavia,46.85
+http://dbpedia.org/resource/Caspian_Airlines,Caspian Airlines,http://dbpedia.org/resource/Caspian_Airlines,46.81999999999999
+http://dbpedia.org/resource/Bristow_Helicopters,Bristow Helicopters,http://dbpedia.org/resource/Bristow_Helicopters,46.81
+http://dbpedia.org/resource/BH_Air,BH Air,http://dbpedia.org/resource/BH_Air,46.79
+http://dbpedia.org/resource/Georgian_Airways,Georgian Airways,http://dbpedia.org/resource/Georgian_Airways,46.785
+http://dbpedia.org/resource/Cape_Air,Cape Air,http://dbpedia.org/resource/Cape_Air,46.77
+http://dbpedia.org/resource/Bahamasair,Bahamasair,http://dbpedia.org/resource/Bahamasair,46.74
+http://dbpedia.org/resource/SF_Airlines,SF Airlines,http://dbpedia.org/resource/SF_Airlines,46.68000000000001
+http://dbpedia.org/resource/Braniff_(1983–1990),Braniff (1983–1990),http://dbpedia.org/resource/Braniff_(1983–1990),46.645
+http://dbpedia.org/resource/Malév_Hungarian_Airlines,Malév Hungarian Airlines,http://dbpedia.org/resource/Malév_Hungarian_Airlines,46.36
+http://dbpedia.org/resource/Canadian_Airways,Canadian Airways,http://dbpedia.org/resource/Canadian_Airways,45.975
+http://dbpedia.org/resource/Camair-Co,Camair-Co,http://dbpedia.org/resource/Camair-Co,45.82
+http://dbpedia.org/resource/Hi_Fly_(airline),Hi Fly (airline),http://dbpedia.org/resource/Hi_Fly_(airline),45.81
+http://dbpedia.org/resource/Saudi_Air_Ambulance,Saudi Air Ambulance,http://dbpedia.org/resource/Saudi_Air_Ambulance,45.79
+http://dbpedia.org/resource/MNG_Airlines,MNG Airlines,http://dbpedia.org/resource/MNG_Airlines,45.79
+http://dbpedia.org/resource/Dubrovnik_Airline,Dubrovnik Airline,http://dbpedia.org/resource/Dubrovnik_Airline,45.660000000000004
+http://dbpedia.org/resource/Canadian_North,Canadian North,http://dbpedia.org/resource/Canadian_North,45.625
+http://dbpedia.org/resource/Ghana_Airways,Ghana Airways,http://dbpedia.org/resource/Ghana_Airways,45.61500000000001
+http://dbpedia.org/resource/Australia_Asia_Airlines,Australia Asia Airlines,http://dbpedia.org/resource/Australia_Asia_Airlines,45.61
+http://dbpedia.org/resource/Norway_Airlines,Norway Airlines,http://dbpedia.org/resource/Norway_Airlines,45.575
+http://dbpedia.org/resource/Overland_Airways,Overland Airways,http://dbpedia.org/resource/Overland_Airways,45.495
+http://dbpedia.org/resource/EuroAtlantic_Airways,EuroAtlantic Airways,http://dbpedia.org/resource/EuroAtlantic_Airways,45.400000000000006
+http://dbpedia.org/resource/Empire_Airlines,Empire Airlines,http://dbpedia.org/resource/Empire_Airlines,45.39
+http://dbpedia.org/resource/Moldaeroservice,Moldaeroservice,http://dbpedia.org/resource/Moldaeroservice,45.38999999999999
+http://dbpedia.org/resource/Scoot,Scoot,http://dbpedia.org/resource/Scoot,45.375
+http://dbpedia.org/resource/Freebird_Airlines,Freebird Airlines,http://dbpedia.org/resource/Freebird_Airlines,45.364999999999995
+http://dbpedia.org/resource/Lao_Airlines,Lao Airlines,http://dbpedia.org/resource/Lao_Airlines,45.345
+http://dbpedia.org/resource/Jazz_Aviation,Jazz Aviation,http://dbpedia.org/resource/Jazz_Aviation,45.345
+http://dbpedia.org/resource/Mørefly,Mørefly,http://dbpedia.org/resource/Mørefly,45.315
+http://dbpedia.org/resource/Nouvelair,Nouvelair,http://dbpedia.org/resource/Nouvelair,45.185
+http://dbpedia.org/resource/Executive_Airlines,Executive Airlines,http://dbpedia.org/resource/Executive_Airlines,45.12
+http://dbpedia.org/resource/Busy_Bee,Busy Bee,http://dbpedia.org/resource/Busy_Bee,45.105
+http://dbpedia.org/resource/Trans_Australia_Airlines,Trans Australia Airlines,http://dbpedia.org/resource/Trans_Australia_Airlines,45.1
+http://dbpedia.org/resource/Air_Ontario,Air Ontario,http://dbpedia.org/resource/Air_Ontario,44.989999999999995
+http://dbpedia.org/resource/Sun_Country_Airlines,Sun Country Airlines,http://dbpedia.org/resource/Sun_Country_Airlines,44.975
+http://dbpedia.org/resource/Air_Belgium_(1979–2000),Air Belgium (1979–2000),http://dbpedia.org/resource/Air_Belgium_(1979–2000),44.935
+http://dbpedia.org/resource/Skybus_Airlines,Skybus Airlines,http://dbpedia.org/resource/Skybus_Airlines,44.88
+http://dbpedia.org/resource/Ransome_Airlines,Ransome Airlines,http://dbpedia.org/resource/Ransome_Airlines,44.830000000000005
+http://dbpedia.org/resource/SATA_Air_Açores,SATA Air Açores,http://dbpedia.org/resource/SATA_Air_Açores,44.745000000000005
+http://dbpedia.org/resource/Voepass_Linhas_Aéreas,Voepass Linhas Aéreas,http://dbpedia.org/resource/Voepass_Linhas_Aéreas,44.745000000000005
+http://dbpedia.org/resource/American_Overseas_Airlines,American Overseas Airlines,http://dbpedia.org/resource/American_Overseas_Airlines,44.715
+http://dbpedia.org/resource/Thai_Lion_Air,Thai Lion Air,http://dbpedia.org/resource/Thai_Lion_Air,44.69499999999999
+http://dbpedia.org/resource/Aurora_(airline),Aurora (airline),http://dbpedia.org/resource/Aurora_(airline),44.61
+http://dbpedia.org/resource/Jet2.com,Jet2.com,http://dbpedia.org/resource/Jet2.com,44.595
+http://dbpedia.org/resource/Jetstar_Japan,Jetstar Japan,http://dbpedia.org/resource/Jetstar_Japan,44.55500000000001
+http://dbpedia.org/resource/Virgin_Australia_Regional_Airlines,Virgin Australia Regional Airlines,http://dbpedia.org/resource/Virgin_Australia_Regional_Airlines,44.535
+http://dbpedia.org/resource/Legend_Airlines,Legend Airlines,http://dbpedia.org/resource/Legend_Airlines,44.455
+http://dbpedia.org/resource/Transwede_Airways,Transwede Airways,http://dbpedia.org/resource/Transwede_Airways,44.455
+http://dbpedia.org/resource/Texas_International_Airlines,Texas International Airlines,http://dbpedia.org/resource/Texas_International_Airlines,44.42
+http://dbpedia.org/resource/Jordan_Aviation,Jordan Aviation,http://dbpedia.org/resource/Jordan_Aviation,44.35
+http://dbpedia.org/resource/Solenta_Aviation,Solenta Aviation,http://dbpedia.org/resource/Solenta_Aviation,44.28
+http://dbpedia.org/resource/Binter_Mediterráneo,Binter Mediterráneo,http://dbpedia.org/resource/Binter_Mediterráneo,44.27
+http://dbpedia.org/resource/PAL_Airlines,PAL Airlines,http://dbpedia.org/resource/PAL_Airlines,44.260000000000005
+http://dbpedia.org/resource/SpiceJet,SpiceJet,http://dbpedia.org/resource/SpiceJet,44.255
+http://dbpedia.org/resource/McGee_Airways,McGee Airways,http://dbpedia.org/resource/McGee_Airways,44.205
+http://dbpedia.org/resource/Airwork_Services,Airwork Services,http://dbpedia.org/resource/Airwork_Services,44.205
+http://dbpedia.org/resource/Transbrasil,Transbrasil,http://dbpedia.org/resource/Transbrasil,44.185
+http://dbpedia.org/resource/Breeze_Airways,Breeze Airways,http://dbpedia.org/resource/Breeze_Airways,44.07
+http://dbpedia.org/resource/Blue_Islands,Blue Islands,http://dbpedia.org/resource/Blue_Islands,44.035000000000004
+http://dbpedia.org/resource/Easy_Fly_Express,Easy Fly Express,http://dbpedia.org/resource/Easy_Fly_Express,44.015
+http://dbpedia.org/resource/Invicta_International_Airlines,Invicta International Airlines,http://dbpedia.org/resource/Invicta_International_Airlines,43.99
+http://dbpedia.org/resource/Chengdu_Airlines,Chengdu Airlines,http://dbpedia.org/resource/Chengdu_Airlines,43.97
+http://dbpedia.org/resource/Iraqi_Airways,Iraqi Airways,http://dbpedia.org/resource/Iraqi_Airways,43.97
+http://dbpedia.org/resource/Mokulele_Airlines,Mokulele Airlines,http://dbpedia.org/resource/Mokulele_Airlines,43.875
+http://dbpedia.org/resource/Shuttle_America,Shuttle America,http://dbpedia.org/resource/Shuttle_America,43.85
+http://dbpedia.org/resource/Air_Busan,Air Busan,http://dbpedia.org/resource/Air_Busan,43.83500000000001
+http://dbpedia.org/resource/Air_Georgian,Air Georgian,http://dbpedia.org/resource/Air_Georgian,43.735
+http://dbpedia.org/resource/CargoLogicAir,CargoLogicAir,http://dbpedia.org/resource/CargoLogicAir,43.66
+http://dbpedia.org/resource/Midway_Airlines_(1976–1991),Midway Airlines (1976–1991),http://dbpedia.org/resource/Midway_Airlines_(1976–1991),43.51
+http://dbpedia.org/resource/White_Airways,White Airways,http://dbpedia.org/resource/White_Airways,43.43
+http://dbpedia.org/resource/AlMasria_Universal_Airlines,AlMasria Universal Airlines,http://dbpedia.org/resource/AlMasria_Universal_Airlines,43.425000000000004
+http://dbpedia.org/resource/Air_BC,Air BC,http://dbpedia.org/resource/Air_BC,43.425
+http://dbpedia.org/resource/Denim_Air,Denim Air,http://dbpedia.org/resource/Denim_Air,43.415000000000006
+http://dbpedia.org/resource/Líneas_Aéreas_Privadas_Argentinas,Líneas Aéreas Privadas Argentinas,http://dbpedia.org/resource/Líneas_Aéreas_Privadas_Argentinas,43.415
+http://dbpedia.org/resource/Cobalt_Air,Cobalt Air,http://dbpedia.org/resource/Cobalt_Air,43.41
+http://dbpedia.org/resource/Endeavor_Air,Endeavor Air,http://dbpedia.org/resource/Endeavor_Air,43.385
+http://dbpedia.org/resource/Indian_Airlines,Indian Airlines,http://dbpedia.org/resource/Indian_Airlines,43.370000000000005
+http://dbpedia.org/resource/Nepal_Airlines,Nepal Airlines,http://dbpedia.org/resource/Nepal_Airlines,43.355000000000004
+http://dbpedia.org/resource/Pantanal_Linhas_Aéreas,Pantanal Linhas Aéreas,http://dbpedia.org/resource/Pantanal_Linhas_Aéreas,43.32
+http://dbpedia.org/resource/North_Central_Airlines,North Central Airlines,http://dbpedia.org/resource/North_Central_Airlines,43.305
+http://dbpedia.org/resource/Sky_Regional_Airlines,Sky Regional Airlines,http://dbpedia.org/resource/Sky_Regional_Airlines,43.300000000000004
+http://dbpedia.org/resource/Carpatair,Carpatair,http://dbpedia.org/resource/Carpatair,43.29
+http://dbpedia.org/resource/Evergreen_International_Airlines,Evergreen International Airlines,http://dbpedia.org/resource/Evergreen_International_Airlines,43.275000000000006
+"http://dbpedia.org/resource/Eastern_Airlines,_LLC","Eastern Airlines, LLC","http://dbpedia.org/resource/Eastern_Airlines,_LLC",43.24
+http://dbpedia.org/resource/Ted_(airline),Ted (airline),http://dbpedia.org/resource/Ted_(airline),43.175000000000004
+http://dbpedia.org/resource/Joon_(airline),Joon (airline),http://dbpedia.org/resource/Joon_(airline),43.14
+http://dbpedia.org/resource/Tsaradia,Tsaradia,http://dbpedia.org/resource/Tsaradia,43.120000000000005
+http://dbpedia.org/resource/Alpine_Air_Express,Alpine Air Express,http://dbpedia.org/resource/Alpine_Air_Express,43.074999999999996
+http://dbpedia.org/resource/United_Airways,United Airways,http://dbpedia.org/resource/United_Airways,43.074999999999996
+http://dbpedia.org/resource/Tower_Air,Tower Air,http://dbpedia.org/resource/Tower_Air,43.03
+http://dbpedia.org/resource/Avianca_Perú,Avianca Perú,http://dbpedia.org/resource/Avianca_Perú,42.94
+http://dbpedia.org/resource/Piedmont_Airlines,Piedmont Airlines,http://dbpedia.org/resource/Piedmont_Airlines,42.855000000000004
+http://dbpedia.org/resource/Ontario_Central_Airlines,Ontario Central Airlines,http://dbpedia.org/resource/Ontario_Central_Airlines,42.815
+http://dbpedia.org/resource/MetroJet_(American_airline),MetroJet (American airline),http://dbpedia.org/resource/MetroJet_(American_airline),42.81
+http://dbpedia.org/resource/Hellas_Jet,Hellas Jet,http://dbpedia.org/resource/Hellas_Jet,42.79500000000001
+http://dbpedia.org/resource/Hongkong_Jet,Hongkong Jet,http://dbpedia.org/resource/Hongkong_Jet,42.754999999999995
+http://dbpedia.org/resource/Time_Air,Time Air,http://dbpedia.org/resource/Time_Air,42.699999999999996
+http://dbpedia.org/resource/Allied_Air,Allied Air,http://dbpedia.org/resource/Allied_Air,42.67
+http://dbpedia.org/resource/MyTravel_Airways,MyTravel Airways,http://dbpedia.org/resource/MyTravel_Airways,42.66499999999999
+http://dbpedia.org/resource/Sky_Airline_Peru,Sky Airline Peru,http://dbpedia.org/resource/Sky_Airline_Peru,42.620000000000005
+http://dbpedia.org/resource/Cotai_Water_Jet,Cotai Water Jet,http://dbpedia.org/resource/Cotai_Water_Jet,42.615
+http://dbpedia.org/resource/Norse_Atlantic_Airways,Norse Atlantic Airways,http://dbpedia.org/resource/Norse_Atlantic_Airways,42.605
+http://dbpedia.org/resource/Taftan_Airlines,Taftan Airlines,http://dbpedia.org/resource/Taftan_Airlines,42.515
+http://dbpedia.org/resource/Ameriflight,Ameriflight,http://dbpedia.org/resource/Ameriflight,42.46
+http://dbpedia.org/resource/JSX_(airline),JSX (airline),http://dbpedia.org/resource/JSX_(airline),42.405
+http://dbpedia.org/resource/Air_Liberté,Air Liberté,http://dbpedia.org/resource/Air_Liberté,42.370000000000005
+http://dbpedia.org/resource/CAAC_Airlines,CAAC Airlines,http://dbpedia.org/resource/CAAC_Airlines,42.349999999999994
+http://dbpedia.org/resource/Belle_Air_Europe,Belle Air Europe,http://dbpedia.org/resource/Belle_Air_Europe,42.27
+http://dbpedia.org/resource/Quebecair,Quebecair,http://dbpedia.org/resource/Quebecair,42.24
+http://dbpedia.org/resource/Air_ACT,Air ACT,http://dbpedia.org/resource/Air_ACT,42.235
+http://dbpedia.org/resource/Canada_3000,Canada 3000,http://dbpedia.org/resource/Canada_3000,42.230000000000004
+http://dbpedia.org/resource/Scottish_Airways,Scottish Airways,http://dbpedia.org/resource/Scottish_Airways,42.120000000000005
+http://dbpedia.org/resource/Jazeera_Airways,Jazeera Airways,http://dbpedia.org/resource/Jazeera_Airways,42.099999999999994
+http://dbpedia.org/resource/Kulula.com,Kulula.com,http://dbpedia.org/resource/Kulula.com,42.05
+http://dbpedia.org/resource/Trump_Shuttle,Trump Shuttle,http://dbpedia.org/resource/Trump_Shuttle,42.044999999999995
+http://dbpedia.org/resource/Partnair,Partnair,http://dbpedia.org/resource/Partnair,42.0
+http://dbpedia.org/resource/WestJet_Encore,WestJet Encore,http://dbpedia.org/resource/WestJet_Encore,42.0
+http://dbpedia.org/resource/Contour_Airlines,Contour Airlines,http://dbpedia.org/resource/Contour_Airlines,41.96000000000001
+http://dbpedia.org/resource/KrasAir,KrasAir,http://dbpedia.org/resource/KrasAir,41.94499999999999
+http://dbpedia.org/resource/Metro_Airlines,Metro Airlines,http://dbpedia.org/resource/Metro_Airlines,41.885000000000005
+http://dbpedia.org/resource/Azur_Air,Azur Air,http://dbpedia.org/resource/Azur_Air,41.82
+http://dbpedia.org/resource/Hemus_Air,Hemus Air,http://dbpedia.org/resource/Hemus_Air,41.754999999999995
+http://dbpedia.org/resource/Pobeda_(airline),Pobeda (airline),http://dbpedia.org/resource/Pobeda_(airline),41.73500000000001
+http://dbpedia.org/resource/Chautauqua_Airlines,Chautauqua Airlines,http://dbpedia.org/resource/Chautauqua_Airlines,41.635000000000005
+http://dbpedia.org/resource/Hello_Airlines,Hello Airlines,http://dbpedia.org/resource/Hello_Airlines,41.525000000000006
+http://dbpedia.org/resource/J-Air,J-Air,http://dbpedia.org/resource/J-Air,41.445
+http://dbpedia.org/resource/Chicago_and_Southern_Air_Lines,Chicago and Southern Air Lines,http://dbpedia.org/resource/Chicago_and_Southern_Air_Lines,41.435
+http://dbpedia.org/resource/Wataniya_Airways,Wataniya Airways,http://dbpedia.org/resource/Wataniya_Airways,41.415
+http://dbpedia.org/resource/Germanwings,Germanwings,http://dbpedia.org/resource/Germanwings,41.39
+http://dbpedia.org/resource/Lion_Air_Group,Lion Air Group,http://dbpedia.org/resource/Lion_Air_Group,41.349999999999994
+http://dbpedia.org/resource/Senegal_Airlines,Senegal Airlines,http://dbpedia.org/resource/Senegal_Airlines,41.325
+http://dbpedia.org/resource/Vayudoot,Vayudoot,http://dbpedia.org/resource/Vayudoot,41.315
+http://dbpedia.org/resource/Republic_Airlines,Republic Airlines,http://dbpedia.org/resource/Republic_Airlines,41.22
+http://dbpedia.org/resource/Mango_(airline),Mango (airline),http://dbpedia.org/resource/Mango_(airline),41.15
+http://dbpedia.org/resource/Austin_Airways,Austin Airways,http://dbpedia.org/resource/Austin_Airways,41.025
+http://dbpedia.org/resource/Aerovias_Brasil,Aerovias Brasil,http://dbpedia.org/resource/Aerovias_Brasil,40.98
+http://dbpedia.org/resource/Tus_Airways,Tus Airways,http://dbpedia.org/resource/Tus_Airways,40.955
+http://dbpedia.org/resource/Elite_Airways,Elite Airways,http://dbpedia.org/resource/Elite_Airways,40.86000000000001
+http://dbpedia.org/resource/Starlux_Airlines,Starlux Airlines,http://dbpedia.org/resource/Starlux_Airlines,40.730000000000004
+http://dbpedia.org/resource/Mauritania_Airlines,Mauritania Airlines,http://dbpedia.org/resource/Mauritania_Airlines,40.715
+http://dbpedia.org/resource/Iberia_Express,Iberia Express,http://dbpedia.org/resource/Iberia_Express,40.7
+http://dbpedia.org/resource/South_Asian_Airlines,South Asian Airlines,http://dbpedia.org/resource/South_Asian_Airlines,40.665
+http://dbpedia.org/resource/Myanmar_National_Airlines,Myanmar National Airlines,http://dbpedia.org/resource/Myanmar_National_Airlines,40.495
+http://dbpedia.org/resource/Serviços_Executivos_Aéreos_de_Angola,Serviços Executivos Aéreos de Angola,http://dbpedia.org/resource/Serviços_Executivos_Aéreos_de_Angola,40.47
+http://dbpedia.org/resource/Zip_(airline),Zip (airline),http://dbpedia.org/resource/Zip_(airline),40.415
+http://dbpedia.org/resource/British_Island_Airways,British Island Airways,http://dbpedia.org/resource/British_Island_Airways,40.205
+http://dbpedia.org/resource/Continental_Micronesia,Continental Micronesia,http://dbpedia.org/resource/Continental_Micronesia,40.19
+http://dbpedia.org/resource/Condor_Syndikat,Condor Syndikat,http://dbpedia.org/resource/Condor_Syndikat,40.11
+http://dbpedia.org/resource/Air_Canada_Rouge,Air Canada Rouge,http://dbpedia.org/resource/Air_Canada_Rouge,39.91
+http://dbpedia.org/resource/Braathens_Helikopter,Braathens Helikopter,http://dbpedia.org/resource/Braathens_Helikopter,39.905
+http://dbpedia.org/resource/PSA_Airlines,PSA Airlines,http://dbpedia.org/resource/PSA_Airlines,39.9
+http://dbpedia.org/resource/Portugália_Airlines,Portugália Airlines,http://dbpedia.org/resource/Portugália_Airlines,39.9
+http://dbpedia.org/resource/Susi_Air,Susi Air,http://dbpedia.org/resource/Susi_Air,39.83
+http://dbpedia.org/resource/LADE,LADE,http://dbpedia.org/resource/LADE,39.825
+http://dbpedia.org/resource/Jetsgo,Jetsgo,http://dbpedia.org/resource/Jetsgo,39.669999999999995
+http://dbpedia.org/resource/Harmony_Airways,Harmony Airways,http://dbpedia.org/resource/Harmony_Airways,39.635
+http://dbpedia.org/resource/Avelo_Airlines,Avelo Airlines,http://dbpedia.org/resource/Avelo_Airlines,39.63
+http://dbpedia.org/resource/Big_Sky_Airlines,Big Sky Airlines,http://dbpedia.org/resource/Big_Sky_Airlines,39.59
+http://dbpedia.org/resource/SunExpress_Deutschland,SunExpress Deutschland,http://dbpedia.org/resource/SunExpress_Deutschland,39.59
+http://dbpedia.org/resource/Air_France_Hop,Air France Hop,http://dbpedia.org/resource/Air_France_Hop,39.48
+http://dbpedia.org/resource/Transair_(Canada),Transair (Canada),http://dbpedia.org/resource/Transair_(Canada),39.465
+http://dbpedia.org/resource/Airlink_Cargo,Airlink Cargo,http://dbpedia.org/resource/Airlink_Cargo,39.39
+http://dbpedia.org/resource/Wien_Air_Alaska,Wien Air Alaska,http://dbpedia.org/resource/Wien_Air_Alaska,39.325
+http://dbpedia.org/resource/Hi_Air,Hi Air,http://dbpedia.org/resource/Hi_Air,39.29
+http://dbpedia.org/resource/Britt_Airways,Britt Airways,http://dbpedia.org/resource/Britt_Airways,39.25
+http://dbpedia.org/resource/Britannia_Airways,Britannia Airways,http://dbpedia.org/resource/Britannia_Airways,39.225
+http://dbpedia.org/resource/Royal_Flight_(airline),Royal Flight (airline),http://dbpedia.org/resource/Royal_Flight_(airline),39.224999999999994
+http://dbpedia.org/resource/ULS_Airlines_Cargo,ULS Airlines Cargo,http://dbpedia.org/resource/ULS_Airlines_Cargo,39.22
+http://dbpedia.org/resource/Sun-Air_of_Scandinavia,Sun-Air of Scandinavia,http://dbpedia.org/resource/Sun-Air_of_Scandinavia,39.195
+http://dbpedia.org/resource/Sunwing_Airlines,Sunwing Airlines,http://dbpedia.org/resource/Sunwing_Airlines,39.18000000000001
+http://dbpedia.org/resource/Air_Saguenay,Air Saguenay,http://dbpedia.org/resource/Air_Saguenay,39.155
+http://dbpedia.org/resource/TranStar_Airlines,TranStar Airlines,http://dbpedia.org/resource/TranStar_Airlines,39.095
+http://dbpedia.org/resource/Air_Montenegro,Air Montenegro,http://dbpedia.org/resource/Air_Montenegro,39.06
+http://dbpedia.org/resource/Nolisair,Nolisair,http://dbpedia.org/resource/Nolisair,39.06
+http://dbpedia.org/resource/Brit_Air,Brit Air,http://dbpedia.org/resource/Brit_Air,39.044999999999995
+http://dbpedia.org/resource/Norcanair,Norcanair,http://dbpedia.org/resource/Norcanair,39.02
+http://dbpedia.org/resource/Tigerair_Mandala,Tigerair Mandala,http://dbpedia.org/resource/Tigerair_Mandala,39.015
+http://dbpedia.org/resource/AfriJet,AfriJet,http://dbpedia.org/resource/AfriJet,38.995000000000005
+http://dbpedia.org/resource/Volotea,Volotea,http://dbpedia.org/resource/Volotea,38.955
+http://dbpedia.org/resource/Primera_Air,Primera Air,http://dbpedia.org/resource/Primera_Air,38.94
+http://dbpedia.org/resource/China_Xinjiang_Airlines,China Xinjiang Airlines,http://dbpedia.org/resource/China_Xinjiang_Airlines,38.900000000000006
+http://dbpedia.org/resource/CanJet,CanJet,http://dbpedia.org/resource/CanJet,38.89
+http://dbpedia.org/resource/National_Airlines_(N8),National Airlines (N8),http://dbpedia.org/resource/National_Airlines_(N8),38.81
+http://dbpedia.org/resource/Orenair,Orenair,http://dbpedia.org/resource/Orenair,38.78
+http://dbpedia.org/resource/Mid-Continent_Airlines,Mid-Continent Airlines,http://dbpedia.org/resource/Mid-Continent_Airlines,38.75
+http://dbpedia.org/resource/CityFlyer_Express,CityFlyer Express,http://dbpedia.org/resource/CityFlyer_Express,38.74
+http://dbpedia.org/resource/Intira_Airlines,Intira Airlines,http://dbpedia.org/resource/Intira_Airlines,38.725
+http://dbpedia.org/resource/Korea_Express_Air,Korea Express Air,http://dbpedia.org/resource/Korea_Express_Air,38.695
+http://dbpedia.org/resource/Air_Georgia,Air Georgia,http://dbpedia.org/resource/Air_Georgia,38.685
+http://dbpedia.org/resource/Royal_Daisy_Airlines,Royal Daisy Airlines,http://dbpedia.org/resource/Royal_Daisy_Airlines,38.685
+http://dbpedia.org/resource/JAL_Express,JAL Express,http://dbpedia.org/resource/JAL_Express,38.655
+http://dbpedia.org/resource/Germania_(airline),Germania (airline),http://dbpedia.org/resource/Germania_(airline),38.655
+http://dbpedia.org/resource/Metrojet_(Russian_airline),Metrojet (Russian airline),http://dbpedia.org/resource/Metrojet_(Russian_airline),38.33
+http://dbpedia.org/resource/Direct_Air,Direct Air,http://dbpedia.org/resource/Direct_Air,38.31
+http://dbpedia.org/resource/Simplifly_Deccan,Simplifly Deccan,http://dbpedia.org/resource/Simplifly_Deccan,38.285
+http://dbpedia.org/resource/Vanguard_Airlines,Vanguard Airlines,http://dbpedia.org/resource/Vanguard_Airlines,38.275
+http://dbpedia.org/resource/China_Eastern_Yunnan_Airlines,China Eastern Yunnan Airlines,http://dbpedia.org/resource/China_Eastern_Yunnan_Airlines,38.275
+http://dbpedia.org/resource/Star_Marianas_Air,Star Marianas Air,http://dbpedia.org/resource/Star_Marianas_Air,38.275
+http://dbpedia.org/resource/Great_Lakes_Airlines,Great Lakes Airlines,http://dbpedia.org/resource/Great_Lakes_Airlines,38.26
+http://dbpedia.org/resource/Hawkair,Hawkair,http://dbpedia.org/resource/Hawkair,38.255
+http://dbpedia.org/resource/Eswatini_Air,Eswatini Air,http://dbpedia.org/resource/Eswatini_Air,38.254999999999995
+http://dbpedia.org/resource/NorOntair,NorOntair,http://dbpedia.org/resource/NorOntair,38.21
+http://dbpedia.org/resource/Air_Labrador,Air Labrador,http://dbpedia.org/resource/Air_Labrador,38.155
+http://dbpedia.org/resource/RusLine,RusLine,http://dbpedia.org/resource/RusLine,38.14
+http://dbpedia.org/resource/Air_Vietnam,Air Vietnam,http://dbpedia.org/resource/Air_Vietnam,38.115
+http://dbpedia.org/resource/Air_North,Air North,http://dbpedia.org/resource/Air_North,38.02
+http://dbpedia.org/resource/Hughes_Airwest,Hughes Airwest,http://dbpedia.org/resource/Hughes_Airwest,38.02
+http://dbpedia.org/resource/Song_(airline),Song (airline),http://dbpedia.org/resource/Song_(airline),38.01500000000001
+http://dbpedia.org/resource/Midway_Airlines_(1993–2003),Midway Airlines (1993–2003),http://dbpedia.org/resource/Midway_Airlines_(1993–2003),38.0
+http://dbpedia.org/resource/Air_Canada_Tango,Air Canada Tango,http://dbpedia.org/resource/Air_Canada_Tango,37.905
+http://dbpedia.org/resource/Lufttransport,Lufttransport,http://dbpedia.org/resource/Lufttransport,37.879999999999995
+http://dbpedia.org/resource/Island_Air_(Hawaii),Island Air (Hawaii),http://dbpedia.org/resource/Island_Air_(Hawaii),37.855000000000004
+http://dbpedia.org/resource/Go_First,Go First,http://dbpedia.org/resource/Go_First,37.660000000000004
+http://dbpedia.org/resource/Polar_Air_Cargo,Polar Air Cargo,http://dbpedia.org/resource/Polar_Air_Cargo,37.655
+http://dbpedia.org/resource/PenAir,PenAir,http://dbpedia.org/resource/PenAir,37.64000000000001
+http://dbpedia.org/resource/Lauda_Air,Lauda Air,http://dbpedia.org/resource/Lauda_Air,37.575
+http://dbpedia.org/resource/Alaska_Coastal_Airlines,Alaska Coastal Airlines,http://dbpedia.org/resource/Alaska_Coastal_Airlines,37.57000000000001
+http://dbpedia.org/resource/Kiwi_International_Air_Lines,Kiwi International Air Lines,http://dbpedia.org/resource/Kiwi_International_Air_Lines,37.535
+http://dbpedia.org/resource/Brasil_Central_Linhas_Aéreas,Brasil Central Linhas Aéreas,http://dbpedia.org/resource/Brasil_Central_Linhas_Aéreas,37.525
+http://dbpedia.org/resource/TUI_fly_Nordic,TUI fly Nordic,http://dbpedia.org/resource/TUI_fly_Nordic,37.51500000000001
+http://dbpedia.org/resource/Air_America_(airline),Air America (airline),http://dbpedia.org/resource/Air_America_(airline),37.415
+http://dbpedia.org/resource/Pronto_Airways,Pronto Airways,http://dbpedia.org/resource/Pronto_Airways,37.404999999999994
+http://dbpedia.org/resource/AeroLogic,AeroLogic,http://dbpedia.org/resource/AeroLogic,37.4
+http://dbpedia.org/resource/Flying_Tiger_Line,Flying Tiger Line,http://dbpedia.org/resource/Flying_Tiger_Line,37.38
+http://dbpedia.org/resource/Braniff_(1991–1992),Braniff (1991–1992),http://dbpedia.org/resource/Braniff_(1991–1992),37.335
+http://dbpedia.org/resource/Mihin_Lanka,Mihin Lanka,http://dbpedia.org/resource/Mihin_Lanka,37.28
+http://dbpedia.org/resource/Kenn_Borek_Air,Kenn Borek Air,http://dbpedia.org/resource/Kenn_Borek_Air,37.245
+http://dbpedia.org/resource/West_Air_(China),West Air (China),http://dbpedia.org/resource/West_Air_(China),37.195
+http://dbpedia.org/resource/Go!_(airline),Go! (airline),http://dbpedia.org/resource/Go!_(airline),37.145
+http://dbpedia.org/resource/Adam_Air,Adam Air,http://dbpedia.org/resource/Adam_Air,37.12
+http://dbpedia.org/resource/Bering_Air,Bering Air,http://dbpedia.org/resource/Bering_Air,37.115
+http://dbpedia.org/resource/Virgin_Australia_Airlines_(NZ),Virgin Australia Airlines (NZ),http://dbpedia.org/resource/Virgin_Australia_Airlines_(NZ),37.08
+http://dbpedia.org/resource/PLUNA,PLUNA,http://dbpedia.org/resource/PLUNA,37.050000000000004
+http://dbpedia.org/resource/Texel_Air,Texel Air,http://dbpedia.org/resource/Texel_Air,37.029999999999994
+http://dbpedia.org/resource/Eastar_Jet,Eastar Jet,http://dbpedia.org/resource/Eastar_Jet,37.005
+http://dbpedia.org/resource/Afriqiyah_Airways,Afriqiyah Airways,http://dbpedia.org/resource/Afriqiyah_Airways,36.964999999999996
+http://dbpedia.org/resource/Piedmont_Airlines_(1948–1989),Piedmont Airlines (1948–1989),http://dbpedia.org/resource/Piedmont_Airlines_(1948–1989),36.955000000000005
+http://dbpedia.org/resource/San_Francisco_and_Oakland_Helicopter_Airlines,San Francisco and Oakland Helicopter Airlines,http://dbpedia.org/resource/San_Francisco_and_Oakland_Helicopter_Airlines,36.955000000000005
+http://dbpedia.org/resource/Faucett_Perú,Faucett Perú,http://dbpedia.org/resource/Faucett_Perú,36.955
+http://dbpedia.org/resource/Voe_Minas_Gerais,Voe Minas Gerais,http://dbpedia.org/resource/Voe_Minas_Gerais,36.855
+http://dbpedia.org/resource/SAT_Airlines,SAT Airlines,http://dbpedia.org/resource/SAT_Airlines,36.835
+http://dbpedia.org/resource/Rio_Airways,Rio Airways,http://dbpedia.org/resource/Rio_Airways,36.835
+http://dbpedia.org/resource/Mount_Cook_Airline,Mount Cook Airline,http://dbpedia.org/resource/Mount_Cook_Airline,36.800000000000004
+http://dbpedia.org/resource/Island_Express_Air,Island Express Air,http://dbpedia.org/resource/Island_Express_Air,36.79
+http://dbpedia.org/resource/Hageland_Aviation_Services,Hageland Aviation Services,http://dbpedia.org/resource/Hageland_Aviation_Services,36.77
+http://dbpedia.org/resource/BRA_Transportes_Aéreos,BRA Transportes Aéreos,http://dbpedia.org/resource/BRA_Transportes_Aéreos,36.765
+http://dbpedia.org/resource/Hunting-Clan_Air_Transport,Hunting-Clan Air Transport,http://dbpedia.org/resource/Hunting-Clan_Air_Transport,36.68
+http://dbpedia.org/resource/Uganda_Airlines_(1976–2001),Uganda Airlines (1976–2001),http://dbpedia.org/resource/Uganda_Airlines_(1976–2001),36.67
+http://dbpedia.org/resource/1time,1time,http://dbpedia.org/resource/1time,36.63
+http://dbpedia.org/resource/NAC_Air,NAC Air,http://dbpedia.org/resource/NAC_Air,36.62499999999999
+http://dbpedia.org/resource/TUI_Airways,TUI Airways,http://dbpedia.org/resource/TUI_Airways,36.615
+http://dbpedia.org/resource/SETE_Linhas_Aéreas,SETE Linhas Aéreas,http://dbpedia.org/resource/SETE_Linhas_Aéreas,36.574999999999996
+http://dbpedia.org/resource/Rex_Airlines,Rex Airlines,http://dbpedia.org/resource/Rex_Airlines,36.550000000000004
+http://dbpedia.org/resource/Flair_Airlines,Flair Airlines,http://dbpedia.org/resource/Flair_Airlines,36.525
+http://dbpedia.org/resource/Arctic_Sunwest_Charters,Arctic Sunwest Charters,http://dbpedia.org/resource/Arctic_Sunwest_Charters,36.445
+http://dbpedia.org/resource/Skyways_Coach-Air_Limited,Skyways Coach-Air Limited,http://dbpedia.org/resource/Skyways_Coach-Air_Limited,36.434999999999995
+http://dbpedia.org/resource/Nella_Linhas_Aéreas,Nella Linhas Aéreas,http://dbpedia.org/resource/Nella_Linhas_Aéreas,36.385
+http://dbpedia.org/resource/Air_Transport_International,Air Transport International,http://dbpedia.org/resource/Air_Transport_International,36.300000000000004
+http://dbpedia.org/resource/Mahogany_Air,Mahogany Air,http://dbpedia.org/resource/Mahogany_Air,36.28
+http://dbpedia.org/resource/Orca_Airways,Orca Airways,http://dbpedia.org/resource/Orca_Airways,36.239999999999995
+http://dbpedia.org/resource/Kenmore_Air,Kenmore Air,http://dbpedia.org/resource/Kenmore_Air,36.155
+http://dbpedia.org/resource/Lancashire_Aircraft_Corporation,Lancashire Aircraft Corporation,http://dbpedia.org/resource/Lancashire_Aircraft_Corporation,36.15
+http://dbpedia.org/resource/Continental_Connection,Continental Connection,http://dbpedia.org/resource/Continental_Connection,36.145
+http://dbpedia.org/resource/V_Australia,V Australia,http://dbpedia.org/resource/V_Australia,36.13
+http://dbpedia.org/resource/Pacific_Air_Lines,Pacific Air Lines,http://dbpedia.org/resource/Pacific_Air_Lines,36.06
+http://dbpedia.org/resource/Ravn_Alaska,Ravn Alaska,http://dbpedia.org/resource/Ravn_Alaska,36.050000000000004
+http://dbpedia.org/resource/Air_Atlantic,Air Atlantic,http://dbpedia.org/resource/Air_Atlantic,35.915
+http://dbpedia.org/resource/Central_Airlines,Central Airlines,http://dbpedia.org/resource/Central_Airlines,35.910000000000004
+http://dbpedia.org/resource/Air_Mauritanie,Air Mauritanie,http://dbpedia.org/resource/Air_Mauritanie,35.830000000000005
+http://dbpedia.org/resource/Dalavia,Dalavia,http://dbpedia.org/resource/Dalavia,35.805
+http://dbpedia.org/resource/Deccan_Airways,Deccan Airways,http://dbpedia.org/resource/Deccan_Airways,35.77
+http://dbpedia.org/resource/Air_Inter,Air Inter,http://dbpedia.org/resource/Air_Inter,35.695
+http://dbpedia.org/resource/Freebird_Airlines_Europe,Freebird Airlines Europe,http://dbpedia.org/resource/Freebird_Airlines_Europe,35.69
+http://dbpedia.org/resource/Indonesia_AirAsia,Indonesia AirAsia,http://dbpedia.org/resource/Indonesia_AirAsia,35.68999999999999
+http://dbpedia.org/resource/Air_Seoul,Air Seoul,http://dbpedia.org/resource/Air_Seoul,35.665
+http://dbpedia.org/resource/Intair,Intair,http://dbpedia.org/resource/Intair,35.59
+http://dbpedia.org/resource/AirNet_Express,AirNet Express,http://dbpedia.org/resource/AirNet_Express,35.589999999999996
+http://dbpedia.org/resource/Malaysia–Singapore_Airlines,Malaysia–Singapore Airlines,http://dbpedia.org/resource/Malaysia–Singapore_Airlines,35.53
+http://dbpedia.org/resource/Aeropro,Aeropro,http://dbpedia.org/resource/Aeropro,35.5
+http://dbpedia.org/resource/Federal_Air,Federal Air,http://dbpedia.org/resource/Federal_Air,35.495
+http://dbpedia.org/resource/Maestro_(airline),Maestro (airline),http://dbpedia.org/resource/Maestro_(airline),35.470000000000006
+http://dbpedia.org/resource/Air_Côte_d'Ivoire,Air Côte d'Ivoire,http://dbpedia.org/resource/Air_Côte_d'Ivoire,35.435
+http://dbpedia.org/resource/Batik_Air_Malaysia,Batik Air Malaysia,http://dbpedia.org/resource/Batik_Air_Malaysia,35.42
+http://dbpedia.org/resource/Air_Nigeria,Air Nigeria,http://dbpedia.org/resource/Air_Nigeria,35.404999999999994
+http://dbpedia.org/resource/Ak_Bars_Aero,Ak Bars Aero,http://dbpedia.org/resource/Ak_Bars_Aero,35.385
+http://dbpedia.org/resource/Swiss_Global_Air_Lines,Swiss Global Air Lines,http://dbpedia.org/resource/Swiss_Global_Air_Lines,35.37
+http://dbpedia.org/resource/Sriwijaya_Air,Sriwijaya Air,http://dbpedia.org/resource/Sriwijaya_Air,35.35
+http://dbpedia.org/resource/Eastwind_Airlines,Eastwind Airlines,http://dbpedia.org/resource/Eastwind_Airlines,35.335
+http://dbpedia.org/resource/Air_Mikisew,Air Mikisew,http://dbpedia.org/resource/Air_Mikisew,35.294999999999995
+http://dbpedia.org/resource/Royal_Aviation,Royal Aviation,http://dbpedia.org/resource/Royal_Aviation,35.275
+http://dbpedia.org/resource/Air_Florida,Air Florida,http://dbpedia.org/resource/Air_Florida,35.275
+http://dbpedia.org/resource/Skyservice_Airlines,Skyservice Airlines,http://dbpedia.org/resource/Skyservice_Airlines,35.195
+http://dbpedia.org/resource/Pan_Am_Express,Pan Am Express,http://dbpedia.org/resource/Pan_Am_Express,35.184999999999995
+http://dbpedia.org/resource/Alliance_Airlines,Alliance Airlines,http://dbpedia.org/resource/Alliance_Airlines,35.085
+http://dbpedia.org/resource/Morris_Air,Morris Air,http://dbpedia.org/resource/Morris_Air,35.085
+http://dbpedia.org/resource/Frontier_Flying_Service,Frontier Flying Service,http://dbpedia.org/resource/Frontier_Flying_Service,35.08
+http://dbpedia.org/resource/Pacific_Airlines,Pacific Airlines,http://dbpedia.org/resource/Pacific_Airlines,35.045
+http://dbpedia.org/resource/Viva_Macau,Viva Macau,http://dbpedia.org/resource/Viva_Macau,34.945
+http://dbpedia.org/resource/Reeve_Aleutian_Airways,Reeve Aleutian Airways,http://dbpedia.org/resource/Reeve_Aleutian_Airways,34.9
+http://dbpedia.org/resource/Inter-Canadien,Inter-Canadien,http://dbpedia.org/resource/Inter-Canadien,34.87
+http://dbpedia.org/resource/Air_Zaïre,Air Zaïre,http://dbpedia.org/resource/Air_Zaïre,34.865
+http://dbpedia.org/resource/Vildanden_(airline),Vildanden (airline),http://dbpedia.org/resource/Vildanden_(airline),34.83
+http://dbpedia.org/resource/Southern_Airways_Express,Southern Airways Express,http://dbpedia.org/resource/Southern_Airways_Express,34.800000000000004
+http://dbpedia.org/resource/La_Compagnie,La Compagnie,http://dbpedia.org/resource/La_Compagnie,34.655
+http://dbpedia.org/resource/Greyhound_Air,Greyhound Air,http://dbpedia.org/resource/Greyhound_Air,34.654999999999994
+http://dbpedia.org/resource/Air_New_Orleans,Air New Orleans,http://dbpedia.org/resource/Air_New_Orleans,34.65
+http://dbpedia.org/resource/Skycraft_Air_Transport,Skycraft Air Transport,http://dbpedia.org/resource/Skycraft_Air_Transport,34.645
+http://dbpedia.org/resource/Astar_Air_Cargo,Astar Air Cargo,http://dbpedia.org/resource/Astar_Air_Cargo,34.64
+http://dbpedia.org/resource/Itapemirim_Transportes_Aéreos_(1990–2000),Itapemirim Transportes Aéreos (1990–2000),http://dbpedia.org/resource/Itapemirim_Transportes_Aéreos_(1990–2000),34.580000000000005
+http://dbpedia.org/resource/Thai_Smile,Thai Smile,http://dbpedia.org/resource/Thai_Smile,34.57500000000001
+http://dbpedia.org/resource/West_Coast_Air,West Coast Air,http://dbpedia.org/resource/West_Coast_Air,34.57
+http://dbpedia.org/resource/Transavia,Transavia,http://dbpedia.org/resource/Transavia,34.565
+http://dbpedia.org/resource/Keystone_Air_Service,Keystone Air Service,http://dbpedia.org/resource/Keystone_Air_Service,34.54
+http://dbpedia.org/resource/Shuttle_by_United,Shuttle by United,http://dbpedia.org/resource/Shuttle_by_United,34.49
+http://dbpedia.org/resource/Flyways_Linhas_Aéreas,Flyways Linhas Aéreas,http://dbpedia.org/resource/Flyways_Linhas_Aéreas,34.48500000000001
+http://dbpedia.org/resource/MAP_Linhas_Aéreas,MAP Linhas Aéreas,http://dbpedia.org/resource/MAP_Linhas_Aéreas,34.39000000000001
+http://dbpedia.org/resource/I-Fly,I-Fly,http://dbpedia.org/resource/I-Fly,34.309999999999995
+http://dbpedia.org/resource/Soundair,Soundair,http://dbpedia.org/resource/Soundair,34.26500000000001
+http://dbpedia.org/resource/Amerijet_International,Amerijet International,http://dbpedia.org/resource/Amerijet_International,34.23500000000001
+http://dbpedia.org/resource/City_Express,City Express,http://dbpedia.org/resource/City_Express,34.225
+http://dbpedia.org/resource/Deutsche_Zeppelin-Reederei,Deutsche Zeppelin-Reederei,http://dbpedia.org/resource/Deutsche_Zeppelin-Reederei,34.175000000000004
+http://dbpedia.org/resource/Integra_Air,Integra Air,http://dbpedia.org/resource/Integra_Air,34.155
+http://dbpedia.org/resource/Airtransit,Airtransit,http://dbpedia.org/resource/Airtransit,34.135000000000005
+http://dbpedia.org/resource/Air_Canada_Jetz,Air Canada Jetz,http://dbpedia.org/resource/Air_Canada_Jetz,34.125
+http://dbpedia.org/resource/Lone_Star_Airlines,Lone Star Airlines,http://dbpedia.org/resource/Lone_Star_Airlines,34.115
+http://dbpedia.org/resource/Canadian_Regional_Airlines,Canadian Regional Airlines,http://dbpedia.org/resource/Canadian_Regional_Airlines,34.115
+http://dbpedia.org/resource/Futura_International_Airways,Futura International Airways,http://dbpedia.org/resource/Futura_International_Airways,34.075
+http://dbpedia.org/resource/East_Star_Airlines,East Star Airlines,http://dbpedia.org/resource/East_Star_Airlines,34.055
+http://dbpedia.org/resource/Modern_Logistics,Modern Logistics,http://dbpedia.org/resource/Modern_Logistics,34.02
+http://dbpedia.org/resource/Wasaya_Airways,Wasaya Airways,http://dbpedia.org/resource/Wasaya_Airways,33.980000000000004
+http://dbpedia.org/resource/All_American_Aviation,All American Aviation,http://dbpedia.org/resource/All_American_Aviation,33.96
+http://dbpedia.org/resource/Fuji_Dream_Airlines,Fuji Dream Airlines,http://dbpedia.org/resource/Fuji_Dream_Airlines,33.94500000000001
+http://dbpedia.org/resource/Skyway_Airlines,Skyway Airlines,http://dbpedia.org/resource/Skyway_Airlines,33.919999999999995
+http://dbpedia.org/resource/Régional,Régional,http://dbpedia.org/resource/Régional,33.915
+http://dbpedia.org/resource/Aurigny,Aurigny,http://dbpedia.org/resource/Aurigny,33.895
+http://dbpedia.org/resource/Fly_Blue_Crane,Fly Blue Crane,http://dbpedia.org/resource/Fly_Blue_Crane,33.885
+http://dbpedia.org/resource/Golden_West_Airlines,Golden West Airlines,http://dbpedia.org/resource/Golden_West_Airlines,33.865
+http://dbpedia.org/resource/Aerosul_Linhas_Aéreas,Aerosul Linhas Aéreas,http://dbpedia.org/resource/Aerosul_Linhas_Aéreas,33.82
+http://dbpedia.org/resource/Copterline,Copterline,http://dbpedia.org/resource/Copterline,33.805
+http://dbpedia.org/resource/Alberta_Citylink,Alberta Citylink,http://dbpedia.org/resource/Alberta_Citylink,33.78
+http://dbpedia.org/resource/Bearskin_Airlines,Bearskin Airlines,http://dbpedia.org/resource/Bearskin_Airlines,33.755
+http://dbpedia.org/resource/AmericanConnection,AmericanConnection,http://dbpedia.org/resource/AmericanConnection,33.74
+http://dbpedia.org/resource/Philippines_AirAsia,Philippines AirAsia,http://dbpedia.org/resource/Philippines_AirAsia,33.72
+http://dbpedia.org/resource/Ultimate_Air_Shuttle,Ultimate Air Shuttle,http://dbpedia.org/resource/Ultimate_Air_Shuttle,33.71
+http://dbpedia.org/resource/BA_CityFlyer,BA CityFlyer,http://dbpedia.org/resource/BA_CityFlyer,33.695
+http://dbpedia.org/resource/Thomas_Cook_Airlines_Canada,Thomas Cook Airlines Canada,http://dbpedia.org/resource/Thomas_Cook_Airlines_Canada,33.66
+http://dbpedia.org/resource/Canadian_Helicopters,Canadian Helicopters,http://dbpedia.org/resource/Canadian_Helicopters,33.66
+http://dbpedia.org/resource/Midland_&_Scottish_Air_Ferries,Midland & Scottish Air Ferries,http://dbpedia.org/resource/Midland_&_Scottish_Air_Ferries,33.629999999999995
+http://dbpedia.org/resource/Air_Gaspé,Air Gaspé,http://dbpedia.org/resource/Air_Gaspé,33.629999999999995
+http://dbpedia.org/resource/Western_Pacific_Airlines,Western Pacific Airlines,http://dbpedia.org/resource/Western_Pacific_Airlines,33.615
+http://dbpedia.org/resource/Salt_Spring_Air,Salt Spring Air,http://dbpedia.org/resource/Salt_Spring_Air,33.56
+http://dbpedia.org/resource/Swedish_Coast_Guard,Swedish Coast Guard,http://dbpedia.org/resource/Swedish_Coast_Guard,33.56
+http://dbpedia.org/resource/Total_Linhas_Aéreas,Total Linhas Aéreas,http://dbpedia.org/resource/Total_Linhas_Aéreas,33.535
+http://dbpedia.org/resource/Somali_Airlines,Somali Airlines,http://dbpedia.org/resource/Somali_Airlines,33.47
+http://dbpedia.org/resource/Air_Mali_(1960–1989),Air Mali (1960–1989),http://dbpedia.org/resource/Air_Mali_(1960–1989),33.44
+http://dbpedia.org/resource/Carnival_Air_Lines,Carnival Air Lines,http://dbpedia.org/resource/Carnival_Air_Lines,33.42
+http://dbpedia.org/resource/Peace_Air,Peace Air,http://dbpedia.org/resource/Peace_Air,33.415
+http://dbpedia.org/resource/Delta_Private_Jets,Delta Private Jets,http://dbpedia.org/resource/Delta_Private_Jets,33.39000000000001
+http://dbpedia.org/resource/Wow_Air,Wow Air,http://dbpedia.org/resource/Wow_Air,33.355000000000004
+http://dbpedia.org/resource/Lamb_Air,Lamb Air,http://dbpedia.org/resource/Lamb_Air,33.345
+http://dbpedia.org/resource/Great_Lakes_Airlines_(Canada),Great Lakes Airlines (Canada),http://dbpedia.org/resource/Great_Lakes_Airlines_(Canada),33.31
+http://dbpedia.org/resource/Interair_South_Africa,Interair South Africa,http://dbpedia.org/resource/Interair_South_Africa,33.24
+http://dbpedia.org/resource/China_United_Airlines,China United Airlines,http://dbpedia.org/resource/China_United_Airlines,33.175000000000004
+http://dbpedia.org/resource/Millardair,Millardair,http://dbpedia.org/resource/Millardair,33.115
+http://dbpedia.org/resource/West_African_Airways_Corporation,West African Airways Corporation,http://dbpedia.org/resource/West_African_Airways_Corporation,33.105000000000004
+http://dbpedia.org/resource/Centurion_Air_Cargo,Centurion Air Cargo,http://dbpedia.org/resource/Centurion_Air_Cargo,33.095
+http://dbpedia.org/resource/Japan_Transocean_Air,Japan Transocean Air,http://dbpedia.org/resource/Japan_Transocean_Air,33.025
+http://dbpedia.org/resource/ViaAir,ViaAir,http://dbpedia.org/resource/ViaAir,33.004999999999995
+http://dbpedia.org/resource/Moskovia_Airlines,Moskovia Airlines,http://dbpedia.org/resource/Moskovia_Airlines,32.93
+http://dbpedia.org/resource/Saratov_Airlines,Saratov Airlines,http://dbpedia.org/resource/Saratov_Airlines,32.9
+http://dbpedia.org/resource/Lynx_Air,Lynx Air,http://dbpedia.org/resource/Lynx_Air,32.9
+http://dbpedia.org/resource/AirAsia_Japan,AirAsia Japan,http://dbpedia.org/resource/AirAsia_Japan,32.89
+http://dbpedia.org/resource/Air_Spray,Air Spray,http://dbpedia.org/resource/Air_Spray,32.885
+http://dbpedia.org/resource/Brava_Linhas_Aéreas,Brava Linhas Aéreas,http://dbpedia.org/resource/Brava_Linhas_Aéreas,32.87
+http://dbpedia.org/resource/Everts_Air,Everts Air,http://dbpedia.org/resource/Everts_Air,32.86
+http://dbpedia.org/resource/Air_Nova,Air Nova,http://dbpedia.org/resource/Air_Nova,32.845000000000006
+http://dbpedia.org/resource/Perimeter_Aviation,Perimeter Aviation,http://dbpedia.org/resource/Perimeter_Aviation,32.825
+http://dbpedia.org/resource/Air_Inuit,Air Inuit,http://dbpedia.org/resource/Air_Inuit,32.77
+http://dbpedia.org/resource/African_International_Airways,African International Airways,http://dbpedia.org/resource/African_International_Airways,32.76
+http://dbpedia.org/resource/Japan_Air_Commuter,Japan Air Commuter,http://dbpedia.org/resource/Japan_Air_Commuter,32.754999999999995
+http://dbpedia.org/resource/Lloyd_International_Airways,Lloyd International Airways,http://dbpedia.org/resource/Lloyd_International_Airways,32.73500000000001
+http://dbpedia.org/resource/Pacific_Coastal_Airlines,Pacific Coastal Airlines,http://dbpedia.org/resource/Pacific_Coastal_Airlines,32.714999999999996
+http://dbpedia.org/resource/XL_Airways_France,XL Airways France,http://dbpedia.org/resource/XL_Airways_France,32.705000000000005
+http://dbpedia.org/resource/Maritime_Central_Airways,Maritime Central Airways,http://dbpedia.org/resource/Maritime_Central_Airways,32.70000000000001
+http://dbpedia.org/resource/Boston-Maine_Airways,Boston-Maine Airways,http://dbpedia.org/resource/Boston-Maine_Airways,32.69500000000001
+http://dbpedia.org/resource/Flexjet,Flexjet,http://dbpedia.org/resource/Flexjet,32.67
+http://dbpedia.org/resource/Aer_Lingus_Regional,Aer Lingus Regional,http://dbpedia.org/resource/Aer_Lingus_Regional,32.645
+http://dbpedia.org/resource/TajAir,TajAir,http://dbpedia.org/resource/TajAir,32.615
+http://dbpedia.org/resource/Yamal_Airlines,Yamal Airlines,http://dbpedia.org/resource/Yamal_Airlines,32.525
+http://dbpedia.org/resource/Independence_Air,Independence Air,http://dbpedia.org/resource/Independence_Air,32.48500000000001
+http://dbpedia.org/resource/KD_Air,KD Air,http://dbpedia.org/resource/KD_Air,32.445
+http://dbpedia.org/resource/QuikAir,QuikAir,http://dbpedia.org/resource/QuikAir,32.425
+http://dbpedia.org/resource/Air_Dolomiti,Air Dolomiti,http://dbpedia.org/resource/Air_Dolomiti,32.42
+http://dbpedia.org/resource/Chalk's_International_Airlines,Chalk's International Airlines,http://dbpedia.org/resource/Chalk's_International_Airlines,32.395
+http://dbpedia.org/resource/Great_Wall_Airlines,Great Wall Airlines,http://dbpedia.org/resource/Great_Wall_Airlines,32.365
+http://dbpedia.org/resource/AllCanada_Express,AllCanada Express,http://dbpedia.org/resource/AllCanada_Express,32.34
+http://dbpedia.org/resource/Airlinair,Airlinair,http://dbpedia.org/resource/Airlinair,32.315
+http://dbpedia.org/resource/Orenburzhye,Orenburzhye,http://dbpedia.org/resource/Orenburzhye,32.305
+http://dbpedia.org/resource/Gulfstream_International_Airlines,Gulfstream International Airlines,http://dbpedia.org/resource/Gulfstream_International_Airlines,32.29
+http://dbpedia.org/resource/Air_Canada_Express,Air Canada Express,http://dbpedia.org/resource/Air_Canada_Express,32.275
+http://dbpedia.org/resource/Southern_Airways,Southern Airways,http://dbpedia.org/resource/Southern_Airways,32.23
+http://dbpedia.org/resource/ASTA_Linhas_Aéreas,ASTA Linhas Aéreas,http://dbpedia.org/resource/ASTA_Linhas_Aéreas,32.205000000000005
+http://dbpedia.org/resource/Air_Satellite,Air Satellite,http://dbpedia.org/resource/Air_Satellite,32.16
+http://dbpedia.org/resource/Comair_(United_States),Comair (United States),http://dbpedia.org/resource/Comair_(United_States),32.129999999999995
+http://dbpedia.org/resource/Merpati_Nusantara_Airlines,Merpati Nusantara Airlines,http://dbpedia.org/resource/Merpati_Nusantara_Airlines,32.115
+http://dbpedia.org/resource/Air_Illinois,Air Illinois,http://dbpedia.org/resource/Air_Illinois,32.105000000000004
+http://dbpedia.org/resource/Air_Changan,Air Changan,http://dbpedia.org/resource/Air_Changan,32.080000000000005
+http://dbpedia.org/resource/Canada_Jetlines,Canada Jetlines,http://dbpedia.org/resource/Canada_Jetlines,32.059999999999995
+http://dbpedia.org/resource/BWIA_West_Indies_Airways,BWIA West Indies Airways,http://dbpedia.org/resource/BWIA_West_Indies_Airways,32.059999999999995
+http://dbpedia.org/resource/Capitol_Air,Capitol Air,http://dbpedia.org/resource/Capitol_Air,32.045
+http://dbpedia.org/resource/AirQuarius_Aviation,AirQuarius Aviation,http://dbpedia.org/resource/AirQuarius_Aviation,32.035
+http://dbpedia.org/resource/Tibet_Airlines,Tibet Airlines,http://dbpedia.org/resource/Tibet_Airlines,31.939999999999998
+http://dbpedia.org/resource/Blue1,Blue1,http://dbpedia.org/resource/Blue1,31.925
+http://dbpedia.org/resource/Air_Leap,Air Leap,http://dbpedia.org/resource/Air_Leap,31.895
+http://dbpedia.org/resource/AOM_French_Airlines,AOM French Airlines,http://dbpedia.org/resource/AOM_French_Airlines,31.885000000000005
+http://dbpedia.org/resource/Cascade_Airways,Cascade Airways,http://dbpedia.org/resource/Cascade_Airways,31.879999999999995
+http://dbpedia.org/resource/Quebecair_Express,Quebecair Express,http://dbpedia.org/resource/Quebecair_Express,31.874999999999996
+http://dbpedia.org/resource/Pem-Air,Pem-Air,http://dbpedia.org/resource/Pem-Air,31.869999999999994
+http://dbpedia.org/resource/NLM_CityHopper,NLM CityHopper,http://dbpedia.org/resource/NLM_CityHopper,31.86
+http://dbpedia.org/resource/Lynx_Aviation,Lynx Aviation,http://dbpedia.org/resource/Lynx_Aviation,31.840000000000003
+http://dbpedia.org/resource/Golden_Bay_Air,Golden Bay Air,http://dbpedia.org/resource/Golden_Bay_Air,31.819999999999993
+http://dbpedia.org/resource/German_Airways,German Airways,http://dbpedia.org/resource/German_Airways,31.81
+http://dbpedia.org/resource/Batik_Air,Batik Air,http://dbpedia.org/resource/Batik_Air,31.78
+http://dbpedia.org/resource/Brock_Air_Services,Brock Air Services,http://dbpedia.org/resource/Brock_Air_Services,31.77
+http://dbpedia.org/resource/China_Northern_Airlines,China Northern Airlines,http://dbpedia.org/resource/China_Northern_Airlines,31.77
+http://dbpedia.org/resource/Transocean_Air_Lines,Transocean Air Lines,http://dbpedia.org/resource/Transocean_Air_Lines,31.77
+http://dbpedia.org/resource/Air_Choice_One,Air Choice One,http://dbpedia.org/resource/Air_Choice_One,31.735
+http://dbpedia.org/resource/Norsk_Air,Norsk Air,http://dbpedia.org/resource/Norsk_Air,31.729999999999997
+http://dbpedia.org/resource/Air_Union,Air Union,http://dbpedia.org/resource/Air_Union,31.680000000000003
+http://dbpedia.org/resource/Sunstate_Airlines,Sunstate Airlines,http://dbpedia.org/resource/Sunstate_Airlines,31.675
+http://dbpedia.org/resource/Command_Airways_(South_Africa),Command Airways (South Africa),http://dbpedia.org/resource/Command_Airways_(South_Africa),31.665
+http://dbpedia.org/resource/Interbrasil_STAR,Interbrasil STAR,http://dbpedia.org/resource/Interbrasil_STAR,31.654999999999998
+http://dbpedia.org/resource/Zambia_Airways,Zambia Airways,http://dbpedia.org/resource/Zambia_Airways,31.615
+http://dbpedia.org/resource/Spantax,Spantax,http://dbpedia.org/resource/Spantax,31.585000000000004
+http://dbpedia.org/resource/Northern_Air_Cargo,Northern Air Cargo,http://dbpedia.org/resource/Northern_Air_Cargo,31.580000000000002
+http://dbpedia.org/resource/Flybmi,Flybmi,http://dbpedia.org/resource/Flybmi,31.580000000000002
+http://dbpedia.org/resource/Pat_Bay_Air,Pat Bay Air,http://dbpedia.org/resource/Pat_Bay_Air,31.575000000000003
+http://dbpedia.org/resource/TransAsia_Airways,TransAsia Airways,http://dbpedia.org/resource/TransAsia_Airways,31.520000000000007
+http://dbpedia.org/resource/MarkAir,MarkAir,http://dbpedia.org/resource/MarkAir,31.510000000000005
+http://dbpedia.org/resource/Vistajet,Vistajet,http://dbpedia.org/resource/Vistajet,31.505000000000003
+http://dbpedia.org/resource/Airblue,Airblue,http://dbpedia.org/resource/Airblue,31.5
+http://dbpedia.org/resource/Atlantic_Coast_Airlines,Atlantic Coast Airlines,http://dbpedia.org/resource/Atlantic_Coast_Airlines,31.435
+http://dbpedia.org/resource/Air_Toronto,Air Toronto,http://dbpedia.org/resource/Air_Toronto,31.410000000000004
+http://dbpedia.org/resource/British_Airtours,British Airtours,http://dbpedia.org/resource/British_Airtours,31.400000000000002
+http://dbpedia.org/resource/Roots_Air,Roots Air,http://dbpedia.org/resource/Roots_Air,31.400000000000002
+http://dbpedia.org/resource/Winnport,Winnport,http://dbpedia.org/resource/Winnport,31.385000000000005
+http://dbpedia.org/resource/Aloha_Air_Cargo,Aloha Air Cargo,http://dbpedia.org/resource/Aloha_Air_Cargo,31.365
+http://dbpedia.org/resource/Pacific_Wings,Pacific Wings,http://dbpedia.org/resource/Pacific_Wings,31.35
+http://dbpedia.org/resource/Odyssey_International,Odyssey International,http://dbpedia.org/resource/Odyssey_International,31.33
+http://dbpedia.org/resource/Queen_Charlotte_Airlines,Queen Charlotte Airlines,http://dbpedia.org/resource/Queen_Charlotte_Airlines,31.320000000000007
+http://dbpedia.org/resource/Tailwind_Air,Tailwind Air,http://dbpedia.org/resource/Tailwind_Air,31.31
+http://dbpedia.org/resource/Alta_Flights,Alta Flights,http://dbpedia.org/resource/Alta_Flights,31.299999999999997
+http://dbpedia.org/resource/Pelita_Air,Pelita Air,http://dbpedia.org/resource/Pelita_Air,31.285000000000004
+http://dbpedia.org/resource/Aerolift,Aerolift,http://dbpedia.org/resource/Aerolift,31.245000000000005
+http://dbpedia.org/resource/Qantas_Freight,Qantas Freight,http://dbpedia.org/resource/Qantas_Freight,31.225
+http://dbpedia.org/resource/Ryan_Air_Services,Ryan Air Services,http://dbpedia.org/resource/Ryan_Air_Services,31.205000000000002
+http://dbpedia.org/resource/Air_Southwest_(Canada),Air Southwest (Canada),http://dbpedia.org/resource/Air_Southwest_(Canada),31.200000000000003
+http://dbpedia.org/resource/Baxter_Aviation,Baxter Aviation,http://dbpedia.org/resource/Baxter_Aviation,31.200000000000003
+http://dbpedia.org/resource/Ecuatoriana_de_Aviación,Ecuatoriana de Aviación,http://dbpedia.org/resource/Ecuatoriana_de_Aviación,31.160000000000004
+http://dbpedia.org/resource/Sierra_Pacific_Airlines,Sierra Pacific Airlines,http://dbpedia.org/resource/Sierra_Pacific_Airlines,31.135000000000005
+http://dbpedia.org/resource/Cherry_Red_Airline,Cherry Red Airline,http://dbpedia.org/resource/Cherry_Red_Airline,31.115
+http://dbpedia.org/resource/UTair_Express,UTair Express,http://dbpedia.org/resource/UTair_Express,31.084999999999997
+http://dbpedia.org/resource/Mid_Pacific_Air,Mid Pacific Air,http://dbpedia.org/resource/Mid_Pacific_Air,31.084999999999997
+http://dbpedia.org/resource/Ying'an_Airlines,Ying'an Airlines,http://dbpedia.org/resource/Ying'an_Airlines,31.065000000000005
+http://dbpedia.org/resource/Canadian_Colonial_Airways,Canadian Colonial Airways,http://dbpedia.org/resource/Canadian_Colonial_Airways,31.055000000000003
+http://dbpedia.org/resource/Atlantic_Airways,Atlantic Airways,http://dbpedia.org/resource/Atlantic_Airways,31.02
+http://dbpedia.org/resource/North_Star_Air,North Star Air,http://dbpedia.org/resource/North_Star_Air,30.960000000000004
+http://dbpedia.org/resource/Key_Airlines,Key Airlines,http://dbpedia.org/resource/Key_Airlines,30.955000000000002
+http://dbpedia.org/resource/Sky_Lease_Cargo,Sky Lease Cargo,http://dbpedia.org/resource/Sky_Lease_Cargo,30.949999999999996
+http://dbpedia.org/resource/Helijet,Helijet,http://dbpedia.org/resource/Helijet,30.940000000000005
+http://dbpedia.org/resource/Air_Alliance,Air Alliance,http://dbpedia.org/resource/Air_Alliance,30.935
+http://dbpedia.org/resource/Sonicblue_Airways,Sonicblue Airways,http://dbpedia.org/resource/Sonicblue_Airways,30.925
+http://dbpedia.org/resource/NAM_Air,NAM Air,http://dbpedia.org/resource/NAM_Air,30.915000000000006
+http://dbpedia.org/resource/Chrono_Aviation,Chrono Aviation,http://dbpedia.org/resource/Chrono_Aviation,30.895
+http://dbpedia.org/resource/StarFlyer,StarFlyer,http://dbpedia.org/resource/StarFlyer,30.885000000000005
+http://dbpedia.org/resource/Whitejets,Whitejets,http://dbpedia.org/resource/Whitejets,30.879999999999995
+http://dbpedia.org/resource/Cyprus_Airways_(1947–2015),Cyprus Airways (1947–2015),http://dbpedia.org/resource/Cyprus_Airways_(1947–2015),30.874999999999996
+http://dbpedia.org/resource/Wiggins_Airways,Wiggins Airways,http://dbpedia.org/resource/Wiggins_Airways,30.85
+http://dbpedia.org/resource/Aspen_Airways,Aspen Airways,http://dbpedia.org/resource/Aspen_Airways,30.830000000000002
+http://dbpedia.org/resource/BCWest_Air,BCWest Air,http://dbpedia.org/resource/BCWest_Air,30.81
+http://dbpedia.org/resource/Skyxpress_Airline,Skyxpress Airline,http://dbpedia.org/resource/Skyxpress_Airline,30.804999999999996
+http://dbpedia.org/resource/Waterfront_Air,Waterfront Air,http://dbpedia.org/resource/Waterfront_Air,30.784999999999997
+http://dbpedia.org/resource/Noar_Linhas_Aéreas,Noar Linhas Aéreas,http://dbpedia.org/resource/Noar_Linhas_Aéreas,30.779999999999998
+http://dbpedia.org/resource/Imperial_Air_Cargo,Imperial Air Cargo,http://dbpedia.org/resource/Imperial_Air_Cargo,30.765
+http://dbpedia.org/resource/Prince_Edward_Air,Prince Edward Air,http://dbpedia.org/resource/Prince_Edward_Air,30.74
+http://dbpedia.org/resource/Delta_Express,Delta Express,http://dbpedia.org/resource/Delta_Express,30.735
+http://dbpedia.org/resource/Powell_Air,Powell Air,http://dbpedia.org/resource/Powell_Air,30.729999999999997
+http://dbpedia.org/resource/Cruiser_Linhas_Aéreas,Cruiser Linhas Aéreas,http://dbpedia.org/resource/Cruiser_Linhas_Aéreas,30.685000000000002
+http://dbpedia.org/resource/Freedom_Airlines,Freedom Airlines,http://dbpedia.org/resource/Freedom_Airlines,30.675
+http://dbpedia.org/resource/Kato_Airline,Kato Airline,http://dbpedia.org/resource/Kato_Airline,30.659999999999997
+http://dbpedia.org/resource/Norse_Air,Norse Air,http://dbpedia.org/resource/Norse_Air,30.645000000000007
+http://dbpedia.org/resource/Skywise_(airline),Skywise (airline),http://dbpedia.org/resource/Skywise_(airline),30.640000000000004
+http://dbpedia.org/resource/Colonial_Airlines_(Canada),Colonial Airlines (Canada),http://dbpedia.org/resource/Colonial_Airlines_(Canada),30.630000000000003
+http://dbpedia.org/resource/Viva_Air_Colombia,Viva Air Colombia,http://dbpedia.org/resource/Viva_Air_Colombia,30.595000000000006
+http://dbpedia.org/resource/Real_Transportes_Aéreos,Real Transportes Aéreos,http://dbpedia.org/resource/Real_Transportes_Aéreos,30.590000000000003
+http://dbpedia.org/resource/Virgin_Express,Virgin Express,http://dbpedia.org/resource/Virgin_Express,30.59
+http://dbpedia.org/resource/Royal_Air_Philippines,Royal Air Philippines,http://dbpedia.org/resource/Royal_Air_Philippines,30.59
+http://dbpedia.org/resource/Grand_Canyon_Scenic_Airlines,Grand Canyon Scenic Airlines,http://dbpedia.org/resource/Grand_Canyon_Scenic_Airlines,30.585000000000004
+http://dbpedia.org/resource/Air_Fecteau,Air Fecteau,http://dbpedia.org/resource/Air_Fecteau,30.564999999999998
+http://dbpedia.org/resource/Calm_Air,Calm Air,http://dbpedia.org/resource/Calm_Air,30.555000000000003
+http://dbpedia.org/resource/Justice_Prisoner_and_Alien_Transportation_System,Justice Prisoner and Alien Transportation System,http://dbpedia.org/resource/Justice_Prisoner_and_Alien_Transportation_System,30.529999999999998
+http://dbpedia.org/resource/TAR_Aerolíneas,TAR Aerolíneas,http://dbpedia.org/resource/TAR_Aerolíneas,30.495
+http://dbpedia.org/resource/Helisul_Linhas_Aéreas,Helisul Linhas Aéreas,http://dbpedia.org/resource/Helisul_Linhas_Aéreas,30.495
+http://dbpedia.org/resource/Trans-Provincial_Airlines,Trans-Provincial Airlines,http://dbpedia.org/resource/Trans-Provincial_Airlines,30.449999999999996
+http://dbpedia.org/resource/TAT_European_Airlines,TAT European Airlines,http://dbpedia.org/resource/TAT_European_Airlines,30.42
+http://dbpedia.org/resource/Air_Caraïbes,Air Caraïbes,http://dbpedia.org/resource/Air_Caraïbes,30.400000000000002
+http://dbpedia.org/resource/Coast_Aero_Center,Coast Aero Center,http://dbpedia.org/resource/Coast_Aero_Center,30.380000000000003
+http://dbpedia.org/resource/Ontario_Express,Ontario Express,http://dbpedia.org/resource/Ontario_Express,30.379999999999995
+http://dbpedia.org/resource/Norwegian_Air_UK,Norwegian Air UK,http://dbpedia.org/resource/Norwegian_Air_UK,30.375000000000007
+http://dbpedia.org/resource/Denver_Air_Connection,Denver Air Connection,http://dbpedia.org/resource/Denver_Air_Connection,30.310000000000002
+http://dbpedia.org/resource/NAB_–_Navegação_Aérea_Brasileira,NAB – Navegação Aérea Brasileira,http://dbpedia.org/resource/NAB_–_Navegação_Aérea_Brasileira,30.304999999999996
+http://dbpedia.org/resource/Swanberg_Air,Swanberg Air,http://dbpedia.org/resource/Swanberg_Air,30.255000000000003
+http://dbpedia.org/resource/Arajet,Arajet,http://dbpedia.org/resource/Arajet,30.254999999999995
+http://dbpedia.org/resource/Corporate_Express_(airline),Corporate Express (airline),http://dbpedia.org/resource/Corporate_Express_(airline),30.25
+http://dbpedia.org/resource/Best_Airlines,Best Airlines,http://dbpedia.org/resource/Best_Airlines,30.224999999999994
+http://dbpedia.org/resource/Bouraq_Airlines,Bouraq Airlines,http://dbpedia.org/resource/Bouraq_Airlines,30.14
+http://dbpedia.org/resource/Via_Brasil_Linhas_Aéreas,Via Brasil Linhas Aéreas,http://dbpedia.org/resource/Via_Brasil_Linhas_Aéreas,30.115
+http://dbpedia.org/resource/Air_Charter_Limited,Air Charter Limited,http://dbpedia.org/resource/Air_Charter_Limited,30.1
+http://dbpedia.org/resource/Omni_Air_International,Omni Air International,http://dbpedia.org/resource/Omni_Air_International,30.045
+http://dbpedia.org/resource/Polet_Airlines,Polet Airlines,http://dbpedia.org/resource/Polet_Airlines,30.02
+http://dbpedia.org/resource/Darwin_Airline,Darwin Airline,http://dbpedia.org/resource/Darwin_Airline,30.004999999999995
+http://dbpedia.org/resource/Southern_Frontier_Airlines,Southern Frontier Airlines,http://dbpedia.org/resource/Southern_Frontier_Airlines,29.969999999999995
+http://dbpedia.org/resource/China_Southwest_Airlines,China Southwest Airlines,http://dbpedia.org/resource/China_Southwest_Airlines,29.950000000000003
+http://dbpedia.org/resource/Advanced_Air,Advanced Air,http://dbpedia.org/resource/Advanced_Air,29.945
+http://dbpedia.org/resource/Azimuth_(airline),Azimuth (airline),http://dbpedia.org/resource/Azimuth_(airline),29.910000000000004
+http://dbpedia.org/resource/Air_Tindi,Air Tindi,http://dbpedia.org/resource/Air_Tindi,29.909999999999997
+http://dbpedia.org/resource/Knighthawk_Air_Express,Knighthawk Air Express,http://dbpedia.org/resource/Knighthawk_Air_Express,29.865000000000006
+http://dbpedia.org/resource/Civil_Air_Transport,Civil Air Transport,http://dbpedia.org/resource/Civil_Air_Transport,29.865
+http://dbpedia.org/resource/Caricom_Airways,Caricom Airways,http://dbpedia.org/resource/Caricom_Airways,29.854999999999997
+http://dbpedia.org/resource/Sky_Shuttle,Sky Shuttle,http://dbpedia.org/resource/Sky_Shuttle,29.845
+http://dbpedia.org/resource/Piquiatuba_Transportes_Aéreos,Piquiatuba Transportes Aéreos,http://dbpedia.org/resource/Piquiatuba_Transportes_Aéreos,29.830000000000002
+http://dbpedia.org/resource/Altair_Airlines,Altair Airlines,http://dbpedia.org/resource/Altair_Airlines,29.824999999999996
+http://dbpedia.org/resource/Contact_Air,Contact Air,http://dbpedia.org/resource/Contact_Air,29.814999999999998
+http://dbpedia.org/resource/Estonian_Air,Estonian Air,http://dbpedia.org/resource/Estonian_Air,29.81
+http://dbpedia.org/resource/Kitty_Hawk_Aircargo,Kitty Hawk Aircargo,http://dbpedia.org/resource/Kitty_Hawk_Aircargo,29.730000000000004
+http://dbpedia.org/resource/SeaPort_Airlines,SeaPort Airlines,http://dbpedia.org/resource/SeaPort_Airlines,29.72
+http://dbpedia.org/resource/People_Express_Airlines_(2010s),People Express Airlines (2010s),http://dbpedia.org/resource/People_Express_Airlines_(2010s),29.695
+http://dbpedia.org/resource/Superior_Air_Charter,Superior Air Charter,http://dbpedia.org/resource/Superior_Air_Charter,29.685
+http://dbpedia.org/resource/Surf_Air,Surf Air,http://dbpedia.org/resource/Surf_Air,29.680000000000003
+http://dbpedia.org/resource/Peach_Aviation,Peach Aviation,http://dbpedia.org/resource/Peach_Aviation,29.679999999999996
+http://dbpedia.org/resource/Globemaster_Air_Cargo,Globemaster Air Cargo,http://dbpedia.org/resource/Globemaster_Air_Cargo,29.675
+http://dbpedia.org/resource/Cambodia_Angkor_Air,Cambodia Angkor Air,http://dbpedia.org/resource/Cambodia_Angkor_Air,29.655
+http://dbpedia.org/resource/Swoop_(airline),Swoop (airline),http://dbpedia.org/resource/Swoop_(airline),29.640000000000004
+http://dbpedia.org/resource/Servant_Air,Servant Air,http://dbpedia.org/resource/Servant_Air,29.640000000000004
+http://dbpedia.org/resource/Southern_Air,Southern Air,http://dbpedia.org/resource/Southern_Air,29.634999999999998
+http://dbpedia.org/resource/Phoebus_Apollo_Aviation,Phoebus Apollo Aviation,http://dbpedia.org/resource/Phoebus_Apollo_Aviation,29.630000000000003
+http://dbpedia.org/resource/Avianca_Cargo,Avianca Cargo,http://dbpedia.org/resource/Avianca_Cargo,29.594999999999995
+http://dbpedia.org/resource/Val_Air,Val Air,http://dbpedia.org/resource/Val_Air,29.580000000000002
+http://dbpedia.org/resource/Trans_International_Airlines,Trans International Airlines,http://dbpedia.org/resource/Trans_International_Airlines,29.575000000000003
+http://dbpedia.org/resource/SATENA,SATENA,http://dbpedia.org/resource/SATENA,29.564999999999998
+http://dbpedia.org/resource/Egoli_Air,Egoli Air,http://dbpedia.org/resource/Egoli_Air,29.505000000000003

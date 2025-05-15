@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/New_York_City,New York City,http://dbpedia.org/resource/New_York_City,1493.375
+http://dbpedia.org/resource/London,London,http://dbpedia.org/resource/London,1376.815
+"http://dbpedia.org/resource/Washington,_D.C.","Washington, D.C.","http://dbpedia.org/resource/Washington,_D.C.",816.475
+http://dbpedia.org/resource/Chicago,Chicago,http://dbpedia.org/resource/Chicago,796.6550000000001
+http://dbpedia.org/resource/Los_Angeles,Los Angeles,http://dbpedia.org/resource/Los_Angeles,758.1650000000001
+http://dbpedia.org/resource/Philadelphia,Philadelphia,http://dbpedia.org/resource/Philadelphia,701.58
+http://dbpedia.org/resource/Beijing,Beijing,http://dbpedia.org/resource/Beijing,655.2850000000001
+http://dbpedia.org/resource/Sydney,Sydney,http://dbpedia.org/resource/Sydney,650.8200000000002
+http://dbpedia.org/resource/Berlin,Berlin,http://dbpedia.org/resource/Berlin,618.8100000000001
+http://dbpedia.org/resource/Tokyo,Tokyo,http://dbpedia.org/resource/Tokyo,602.07
+http://dbpedia.org/resource/Rome,Rome,http://dbpedia.org/resource/Rome,600.8300000000002
+http://dbpedia.org/resource/Toronto,Toronto,http://dbpedia.org/resource/Toronto,584.4350000000001
+http://dbpedia.org/resource/Boston,Boston,http://dbpedia.org/resource/Boston,579.485
+http://dbpedia.org/resource/San_Francisco,San Francisco,http://dbpedia.org/resource/San_Francisco,579.4599999999999
+http://dbpedia.org/resource/Madrid,Madrid,http://dbpedia.org/resource/Madrid,561.585
+http://dbpedia.org/resource/Moscow,Moscow,http://dbpedia.org/resource/Moscow,557.52
+http://dbpedia.org/resource/Melbourne,Melbourne,http://dbpedia.org/resource/Melbourne,535.3900000000001
+http://dbpedia.org/resource/Birmingham,Birmingham,http://dbpedia.org/resource/Birmingham,518.28
+http://dbpedia.org/resource/Montreal,Montreal,http://dbpedia.org/resource/Montreal,516.42
+http://dbpedia.org/resource/Athens,Athens,http://dbpedia.org/resource/Athens,515.6400000000001
+http://dbpedia.org/resource/Jerusalem,Jerusalem,http://dbpedia.org/resource/Jerusalem,513.98
+http://dbpedia.org/resource/Buenos_Aires,Buenos Aires,http://dbpedia.org/resource/Buenos_Aires,510.22
+http://dbpedia.org/resource/Dublin,Dublin,http://dbpedia.org/resource/Dublin,508.24000000000007
+http://dbpedia.org/resource/Guangzhou,Guangzhou,http://dbpedia.org/resource/Guangzhou,506.65999999999997
+http://dbpedia.org/resource/Edinburgh,Edinburgh,http://dbpedia.org/resource/Edinburgh,506.62999999999994
+http://dbpedia.org/resource/Chennai,Chennai,http://dbpedia.org/resource/Chennai,498.55
+http://dbpedia.org/resource/Glasgow,Glasgow,http://dbpedia.org/resource/Glasgow,496.83000000000004
+http://dbpedia.org/resource/Liverpool,Liverpool,http://dbpedia.org/resource/Liverpool,495.2249999999999
+http://dbpedia.org/resource/Mumbai,Mumbai,http://dbpedia.org/resource/Mumbai,480.68000000000006
+http://dbpedia.org/resource/Budapest,Budapest,http://dbpedia.org/resource/Budapest,474.91499999999996
+http://dbpedia.org/resource/Barcelona,Barcelona,http://dbpedia.org/resource/Barcelona,474.34
+http://dbpedia.org/resource/Warsaw,Warsaw,http://dbpedia.org/resource/Warsaw,471.77500000000003
+http://dbpedia.org/resource/Hamburg,Hamburg,http://dbpedia.org/resource/Hamburg,471.27500000000003
+http://dbpedia.org/resource/New_York_metropolitan_area,New York metropolitan area,http://dbpedia.org/resource/New_York_metropolitan_area,469.135
+http://dbpedia.org/resource/Amsterdam,Amsterdam,http://dbpedia.org/resource/Amsterdam,466.1
+http://dbpedia.org/resource/Vilnius,Vilnius,http://dbpedia.org/resource/Vilnius,464.725
+http://dbpedia.org/resource/Minneapolis,Minneapolis,http://dbpedia.org/resource/Minneapolis,461.965
+http://dbpedia.org/resource/Copenhagen,Copenhagen,http://dbpedia.org/resource/Copenhagen,461.31000000000006
+http://dbpedia.org/resource/Munich,Munich,http://dbpedia.org/resource/Munich,455.75499999999994
+http://dbpedia.org/resource/Pittsburgh,Pittsburgh,http://dbpedia.org/resource/Pittsburgh,455.1600000000001
+http://dbpedia.org/resource/Houston,Houston,http://dbpedia.org/resource/Houston,453.56999999999994
+http://dbpedia.org/resource/Manchester,Manchester,http://dbpedia.org/resource/Manchester,442.49000000000007
+http://dbpedia.org/resource/Dallas,Dallas,http://dbpedia.org/resource/Dallas,440.64
+http://dbpedia.org/resource/Shenzhen,Shenzhen,http://dbpedia.org/resource/Shenzhen,440.20500000000004
+http://dbpedia.org/resource/Detroit,Detroit,http://dbpedia.org/resource/Detroit,438.40000000000003
+http://dbpedia.org/resource/Baltimore,Baltimore,http://dbpedia.org/resource/Baltimore,437.55
+http://dbpedia.org/resource/Indianapolis,Indianapolis,http://dbpedia.org/resource/Indianapolis,437.5
+http://dbpedia.org/resource/Mexico_City,Mexico City,http://dbpedia.org/resource/Mexico_City,436.885
+http://dbpedia.org/resource/Vienna,Vienna,http://dbpedia.org/resource/Vienna,436.2200000000001
+http://dbpedia.org/resource/Belgrade,Belgrade,http://dbpedia.org/resource/Belgrade,433.32500000000005
+http://dbpedia.org/resource/Cleveland,Cleveland,http://dbpedia.org/resource/Cleveland,432.87999999999994
+http://dbpedia.org/resource/Oslo,Oslo,http://dbpedia.org/resource/Oslo,429.465
+http://dbpedia.org/resource/Thessaloniki,Thessaloniki,http://dbpedia.org/resource/Thessaloniki,427.1
+http://dbpedia.org/resource/New_Orleans,New Orleans,http://dbpedia.org/resource/New_Orleans,414.09
+http://dbpedia.org/resource/San_Diego,San Diego,http://dbpedia.org/resource/San_Diego,412.24
+http://dbpedia.org/resource/Brisbane,Brisbane,http://dbpedia.org/resource/Brisbane,410.375
+"http://dbpedia.org/resource/San_Jose,_California","San Jose, California","http://dbpedia.org/resource/San_Jose,_California",409.89
+"http://dbpedia.org/resource/Buffalo,_New_York","Buffalo, New York","http://dbpedia.org/resource/Buffalo,_New_York",409.605
+http://dbpedia.org/resource/Karachi,Karachi,http://dbpedia.org/resource/Karachi,405.12
+http://dbpedia.org/resource/Miami,Miami,http://dbpedia.org/resource/Miami,401.28000000000003
+http://dbpedia.org/resource/Nanjing,Nanjing,http://dbpedia.org/resource/Nanjing,399.81500000000005
+http://dbpedia.org/resource/Kolkata,Kolkata,http://dbpedia.org/resource/Kolkata,398.285
+http://dbpedia.org/resource/Seattle,Seattle,http://dbpedia.org/resource/Seattle,396.615
+http://dbpedia.org/resource/Johannesburg,Johannesburg,http://dbpedia.org/resource/Johannesburg,396.375
+"http://dbpedia.org/resource/Newark,_New_Jersey","Newark, New Jersey","http://dbpedia.org/resource/Newark,_New_Jersey",395.09
+"http://dbpedia.org/resource/Columbus,_Ohio","Columbus, Ohio","http://dbpedia.org/resource/Columbus,_Ohio",392.545
+"http://dbpedia.org/resource/Nashville,_Tennessee","Nashville, Tennessee","http://dbpedia.org/resource/Nashville,_Tennessee",391.595
+http://dbpedia.org/resource/Vancouver,Vancouver,http://dbpedia.org/resource/Vancouver,391.2950000000001
+http://dbpedia.org/resource/Wuhan,Wuhan,http://dbpedia.org/resource/Wuhan,388.995
+http://dbpedia.org/resource/Edmonton,Edmonton,http://dbpedia.org/resource/Edmonton,384.56500000000005
+http://dbpedia.org/resource/Helsinki,Helsinki,http://dbpedia.org/resource/Helsinki,382.015
+http://dbpedia.org/resource/Prague,Prague,http://dbpedia.org/resource/Prague,381.19000000000005
+http://dbpedia.org/resource/Cardiff,Cardiff,http://dbpedia.org/resource/Cardiff,379.27500000000003
+http://dbpedia.org/resource/Bristol,Bristol,http://dbpedia.org/resource/Bristol,376.285
+http://dbpedia.org/resource/Ottawa,Ottawa,http://dbpedia.org/resource/Ottawa,372.72
+"http://dbpedia.org/resource/Charlotte,_North_Carolina","Charlotte, North Carolina","http://dbpedia.org/resource/Charlotte,_North_Carolina",365.80500000000006
+http://dbpedia.org/resource/Newcastle_upon_Tyne,Newcastle upon Tyne,http://dbpedia.org/resource/Newcastle_upon_Tyne,363.42
+http://dbpedia.org/resource/St._Louis,St. Louis,http://dbpedia.org/resource/St._Louis,362.24
+http://dbpedia.org/resource/Seoul,Seoul,http://dbpedia.org/resource/Seoul,361.55
+http://dbpedia.org/resource/Chengdu,Chengdu,http://dbpedia.org/resource/Chengdu,360.59
+"http://dbpedia.org/resource/Atlantic_City,_New_Jersey","Atlantic City, New Jersey","http://dbpedia.org/resource/Atlantic_City,_New_Jersey",359.6
+"http://dbpedia.org/resource/Jacksonville,_Florida","Jacksonville, Florida","http://dbpedia.org/resource/Jacksonville,_Florida",359.555
+http://dbpedia.org/resource/Lisbon,Lisbon,http://dbpedia.org/resource/Lisbon,359.05
+http://dbpedia.org/resource/Calgary,Calgary,http://dbpedia.org/resource/Calgary,355.68
+"http://dbpedia.org/resource/Richmond,_Virginia","Richmond, Virginia","http://dbpedia.org/resource/Richmond,_Virginia",353.945
+http://dbpedia.org/resource/Kyiv,Kyiv,http://dbpedia.org/resource/Kyiv,353.46500000000003
+http://dbpedia.org/resource/Cape_Town,Cape Town,http://dbpedia.org/resource/Cape_Town,352.40500000000003
+"http://dbpedia.org/resource/Orlando,_Florida","Orlando, Florida","http://dbpedia.org/resource/Orlando,_Florida",350.25
+http://dbpedia.org/resource/Zagreb,Zagreb,http://dbpedia.org/resource/Zagreb,349.94500000000005
+"http://dbpedia.org/resource/Phoenix,_Arizona","Phoenix, Arizona","http://dbpedia.org/resource/Phoenix,_Arizona",346.725
+http://dbpedia.org/resource/Havana,Havana,http://dbpedia.org/resource/Havana,341.385
+http://dbpedia.org/resource/Kuala_Lumpur,Kuala Lumpur,http://dbpedia.org/resource/Kuala_Lumpur,340.86
+http://dbpedia.org/resource/Bangalore,Bangalore,http://dbpedia.org/resource/Bangalore,340.71000000000004
+http://dbpedia.org/resource/Denver,Denver,http://dbpedia.org/resource/Denver,340.14
+"http://dbpedia.org/resource/Camden,_New_Jersey","Camden, New Jersey","http://dbpedia.org/resource/Camden,_New_Jersey",339.44
+http://dbpedia.org/resource/Cairo,Cairo,http://dbpedia.org/resource/Cairo,338.3
+http://dbpedia.org/resource/Hangzhou,Hangzhou,http://dbpedia.org/resource/Hangzhou,338.035
+"http://dbpedia.org/resource/Oakland,_California","Oakland, California","http://dbpedia.org/resource/Oakland,_California",336.52500000000003
+http://dbpedia.org/resource/Shenyang,Shenyang,http://dbpedia.org/resource/Shenyang,334.41
+"http://dbpedia.org/resource/Louisville,_Kentucky","Louisville, Kentucky","http://dbpedia.org/resource/Louisville,_Kentucky",334.405
+http://dbpedia.org/resource/Frankfurt,Frankfurt,http://dbpedia.org/resource/Frankfurt,333.54
+http://dbpedia.org/resource/Portsmouth,Portsmouth,http://dbpedia.org/resource/Portsmouth,332.23500000000007
+"http://dbpedia.org/resource/Raleigh,_North_Carolina","Raleigh, North Carolina","http://dbpedia.org/resource/Raleigh,_North_Carolina",330.17
+"http://dbpedia.org/resource/Tampa,_Florida","Tampa, Florida","http://dbpedia.org/resource/Tampa,_Florida",327.95000000000005
+http://dbpedia.org/resource/Varanasi,Varanasi,http://dbpedia.org/resource/Varanasi,327.09000000000003
+http://dbpedia.org/resource/Bergen,Bergen,http://dbpedia.org/resource/Bergen,325.65
+"http://dbpedia.org/resource/Memphis,_Tennessee","Memphis, Tennessee","http://dbpedia.org/resource/Memphis,_Tennessee",325.37
+http://dbpedia.org/resource/Hyderabad,Hyderabad,http://dbpedia.org/resource/Hyderabad,322.46500000000003
+"http://dbpedia.org/resource/Jersey_City,_New_Jersey","Jersey City, New Jersey","http://dbpedia.org/resource/Jersey_City,_New_Jersey",322.075
+http://dbpedia.org/resource/Stuttgart,Stuttgart,http://dbpedia.org/resource/Stuttgart,321.94
+http://dbpedia.org/resource/Cincinnati,Cincinnati,http://dbpedia.org/resource/Cincinnati,320.81500000000005
+http://dbpedia.org/resource/Harbin,Harbin,http://dbpedia.org/resource/Harbin,319.6600000000001
+"http://dbpedia.org/resource/Bridgeport,_Connecticut","Bridgeport, Connecticut","http://dbpedia.org/resource/Bridgeport,_Connecticut",319.61
+"http://dbpedia.org/resource/Paterson,_New_Jersey","Paterson, New Jersey","http://dbpedia.org/resource/Paterson,_New_Jersey",318.60999999999996
+"http://dbpedia.org/resource/New_Haven,_Connecticut","New Haven, Connecticut","http://dbpedia.org/resource/New_Haven,_Connecticut",318.26000000000005
+"http://dbpedia.org/resource/Madison,_Wisconsin","Madison, Wisconsin","http://dbpedia.org/resource/Madison,_Wisconsin",315.57500000000005
+http://dbpedia.org/resource/Canberra,Canberra,http://dbpedia.org/resource/Canberra,315.345
+http://dbpedia.org/resource/Milwaukee,Milwaukee,http://dbpedia.org/resource/Milwaukee,314.72
+"http://dbpedia.org/resource/Omaha,_Nebraska","Omaha, Nebraska","http://dbpedia.org/resource/Omaha,_Nebraska",314.3
+http://dbpedia.org/resource/Bucharest,Bucharest,http://dbpedia.org/resource/Bucharest,311.305
+http://dbpedia.org/resource/Ljubljana,Ljubljana,http://dbpedia.org/resource/Ljubljana,310.7850000000001
+http://dbpedia.org/resource/Yerevan,Yerevan,http://dbpedia.org/resource/Yerevan,310.465
+http://dbpedia.org/resource/Lahore,Lahore,http://dbpedia.org/resource/Lahore,310.395
+http://dbpedia.org/resource/Sofia,Sofia,http://dbpedia.org/resource/Sofia,307.675
+http://dbpedia.org/resource/Kingston_upon_Hull,Kingston upon Hull,http://dbpedia.org/resource/Kingston_upon_Hull,307.26500000000004
+http://dbpedia.org/resource/Tehran,Tehran,http://dbpedia.org/resource/Tehran,306.925
+"http://dbpedia.org/resource/Spokane,_Washington","Spokane, Washington","http://dbpedia.org/resource/Spokane,_Washington",306.76
+http://dbpedia.org/resource/Tallinn,Tallinn,http://dbpedia.org/resource/Tallinn,306.16
+http://dbpedia.org/resource/Baku,Baku,http://dbpedia.org/resource/Baku,304.77500000000003
+"http://dbpedia.org/resource/Kansas_City,_Missouri","Kansas City, Missouri","http://dbpedia.org/resource/Kansas_City,_Missouri",304.175
+"http://dbpedia.org/resource/Long_Beach,_California","Long Beach, California","http://dbpedia.org/resource/Long_Beach,_California",303.76000000000005
+"http://dbpedia.org/resource/New_Brunswick,_New_Jersey","New Brunswick, New Jersey","http://dbpedia.org/resource/New_Brunswick,_New_Jersey",303.76
+http://dbpedia.org/resource/Dalian,Dalian,http://dbpedia.org/resource/Dalian,303.485
+http://dbpedia.org/resource/Xiamen,Xiamen,http://dbpedia.org/resource/Xiamen,299.62499999999994
+http://dbpedia.org/resource/Tel_Aviv,Tel Aviv,http://dbpedia.org/resource/Tel_Aviv,298.26
+http://dbpedia.org/resource/Dubai,Dubai,http://dbpedia.org/resource/Dubai,296.235
+"http://dbpedia.org/resource/Fort_Worth,_Texas","Fort Worth, Texas","http://dbpedia.org/resource/Fort_Worth,_Texas",296.195
+http://dbpedia.org/resource/Dhaka,Dhaka,http://dbpedia.org/resource/Dhaka,296.065
+"http://dbpedia.org/resource/Sacramento,_California","Sacramento, California","http://dbpedia.org/resource/Sacramento,_California",292.9750000000001
+http://dbpedia.org/resource/San_Antonio,San Antonio,http://dbpedia.org/resource/San_Antonio,292.89000000000004
+http://dbpedia.org/resource/Kunming,Kunming,http://dbpedia.org/resource/Kunming,292.35
+http://dbpedia.org/resource/Greater_Los_Angeles,Greater Los Angeles,http://dbpedia.org/resource/Greater_Los_Angeles,290.6
+http://dbpedia.org/resource/Adelaide,Adelaide,http://dbpedia.org/resource/Adelaide,288.76500000000004
+"http://dbpedia.org/resource/Springfield,_Massachusetts","Springfield, Massachusetts","http://dbpedia.org/resource/Springfield,_Massachusetts",288.35
+"http://dbpedia.org/resource/El_Paso,_Texas","El Paso, Texas","http://dbpedia.org/resource/El_Paso,_Texas",286.625
+http://dbpedia.org/resource/Pune,Pune,http://dbpedia.org/resource/Pune,285.675
+http://dbpedia.org/resource/Aleppo,Aleppo,http://dbpedia.org/resource/Aleppo,285.285
+http://dbpedia.org/resource/Changsha,Changsha,http://dbpedia.org/resource/Changsha,285.24
+http://dbpedia.org/resource/Wellington,Wellington,http://dbpedia.org/resource/Wellington,284.75
+"http://dbpedia.org/resource/Albuquerque,_New_Mexico","Albuquerque, New Mexico","http://dbpedia.org/resource/Albuquerque,_New_Mexico",284.59499999999997
+http://dbpedia.org/resource/Aarhus,Aarhus,http://dbpedia.org/resource/Aarhus,284.46
+http://dbpedia.org/resource/Skopje,Skopje,http://dbpedia.org/resource/Skopje,283.46500000000003
+http://dbpedia.org/resource/Gothenburg,Gothenburg,http://dbpedia.org/resource/Gothenburg,280.37
+"http://dbpedia.org/resource/Mobile,_Alabama","Mobile, Alabama","http://dbpedia.org/resource/Mobile,_Alabama",279.765
+http://dbpedia.org/resource/Riga,Riga,http://dbpedia.org/resource/Riga,278.03
+"http://dbpedia.org/resource/George_Town,_Penang","George Town, Penang","http://dbpedia.org/resource/George_Town,_Penang",277.065
+http://dbpedia.org/resource/Lviv,Lviv,http://dbpedia.org/resource/Lviv,276.845
+"http://dbpedia.org/resource/Knoxville,_Tennessee","Knoxville, Tennessee","http://dbpedia.org/resource/Knoxville,_Tennessee",276.53999999999996
+http://dbpedia.org/resource/Lhasa_(prefecture-level_city),Lhasa (prefecture-level city),http://dbpedia.org/resource/Lhasa_(prefecture-level_city),276.21999999999997
+http://dbpedia.org/resource/Sarajevo,Sarajevo,http://dbpedia.org/resource/Sarajevo,276.19
+http://dbpedia.org/resource/Southampton,Southampton,http://dbpedia.org/resource/Southampton,274.535
+"http://dbpedia.org/resource/Chattanooga,_Tennessee","Chattanooga, Tennessee","http://dbpedia.org/resource/Chattanooga,_Tennessee",274.01
+http://dbpedia.org/resource/Kochi,Kochi,http://dbpedia.org/resource/Kochi,273.945
+http://dbpedia.org/resource/Ankara,Ankara,http://dbpedia.org/resource/Ankara,273.77
+http://dbpedia.org/resource/Dnipro,Dnipro,http://dbpedia.org/resource/Dnipro,273.54999999999995
+"http://dbpedia.org/resource/Tulsa,_Oklahoma","Tulsa, Oklahoma","http://dbpedia.org/resource/Tulsa,_Oklahoma",273.46999999999997
+http://dbpedia.org/resource/Wenzhou,Wenzhou,http://dbpedia.org/resource/Wenzhou,272.875
+http://dbpedia.org/resource/Xi'an,Xi'an,http://dbpedia.org/resource/Xi'an,272.65000000000003
+"http://dbpedia.org/resource/Everett,_Washington","Everett, Washington","http://dbpedia.org/resource/Everett,_Washington",271.86499999999995
+http://dbpedia.org/resource/Tampere,Tampere,http://dbpedia.org/resource/Tampere,271.05
+http://dbpedia.org/resource/Christchurch,Christchurch,http://dbpedia.org/resource/Christchurch,270.28999999999996
+http://dbpedia.org/resource/Beirut,Beirut,http://dbpedia.org/resource/Beirut,268.57
+"http://dbpedia.org/resource/Cambridge,_Massachusetts","Cambridge, Massachusetts","http://dbpedia.org/resource/Cambridge,_Massachusetts",268.35
+http://dbpedia.org/resource/Hanoi,Hanoi,http://dbpedia.org/resource/Hanoi,267.97999999999996
+http://dbpedia.org/resource/Thiruvananthapuram,Thiruvananthapuram,http://dbpedia.org/resource/Thiruvananthapuram,267.86
+http://dbpedia.org/resource/Jinan,Jinan,http://dbpedia.org/resource/Jinan,267.445
+"http://dbpedia.org/resource/Norfolk,_Virginia","Norfolk, Virginia","http://dbpedia.org/resource/Norfolk,_Virginia",266.65500000000003
+http://dbpedia.org/resource/Perth,Perth,http://dbpedia.org/resource/Perth,266.59000000000003
+"http://dbpedia.org/resource/Syracuse,_New_York","Syracuse, New York","http://dbpedia.org/resource/Syracuse,_New_York",265.12
+http://dbpedia.org/resource/Nagoya,Nagoya,http://dbpedia.org/resource/Nagoya,265.065
+http://dbpedia.org/resource/Nottingham,Nottingham,http://dbpedia.org/resource/Nottingham,265.055
+http://dbpedia.org/resource/Suzhou,Suzhou,http://dbpedia.org/resource/Suzhou,264.69500000000005
+http://dbpedia.org/resource/Osaka,Osaka,http://dbpedia.org/resource/Osaka,264.35999999999996
+"http://dbpedia.org/resource/Rochester,_New_York","Rochester, New York","http://dbpedia.org/resource/Rochester,_New_York",263.555
+http://dbpedia.org/resource/Zhengzhou,Zhengzhou,http://dbpedia.org/resource/Zhengzhou,263.455
+http://dbpedia.org/resource/Taipei,Taipei,http://dbpedia.org/resource/Taipei,262.76
+"http://dbpedia.org/resource/Thousand_Oaks,_California","Thousand Oaks, California","http://dbpedia.org/resource/Thousand_Oaks,_California",262.325
+"http://dbpedia.org/resource/Wilmington,_Delaware","Wilmington, Delaware","http://dbpedia.org/resource/Wilmington,_Delaware",261.97999999999996
+http://dbpedia.org/resource/Lima,Lima,http://dbpedia.org/resource/Lima,261.73499999999996
+http://dbpedia.org/resource/Qingdao,Qingdao,http://dbpedia.org/resource/Qingdao,261.22999999999996
+"http://dbpedia.org/resource/Fort_Wayne,_Indiana","Fort Wayne, Indiana","http://dbpedia.org/resource/Fort_Wayne,_Indiana",260.99999999999994
+http://dbpedia.org/resource/Damascus,Damascus,http://dbpedia.org/resource/Damascus,260.505
+http://dbpedia.org/resource/Timișoara,Timișoara,http://dbpedia.org/resource/Timișoara,259.825
+"http://dbpedia.org/resource/Saint_Paul,_Minnesota","Saint Paul, Minnesota","http://dbpedia.org/resource/Saint_Paul,_Minnesota",259.655
+http://dbpedia.org/resource/Coventry,Coventry,http://dbpedia.org/resource/Coventry,259.11499999999995
+"http://dbpedia.org/resource/Trenton,_New_Jersey","Trenton, New Jersey","http://dbpedia.org/resource/Trenton,_New_Jersey",258.855
+http://dbpedia.org/resource/Kaunas,Kaunas,http://dbpedia.org/resource/Kaunas,258.68
+"http://dbpedia.org/resource/Tucson,_Arizona","Tucson, Arizona","http://dbpedia.org/resource/Tucson,_Arizona",257.68
+"http://dbpedia.org/resource/Ponce,_Puerto_Rico","Ponce, Puerto Rico","http://dbpedia.org/resource/Ponce,_Puerto_Rico",256.96
+http://dbpedia.org/resource/City_of_London,City of London,http://dbpedia.org/resource/City_of_London,256.565
+http://dbpedia.org/resource/Bratislava,Bratislava,http://dbpedia.org/resource/Bratislava,256.195
+http://dbpedia.org/resource/Montevideo,Montevideo,http://dbpedia.org/resource/Montevideo,255.70000000000002
+http://dbpedia.org/resource/Plymouth,Plymouth,http://dbpedia.org/resource/Plymouth,255.67999999999998
+"http://dbpedia.org/resource/Worcester,_Massachusetts","Worcester, Massachusetts","http://dbpedia.org/resource/Worcester,_Massachusetts",255.135
+http://dbpedia.org/resource/Rotterdam,Rotterdam,http://dbpedia.org/resource/Rotterdam,254.875
+"http://dbpedia.org/resource/St._Petersburg,_Florida","St. Petersburg, Florida","http://dbpedia.org/resource/St._Petersburg,_Florida",254.59000000000003
+http://dbpedia.org/resource/Oxford,Oxford,http://dbpedia.org/resource/Oxford,254.485
+"http://dbpedia.org/resource/Providence,_Rhode_Island","Providence, Rhode Island","http://dbpedia.org/resource/Providence,_Rhode_Island",253.07500000000002
+"http://dbpedia.org/resource/Toledo,_Ohio","Toledo, Ohio","http://dbpedia.org/resource/Toledo,_Ohio",252.39
+http://dbpedia.org/resource/Lanzhou,Lanzhou,http://dbpedia.org/resource/Lanzhou,252.13
+"http://dbpedia.org/resource/Utica,_New_York","Utica, New York","http://dbpedia.org/resource/Utica,_New_York",252.04000000000002
+http://dbpedia.org/resource/Shijiazhuang,Shijiazhuang,http://dbpedia.org/resource/Shijiazhuang,250.85999999999996
+"http://dbpedia.org/resource/Galveston,_Texas","Galveston, Texas","http://dbpedia.org/resource/Galveston,_Texas",250.74
+"http://dbpedia.org/resource/Holyoke,_Massachusetts","Holyoke, Massachusetts","http://dbpedia.org/resource/Holyoke,_Massachusetts",250.29000000000002
+http://dbpedia.org/resource/Lucknow,Lucknow,http://dbpedia.org/resource/Lucknow,249.23
+http://dbpedia.org/resource/Mecca,Mecca,http://dbpedia.org/resource/Mecca,248.995
+"http://dbpedia.org/resource/Tallahassee,_Florida","Tallahassee, Florida","http://dbpedia.org/resource/Tallahassee,_Florida",248.95500000000004
+http://dbpedia.org/resource/Zhuhai,Zhuhai,http://dbpedia.org/resource/Zhuhai,248.01999999999998
+http://dbpedia.org/resource/Fuzhou,Fuzhou,http://dbpedia.org/resource/Fuzhou,247.775
+"http://dbpedia.org/resource/Burbank,_California","Burbank, California","http://dbpedia.org/resource/Burbank,_California",247.015
+http://dbpedia.org/resource/Changchun,Changchun,http://dbpedia.org/resource/Changchun,246.70500000000004
+http://dbpedia.org/resource/Miami_metropolitan_area,Miami metropolitan area,http://dbpedia.org/resource/Miami_metropolitan_area,246.195
+http://dbpedia.org/resource/Coimbatore,Coimbatore,http://dbpedia.org/resource/Coimbatore,246.12000000000003
+"http://dbpedia.org/resource/Charleston,_South_Carolina","Charleston, South Carolina","http://dbpedia.org/resource/Charleston,_South_Carolina",245.535
+http://dbpedia.org/resource/Patna,Patna,http://dbpedia.org/resource/Patna,245.45000000000002
+"http://dbpedia.org/resource/Dayton,_Ohio","Dayton, Ohio","http://dbpedia.org/resource/Dayton,_Ohio",244.76500000000001
+http://dbpedia.org/resource/Tirana,Tirana,http://dbpedia.org/resource/Tirana,244.735
+"http://dbpedia.org/resource/Elizabeth,_New_Jersey","Elizabeth, New Jersey","http://dbpedia.org/resource/Elizabeth,_New_Jersey",244.67
+http://dbpedia.org/resource/Kashgar,Kashgar,http://dbpedia.org/resource/Kashgar,244.185
+"http://dbpedia.org/resource/Laredo,_Texas","Laredo, Texas","http://dbpedia.org/resource/Laredo,_Texas",244.15
+http://dbpedia.org/resource/Kharkiv,Kharkiv,http://dbpedia.org/resource/Kharkiv,243.96
+http://dbpedia.org/resource/Tbilisi,Tbilisi,http://dbpedia.org/resource/Tbilisi,242.795
+http://dbpedia.org/resource/Cologne,Cologne,http://dbpedia.org/resource/Cologne,241.97
+http://dbpedia.org/resource/Cluj-Napoca,Cluj-Napoca,http://dbpedia.org/resource/Cluj-Napoca,241.93999999999997
+http://dbpedia.org/resource/Leicester,Leicester,http://dbpedia.org/resource/Leicester,241.88
+http://dbpedia.org/resource/Winnipeg,Winnipeg,http://dbpedia.org/resource/Winnipeg,241.60000000000002
+"http://dbpedia.org/resource/Pasadena,_California","Pasadena, California","http://dbpedia.org/resource/Pasadena,_California",239.93999999999997
+http://dbpedia.org/resource/Taiyuan,Taiyuan,http://dbpedia.org/resource/Taiyuan,239.615
+"http://dbpedia.org/resource/Wichita,_Kansas","Wichita, Kansas","http://dbpedia.org/resource/Wichita,_Kansas",239.16
+http://dbpedia.org/resource/Las_Vegas,Las Vegas,http://dbpedia.org/resource/Las_Vegas,238.63
+"http://dbpedia.org/resource/Virginia_Beach,_Virginia","Virginia Beach, Virginia","http://dbpedia.org/resource/Virginia_Beach,_Virginia",238.46499999999997
+"http://dbpedia.org/resource/Ann_Arbor,_Michigan","Ann Arbor, Michigan","http://dbpedia.org/resource/Ann_Arbor,_Michigan",237.885
+http://dbpedia.org/resource/Nagpur,Nagpur,http://dbpedia.org/resource/Nagpur,237.71500000000003
+http://dbpedia.org/resource/Dundee,Dundee,http://dbpedia.org/resource/Dundee,237.55499999999998
+http://dbpedia.org/resource/Plovdiv,Plovdiv,http://dbpedia.org/resource/Plovdiv,237.55
+http://dbpedia.org/resource/Doha,Doha,http://dbpedia.org/resource/Doha,237.05
+http://dbpedia.org/resource/Derby,Derby,http://dbpedia.org/resource/Derby,236.46500000000003
+http://dbpedia.org/resource/Hohhot,Hohhot,http://dbpedia.org/resource/Hohhot,236.385
+"http://dbpedia.org/resource/Bakersfield,_California","Bakersfield, California","http://dbpedia.org/resource/Bakersfield,_California",236.30499999999998
+"http://dbpedia.org/resource/Palm_Springs,_California","Palm Springs, California","http://dbpedia.org/resource/Palm_Springs,_California",235.82499999999996
+http://dbpedia.org/resource/Wolverhampton,Wolverhampton,http://dbpedia.org/resource/Wolverhampton,235.44999999999996
+"http://dbpedia.org/resource/Hackensack,_New_Jersey","Hackensack, New Jersey","http://dbpedia.org/resource/Hackensack,_New_Jersey",234.735
+http://dbpedia.org/resource/Aberdeen,Aberdeen,http://dbpedia.org/resource/Aberdeen,234.57
+"http://dbpedia.org/resource/Berkeley,_California","Berkeley, California","http://dbpedia.org/resource/Berkeley,_California",233.81
+http://dbpedia.org/resource/Tiruchirappalli,Tiruchirappalli,http://dbpedia.org/resource/Tiruchirappalli,233.34999999999997
+http://dbpedia.org/resource/Ürümqi,Ürümqi,http://dbpedia.org/resource/Ürümqi,233.22500000000002
+"http://dbpedia.org/resource/Baton_Rouge,_Louisiana","Baton Rouge, Louisiana","http://dbpedia.org/resource/Baton_Rouge,_Louisiana",233.15499999999997
+"http://dbpedia.org/resource/Columbia,_South_Carolina","Columbia, South Carolina","http://dbpedia.org/resource/Columbia,_South_Carolina",232.61
+http://dbpedia.org/resource/Haifa,Haifa,http://dbpedia.org/resource/Haifa,232.385
+http://dbpedia.org/resource/Dresden,Dresden,http://dbpedia.org/resource/Dresden,232.035
+http://dbpedia.org/resource/Kristiansand,Kristiansand,http://dbpedia.org/resource/Kristiansand,231.285
+http://dbpedia.org/resource/Ningbo,Ningbo,http://dbpedia.org/resource/Ningbo,230.87000000000003
+"http://dbpedia.org/resource/Durham,_North_Carolina","Durham, North Carolina","http://dbpedia.org/resource/Durham,_North_Carolina",230.87
+"http://dbpedia.org/resource/Duluth,_Minnesota","Duluth, Minnesota","http://dbpedia.org/resource/Duluth,_Minnesota",230.64000000000001
+"http://dbpedia.org/resource/Springfield,_Illinois","Springfield, Illinois","http://dbpedia.org/resource/Springfield,_Illinois",230.61
+http://dbpedia.org/resource/Wuxi,Wuxi,http://dbpedia.org/resource/Wuxi,230.17999999999998
+http://dbpedia.org/resource/Leipzig,Leipzig,http://dbpedia.org/resource/Leipzig,229.83000000000004
+http://dbpedia.org/resource/Baalbek,Baalbek,http://dbpedia.org/resource/Baalbek,229.16500000000002
+"http://dbpedia.org/resource/Newport,_Wales","Newport, Wales","http://dbpedia.org/resource/Newport,_Wales",229.02999999999997
+"http://dbpedia.org/resource/Hoboken,_New_Jersey","Hoboken, New Jersey","http://dbpedia.org/resource/Hoboken,_New_Jersey",229.015
+http://dbpedia.org/resource/Stoke-on-Trent,Stoke-on-Trent,http://dbpedia.org/resource/Stoke-on-Trent,228.51999999999998
+"http://dbpedia.org/resource/Victoria,_British_Columbia","Victoria, British Columbia","http://dbpedia.org/resource/Victoria,_British_Columbia",227.985
+"http://dbpedia.org/resource/Fort_Lauderdale,_Florida","Fort Lauderdale, Florida","http://dbpedia.org/resource/Fort_Lauderdale,_Florida",227.835
+"http://dbpedia.org/resource/Riverside,_California","Riverside, California","http://dbpedia.org/resource/Riverside,_California",227.39499999999998
+http://dbpedia.org/resource/Mangalore,Mangalore,http://dbpedia.org/resource/Mangalore,226.675
+http://dbpedia.org/resource/Kollam,Kollam,http://dbpedia.org/resource/Kollam,225.76999999999998
+http://dbpedia.org/resource/Baghdad,Baghdad,http://dbpedia.org/resource/Baghdad,225.535
+http://dbpedia.org/resource/Luoyang,Luoyang,http://dbpedia.org/resource/Luoyang,224.90500000000003
+"http://dbpedia.org/resource/Wilmington,_North_Carolina","Wilmington, North Carolina","http://dbpedia.org/resource/Wilmington,_North_Carolina",224.88000000000002
+http://dbpedia.org/resource/Belo_Horizonte,Belo Horizonte,http://dbpedia.org/resource/Belo_Horizonte,224.335
+"http://dbpedia.org/resource/West_Palm_Beach,_Florida","West Palm Beach, Florida","http://dbpedia.org/resource/West_Palm_Beach,_Florida",224.085
+http://dbpedia.org/resource/Wrexham_County_Borough,Wrexham County Borough,http://dbpedia.org/resource/Wrexham_County_Borough,223.99
+"http://dbpedia.org/resource/Fresno,_California","Fresno, California","http://dbpedia.org/resource/Fresno,_California",223.55499999999998
+"http://dbpedia.org/resource/Actopan,_Hidalgo","Actopan, Hidalgo","http://dbpedia.org/resource/Actopan,_Hidalgo",222.62499999999997
+"http://dbpedia.org/resource/Split,_Croatia","Split, Croatia","http://dbpedia.org/resource/Split,_Croatia",222.46499999999997
+http://dbpedia.org/resource/Novi_Sad,Novi Sad,http://dbpedia.org/resource/Novi_Sad,222.42
+http://dbpedia.org/resource/Nairobi,Nairobi,http://dbpedia.org/resource/Nairobi,221.35000000000002
+http://dbpedia.org/resource/Shantou,Shantou,http://dbpedia.org/resource/Shantou,221.235
+http://dbpedia.org/resource/Cork_(city),Cork (city),http://dbpedia.org/resource/Cork_(city),221.04000000000002
+http://dbpedia.org/resource/Trondheim,Trondheim,http://dbpedia.org/resource/Trondheim,221.02999999999997
+http://dbpedia.org/resource/Norwich,Norwich,http://dbpedia.org/resource/Norwich,220.95000000000002
+http://dbpedia.org/resource/Cambridge,Cambridge,http://dbpedia.org/resource/Cambridge,220.46500000000003
+http://dbpedia.org/resource/Isfahan,Isfahan,http://dbpedia.org/resource/Isfahan,220.275
+"http://dbpedia.org/resource/San_Bernardino,_California","San Bernardino, California","http://dbpedia.org/resource/San_Bernardino,_California",219.98
+"http://dbpedia.org/resource/Roanoke,_Virginia","Roanoke, Virginia","http://dbpedia.org/resource/Roanoke,_Virginia",219.71500000000003
+"http://dbpedia.org/resource/Eugene,_Oregon","Eugene, Oregon","http://dbpedia.org/resource/Eugene,_Oregon",219.66500000000002
+"http://dbpedia.org/resource/Akron,_Ohio","Akron, Ohio","http://dbpedia.org/resource/Akron,_Ohio",219.15
+http://dbpedia.org/resource/Ahmedabad,Ahmedabad,http://dbpedia.org/resource/Ahmedabad,218.48
+http://dbpedia.org/resource/Hefei,Hefei,http://dbpedia.org/resource/Hefei,218.425
+"http://dbpedia.org/resource/Birmingham,_Alabama","Birmingham, Alabama","http://dbpedia.org/resource/Birmingham,_Alabama",217.175
+http://dbpedia.org/resource/Nantong,Nantong,http://dbpedia.org/resource/Nantong,216.345
+http://dbpedia.org/resource/Tirupati,Tirupati,http://dbpedia.org/resource/Tirupati,216.245
+"http://dbpedia.org/resource/Lubbock,_Texas","Lubbock, Texas","http://dbpedia.org/resource/Lubbock,_Texas",215.72
+"http://dbpedia.org/resource/Fez,_Morocco","Fez, Morocco","http://dbpedia.org/resource/Fez,_Morocco",214.89499999999998
+"http://dbpedia.org/resource/London,_Ontario","London, Ontario","http://dbpedia.org/resource/London,_Ontario",213.64499999999998
+"http://dbpedia.org/resource/Asheville,_North_Carolina","Asheville, North Carolina","http://dbpedia.org/resource/Asheville,_North_Carolina",213.335
+http://dbpedia.org/resource/Baranagar,Baranagar,http://dbpedia.org/resource/Baranagar,213.265
+"http://dbpedia.org/resource/Stockton,_California","Stockton, California","http://dbpedia.org/resource/Stockton,_California",213.06499999999997
+"http://dbpedia.org/resource/Huntington,_West_Virginia","Huntington, West Virginia","http://dbpedia.org/resource/Huntington,_West_Virginia",211.695
+http://dbpedia.org/resource/Marrakesh,Marrakesh,http://dbpedia.org/resource/Marrakesh,211.57500000000002
+http://dbpedia.org/resource/Alexandria,Alexandria,http://dbpedia.org/resource/Alexandria,211.005
+http://dbpedia.org/resource/Bogotá,Bogotá,http://dbpedia.org/resource/Bogotá,210.14000000000001
+"http://dbpedia.org/resource/Lansing,_Michigan","Lansing, Michigan","http://dbpedia.org/resource/Lansing,_Michigan",209.985
+"http://dbpedia.org/resource/Lexington,_Kentucky","Lexington, Kentucky","http://dbpedia.org/resource/Lexington,_Kentucky",209.875
+http://dbpedia.org/resource/Tunis,Tunis,http://dbpedia.org/resource/Tunis,209.57500000000002
+http://dbpedia.org/resource/Bhubaneswar,Bhubaneswar,http://dbpedia.org/resource/Bhubaneswar,209.01999999999998
+http://dbpedia.org/resource/Mashhad,Mashhad,http://dbpedia.org/resource/Mashhad,208.9
+http://dbpedia.org/resource/Nanchang,Nanchang,http://dbpedia.org/resource/Nanchang,208.545
+http://dbpedia.org/resource/Santiago,Santiago,http://dbpedia.org/resource/Santiago,208.5
+"http://dbpedia.org/resource/Des_Moines,_Iowa","Des Moines, Iowa","http://dbpedia.org/resource/Des_Moines,_Iowa",208.425
+"http://dbpedia.org/resource/Brownsville,_Texas","Brownsville, Texas","http://dbpedia.org/resource/Brownsville,_Texas",208.3
+http://dbpedia.org/resource/Yantai,Yantai,http://dbpedia.org/resource/Yantai,207.97500000000002
+http://dbpedia.org/resource/Espoo,Espoo,http://dbpedia.org/resource/Espoo,207.76
+"http://dbpedia.org/resource/Newcastle,_New_South_Wales","Newcastle, New South Wales","http://dbpedia.org/resource/Newcastle,_New_South_Wales",207.65500000000003
+"http://dbpedia.org/resource/Richmond,_California","Richmond, California","http://dbpedia.org/resource/Richmond,_California",207.585
+http://dbpedia.org/resource/Guadalajara,Guadalajara,http://dbpedia.org/resource/Guadalajara,207.4
+"http://dbpedia.org/resource/Huntsville,_Alabama","Huntsville, Alabama","http://dbpedia.org/resource/Huntsville,_Alabama",206.91500000000002
+"http://dbpedia.org/resource/Oxnard,_California","Oxnard, California","http://dbpedia.org/resource/Oxnard,_California",206.76999999999998
+"http://dbpedia.org/resource/Glendale,_California","Glendale, California","http://dbpedia.org/resource/Glendale,_California",206.185
+http://dbpedia.org/resource/Homs,Homs,http://dbpedia.org/resource/Homs,206.07
+http://dbpedia.org/resource/Dunedin,Dunedin,http://dbpedia.org/resource/Dunedin,205.95500000000004
+http://dbpedia.org/resource/Odesa,Odesa,http://dbpedia.org/resource/Odesa,205.90500000000003
+http://dbpedia.org/resource/Xuzhou,Xuzhou,http://dbpedia.org/resource/Xuzhou,205.67999999999998
+"http://dbpedia.org/resource/Flint,_Michigan","Flint, Michigan","http://dbpedia.org/resource/Flint,_Michigan",205.60500000000002
+http://dbpedia.org/resource/Haikou,Haikou,http://dbpedia.org/resource/Haikou,205.58999999999997
+http://dbpedia.org/resource/Zhanjiang,Zhanjiang,http://dbpedia.org/resource/Zhanjiang,205.32500000000002
+"http://dbpedia.org/resource/Anaheim,_California","Anaheim, California","http://dbpedia.org/resource/Anaheim,_California",205.11
+"http://dbpedia.org/resource/Jackson,_Mississippi","Jackson, Mississippi","http://dbpedia.org/resource/Jackson,_Mississippi",204.995
+http://dbpedia.org/resource/Tabriz,Tabriz,http://dbpedia.org/resource/Tabriz,204.795
+http://dbpedia.org/resource/Minsk,Minsk,http://dbpedia.org/resource/Minsk,204.485
+"http://dbpedia.org/resource/Youngstown,_Ohio","Youngstown, Ohio","http://dbpedia.org/resource/Youngstown,_Ohio",203.905
+"http://dbpedia.org/resource/Alexandria,_Virginia","Alexandria, Virginia","http://dbpedia.org/resource/Alexandria,_Virginia",203.875
+http://dbpedia.org/resource/Nusaybin,Nusaybin,http://dbpedia.org/resource/Nusaybin,203.495
+"http://dbpedia.org/resource/Quincy,_Massachusetts","Quincy, Massachusetts","http://dbpedia.org/resource/Quincy,_Massachusetts",203.37
+http://dbpedia.org/resource/Guiyang,Guiyang,http://dbpedia.org/resource/Guiyang,203.32
+http://dbpedia.org/resource/Tangshan,Tangshan,http://dbpedia.org/resource/Tangshan,203.23999999999998
+http://dbpedia.org/resource/Weinan,Weinan,http://dbpedia.org/resource/Weinan,203.17
+http://dbpedia.org/resource/Kannur,Kannur,http://dbpedia.org/resource/Kannur,202.565
+"http://dbpedia.org/resource/Anchorage,_Alaska","Anchorage, Alaska","http://dbpedia.org/resource/Anchorage,_Alaska",202.34000000000003
+http://dbpedia.org/resource/Quebec_City,Quebec City,http://dbpedia.org/resource/Quebec_City,202.32
+http://dbpedia.org/resource/Amman,Amman,http://dbpedia.org/resource/Amman,202.27
+http://dbpedia.org/resource/Visakhapatnam,Visakhapatnam,http://dbpedia.org/resource/Visakhapatnam,200.745
+http://dbpedia.org/resource/Dortmund,Dortmund,http://dbpedia.org/resource/Dortmund,200.72500000000002
+http://dbpedia.org/resource/Nishapur,Nishapur,http://dbpedia.org/resource/Nishapur,200.47500000000002
+"http://dbpedia.org/resource/Winston-Salem,_North_Carolina","Winston-Salem, North Carolina","http://dbpedia.org/resource/Winston-Salem,_North_Carolina",200.045
+"http://dbpedia.org/resource/Lawrence,_Kansas","Lawrence, Kansas","http://dbpedia.org/resource/Lawrence,_Kansas",199.71
+http://dbpedia.org/resource/Saskatoon,Saskatoon,http://dbpedia.org/resource/Saskatoon,199.485
+http://dbpedia.org/resource/Algiers,Algiers,http://dbpedia.org/resource/Algiers,199.14499999999998
+"http://dbpedia.org/resource/Delray_Beach,_Florida","Delray Beach, Florida","http://dbpedia.org/resource/Delray_Beach,_Florida",198.94
+http://dbpedia.org/resource/Odense,Odense,http://dbpedia.org/resource/Odense,198.64000000000001
+http://dbpedia.org/resource/Stavanger,Stavanger,http://dbpedia.org/resource/Stavanger,198.305
+http://dbpedia.org/resource/Swansea,Swansea,http://dbpedia.org/resource/Swansea,197.60000000000002
+"http://dbpedia.org/resource/Plainfield,_New_Jersey","Plainfield, New Jersey","http://dbpedia.org/resource/Plainfield,_New_Jersey",196.0
+"http://dbpedia.org/resource/Bayonne,_New_Jersey","Bayonne, New Jersey","http://dbpedia.org/resource/Bayonne,_New_Jersey",195.905
+"http://dbpedia.org/resource/Beaumont,_Texas","Beaumont, Texas","http://dbpedia.org/resource/Beaumont,_Texas",195.54
+http://dbpedia.org/resource/Baotou,Baotou,http://dbpedia.org/resource/Baotou,195.41
+http://dbpedia.org/resource/Exeter,Exeter,http://dbpedia.org/resource/Exeter,195.35
+http://dbpedia.org/resource/Sanaa,Sanaa,http://dbpedia.org/resource/Sanaa,194.24
+http://dbpedia.org/resource/Nicosia,Nicosia,http://dbpedia.org/resource/Nicosia,193.97500000000002
+"http://dbpedia.org/resource/Scranton,_Pennsylvania","Scranton, Pennsylvania","http://dbpedia.org/resource/Scranton,_Pennsylvania",193.715
+http://dbpedia.org/resource/Mogadishu,Mogadishu,http://dbpedia.org/resource/Mogadishu,193.67000000000002
+http://dbpedia.org/resource/Surabaya,Surabaya,http://dbpedia.org/resource/Surabaya,193.59000000000003
+"http://dbpedia.org/resource/Reading,_Pennsylvania","Reading, Pennsylvania","http://dbpedia.org/resource/Reading,_Pennsylvania",193.49
+"http://dbpedia.org/resource/Lowell,_Massachusetts","Lowell, Massachusetts","http://dbpedia.org/resource/Lowell,_Massachusetts",193.475
+"http://dbpedia.org/resource/Stamford,_Connecticut","Stamford, Connecticut","http://dbpedia.org/resource/Stamford,_Connecticut",193.37
+http://dbpedia.org/resource/Turpan,Turpan,http://dbpedia.org/resource/Turpan,193.195
+"http://dbpedia.org/resource/South_Bend,_Indiana","South Bend, Indiana","http://dbpedia.org/resource/South_Bend,_Indiana",193.09
+http://dbpedia.org/resource/Yinchuan,Yinchuan,http://dbpedia.org/resource/Yinchuan,192.375
+http://dbpedia.org/resource/Kathmandu,Kathmandu,http://dbpedia.org/resource/Kathmandu,191.98000000000002
+http://dbpedia.org/resource/Kozhikode,Kozhikode,http://dbpedia.org/resource/Kozhikode,191.88
+"http://dbpedia.org/resource/Evansville,_Indiana","Evansville, Indiana","http://dbpedia.org/resource/Evansville,_Indiana",191.835
+http://dbpedia.org/resource/Honolulu,Honolulu,http://dbpedia.org/resource/Honolulu,191.79500000000002
+"http://dbpedia.org/resource/Hamilton,_Ontario","Hamilton, Ontario","http://dbpedia.org/resource/Hamilton,_Ontario",191.74
+http://dbpedia.org/resource/Zibo,Zibo,http://dbpedia.org/resource/Zibo,191.55999999999997
+http://dbpedia.org/resource/Qiqihar,Qiqihar,http://dbpedia.org/resource/Qiqihar,191.47500000000002
+"http://dbpedia.org/resource/Missoula,_Montana","Missoula, Montana","http://dbpedia.org/resource/Missoula,_Montana",191.455
+"http://dbpedia.org/resource/Waco,_Texas","Waco, Texas","http://dbpedia.org/resource/Waco,_Texas",191.43
+http://dbpedia.org/resource/Amasya,Amasya,http://dbpedia.org/resource/Amasya,190.85000000000002
+http://dbpedia.org/resource/Siliguri,Siliguri,http://dbpedia.org/resource/Siliguri,190.63
+http://dbpedia.org/resource/Handan,Handan,http://dbpedia.org/resource/Handan,190.375
+http://dbpedia.org/resource/Düsseldorf,Düsseldorf,http://dbpedia.org/resource/Düsseldorf,190.19
+"http://dbpedia.org/resource/Simi_Valley,_California","Simi Valley, California","http://dbpedia.org/resource/Simi_Valley,_California",189.15
+"http://dbpedia.org/resource/Athens,_Georgia","Athens, Georgia","http://dbpedia.org/resource/Athens,_Georgia",189.14000000000001
+"http://dbpedia.org/resource/Summit,_New_Jersey","Summit, New Jersey","http://dbpedia.org/resource/Summit,_New_Jersey",188.745
+http://dbpedia.org/resource/Peshawar,Peshawar,http://dbpedia.org/resource/Peshawar,188.48
+"http://dbpedia.org/resource/Kitchener,_Ontario","Kitchener, Ontario","http://dbpedia.org/resource/Kitchener,_Ontario",188.46
+http://dbpedia.org/resource/Tangier,Tangier,http://dbpedia.org/resource/Tangier,188.43
+http://dbpedia.org/resource/Sansha,Sansha,http://dbpedia.org/resource/Sansha,188.01000000000002
+"http://dbpedia.org/resource/Manchester,_New_Hampshire","Manchester, New Hampshire","http://dbpedia.org/resource/Manchester,_New_Hampshire",188.0
+http://dbpedia.org/resource/Sapporo,Sapporo,http://dbpedia.org/resource/Sapporo,187.82
+http://dbpedia.org/resource/The_Hague,The Hague,http://dbpedia.org/resource/The_Hague,187.42
+http://dbpedia.org/resource/Datong,Datong,http://dbpedia.org/resource/Datong,187.16
+"http://dbpedia.org/resource/Shreveport,_Louisiana","Shreveport, Louisiana","http://dbpedia.org/resource/Shreveport,_Louisiana",187.11
+http://dbpedia.org/resource/Xining,Xining,http://dbpedia.org/resource/Xining,187.075
+http://dbpedia.org/resource/Moncton,Moncton,http://dbpedia.org/resource/Moncton,187.03
+"http://dbpedia.org/resource/Hamilton,_New_Zealand","Hamilton, New Zealand","http://dbpedia.org/resource/Hamilton,_New_Zealand",187.02
+"http://dbpedia.org/resource/Long_Branch,_New_Jersey","Long Branch, New Jersey","http://dbpedia.org/resource/Long_Branch,_New_Jersey",187.005
+"http://dbpedia.org/resource/Irvine,_California","Irvine, California","http://dbpedia.org/resource/Irvine,_California",186.73
+"http://dbpedia.org/resource/Binghamton,_New_York","Binghamton, New York","http://dbpedia.org/resource/Binghamton,_New_York",186.705
+http://dbpedia.org/resource/Madurai,Madurai,http://dbpedia.org/resource/Madurai,186.695
+http://dbpedia.org/resource/Hugli-Chuchura,Hugli-Chuchura,http://dbpedia.org/resource/Hugli-Chuchura,186.535
+"http://dbpedia.org/resource/Windsor,_Ontario","Windsor, Ontario","http://dbpedia.org/resource/Windsor,_Ontario",186.525
+"http://dbpedia.org/resource/Amarillo,_Texas","Amarillo, Texas","http://dbpedia.org/resource/Amarillo,_Texas",186.02
+http://dbpedia.org/resource/Vlorë,Vlorë,http://dbpedia.org/resource/Vlorë,185.91500000000002
+"http://dbpedia.org/resource/Santa_Ana,_California","Santa Ana, California","http://dbpedia.org/resource/Santa_Ana,_California",185.87
+"http://dbpedia.org/resource/Waterbury,_Connecticut","Waterbury, Connecticut","http://dbpedia.org/resource/Waterbury,_Connecticut",185.85000000000002
+"http://dbpedia.org/resource/Annapolis,_Maryland","Annapolis, Maryland","http://dbpedia.org/resource/Annapolis,_Maryland",185.835
+"http://dbpedia.org/resource/Danbury,_Connecticut","Danbury, Connecticut","http://dbpedia.org/resource/Danbury,_Connecticut",184.95000000000002
+http://dbpedia.org/resource/Abu_Dhabi,Abu Dhabi,http://dbpedia.org/resource/Abu_Dhabi,184.57000000000002
+"http://dbpedia.org/resource/Troy,_New_York","Troy, New York","http://dbpedia.org/resource/Troy,_New_York",184.54000000000002
+http://dbpedia.org/resource/Kigali,Kigali,http://dbpedia.org/resource/Kigali,183.95
+"http://dbpedia.org/resource/Reno,_Nevada","Reno, Nevada","http://dbpedia.org/resource/Reno,_Nevada",183.91
+"http://dbpedia.org/resource/Corpus_Christi,_Texas","Corpus Christi, Texas","http://dbpedia.org/resource/Corpus_Christi,_Texas",183.785
+http://dbpedia.org/resource/Qinhuangdao,Qinhuangdao,http://dbpedia.org/resource/Qinhuangdao,183.66500000000002
+"http://dbpedia.org/resource/Gainesville,_Florida","Gainesville, Florida","http://dbpedia.org/resource/Gainesville,_Florida",183.34
+http://dbpedia.org/resource/Innsbruck,Innsbruck,http://dbpedia.org/resource/Innsbruck,183.205
+"http://dbpedia.org/resource/Regina,_Saskatchewan","Regina, Saskatchewan","http://dbpedia.org/resource/Regina,_Saskatchewan",182.63
+http://dbpedia.org/resource/Donetsk,Donetsk,http://dbpedia.org/resource/Donetsk,182.33
+"http://dbpedia.org/resource/Santa_Barbara,_California","Santa Barbara, California","http://dbpedia.org/resource/Santa_Barbara,_California",181.97500000000002
+http://dbpedia.org/resource/Lianyungang,Lianyungang,http://dbpedia.org/resource/Lianyungang,181.82999999999998
+"http://dbpedia.org/resource/Newport_News,_Virginia","Newport News, Virginia","http://dbpedia.org/resource/Newport_News,_Virginia",181.76000000000002
+"http://dbpedia.org/resource/Boise,_Idaho","Boise, Idaho","http://dbpedia.org/resource/Boise,_Idaho",181.28500000000003
+http://dbpedia.org/resource/Palakkad,Palakkad,http://dbpedia.org/resource/Palakkad,181.0
+"http://dbpedia.org/resource/Schenectady,_New_York","Schenectady, New York","http://dbpedia.org/resource/Schenectady,_New_York",180.78
+http://dbpedia.org/resource/Southend-on-Sea,Southend-on-Sea,http://dbpedia.org/resource/Southend-on-Sea,180.655
+http://dbpedia.org/resource/Bremen,Bremen,http://dbpedia.org/resource/Bremen,180.38
+"http://dbpedia.org/resource/Ventura,_California","Ventura, California","http://dbpedia.org/resource/Ventura,_California",180.34500000000003
+http://dbpedia.org/resource/Anshan,Anshan,http://dbpedia.org/resource/Anshan,180.25500000000002
+"http://dbpedia.org/resource/Montgomery,_Alabama","Montgomery, Alabama","http://dbpedia.org/resource/Montgomery,_Alabama",179.88000000000002
+"http://dbpedia.org/resource/Lake_Worth_Beach,_Florida","Lake Worth Beach, Florida","http://dbpedia.org/resource/Lake_Worth_Beach,_Florida",179.795
+http://dbpedia.org/resource/Hobart,Hobart,http://dbpedia.org/resource/Hobart,179.79000000000002
+http://dbpedia.org/resource/Dubrovnik,Dubrovnik,http://dbpedia.org/resource/Dubrovnik,178.835
+http://dbpedia.org/resource/Dongguan,Dongguan,http://dbpedia.org/resource/Dongguan,178.665
+"http://dbpedia.org/resource/Peoria,_Illinois","Peoria, Illinois","http://dbpedia.org/resource/Peoria,_Illinois",178.185
+http://dbpedia.org/resource/Srinagar,Srinagar,http://dbpedia.org/resource/Srinagar,177.89499999999998
+"http://dbpedia.org/resource/Salem,_Massachusetts","Salem, Massachusetts","http://dbpedia.org/resource/Salem,_Massachusetts",177.49
+http://dbpedia.org/resource/Thalassery,Thalassery,http://dbpedia.org/resource/Thalassery,177.255
+"http://dbpedia.org/resource/Santa_Monica,_California","Santa Monica, California","http://dbpedia.org/resource/Santa_Monica,_California",176.88
+"http://dbpedia.org/resource/Kalamazoo,_Michigan","Kalamazoo, Michigan","http://dbpedia.org/resource/Kalamazoo,_Michigan",176.655
+http://dbpedia.org/resource/Boksburg,Boksburg,http://dbpedia.org/resource/Boksburg,176.65
+"http://dbpedia.org/resource/Varna,_Bulgaria","Varna, Bulgaria","http://dbpedia.org/resource/Varna,_Bulgaria",176.65
+"http://dbpedia.org/resource/Nashua,_New_Hampshire","Nashua, New Hampshire","http://dbpedia.org/resource/Nashua,_New_Hampshire",176.63
+http://dbpedia.org/resource/Indore,Indore,http://dbpedia.org/resource/Indore,175.71
+http://dbpedia.org/resource/Rabat,Rabat,http://dbpedia.org/resource/Rabat,175.65
+http://dbpedia.org/resource/Turku,Turku,http://dbpedia.org/resource/Turku,175.60000000000002
+"http://dbpedia.org/resource/Meridian,_Mississippi","Meridian, Mississippi","http://dbpedia.org/resource/Meridian,_Mississippi",175.32000000000002
+http://dbpedia.org/resource/Aalborg,Aalborg,http://dbpedia.org/resource/Aalborg,175.19500000000002
+"http://dbpedia.org/resource/Perth_Amboy,_New_Jersey","Perth Amboy, New Jersey","http://dbpedia.org/resource/Perth_Amboy,_New_Jersey",175.185
+"http://dbpedia.org/resource/Gold_Coast,_Queensland","Gold Coast, Queensland","http://dbpedia.org/resource/Gold_Coast,_Queensland",175.13000000000002
+http://dbpedia.org/resource/Yokohama,Yokohama,http://dbpedia.org/resource/Yokohama,174.98000000000002
+"http://dbpedia.org/resource/Pensacola,_Florida","Pensacola, Florida","http://dbpedia.org/resource/Pensacola,_Florida",174.85000000000002
+"http://dbpedia.org/resource/Kenosha,_Wisconsin","Kenosha, Wisconsin","http://dbpedia.org/resource/Kenosha,_Wisconsin",174.845
+http://dbpedia.org/resource/Incheon,Incheon,http://dbpedia.org/resource/Incheon,174.70000000000002
+"http://dbpedia.org/resource/Savannah,_Georgia","Savannah, Georgia","http://dbpedia.org/resource/Savannah,_Georgia",174.64000000000001
+"http://dbpedia.org/resource/Concord,_New_Hampshire","Concord, New Hampshire","http://dbpedia.org/resource/Concord,_New_Hampshire",174.535
+http://dbpedia.org/resource/Jilin_City,Jilin City,http://dbpedia.org/resource/Jilin_City,173.99
+http://dbpedia.org/resource/Greater_Sudbury,Greater Sudbury,http://dbpedia.org/resource/Greater_Sudbury,173.98000000000002
+"http://dbpedia.org/resource/Augusta,_Georgia","Augusta, Georgia","http://dbpedia.org/resource/Augusta,_Georgia",173.42999999999998
+"http://dbpedia.org/resource/Fremont,_California","Fremont, California","http://dbpedia.org/resource/Fremont,_California",173.135
+"http://dbpedia.org/resource/Little_Rock,_Arkansas","Little Rock, Arkansas","http://dbpedia.org/resource/Little_Rock,_Arkansas",172.645
+http://dbpedia.org/resource/Sanya,Sanya,http://dbpedia.org/resource/Sanya,172.64
+http://dbpedia.org/resource/Fushun,Fushun,http://dbpedia.org/resource/Fushun,172.615
+"http://dbpedia.org/resource/St._Augustine,_Florida","St. Augustine, Florida","http://dbpedia.org/resource/St._Augustine,_Florida",172.51999999999998
+"http://dbpedia.org/resource/Aurora,_Illinois","Aurora, Illinois","http://dbpedia.org/resource/Aurora,_Illinois",172.305
+"http://dbpedia.org/resource/Santa_Rosa,_California","Santa Rosa, California","http://dbpedia.org/resource/Santa_Rosa,_California",172.15
+"http://dbpedia.org/resource/Denton,_Texas","Denton, Texas","http://dbpedia.org/resource/Denton,_Texas",172.125
+"http://dbpedia.org/resource/Bethlehem,_Pennsylvania","Bethlehem, Pennsylvania","http://dbpedia.org/resource/Bethlehem,_Pennsylvania",172.10000000000002
+"http://dbpedia.org/resource/Palmdale,_California","Palmdale, California","http://dbpedia.org/resource/Palmdale,_California",171.96
+"http://dbpedia.org/resource/Flagstaff,_Arizona","Flagstaff, Arizona","http://dbpedia.org/resource/Flagstaff,_Arizona",171.76
+"http://dbpedia.org/resource/Columbia,_Missouri","Columbia, Missouri","http://dbpedia.org/resource/Columbia,_Missouri",171.46000000000004
+http://dbpedia.org/resource/Harare,Harare,http://dbpedia.org/resource/Harare,171.37500000000003
+http://dbpedia.org/resource/Intramuros,Intramuros,http://dbpedia.org/resource/Intramuros,171.34000000000003
+http://dbpedia.org/resource/Islamabad,Islamabad,http://dbpedia.org/resource/Islamabad,171.20000000000002
+"http://dbpedia.org/resource/Boca_Raton,_Florida","Boca Raton, Florida","http://dbpedia.org/resource/Boca_Raton,_Florida",171.12
+http://dbpedia.org/resource/Quanzhou,Quanzhou,http://dbpedia.org/resource/Quanzhou,170.98000000000002
+http://dbpedia.org/resource/Urmia,Urmia,http://dbpedia.org/resource/Urmia,170.54
+http://dbpedia.org/resource/Zhongshan,Zhongshan,http://dbpedia.org/resource/Zhongshan,170.525
+http://dbpedia.org/resource/Kobe,Kobe,http://dbpedia.org/resource/Kobe,170.515
+"http://dbpedia.org/resource/Lynchburg,_Virginia","Lynchburg, Virginia","http://dbpedia.org/resource/Lynchburg,_Virginia",170.425
+"http://dbpedia.org/resource/Plantation,_Florida","Plantation, Florida","http://dbpedia.org/resource/Plantation,_Florida",170.37
+"http://dbpedia.org/resource/Torrance,_California","Torrance, California","http://dbpedia.org/resource/Torrance,_California",170.19500000000002
+http://dbpedia.org/resource/Amol,Amol,http://dbpedia.org/resource/Amol,169.39000000000001
+http://dbpedia.org/resource/Medina,Medina,http://dbpedia.org/resource/Medina,169.3
+"http://dbpedia.org/resource/Great_Falls,_Montana","Great Falls, Montana","http://dbpedia.org/resource/Great_Falls,_Montana",169.28
+http://dbpedia.org/resource/Pretoria,Pretoria,http://dbpedia.org/resource/Pretoria,169.28
+http://dbpedia.org/resource/Rijeka,Rijeka,http://dbpedia.org/resource/Rijeka,169.06000000000003
+http://dbpedia.org/resource/Howrah,Howrah,http://dbpedia.org/resource/Howrah,168.68
+http://dbpedia.org/resource/Agra,Agra,http://dbpedia.org/resource/Agra,168.655
+http://dbpedia.org/resource/Benxi,Benxi,http://dbpedia.org/resource/Benxi,168.45000000000002
+http://dbpedia.org/resource/Tumxuk,Tumxuk,http://dbpedia.org/resource/Tumxuk,168.37
+"http://dbpedia.org/resource/Malibu,_California","Malibu, California","http://dbpedia.org/resource/Malibu,_California",168.145
+http://dbpedia.org/resource/Faisalabad,Faisalabad,http://dbpedia.org/resource/Faisalabad,168.025
+"http://dbpedia.org/resource/Dover,_Delaware","Dover, Delaware","http://dbpedia.org/resource/Dover,_Delaware",167.91500000000002
+http://dbpedia.org/resource/Sarnath,Sarnath,http://dbpedia.org/resource/Sarnath,167.705
+"http://dbpedia.org/resource/New_Bedford,_Massachusetts","New Bedford, Massachusetts","http://dbpedia.org/resource/New_Bedford,_Massachusetts",167.13
+http://dbpedia.org/resource/Meerut,Meerut,http://dbpedia.org/resource/Meerut,166.995
+"http://dbpedia.org/resource/Hayward,_California","Hayward, California","http://dbpedia.org/resource/Hayward,_California",166.76500000000001
+http://dbpedia.org/resource/Ashdod,Ashdod,http://dbpedia.org/resource/Ashdod,166.525
+http://dbpedia.org/resource/Zadar,Zadar,http://dbpedia.org/resource/Zadar,166.375
+http://dbpedia.org/resource/Pontevedra,Pontevedra,http://dbpedia.org/resource/Pontevedra,166.33499999999998
+"http://dbpedia.org/resource/Rancho_Mirage,_California","Rancho Mirage, California","http://dbpedia.org/resource/Rancho_Mirage,_California",166.32999999999998
+http://dbpedia.org/resource/Hisar_(city),Hisar (city),http://dbpedia.org/resource/Hisar_(city),166.01999999999998
+"http://dbpedia.org/resource/Yonkers,_New_York","Yonkers, New York","http://dbpedia.org/resource/Yonkers,_New_York",165.67
+"http://dbpedia.org/resource/Green_Bay,_Wisconsin","Green Bay, Wisconsin","http://dbpedia.org/resource/Green_Bay,_Wisconsin",165.61
+http://dbpedia.org/resource/Geelong,Geelong,http://dbpedia.org/resource/Geelong,165.495
+"http://dbpedia.org/resource/Hillsboro,_Oregon","Hillsboro, Oregon","http://dbpedia.org/resource/Hillsboro,_Oregon",165.4
+"http://dbpedia.org/resource/Charlottesville,_Virginia","Charlottesville, Virginia","http://dbpedia.org/resource/Charlottesville,_Virginia",165.35500000000002
+http://dbpedia.org/resource/Kyoto,Kyoto,http://dbpedia.org/resource/Kyoto,165.235
+"http://dbpedia.org/resource/Acre,_Israel","Acre, Israel","http://dbpedia.org/resource/Acre,_Israel",165.175
+"http://dbpedia.org/resource/Darwin,_Northern_Territory","Darwin, Northern Territory","http://dbpedia.org/resource/Darwin,_Northern_Territory",165.115
+http://dbpedia.org/resource/Barasat,Barasat,http://dbpedia.org/resource/Barasat,164.995
+http://dbpedia.org/resource/Foshan,Foshan,http://dbpedia.org/resource/Foshan,164.95499999999998
+"http://dbpedia.org/resource/Easton,_Pennsylvania","Easton, Pennsylvania","http://dbpedia.org/resource/Easton,_Pennsylvania",164.9
+http://dbpedia.org/resource/Huainan,Huainan,http://dbpedia.org/resource/Huainan,164.8
+http://dbpedia.org/resource/City_of_Salford,City of Salford,http://dbpedia.org/resource/City_of_Salford,164.71500000000003
+http://dbpedia.org/resource/Mathura,Mathura,http://dbpedia.org/resource/Mathura,164.705
+http://dbpedia.org/resource/Aachen,Aachen,http://dbpedia.org/resource/Aachen,164.69000000000003
+http://dbpedia.org/resource/Nuremberg,Nuremberg,http://dbpedia.org/resource/Nuremberg,164.655
+http://dbpedia.org/resource/Shiraz,Shiraz,http://dbpedia.org/resource/Shiraz,164.56000000000003
+http://dbpedia.org/resource/Guelph,Guelph,http://dbpedia.org/resource/Guelph,164.475
+http://dbpedia.org/resource/Alappuzha,Alappuzha,http://dbpedia.org/resource/Alappuzha,164.33
+"http://dbpedia.org/resource/Beverly_Hills,_California","Beverly Hills, California","http://dbpedia.org/resource/Beverly_Hills,_California",163.88
+http://dbpedia.org/resource/Augsburg,Augsburg,http://dbpedia.org/resource/Augsburg,163.76
+"http://dbpedia.org/resource/Plano,_Texas","Plano, Texas","http://dbpedia.org/resource/Plano,_Texas",163.72000000000003
+http://dbpedia.org/resource/Erfurt,Erfurt,http://dbpedia.org/resource/Erfurt,163.665
+http://dbpedia.org/resource/Tambaram,Tambaram,http://dbpedia.org/resource/Tambaram,163.5
+http://dbpedia.org/resource/Busan,Busan,http://dbpedia.org/resource/Busan,163.21500000000003
+http://dbpedia.org/resource/Ceuta,Ceuta,http://dbpedia.org/resource/Ceuta,163.21000000000004
+"http://dbpedia.org/resource/Fayetteville,_Arkansas","Fayetteville, Arkansas","http://dbpedia.org/resource/Fayetteville,_Arkansas",163.21000000000004
+http://dbpedia.org/resource/Brno,Brno,http://dbpedia.org/resource/Brno,163.17499999999998
+"http://dbpedia.org/resource/Bartow,_Florida","Bartow, Florida","http://dbpedia.org/resource/Bartow,_Florida",162.54500000000002
+http://dbpedia.org/resource/Hanover,Hanover,http://dbpedia.org/resource/Hanover,162.34000000000003
+"http://dbpedia.org/resource/Ithaca,_New_York","Ithaca, New York","http://dbpedia.org/resource/Ithaca,_New_York",162.145
+http://dbpedia.org/resource/Mainz,Mainz,http://dbpedia.org/resource/Mainz,162.11
+http://dbpedia.org/resource/Hama,Hama,http://dbpedia.org/resource/Hama,161.93
+http://dbpedia.org/resource/Iqaluit,Iqaluit,http://dbpedia.org/resource/Iqaluit,161.73
+"http://dbpedia.org/resource/Lincoln,_England","Lincoln, England","http://dbpedia.org/resource/Lincoln,_England",161.36
+http://dbpedia.org/resource/Barrackpore,Barrackpore,http://dbpedia.org/resource/Barrackpore,161.28500000000003
+http://dbpedia.org/resource/Dehradun,Dehradun,http://dbpedia.org/resource/Dehradun,161.26
+http://dbpedia.org/resource/Shihezi,Shihezi,http://dbpedia.org/resource/Shihezi,161.10500000000002
+"http://dbpedia.org/resource/Springfield,_Missouri","Springfield, Missouri","http://dbpedia.org/resource/Springfield,_Missouri",161.07500000000002
+http://dbpedia.org/resource/Danzhou,Danzhou,http://dbpedia.org/resource/Danzhou,161.025
+"http://dbpedia.org/resource/Frederick,_Maryland","Frederick, Maryland","http://dbpedia.org/resource/Frederick,_Maryland",160.915
+http://dbpedia.org/resource/Cairns,Cairns,http://dbpedia.org/resource/Cairns,160.81500000000003
+"http://dbpedia.org/resource/Palo_Alto,_California","Palo Alto, California","http://dbpedia.org/resource/Palo_Alto,_California",160.735
+http://dbpedia.org/resource/Mariupol,Mariupol,http://dbpedia.org/resource/Mariupol,160.60000000000002
+"http://dbpedia.org/resource/Dodge_City,_Kansas","Dodge City, Kansas","http://dbpedia.org/resource/Dodge_City,_Kansas",160.595
+http://dbpedia.org/resource/Pristina,Pristina,http://dbpedia.org/resource/Pristina,160.43
+http://dbpedia.org/resource/Latakia,Latakia,http://dbpedia.org/resource/Latakia,160.37
+"http://dbpedia.org/resource/St._Cloud,_Minnesota","St. Cloud, Minnesota","http://dbpedia.org/resource/St._Cloud,_Minnesota",160.21500000000003
+http://dbpedia.org/resource/Ujjain,Ujjain,http://dbpedia.org/resource/Ujjain,160.17000000000002
+http://dbpedia.org/resource/Rawalpindi,Rawalpindi,http://dbpedia.org/resource/Rawalpindi,159.84
+"http://dbpedia.org/resource/Rome,_Georgia","Rome, Georgia","http://dbpedia.org/resource/Rome,_Georgia",159.775
+http://dbpedia.org/resource/Samarkand,Samarkand,http://dbpedia.org/resource/Samarkand,159.23000000000002
+http://dbpedia.org/resource/Sukhumi,Sukhumi,http://dbpedia.org/resource/Sukhumi,159.12
+"http://dbpedia.org/resource/Somerville,_Massachusetts","Somerville, Massachusetts","http://dbpedia.org/resource/Somerville,_Massachusetts",159.10500000000002
+http://dbpedia.org/resource/Limerick,Limerick,http://dbpedia.org/resource/Limerick,159.04500000000002
+http://dbpedia.org/resource/Regensburg,Regensburg,http://dbpedia.org/resource/Regensburg,158.72000000000003
+http://dbpedia.org/resource/Patras,Patras,http://dbpedia.org/resource/Patras,158.69000000000003
+http://dbpedia.org/resource/Accra,Accra,http://dbpedia.org/resource/Accra,158.58
+"http://dbpedia.org/resource/Tyre,_Lebanon","Tyre, Lebanon","http://dbpedia.org/resource/Tyre,_Lebanon",158.495
+"http://dbpedia.org/resource/Pomona,_California","Pomona, California","http://dbpedia.org/resource/Pomona,_California",158.41500000000002
+"http://dbpedia.org/resource/Ontario,_California","Ontario, California","http://dbpedia.org/resource/Ontario,_California",158.415
+"http://dbpedia.org/resource/Arlington,_Texas","Arlington, Texas","http://dbpedia.org/resource/Arlington,_Texas",158.07500000000002
+"http://dbpedia.org/resource/Hollywood,_Florida","Hollywood, Florida","http://dbpedia.org/resource/Hollywood,_Florida",158.03500000000003
+"http://dbpedia.org/resource/Morgantown,_West_Virginia","Morgantown, West Virginia","http://dbpedia.org/resource/Morgantown,_West_Virginia",157.79500000000002
+http://dbpedia.org/resource/Raqqa,Raqqa,http://dbpedia.org/resource/Raqqa,157.755
+"http://dbpedia.org/resource/Newport,_Rhode_Island","Newport, Rhode Island","http://dbpedia.org/resource/Newport,_Rhode_Island",157.64000000000001
+"http://dbpedia.org/resource/Saginaw,_Michigan","Saginaw, Michigan","http://dbpedia.org/resource/Saginaw,_Michigan",157.46
+http://dbpedia.org/resource/Coquitlam,Coquitlam,http://dbpedia.org/resource/Coquitlam,157.365
+"http://dbpedia.org/resource/Framingham,_Massachusetts","Framingham, Massachusetts","http://dbpedia.org/resource/Framingham,_Massachusetts",157.21500000000003
+"http://dbpedia.org/resource/Chester,_Pennsylvania","Chester, Pennsylvania","http://dbpedia.org/resource/Chester,_Pennsylvania",157.19000000000003
+"http://dbpedia.org/resource/Clifton,_New_Jersey","Clifton, New Jersey","http://dbpedia.org/resource/Clifton,_New_Jersey",157.19
+http://dbpedia.org/resource/Durban,Durban,http://dbpedia.org/resource/Durban,157.17
+http://dbpedia.org/resource/Groningen,Groningen,http://dbpedia.org/resource/Groningen,156.97000000000003
+http://dbpedia.org/resource/Astana,Astana,http://dbpedia.org/resource/Astana,156.91
+http://dbpedia.org/resource/Melilla,Melilla,http://dbpedia.org/resource/Melilla,156.85500000000002
+"http://dbpedia.org/resource/Vancouver,_Washington","Vancouver, Washington","http://dbpedia.org/resource/Vancouver,_Washington",156.82000000000002
+http://dbpedia.org/resource/Townsville,Townsville,http://dbpedia.org/resource/Townsville,156.75
+http://dbpedia.org/resource/Linz,Linz,http://dbpedia.org/resource/Linz,156.41
+http://dbpedia.org/resource/Vantaa,Vantaa,http://dbpedia.org/resource/Vantaa,156.29
+"http://dbpedia.org/resource/Abilene,_Texas","Abilene, Texas","http://dbpedia.org/resource/Abilene,_Texas",155.98000000000002
+http://dbpedia.org/resource/Bardhaman,Bardhaman,http://dbpedia.org/resource/Bardhaman,155.96500000000003
+"http://dbpedia.org/resource/Rapid_City,_South_Dakota","Rapid City, South Dakota","http://dbpedia.org/resource/Rapid_City,_South_Dakota",155.94000000000003
+"http://dbpedia.org/resource/Fredericksburg,_Virginia","Fredericksburg, Virginia","http://dbpedia.org/resource/Fredericksburg,_Virginia",155.84000000000003
+"http://dbpedia.org/resource/Aral,_Xinjiang","Aral, Xinjiang","http://dbpedia.org/resource/Aral,_Xinjiang",155.8
+http://dbpedia.org/resource/Asansol,Asansol,http://dbpedia.org/resource/Asansol,155.505
+"http://dbpedia.org/resource/Gary,_Indiana","Gary, Indiana","http://dbpedia.org/resource/Gary,_Indiana",155.245
+http://dbpedia.org/resource/Mostar,Mostar,http://dbpedia.org/resource/Mostar,155.04000000000002
+http://dbpedia.org/resource/Essen,Essen,http://dbpedia.org/resource/Essen,155.03000000000003
+"http://dbpedia.org/resource/Lawrence,_Massachusetts","Lawrence, Massachusetts","http://dbpedia.org/resource/Lawrence,_Massachusetts",155.005
+http://dbpedia.org/resource/Tashkent,Tashkent,http://dbpedia.org/resource/Tashkent,154.92
+"http://dbpedia.org/resource/Billings,_Montana","Billings, Montana","http://dbpedia.org/resource/Billings,_Montana",154.81500000000003
+"http://dbpedia.org/resource/Hialeah,_Florida","Hialeah, Florida","http://dbpedia.org/resource/Hialeah,_Florida",154.81
+"http://dbpedia.org/resource/Huntington_Beach,_California","Huntington Beach, California","http://dbpedia.org/resource/Huntington_Beach,_California",154.615
+http://dbpedia.org/resource/Brighton_and_Hove,Brighton and Hove,http://dbpedia.org/resource/Brighton_and_Hove,154.525
+"http://dbpedia.org/resource/Wilkes-Barre,_Pennsylvania","Wilkes-Barre, Pennsylvania","http://dbpedia.org/resource/Wilkes-Barre,_Pennsylvania",154.155
+"http://dbpedia.org/resource/Fitchburg,_Massachusetts","Fitchburg, Massachusetts","http://dbpedia.org/resource/Fitchburg,_Massachusetts",154.08
+http://dbpedia.org/resource/Udaipur,Udaipur,http://dbpedia.org/resource/Udaipur,154.065
+http://dbpedia.org/resource/Qionghai,Qionghai,http://dbpedia.org/resource/Qionghai,153.93
+http://dbpedia.org/resource/Qazvin,Qazvin,http://dbpedia.org/resource/Qazvin,153.61
+"http://dbpedia.org/resource/Boulder,_Colorado","Boulder, Colorado","http://dbpedia.org/resource/Boulder,_Colorado",153.575
+"http://dbpedia.org/resource/Columbus,_Georgia","Columbus, Georgia","http://dbpedia.org/resource/Columbus,_Georgia",153.405
+http://dbpedia.org/resource/Podgorica,Podgorica,http://dbpedia.org/resource/Podgorica,153.32999999999998
+http://dbpedia.org/resource/Wenchang,Wenchang,http://dbpedia.org/resource/Wenchang,153.29000000000002
+"http://dbpedia.org/resource/Lafayette,_Louisiana","Lafayette, Louisiana","http://dbpedia.org/resource/Lafayette,_Louisiana",153.14000000000001
+"http://dbpedia.org/resource/Dongfang,_Hainan","Dongfang, Hainan","http://dbpedia.org/resource/Dongfang,_Hainan",153.13500000000002
+http://dbpedia.org/resource/Cizre,Cizre,http://dbpedia.org/resource/Cizre,153.10500000000002
+http://dbpedia.org/resource/Chittagong,Chittagong,http://dbpedia.org/resource/Chittagong,153.0
+http://dbpedia.org/resource/Berhampore,Berhampore,http://dbpedia.org/resource/Berhampore,152.99
+http://dbpedia.org/resource/Jiangmen,Jiangmen,http://dbpedia.org/resource/Jiangmen,152.725
+http://dbpedia.org/resource/Riyadh,Riyadh,http://dbpedia.org/resource/Riyadh,152.67
+http://dbpedia.org/resource/Kermanshah,Kermanshah,http://dbpedia.org/resource/Kermanshah,152.65
+http://dbpedia.org/resource/Addis_Ababa,Addis Ababa,http://dbpedia.org/resource/Addis_Ababa,152.52499999999998
+http://dbpedia.org/resource/Gyeongju,Gyeongju,http://dbpedia.org/resource/Gyeongju,152.115
+http://dbpedia.org/resource/Jaipur,Jaipur,http://dbpedia.org/resource/Jaipur,152.1
+http://dbpedia.org/resource/Galway,Galway,http://dbpedia.org/resource/Galway,152.05
+"http://dbpedia.org/resource/Norman,_Oklahoma","Norman, Oklahoma","http://dbpedia.org/resource/Norman,_Oklahoma",152.025
+"http://dbpedia.org/resource/Vineland,_New_Jersey","Vineland, New Jersey","http://dbpedia.org/resource/Vineland,_New_Jersey",151.93
+http://dbpedia.org/resource/Safed,Safed,http://dbpedia.org/resource/Safed,151.88500000000002
+"http://dbpedia.org/resource/Newburyport,_Massachusetts","Newburyport, Massachusetts","http://dbpedia.org/resource/Newburyport,_Massachusetts",151.88
+"http://dbpedia.org/resource/Williamsburg,_Virginia","Williamsburg, Virginia","http://dbpedia.org/resource/Williamsburg,_Virginia",151.765
+"http://dbpedia.org/resource/Wheeling,_West_Virginia","Wheeling, West Virginia","http://dbpedia.org/resource/Wheeling,_West_Virginia",151.65
+http://dbpedia.org/resource/Dili,Dili,http://dbpedia.org/resource/Dili,151.53
+"http://dbpedia.org/resource/Poughkeepsie,_New_York","Poughkeepsie, New York","http://dbpedia.org/resource/Poughkeepsie,_New_York",151.5
+"http://dbpedia.org/resource/Lancaster,_Pennsylvania","Lancaster, Pennsylvania","http://dbpedia.org/resource/Lancaster,_Pennsylvania",151.44
+http://dbpedia.org/resource/Hiroshima,Hiroshima,http://dbpedia.org/resource/Hiroshima,151.395
+http://dbpedia.org/resource/Nagano_(city),Nagano (city),http://dbpedia.org/resource/Nagano_(city),151.375
+"http://dbpedia.org/resource/Juneau,_Alaska","Juneau, Alaska","http://dbpedia.org/resource/Juneau,_Alaska",151.34
+"http://dbpedia.org/resource/Kingston,_Ontario","Kingston, Ontario","http://dbpedia.org/resource/Kingston,_Ontario",151.07500000000002
+http://dbpedia.org/resource/Nanning,Nanning,http://dbpedia.org/resource/Nanning,151.065
+http://dbpedia.org/resource/Chandannagar,Chandannagar,http://dbpedia.org/resource/Chandannagar,151.06
+"http://dbpedia.org/resource/Salinas,_California","Salinas, California","http://dbpedia.org/resource/Salinas,_California",151.035
+"http://dbpedia.org/resource/Traverse_City,_Michigan","Traverse City, Michigan","http://dbpedia.org/resource/Traverse_City,_Michigan",150.49999999999997
+"http://dbpedia.org/resource/Brunswick,_Georgia","Brunswick, Georgia","http://dbpedia.org/resource/Brunswick,_Georgia",150.385
+"http://dbpedia.org/resource/Visalia,_California","Visalia, California","http://dbpedia.org/resource/Visalia,_California",150.23
+http://dbpedia.org/resource/Luxembourg_City,Luxembourg City,http://dbpedia.org/resource/Luxembourg_City,150.04500000000002
+http://dbpedia.org/resource/Wagga_Wagga,Wagga Wagga,http://dbpedia.org/resource/Wagga_Wagga,149.94000000000003
+http://dbpedia.org/resource/Maastricht,Maastricht,http://dbpedia.org/resource/Maastricht,149.8
+"http://dbpedia.org/resource/Monterey,_California","Monterey, California","http://dbpedia.org/resource/Monterey,_California",149.76
+http://dbpedia.org/resource/City_of_Bradford,City of Bradford,http://dbpedia.org/resource/City_of_Bradford,149.63
+"http://dbpedia.org/resource/Eau_Claire,_Wisconsin","Eau Claire, Wisconsin","http://dbpedia.org/resource/Eau_Claire,_Wisconsin",149.54500000000002
+"http://dbpedia.org/resource/Walla_Walla,_Washington","Walla Walla, Washington","http://dbpedia.org/resource/Walla_Walla,_Washington",149.495
+"http://dbpedia.org/resource/Salem,_Oregon","Salem, Oregon","http://dbpedia.org/resource/Salem,_Oregon",149.45000000000002
+http://dbpedia.org/resource/Ashgabat,Ashgabat,http://dbpedia.org/resource/Ashgabat,149.37
+"http://dbpedia.org/resource/Dearborn,_Michigan","Dearborn, Michigan","http://dbpedia.org/resource/Dearborn,_Michigan",149.305
+http://dbpedia.org/resource/Murshidabad,Murshidabad,http://dbpedia.org/resource/Murshidabad,149.16500000000002
+http://dbpedia.org/resource/Serampore,Serampore,http://dbpedia.org/resource/Serampore,149.07500000000002
+"http://dbpedia.org/resource/Lynn,_Massachusetts","Lynn, Massachusetts","http://dbpedia.org/resource/Lynn,_Massachusetts",148.805
+"http://dbpedia.org/resource/East_Orange,_New_Jersey","East Orange, New Jersey","http://dbpedia.org/resource/East_Orange,_New_Jersey",148.785
+"http://dbpedia.org/resource/Modesto,_California","Modesto, California","http://dbpedia.org/resource/Modesto,_California",148.77
+"http://dbpedia.org/resource/Johnstown,_Pennsylvania","Johnstown, Pennsylvania","http://dbpedia.org/resource/Johnstown,_Pennsylvania",148.525
+"http://dbpedia.org/resource/Tripoli,_Libya","Tripoli, Libya","http://dbpedia.org/resource/Tripoli,_Libya",148.48
+http://dbpedia.org/resource/Zenica,Zenica,http://dbpedia.org/resource/Zenica,148.035
+http://dbpedia.org/resource/Wanning,Wanning,http://dbpedia.org/resource/Wanning,147.975
+"http://dbpedia.org/resource/Newburgh,_New_York","Newburgh, New York","http://dbpedia.org/resource/Newburgh,_New_York",147.905
+"http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina","Myrtle Beach, South Carolina","http://dbpedia.org/resource/Myrtle_Beach,_South_Carolina",147.76
+"http://dbpedia.org/resource/Butte,_Montana","Butte, Montana","http://dbpedia.org/resource/Butte,_Montana",147.65
+http://dbpedia.org/resource/Vatakara,Vatakara,http://dbpedia.org/resource/Vatakara,147.62499999999997
+"http://dbpedia.org/resource/Ocean_City,_New_Jersey","Ocean City, New Jersey","http://dbpedia.org/resource/Ocean_City,_New_Jersey",147.585
+"http://dbpedia.org/resource/Muncie,_Indiana","Muncie, Indiana","http://dbpedia.org/resource/Muncie,_Indiana",147.48999999999998
+"http://dbpedia.org/resource/Lakeland,_Florida","Lakeland, Florida","http://dbpedia.org/resource/Lakeland,_Florida",147.47
+http://dbpedia.org/resource/Mississauga,Mississauga,http://dbpedia.org/resource/Mississauga,147.43000000000004
+http://dbpedia.org/resource/Cooch_Behar,Cooch Behar,http://dbpedia.org/resource/Cooch_Behar,147.275
+"http://dbpedia.org/resource/La_Crosse,_Wisconsin","La Crosse, Wisconsin","http://dbpedia.org/resource/La_Crosse,_Wisconsin",147.225
+http://dbpedia.org/resource/Fort_Saskatchewan,Fort Saskatchewan,http://dbpedia.org/resource/Fort_Saskatchewan,147.10999999999999
+"http://dbpedia.org/resource/Burlington,_Vermont","Burlington, Vermont","http://dbpedia.org/resource/Burlington,_Vermont",147.105
+"http://dbpedia.org/resource/Coeur_d'Alene,_Idaho","Coeur d'Alene, Idaho","http://dbpedia.org/resource/Coeur_d'Alene,_Idaho",146.965
+http://dbpedia.org/resource/Multan,Multan,http://dbpedia.org/resource/Multan,146.91
+http://dbpedia.org/resource/Pyongyang,Pyongyang,http://dbpedia.org/resource/Pyongyang,146.88
+"http://dbpedia.org/resource/Glens_Falls,_New_York","Glens Falls, New York","http://dbpedia.org/resource/Glens_Falls,_New_York",146.845
+http://dbpedia.org/resource/Caracas,Caracas,http://dbpedia.org/resource/Caracas,146.655
+http://dbpedia.org/resource/Yangon,Yangon,http://dbpedia.org/resource/Yangon,146.59
+"http://dbpedia.org/resource/West_Hollywood,_California","West Hollywood, California","http://dbpedia.org/resource/West_Hollywood,_California",146.45999999999998
+http://dbpedia.org/resource/South_Dum_Dum,South Dum Dum,http://dbpedia.org/resource/South_Dum_Dum,146.42999999999998
+"http://dbpedia.org/resource/Bishnupur,_Bankura","Bishnupur, Bankura","http://dbpedia.org/resource/Bishnupur,_Bankura",146.38
+"http://dbpedia.org/resource/Hampton,_Virginia","Hampton, Virginia","http://dbpedia.org/resource/Hampton,_Virginia",146.355
+"http://dbpedia.org/resource/Davenport,_Iowa","Davenport, Iowa","http://dbpedia.org/resource/Davenport,_Iowa",146.315
+http://dbpedia.org/resource/Kampala,Kampala,http://dbpedia.org/resource/Kampala,146.3
+http://dbpedia.org/resource/Durgapur,Durgapur,http://dbpedia.org/resource/Durgapur,146.255
+"http://dbpedia.org/resource/Erie,_Pennsylvania","Erie, Pennsylvania","http://dbpedia.org/resource/Erie,_Pennsylvania",145.91000000000003
+http://dbpedia.org/resource/Kota_Kinabalu,Kota Kinabalu,http://dbpedia.org/resource/Kota_Kinabalu,145.895
+"http://dbpedia.org/resource/Hagerstown,_Maryland","Hagerstown, Maryland","http://dbpedia.org/resource/Hagerstown,_Maryland",145.775
+http://dbpedia.org/resource/Kanpur,Kanpur,http://dbpedia.org/resource/Kanpur,145.76999999999998
+"http://dbpedia.org/resource/Temecula,_California","Temecula, California","http://dbpedia.org/resource/Temecula,_California",145.57000000000002
+"http://dbpedia.org/resource/Mansfield,_Ohio","Mansfield, Ohio","http://dbpedia.org/resource/Mansfield,_Ohio",145.46499999999997
+"http://dbpedia.org/resource/York,_Pennsylvania","York, Pennsylvania","http://dbpedia.org/resource/York,_Pennsylvania",145.385
+http://dbpedia.org/resource/Sialkot,Sialkot,http://dbpedia.org/resource/Sialkot,145.33
+http://dbpedia.org/resource/Wuzhishan_City,Wuzhishan City,http://dbpedia.org/resource/Wuzhishan_City,145.33
+"http://dbpedia.org/resource/Omak,_Washington","Omak, Washington","http://dbpedia.org/resource/Omak,_Washington",145.31500000000003
+http://dbpedia.org/resource/Wujiaqu,Wujiaqu,http://dbpedia.org/resource/Wujiaqu,145.29000000000002
+http://dbpedia.org/resource/Brampton,Brampton,http://dbpedia.org/resource/Brampton,145.28
+http://dbpedia.org/resource/Kinshasa,Kinshasa,http://dbpedia.org/resource/Kinshasa,144.895
+"http://dbpedia.org/resource/Cape_May,_New_Jersey","Cape May, New Jersey","http://dbpedia.org/resource/Cape_May,_New_Jersey",144.84
+http://dbpedia.org/resource/Monterrey,Monterrey,http://dbpedia.org/resource/Monterrey,144.76999999999998
+http://dbpedia.org/resource/Mosul,Mosul,http://dbpedia.org/resource/Mosul,144.70499999999998
+http://dbpedia.org/resource/Barranquilla,Barranquilla,http://dbpedia.org/resource/Barranquilla,144.6
+http://dbpedia.org/resource/Klaipėda,Klaipėda,http://dbpedia.org/resource/Klaipėda,144.59
+http://dbpedia.org/resource/Kilkenny,Kilkenny,http://dbpedia.org/resource/Kilkenny,144.535
+http://dbpedia.org/resource/Bansberia,Bansberia,http://dbpedia.org/resource/Bansberia,144.51500000000001
+http://dbpedia.org/resource/Thunder_Bay,Thunder Bay,http://dbpedia.org/resource/Thunder_Bay,144.475
+http://dbpedia.org/resource/Zhaoqing,Zhaoqing,http://dbpedia.org/resource/Zhaoqing,144.34
+http://dbpedia.org/resource/Vijayawada,Vijayawada,http://dbpedia.org/resource/Vijayawada,144.23999999999998
+"http://dbpedia.org/resource/Waltham,_Massachusetts","Waltham, Massachusetts","http://dbpedia.org/resource/Waltham,_Massachusetts",144.215
+http://dbpedia.org/resource/Durrës,Durrës,http://dbpedia.org/resource/Durrës,144.21
+http://dbpedia.org/resource/Malappuram,Malappuram,http://dbpedia.org/resource/Malappuram,143.79500000000002
+http://dbpedia.org/resource/Naihati,Naihati,http://dbpedia.org/resource/Naihati,143.755
+"http://dbpedia.org/resource/Santa_Cruz,_California","Santa Cruz, California","http://dbpedia.org/resource/Santa_Cruz,_California",143.68
+http://dbpedia.org/resource/Osijek,Osijek,http://dbpedia.org/resource/Osijek,143.66
+"http://dbpedia.org/resource/Middletown,_Connecticut","Middletown, Connecticut","http://dbpedia.org/resource/Middletown,_Connecticut",143.57500000000002
+http://dbpedia.org/resource/Jeddah,Jeddah,http://dbpedia.org/resource/Jeddah,143.23
+"http://dbpedia.org/resource/Northampton,_Massachusetts","Northampton, Massachusetts","http://dbpedia.org/resource/Northampton,_Massachusetts",143.07
+"http://dbpedia.org/resource/San_Mateo,_California","San Mateo, California","http://dbpedia.org/resource/San_Mateo,_California",142.995
+http://dbpedia.org/resource/Kragujevac,Kragujevac,http://dbpedia.org/resource/Kragujevac,142.9
+http://dbpedia.org/resource/Puri,Puri,http://dbpedia.org/resource/Puri,142.8
+http://dbpedia.org/resource/Almaty,Almaty,http://dbpedia.org/resource/Almaty,142.74499999999998
+"http://dbpedia.org/resource/Dubuque,_Iowa","Dubuque, Iowa","http://dbpedia.org/resource/Dubuque,_Iowa",142.64000000000001
+"http://dbpedia.org/resource/Marysville,_Washington","Marysville, Washington","http://dbpedia.org/resource/Marysville,_Washington",142.355
+http://dbpedia.org/resource/Kharagpur,Kharagpur,http://dbpedia.org/resource/Kharagpur,142.305
+http://dbpedia.org/resource/Phnom_Penh,Phnom Penh,http://dbpedia.org/resource/Phnom_Penh,142.29000000000002
+"http://dbpedia.org/resource/Hays,_Kansas","Hays, Kansas","http://dbpedia.org/resource/Hays,_Kansas",142.205
+"http://dbpedia.org/resource/Krishnanagar,_Nadia","Krishnanagar, Nadia","http://dbpedia.org/resource/Krishnanagar,_Nadia",142.155
+http://dbpedia.org/resource/Bhatpara,Bhatpara,http://dbpedia.org/resource/Bhatpara,142.15
+http://dbpedia.org/resource/Kuching,Kuching,http://dbpedia.org/resource/Kuching,142.13
+"http://dbpedia.org/resource/Bloomington,_Indiana","Bloomington, Indiana","http://dbpedia.org/resource/Bloomington,_Indiana",141.99499999999998
+"http://dbpedia.org/resource/Kingston,_Jamaica","Kingston, Jamaica","http://dbpedia.org/resource/Kingston,_Jamaica",141.875
+http://dbpedia.org/resource/Fukuoka,Fukuoka,http://dbpedia.org/resource/Fukuoka,141.855
+http://dbpedia.org/resource/Mysore,Mysore,http://dbpedia.org/resource/Mysore,141.81000000000003
+"http://dbpedia.org/resource/Carson_City,_Nevada","Carson City, Nevada","http://dbpedia.org/resource/Carson_City,_Nevada",141.64
+http://dbpedia.org/resource/Shusha,Shusha,http://dbpedia.org/resource/Shusha,141.60999999999999
+"http://dbpedia.org/resource/Kent,_Ohio","Kent, Ohio","http://dbpedia.org/resource/Kent,_Ohio",141.58
+http://dbpedia.org/resource/Santo_Domingo,Santo Domingo,http://dbpedia.org/resource/Santo_Domingo,141.48499999999999
+"http://dbpedia.org/resource/Coral_Gables,_Florida","Coral Gables, Florida","http://dbpedia.org/resource/Coral_Gables,_Florida",141.43000000000004
+"http://dbpedia.org/resource/Haverhill,_Massachusetts","Haverhill, Massachusetts","http://dbpedia.org/resource/Haverhill,_Massachusetts",141.29500000000002
+"http://dbpedia.org/resource/Pine_Bluff,_Arkansas","Pine Bluff, Arkansas","http://dbpedia.org/resource/Pine_Bluff,_Arkansas",141.23
+"http://dbpedia.org/resource/Kokomo,_Indiana","Kokomo, Indiana","http://dbpedia.org/resource/Kokomo,_Indiana",140.92000000000002
+http://dbpedia.org/resource/Panihati,Panihati,http://dbpedia.org/resource/Panihati,140.87
+http://dbpedia.org/resource/Stepanakert,Stepanakert,http://dbpedia.org/resource/Stepanakert,140.85
+http://dbpedia.org/resource/Braunschweig,Braunschweig,http://dbpedia.org/resource/Braunschweig,140.79500000000002
+"http://dbpedia.org/resource/Bellingham,_Washington","Bellingham, Washington","http://dbpedia.org/resource/Bellingham,_Washington",140.635
+http://dbpedia.org/resource/Yangzhou,Yangzhou,http://dbpedia.org/resource/Yangzhou,140.48499999999999
+"http://dbpedia.org/resource/Corona,_California","Corona, California","http://dbpedia.org/resource/Corona,_California",140.48
+http://dbpedia.org/resource/Suwon,Suwon,http://dbpedia.org/resource/Suwon,140.465
+http://dbpedia.org/resource/Wiesbaden,Wiesbaden,http://dbpedia.org/resource/Wiesbaden,140.42000000000002
+"http://dbpedia.org/resource/Martinsburg,_West_Virginia","Martinsburg, West Virginia","http://dbpedia.org/resource/Martinsburg,_West_Virginia",140.39
+http://dbpedia.org/resource/Abidjan,Abidjan,http://dbpedia.org/resource/Abidjan,140.36999999999998
+http://dbpedia.org/resource/Kamarhati,Kamarhati,http://dbpedia.org/resource/Kamarhati,140.32999999999998
+http://dbpedia.org/resource/Guilin,Guilin,http://dbpedia.org/resource/Guilin,140.23
+http://dbpedia.org/resource/Abuja,Abuja,http://dbpedia.org/resource/Abuja,140.205
+http://dbpedia.org/resource/Santiago_de_Compostela,Santiago de Compostela,http://dbpedia.org/resource/Santiago_de_Compostela,140.14000000000001
+http://dbpedia.org/resource/Iași,Iași,http://dbpedia.org/resource/Iași,140.12499999999997
+"http://dbpedia.org/resource/Scottsdale,_Arizona","Scottsdale, Arizona","http://dbpedia.org/resource/Scottsdale,_Arizona",140.11999999999998
+"http://dbpedia.org/resource/Sioux_Falls,_South_Dakota","Sioux Falls, South Dakota","http://dbpedia.org/resource/Sioux_Falls,_South_Dakota",140.11499999999998
+"http://dbpedia.org/resource/Frankfort,_Kentucky","Frankfort, Kentucky","http://dbpedia.org/resource/Frankfort,_Kentucky",140.07000000000002
+http://dbpedia.org/resource/Gloucester,Gloucester,http://dbpedia.org/resource/Gloucester,140.025
+http://dbpedia.org/resource/Thrissur,Thrissur,http://dbpedia.org/resource/Thrissur,140.0
+"http://dbpedia.org/resource/Bangor,_Maine","Bangor, Maine","http://dbpedia.org/resource/Bangor,_Maine",139.725
+http://dbpedia.org/resource/Stirling,Stirling,http://dbpedia.org/resource/Stirling,139.72
+http://dbpedia.org/resource/Kurukshetra,Kurukshetra,http://dbpedia.org/resource/Kurukshetra,139.56000000000003
+http://dbpedia.org/resource/Barrie,Barrie,http://dbpedia.org/resource/Barrie,139.48000000000002
+http://dbpedia.org/resource/Kanchrapara,Kanchrapara,http://dbpedia.org/resource/Kanchrapara,139.44500000000002
+"http://dbpedia.org/resource/Rockford,_Illinois","Rockford, Illinois","http://dbpedia.org/resource/Rockford,_Illinois",139.33
+"http://dbpedia.org/resource/Abbotsford,_British_Columbia","Abbotsford, British Columbia","http://dbpedia.org/resource/Abbotsford,_British_Columbia",139.085
+http://dbpedia.org/resource/Sibu,Sibu,http://dbpedia.org/resource/Sibu,139.06
+http://dbpedia.org/resource/Kamloops,Kamloops,http://dbpedia.org/resource/Kamloops,139.04
+"http://dbpedia.org/resource/High_Point,_North_Carolina","High Point, North Carolina","http://dbpedia.org/resource/High_Point,_North_Carolina",138.96
+"http://dbpedia.org/resource/Lancaster,_California","Lancaster, California","http://dbpedia.org/resource/Lancaster,_California",138.84
+"http://dbpedia.org/resource/Provo,_Utah","Provo, Utah","http://dbpedia.org/resource/Provo,_Utah",138.72
+"http://dbpedia.org/resource/Daytona_Beach,_Florida","Daytona Beach, Florida","http://dbpedia.org/resource/Daytona_Beach,_Florida",138.35
+http://dbpedia.org/resource/Khardaha,Khardaha,http://dbpedia.org/resource/Khardaha,138.255
+http://dbpedia.org/resource/Haridwar,Haridwar,http://dbpedia.org/resource/Haridwar,138.155
+http://dbpedia.org/resource/Titagarh,Titagarh,http://dbpedia.org/resource/Titagarh,138.03
+"http://dbpedia.org/resource/Durham,_England","Durham, England","http://dbpedia.org/resource/Durham,_England",137.88500000000002
+"http://dbpedia.org/resource/Derby,_Connecticut","Derby, Connecticut","http://dbpedia.org/resource/Derby,_Connecticut",137.82000000000002
+http://dbpedia.org/resource/Medan,Medan,http://dbpedia.org/resource/Medan,137.81500000000003
+http://dbpedia.org/resource/Pécs,Pécs,http://dbpedia.org/resource/Pécs,137.75
+"http://dbpedia.org/resource/Fayetteville,_North_Carolina","Fayetteville, North Carolina","http://dbpedia.org/resource/Fayetteville,_North_Carolina",137.69
+http://dbpedia.org/resource/Malmö,Malmö,http://dbpedia.org/resource/Malmö,137.65499999999997
+"http://dbpedia.org/resource/Waterloo,_Ontario","Waterloo, Ontario","http://dbpedia.org/resource/Waterloo,_Ontario",137.605
+http://dbpedia.org/resource/Toowoomba,Toowoomba,http://dbpedia.org/resource/Toowoomba,137.57500000000002
+http://dbpedia.org/resource/Niš,Niš,http://dbpedia.org/resource/Niš,137.56
+http://dbpedia.org/resource/Rajpur_Sonarpur,Rajpur Sonarpur,http://dbpedia.org/resource/Rajpur_Sonarpur,137.435
+http://dbpedia.org/resource/Maheshtala,Maheshtala,http://dbpedia.org/resource/Maheshtala,137.195
+http://dbpedia.org/resource/Guwahati,Guwahati,http://dbpedia.org/resource/Guwahati,137.17999999999998
+http://dbpedia.org/resource/Yunfu,Yunfu,http://dbpedia.org/resource/Yunfu,137.145
+http://dbpedia.org/resource/Bhopal,Bhopal,http://dbpedia.org/resource/Bhopal,137.07500000000002
+http://dbpedia.org/resource/Gaborone,Gaborone,http://dbpedia.org/resource/Gaborone,137.055
+"http://dbpedia.org/resource/Marietta,_Georgia","Marietta, Georgia","http://dbpedia.org/resource/Marietta,_Georgia",136.91500000000002
+http://dbpedia.org/resource/Ayodhya,Ayodhya,http://dbpedia.org/resource/Ayodhya,136.91
+http://dbpedia.org/resource/Eindhoven,Eindhoven,http://dbpedia.org/resource/Eindhoven,136.69
+"http://dbpedia.org/resource/Petersburg,_Virginia","Petersburg, Virginia","http://dbpedia.org/resource/Petersburg,_Virginia",136.665
+http://dbpedia.org/resource/Bareilly,Bareilly,http://dbpedia.org/resource/Bareilly,136.54
+http://dbpedia.org/resource/Shizuoka_(city),Shizuoka (city),http://dbpedia.org/resource/Shizuoka_(city),136.425
+"http://dbpedia.org/resource/Rosario,_Santa_Fe","Rosario, Santa Fe","http://dbpedia.org/resource/Rosario,_Santa_Fe",136.35
+http://dbpedia.org/resource/Halisahar,Halisahar,http://dbpedia.org/resource/Halisahar,136.3
+"http://dbpedia.org/resource/Martinsville,_Virginia","Martinsville, Virginia","http://dbpedia.org/resource/Martinsville,_Virginia",136.23499999999999
+http://dbpedia.org/resource/Vinayagapuram,Vinayagapuram,http://dbpedia.org/resource/Vinayagapuram,136.18
+http://dbpedia.org/resource/Colchester,Colchester,http://dbpedia.org/resource/Colchester,136.025
+http://dbpedia.org/resource/Sendai,Sendai,http://dbpedia.org/resource/Sendai,135.975
+http://dbpedia.org/resource/Huizhou,Huizhou,http://dbpedia.org/resource/Huizhou,135.935
+"http://dbpedia.org/resource/Lewiston,_Maine","Lewiston, Maine","http://dbpedia.org/resource/Lewiston,_Maine",135.85500000000002
+"http://dbpedia.org/resource/Portsmouth,_Virginia","Portsmouth, Virginia","http://dbpedia.org/resource/Portsmouth,_Virginia",135.705
+http://dbpedia.org/resource/Tegucigalpa,Tegucigalpa,http://dbpedia.org/resource/Tegucigalpa,135.59
+"http://dbpedia.org/resource/Rocky_Mount,_North_Carolina","Rocky Mount, North Carolina","http://dbpedia.org/resource/Rocky_Mount,_North_Carolina",135.48499999999999
+http://dbpedia.org/resource/North_Barrackpur,North Barrackpur,http://dbpedia.org/resource/North_Barrackpur,135.31
+http://dbpedia.org/resource/Dankuni,Dankuni,http://dbpedia.org/resource/Dankuni,135.15
+http://dbpedia.org/resource/Enugu,Enugu,http://dbpedia.org/resource/Enugu,135.025
+http://dbpedia.org/resource/Malang,Malang,http://dbpedia.org/resource/Malang,134.95000000000002
+http://dbpedia.org/resource/Rishra,Rishra,http://dbpedia.org/resource/Rishra,134.87
+http://dbpedia.org/resource/Zhangjiakou,Zhangjiakou,http://dbpedia.org/resource/Zhangjiakou,134.64000000000001
+http://dbpedia.org/resource/North_Dum_Dum,North Dum Dum,http://dbpedia.org/resource/North_Dum_Dum,134.625
+"http://dbpedia.org/resource/Bozeman,_Montana","Bozeman, Montana","http://dbpedia.org/resource/Bozeman,_Montana",134.51
+"http://dbpedia.org/resource/Salisbury,_Maryland","Salisbury, Maryland","http://dbpedia.org/resource/Salisbury,_Maryland",134.32000000000002
+"http://dbpedia.org/resource/Fargo,_North_Dakota","Fargo, North Dakota","http://dbpedia.org/resource/Fargo,_North_Dakota",134.225
+http://dbpedia.org/resource/Hamamatsu,Hamamatsu,http://dbpedia.org/resource/Hamamatsu,134.15
+"http://dbpedia.org/resource/Redlands,_California","Redlands, California","http://dbpedia.org/resource/Redlands,_California",134.12499999999997
+"http://dbpedia.org/resource/Markham,_Ontario","Markham, Ontario","http://dbpedia.org/resource/Markham,_Ontario",133.84
+"http://dbpedia.org/resource/Evanston,_Illinois","Evanston, Illinois","http://dbpedia.org/resource/Evanston,_Illinois",133.815
+http://dbpedia.org/resource/Bankura,Bankura,http://dbpedia.org/resource/Bankura,133.805
+"http://dbpedia.org/resource/Alameda,_California","Alameda, California","http://dbpedia.org/resource/Alameda,_California",133.755
+http://dbpedia.org/resource/Shaoguan,Shaoguan,http://dbpedia.org/resource/Shaoguan,133.555
+http://dbpedia.org/resource/Malacca_City,Malacca City,http://dbpedia.org/resource/Malacca_City,133.52
+http://dbpedia.org/resource/Madhyamgram,Madhyamgram,http://dbpedia.org/resource/Madhyamgram,133.505
+http://dbpedia.org/resource/Daegu,Daegu,http://dbpedia.org/resource/Daegu,133.175
+"http://dbpedia.org/resource/Lake_Charles,_Louisiana","Lake Charles, Louisiana","http://dbpedia.org/resource/Lake_Charles,_Louisiana",132.85
+http://dbpedia.org/resource/Kiel,Kiel,http://dbpedia.org/resource/Kiel,132.82500000000002
+"http://dbpedia.org/resource/Pompano_Beach,_Florida","Pompano Beach, Florida","http://dbpedia.org/resource/Pompano_Beach,_Florida",132.695
+http://dbpedia.org/resource/Albury,Albury,http://dbpedia.org/resource/Albury,132.295
+"http://dbpedia.org/resource/Topeka,_Kansas","Topeka, Kansas","http://dbpedia.org/resource/Topeka,_Kansas",132.29000000000002
+"http://dbpedia.org/resource/Williamsport,_Pennsylvania","Williamsport, Pennsylvania","http://dbpedia.org/resource/Williamsport,_Pennsylvania",132.12999999999997
+http://dbpedia.org/resource/Nabadwip,Nabadwip,http://dbpedia.org/resource/Nabadwip,132.045
+http://dbpedia.org/resource/St._Catharines,St. Catharines,http://dbpedia.org/resource/St._Catharines,131.865
+http://dbpedia.org/resource/Lusaka,Lusaka,http://dbpedia.org/resource/Lusaka,131.84
+http://dbpedia.org/resource/List_of_historic_properties_in_Phoenix,List of historic properties in Phoenix,http://dbpedia.org/resource/List_of_historic_properties_in_Phoenix,131.81500000000003
+http://dbpedia.org/resource/Mannheim,Mannheim,http://dbpedia.org/resource/Mannheim,131.73499999999999
+"http://dbpedia.org/resource/Winchester,_Virginia","Winchester, Virginia","http://dbpedia.org/resource/Winchester,_Virginia",131.47
+"http://dbpedia.org/resource/Appleton,_Wisconsin","Appleton, Wisconsin","http://dbpedia.org/resource/Appleton,_Wisconsin",131.38
+"http://dbpedia.org/resource/Nelson,_New_Zealand","Nelson, New Zealand","http://dbpedia.org/resource/Nelson,_New_Zealand",131.25499999999997
+http://dbpedia.org/resource/Jalpaiguri,Jalpaiguri,http://dbpedia.org/resource/Jalpaiguri,131.245
+"http://dbpedia.org/resource/Bothell,_Washington","Bothell, Washington","http://dbpedia.org/resource/Bothell,_Washington",131.05
+http://dbpedia.org/resource/Garulia,Garulia,http://dbpedia.org/resource/Garulia,131.01000000000002
+http://dbpedia.org/resource/Kaifeng,Kaifeng,http://dbpedia.org/resource/Kaifeng,130.875
+http://dbpedia.org/resource/Beersheba,Beersheba,http://dbpedia.org/resource/Beersheba,130.87
+"http://dbpedia.org/resource/Portsmouth,_New_Hampshire","Portsmouth, New Hampshire","http://dbpedia.org/resource/Portsmouth,_New_Hampshire",130.785
+http://dbpedia.org/resource/Baoding,Baoding,http://dbpedia.org/resource/Baoding,130.765
+"http://dbpedia.org/resource/Kennewick,_Washington","Kennewick, Washington","http://dbpedia.org/resource/Kennewick,_Washington",130.435
+"http://dbpedia.org/resource/Muskegon,_Michigan","Muskegon, Michigan","http://dbpedia.org/resource/Muskegon,_Michigan",130.395
+"http://dbpedia.org/resource/Fairfax,_Virginia","Fairfax, Virginia","http://dbpedia.org/resource/Fairfax,_Virginia",130.26
+"http://dbpedia.org/resource/Vallejo,_California","Vallejo, California","http://dbpedia.org/resource/Vallejo,_California",130.23
+"http://dbpedia.org/resource/Fall_River,_Massachusetts","Fall River, Massachusetts","http://dbpedia.org/resource/Fall_River,_Massachusetts",130.22
+"http://dbpedia.org/resource/Racine,_Wisconsin","Racine, Wisconsin","http://dbpedia.org/resource/Racine,_Wisconsin",130.11999999999998
+http://dbpedia.org/resource/Oulu,Oulu,http://dbpedia.org/resource/Oulu,130.005
+"http://dbpedia.org/resource/Wyoming,_Michigan","Wyoming, Michigan","http://dbpedia.org/resource/Wyoming,_Michigan",129.98999999999998
+"http://dbpedia.org/resource/Elgin,_Illinois","Elgin, Illinois","http://dbpedia.org/resource/Elgin,_Illinois",129.785
+"http://dbpedia.org/resource/Fullerton,_California","Fullerton, California","http://dbpedia.org/resource/Fullerton,_California",129.725
+"http://dbpedia.org/resource/Prince_George,_British_Columbia","Prince George, British Columbia","http://dbpedia.org/resource/Prince_George,_British_Columbia",129.71
+"http://dbpedia.org/resource/Rancho_Cucamonga,_California","Rancho Cucamonga, California","http://dbpedia.org/resource/Rancho_Cucamonga,_California",129.595
+"http://dbpedia.org/resource/Lafayette,_Indiana","Lafayette, Indiana","http://dbpedia.org/resource/Lafayette,_Indiana",129.51
+http://dbpedia.org/resource/Rajahmundry,Rajahmundry,http://dbpedia.org/resource/Rajahmundry,129.37
+"http://dbpedia.org/resource/Las_Cruces,_New_Mexico","Las Cruces, New Mexico","http://dbpedia.org/resource/Las_Cruces,_New_Mexico",129.34
+"http://dbpedia.org/resource/Trujillo,_Peru","Trujillo, Peru","http://dbpedia.org/resource/Trujillo,_Peru",129.085
+http://dbpedia.org/resource/Fredericton,Fredericton,http://dbpedia.org/resource/Fredericton,129.04000000000002
+"http://dbpedia.org/resource/Gastonia,_North_Carolina","Gastonia, North Carolina","http://dbpedia.org/resource/Gastonia,_North_Carolina",129.01
+http://dbpedia.org/resource/Qingyuan,Qingyuan,http://dbpedia.org/resource/Qingyuan,128.94000000000003
+"http://dbpedia.org/resource/Midland,_Texas","Midland, Texas","http://dbpedia.org/resource/Midland,_Texas",128.915
+http://dbpedia.org/resource/Raiganj,Raiganj,http://dbpedia.org/resource/Raiganj,128.885
+"http://dbpedia.org/resource/Irving,_Texas","Irving, Texas","http://dbpedia.org/resource/Irving,_Texas",128.835
+"http://dbpedia.org/resource/New_Town,_Kolkata","New Town, Kolkata","http://dbpedia.org/resource/New_Town,_Kolkata",128.765
+http://dbpedia.org/resource/Purulia,Purulia,http://dbpedia.org/resource/Purulia,128.75
+"http://dbpedia.org/resource/Seymour,_Indiana","Seymour, Indiana","http://dbpedia.org/resource/Seymour,_Indiana",128.63
+http://dbpedia.org/resource/Taxila,Taxila,http://dbpedia.org/resource/Taxila,128.62499999999997
+"http://dbpedia.org/resource/Santa_Maria,_California","Santa Maria, California","http://dbpedia.org/resource/Santa_Maria,_California",128.5
+"http://dbpedia.org/resource/Rochester,_Minnesota","Rochester, Minnesota","http://dbpedia.org/resource/Rochester,_Minnesota",128.47
+http://dbpedia.org/resource/Tijuana,Tijuana,http://dbpedia.org/resource/Tijuana,128.46
+"http://dbpedia.org/resource/Peterborough,_Ontario","Peterborough, Ontario","http://dbpedia.org/resource/Peterborough,_Ontario",128.455
+http://dbpedia.org/resource/Kokshetau,Kokshetau,http://dbpedia.org/resource/Kokshetau,128.41500000000002
+http://dbpedia.org/resource/Chernivtsi,Chernivtsi,http://dbpedia.org/resource/Chernivtsi,128.395
+http://dbpedia.org/resource/New_Barrackpore,New Barrackpore,http://dbpedia.org/resource/New_Barrackpore,128.245
+"http://dbpedia.org/resource/Albany,_Georgia","Albany, Georgia","http://dbpedia.org/resource/Albany,_Georgia",128.07
+"http://dbpedia.org/resource/Bowling_Green,_Kentucky","Bowling Green, Kentucky","http://dbpedia.org/resource/Bowling_Green,_Kentucky",127.86999999999999
+"http://dbpedia.org/resource/Tombstone,_Arizona","Tombstone, Arizona","http://dbpedia.org/resource/Tombstone,_Arizona",127.855
+"http://dbpedia.org/resource/Olympia,_Washington","Olympia, Washington","http://dbpedia.org/resource/Olympia,_Washington",127.83
+http://dbpedia.org/resource/Pula,Pula,http://dbpedia.org/resource/Pula,127.825
+http://dbpedia.org/resource/Shkodër,Shkodër,http://dbpedia.org/resource/Shkodër,127.77499999999998
+"http://dbpedia.org/resource/Rahway,_New_Jersey","Rahway, New Jersey","http://dbpedia.org/resource/Rahway,_New_Jersey",127.745
+http://dbpedia.org/resource/Niigata_(city),Niigata (city),http://dbpedia.org/resource/Niigata_(city),127.615
+"http://dbpedia.org/resource/Fairbanks,_Alaska","Fairbanks, Alaska","http://dbpedia.org/resource/Fairbanks,_Alaska",127.61
+http://dbpedia.org/resource/Banja_Luka,Banja Luka,http://dbpedia.org/resource/Banja_Luka,127.605
+"http://dbpedia.org/resource/Newton,_Massachusetts","Newton, Massachusetts","http://dbpedia.org/resource/Newton,_Massachusetts",127.53
+"http://dbpedia.org/resource/Danville,_Virginia","Danville, Virginia","http://dbpedia.org/resource/Danville,_Virginia",127.365
+"http://dbpedia.org/resource/Bathurst,_New_South_Wales","Bathurst, New South Wales","http://dbpedia.org/resource/Bathurst,_New_South_Wales",127.36
+http://dbpedia.org/resource/Luanda,Luanda,http://dbpedia.org/resource/Luanda,127.255
+http://dbpedia.org/resource/Cuernavaca,Cuernavaca,http://dbpedia.org/resource/Cuernavaca,127.14500000000001
+http://dbpedia.org/resource/Luzhou,Luzhou,http://dbpedia.org/resource/Luzhou,127.04000000000002
+"http://dbpedia.org/resource/Steinbach,_Manitoba","Steinbach, Manitoba","http://dbpedia.org/resource/Steinbach,_Manitoba",126.955
+"http://dbpedia.org/resource/Alamogordo,_New_Mexico","Alamogordo, New Mexico","http://dbpedia.org/resource/Alamogordo,_New_Mexico",126.95
+http://dbpedia.org/resource/Panevėžys,Panevėžys,http://dbpedia.org/resource/Panevėžys,126.92000000000002
+http://dbpedia.org/resource/Surat,Surat,http://dbpedia.org/resource/Surat,126.785
+"http://dbpedia.org/resource/Arlington,_Washington","Arlington, Washington","http://dbpedia.org/resource/Arlington,_Washington",126.78
+http://dbpedia.org/resource/Jiujiang,Jiujiang,http://dbpedia.org/resource/Jiujiang,126.75999999999999
+http://dbpedia.org/resource/Kryvyi_Rih,Kryvyi Rih,http://dbpedia.org/resource/Kryvyi_Rih,126.69000000000001
+"http://dbpedia.org/resource/Morristown,_Tennessee","Morristown, Tennessee","http://dbpedia.org/resource/Morristown,_Tennessee",126.56
+"http://dbpedia.org/resource/Monroe,_Washington","Monroe, Washington","http://dbpedia.org/resource/Monroe,_Washington",126.55000000000001
+http://dbpedia.org/resource/Kelowna,Kelowna,http://dbpedia.org/resource/Kelowna,126.525
+"http://dbpedia.org/resource/Deadwood,_South_Dakota","Deadwood, South Dakota","http://dbpedia.org/resource/Deadwood,_South_Dakota",126.505
+"http://dbpedia.org/resource/Waukegan,_Illinois","Waukegan, Illinois","http://dbpedia.org/resource/Waukegan,_Illinois",126.49
+http://dbpedia.org/resource/Fukushima_(city),Fukushima (city),http://dbpedia.org/resource/Fukushima_(city),126.485
+"http://dbpedia.org/resource/Monterey_Park,_California","Monterey Park, California","http://dbpedia.org/resource/Monterey_Park,_California",126.44
+"http://dbpedia.org/resource/Amesbury,_Massachusetts","Amesbury, Massachusetts","http://dbpedia.org/resource/Amesbury,_Massachusetts",126.4
+http://dbpedia.org/resource/Hajipur,Hajipur,http://dbpedia.org/resource/Hajipur,126.28500000000003
+"http://dbpedia.org/resource/Lewisville,_Texas","Lewisville, Texas","http://dbpedia.org/resource/Lewisville,_Texas",126.27999999999997
+http://dbpedia.org/resource/Seberang_Perai,Seberang Perai,http://dbpedia.org/resource/Seberang_Perai,126.13
+"http://dbpedia.org/resource/Coral_Springs,_Florida","Coral Springs, Florida","http://dbpedia.org/resource/Coral_Springs,_Florida",126.03999999999999
+http://dbpedia.org/resource/Bandung,Bandung,http://dbpedia.org/resource/Bandung,126.02000000000001
+http://dbpedia.org/resource/Uttarpara,Uttarpara,http://dbpedia.org/resource/Uttarpara,125.86500000000001
+"http://dbpedia.org/resource/Parkersburg,_West_Virginia","Parkersburg, West Virginia","http://dbpedia.org/resource/Parkersburg,_West_Virginia",125.855
+"http://dbpedia.org/resource/Millville,_New_Jersey","Millville, New Jersey","http://dbpedia.org/resource/Millville,_New_Jersey",125.815
+http://dbpedia.org/resource/Baidyabati,Baidyabati,http://dbpedia.org/resource/Baidyabati,125.805
+http://dbpedia.org/resource/Haldia,Haldia,http://dbpedia.org/resource/Haldia,125.785
+http://dbpedia.org/resource/Kumbakonam,Kumbakonam,http://dbpedia.org/resource/Kumbakonam,125.775
+http://dbpedia.org/resource/Cuttack,Cuttack,http://dbpedia.org/resource/Cuttack,125.71999999999998
+"http://dbpedia.org/resource/Shannan,_Tibet","Shannan, Tibet","http://dbpedia.org/resource/Shannan,_Tibet",125.68
+http://dbpedia.org/resource/Barrackpur_Cantonment,Barrackpur Cantonment,http://dbpedia.org/resource/Barrackpur_Cantonment,125.525
+"http://dbpedia.org/resource/Redwood_City,_California","Redwood City, California","http://dbpedia.org/resource/Redwood_City,_California",125.47500000000001
+http://dbpedia.org/resource/Lijiang,Lijiang,http://dbpedia.org/resource/Lijiang,125.335
+http://dbpedia.org/resource/Palembang,Palembang,http://dbpedia.org/resource/Palembang,125.335
+http://dbpedia.org/resource/Bloemfontein,Bloemfontein,http://dbpedia.org/resource/Bloemfontein,125.085
+"http://dbpedia.org/resource/Terre_Haute,_Indiana","Terre Haute, Indiana","http://dbpedia.org/resource/Terre_Haute,_Indiana",124.995
+http://dbpedia.org/resource/Magdeburg,Magdeburg,http://dbpedia.org/resource/Magdeburg,124.91999999999999
+http://dbpedia.org/resource/Potsdam,Potsdam,http://dbpedia.org/resource/Potsdam,124.81
+"http://dbpedia.org/resource/Fontana,_California","Fontana, California","http://dbpedia.org/resource/Fontana,_California",124.66499999999999
+"http://dbpedia.org/resource/Laurel,_Maryland","Laurel, Maryland","http://dbpedia.org/resource/Laurel,_Maryland",124.61500000000001
+"http://dbpedia.org/resource/Altoona,_Pennsylvania","Altoona, Pennsylvania","http://dbpedia.org/resource/Altoona,_Pennsylvania",124.615
+http://dbpedia.org/resource/Tiberias,Tiberias,http://dbpedia.org/resource/Tiberias,124.61
+"http://dbpedia.org/resource/Bismarck,_North_Dakota","Bismarck, North Dakota","http://dbpedia.org/resource/Bismarck,_North_Dakota",124.55000000000001
+http://dbpedia.org/resource/Thanjavur,Thanjavur,http://dbpedia.org/resource/Thanjavur,124.41499999999999
+"http://dbpedia.org/resource/Boynton_Beach,_Florida","Boynton Beach, Florida","http://dbpedia.org/resource/Boynton_Beach,_Florida",124.16
+"http://dbpedia.org/resource/Bellaire,_Texas","Bellaire, Texas","http://dbpedia.org/resource/Bellaire,_Texas",124.11
+"http://dbpedia.org/resource/Kalyani,_West_Bengal","Kalyani, West Bengal","http://dbpedia.org/resource/Kalyani,_West_Bengal",123.78999999999999
+"http://dbpedia.org/resource/New_London,_Connecticut","New London, Connecticut","http://dbpedia.org/resource/New_London,_Connecticut",123.775
+"http://dbpedia.org/resource/Bridgeton,_New_Jersey","Bridgeton, New Jersey","http://dbpedia.org/resource/Bridgeton,_New_Jersey",123.755
+"http://dbpedia.org/resource/Wildwood,_New_Jersey","Wildwood, New Jersey","http://dbpedia.org/resource/Wildwood,_New_Jersey",123.695
+http://dbpedia.org/resource/Chișinău,Chișinău,http://dbpedia.org/resource/Chișinău,123.69
+http://dbpedia.org/resource/Manaus,Manaus,http://dbpedia.org/resource/Manaus,123.63
+"http://dbpedia.org/resource/Culver_City,_California","Culver City, California","http://dbpedia.org/resource/Culver_City,_California",123.555
+"http://dbpedia.org/resource/Minot,_North_Dakota","Minot, North Dakota","http://dbpedia.org/resource/Minot,_North_Dakota",123.45
+"http://dbpedia.org/resource/Lebanon,_New_Hampshire","Lebanon, New Hampshire","http://dbpedia.org/resource/Lebanon,_New_Hampshire",123.435
+"http://dbpedia.org/resource/Harrisburg,_Illinois","Harrisburg, Illinois","http://dbpedia.org/resource/Harrisburg,_Illinois",123.125
+"http://dbpedia.org/resource/Bhadreswar,_Hooghly","Bhadreswar, Hooghly","http://dbpedia.org/resource/Bhadreswar,_Hooghly",122.98
+http://dbpedia.org/resource/Kraljevo,Kraljevo,http://dbpedia.org/resource/Kraljevo,122.98
+"http://dbpedia.org/resource/Abilene,_Kansas","Abilene, Kansas","http://dbpedia.org/resource/Abilene,_Kansas",122.96
+"http://dbpedia.org/resource/Antioch,_California","Antioch, California","http://dbpedia.org/resource/Antioch,_California",122.89500000000001
+"http://dbpedia.org/resource/Alexandria,_Louisiana","Alexandria, Louisiana","http://dbpedia.org/resource/Alexandria,_Louisiana",122.835
+"http://dbpedia.org/resource/White_Plains,_New_York","White Plains, New York","http://dbpedia.org/resource/White_Plains,_New_York",122.81500000000001
+"http://dbpedia.org/resource/Miramar,_Florida","Miramar, Florida","http://dbpedia.org/resource/Miramar,_Florida",122.79000000000002
+"http://dbpedia.org/resource/Wichita_Falls,_Texas","Wichita Falls, Texas","http://dbpedia.org/resource/Wichita_Falls,_Texas",122.75
+"http://dbpedia.org/resource/Grand_Forks,_North_Dakota","Grand Forks, North Dakota","http://dbpedia.org/resource/Grand_Forks,_North_Dakota",122.67000000000002
+"http://dbpedia.org/resource/Valdosta,_Georgia","Valdosta, Georgia","http://dbpedia.org/resource/Valdosta,_Georgia",122.47499999999998
+"http://dbpedia.org/resource/Worcester,_England","Worcester, England","http://dbpedia.org/resource/Worcester,_England",122.46499999999999
+"http://dbpedia.org/resource/Lufkin,_Texas","Lufkin, Texas","http://dbpedia.org/resource/Lufkin,_Texas",122.44500000000001
+http://dbpedia.org/resource/Quito,Quito,http://dbpedia.org/resource/Quito,122.36
+"http://dbpedia.org/resource/Cleveland,_Tennessee","Cleveland, Tennessee","http://dbpedia.org/resource/Cleveland,_Tennessee",122.35499999999998
+http://dbpedia.org/resource/Novi_Pazar,Novi Pazar,http://dbpedia.org/resource/Novi_Pazar,122.26999999999998
+http://dbpedia.org/resource/Yan'an,Yan'an,http://dbpedia.org/resource/Yan'an,122.26499999999999
+http://dbpedia.org/resource/Zhoushan,Zhoushan,http://dbpedia.org/resource/Zhoushan,122.23
+"http://dbpedia.org/resource/Moreno_Valley,_California","Moreno Valley, California","http://dbpedia.org/resource/Moreno_Valley,_California",122.19500000000001
+"http://dbpedia.org/resource/Malda,_West_Bengal","Malda, West Bengal","http://dbpedia.org/resource/Malda,_West_Bengal",122.16999999999999
+http://dbpedia.org/resource/Tamluk,Tamluk,http://dbpedia.org/resource/Tamluk,122.11999999999999
+"http://dbpedia.org/resource/Austin,_Minnesota","Austin, Minnesota","http://dbpedia.org/resource/Austin,_Minnesota",122.05000000000001
+http://dbpedia.org/resource/Changde,Changde,http://dbpedia.org/resource/Changde,121.99000000000001
+http://dbpedia.org/resource/Champdani,Champdani,http://dbpedia.org/resource/Champdani,121.96499999999999
+"http://dbpedia.org/resource/Hattiesburg,_Mississippi","Hattiesburg, Mississippi","http://dbpedia.org/resource/Hattiesburg,_Mississippi",121.93
+"http://dbpedia.org/resource/Ball_Ground,_Georgia","Ball Ground, Georgia","http://dbpedia.org/resource/Ball_Ground,_Georgia",121.91500000000002
+http://dbpedia.org/resource/Kandahar,Kandahar,http://dbpedia.org/resource/Kandahar,121.91000000000003
+"http://dbpedia.org/resource/San_Luis_Obispo,_California","San Luis Obispo, California","http://dbpedia.org/resource/San_Luis_Obispo,_California",121.79499999999999
+http://dbpedia.org/resource/Herat,Herat,http://dbpedia.org/resource/Herat,121.63999999999999
+"http://dbpedia.org/resource/Clarksville,_Tennessee","Clarksville, Tennessee","http://dbpedia.org/resource/Clarksville,_Tennessee",121.525
+"http://dbpedia.org/resource/Sugar_Land,_Texas","Sugar Land, Texas","http://dbpedia.org/resource/Sugar_Land,_Texas",121.48
+http://dbpedia.org/resource/Miri,Miri,http://dbpedia.org/resource/Miri,121.46
+"http://dbpedia.org/resource/Compton,_California","Compton, California","http://dbpedia.org/resource/Compton,_California",121.46
+"http://dbpedia.org/resource/Decatur,_Illinois","Decatur, Illinois","http://dbpedia.org/resource/Decatur,_Illinois",121.355
+http://dbpedia.org/resource/Heyuan,Heyuan,http://dbpedia.org/resource/Heyuan,121.34499999999998
+http://dbpedia.org/resource/Vranje,Vranje,http://dbpedia.org/resource/Vranje,121.34000000000002
+http://dbpedia.org/resource/Bidhannagar,Bidhannagar,http://dbpedia.org/resource/Bidhannagar,120.985
+http://dbpedia.org/resource/Jingdezhen,Jingdezhen,http://dbpedia.org/resource/Jingdezhen,120.97500000000001
+http://dbpedia.org/resource/Freiburg_im_Breisgau,Freiburg im Breisgau,http://dbpedia.org/resource/Freiburg_im_Breisgau,120.955
+http://dbpedia.org/resource/Utrecht,Utrecht,http://dbpedia.org/resource/Utrecht,120.88499999999999
+"http://dbpedia.org/resource/Paducah,_Kentucky","Paducah, Kentucky","http://dbpedia.org/resource/Paducah,_Kentucky",120.60000000000001
+"http://dbpedia.org/resource/Staunton,_Virginia","Staunton, Virginia","http://dbpedia.org/resource/Staunton,_Virginia",120.43
+http://dbpedia.org/resource/Habra,Habra,http://dbpedia.org/resource/Habra,120.41000000000003

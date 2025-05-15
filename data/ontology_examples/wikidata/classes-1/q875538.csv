@@ -1,0 +1,1001 @@
+id,label,source,score
+Q34433,University of Oxford,Q34433,577.595
+Q160302,University of Edinburgh,Q160302,403.6700000000001
+Q219563,University of Washington,Q219563,393.26500000000004
+Q501758,University of Florida,Q501758,287.66
+Q534643,University of the Witwatersrand,Q534643,253.245
+Q492467,University of Auckland,Q492467,252.38
+Q951305,University of Cape Town,Q951305,231.435
+Q622664,"University of California, San Diego",Q622664,230.375
+Q487556,University of Sydney,Q487556,228.9
+Q76473,University of Southampton,Q76473,227.0
+Q16955,Tsinghua University,Q16955,219.5
+Q459506,University of Bristol,Q459506,217.35000000000002
+Q16952,Peking University,Q16952,202.94500000000002
+Q503419,University of Arizona,Q503419,201.03500000000003
+Q127990,Australian National University,Q127990,199.845
+Q319078,University of Melbourne,Q319078,195.16500000000002
+Q766145,University of Oregon,Q766145,194.13
+Q1521725,Louisiana State University,Q1521725,179.56500000000003
+Q1065809,Florida International University,Q1065809,179.525
+Q263064,"University of California, Santa Barbara",Q263064,175.365
+Q969850,Stony Brook University,Q969850,173.26
+Q604444,University of Pretoria,Q604444,172.665
+Q1026939,"California State University, Northridge",Q1026939,172.125
+Q1138384,University of Mississippi,Q1138384,169.96000000000004
+Q1068258,University College Dublin,Q1068258,165.945
+Q859363,Sciences Po,Q859363,164.88
+Q1201513,University of Otago,Q1201513,164.77
+Q1150437,Victoria University of Wellington,Q1150437,163.77999999999997
+Q131262,University of Bologna,Q131262,163.675
+Q152171,University of Bonn,Q152171,161.38
+Q866012,University of Queensland,Q866012,158.595
+Q492318,University of Alabama,Q492318,156.16
+Q499510,University of Liverpool,Q499510,155.77
+Q967165,University of York,Q967165,151.45000000000002
+Q736674,University of Colorado Boulder,Q736674,151.045
+Q472316,University of Nottingham,Q472316,151.025
+Q1145306,University of Calcutta,Q1145306,149.735
+Q586904,Federal University of Rio de Janeiro,Q586904,146.965
+Q861888,Oregon State University,Q861888,142.285
+Q683580,Nanjing University,Q683580,141.66000000000003
+Q598841,Monash University,Q598841,140.54500000000002
+Q189441,Jagiellonian University,Q189441,139.175
+Q209344,Sapienza University of Rome,Q209344,137.365
+Q627969,University of Ottawa,Q627969,136.94500000000002
+Q219615,University of Barcelona,Q219615,136.705
+Q1057890,RMIT University,Q1057890,136.57
+Q1478723,La Trobe University,Q1478723,136.415
+Q597236,Washington State University,Q597236,135.935
+Q1068072,University of Delaware,Q1068072,135.72
+Q2413375,The Open University,Q2413375,133.46
+Q31519,Charles University,Q31519,132.97
+Q762266,City University of New York,Q762266,129.135
+Q319761,Aberystwyth University,Q319761,128.25499999999997
+Q1150105,"University of Tennessee, Knoxville",Q1150105,127.565
+Q924265,Aarhus University,Q924265,127.025
+Q1026926,"California State University, Long Beach",Q1026926,125.01999999999998
+Q28695,University of Helsinki,Q28695,124.18
+Q219694,Complutense University of Madrid,Q219694,123.53
+Q310695,Technische Universität Darmstadt,Q310695,122.63499999999999
+Q1472347,Southern Illinois University Carbondale,Q1472347,122.22499999999998
+Q631066,Clemson University,Q631066,121.67000000000002
+Q1247544,University of Westminster,Q1247544,119.315
+Q1434547,Loughborough University,Q1434547,119.08
+Q2060678,University of Campinas,Q2060678,117.63
+Q1074117,Renmin University of China,Q1074117,116.99499999999999
+Q790029,Bangor University,Q790029,116.45
+Q153265,University of Cincinnati,Q153265,116.28
+Q1169487,University of Ibadan,Q1169487,115.22500000000001
+Q192964,Istanbul University,Q192964,115.155
+Q1326975,University of Wyoming,Q1326975,115.085
+Q475700,University of the Western Cape,Q475700,114.39000000000001
+Q1654025,Kwame Nkrumah University of Science and Technology,Q1654025,113.45499999999998
+Q954035,University of Bradford,Q954035,113.16999999999999
+Q15574,University of Adelaide,Q15574,112.585
+Q1066492,Stellenbosch University,Q1066492,112.22500000000001
+Q2303765,University of Ghana,Q2303765,111.88
+Q1075104,University of Essex,Q1075104,111.30000000000001
+Q152838,University of Göttingen,Q152838,110.21
+Q1024426,University of South Carolina,Q1024426,109.685
+Q486156,University of Oslo,Q486156,109.43
+Q153987,University of Freiburg,Q153987,108.94500000000001
+Q154804,Leipzig University,Q154804,107.36
+Q194223,University of Buenos Aires,Q194223,107.205
+Q756126,Middle East Technical University,Q756126,106.955
+Q1153539,Xiamen University,Q1153539,106.41
+Q4380853,Missouri University of Science and Technology,Q4380853,106.005
+Q968559,University of North Dakota,Q968559,104.83
+Q344334,Istanbul Technical University,Q344334,103.57000000000001
+Q1604022,Beijing Normal University,Q1604022,102.83
+Q28169298,Tamil Nadu Music and Fine Arts University,Q28169298,102.7
+Q261506,Makerere University,Q261506,102.535
+Q750066,Aston University,Q750066,101.915
+Q675848,University of Zagreb,Q675848,101.06
+Q741082,Macquarie University,Q741082,99.615
+Q955764,University of Illinois at Chicago,Q955764,98.58
+Q534515,University of Indonesia,Q534515,98.2
+Q2302336,University of Montana,Q2302336,98.06500000000001
+Q196544,Aligarh Muslim University,Q196544,97.28
+Q309988,Karlsruhe Institute of Technology,Q309988,97.045
+Q1422458,University of Bath,Q1422458,96.875
+Q1108197,Wuhan University,Q1108197,96.625
+Q240631,University of Belgrade,Q240631,96.105
+Q746153,University of the West Indies,Q746153,95.61500000000001
+Q1495387,Texas State University,Q1495387,95.48
+Q1745633,University of Hertfordshire,Q1745633,95.38
+Q1546191,Western Michigan University,Q1546191,95.17500000000001
+Q15143,University of Massachusetts Lowell,Q15143,94.875
+Q273461,École Centrale de Lille,Q273461,94.765
+Q2688358,University of Wisconsin–La Crosse,Q2688358,94.34500000000001
+Q80207,Lviv University,Q80207,94.23
+Q273263,RWTH Aachen University,Q273263,94.155
+Q204181,University of Tartu,Q204181,93.94500000000001
+Q1939211,Mississippi State University,Q1939211,93.77
+Q1364464,University of Madras,Q1364464,93.08
+Q1137652,Maastricht University,Q1137652,92.43
+Q401034,Ahmadu Bello University,Q401034,92.405
+Q531285,University of Newcastle,Q531285,92.14
+Q1517021,University of Western Australia,Q1517021,91.46500000000002
+Q581954,University of Zimbabwe,Q581954,91.41499999999999
+Q2032807,University of the City of Manila,Q2032807,91.185
+Q1480421,University of Dhaka,Q1480421,91.17000000000002
+Q1377,University of Ljubljana,Q1377,90.72
+Q317070,University of Mannheim,Q317070,90.705
+Q633529,Erasmus University Rotterdam,Q633529,90.16
+Q194445,Cairo University,Q194445,89.59500000000001
+Q165528,University of Greifswald,Q165528,89.29000000000002
+Q368643,University of Coimbra,Q368643,88.84000000000002
+Q15576,University of South Australia,Q15576,88.71000000000001
+Q603686,Hong Kong Baptist University,Q603686,87.49000000000001
+Q2340211,Jamia Millia Islamia,Q2340211,87.07000000000001
+Q1026846,California Polytechnic State University,Q1026846,86.64500000000001
+Q2744209,University of Portsmouth,Q2744209,86.33999999999999
+Q156725,University of Hamburg,Q156725,85.92500000000001
+Q1755318,University of Wisconsin–Milwaukee,Q1755318,85.835
+Q1799872,Rowan University,Q1799872,85.605
+Q25864,Technical University of Madrid,Q25864,85.21499999999999
+Q1353248,New Mexico State University,Q1353248,85.08500000000001
+Q232141,University of Chile,Q232141,84.7
+Q3083280,University of Peradeniya,Q3083280,84.5
+Q645663,University of Pisa,Q645663,84.32000000000001
+Q32751,National Sun Yat-sen University,Q32751,84.19
+Q1284960,Edith Cowan University,Q1284960,83.69
+Q3550116,University of the Philippines Los Baños,Q3550116,83.41
+Q54096,University of Cologne,Q54096,83.25
+Q2002520,University of the West of England,Q2002520,82.79
+Q896267,Boğaziçi University,Q896267,82.47000000000001
+Q273518,School for Advanced Studies in the Social Sciences,Q273518,81.44500000000001
+Q3551407,Federal University of ABC,Q3551407,81.37
+Q1854488,University of Idaho,Q1854488,80.19
+Q2000624,North Dakota State University,Q2000624,79.84
+Q308963,University of Salamanca,Q308963,79.125
+Q1140241,State University of New York,Q1140241,79.09
+Q154561,University of Jena,Q154561,79.03500000000001
+Q1269766,Technical University of Denmark,Q1269766,78.815
+Q1145497,Curtin University,Q1145497,78.805
+Q3547145,Birmingham City University,Q3547145,78.44
+Q5018694,Montclair State University,Q5018694,77.84
+Q787234,Swinburne University of Technology,Q787234,77.58500000000001
+Q3551402,De Montfort University,Q3551402,77.505
+Q1816069,University of Benin,Q1816069,76.89
+Q1888771,Manchester Metropolitan University,Q1888771,76.13499999999999
+Q1627967,Liverpool John Moores University,Q1627967,75.98
+Q7726772,The College of New Jersey,Q7726772,75.86
+Q159895,University of Rostock,Q159895,75.855
+Q284777,Western Washington University,Q284777,75.575
+Q624090,University of Southern Mississippi,Q624090,75.315
+Q1998811,North-West University,Q1998811,75.315
+Q677993,University of South Africa,Q677993,75.08000000000001
+Q1150419,National University of Colombia,Q1150419,74.83500000000001
+Q1145731,University of Technology Sydney,Q1145731,74.775
+Q132478,Oxford Brookes University,Q132478,74.67999999999999
+Q1147063,Jawaharlal Nehru University,Q1147063,74.54
+Q3117949,University of Valle,Q3117949,74.19
+Q4068854,Delhi School of Economics,Q4068854,74.03
+Q50662,Goethe University Frankfurt,Q50662,73.955
+Q289348,London South Bank University,Q289348,73.61
+Q1541161,Lingnan University,Q1541161,73.57000000000001
+Q3056815,University of Huddersfield,Q3056815,73.3
+Q1468161,University of Colorado Denver,Q1468161,73.04
+Q132140,Federal University of Minas Gerais,Q132140,72.95
+Q1817137,São Paulo State University,Q1817137,72.93999999999998
+Q627271,Southern University,Q627271,72.175
+Q5103051,University of Port Harcourt,Q5103051,71.82000000000001
+Q696757,University of Duisburg-Essen,Q696757,71.705
+Q155354,University of Marburg,Q155354,71.425
+Q32120,University of Halle-Wittenberg,Q32120,71.365
+Q673354,University of St. Gallen,Q673354,71.255
+Q4710828,Newman University,Q4710828,71.08500000000001
+Q1100801,Cleveland State University,Q1100801,70.635
+Q572286,University of Sarajevo,Q572286,70.53
+Q1424632,Alexandria University,Q1424632,70.365
+Q84151,Taras Shevchenko National University of Kyiv,Q84151,70.30499999999999
+Q1144750,Queensland University of Technology,Q1144750,70.3
+Q122453,University of Stuttgart,Q122453,69.985
+Q658975,University of Lausanne,Q658975,69.59
+Q1060621,Ankara University,Q1060621,69.565
+Q2503794,Northumbria University,Q2503794,69.45
+Q1232180,University of Granada,Q1232180,69.33
+Q1751060,University of Trieste,Q1751060,69.30499999999999
+Q153012,University of Potsdam,Q153012,68.73
+Q659080,University of Bern,Q659080,68.7
+Q300980,Aalto University,Q300980,68.38
+Q624985,Eastern Illinois University,Q624985,68.25
+Q962011,University of Tasmania,Q962011,67.85000000000001
+Q981195,Central School of Speech and Drama,Q981195,67.74
+Q1661751,University of Karachi,Q1661751,67.38
+Q3551751,University of the District of Columbia,Q3551751,67.19
+Q383568,University of Valencia,Q383568,66.915
+Q3347861,"Islamic University, Bangladesh",Q3347861,66.9
+Q734266,Courtauld Institute of Art,Q734266,66.885
+Q1229996,University of Seville,Q1229996,66.58
+Q763586,Masaryk University,Q763586,66.49
+Q1026912,"California State University, Chico",Q1026912,66.31
+Q4119470,"University of Maryland, Baltimore",Q4119470,66.25
+Q1641788,University of Rhode Island,Q1641788,66.07
+Q2495874,University of Minnesota Duluth,Q2495874,65.85000000000001
+Q43452,Autonomous University of Barcelona,Q43452,65.42999999999999
+Q3511498,Bayero University Kano,Q3511498,65.355
+Q2749583,Presidency University,Q2749583,64.77
+Q309948,Ruhr University Bochum,Q309948,64.68499999999999
+Q607331,Universidad de San Carlos de Guatemala,Q607331,64.675
+Q1473677,University of Santiago de Compostela,Q1473677,64.625
+Q7566644,South Carolina State University,Q7566644,64.615
+Q835366,South China University of Technology,Q835366,64.42
+Q536512,James Cook University,Q536512,64.38
+Q4200627,Diponegoro University,Q4200627,64.34
+Q7855295,Turkish Naval Academy,Q7855295,63.709999999999994
+Q557597,University of Dar es Salaam,Q557597,63.160000000000004
+Q3399947,University of Jaffna,Q3399947,63.129999999999995
+Q941524,Alabama State University,Q941524,63.06
+Q1656608,Idaho State University,Q1656608,63.04500000000001
+Q940690,University of Missouri–Kansas City,Q940690,62.995
+Q1141452,Western Sydney University,Q1141452,62.059999999999995
+Q1165865,Imam Hossein University,Q1165865,62.044999999999995
+Q1180978,Deakin University,Q1180978,62.02000000000001
+Q837657,West University of Timișoara,Q837657,61.605
+Q506330,Bangladesh University of Engineering and Technology,Q506330,61.45
+Q1202292,Griffith University,Q1202292,61.325
+Q678982,Leibniz University Hannover,Q678982,61.29
+Q1273836,University of North Alabama,Q1273836,61.02000000000001
+Q15575,Flinders University,Q15575,60.915
+Q937482,Edge Hill University,Q937482,60.48
+Q3036648,University of Worcester,Q3036648,60.305
+Q939607,University of Roehampton,Q939607,60.28
+Q2919325,Jordan University of Science and Technology,Q2919325,60.18999999999999
+Q13140628,"Delta State University, Abraka",Q13140628,60.12
+Q1784748,Middle Tennessee State University,Q1784748,60.03
+Q1190852,Algiers 1 University,Q1190852,60.02000000000001
+Q3551569,Technological University of the Philippines,Q3551569,59.69
+Q2723670,Ain Shams University,Q2723670,59.394999999999996
+Q7896523,University of Uyo,Q7896523,59.23000000000001
+Q1375146,Murdoch University,Q1375146,59.035000000000004
+Q304985,Royal College of Music,Q304985,58.910000000000004
+Q1187623,Kentucky State University,Q1187623,58.665
+Q1048626,Lincoln University,Q1048626,58.46500000000001
+Q3509297,University of Abuja,Q3509297,58.254999999999995
+Q633561,University of Zaragoza,Q633561,58.055
+Q161982,Johannes Gutenberg University Mainz,Q161982,57.715
+Q7986919,West Virginia State University,Q7986919,57.635000000000005
+Q613736,Metropolitan State University of Denver,Q613736,57.375
+Q662355,Kunstakademie Düsseldorf,Q662355,57.35999999999999
+Q841581,Sofia University,Q841581,57.245000000000005
+Q1936057,Mimar Sinan Fine Arts University,Q1936057,57.175000000000004
+Q1277357,Edinburgh Napier University,Q1277357,57.105
+Q2495890,University of Nebraska Omaha,Q2495890,57.084999999999994
+Q978124,University of Southern Queensland,Q978124,56.96000000000001
+Q428520,University of Tirana,Q428520,56.615
+Q788091,Autonomous University of Madrid,Q788091,56.6
+Q1922090,Mersin University,Q1922090,56.305
+Q689400,TU Wien,Q689400,56.275000000000006
+Q936476,Central University of Venezuela,Q936476,56.09
+Q1258413,Universidad de Antioquia,Q1258413,56.08
+Q4670504,Abubakar Tafawa Balewa University,Q4670504,55.905
+Q500692,University of Bremen,Q500692,55.745
+Q746079,University of Cape Coast,Q746079,55.675000000000004
+Q1551044,Alabama Agricultural and Mechanical University,Q1551044,55.650000000000006
+Q574571,University of Regensburg,Q574571,55.49
+Q161976,University of Würzburg,Q161976,55.459999999999994
+Q1423677,University of the Sunshine Coast,Q1423677,55.415
+Q3551690,University of Winchester,Q3551690,55.33
+Q3551771,University of Wisconsin–Eau Claire,Q3551771,55.215
+Q3183295,University of Derby,Q3183295,55.205
+Q1549932,University of the Punjab,Q1549932,55.125
+Q168426,University of Münster,Q168426,54.825
+Q2297486,Università degli Studi Roma Tre,Q2297486,54.495
+Q1491731,Galatasaray University,Q1491731,54.47
+Q465922,Gdańsk University of Technology,Q465922,54.29500000000001
+Q156737,University of Kiel,Q156737,54.24
+Q7054810,North China Electric Power University,Q7054810,54.12
+Q1766573,University for Development Studies,Q1766573,53.765
+Q835440,University of Konstanz,Q835440,53.260000000000005
+Q774520,Université de Kinshasa,Q774520,53.18
+Q282097,Oregon Health & Science University,Q282097,53.04000000000001
+Q700758,Saarland University,Q700758,52.73500000000001
+Q7108022,Osun State University,Q7108022,52.565
+Q1093258,Yıldız Technical University,Q1093258,52.365
+Q1053985,Central Queensland University,Q1053985,52.31
+Q1325937,Agostinho Neto University,Q1325937,52.225
+Q317053,University of Giessen,Q317053,51.625
+Q14692455,University of Maryland Global Campus,Q14692455,51.555
+Q1424081,Marmara University,Q1424081,51.48499999999999
+Q36188,University of Fribourg,Q36188,51.23499999999999
+Q1683230,University of Bolton,Q1683230,50.745000000000005
+Q422208,Wageningen University & Research,Q422208,50.699999999999996
+Q55038,Berlin University of the Arts,Q55038,50.44
+Q2096836,University of Zambia,Q2096836,50.365
+Q567899,Panjab University,Q567899,50.35
+Q589636,Ss. Cyril and Methodius University of Skopje,Q589636,49.980000000000004
+Q3350920,Rajshahi University,Q3350920,49.975
+Q1678733,University of the Free State,Q1678733,49.815
+Q29671,University of Aveiro,Q29671,49.515
+Q875788,University of Innsbruck,Q875788,49.45
+Q7896780,University of the Virgin Islands,Q7896780,49.415
+Q126726,Government College University,Q126726,49.39
+Q940302,University of Las Palmas de Gran Canaria,Q940302,49.345000000000006
+Q4917580,Bishop Grosseteste University,Q4917580,49.294999999999995
+Q317032,University of Düsseldorf,Q317032,49.125
+Q4182,Weizmann Institute of Science,Q4182,49.010000000000005
+Q6841434,Middle Georgia State University,Q6841434,48.795
+Q2075365,University of Puerto Rico,Q2075365,48.57500000000001
+Q1397589,Central China Normal University,Q1397589,48.385
+Q2303432,University of Oviedo,Q2303432,48.265
+Q1026905,"California State University, Channel Islands",Q1026905,48.06
+Q507349,Gujarat University,Q507349,47.915
+Q52162280,Tarsus University,Q52162280,47.66499999999999
+Q1633215,University of Salerno,Q1633215,47.550000000000004
+Q6739286,Makerere University Business School,Q6739286,47.53
+Q7896167,"University of Puerto Rico, Río Piedras Campus",Q7896167,47.504999999999995
+Q1235258,Dokuz Eylül University,Q1235258,47.49
+Q754656,Athabasca University,Q754656,47.44499999999999
+Q7855223,Turkish Air Force Academy,Q7855223,47.129999999999995
+Q280247,Fluminense Federal University,Q280247,46.84
+Q1851075,Universidade Federal de Santa Catarina,Q1851075,46.805
+Q3445856,Royal Agricultural University,Q3445856,46.535
+Q2324294,Stuttgart State Academy of Art and Design,Q2324294,46.375
+Q1410332,National University of Lesotho,Q1410332,46.33500000000001
+Q835662,Ulm University,Q835662,46.285000000000004
+Q2508061,Valdosta State University,Q2508061,46.245
+Q915866,Chicago State University,Q915866,46.145
+Q1567050,Hacettepe University,Q1567050,46.04500000000001
+Q1557172,"University of Education, Winneba",Q1557172,45.93000000000001
+Q687017,FernUniversität in Hagen,Q687017,45.875
+Q1297001,Ege University,Q1297001,45.755
+Q845682,Trakya University,Q845682,45.7
+Q1496662,Gazi University,Q1496662,45.625
+Q3696003,National University of Sciences and Technology,Q3696003,45.415
+Q421739,National University of Distance Education,Q421739,45.330000000000005
+Q16734216,University of Health and Allied Sciences,Q16734216,45.18
+Q6123196,Jahangirnagar University,Q6123196,44.89
+Q7894375,Universidade Federal de Goiás,Q7894375,44.879999999999995
+Q31392,Comenius University,Q31392,44.82
+Q719925,Université du Burundi,Q719925,44.699999999999996
+Q1243904,University of Alcalá,Q1243904,44.61000000000001
+Q11684710,Polish Naval Academy,Q11684710,44.485
+Q240784,Yarmouk University,Q240784,44.28
+Q5233952,Shahjalal University of Science and Technology,Q5233952,44.195
+Q272951,Çukurova University,Q272951,44.19
+Q7895148,University of Burdwan,Q7895148,44.099999999999994
+Q483758,Anadolu University,Q483758,44.095
+Q1378,University of Maribor,Q1378,44.07
+Q2687782,University of Wisconsin–Stevens Point,Q2687782,43.74
+Q1814435,University of New England,Q1814435,43.7
+Q2322256,Federal University of Pernambuco,Q2322256,43.620000000000005
+Q4558480,Universidade Federal do Pará,Q4558480,43.615
+Q283099,Bundeswehr University Munich,Q283099,43.59
+Q2001033,Northern Kentucky University,Q2001033,43.57000000000001
+Q37008,Tbilisi State University,Q37008,43.455
+Q2096604,Sharif University of Technology,Q2096604,43.32
+Q312578,University of Music and Theatre Leipzig,Q312578,42.895
+Q2749558,Universidade Federal do Ceará,Q2749558,42.82000000000001
+Q7928229,Vidyasagar University,Q7928229,42.48499999999999
+Q159630,Chemnitz University of Technology,Q159630,42.405
+Q1236345,University of Murcia,Q1236345,42.375
+Q2495871,University of Mines and Technology,Q2495871,42.365
+Q3181219,"University of Science and Technology, Houari Boumediene",Q3181219,42.35
+Q700731,Medical University of Vienna,Q700731,42.265
+Q24382,Bielefeld University,Q24382,42.225
+Q2001798,Shiraz University,Q2001798,42.18
+Q52236662,Samsun University,Q52236662,42.035
+Q12437401,West Bengal State University,Q12437401,41.88
+Q1066188,Charles Sturt University,Q1066188,41.720000000000006
+Q2003976,Technical University of Valencia,Q2003976,41.67000000000001
+Q22963,German University of Administrative Sciences Speyer,Q22963,41.635
+Q2418908,Belarusian State University,Q2418908,41.54
+Q6973712,"National Institute of Technology, Durgapur",Q6973712,41.16
+Q7163226,Penn State Altoona,Q7163226,41.120000000000005
+Q272576,Çanakkale Onsekiz Mart University,Q272576,41.11
+Q12204407,Red Sea University,Q12204407,41.050000000000004
+Q3551618,University of Lomé,Q3551618,40.925
+Q1758474,University of Parma,Q1758474,40.879999999999995
+Q164028,University of Guadalajara,Q164028,40.71000000000001
+Q685557,TU Dortmund,Q685557,40.68
+Q6914146,State University of New York at Morrisville,Q6914146,40.59
+Q2005647,University of Allahabad,Q2005647,40.57
+Q414245,AGH University of Science and Technology,Q414245,40.405
+Q649906,Xidian University,Q649906,40.33
+Q24543,Pompeu Fabra University,Q24543,40.295
+Q829449,University of Franche-Comté,Q829449,40.260000000000005
+Q2000629,King Juan Carlos University,Q2000629,40.21000000000001
+Q18357149,University of Ghana Medical School,Q18357149,39.765
+Q6979225,University of Abomey-Calavi,Q6979225,39.74
+Q753778,Atatürk University,Q753778,39.730000000000004
+Q678965,University of Kaiserslautern,Q678965,39.69
+Q593710,Universidade Federal de São João del-Rei,Q593710,39.66
+Q8067559,Zayed University,Q8067559,39.655
+Q1674548,Beijing University of Technology,Q1674548,39.410000000000004
+Q1357517,University of Oulu,Q1357517,39.34
+Q3551438,Marien Ngouabi University,Q3551438,39.325
+Q414219,Academy of Fine Arts Vienna,Q414219,39.295
+Q702482,University of Bayreuth,Q702482,39.24
+Q1230902,University of Salento,Q1230902,39.120000000000005
+Q1247135,Carlos III University of Madrid,Q1247135,39.1
+Q1229924,University of Ioannina,Q1229924,38.870000000000005
+Q3551692,Université de Yaoundé I,Q3551692,38.84
+Q635118,Southeast Missouri State University,Q635118,38.63
+Q1257946,Tallinn University,Q1257946,38.580000000000005
+Q5814528,Federal University of Viçosa,Q5814528,38.57
+Q4823749,Karadeniz Technical University,Q4823749,38.47
+Q1337587,Emily Carr University of Art and Design,Q1337587,38.355
+Q2000065,University of Cádiz,Q2000065,38.275
+Q3551758,University of Minnesota Morris,Q3551758,37.985
+Q2342183,University of North Bengal,Q2342183,37.940000000000005
+Q3551626,Université de Maroua,Q3551626,37.87
+Q5654201,Harare Institute of Technology,Q5654201,37.72500000000001
+Q414052,"Academy of Fine Arts, Munich",Q414052,37.645
+Q1587312,University of Banja Luka,Q1587312,37.36
+Q1520608,University of Cyprus,Q1520608,37.279999999999994
+Q6089124,Necmettin Erbakan University,Q6089124,37.265
+Q1786067,University of Montenegro,Q1786067,37.255
+Q7571422,Southwestern Indian Polytechnic Institute,Q7571422,37.165
+Q2503441,University of Wisconsin–Oshkosh,Q2503441,37.1
+Q781108,University of León,Q781108,36.975
+Q2590962,University of Wisconsin–Platteville,Q2590962,36.82
+Q447354,Clausthal University of Technology,Q447354,36.67
+Q1723289,Northern University of Malaysia,Q1723289,36.61
+Q59668,University of Luxembourg,Q59668,36.589999999999996
+Q7092215,Ondokuz Mayıs University,Q7092215,36.525
+Q3446068,Worcester State University,Q3446068,36.51
+Q1811146,University of the Balearic Islands,Q1811146,36.45
+Q7894373,Federal University of Juiz de Fora,Q7894373,36.415
+Q29673,University of Minho,Q29673,36.4
+Q2303907,University of Kragujevac,Q2303907,36.4
+Q2378091,University of Wisconsin–Green Bay,Q2378091,36.29
+Q19612850,University of Health Sciences,Q19612850,36.27
+Q539881,University of La Laguna,Q539881,36.214999999999996
+Q5440475,Universidade Federal de Alagoas,Q5440475,36.065
+Q766962,University of Cantabria,Q766962,36.06
+Q1121200,Federation University Australia,Q1121200,36.059999999999995
+Q541548,University of Neuchâtel,Q541548,35.985
+Q666916,Vigo University,Q666916,35.964999999999996
+Q1627814,Selçuk University,Q1627814,35.81
+Q130499,Dicle University,Q130499,35.785
+Q2303527,University of Teramo,Q2303527,35.695
+Q343987,İnönü University,Q343987,35.69
+Q4276748,Recep Tayyip Erdoğan University,Q4276748,35.615
+Q734324,Technical University of Braunschweig,Q734324,35.580000000000005
+Q1076729,Vietnam National University,Q1076729,35.375
+Q1351317,Damascus University,Q1351317,35.34499999999999
+Q3011938,Federal University of the State of Rio de Janeiro,Q3011938,35.035
+Q7894370,Federal University of Fronteira Sul,Q7894370,34.95
+Q690912,University of Hohenheim,Q690912,34.925000000000004
+Q2067315,University of Cagliari,Q2067315,34.92
+Q1142874,Fırat University,Q1142874,34.89
+Q6073794,Amasya University,Q6073794,34.79
+Q29659,University of Pristina,Q29659,34.7
+Q1278023,Pamukkale University,Q1278023,34.675
+Q6381094,Kazi Nazrul University,Q6381094,34.48500000000001
+Q52162282,Sivas University of Science and Technology,Q52162282,34.22
+Q138182,Beijing Film Academy,Q138182,34.175000000000004
+Q20061641,Federal Rural University of Amazonia,Q20061641,34.095
+Q573975,"Bauhaus University, Weimar",Q573975,33.96999999999999
+Q10854154,Eastern New Mexico University,Q10854154,33.945
+Q52162273,Kayseri University,Q52162273,33.839999999999996
+Q180514,Victoria University,Q180514,33.660000000000004
+Q1064071,Charles Darwin University,Q1064071,33.644999999999996
+Q10387835,Federal University of South and Southeast of Pará,Q10387835,33.615
+Q16850737,İzmir Kâtip Çelebi University,Q16850737,33.580000000000005
+Q1640648,University of Canberra,Q1640648,33.535
+Q28221720,İzmir Democracy University,Q28221720,33.415
+Q7894382,Universidade Federal do Pampa,Q7894382,33.29
+Q280361,Andalas University,Q280361,33.29
+Q5057509,Manisa Celal Bayar University,Q5057509,33.21999999999999
+Q7895267,University of Chittagong,Q7895267,33.12
+Q28846425,National Defense University,Q28846425,33.065
+Q169939,Akdeniz University,Q169939,32.9
+Q6074590,Adana Science and Technology University,Q6074590,32.835
+Q6407000,Kilis 7 Aralık University,Q6407000,32.625
+Q702486,University of Trier,Q702486,32.58
+Q1574578,Qatar University,Q1574578,32.53
+Q1496654,Gaziantep University,Q1496654,32.515
+Q344405,İzmir Institute of Technology,Q344405,32.375
+Q28054180,Bakırçay University,Q28054180,32.335
+Q4810943,Erciyes University,Q4810943,32.325
+Q1557861,University of Évora,Q1557861,32.24
+Q1629641,Western Oregon University,Q1629641,32.21
+Q1394594,SGH Warsaw School of Economics,Q1394594,32.18
+Q1718685,Sakarya University,Q1718685,32.11000000000001
+Q689854,Freiberg University of Mining and Technology,Q689854,32.004999999999995
+Q1060,Hamburg University of Technology,Q1060,32.0
+Q7571324,Southwest Minnesota State University,Q7571324,31.935000000000002
+Q504723,University of Siegen,Q504723,31.84
+Q1304582,Turkish-German University,Q1304582,31.715
+Q4481798,Universidade Federal do Tocantins,Q4481798,31.700000000000003
+Q958650,University of Málaga,Q958650,31.679999999999996
+Q7894371,Federal University of Grande Dourados,Q7894371,31.505000000000003
+Q518851,Sibelius Academy,Q518851,31.450000000000003
+Q7566809,South China Agricultural University,Q7566809,31.379999999999995
+Q6825262,Metropolitan State University,Q6825262,31.265
+Q833822,University of Kassel,Q833822,31.215
+Q656871,University of Khartoum,Q656871,31.205000000000002
+Q447953,University of Wuppertal,Q447953,31.189999999999998
+Q3306835,Osmangazi University,Q3306835,31.159999999999997
+Q1278780,Southern Cross University,Q1278780,31.155
+Q679134,University of Paderborn,Q679134,31.129999999999995
+Q597758,University of Oldenburg,Q597758,31.125
+Q1964403,Namık Kemal University,Q1964403,31.03
+Q528377,University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca,Q528377,30.799999999999997
+Q4855264,Bangladesh Agricultural University,Q4855264,30.77
+Q6776185,University of Tennessee Southern,Q6776185,30.725
+Q52162261,Eskişehir Technical University,Q52162261,30.64
+Q7286777,Rashtriya Raksha University,Q7286777,30.61
+Q107298420,Murshidabad University,Q107298420,30.595000000000006
+Q278044,Vienna University of Economics and Business,Q278044,30.515
+Q11158752,Istanbul Medeniyet University,Q11158752,30.509999999999998
+Q7286433,Rajshahi University of Engineering & Technology,Q7286433,30.475
+Q10387824,Federal University of Cariri,Q10387824,30.47
+Q702499,Osnabrück University,Q702499,30.450000000000003
+Q1034602,Capilano University,Q1034602,30.345000000000006
+Q3179598,Public University of Navarre,Q3179598,30.325000000000003
+Q280305,University of A Coruña,Q280305,30.104999999999997
+Q2140369,Lodz University of Technology,Q2140369,29.985
+Q2037040,University of Alicante,Q2037040,29.944999999999993
+Q7603628,State University of New York at Potsdam,Q7603628,29.854999999999997
+Q281155,Gebze Institute of Technology,Q281155,29.825000000000003
+Q7185162,Philippine Merchant Marine Academy,Q7185162,29.795
+Q655866,University of Magdeburg,Q655866,29.709999999999997
+Q6085866,Bozok University,Q6085866,29.705000000000002
+Q603581,Kırklareli University,Q603581,29.64
+Q1510657,University of Burgos,Q1510657,29.634999999999998
+Q149481,European University Viadrina,Q149481,29.495
+Q5202403,National University of Engineering,Q5202403,29.455000000000002
+Q105676352,Brown University School of Public Health,Q105676352,29.260000000000005
+Q3044628,University of Liberia,Q3044628,29.185000000000002
+Q6973717,"National Institute of Technology, Patna",Q6973717,29.175
+Q2578027,Shihezi University,Q2578027,29.099999999999994
+Q414221,Academy of Performing Arts,Q414221,29.09
+Q201325,Ariel University,Q201325,28.909999999999997
+Q779549,Università per Stranieri di Perugia,Q779549,28.85
+Q704468,University of Passau,Q704468,28.77
+Q1235594,University of Lleida,Q1235594,28.754999999999995
+Q3578223,École nationale supérieure de chimie de Rennes,Q3578223,28.72
+Q19841130,Zhejiang Wanli University,Q19841130,28.694999999999993
+Q1506926,Fourah Bay College,Q1506926,28.689999999999998
+Q1121584,Democritus University of Thrace,Q1121584,28.625
+Q7523729,University of Sindh,Q7523729,28.564999999999998
+Q616905,University of Augsburg,Q616905,28.545
+Q129195,Technische Universität Ilmenau,Q129195,28.465
+Q530991,Helmut Schmidt University,Q530991,28.430000000000003
+Q7894364,State University of Londrina,Q7894364,28.415
+Q876520,"University of Natural Resources and Life Sciences, Vienna",Q876520,28.35
+Q7896431,University of Texas Health Science Center at Houston,Q7896431,28.215
+Q4855355,"National University, Bangladesh",Q4855355,28.17
+Q758560,Auburn University at Montgomery,Q758560,28.11
+Q729391,University of Extremadura,Q729391,28.025000000000002
+Q686522,University of Music and Performing Arts Vienna,Q686522,28.005000000000003
+Q748358,Autonomous University of Santo Domingo,Q748358,27.945
+Q1147874,Tshwane University of Technology,Q1147874,27.904999999999998
+Q895796,Ernst Busch Academy of Dramatic Arts,Q895796,27.860000000000003
+Q12712165,Jakarta State University,Q12712165,27.855000000000004
+Q12523418,State University of Yogyakarta,Q12523418,27.8
+Q6065828,Erzurum Technical University,Q6065828,27.535000000000004
+Q17049584,Bankura University,Q17049584,27.529999999999998
+Q648637,Medical University of Varna,Q648637,27.480000000000004
+Q1550686,Kocaeli University,Q1550686,27.445
+Q595840,Kastamonu University,Q595840,27.35
+Q5194072,Sivas Cumhuriyet University,Q5194072,27.225
+Q7676661,Taiyuan University of Technology,Q7676661,27.22
+Q502545,Ferdowsi University of Mashhad,Q502545,27.154999999999998
+Q2559074,Azerbaijan Medical University,Q2559074,27.154999999999998
+Q3449522,Bangabandhu Sheikh Mujibur Rahman Agricultural University,Q3449522,27.125
+Q22080808,"Federal University, Otuoke",Q22080808,27.084999999999997
+Q10952014,Hatay Mustafa Kemal University,Q10952014,27.0
+Q7902729,Uthman dan Fodiyo University,Q7902729,26.965
+Q1667493,International University of Africa,Q1667493,26.825000000000003
+Q3551702,Universidade do Estado de Santa Catarina,Q3551702,26.820000000000007
+Q359735,Aydın Adnan Menderes University,Q359735,26.765
+Q3707494,University of the Philippines Visayas,Q3707494,26.730000000000004
+Q5000560,Bursa Technical University,Q5000560,26.595
+Q11136363,Karabük University,Q11136363,26.59
+Q3671573,Van Yüzüncü Yıl University,Q3671573,26.525000000000002
+Q4855391,Bangladesh University of Textiles,Q4855391,26.400000000000002
+Q1814503,University of Girona,Q1814503,26.37
+Q2004114,Plekhanov Russian Economic University,Q2004114,26.265
+Q455331,"Hanover University of Music, Drama and Media",Q455331,26.225
+Q18479663,Fundação Educacional do Município de Assis,Q18479663,26.134999999999998
+Q7603641,State University of Semarang,Q7603641,26.1
+Q6859802,Batman University,Q6859802,26.045
+Q7896583,University of Washington Tacoma,Q7896583,25.995
+Q1218488,University of Almería,Q1218488,25.939999999999998
+Q573144,University of Jaén,Q573144,25.92
+Q3247377,Bursa Uludağ University,Q3247377,25.910000000000004
+Q1752716,University of Szczecin,Q1752716,25.885000000000005
+Q14415444,University of Taipei,Q14415444,25.884999999999998
+Q941806,University of Castile-La Mancha,Q941806,25.804999999999996
+Q6103376,Iğdır University,Q6103376,25.795
+Q7408055,Sam Ratulangi University,Q7408055,25.779999999999998
+Q305507,Abant Izzet Baysal University,Q305507,25.72
+Q707272,University of Bamberg,Q707272,25.715
+Q6088135,Bayburt University,Q6088135,25.67
+Q6084324,Yıldırım Beyazıt University,Q6084324,25.655
+Q2986673,Yanka Kupala State University of Grodno,Q2986673,25.630000000000003
+Q8047517,Yalova University,Q8047517,25.61
+Q3674310,Erzincan Binali Yıldırım University,Q3674310,25.555000000000003
+Q6586561,Mardin Artuklu University,Q6586561,25.53
+Q195081,Caragiale National University of Theatre and Film,Q195081,25.465
+Q5005278,Bülent Ecevit University,Q5005278,25.375
+Q5663864,Harran University,Q5663864,25.340000000000003
+Q6454207,Kütahya Dumlupınar University,Q6454207,25.28
+Q4690863,Afyon Kocatepe University,Q4690863,25.27
+Q13057681,Khulna University,Q13057681,25.194999999999997
+Q1631821,Universidad Michoacana de San Nicolás de Hidalgo,Q1631821,25.185
+Q4853224,Balıkesir University,Q4853224,25.145
+Q6368296,Karamanoğlu Mehmetbey University,Q6368296,25.125
+Q5013372,COMSATS University Islamabad,Q5013372,25.1
+Q4701750,Aksaray University,Q4701750,25.085
+Q975461,Lebanese University,Q975461,25.07
+Q3133193,Rovira i Virgili University,Q3133193,25.060000000000002
+Q5210049,Dakota State University,Q5210049,24.88
+Q6100422,Ordu University,Q6100422,24.855
+Q52236613,Ankara Hacı Bayram Veli University,Q52236613,24.82
+Q863852,Bingöl University,Q863852,24.810000000000002
+Q671363,Université Cheikh Anta Diop,Q671363,24.785
+Q550376,University of Baghdad,Q550376,24.695000000000004
+Q3674402,Kahramanmaraş Sütçü İmam University,Q3674402,24.64
+Q7894404,Universidade de Taubaté,Q7894404,24.595
+Q1278219,Eastern Oregon University,Q1278219,24.53
+Q2001088,Northern State University,Q2001088,24.46
+Q7042323,Niğde Ömer Halisdemir University,Q7042323,24.435
+Q3674409,Kafkas University,Q3674409,24.369999999999997
+Q7681273,Tamil Nadu Dr. Ambedkar Law University,Q7681273,24.325000000000003
+Q7896565,University of Washington Bothell,Q7896565,24.285
+Q21523789,Iskenderun Technical University,Q21523789,24.165
+Q7591209,St. Paul's University College,Q7591209,24.155
+Q45855,University of Bergamo,Q45855,24.09
+Q5626894,Gümüşhane University,Q5626894,24.08
+Q5650641,Hansraj College,Q5650641,24.065
+Q549697,Beijing Language and Culture University,Q549697,23.935000000000002
+Q12523449,Universitas Samudra,Q12523449,23.905
+Q6103572,Hitit University,Q6103572,23.87
+Q625158,Kaunas University of Technology,Q625158,23.87
+Q896116,Karlsruhe University of Arts and Design,Q896116,23.840000000000003
+Q6083428,Abdullah Gül University,Q6083428,23.8
+Q6081316,Düzce University,Q6081316,23.78
+Q12809694,Giresun University,Q12809694,23.755
+Q936354,National Film School of Denmark,Q936354,23.74
+Q15277924,Sir George Williams University,Q15277924,23.645
+Q7905547,Uşak University,Q7905547,23.59
+Q1475400,Transilvania University of Brașov,Q1475400,23.545
+Q6103200,Sinop University,Q6103200,23.534999999999997
+Q16827443,Bitlis Eren University,Q16827443,23.505
+Q6059990,Nevşehir Hacı Bektaş Veli University,Q6059990,23.475
+Q924465,Burdur Mehmet Akif Ersoy University,Q924465,23.475
+Q6944541,Muğla University,Q6944541,23.46
+Q52236553,Malatya Turgut Özal University,Q52236553,23.41
+Q7896757,University of the Philippines Open University,Q7896757,23.39
+Q7896344,University of Southern Mindanao,Q7896344,23.375
+Q52236385,Konya Technical University,Q52236385,23.36
+Q48862354,Universidade Estadual da Região Tocantina do Maranhão,Q48862354,23.310000000000002
+Q845177,Takasaki City University of Economics,Q845177,23.235
+Q20757715,Bandırma Onyedi Eylül University,Q20757715,23.215000000000003
+Q3674354,Ağrı İbrahim Çeçen University,Q3674354,23.16
+Q19370961,University of Côte d'Azur,Q19370961,23.155
+Q7513486,Siirt University,Q7513486,23.125
+Q5640536,Hakkari University,Q5640536,23.06
+Q6089196,Bartın University,Q6089196,23.04
+Q6098422,Çankırı Karatekin University,Q6098422,23.035
+Q12808547,Ardahan University,Q12808547,23.034999999999997
+Q12486663,Sumatra Institute of Technology,Q12486663,22.995
+Q21523975,Alanya Alaaddin Keykubat University,Q21523975,22.980000000000004
+Q3467737,Zhejiang University of Finance and Economics,Q3467737,22.900000000000002
+Q7603634,Padang State University,Q7603634,22.834999999999997
+Q7895470,University of Gour Banga,Q7895470,22.834999999999997
+Q380454,Adıyaman University,Q380454,22.81
+Q12523374,Malikussaleh University,Q12523374,22.8
+Q781371,Australian Catholic University,Q781371,22.770000000000003
+Q6103980,Artvin Çoruh University,Q6103980,22.709999999999997
+Q477988,Pablo de Olavide University,Q477988,22.64
+Q6096546,Bilecik Şeyh Edebali University,Q6096546,22.62
+Q105409652,Biswa Bangla Biswabidyalay,Q105409652,22.575000000000003
+Q4920974,Black Hills State University,Q4920974,22.575000000000003
+Q6454746,Kırıkkale University,Q6454746,22.525000000000002
+Q1672093,Ionian University,Q1672093,22.52
+Q6081936,Osmaniye Korkut Ata University,Q6081936,22.439999999999998
+Q427677,Al-Farabi Kazakh National University,Q427677,22.395
+Q4989145,Chittagong University of Engineering & Technology,Q4989145,22.355
+Q6944545,Muş Alparslan University,Q6944545,22.285
+Q2093139,University of Eastern Finland,Q2093139,22.27
+Q6088997,Ahi Evran University,Q6088997,22.205
+Q4904147,Bidhan Chandra Krishi Viswavidyalaya,Q4904147,22.165
+Q6552441,Munzur University,Q6552441,22.105000000000004
+Q7707476,Texas A&M University–Central Texas,Q7707476,21.995
+Q6402929,Khulna University of Engineering & Technology,Q6402929,21.985
+Q734010,University of Córdoba,Q734010,21.96
+Q319333,University of Hildesheim,Q319333,21.77
+Q7903320,Uttar Banga Krishi Viswavidyalaya,Q7903320,21.720000000000002
+Q7419011,The Sanskrit College and University,Q7419011,21.705
+Q13098271,Tidar University,Q13098271,21.7
+Q1856423,Universidad de la República,Q1856423,21.665000000000003
+Q8082628,Şırnak University,Q8082628,21.66
+Q1858061,Karlstad University,Q1858061,21.655
+Q52162277,Trabzon University,Q52162277,21.455
+Q657167,Hochschule für Musik und Theater München,Q657167,21.365
+Q7894433,Universiti Sains Islam Malaysia,Q7894433,21.334999999999997
+Q4855002,Bangabandhu Sheikh Mujibur Rahman Science and Technology University,Q4855002,21.314999999999998
+Q3350895,Netaji Subhas Open University,Q3350895,21.285
+Q4981651,Fairmont State University,Q4981651,21.275000000000002
+Q3578258,Benguet State University,Q3578258,21.255
+Q3550219,University of the Philippines Baguio,Q3550219,21.235
+Q19744801,Khairun University,Q19744801,21.174999999999997
+Q505170,Leuphana University of Lüneburg,Q505170,21.034999999999997
+Q4855005,Bangabandhu Sheikh Mujib Medical University,Q4855005,20.83
+Q2093477,Simón Bolívar University,Q2093477,20.695
+Q877686,University of Applied Arts Vienna,Q877686,20.635
+Q1622111,THI - Technical University of Applied Sciences in Ingolstadt,Q1622111,20.605
+Q19744837,Siliwangi University,Q19744837,20.585000000000004
+Q7508590,Sidho Kanho Birsha University,Q7508590,20.585
+Q149433,Brandenburg University of Technology,Q149433,20.474999999999998
+Q3551746,Sichuan International Studies University,Q3551746,20.42
+Q98955788,Nigerian Army University Biu,Q98955788,20.33
+Q17380687,"Indian Institute of Information Technology, Kalyani",Q17380687,20.33
+Q317087,University of Lübeck,Q317087,20.310000000000002
+Q448590,University of Koblenz - Landau,Q448590,20.28
+Q18354922,Federal University Dutse,Q18354922,20.105
+Q18354916,"Federal University, Birnin Kebbi",Q18354916,20.05
+Q5967499,Zhejiang Ocean University,Q5967499,19.75
+Q104881135,"Mahatma Gandhi University, West Bengal",Q104881135,19.740000000000002
+Q1619447,Lucian Blaga University of Sibiu,Q1619447,19.615
+Q1442385,Menéndez Pelayo International University,Q1442385,19.57
+Q468181,Hochschule für Musik Carl Maria von Weber,Q468181,19.450000000000003
+Q464752,Dresden Academy of Fine Arts,Q464752,19.395
+Q7895805,University of Minnesota Rochester,Q7895805,19.370000000000005
+Q681,Warsaw University of Life Sciences,Q681,19.275000000000002
+Q3808815,Navamindradhiraj University,Q3808815,19.235
+Q6794432,Mawlana Bhashani Science and Technology University,Q6794432,19.174999999999997
+Q1084383,University of Basilicata,Q1084383,19.115
+Q120795,University of La Rioja,Q120795,19.05
+Q7895110,University of Barishal,Q7895110,19.025000000000002
+Q1622133,University of Applied Sciences Offenburg,Q1622133,19.01
+Q6904331,Montana State University–Northern,Q6904331,19.005
+Q1622123,Magdeburg-Stendal University of Applied Sciences,Q1622123,18.995
+Q100872718,"Federal University, Wukari",Q100872718,18.73
+Q7895313,"National University of Arts and Culture, Mandalay",Q7895313,18.705
+Q25053184,Singaperbangsa University,Q25053184,18.660000000000004
+Q7101371,Oregon State University Cascades Campus,Q7101371,18.630000000000003
+Q55021,Hochschule für Musik und Tanz Köln,Q55021,18.625
+Q1131169,Vasyl Stefanyk Prycarpathian National University,Q1131169,18.625
+Q6122176,Jagannath University,Q6122176,18.605
+Q28147791,University of Ballarat,Q28147791,18.545
+Q2496174,University of Vechta,Q2496174,18.5
+Q3350524,Rabindra Bharati University,Q3350524,18.5
+Q1622237,Hochschule für bildende Künste Hamburg,Q1622237,18.485
+Q315229,German Sport University Cologne,Q315229,18.445
+Q6146410,Jamia Hamdard,Q6146410,18.39
+Q101579967,Osaka Metropolitan University,Q101579967,18.35
+Q5639859,Hajee Mohammad Danesh Science & Technology University,Q5639859,18.330000000000002
+Q10983190,Noakhali Science and Technology University,Q10983190,18.29
+Q2120205,University of Education Schwaebisch Gmuend,Q2120205,18.275000000000002
+Q5104666,Chongqing Normal University,Q5104666,18.245
+Q521612,Folkwang University of the Arts,Q521612,18.24
+Q2585282,University of Trnava,Q2585282,18.225
+Q569350,University of Television and Film Munich,Q569350,18.2
+Q506436,Europa-Universität Flensburg,Q506436,18.085
+Q852223,Carthage University,Q852223,18.055000000000003
+Q492766,N. I. Lobachevsky State University of Nizhny Novgorod,Q492766,17.939999999999998
+Q1137779,University of Cauca,Q1137779,17.925
+Q5255905,Universidad Nacional de Rosario,Q5255905,17.645
+Q317796,Frankfurt University of Music and Performing Arts,Q317796,17.58
+Q7984454,West Bengal University of Animal and Fishery Sciences,Q7984454,17.51
+Q60463842,Bangabandhu Sheikh Mujibur Rahman Digital University,Q60463842,17.44
+Q1567759,HafenCity University Hamburg,Q1567759,17.404999999999998
+Q26258550,Kaloji Narayana Rao University of Health Sciences,Q26258550,17.29
+Q105359583,Alipurduar University,Q105359583,17.270000000000003
+Q1781858,Hasselt University,Q1781858,17.24
+Q13634029,Dhaka University of Engineering & Technology,Q13634029,17.115
+Q972553,Universidad Autónoma Metropolitana,Q972553,16.895
+Q1932957,University of Opole,Q1932957,16.77
+Q4894042,International University of Andalucía,Q4894042,16.69
+Q1908174,Matej Bel University,Q1908174,16.675
+Q1305888,Muthesius Academy of Art,Q1305888,16.595
+Q895634,Technische Hochschule OWL,Q895634,16.529999999999998
+Q478464,University of Huelva,Q478464,16.49
+Q6164604,Jatiya Kabi Kazi Nazrul Islam University,Q6164604,16.299999999999997
+Q911561,Hannover Medical School,Q911561,16.285000000000004
+Q3551502,Valahia University of Târgoviște,Q3551502,16.105
+Q935460,University of Vic,Q935460,16.085000000000004
+Q6156635,Universidad Politécnica de Cartagena,Q6156635,16.014999999999997
+Q24676,Miguel Hernández University of Elche,Q24676,15.985
+Q650345,Hochschule für Musik Freiburg,Q650345,15.939999999999998
+Q7494600,Sher-e-Bangla Agricultural University,Q7494600,15.905000000000001
+Q53076757,The University of Nagano,Q53076757,15.885
+Q7660557,Sylhet Agricultural University,Q7660557,15.75
+Q7809596,Tishreen University,Q7809596,15.680000000000001
+Q1347773,Eqrem Çabej University of Gjirokastër,Q1347773,15.674999999999997
+Q761708,Karlsruhe University of Applied Sciences,Q761708,15.639999999999999
+Q568692,State University of Music and Performing Arts Stuttgart,Q568692,15.635
+Q1668416,Slovak University of Agriculture,Q1668416,15.585
+Q1310061,Karlsruhe University of Education,Q1310061,15.4
+Q5102412,Chittagong Veterinary and Animal Sciences University,Q5102412,15.355000000000002
+Q7489128,Shanxi University,Q7489128,15.350000000000001
+Q12114710,Kryvyi Rih State Pedagogical University,Q12114710,15.329999999999998
+Q7488458,Shanghai University of Sport,Q7488458,15.254999999999999
+Q660907,Rzeszów University,Q660907,15.205000000000002
+Q85805076,Tamale Technical University,Q85805076,15.155
+Q1011953,Burg Giebichenstein University of Art and Design Halle,Q1011953,15.15
+Q4880627,"Begum Rokeya University, Rangpur",Q4880627,15.07
+Q5301348,Douglas College,Q5301348,14.96
+Q3179505,University of El Salvador,Q3179505,14.954999999999998
+Q1552981,Gubkin University,Q1552981,14.945
+Q3777663,Royal Irish Academy of Music,Q3777663,14.785
+Q1973888,University of West Bohemia,Q1973888,14.764999999999999
+Q1778355,Slovak University of Technology in Bratislava,Q1778355,14.764999999999999
+Q1423960,Open University of Israel,Q1423960,14.615000000000002
+Q107209412,Sohag University,Q107209412,14.61
+Q278455,Somali National University,Q278455,14.530000000000001
+Q4855358,Bangladesh Open University,Q4855358,14.43
+Q1857875,Studium Biblicum Franciscanum,Q1857875,14.349999999999998
+Q7121811,Pabna University of Science and Technology,Q7121811,14.340000000000002
+Q3551328,University of Talca,Q3551328,14.27
+Q693769,University of Dodoma,Q693769,14.27
+Q881130,Rostock University of Music and Drama,Q881130,14.26
+Q5151843,Comilla University,Q5151843,14.16
+Q6979284,National University of Tucumán,Q6979284,14.15
+Q1808814,Universidad Veracruzana,Q1808814,14.11
+Q991872,Eszterházy Károly Catholic University,Q991872,14.07
+Q7148748,Patuakhali Science and Technology University,Q7148748,13.905000000000001
+Q1622135,Osnabrück University of Applied Sciences,Q1622135,13.905000000000001
+Q466664,University of the Arts Bremen,Q466664,13.895
+Q569460,Hochschule für Musik Hanns Eisler Berlin,Q569460,13.880000000000003
+Q1391201,Fachhochschule Kiel,Q1391201,13.805
+Q2032304,Belarusian State Academy of Music,Q2032304,13.705000000000002
+Q1719038,Technical University of Košice,Q1719038,13.685
+Q422166,University of Atlántico,Q422166,13.685
+Q700824,Hochschule für Musik und Theater Hamburg,Q700824,13.479999999999999
+Q1388301,FH Aachen,Q1388301,13.4
+Q4950311,Bourns College of Engineering,Q4950311,13.39
+Q4864983,University of Belgrade Faculty of Economics,Q4864983,13.350000000000001
+Q314089,Munich University of Applied Sciences,Q314089,13.190000000000001
+Q29016368,Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University,Q29016368,13.100000000000001
+Q317855,Hochschule für Musik Detmold,Q317855,13.085000000000003
+Q1461089,University of the Azores,Q1461089,13.080000000000002
+Q2378801,St. Petersburg State Transport University,Q2378801,12.989999999999998
+Q1247342,Mykolas Romeris University,Q1247342,12.9
+Q1938341,Ural State Technical University,Q1938341,12.785
+Q1622101,Esslingen University of Applied Sciences,Q1622101,12.780000000000001
+Q6148831,Jan Długosz University,Q6148831,12.645
+Q4855392,Bangladesh University of Professionals,Q4855392,12.64
+Q67654472,Bangabandhu Sheikh Mujibur Rahman Aviation and Aerospace University,Q67654472,12.63
+Q7894242,Autonomous University of San Luis Potosí,Q7894242,12.59
+Q3018624,Istanbul University State Conservatory,Q3018624,12.585
+Q1540704,University of Applied Sciences Stuttgart,Q1540704,12.545
+Q673308,University of Lucerne,Q673308,12.51
+Q1550192,Konrad Wolf Film University of Babelsberg,Q1550192,12.425
+Q315238,Robert Schumann Hochschule,Q315238,12.41
+Q4453142,Shota Rustaveli Theatre and Film University,Q4453142,12.365
+Q2501849,Alecu Russo State University of Bălți,Q2501849,12.329999999999998
+Q2092640,Lithuanian University of Health Sciences,Q2092640,12.254999999999999
+Q6187902,Jashore University of Science and Technology,Q6187902,12.129999999999999
+Q554425,FH Münster,Q554425,12.094999999999999
+Q1546014,University of Valparaíso,Q1546014,12.07
+Q2120211,Ludwigsburg University,Q2120211,12.065
+Q39046360,"Agriculture University, Jodhpur",Q39046360,12.060000000000002
+Q39046363,"Agriculture University, Kota",Q39046363,12.06
+Q4120419,University of Kufa,Q4120419,12.05
+Q1622083,Bonn-Rhein-Sieg University of Applied Sciences,Q1622083,12.035
+Q1622149,Saar College of Fine Arts,Q1622149,12.01
+Q322938,Academy of Fine Arts Karlsruhe,Q322938,11.815
+Q1622118,Constance University of Applied Sciences,Q1622118,11.754999999999999
+Q3732873,Escuela Superior Politécnica del Litoral,Q3732873,11.735
+Q2718933,University of Applied Sciences Ravensburg-Weingarten,Q2718933,11.695
+Q6156603,"National University of Altiplano, Puno",Q6156603,11.69
+Q1477607,University of Basrah,Q1477607,11.665000000000001
+Q1622105,Hochschule Harz,Q1622105,11.64
+Q192539,University of Zulia,Q192539,11.575000000000001
+Q2743336,University of Mosul,Q2743336,11.55
+Q414041,"Academy of Fine Arts, Nuremberg",Q414041,11.454999999999998
+Q3151965,Institut d'études politiques de Rennes,Q3151965,11.445
+Q20613237,Rangamati Science and Technology University,Q20613237,11.445
+Q9366812,University of Constantine the Philosopher,Q9366812,11.375
+Q760690,University of the Andes,Q760690,11.350000000000001
+Q4446047,Sumy State University,Q4446047,11.350000000000001
+Q1707779,University of Bahrain,Q1707779,11.32
+Q1622115,Kempten University of Applied Sciences,Q1622115,11.29
+Q178333,Pavol Jozef Šafárik University in Košice,Q178333,11.285
+Q202952,Hochschule Mittweida,Q202952,11.219999999999999
+Q29426444,Hassiba Benbouali University of Chlef,Q29426444,11.215
+Q18467847,Mandume ya Ndemufayo University,Q18467847,11.14
+Q2048456,"Palucca School of Dance, Dresden",Q2048456,11.079999999999998
+Q248702,Hochschule für Gestaltung Schwäbisch Gmünd,Q248702,11.04
+Q83839243,Chandpur Science and Technology University,Q83839243,10.98
+Q1584459,University of Technology,Q1584459,10.91
+Q1622239,Technical University of Applied Sciences Würzburg-Schweinfurt,Q1622239,10.899999999999999
+Q2646956,Alice Salomon University,Q2646956,10.87
+Q310842,Al-Mustansiriya University,Q310842,10.855
+Q1622175,Rottenburg University of Applied Forest Sciences,Q1622175,10.805
+Q3273657,Kuwait University,Q3273657,10.745
+Q54166,TH Köln – University of Applied Sciences,Q54166,10.745
+Q1466108,University of Economics in Bratislava,Q1466108,10.725000000000001
+Q61365816,Khulna Agricultural University,Q61365816,10.72
+Q109968653,Borg El Arab Technological University,Q109968653,10.709999999999999
+Q536163,Hochschule für Musik Franz Liszt Weimar,Q536163,10.600000000000001
+Q1503440,Technische Hochschule Nuremberg Georg Simon Ohm,Q1503440,10.6
+Q23043282,Islamic Arabic University,Q23043282,10.555
+Q107657111,"Hindi University, Howrah",Q107657111,10.505
+Q495347,University of Isfahan,Q495347,10.44
+Q30644965,"West Bengal University of Teachers' Training, Education Planning and Administration",Q30644965,10.435
+Q27961625,M'hamed Bougara University of Boumerdès,Q27961625,10.350000000000001
+Q7227041,Polytechnic José Antonio Echeverría,Q7227041,10.305
+Q1467445,Novosibirsk State Technical University,Q1467445,10.295
+Q448324,Hochschule für Musik Karlsruhe,Q448324,10.290000000000001
+Q19891182,Chittagong Medical University,Q19891182,10.24
+Q963904,University of Prešov,Q963904,10.15
+Q38779,University of the Bío-Bío,Q38779,10.01
+Q86502559,"Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj",Q86502559,10.0
+Q56816080,Rajshahi Medical University,Q56816080,9.985
+Q59599473,Sylhet Medical University,Q59599473,9.96
+Q315175,Academy of Fine Arts Leipzig,Q315175,9.915000000000001
+Q1773894,Weißensee Academy of Art Berlin,Q1773894,9.909999999999998
+Q1205322,University of Haiti,Q1205322,9.88
+Q224514,Hochschule Hannover,Q224514,9.855
+Q1622203,Hochschule für Musik Mainz,Q1622203,9.815
+Q879216,Braunschweig University of Art,Q879216,9.81
+Q2003858,University of Žilina,Q2003858,9.79
+Q1391209,Nordhausen University of Applied Sciences,Q1391209,9.785
+Q1391239,University of Applied Sciences Worms,Q1391239,9.76
+Q4243514,Kuban State University,Q4243514,9.745
+Q1324675,Dortmund University of Applied Sciences and Arts,Q1324675,9.695
+Q21410979,North Central Kansas Technical College,Q21410979,9.665
+Q2426655,Kyiv National Linguistic University,Q2426655,9.655000000000001
+Q4120068,University of Al-Qadisiyah,Q4120068,9.634999999999998
+Q1607255,University of Veterinary Medicine Hanover,Q1607255,9.5
+Q1639564,"National Institute of Astrophysics, Optics and Electronics",Q1639564,9.465
+Q29015031,Sheikh Hasina University,Q29015031,9.465
+Q1511650,Tula State University,Q1511650,9.395
+Q1622092,Bremen University of Applied Sciences,Q1622092,9.344999999999999
+Q1487242,Hochschule für Musik Saar,Q1487242,9.275
+Q1622179,Hochschule für Gestaltung Offenbach,Q1622179,9.225
+Q4250914,Manas University,Q4250914,9.200000000000001
+Q1853678,Al-Quds Open University,Q1853678,9.175
+Q7413580,San Cristóbal of Huamanga University,Q7413580,9.11
+Q1622079,University of Applied Sciences Biberach,Q1622079,9.104999999999999
+Q28223358,Machakos University,Q28223358,9.079999999999998
+Q1391198,University of Applied Sciences Kaiserslautern,Q1391198,9.015
+Q2026214,Mozyr State Pedagogical University named after I.P. Shamyakin,Q2026214,8.855
+Q284992,Darmstadt University of Applied Sciences,Q284992,8.815000000000001
+Q1117434,University of Béjaïa,Q1117434,8.785
+Q20613210,Rabindra University,Q20613210,8.775000000000002
+Q322886,Hochschule Düsseldorf,Q322886,8.775
+Q25059155,Mindanao State University-Sulu,Q25059155,8.74
+Q25059201,Mindanao State University – Maguindanao,Q25059201,8.74
+Q1622229,Nürtingen-Geislingen University of Applied Science,Q1622229,8.700000000000001
+Q827038,Academy of Media Arts Cologne,Q827038,8.65
+Q1622121,University of Applied Sciences Landshut,Q1622121,8.63
+Q4826829,Autonomous University of Chihuahua,Q4826829,8.62
+Q839919,University of Santiago de Cuba,Q839919,8.61
+Q3391585,Universidade Aberta de Portugal,Q3391585,8.555
+Q4826836,Autonomous University of Tamaulipas,Q4826836,8.54
+Q6979267,"National University of Science and Technology, Zimbabwe",Q6979267,8.54
+Q1622126,Merseburg University of Applied Sciences,Q1622126,8.535
+Q260107,Hochschule für Musik Würzburg,Q260107,8.51
+Q7896706,University of the Holy Quran and Islamic Sciences,Q7896706,8.459999999999999
+Q1138268,Hebron University,Q1138268,8.345
+Q314684,Technische Hochschule Mittelhessen,Q314684,8.325000000000001
+Q1093568,Selye János University,Q1093568,8.319999999999999
+Q10379501,People's Liberation Army Academy of Art,Q10379501,8.305
+Q6591807,University of Belgrade Faculty of Organizational Sciences,Q6591807,8.3
+Q7603635,State University of Zanzibar,Q7603635,8.295
+Q513622,Lübeck Academy of Music,Q513622,8.209999999999999
+Q116312167,"Faculty of Philosophy, University of East Sarajevo",Q116312167,8.18
+Q1391182,University of Applied Sciences in Brandenburg,Q1391182,8.155
+Q1622117,University of Applied Sciences Koblenz,Q1622117,8.13
+Q29901623,Université d'Alger 2,Q29901623,8.1
+Q875722,Städelschule,Q875722,8.084999999999999
+Q3551411,Université Gaston Berger,Q3551411,8.084999999999999
+Q1622138,Rhine-Waal University of Applied Sciences,Q1622138,8.075000000000001
+Q1736408,Catholic University in Ružomberok,Q1736408,8.045
+Q1622125,University of Applied Sciences Ludwigshafen,Q1622125,8.040000000000001
+Q1259168,South Westphalia University of Applied Sciences,Q1259168,7.96
+Q3070702,King Faisal University,Q3070702,7.88
+Q276599,Kanazawa College of Art,Q276599,7.859999999999999
+Q15261581,Nelson Mandela African Institution of Science and Technology,Q15261581,7.855
+Q1413500,Mannheim University of Music and Performing Arts,Q1413500,7.81
+Q30591100,Bangabandhu Sheikh Mujibur Rahman Maritime University,Q30591100,7.794999999999999
+Q1622234,Coburg University of Applied Sciences,Q1622234,7.739999999999999
+Q1622205,Hochschule für Musik Nürnberg,Q1622205,7.7
+Q2120272,Yunnan Normal University,Q2120272,7.605
+Q7895102,University of Babylon,Q7895102,7.585
+Q16121271,University of Zalingei,Q16121271,7.515
+Q1622076,Ansbach University of Applied Sciences,Q1622076,7.469999999999999
+Q7070817,Nyala University,Q7070817,7.425000000000001
+Q7524660,Sinnar University,Q7524660,7.405

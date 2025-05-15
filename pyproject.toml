@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "gpp"
+version = "1.0.3"
+description = ""
+authors = ["Anon <anon@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{ include = "gpp" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+lightning = "^2.4.0"
+torch = "^2.4.1"
+torchmetrics = "^1.4.1"
+sem-desc = "^6.13.5"
+loguru = "^0.7.2"
+libactor = "^2.6.2"
+keyvec = "^1.0.1"
+accelerate = "^1.3.0"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.27.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

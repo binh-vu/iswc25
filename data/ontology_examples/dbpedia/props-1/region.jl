@@ -1,0 +1,2 @@
+{"id":"http://dbpedia.org/resource/Palmer_Land","label":{"lang2value":{"en":"Palmer Land"},"lang":"en"},"description":{"lang2value":{"en":""},"lang":"en"},"aliases":{"lang2values":{"en":[]},"lang":"en"},"source":"http://dbpedia.org/resource/Eternity_Range","score":146.95}
+{"id":"http://dbpedia.org/resource/Ellsworth_Land","label":{"lang2value":{"en":"Ellsworth Land"},"lang":"en"},"description":{"lang2value":{"en":""},"lang":"en"},"aliases":{"lang2values":{"en":[]},"lang":"en"},"source":"http://dbpedia.org/resource/Ellsworth_Mountains","score":133.95000000000002}

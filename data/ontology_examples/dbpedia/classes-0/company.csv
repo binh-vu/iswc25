@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/Ford_Motor_Company,Ford Motor Company,http://dbpedia.org/resource/Ford_Motor_Company,779.825
+http://dbpedia.org/resource/Chevrolet,Chevrolet,http://dbpedia.org/resource/Chevrolet,710.5150000000001
+http://dbpedia.org/resource/BBC,BBC,http://dbpedia.org/resource/BBC,681.37
+http://dbpedia.org/resource/Toyota,Toyota,http://dbpedia.org/resource/Toyota,530.935
+http://dbpedia.org/resource/Honda,Honda,http://dbpedia.org/resource/Honda,500.625
+http://dbpedia.org/resource/Google,Google,http://dbpedia.org/resource/Google,471.57
+http://dbpedia.org/resource/Apple_Inc.,Apple Inc.,http://dbpedia.org/resource/Apple_Inc.,456.76
+http://dbpedia.org/resource/Associated_Press,Associated Press,http://dbpedia.org/resource/Associated_Press,424.365
+http://dbpedia.org/resource/Nintendo,Nintendo,http://dbpedia.org/resource/Nintendo,421.61000000000007
+http://dbpedia.org/resource/WWE,WWE,http://dbpedia.org/resource/WWE,406.61
+http://dbpedia.org/resource/Shout!_Factory,Shout! Factory,http://dbpedia.org/resource/Shout!_Factory,403.67
+http://dbpedia.org/resource/Warner_Bros.,Warner Bros.,http://dbpedia.org/resource/Warner_Bros.,373.46500000000003
+http://dbpedia.org/resource/Suzuki,Suzuki,http://dbpedia.org/resource/Suzuki,372.895
+http://dbpedia.org/resource/Ultimate_Fighting_Championship,Ultimate Fighting Championship,http://dbpedia.org/resource/Ultimate_Fighting_Championship,369.28999999999996
+http://dbpedia.org/resource/BBC_News,BBC News,http://dbpedia.org/resource/BBC_News,351.615
+http://dbpedia.org/resource/Bryna_Productions,Bryna Productions,http://dbpedia.org/resource/Bryna_Productions,350.92
+http://dbpedia.org/resource/National_Film_Registry,National Film Registry,http://dbpedia.org/resource/National_Film_Registry,344.315
+http://dbpedia.org/resource/Sports_Reference,Sports Reference,http://dbpedia.org/resource/Sports_Reference,333.02000000000004
+http://dbpedia.org/resource/Walt_Disney_Animation_Studios,Walt Disney Animation Studios,http://dbpedia.org/resource/Walt_Disney_Animation_Studios,329.865
+http://dbpedia.org/resource/Paramount_Pictures,Paramount Pictures,http://dbpedia.org/resource/Paramount_Pictures,329.43
+http://dbpedia.org/resource/The_Walt_Disney_Company,The Walt Disney Company,http://dbpedia.org/resource/The_Walt_Disney_Company,325.53499999999997
+http://dbpedia.org/resource/Yamaha_Motor_Company,Yamaha Motor Company,http://dbpedia.org/resource/Yamaha_Motor_Company,324.95000000000005
+http://dbpedia.org/resource/Microsoft,Microsoft,http://dbpedia.org/resource/Microsoft,320.995
+http://dbpedia.org/resource/Starbucks,Starbucks,http://dbpedia.org/resource/Starbucks,316.72499999999997
+"http://dbpedia.org/resource/Tesla,_Inc.","Tesla, Inc.","http://dbpedia.org/resource/Tesla,_Inc.",312.495
+http://dbpedia.org/resource/Intel,Intel,http://dbpedia.org/resource/Intel,308.095
+http://dbpedia.org/resource/BP,BP,http://dbpedia.org/resource/BP,306.2
+http://dbpedia.org/resource/Sega,Sega,http://dbpedia.org/resource/Sega,300.475
+http://dbpedia.org/resource/Universal_Pictures,Universal Pictures,http://dbpedia.org/resource/Universal_Pictures,296.81
+http://dbpedia.org/resource/Metro-Goldwyn-Mayer,Metro-Goldwyn-Mayer,http://dbpedia.org/resource/Metro-Goldwyn-Mayer,295.21500000000003
+http://dbpedia.org/resource/New_Japan_Pro-Wrestling,New Japan Pro-Wrestling,http://dbpedia.org/resource/New_Japan_Pro-Wrestling,293.57000000000005
+http://dbpedia.org/resource/Reuters,Reuters,http://dbpedia.org/resource/Reuters,293.15000000000003
+http://dbpedia.org/resource/Walmart,Walmart,http://dbpedia.org/resource/Walmart,290.33500000000004
+http://dbpedia.org/resource/General_Motors,General Motors,http://dbpedia.org/resource/General_Motors,288.14
+http://dbpedia.org/resource/DreamWorks_Animation,DreamWorks Animation,http://dbpedia.org/resource/DreamWorks_Animation,280.35499999999996
+http://dbpedia.org/resource/Maple_Leaf_Sports_&_Entertainment,Maple Leaf Sports & Entertainment,http://dbpedia.org/resource/Maple_Leaf_Sports_&_Entertainment,275.975
+http://dbpedia.org/resource/Oricon,Oricon,http://dbpedia.org/resource/Oricon,271.44
+http://dbpedia.org/resource/Renault,Renault,http://dbpedia.org/resource/Renault,269.93499999999995
+http://dbpedia.org/resource/IHeartMedia,IHeartMedia,http://dbpedia.org/resource/IHeartMedia,267.31
+http://dbpedia.org/resource/Lexus,Lexus,http://dbpedia.org/resource/Lexus,260.515
+http://dbpedia.org/resource/Australian_Recording_Industry_Association,Australian Recording Industry Association,http://dbpedia.org/resource/Australian_Recording_Industry_Association,260.5
+http://dbpedia.org/resource/Nissan,Nissan,http://dbpedia.org/resource/Nissan,259.01000000000005
+http://dbpedia.org/resource/Comcast,Comcast,http://dbpedia.org/resource/Comcast,258.99999999999994
+http://dbpedia.org/resource/20th_Century_Studios,20th Century Studios,http://dbpedia.org/resource/20th_Century_Studios,257.095
+http://dbpedia.org/resource/BBC_Sport,BBC Sport,http://dbpedia.org/resource/BBC_Sport,254.26500000000001
+http://dbpedia.org/resource/Zamperla,Zamperla,http://dbpedia.org/resource/Zamperla,247.535
+http://dbpedia.org/resource/Pixar,Pixar,http://dbpedia.org/resource/Pixar,246.72
+http://dbpedia.org/resource/Canadian_Broadcasting_Corporation,Canadian Broadcasting Corporation,http://dbpedia.org/resource/Canadian_Broadcasting_Corporation,246.125
+http://dbpedia.org/resource/Samsung_Electronics,Samsung Electronics,http://dbpedia.org/resource/Samsung_Electronics,242.275
+http://dbpedia.org/resource/Hulu,Hulu,http://dbpedia.org/resource/Hulu,241.59000000000003
+http://dbpedia.org/resource/Amazon_(company),Amazon (company),http://dbpedia.org/resource/Amazon_(company),236.47
+http://dbpedia.org/resource/Sky_Group,Sky Group,http://dbpedia.org/resource/Sky_Group,233.45000000000002
+http://dbpedia.org/resource/Columbia_Pictures,Columbia Pictures,http://dbpedia.org/resource/Columbia_Pictures,232.10500000000002
+http://dbpedia.org/resource/The_Trump_Organization,The Trump Organization,http://dbpedia.org/resource/The_Trump_Organization,231.82999999999998
+http://dbpedia.org/resource/Universal_Music_Group,Universal Music Group,http://dbpedia.org/resource/Universal_Music_Group,230.775
+http://dbpedia.org/resource/StarSat,StarSat,http://dbpedia.org/resource/StarSat,230.47000000000003
+http://dbpedia.org/resource/Dodge,Dodge,http://dbpedia.org/resource/Dodge,228.9
+http://dbpedia.org/resource/Toei_Animation,Toei Animation,http://dbpedia.org/resource/Toei_Animation,228.56
+http://dbpedia.org/resource/MTV_Entertainment_Studios,MTV Entertainment Studios,http://dbpedia.org/resource/MTV_Entertainment_Studios,228.35500000000002
+http://dbpedia.org/resource/Hanna-Barbera,Hanna-Barbera,http://dbpedia.org/resource/Hanna-Barbera,227.16
+http://dbpedia.org/resource/Sony,Sony,http://dbpedia.org/resource/Sony,226.32500000000002
+http://dbpedia.org/resource/Shell_plc,Shell plc,http://dbpedia.org/resource/Shell_plc,225.86499999999998
+http://dbpedia.org/resource/Nokia,Nokia,http://dbpedia.org/resource/Nokia,225.70499999999998
+http://dbpedia.org/resource/Audi,Audi,http://dbpedia.org/resource/Audi,224.13
+http://dbpedia.org/resource/Australian_Broadcasting_Corporation,Australian Broadcasting Corporation,http://dbpedia.org/resource/Australian_Broadcasting_Corporation,223.33000000000004
+http://dbpedia.org/resource/Tencent,Tencent,http://dbpedia.org/resource/Tencent,223.16
+http://dbpedia.org/resource/Square_Enix,Square Enix,http://dbpedia.org/resource/Square_Enix,222.67
+http://dbpedia.org/resource/Chrysler,Chrysler,http://dbpedia.org/resource/Chrysler,221.51500000000001
+http://dbpedia.org/resource/Ring_of_Honor,Ring of Honor,http://dbpedia.org/resource/Ring_of_Honor,221.06499999999997
+http://dbpedia.org/resource/Mitsubishi_Motors,Mitsubishi Motors,http://dbpedia.org/resource/Mitsubishi_Motors,217.445
+http://dbpedia.org/resource/Industrial_Light_&_Magic,Industrial Light & Magic,http://dbpedia.org/resource/Industrial_Light_&_Magic,217.36
+http://dbpedia.org/resource/Cosworth,Cosworth,http://dbpedia.org/resource/Cosworth,216.31
+http://dbpedia.org/resource/McDonald's,McDonald's,http://dbpedia.org/resource/McDonald's,213.37
+http://dbpedia.org/resource/Saleen,Saleen,http://dbpedia.org/resource/Saleen,212.67
+http://dbpedia.org/resource/Mercedes-Benz,Mercedes-Benz,http://dbpedia.org/resource/Mercedes-Benz,211.81500000000003
+http://dbpedia.org/resource/Ducati_Corse,Ducati Corse,http://dbpedia.org/resource/Ducati_Corse,211.26500000000001
+http://dbpedia.org/resource/T-Series_(company),T-Series (company),http://dbpedia.org/resource/T-Series_(company),208.26500000000001
+http://dbpedia.org/resource/IBM,IBM,http://dbpedia.org/resource/IBM,208.15
+http://dbpedia.org/resource/Volkswagen,Volkswagen,http://dbpedia.org/resource/Volkswagen,208.06
+http://dbpedia.org/resource/BMW,BMW,http://dbpedia.org/resource/BMW,207.72
+http://dbpedia.org/resource/BT_Group,BT Group,http://dbpedia.org/resource/BT_Group,205.97500000000002
+http://dbpedia.org/resource/RKO_Pictures,RKO Pictures,http://dbpedia.org/resource/RKO_Pictures,204.82500000000002
+http://dbpedia.org/resource/Vauxhall_Motors,Vauxhall Motors,http://dbpedia.org/resource/Vauxhall_Motors,204.35500000000002
+http://dbpedia.org/resource/All_Elite_Wrestling,All Elite Wrestling,http://dbpedia.org/resource/All_Elite_Wrestling,203.53
+http://dbpedia.org/resource/Paramount_Animation,Paramount Animation,http://dbpedia.org/resource/Paramount_Animation,203.435
+http://dbpedia.org/resource/East_India_Company,East India Company,http://dbpedia.org/resource/East_India_Company,203.405
+http://dbpedia.org/resource/Burger_King,Burger King,http://dbpedia.org/resource/Burger_King,202.60000000000002
+http://dbpedia.org/resource/Victoria's_Secret,Victoria's Secret,http://dbpedia.org/resource/Victoria's_Secret,202.35000000000002
+http://dbpedia.org/resource/Porsche,Porsche,http://dbpedia.org/resource/Porsche,200.82500000000005
+http://dbpedia.org/resource/Daimler_Company,Daimler Company,http://dbpedia.org/resource/Daimler_Company,200.70000000000002
+http://dbpedia.org/resource/MultiChoice,MultiChoice,http://dbpedia.org/resource/MultiChoice,200.145
+http://dbpedia.org/resource/DreamWorks_Pictures,DreamWorks Pictures,http://dbpedia.org/resource/DreamWorks_Pictures,200.05
+http://dbpedia.org/resource/Televisa,Televisa,http://dbpedia.org/resource/Televisa,199.495
+http://dbpedia.org/resource/Redmi,Redmi,http://dbpedia.org/resource/Redmi,196.62
+http://dbpedia.org/resource/Warner_Bros._Animation,Warner Bros. Animation,http://dbpedia.org/resource/Warner_Bros._Animation,196.34500000000003
+http://dbpedia.org/resource/Marvel_Studios,Marvel Studios,http://dbpedia.org/resource/Marvel_Studios,195.78000000000003
+"http://dbpedia.org/resource/Nike,_Inc.","Nike, Inc.","http://dbpedia.org/resource/Nike,_Inc.",195.695
+http://dbpedia.org/resource/Motorola_Mobility,Motorola Mobility,http://dbpedia.org/resource/Motorola_Mobility,194.66
+http://dbpedia.org/resource/SBF_Visa_Group,SBF Visa Group,http://dbpedia.org/resource/SBF_Visa_Group,194.595
+http://dbpedia.org/resource/American_International_Pictures,American International Pictures,http://dbpedia.org/resource/American_International_Pictures,194.54000000000002
+http://dbpedia.org/resource/Huawei,Huawei,http://dbpedia.org/resource/Huawei,194.175
+http://dbpedia.org/resource/Rooster_Teeth,Rooster Teeth,http://dbpedia.org/resource/Rooster_Teeth,193.935
+http://dbpedia.org/resource/Hyundai_Motor_Company,Hyundai Motor Company,http://dbpedia.org/resource/Hyundai_Motor_Company,193.51
+http://dbpedia.org/resource/Ferrari,Ferrari,http://dbpedia.org/resource/Ferrari,192.07999999999998
+http://dbpedia.org/resource/Electronic_Arts,Electronic Arts,http://dbpedia.org/resource/Electronic_Arts,190.45000000000002
+http://dbpedia.org/resource/Virgin_Media,Virgin Media,http://dbpedia.org/resource/Virgin_Media,189.95000000000002
+http://dbpedia.org/resource/Entertainment_One,Entertainment One,http://dbpedia.org/resource/Entertainment_One,189.57
+http://dbpedia.org/resource/Kodak,Kodak,http://dbpedia.org/resource/Kodak,188.40499999999997
+http://dbpedia.org/resource/Cobham_(company),Cobham (company),http://dbpedia.org/resource/Cobham_(company),187.465
+http://dbpedia.org/resource/Nippon_Ichi_Software,Nippon Ichi Software,http://dbpedia.org/resource/Nippon_Ichi_Software,186.835
+http://dbpedia.org/resource/Warner_Music_Group,Warner Music Group,http://dbpedia.org/resource/Warner_Music_Group,186.26
+http://dbpedia.org/resource/Warner_Bros._Discovery,Warner Bros. Discovery,http://dbpedia.org/resource/Warner_Bros._Discovery,185.67000000000002
+http://dbpedia.org/resource/Whole_Foods_Market,Whole Foods Market,http://dbpedia.org/resource/Whole_Foods_Market,184.69
+http://dbpedia.org/resource/Panasonic,Panasonic,http://dbpedia.org/resource/Panasonic,183.24
+http://dbpedia.org/resource/Siebe_Gorman,Siebe Gorman,http://dbpedia.org/resource/Siebe_Gorman,183.135
+http://dbpedia.org/resource/Boeing,Boeing,http://dbpedia.org/resource/Boeing,182.9
+http://dbpedia.org/resource/Pfizer,Pfizer,http://dbpedia.org/resource/Pfizer,182.71
+http://dbpedia.org/resource/YouTube_Premium,YouTube Premium,http://dbpedia.org/resource/YouTube_Premium,182.335
+http://dbpedia.org/resource/Land_Rover,Land Rover,http://dbpedia.org/resource/Land_Rover,182.31
+http://dbpedia.org/resource/Pluto_TV,Pluto TV,http://dbpedia.org/resource/Pluto_TV,181.92499999999998
+http://dbpedia.org/resource/MV_Agusta,MV Agusta,http://dbpedia.org/resource/MV_Agusta,180.81
+http://dbpedia.org/resource/Hanna-Barbera_Studios_Europe,Hanna-Barbera Studios Europe,http://dbpedia.org/resource/Hanna-Barbera_Studios_Europe,180.525
+http://dbpedia.org/resource/Holden,Holden,http://dbpedia.org/resource/Holden,180.12
+http://dbpedia.org/resource/Nintendo_Software_Planning_&_Development,Nintendo Software Planning & Development,http://dbpedia.org/resource/Nintendo_Software_Planning_&_Development,179.55
+http://dbpedia.org/resource/Oil_and_Natural_Gas_Corporation,Oil and Natural Gas Corporation,http://dbpedia.org/resource/Oil_and_Natural_Gas_Corporation,179.17499999999998
+http://dbpedia.org/resource/SpaceX,SpaceX,http://dbpedia.org/resource/SpaceX,178.78
+http://dbpedia.org/resource/Blockbuster_(retailer),Blockbuster (retailer),http://dbpedia.org/resource/Blockbuster_(retailer),178.615
+http://dbpedia.org/resource/Arena_Holdings,Arena Holdings,http://dbpedia.org/resource/Arena_Holdings,178.17
+http://dbpedia.org/resource/Dräger_(company),Dräger (company),http://dbpedia.org/resource/Dräger_(company),178.03
+http://dbpedia.org/resource/Namco,Namco,http://dbpedia.org/resource/Namco,177.72
+http://dbpedia.org/resource/Buick,Buick,http://dbpedia.org/resource/Buick,177.26500000000001
+http://dbpedia.org/resource/TV_Guide,TV Guide,http://dbpedia.org/resource/TV_Guide,176.88
+http://dbpedia.org/resource/East_Japan_Railway_Company,East Japan Railway Company,http://dbpedia.org/resource/East_Japan_Railway_Company,176.82000000000002
+http://dbpedia.org/resource/Jaguar_Cars,Jaguar Cars,http://dbpedia.org/resource/Jaguar_Cars,176.375
+http://dbpedia.org/resource/Vodafone,Vodafone,http://dbpedia.org/resource/Vodafone,175.865
+http://dbpedia.org/resource/Disney_Television_Animation,Disney Television Animation,http://dbpedia.org/resource/Disney_Television_Animation,175.415
+http://dbpedia.org/resource/Oceaneering_International,Oceaneering International,http://dbpedia.org/resource/Oceaneering_International,175.03499999999997
+http://dbpedia.org/resource/Tesco,Tesco,http://dbpedia.org/resource/Tesco,174.955
+http://dbpedia.org/resource/Production_I.G,Production I.G,http://dbpedia.org/resource/Production_I.G,174.185
+http://dbpedia.org/resource/GfK_Entertainment_charts,GfK Entertainment charts,http://dbpedia.org/resource/GfK_Entertainment_charts,174.09000000000003
+http://dbpedia.org/resource/Shaft_(company),Shaft (company),http://dbpedia.org/resource/Shaft_(company),174.02
+http://dbpedia.org/resource/Alfa_Romeo,Alfa Romeo,http://dbpedia.org/resource/Alfa_Romeo,173.32500000000002
+http://dbpedia.org/resource/Toshiba,Toshiba,http://dbpedia.org/resource/Toshiba,173.24
+http://dbpedia.org/resource/Santa_Cruz_Operation,Santa Cruz Operation,http://dbpedia.org/resource/Santa_Cruz_Operation,173.02499999999998
+http://dbpedia.org/resource/Suunto,Suunto,http://dbpedia.org/resource/Suunto,172.85000000000002
+http://dbpedia.org/resource/Lola_Cars,Lola Cars,http://dbpedia.org/resource/Lola_Cars,172.835
+http://dbpedia.org/resource/Caxton_and_CTP_Publishers_and_Printers,Caxton and CTP Publishers and Printers,http://dbpedia.org/resource/Caxton_and_CTP_Publishers_and_Printers,172.20000000000002
+http://dbpedia.org/resource/Rand_Refinery,Rand Refinery,http://dbpedia.org/resource/Rand_Refinery,171.82500000000002
+http://dbpedia.org/resource/Glory_(kickboxing),Glory (kickboxing),http://dbpedia.org/resource/Glory_(kickboxing),171.375
+http://dbpedia.org/resource/Hasbro,Hasbro,http://dbpedia.org/resource/Hasbro,170.99
+http://dbpedia.org/resource/Soyuzmultfilm,Soyuzmultfilm,http://dbpedia.org/resource/Soyuzmultfilm,170.96
+http://dbpedia.org/resource/ApiJect_Systems,ApiJect Systems,http://dbpedia.org/resource/ApiJect_Systems,170.94
+http://dbpedia.org/resource/TMS_Entertainment,TMS Entertainment,http://dbpedia.org/resource/TMS_Entertainment,170.675
+http://dbpedia.org/resource/Warner_Bros._Television_Studios,Warner Bros. Television Studios,http://dbpedia.org/resource/Warner_Bros._Television_Studios,170.54500000000002
+http://dbpedia.org/resource/News_Corporation,News Corporation,http://dbpedia.org/resource/News_Corporation,170.51999999999998
+http://dbpedia.org/resource/Nikon,Nikon,http://dbpedia.org/resource/Nikon,170.255
+http://dbpedia.org/resource/Shearwater_Research,Shearwater Research,http://dbpedia.org/resource/Shearwater_Research,170.04000000000002
+http://dbpedia.org/resource/Participant_(company),Participant (company),http://dbpedia.org/resource/Participant_(company),169.885
+http://dbpedia.org/resource/Adidas,Adidas,http://dbpedia.org/resource/Adidas,169.54500000000002
+http://dbpedia.org/resource/Nickelodeon_Animation_Studio,Nickelodeon Animation Studio,http://dbpedia.org/resource/Nickelodeon_Animation_Studio,169.545
+http://dbpedia.org/resource/Lotus_Cars,Lotus Cars,http://dbpedia.org/resource/Lotus_Cars,169.47000000000003
+http://dbpedia.org/resource/Dell,Dell,http://dbpedia.org/resource/Dell,169.04
+http://dbpedia.org/resource/Harley-Davidson,Harley-Davidson,http://dbpedia.org/resource/Harley-Davidson,168.76
+http://dbpedia.org/resource/Caterpillar_Inc.,Caterpillar Inc.,http://dbpedia.org/resource/Caterpillar_Inc.,168.51
+http://dbpedia.org/resource/Carillion,Carillion,http://dbpedia.org/resource/Carillion,168.375
+http://dbpedia.org/resource/Kinsa,Kinsa,http://dbpedia.org/resource/Kinsa,168.25
+http://dbpedia.org/resource/Aprilia,Aprilia,http://dbpedia.org/resource/Aprilia,167.71
+http://dbpedia.org/resource/Bombay_Stock_Exchange,Bombay Stock Exchange,http://dbpedia.org/resource/Bombay_Stock_Exchange,167.64
+http://dbpedia.org/resource/Sony_Interactive_Entertainment,Sony Interactive Entertainment,http://dbpedia.org/resource/Sony_Interactive_Entertainment,167.44
+http://dbpedia.org/resource/Submarine_Products,Submarine Products,http://dbpedia.org/resource/Submarine_Products,167.375
+http://dbpedia.org/resource/Sinclair_Broadcast_Group,Sinclair Broadcast Group,http://dbpedia.org/resource/Sinclair_Broadcast_Group,167.25
+http://dbpedia.org/resource/Oddworld_Inhabitants,Oddworld Inhabitants,http://dbpedia.org/resource/Oddworld_Inhabitants,166.575
+http://dbpedia.org/resource/Bentley,Bentley,http://dbpedia.org/resource/Bentley,166.46499999999997
+http://dbpedia.org/resource/Ster-Kinekor,Ster-Kinekor,http://dbpedia.org/resource/Ster-Kinekor,166.01
+http://dbpedia.org/resource/Nestlé,Nestlé,http://dbpedia.org/resource/Nestlé,165.87
+http://dbpedia.org/resource/Walt_Disney_Pictures,Walt Disney Pictures,http://dbpedia.org/resource/Walt_Disney_Pictures,165.34500000000003
+http://dbpedia.org/resource/Nautilus_Productions,Nautilus Productions,http://dbpedia.org/resource/Nautilus_Productions,165.1
+http://dbpedia.org/resource/Korean_Broadcasting_System,Korean Broadcasting System,http://dbpedia.org/resource/Korean_Broadcasting_System,164.79
+http://dbpedia.org/resource/Screen_Gems,Screen Gems,http://dbpedia.org/resource/Screen_Gems,164.73
+http://dbpedia.org/resource/Opel,Opel,http://dbpedia.org/resource/Opel,164.58
+http://dbpedia.org/resource/NBCUniversal,NBCUniversal,http://dbpedia.org/resource/NBCUniversal,164.10500000000002
+http://dbpedia.org/resource/Yuri_Gagarin_Cosmonaut_Training_Center,Yuri Gagarin Cosmonaut Training Center,http://dbpedia.org/resource/Yuri_Gagarin_Cosmonaut_Training_Center,163.795
+http://dbpedia.org/resource/Peugeot,Peugeot,http://dbpedia.org/resource/Peugeot,163.32500000000002
+http://dbpedia.org/resource/Heinke_(diving_equipment_manufacturer),Heinke (diving equipment manufacturer),http://dbpedia.org/resource/Heinke_(diving_equipment_manufacturer),163.01500000000001
+http://dbpedia.org/resource/SoftBank_Group,SoftBank Group,http://dbpedia.org/resource/SoftBank_Group,163.01
+http://dbpedia.org/resource/Rand_Water,Rand Water,http://dbpedia.org/resource/Rand_Water,162.985
+http://dbpedia.org/resource/WarnerMedia,WarnerMedia,http://dbpedia.org/resource/WarnerMedia,162.68000000000004
+http://dbpedia.org/resource/List_of_Norfolk_Southern_Railway_lines,List of Norfolk Southern Railway lines,http://dbpedia.org/resource/List_of_Norfolk_Southern_Railway_lines,162.535
+http://dbpedia.org/resource/Rio_Tinto_(corporation),Rio Tinto (corporation),http://dbpedia.org/resource/Rio_Tinto_(corporation),162.515
+http://dbpedia.org/resource/Disney_Star,Disney Star,http://dbpedia.org/resource/Disney_Star,162.365
+http://dbpedia.org/resource/Bell_Labs,Bell Labs,http://dbpedia.org/resource/Bell_Labs,161.905
+http://dbpedia.org/resource/Helix_Energy_Solutions_Group,Helix Energy Solutions Group,http://dbpedia.org/resource/Helix_Energy_Solutions_Group,161.89
+http://dbpedia.org/resource/Aqua_Lung/La_Spirotechnique,Aqua Lung/La Spirotechnique,http://dbpedia.org/resource/Aqua_Lung/La_Spirotechnique,161.82500000000002
+http://dbpedia.org/resource/Beuchat,Beuchat,http://dbpedia.org/resource/Beuchat,161.79
+http://dbpedia.org/resource/Walt_Disney_Studios_(division),Walt Disney Studios (division),http://dbpedia.org/resource/Walt_Disney_Studios_(division),161.77
+http://dbpedia.org/resource/EMI,EMI,http://dbpedia.org/resource/EMI,161.57000000000002
+http://dbpedia.org/resource/The_Leading_Hotels_of_the_World,The Leading Hotels of the World,http://dbpedia.org/resource/The_Leading_Hotels_of_the_World,161.42
+http://dbpedia.org/resource/Johnson_Outdoors,Johnson Outdoors,http://dbpedia.org/resource/Johnson_Outdoors,161.41
+http://dbpedia.org/resource/Funimation,Funimation,http://dbpedia.org/resource/Funimation,161.155
+http://dbpedia.org/resource/Chipotle_Mexican_Grill,Chipotle Mexican Grill,http://dbpedia.org/resource/Chipotle_Mexican_Grill,160.845
+http://dbpedia.org/resource/Oceanic_Worldwide,Oceanic Worldwide,http://dbpedia.org/resource/Oceanic_Worldwide,160.83
+http://dbpedia.org/resource/Stellantis,Stellantis,http://dbpedia.org/resource/Stellantis,160.73000000000002
+http://dbpedia.org/resource/Pininfarina,Pininfarina,http://dbpedia.org/resource/Pininfarina,160.535
+http://dbpedia.org/resource/Telstra,Telstra,http://dbpedia.org/resource/Telstra,160.21500000000003
+http://dbpedia.org/resource/Disneytoon_Studios,Disneytoon Studios,http://dbpedia.org/resource/Disneytoon_Studios,160.04
+http://dbpedia.org/resource/Cressi-Sub,Cressi-Sub,http://dbpedia.org/resource/Cressi-Sub,159.975
+"http://dbpedia.org/resource/Disney_Parks,_Experiences_and_Products","Disney Parks, Experiences and Products","http://dbpedia.org/resource/Disney_Parks,_Experiences_and_Products",159.96500000000003
+http://dbpedia.org/resource/Orenstein_&_Koppel,Orenstein & Koppel,http://dbpedia.org/resource/Orenstein_&_Koppel,159.79
+http://dbpedia.org/resource/Miramax,Miramax,http://dbpedia.org/resource/Miramax,159.095
+http://dbpedia.org/resource/Aqua_Lung_America,Aqua Lung America,http://dbpedia.org/resource/Aqua_Lung_America,158.66
+http://dbpedia.org/resource/Student_Sponsorship_Programme_South_Africa,Student Sponsorship Programme South Africa,http://dbpedia.org/resource/Student_Sponsorship_Programme_South_Africa,158.37
+http://dbpedia.org/resource/HMD_Global,HMD Global,http://dbpedia.org/resource/HMD_Global,158.155
+http://dbpedia.org/resource/Primedia,Primedia,http://dbpedia.org/resource/Primedia,158.07500000000002
+http://dbpedia.org/resource/United_Artists,United Artists,http://dbpedia.org/resource/United_Artists,157.51000000000002
+http://dbpedia.org/resource/20th_Century_Animation,20th Century Animation,http://dbpedia.org/resource/20th_Century_Animation,157.235
+http://dbpedia.org/resource/Cartoon_Network_Studios,Cartoon Network Studios,http://dbpedia.org/resource/Cartoon_Network_Studios,157.16500000000002
+http://dbpedia.org/resource/Allspark_(company),Allspark (company),http://dbpedia.org/resource/Allspark_(company),157.075
+http://dbpedia.org/resource/RAI,RAI,http://dbpedia.org/resource/RAI,156.985
+http://dbpedia.org/resource/Mares_(scuba_equipment),Mares (scuba equipment),http://dbpedia.org/resource/Mares_(scuba_equipment),156.94
+http://dbpedia.org/resource/Karst_Underwater_Research,Karst Underwater Research,http://dbpedia.org/resource/Karst_Underwater_Research,156.82500000000002
+http://dbpedia.org/resource/Terrytoons,Terrytoons,http://dbpedia.org/resource/Terrytoons,156.59
+http://dbpedia.org/resource/The_Independent_Institute_of_Education,The Independent Institute of Education,http://dbpedia.org/resource/The_Independent_Institute_of_Education,156.42
+http://dbpedia.org/resource/British_Leyland,British Leyland,http://dbpedia.org/resource/British_Leyland,156.4
+http://dbpedia.org/resource/Costco,Costco,http://dbpedia.org/resource/Costco,156.39499999999998
+http://dbpedia.org/resource/Divex,Divex,http://dbpedia.org/resource/Divex,156.355
+http://dbpedia.org/resource/Helen_Suzman_Foundation,Helen Suzman Foundation,http://dbpedia.org/resource/Helen_Suzman_Foundation,156.255
+http://dbpedia.org/resource/HeinrichsWeikamp,HeinrichsWeikamp,http://dbpedia.org/resource/HeinrichsWeikamp,156.06
+http://dbpedia.org/resource/College_of_Arms,College of Arms,http://dbpedia.org/resource/College_of_Arms,156.04500000000002
+http://dbpedia.org/resource/Infiniti,Infiniti,http://dbpedia.org/resource/Infiniti,155.99
+http://dbpedia.org/resource/Cloud9,Cloud9,http://dbpedia.org/resource/Cloud9,155.92
+http://dbpedia.org/resource/Macron_(sportswear),Macron (sportswear),http://dbpedia.org/resource/Macron_(sportswear),155.84
+http://dbpedia.org/resource/Republic_Pictures,Republic Pictures,http://dbpedia.org/resource/Republic_Pictures,155.76999999999998
+http://dbpedia.org/resource/Apeks,Apeks,http://dbpedia.org/resource/Apeks,155.615
+http://dbpedia.org/resource/Mack_Rides,Mack Rides,http://dbpedia.org/resource/Mack_Rides,155.435
+http://dbpedia.org/resource/Quizzical_Pictures,Quizzical Pictures,http://dbpedia.org/resource/Quizzical_Pictures,154.86
+http://dbpedia.org/resource/Johannesburg_City_Parks,Johannesburg City Parks,http://dbpedia.org/resource/Johannesburg_City_Parks,154.82500000000002
+http://dbpedia.org/resource/West_Japan_Railway_Company,West Japan Railway Company,http://dbpedia.org/resource/West_Japan_Railway_Company,154.80499999999998
+http://dbpedia.org/resource/Novell,Novell,http://dbpedia.org/resource/Novell,154.695
+http://dbpedia.org/resource/Monsanto,Monsanto,http://dbpedia.org/resource/Monsanto,154.245
+http://dbpedia.org/resource/United_International_Pictures,United International Pictures,http://dbpedia.org/resource/United_International_Pictures,153.77
+http://dbpedia.org/resource/Imagine_Entertainment,Imagine Entertainment,http://dbpedia.org/resource/Imagine_Entertainment,153.43500000000003
+http://dbpedia.org/resource/MediaTek,MediaTek,http://dbpedia.org/resource/MediaTek,153.355
+http://dbpedia.org/resource/Lenovo,Lenovo,http://dbpedia.org/resource/Lenovo,153.29
+http://dbpedia.org/resource/Bandai_Namco_Filmworks,Bandai Namco Filmworks,http://dbpedia.org/resource/Bandai_Namco_Filmworks,153.23
+http://dbpedia.org/resource/OK_Bazaars,OK Bazaars,http://dbpedia.org/resource/OK_Bazaars,153.095
+http://dbpedia.org/resource/Celestial_Games,Celestial Games,http://dbpedia.org/resource/Celestial_Games,153.065
+http://dbpedia.org/resource/Zierer,Zierer,http://dbpedia.org/resource/Zierer,152.89000000000001
+http://dbpedia.org/resource/Big_Boy_Restaurants,Big Boy Restaurants,http://dbpedia.org/resource/Big_Boy_Restaurants,152.355
+http://dbpedia.org/resource/Yamaha_Corporation,Yamaha Corporation,http://dbpedia.org/resource/Yamaha_Corporation,152.32500000000002
+http://dbpedia.org/resource/Xiaomi,Xiaomi,http://dbpedia.org/resource/Xiaomi,152.31500000000003
+http://dbpedia.org/resource/Zee_Studios,Zee Studios,http://dbpedia.org/resource/Zee_Studios,152.09
+http://dbpedia.org/resource/Bigshoes_Foundation,Bigshoes Foundation,http://dbpedia.org/resource/Bigshoes_Foundation,151.815
+http://dbpedia.org/resource/KTM,KTM,http://dbpedia.org/resource/KTM,151.76500000000001
+http://dbpedia.org/resource/Eurosport,Eurosport,http://dbpedia.org/resource/Eurosport,151.54500000000002
+http://dbpedia.org/resource/Michelin,Michelin,http://dbpedia.org/resource/Michelin,151.305
+http://dbpedia.org/resource/Sainsbury's,Sainsbury's,http://dbpedia.org/resource/Sainsbury's,150.85999999999999
+http://dbpedia.org/resource/Automobile_Association_of_South_Africa,Automobile Association of South Africa,http://dbpedia.org/resource/Automobile_Association_of_South_Africa,150.655
+http://dbpedia.org/resource/Mattel,Mattel,http://dbpedia.org/resource/Mattel,150.64000000000001
+http://dbpedia.org/resource/Integral_Coach_Factory,Integral Coach Factory,http://dbpedia.org/resource/Integral_Coach_Factory,150.49999999999997
+http://dbpedia.org/resource/Citroën,Citroën,http://dbpedia.org/resource/Citroën,150.48
+http://dbpedia.org/resource/South_African_Futures_Exchange,South African Futures Exchange,http://dbpedia.org/resource/South_African_Futures_Exchange,149.47
+http://dbpedia.org/resource/Mazda,Mazda,http://dbpedia.org/resource/Mazda,149.445
+http://dbpedia.org/resource/Miss_America,Miss America,http://dbpedia.org/resource/Miss_America,149.28500000000003
+http://dbpedia.org/resource/HSN,HSN,http://dbpedia.org/resource/HSN,148.85999999999999
+http://dbpedia.org/resource/Walt_Disney_World,Walt Disney World,http://dbpedia.org/resource/Walt_Disney_World,148.785
+http://dbpedia.org/resource/Dish_Network,Dish Network,http://dbpedia.org/resource/Dish_Network,148.785
+http://dbpedia.org/resource/Aniplex,Aniplex,http://dbpedia.org/resource/Aniplex,148.66000000000003
+http://dbpedia.org/resource/Hitachi,Hitachi,http://dbpedia.org/resource/Hitachi,148.53500000000003
+http://dbpedia.org/resource/Illumination_(company),Illumination (company),http://dbpedia.org/resource/Illumination_(company),148.46
+http://dbpedia.org/resource/Ralliart,Ralliart,http://dbpedia.org/resource/Ralliart,148.41
+http://dbpedia.org/resource/Kroger,Kroger,http://dbpedia.org/resource/Kroger,148.29500000000002
+http://dbpedia.org/resource/Premiere_Networks,Premiere Networks,http://dbpedia.org/resource/Premiere_Networks,148.22
+http://dbpedia.org/resource/Sony_Pictures,Sony Pictures,http://dbpedia.org/resource/Sony_Pictures,148.20000000000002
+http://dbpedia.org/resource/Steinway_&_Sons,Steinway & Sons,http://dbpedia.org/resource/Steinway_&_Sons,147.915
+http://dbpedia.org/resource/Marvel_Entertainment,Marvel Entertainment,http://dbpedia.org/resource/Marvel_Entertainment,147.32999999999998
+http://dbpedia.org/resource/Subway_(restaurant),Subway (restaurant),http://dbpedia.org/resource/Subway_(restaurant),147.27999999999997
+http://dbpedia.org/resource/AT&T,AT&T,http://dbpedia.org/resource/AT&T,147.25
+http://dbpedia.org/resource/Amblin_Partners,Amblin Partners,http://dbpedia.org/resource/Amblin_Partners,147.205
+http://dbpedia.org/resource/DreamWorks_Animation_Television,DreamWorks Animation Television,http://dbpedia.org/resource/DreamWorks_Animation_Television,147.165
+http://dbpedia.org/resource/World_Championship_Wrestling,World Championship Wrestling,http://dbpedia.org/resource/World_Championship_Wrestling,147.025
+http://dbpedia.org/resource/GSK_plc,GSK plc,http://dbpedia.org/resource/GSK_plc,147.00500000000002
+http://dbpedia.org/resource/BritBox,BritBox,http://dbpedia.org/resource/BritBox,146.995
+http://dbpedia.org/resource/Nu_Metro_Cinemas,Nu Metro Cinemas,http://dbpedia.org/resource/Nu_Metro_Cinemas,146.98499999999999
+http://dbpedia.org/resource/Pontiac_(automobile),Pontiac (automobile),http://dbpedia.org/resource/Pontiac_(automobile),146.33
+http://dbpedia.org/resource/Sony_Music,Sony Music,http://dbpedia.org/resource/Sony_Music,146.26000000000002
+http://dbpedia.org/resource/Eli_Lilly_and_Company,Eli Lilly and Company,http://dbpedia.org/resource/Eli_Lilly_and_Company,146.19500000000002
+http://dbpedia.org/resource/Freesat,Freesat,http://dbpedia.org/resource/Freesat,146.12499999999997
+http://dbpedia.org/resource/Eskom,Eskom,http://dbpedia.org/resource/Eskom,145.98
+http://dbpedia.org/resource/UKTV,UKTV,http://dbpedia.org/resource/UKTV,145.87499999999997
+http://dbpedia.org/resource/DirecTV,DirecTV,http://dbpedia.org/resource/DirecTV,145.22
+http://dbpedia.org/resource/Pizza_Hut,Pizza Hut,http://dbpedia.org/resource/Pizza_Hut,144.81
+http://dbpedia.org/resource/Viacom_(2005–2019),Viacom (2005–2019),http://dbpedia.org/resource/Viacom_(2005–2019),144.78
+http://dbpedia.org/resource/Allan_Herschell_Company,Allan Herschell Company,http://dbpedia.org/resource/Allan_Herschell_Company,144.73499999999999
+http://dbpedia.org/resource/National_Wrestling_Alliance,National Wrestling Alliance,http://dbpedia.org/resource/National_Wrestling_Alliance,144.705
+http://dbpedia.org/resource/Generation_Adidas,Generation Adidas,http://dbpedia.org/resource/Generation_Adidas,144.67000000000002
+http://dbpedia.org/resource/CBS_News_and_Stations,CBS News and Stations,http://dbpedia.org/resource/CBS_News_and_Stations,144.45000000000002
+http://dbpedia.org/resource/Indian_Oil_Corporation,Indian Oil Corporation,http://dbpedia.org/resource/Indian_Oil_Corporation,144.435
+http://dbpedia.org/resource/Free_(ISP),Free (ISP),http://dbpedia.org/resource/Free_(ISP),144.42999999999998
+http://dbpedia.org/resource/Tan_Chong_Motor,Tan Chong Motor,http://dbpedia.org/resource/Tan_Chong_Motor,144.295
+http://dbpedia.org/resource/Westinghouse_Broadcasting,Westinghouse Broadcasting,http://dbpedia.org/resource/Westinghouse_Broadcasting,144.275
+http://dbpedia.org/resource/Sauber_Motorsport,Sauber Motorsport,http://dbpedia.org/resource/Sauber_Motorsport,144.1
+http://dbpedia.org/resource/Qualcomm,Qualcomm,http://dbpedia.org/resource/Qualcomm,144.1
+http://dbpedia.org/resource/Fiat_S.p.A.,Fiat S.p.A.,http://dbpedia.org/resource/Fiat_S.p.A.,143.745
+http://dbpedia.org/resource/Politico,Politico,http://dbpedia.org/resource/Politico,143.725
+http://dbpedia.org/resource/Alphabet_Inc.,Alphabet Inc.,http://dbpedia.org/resource/Alphabet_Inc.,143.65500000000003
+http://dbpedia.org/resource/Dutch_East_India_Company,Dutch East India Company,http://dbpedia.org/resource/Dutch_East_India_Company,143.2
+http://dbpedia.org/resource/Xinhua_News_Agency,Xinhua News Agency,http://dbpedia.org/resource/Xinhua_News_Agency,143.195
+http://dbpedia.org/resource/Moving_Picture_Company,Moving Picture Company,http://dbpedia.org/resource/Moving_Picture_Company,142.905
+http://dbpedia.org/resource/Foxtel,Foxtel,http://dbpedia.org/resource/Foxtel,142.14
+http://dbpedia.org/resource/Nvidia,Nvidia,http://dbpedia.org/resource/Nvidia,141.44000000000003
+http://dbpedia.org/resource/Hino_Motors,Hino Motors,http://dbpedia.org/resource/Hino_Motors,141.005
+http://dbpedia.org/resource/Konami,Konami,http://dbpedia.org/resource/Konami,140.46
+http://dbpedia.org/resource/ITV_plc,ITV plc,http://dbpedia.org/resource/ITV_plc,140.45000000000002
+http://dbpedia.org/resource/A24,A24,http://dbpedia.org/resource/A24,140.40500000000003
+http://dbpedia.org/resource/Wells_Fargo,Wells Fargo,http://dbpedia.org/resource/Wells_Fargo,140.31
+http://dbpedia.org/resource/Sound_&_Vision_India,Sound & Vision India,http://dbpedia.org/resource/Sound_&_Vision_India,140.125
+http://dbpedia.org/resource/On2_Technologies,On2 Technologies,http://dbpedia.org/resource/On2_Technologies,139.84
+http://dbpedia.org/resource/Pacific_Gas_and_Electric_Company,Pacific Gas and Electric Company,http://dbpedia.org/resource/Pacific_Gas_and_Electric_Company,139.79000000000002
+http://dbpedia.org/resource/Cirque_du_Soleil,Cirque du Soleil,http://dbpedia.org/resource/Cirque_du_Soleil,139.73499999999999
+http://dbpedia.org/resource/Spark_New_Zealand,Spark New Zealand,http://dbpedia.org/resource/Spark_New_Zealand,139.40500000000003
+"http://dbpedia.org/resource/Discovery,_Inc.","Discovery, Inc.","http://dbpedia.org/resource/Discovery,_Inc.",139.38
+http://dbpedia.org/resource/T-Mobile_US,T-Mobile US,http://dbpedia.org/resource/T-Mobile_US,139.35
+http://dbpedia.org/resource/Goodyear_Tire_and_Rubber_Company,Goodyear Tire and Rubber Company,http://dbpedia.org/resource/Goodyear_Tire_and_Rubber_Company,139.29000000000002
+http://dbpedia.org/resource/Cadbury,Cadbury,http://dbpedia.org/resource/Cadbury,138.92000000000002
+http://dbpedia.org/resource/BAE_Systems,BAE Systems,http://dbpedia.org/resource/BAE_Systems,138.03
+http://dbpedia.org/resource/SEAT,SEAT,http://dbpedia.org/resource/SEAT,137.945
+http://dbpedia.org/resource/DC_Studios,DC Studios,http://dbpedia.org/resource/DC_Studios,137.795
+http://dbpedia.org/resource/Famous_Studios,Famous Studios,http://dbpedia.org/resource/Famous_Studios,137.6
+http://dbpedia.org/resource/Cadillac,Cadillac,http://dbpedia.org/resource/Cadillac,137.555
+http://dbpedia.org/resource/Fleischer_Studios,Fleischer Studios,http://dbpedia.org/resource/Fleischer_Studios,136.5
+http://dbpedia.org/resource/Fiat,Fiat,http://dbpedia.org/resource/Fiat,136.31
+http://dbpedia.org/resource/City_Football_Group,City Football Group,http://dbpedia.org/resource/City_Football_Group,136.23999999999998
+http://dbpedia.org/resource/Ubisoft,Ubisoft,http://dbpedia.org/resource/Ubisoft,136.21
+http://dbpedia.org/resource/Geely,Geely,http://dbpedia.org/resource/Geely,136.19
+http://dbpedia.org/resource/SM_Entertainment,SM Entertainment,http://dbpedia.org/resource/SM_Entertainment,135.94500000000002
+http://dbpedia.org/resource/Unilever,Unilever,http://dbpedia.org/resource/Unilever,135.915
+http://dbpedia.org/resource/Nippon_Charge_Service,Nippon Charge Service,http://dbpedia.org/resource/Nippon_Charge_Service,135.85
+http://dbpedia.org/resource/Rare_(company),Rare (company),http://dbpedia.org/resource/Rare_(company),135.655
+http://dbpedia.org/resource/Trans_World_Entertainment_(film_company),Trans World Entertainment (film company),http://dbpedia.org/resource/Trans_World_Entertainment_(film_company),135.205
+http://dbpedia.org/resource/Albertsons,Albertsons,http://dbpedia.org/resource/Albertsons,135.155
+http://dbpedia.org/resource/Joma,Joma,http://dbpedia.org/resource/Joma,135.06
+http://dbpedia.org/resource/Petrobras,Petrobras,http://dbpedia.org/resource/Petrobras,135.01500000000001
+http://dbpedia.org/resource/Navistar,Navistar,http://dbpedia.org/resource/Navistar,134.98999999999998
+http://dbpedia.org/resource/EBay,EBay,http://dbpedia.org/resource/EBay,134.73
+http://dbpedia.org/resource/Acura,Acura,http://dbpedia.org/resource/Acura,134.715
+http://dbpedia.org/resource/Oldsmobile,Oldsmobile,http://dbpedia.org/resource/Oldsmobile,134.615
+http://dbpedia.org/resource/Rogers_Communications,Rogers Communications,http://dbpedia.org/resource/Rogers_Communications,134.585
+http://dbpedia.org/resource/WWE_Studios,WWE Studios,http://dbpedia.org/resource/WWE_Studios,134.46
+http://dbpedia.org/resource/Nando's,Nando's,http://dbpedia.org/resource/Nando's,134.33
+http://dbpedia.org/resource/Taft_Broadcasting,Taft Broadcasting,http://dbpedia.org/resource/Taft_Broadcasting,134.305
+http://dbpedia.org/resource/Chevron_Corporation,Chevron Corporation,http://dbpedia.org/resource/Chevron_Corporation,134.17499999999998
+http://dbpedia.org/resource/Philadelphia_Toboggan_Coasters,Philadelphia Toboggan Coasters,http://dbpedia.org/resource/Philadelphia_Toboggan_Coasters,133.89499999999998
+http://dbpedia.org/resource/Siemens,Siemens,http://dbpedia.org/resource/Siemens,133.58
+http://dbpedia.org/resource/Kawasaki_Heavy_Industries,Kawasaki Heavy Industries,http://dbpedia.org/resource/Kawasaki_Heavy_Industries,133.54000000000002
+http://dbpedia.org/resource/Judd_(engine),Judd (engine),http://dbpedia.org/resource/Judd_(engine),133.455
+http://dbpedia.org/resource/Lancia,Lancia,http://dbpedia.org/resource/Lancia,133.265
+http://dbpedia.org/resource/TUFF_Phones,TUFF Phones,http://dbpedia.org/resource/TUFF_Phones,133.21
+http://dbpedia.org/resource/Lionsgate,Lionsgate,http://dbpedia.org/resource/Lionsgate,132.78
+http://dbpedia.org/resource/Bharat_Petroleum,Bharat Petroleum,http://dbpedia.org/resource/Bharat_Petroleum,132.57500000000002
+http://dbpedia.org/resource/Proton_Holdings,Proton Holdings,http://dbpedia.org/resource/Proton_Holdings,132.31
+http://dbpedia.org/resource/Lumen_Technologies,Lumen Technologies,http://dbpedia.org/resource/Lumen_Technologies,132.30499999999998
+http://dbpedia.org/resource/Volvo_Cars,Volvo Cars,http://dbpedia.org/resource/Volvo_Cars,132.21
+http://dbpedia.org/resource/Hindustan_Petroleum,Hindustan Petroleum,http://dbpedia.org/resource/Hindustan_Petroleum,132.155
+http://dbpedia.org/resource/Arm_(company),Arm (company),http://dbpedia.org/resource/Arm_(company),131.95000000000002
+http://dbpedia.org/resource/Lamborghini,Lamborghini,http://dbpedia.org/resource/Lamborghini,131.885
+http://dbpedia.org/resource/Sirius_XM,Sirius XM,http://dbpedia.org/resource/Sirius_XM,131.865
+http://dbpedia.org/resource/Isuzu,Isuzu,http://dbpedia.org/resource/Isuzu,131.78
+http://dbpedia.org/resource/Take-Two_Interactive,Take-Two Interactive,http://dbpedia.org/resource/Take-Two_Interactive,131.73999999999998
+http://dbpedia.org/resource/Bayer,Bayer,http://dbpedia.org/resource/Bayer,131.73499999999999
+http://dbpedia.org/resource/Bath_Iron_Works,Bath Iron Works,http://dbpedia.org/resource/Bath_Iron_Works,131.675
+http://dbpedia.org/resource/Vudu,Vudu,http://dbpedia.org/resource/Vudu,131.60999999999999
+http://dbpedia.org/resource/Barclays,Barclays,http://dbpedia.org/resource/Barclays,131.54500000000002
+http://dbpedia.org/resource/Sky_Cable,Sky Cable,http://dbpedia.org/resource/Sky_Cable,131.54
+http://dbpedia.org/resource/Paramount_International_Networks,Paramount International Networks,http://dbpedia.org/resource/Paramount_International_Networks,131.52
+http://dbpedia.org/resource/Samsung,Samsung,http://dbpedia.org/resource/Samsung,131.355
+http://dbpedia.org/resource/Warner_Bros._Cartoons,Warner Bros. Cartoons,http://dbpedia.org/resource/Warner_Bros._Cartoons,131.10999999999999
+http://dbpedia.org/resource/Smith_Electric_Vehicles,Smith Electric Vehicles,http://dbpedia.org/resource/Smith_Electric_Vehicles,131.04999999999998
+http://dbpedia.org/resource/Volkswagen_Group,Volkswagen Group,http://dbpedia.org/resource/Volkswagen_Group,131.04000000000002
+http://dbpedia.org/resource/Alibaba_Group,Alibaba Group,http://dbpedia.org/resource/Alibaba_Group,130.995
+http://dbpedia.org/resource/Mack_Trucks,Mack Trucks,http://dbpedia.org/resource/Mack_Trucks,130.91
+http://dbpedia.org/resource/Aldi,Aldi,http://dbpedia.org/resource/Aldi,130.15500000000003
+http://dbpedia.org/resource/BT_TV,BT TV,http://dbpedia.org/resource/BT_TV,130.12
+http://dbpedia.org/resource/Fitzroy_Iron_Works,Fitzroy Iron Works,http://dbpedia.org/resource/Fitzroy_Iron_Works,130.10999999999999
+http://dbpedia.org/resource/NXIVM,NXIVM,http://dbpedia.org/resource/NXIVM,130.10999999999999
+http://dbpedia.org/resource/Shaw_Direct,Shaw Direct,http://dbpedia.org/resource/Shaw_Direct,130.07
+http://dbpedia.org/resource/List_of_production_companies_owned_by_the_American_Broadcasting_Company,List of production companies owned by the American Broadcasting Company,http://dbpedia.org/resource/List_of_production_companies_owned_by_the_American_Broadcasting_Company,129.82
+http://dbpedia.org/resource/Canon_Inc.,Canon Inc.,http://dbpedia.org/resource/Canon_Inc.,129.755
+http://dbpedia.org/resource/Carrefour,Carrefour,http://dbpedia.org/resource/Carrefour,129.555
+http://dbpedia.org/resource/Sony_Pictures_Animation,Sony Pictures Animation,http://dbpedia.org/resource/Sony_Pictures_Animation,129.475
+http://dbpedia.org/resource/AOL,AOL,http://dbpedia.org/resource/AOL,129.435
+http://dbpedia.org/resource/GAIL,GAIL,http://dbpedia.org/resource/GAIL,129.29999999999998
+http://dbpedia.org/resource/Dallara,Dallara,http://dbpedia.org/resource/Dallara,129.095
+http://dbpedia.org/resource/Google_Nest,Google Nest,http://dbpedia.org/resource/Google_Nest,129.03
+http://dbpedia.org/resource/Docomo_Pacific,Docomo Pacific,http://dbpedia.org/resource/Docomo_Pacific,128.955
+http://dbpedia.org/resource/British_Rail,British Rail,http://dbpedia.org/resource/British_Rail,128.84
+http://dbpedia.org/resource/Protea_Hotels_by_Marriott,Protea Hotels by Marriott,http://dbpedia.org/resource/Protea_Hotels_by_Marriott,128.81
+http://dbpedia.org/resource/Westinghouse_Electric_Corporation,Westinghouse Electric Corporation,http://dbpedia.org/resource/Westinghouse_Electric_Corporation,128.675
+http://dbpedia.org/resource/Bank_of_Madras,Bank of Madras,http://dbpedia.org/resource/Bank_of_Madras,128.64999999999998
+http://dbpedia.org/resource/Warner_Bros._Discovery_EMEA,Warner Bros. Discovery EMEA,http://dbpedia.org/resource/Warner_Bros._Discovery_EMEA,128.625
+http://dbpedia.org/resource/Bechtel,Bechtel,http://dbpedia.org/resource/Bechtel,128.27499999999998
+http://dbpedia.org/resource/Hathway,Hathway,http://dbpedia.org/resource/Hathway,128.145
+http://dbpedia.org/resource/Xfinity,Xfinity,http://dbpedia.org/resource/Xfinity,127.96999999999998
+http://dbpedia.org/resource/Baidu,Baidu,http://dbpedia.org/resource/Baidu,127.83500000000002
+http://dbpedia.org/resource/Oracle_Corporation,Oracle Corporation,http://dbpedia.org/resource/Oracle_Corporation,127.57000000000001
+http://dbpedia.org/resource/Hudson's_Bay_Company,Hudson's Bay Company,http://dbpedia.org/resource/Hudson's_Bay_Company,127.49000000000001
+http://dbpedia.org/resource/PolyGram,PolyGram,http://dbpedia.org/resource/PolyGram,127.44
+http://dbpedia.org/resource/Saorview,Saorview,http://dbpedia.org/resource/Saorview,127.21499999999999
+http://dbpedia.org/resource/Kia,Kia,http://dbpedia.org/resource/Kia,127.14500000000001
+http://dbpedia.org/resource/BYD_Company,BYD Company,http://dbpedia.org/resource/BYD_Company,127.09500000000001
+http://dbpedia.org/resource/Studio_Ghibli,Studio Ghibli,http://dbpedia.org/resource/Studio_Ghibli,127.02000000000001
+http://dbpedia.org/resource/OnePlus,OnePlus,http://dbpedia.org/resource/OnePlus,126.88500000000002
+http://dbpedia.org/resource/YG_Entertainment,YG Entertainment,http://dbpedia.org/resource/YG_Entertainment,126.77000000000001
+http://dbpedia.org/resource/IKEA,IKEA,http://dbpedia.org/resource/IKEA,126.66999999999999
+http://dbpedia.org/resource/Oil_India,Oil India,http://dbpedia.org/resource/Oil_India,126.58
+http://dbpedia.org/resource/Tim_Hortons,Tim Hortons,http://dbpedia.org/resource/Tim_Hortons,126.57000000000001
+http://dbpedia.org/resource/Hard_Rock_Cafe,Hard Rock Cafe,http://dbpedia.org/resource/Hard_Rock_Cafe,126.495
+http://dbpedia.org/resource/DNEG,DNEG,http://dbpedia.org/resource/DNEG,126.45
+http://dbpedia.org/resource/United_Launch_Alliance,United Launch Alliance,http://dbpedia.org/resource/United_Launch_Alliance,126.435
+http://dbpedia.org/resource/NDTV,NDTV,http://dbpedia.org/resource/NDTV,126.38
+http://dbpedia.org/resource/LG_Electronics,LG Electronics,http://dbpedia.org/resource/LG_Electronics,126.33999999999999
+http://dbpedia.org/resource/Philips,Philips,http://dbpedia.org/resource/Philips,126.28
+http://dbpedia.org/resource/Top_Up_TV,Top Up TV,http://dbpedia.org/resource/Top_Up_TV,126.255
+http://dbpedia.org/resource/Major_League_Wrestling,Major League Wrestling,http://dbpedia.org/resource/Major_League_Wrestling,126.17000000000002
+http://dbpedia.org/resource/Saban_Entertainment,Saban Entertainment,http://dbpedia.org/resource/Saban_Entertainment,125.99499999999999
+http://dbpedia.org/resource/Activision,Activision,http://dbpedia.org/resource/Activision,125.74000000000001
+http://dbpedia.org/resource/Pakistan_Television_Corporation,Pakistan Television Corporation,http://dbpedia.org/resource/Pakistan_Television_Corporation,125.53999999999999
+http://dbpedia.org/resource/Mitsubishi_Heavy_Industries,Mitsubishi Heavy Industries,http://dbpedia.org/resource/Mitsubishi_Heavy_Industries,125.29499999999999
+http://dbpedia.org/resource/SES_S.A.,SES S.A.,http://dbpedia.org/resource/SES_S.A.,125.285
+http://dbpedia.org/resource/ITC_Entertainment,ITC Entertainment,http://dbpedia.org/resource/ITC_Entertainment,125.22499999999998
+http://dbpedia.org/resource/Cisco,Cisco,http://dbpedia.org/resource/Cisco,125.17000000000002
+http://dbpedia.org/resource/Bertelsmann,Bertelsmann,http://dbpedia.org/resource/Bertelsmann,125.14000000000001
+http://dbpedia.org/resource/Hewlett-Packard,Hewlett-Packard,http://dbpedia.org/resource/Hewlett-Packard,125.13500000000002
+http://dbpedia.org/resource/Scion_(automobile),Scion (automobile),http://dbpedia.org/resource/Scion_(automobile),124.90500000000003
+http://dbpedia.org/resource/Charvet_Place_Vendôme,Charvet Place Vendôme,http://dbpedia.org/resource/Charvet_Place_Vendôme,124.83
+http://dbpedia.org/resource/CNH_Industrial,CNH Industrial,http://dbpedia.org/resource/CNH_Industrial,124.69
+"http://dbpedia.org/resource/Berkshire,_Buckinghamshire_and_Oxfordshire_Wildlife_Trust","Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust","http://dbpedia.org/resource/Berkshire,_Buckinghamshire_and_Oxfordshire_Wildlife_Trust",124.605
+http://dbpedia.org/resource/Elsevier,Elsevier,http://dbpedia.org/resource/Elsevier,124.55000000000001
+http://dbpedia.org/resource/CinemaScore,CinemaScore,http://dbpedia.org/resource/CinemaScore,124.335
+http://dbpedia.org/resource/HiSilicon,HiSilicon,http://dbpedia.org/resource/HiSilicon,124.32999999999998
+http://dbpedia.org/resource/Electro-Motive_Diesel,Electro-Motive Diesel,http://dbpedia.org/resource/Electro-Motive_Diesel,124.275
+http://dbpedia.org/resource/United_States_Satellite_Broadcasting,United States Satellite Broadcasting,http://dbpedia.org/resource/United_States_Satellite_Broadcasting,123.59499999999998
+http://dbpedia.org/resource/China_Media_Group,China Media Group,http://dbpedia.org/resource/China_Media_Group,123.38
+http://dbpedia.org/resource/Big_Idea_Entertainment,Big Idea Entertainment,http://dbpedia.org/resource/Big_Idea_Entertainment,123.22000000000001
+http://dbpedia.org/resource/GTA_Teleguam,GTA Teleguam,http://dbpedia.org/resource/GTA_Teleguam,123.22000000000001
+http://dbpedia.org/resource/Apollo_Global_Management,Apollo Global Management,http://dbpedia.org/resource/Apollo_Global_Management,123.065
+http://dbpedia.org/resource/Fujitsu,Fujitsu,http://dbpedia.org/resource/Fujitsu,122.75
+http://dbpedia.org/resource/Skydance_Media,Skydance Media,http://dbpedia.org/resource/Skydance_Media,122.71
+http://dbpedia.org/resource/Vulkon_Entertainment,Vulkon Entertainment,http://dbpedia.org/resource/Vulkon_Entertainment,122.555
+http://dbpedia.org/resource/Timely_Comics,Timely Comics,http://dbpedia.org/resource/Timely_Comics,122.38999999999999
+http://dbpedia.org/resource/Sun_Microsystems,Sun Microsystems,http://dbpedia.org/resource/Sun_Microsystems,122.38999999999999
+http://dbpedia.org/resource/Austin_Motor_Company,Austin Motor Company,http://dbpedia.org/resource/Austin_Motor_Company,122.38000000000002
+http://dbpedia.org/resource/San_Diego_Zoo_Wildlife_Alliance,San Diego Zoo Wildlife Alliance,http://dbpedia.org/resource/San_Diego_Zoo_Wildlife_Alliance,121.80000000000001
+http://dbpedia.org/resource/Warner_Bros._Pictures,Warner Bros. Pictures,http://dbpedia.org/resource/Warner_Bros._Pictures,121.71
+http://dbpedia.org/resource/Marriott_International,Marriott International,http://dbpedia.org/resource/Marriott_International,121.605
+http://dbpedia.org/resource/L'Oréal,L'Oréal,http://dbpedia.org/resource/L'Oréal,121.59999999999998
+http://dbpedia.org/resource/Blizzard_Entertainment,Blizzard Entertainment,http://dbpedia.org/resource/Blizzard_Entertainment,121.28999999999999
+http://dbpedia.org/resource/Pakistan_Railways,Pakistan Railways,http://dbpedia.org/resource/Pakistan_Railways,121.21999999999998
+http://dbpedia.org/resource/Nortel,Nortel,http://dbpedia.org/resource/Nortel,121.16500000000002
+http://dbpedia.org/resource/Enfusion,Enfusion,http://dbpedia.org/resource/Enfusion,121.08999999999999
+http://dbpedia.org/resource/Sepang_International_Circuit,Sepang International Circuit,http://dbpedia.org/resource/Sepang_International_Circuit,120.96999999999998
+http://dbpedia.org/resource/Sanofi,Sanofi,http://dbpedia.org/resource/Sanofi,120.94500000000001
+http://dbpedia.org/resource/Warner_Bros._Discovery_International,Warner Bros. Discovery International,http://dbpedia.org/resource/Warner_Bros._Discovery_International,120.59499999999998
+http://dbpedia.org/resource/Studebaker,Studebaker,http://dbpedia.org/resource/Studebaker,120.57000000000001
+http://dbpedia.org/resource/Alvis_Car_and_Engineering_Company,Alvis Car and Engineering Company,http://dbpedia.org/resource/Alvis_Car_and_Engineering_Company,120.49000000000001
+http://dbpedia.org/resource/Central_Japan_Railway_Company,Central Japan Railway Company,http://dbpedia.org/resource/Central_Japan_Railway_Company,120.38499999999999
+http://dbpedia.org/resource/Mabuchi_Motor,Mabuchi Motor,http://dbpedia.org/resource/Mabuchi_Motor,120.25999999999999
+http://dbpedia.org/resource/Airbnb,Airbnb,http://dbpedia.org/resource/Airbnb,120.01500000000001
+http://dbpedia.org/resource/Chery,Chery,http://dbpedia.org/resource/Chery,120.005
+http://dbpedia.org/resource/United_Press_International,United Press International,http://dbpedia.org/resource/United_Press_International,119.96
+http://dbpedia.org/resource/Delta_Hotels,Delta Hotels,http://dbpedia.org/resource/Delta_Hotels,119.91499999999999
+http://dbpedia.org/resource/Paramount_Media_Networks,Paramount Media Networks,http://dbpedia.org/resource/Paramount_Media_Networks,119.685
+http://dbpedia.org/resource/Northrop_Grumman,Northrop Grumman,http://dbpedia.org/resource/Northrop_Grumman,119.51999999999998
+http://dbpedia.org/resource/Freeview_(UK),Freeview (UK),http://dbpedia.org/resource/Freeview_(UK),119.47500000000001
+http://dbpedia.org/resource/Seagram,Seagram,http://dbpedia.org/resource/Seagram,119.46499999999999
+http://dbpedia.org/resource/AstraZeneca,AstraZeneca,http://dbpedia.org/resource/AstraZeneca,119.4
+http://dbpedia.org/resource/Lockheed_Martin,Lockheed Martin,http://dbpedia.org/resource/Lockheed_Martin,119.37
+http://dbpedia.org/resource/Marriott_Hotels_&_Resorts,Marriott Hotels & Resorts,http://dbpedia.org/resource/Marriott_Hotels_&_Resorts,119.32
+http://dbpedia.org/resource/IG_Farben,IG Farben,http://dbpedia.org/resource/IG_Farben,119.26500000000001
+http://dbpedia.org/resource/Meta_Platforms,Meta Platforms,http://dbpedia.org/resource/Meta_Platforms,119.245
+http://dbpedia.org/resource/Film4_Productions,Film4 Productions,http://dbpedia.org/resource/Film4_Productions,119.07500000000003
+http://dbpedia.org/resource/TalkTalk_TV,TalkTalk TV,http://dbpedia.org/resource/TalkTalk_TV,119.07000000000001
+http://dbpedia.org/resource/PepsiCo,PepsiCo,http://dbpedia.org/resource/PepsiCo,119.04499999999999
+http://dbpedia.org/resource/Novartis,Novartis,http://dbpedia.org/resource/Novartis,119.00999999999999
+http://dbpedia.org/resource/McKinsey_&_Company,McKinsey & Company,http://dbpedia.org/resource/McKinsey_&_Company,118.94
+http://dbpedia.org/resource/Tata_Motors,Tata Motors,http://dbpedia.org/resource/Tata_Motors,118.83
+http://dbpedia.org/resource/Village_Roadshow_Pictures,Village Roadshow Pictures,http://dbpedia.org/resource/Village_Roadshow_Pictures,118.585
+http://dbpedia.org/resource/GUS_(retailer),GUS (retailer),http://dbpedia.org/resource/GUS_(retailer),118.55499999999998
+http://dbpedia.org/resource/GMMTV,GMMTV,http://dbpedia.org/resource/GMMTV,118.54500000000002
+http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center,University of Pittsburgh Medical Center,http://dbpedia.org/resource/University_of_Pittsburgh_Medical_Center,118.48
+http://dbpedia.org/resource/Star_China_Media,Star China Media,http://dbpedia.org/resource/Star_China_Media,118.41500000000002
+http://dbpedia.org/resource/Gannett,Gannett,http://dbpedia.org/resource/Gannett,118.17500000000001
+http://dbpedia.org/resource/Taligent,Taligent,http://dbpedia.org/resource/Taligent,118.05500000000002
+http://dbpedia.org/resource/House_of_Fraser,House of Fraser,http://dbpedia.org/resource/House_of_Fraser,117.80000000000001
+http://dbpedia.org/resource/NTL_Incorporated,NTL Incorporated,http://dbpedia.org/resource/NTL_Incorporated,117.79000000000002
+http://dbpedia.org/resource/Sharp_Corporation,Sharp Corporation,http://dbpedia.org/resource/Sharp_Corporation,117.66499999999999
+http://dbpedia.org/resource/Orange_S.A.,Orange S.A.,http://dbpedia.org/resource/Orange_S.A.,117.63999999999999
+http://dbpedia.org/resource/Simon_&_Schuster,Simon & Schuster,http://dbpedia.org/resource/Simon_&_Schuster,117.51500000000001
+http://dbpedia.org/resource/Lukoil,Lukoil,http://dbpedia.org/resource/Lukoil,117.29000000000002
+http://dbpedia.org/resource/Maserati,Maserati,http://dbpedia.org/resource/Maserati,117.01499999999999
+http://dbpedia.org/resource/Media_Molecule,Media Molecule,http://dbpedia.org/resource/Media_Molecule,116.96000000000002
+http://dbpedia.org/resource/Turner_Broadcasting_System,Turner Broadcasting System,http://dbpedia.org/resource/Turner_Broadcasting_System,116.93
+http://dbpedia.org/resource/Future_plc,Future plc,http://dbpedia.org/resource/Future_plc,116.81500000000001
+http://dbpedia.org/resource/Sky_Deutschland,Sky Deutschland,http://dbpedia.org/resource/Sky_Deutschland,116.73
+http://dbpedia.org/resource/Enron_scandal,Enron scandal,http://dbpedia.org/resource/Enron_scandal,116.65
+http://dbpedia.org/resource/Rockchip,Rockchip,http://dbpedia.org/resource/Rockchip,116.52499999999998
+"http://dbpedia.org/resource/Home_Box_Office,_Inc.","Home Box Office, Inc.","http://dbpedia.org/resource/Home_Box_Office,_Inc.",116.49000000000001
+http://dbpedia.org/resource/List_of_assets_owned_by_the_Walt_Disney_Company,List of assets owned by the Walt Disney Company,http://dbpedia.org/resource/List_of_assets_owned_by_the_Walt_Disney_Company,116.485
+http://dbpedia.org/resource/NEC,NEC,http://dbpedia.org/resource/NEC,116.435
+http://dbpedia.org/resource/RCA,RCA,http://dbpedia.org/resource/RCA,116.42000000000002
+http://dbpedia.org/resource/TriStar_Pictures,TriStar Pictures,http://dbpedia.org/resource/TriStar_Pictures,116.33999999999999
+http://dbpedia.org/resource/Mugen_Motorsports,Mugen Motorsports,http://dbpedia.org/resource/Mugen_Motorsports,116.325
+http://dbpedia.org/resource/List_of_animation_studios_owned_by_the_Walt_Disney_Company,List of animation studios owned by the Walt Disney Company,http://dbpedia.org/resource/List_of_animation_studios_owned_by_the_Walt_Disney_Company,116.23500000000001
+http://dbpedia.org/resource/Pinfari,Pinfari,http://dbpedia.org/resource/Pinfari,116.18
+http://dbpedia.org/resource/Nelvana,Nelvana,http://dbpedia.org/resource/Nelvana,116.14499999999998
+http://dbpedia.org/resource/JTBC,JTBC,http://dbpedia.org/resource/JTBC,116.11500000000001
+http://dbpedia.org/resource/EC_Comics,EC Comics,http://dbpedia.org/resource/EC_Comics,116.06500000000001
+http://dbpedia.org/resource/BYD_Auto,BYD Auto,http://dbpedia.org/resource/BYD_Auto,115.71999999999998
+http://dbpedia.org/resource/DoubleClick,DoubleClick,http://dbpedia.org/resource/DoubleClick,115.705
+http://dbpedia.org/resource/Washington_Mutual,Washington Mutual,http://dbpedia.org/resource/Washington_Mutual,115.66999999999999
+http://dbpedia.org/resource/Orion_Pictures,Orion Pictures,http://dbpedia.org/resource/Orion_Pictures,115.63999999999999
+http://dbpedia.org/resource/Tata_Consultancy_Services,Tata Consultancy Services,http://dbpedia.org/resource/Tata_Consultancy_Services,115.61
+http://dbpedia.org/resource/Square_(video_game_company),Square (video game company),http://dbpedia.org/resource/Square_(video_game_company),115.54500000000002
+http://dbpedia.org/resource/Bridgestone,Bridgestone,http://dbpedia.org/resource/Bridgestone,115.36
+http://dbpedia.org/resource/Marks_&_Spencer,Marks & Spencer,http://dbpedia.org/resource/Marks_&_Spencer,115.33
+http://dbpedia.org/resource/Maruti_Suzuki,Maruti Suzuki,http://dbpedia.org/resource/Maruti_Suzuki,115.26499999999999
+http://dbpedia.org/resource/Gibson_Brands,Gibson Brands,http://dbpedia.org/resource/Gibson_Brands,115.255
+http://dbpedia.org/resource/Airbus,Airbus,http://dbpedia.org/resource/Airbus,115.18
+http://dbpedia.org/resource/Mercedes-Benz_Group,Mercedes-Benz Group,http://dbpedia.org/resource/Mercedes-Benz_Group,115.18
+http://dbpedia.org/resource/ITN,ITN,http://dbpedia.org/resource/ITN,115.06000000000002
+http://dbpedia.org/resource/United_Soccer_League,United Soccer League,http://dbpedia.org/resource/United_Soccer_League,115.04000000000002
+http://dbpedia.org/resource/TVR,TVR,http://dbpedia.org/resource/TVR,114.875
+http://dbpedia.org/resource/ExxonMobil,ExxonMobil,http://dbpedia.org/resource/ExxonMobil,114.83999999999999
+http://dbpedia.org/resource/MG_Rover_Group,MG Rover Group,http://dbpedia.org/resource/MG_Rover_Group,114.76499999999999
+http://dbpedia.org/resource/Mayajaal,Mayajaal,http://dbpedia.org/resource/Mayajaal,114.50999999999999
+http://dbpedia.org/resource/Bell_Canada,Bell Canada,http://dbpedia.org/resource/Bell_Canada,114.22500000000001
+http://dbpedia.org/resource/Jaiku,Jaiku,http://dbpedia.org/resource/Jaiku,114.21499999999999
+http://dbpedia.org/resource/Lidl,Lidl,http://dbpedia.org/resource/Lidl,114.2
+http://dbpedia.org/resource/Ford_of_Europe,Ford of Europe,http://dbpedia.org/resource/Ford_of_Europe,114.125
+http://dbpedia.org/resource/CBS_Eye_Animation_Productions,CBS Eye Animation Productions,http://dbpedia.org/resource/CBS_Eye_Animation_Productions,114.08999999999999
+http://dbpedia.org/resource/The_Jim_Henson_Company,The Jim Henson Company,http://dbpedia.org/resource/The_Jim_Henson_Company,114.06
+http://dbpedia.org/resource/PolyGram_Filmed_Entertainment,PolyGram Filmed Entertainment,http://dbpedia.org/resource/PolyGram_Filmed_Entertainment,113.99999999999999
+http://dbpedia.org/resource/JYP_Entertainment,JYP Entertainment,http://dbpedia.org/resource/JYP_Entertainment,113.955
+http://dbpedia.org/resource/The_Coca-Cola_Company,The Coca-Cola Company,http://dbpedia.org/resource/The_Coca-Cola_Company,113.85000000000001
+http://dbpedia.org/resource/Telia_Company,Telia Company,http://dbpedia.org/resource/Telia_Company,113.82000000000001
+http://dbpedia.org/resource/May_Company_California,May Company California,http://dbpedia.org/resource/May_Company_California,113.78
+http://dbpedia.org/resource/BBC_Television,BBC Television,http://dbpedia.org/resource/BBC_Television,113.72000000000001
+http://dbpedia.org/resource/Gazprom,Gazprom,http://dbpedia.org/resource/Gazprom,113.53999999999999
+http://dbpedia.org/resource/Charlton_Comics,Charlton Comics,http://dbpedia.org/resource/Charlton_Comics,113.42000000000002
+http://dbpedia.org/resource/Alpha_Media,Alpha Media,http://dbpedia.org/resource/Alpha_Media,113.335
+http://dbpedia.org/resource/Madras_and_Southern_Mahratta_Railway,Madras and Southern Mahratta Railway,http://dbpedia.org/resource/Madras_and_Southern_Mahratta_Railway,113.255
+http://dbpedia.org/resource/Four_Seasons_Hotels_and_Resorts,Four Seasons Hotels and Resorts,http://dbpedia.org/resource/Four_Seasons_Hotels_and_Resorts,113.21499999999999
+http://dbpedia.org/resource/Pirelli,Pirelli,http://dbpedia.org/resource/Pirelli,113.16000000000003
+http://dbpedia.org/resource/Umbro,Umbro,http://dbpedia.org/resource/Umbro,113.10000000000001
+http://dbpedia.org/resource/Metromedia,Metromedia,http://dbpedia.org/resource/Metromedia,113.03999999999999
+http://dbpedia.org/resource/Heavy_Vehicles_Factory,Heavy Vehicles Factory,http://dbpedia.org/resource/Heavy_Vehicles_Factory,113.005
+http://dbpedia.org/resource/Netflix_Animation,Netflix Animation,http://dbpedia.org/resource/Netflix_Animation,112.97500000000001
+http://dbpedia.org/resource/Publix,Publix,http://dbpedia.org/resource/Publix,112.96
+http://dbpedia.org/resource/DEN_Networks,DEN Networks,http://dbpedia.org/resource/DEN_Networks,112.88499999999999
+http://dbpedia.org/resource/Harmonix,Harmonix,http://dbpedia.org/resource/Harmonix,112.79999999999998
+http://dbpedia.org/resource/7-Eleven,7-Eleven,http://dbpedia.org/resource/7-Eleven,112.74000000000001
+http://dbpedia.org/resource/Disney_Consumer_Products,Disney Consumer Products,http://dbpedia.org/resource/Disney_Consumer_Products,112.60499999999998
+http://dbpedia.org/resource/United_Breweries_Group,United Breweries Group,http://dbpedia.org/resource/United_Breweries_Group,112.56
+http://dbpedia.org/resource/Epic_Games,Epic Games,http://dbpedia.org/resource/Epic_Games,112.33
+http://dbpedia.org/resource/CBS_Films,CBS Films,http://dbpedia.org/resource/CBS_Films,112.32000000000001
+http://dbpedia.org/resource/Ben_&_Jerry's,Ben & Jerry's,http://dbpedia.org/resource/Ben_&_Jerry's,112.28999999999999
+http://dbpedia.org/resource/Bungie,Bungie,http://dbpedia.org/resource/Bungie,112.19000000000001
+http://dbpedia.org/resource/Science_Saru,Science Saru,http://dbpedia.org/resource/Science_Saru,112.115
+http://dbpedia.org/resource/GMC_(automobile),GMC (automobile),http://dbpedia.org/resource/GMC_(automobile),112.05000000000001
+http://dbpedia.org/resource/Othram,Othram,http://dbpedia.org/resource/Othram,112.035
+http://dbpedia.org/resource/EA_Sports,EA Sports,http://dbpedia.org/resource/EA_Sports,111.94500000000001
+http://dbpedia.org/resource/Curtleigh_Productions,Curtleigh Productions,http://dbpedia.org/resource/Curtleigh_Productions,111.825
+http://dbpedia.org/resource/Texas_Instruments,Texas Instruments,http://dbpedia.org/resource/Texas_Instruments,111.785
+http://dbpedia.org/resource/Voom_HD_Networks,Voom HD Networks,http://dbpedia.org/resource/Voom_HD_Networks,111.68
+http://dbpedia.org/resource/Charter_Communications,Charter Communications,http://dbpedia.org/resource/Charter_Communications,111.64500000000001
+http://dbpedia.org/resource/TVN_Group,TVN Group,http://dbpedia.org/resource/TVN_Group,111.535
+http://dbpedia.org/resource/Abarth,Abarth,http://dbpedia.org/resource/Abarth,111.42500000000001
+http://dbpedia.org/resource/Sprint_Corporation,Sprint Corporation,http://dbpedia.org/resource/Sprint_Corporation,111.22500000000001
+http://dbpedia.org/resource/Google_Fiber,Google Fiber,http://dbpedia.org/resource/Google_Fiber,111.21500000000002
+http://dbpedia.org/resource/Rosneft,Rosneft,http://dbpedia.org/resource/Rosneft,111.13999999999999
+http://dbpedia.org/resource/A&E_Networks,A&E Networks,http://dbpedia.org/resource/A&E_Networks,111.055
+http://dbpedia.org/resource/Working_Title_Films,Working Title Films,http://dbpedia.org/resource/Working_Title_Films,111.05000000000001
+http://dbpedia.org/resource/List_of_assets_owned_by_Bell_Media,List of assets owned by Bell Media,http://dbpedia.org/resource/List_of_assets_owned_by_Bell_Media,111.04000000000002
+http://dbpedia.org/resource/Bain_Capital,Bain Capital,http://dbpedia.org/resource/Bain_Capital,111.00999999999999
+http://dbpedia.org/resource/Nintendo_Entertainment_Analysis_&_Development,Nintendo Entertainment Analysis & Development,http://dbpedia.org/resource/Nintendo_Entertainment_Analysis_&_Development,110.96
+http://dbpedia.org/resource/KFC,KFC,http://dbpedia.org/resource/KFC,110.86
+http://dbpedia.org/resource/NTPC_Limited,NTPC Limited,http://dbpedia.org/resource/NTPC_Limited,110.79500000000002
+http://dbpedia.org/resource/American_Zoetrope,American Zoetrope,http://dbpedia.org/resource/American_Zoetrope,110.74999999999999
+http://dbpedia.org/resource/A&P,A&P,http://dbpedia.org/resource/A&P,110.67500000000001
+http://dbpedia.org/resource/Extreme_Championship_Wrestling,Extreme Championship Wrestling,http://dbpedia.org/resource/Extreme_Championship_Wrestling,110.65
+http://dbpedia.org/resource/Searchlight_Pictures,Searchlight Pictures,http://dbpedia.org/resource/Searchlight_Pictures,110.63
+http://dbpedia.org/resource/MTV_Animation,MTV Animation,http://dbpedia.org/resource/MTV_Animation,110.41499999999999
+http://dbpedia.org/resource/SCO_Group,SCO Group,http://dbpedia.org/resource/SCO_Group,110.29500000000002
+http://dbpedia.org/resource/Psygnosis,Psygnosis,http://dbpedia.org/resource/Psygnosis,110.285
+http://dbpedia.org/resource/Ram_Trucks,Ram Trucks,http://dbpedia.org/resource/Ram_Trucks,110.255
+http://dbpedia.org/resource/Vkusno_i_tochka,Vkusno i tochka,http://dbpedia.org/resource/Vkusno_i_tochka,110.23
+http://dbpedia.org/resource/Fox_Corporation,Fox Corporation,http://dbpedia.org/resource/Fox_Corporation,110.21500000000002
+http://dbpedia.org/resource/Raycom_Sports,Raycom Sports,http://dbpedia.org/resource/Raycom_Sports,110.16500000000002
+http://dbpedia.org/resource/Rover_Group,Rover Group,http://dbpedia.org/resource/Rover_Group,110.16499999999999
+http://dbpedia.org/resource/MNC_Vision,MNC Vision,http://dbpedia.org/resource/MNC_Vision,110.105
+http://dbpedia.org/resource/Aavin,Aavin,http://dbpedia.org/resource/Aavin,110.10000000000001
+http://dbpedia.org/resource/BMG_Rights_Management,BMG Rights Management,http://dbpedia.org/resource/BMG_Rights_Management,109.79500000000002
+http://dbpedia.org/resource/Rough_Draft_Studios,Rough Draft Studios,http://dbpedia.org/resource/Rough_Draft_Studios,109.72500000000001
+http://dbpedia.org/resource/RTL_Group,RTL Group,http://dbpedia.org/resource/RTL_Group,109.56
+http://dbpedia.org/resource/Madhouse_(company),Madhouse (company),http://dbpedia.org/resource/Madhouse_(company),109.525
+http://dbpedia.org/resource/Random_House,Random House,http://dbpedia.org/resource/Random_House,109.37
+http://dbpedia.org/resource/Sunbeam_Motor_Car_Company,Sunbeam Motor Car Company,http://dbpedia.org/resource/Sunbeam_Motor_Car_Company,109.305
+http://dbpedia.org/resource/Mediabase,Mediabase,http://dbpedia.org/resource/Mediabase,109.14500000000001
+http://dbpedia.org/resource/Fitbit,Fitbit,http://dbpedia.org/resource/Fitbit,109.08500000000002
+http://dbpedia.org/resource/Sony_Music_Publishing,Sony Music Publishing,http://dbpedia.org/resource/Sony_Music_Publishing,109.035
+http://dbpedia.org/resource/Gerstlauer,Gerstlauer,http://dbpedia.org/resource/Gerstlauer,109.0
+http://dbpedia.org/resource/STV_Group,STV Group,http://dbpedia.org/resource/STV_Group,109.0
+http://dbpedia.org/resource/Klasky_Csupo,Klasky Csupo,http://dbpedia.org/resource/Klasky_Csupo,108.88499999999999
+http://dbpedia.org/resource/Microsoft_Mobile,Microsoft Mobile,http://dbpedia.org/resource/Microsoft_Mobile,108.855
+http://dbpedia.org/resource/Crave_(streaming_service),Crave (streaming service),http://dbpedia.org/resource/Crave_(streaming_service),108.855
+http://dbpedia.org/resource/Mercedes_AMG_High_Performance_Powertrains,Mercedes AMG High Performance Powertrains,http://dbpedia.org/resource/Mercedes_AMG_High_Performance_Powertrains,108.78
+http://dbpedia.org/resource/Rocket_Lab,Rocket Lab,http://dbpedia.org/resource/Rocket_Lab,108.75
+http://dbpedia.org/resource/Blue_Sky_Studios,Blue Sky Studios,http://dbpedia.org/resource/Blue_Sky_Studios,108.69500000000001
+http://dbpedia.org/resource/Arriva,Arriva,http://dbpedia.org/resource/Arriva,108.46
+http://dbpedia.org/resource/STX_Entertainment,STX Entertainment,http://dbpedia.org/resource/STX_Entertainment,108.45
+http://dbpedia.org/resource/Massey_Ferguson,Massey Ferguson,http://dbpedia.org/resource/Massey_Ferguson,108.43
+http://dbpedia.org/resource/Media_General,Media General,http://dbpedia.org/resource/Media_General,108.37
+http://dbpedia.org/resource/Naspers,Naspers,http://dbpedia.org/resource/Naspers,108.275
+http://dbpedia.org/resource/Avro,Avro,http://dbpedia.org/resource/Avro,108.19
+http://dbpedia.org/resource/Bolliger_&_Mabillard,Bolliger & Mabillard,http://dbpedia.org/resource/Bolliger_&_Mabillard,108.11
+http://dbpedia.org/resource/Sony_Music_Entertainment_Japan,Sony Music Entertainment Japan,http://dbpedia.org/resource/Sony_Music_Entertainment_Japan,108.03999999999999
+http://dbpedia.org/resource/Paramount_Networks_EMEAA,Paramount Networks EMEAA,http://dbpedia.org/resource/Paramount_Networks_EMEAA,107.955
+http://dbpedia.org/resource/John_Deere,John Deere,http://dbpedia.org/resource/John_Deere,107.91499999999999
+http://dbpedia.org/resource/Hooters,Hooters,http://dbpedia.org/resource/Hooters,107.88499999999999
+http://dbpedia.org/resource/RadioShack,RadioShack,http://dbpedia.org/resource/RadioShack,107.86500000000001
+http://dbpedia.org/resource/Marvel_Games,Marvel Games,http://dbpedia.org/resource/Marvel_Games,107.855
+http://dbpedia.org/resource/Philippine_National_Railways,Philippine National Railways,http://dbpedia.org/resource/Philippine_National_Railways,107.84499999999998
+http://dbpedia.org/resource/EID_Parry,EID Parry,http://dbpedia.org/resource/EID_Parry,107.82
+http://dbpedia.org/resource/Red_Hat,Red Hat,http://dbpedia.org/resource/Red_Hat,107.80000000000001
+http://dbpedia.org/resource/Bombardier_Transportation,Bombardier Transportation,http://dbpedia.org/resource/Bombardier_Transportation,107.7
+http://dbpedia.org/resource/Serbia_Broadband,Serbia Broadband,http://dbpedia.org/resource/Serbia_Broadband,107.59500000000001
+http://dbpedia.org/resource/Dreamscape_Entertainment,Dreamscape Entertainment,http://dbpedia.org/resource/Dreamscape_Entertainment,107.54499999999999
+http://dbpedia.org/resource/Daihatsu,Daihatsu,http://dbpedia.org/resource/Daihatsu,107.54000000000002
+http://dbpedia.org/resource/Tata_Steel_Europe,Tata Steel Europe,http://dbpedia.org/resource/Tata_Steel_Europe,107.495
+http://dbpedia.org/resource/Viasat_(Nordic_television_service),Viasat (Nordic television service),http://dbpedia.org/resource/Viasat_(Nordic_television_service),107.47500000000001
+http://dbpedia.org/resource/Universal_Animation_Studios,Universal Animation Studios,http://dbpedia.org/resource/Universal_Animation_Studios,107.4
+http://dbpedia.org/resource/American_Wrestling_Association,American Wrestling Association,http://dbpedia.org/resource/American_Wrestling_Association,107.22500000000001
+http://dbpedia.org/resource/ITV_Studios,ITV Studios,http://dbpedia.org/resource/ITV_Studios,107.19500000000001
+http://dbpedia.org/resource/Dior,Dior,http://dbpedia.org/resource/Dior,107.16999999999999
+http://dbpedia.org/resource/Grumman,Grumman,http://dbpedia.org/resource/Grumman,107.12
+http://dbpedia.org/resource/Reebok,Reebok,http://dbpedia.org/resource/Reebok,106.955
+http://dbpedia.org/resource/Jaguar_Land_Rover,Jaguar Land Rover,http://dbpedia.org/resource/Jaguar_Land_Rover,106.94500000000001
+http://dbpedia.org/resource/AVM_Productions,AVM Productions,http://dbpedia.org/resource/AVM_Productions,106.88
+http://dbpedia.org/resource/CBS_Radio,CBS Radio,http://dbpedia.org/resource/CBS_Radio,106.835
+http://dbpedia.org/resource/Sega_development_studios,Sega development studios,http://dbpedia.org/resource/Sega_development_studios,106.7
+http://dbpedia.org/resource/TVN_Warner_Bros._Discovery,TVN Warner Bros. Discovery,http://dbpedia.org/resource/TVN_Warner_Bros._Discovery,106.685
+http://dbpedia.org/resource/Saudi_Aramco,Saudi Aramco,http://dbpedia.org/resource/Saudi_Aramco,106.63
+http://dbpedia.org/resource/The_Co-operative_Group,The Co-operative Group,http://dbpedia.org/resource/The_Co-operative_Group,106.585
+http://dbpedia.org/resource/Honeywell,Honeywell,http://dbpedia.org/resource/Honeywell,106.55000000000001
+http://dbpedia.org/resource/ESPN_Inc.,ESPN Inc.,http://dbpedia.org/resource/ESPN_Inc.,106.42500000000001
+http://dbpedia.org/resource/KPMG,KPMG,http://dbpedia.org/resource/KPMG,106.37
+http://dbpedia.org/resource/WhoSay,WhoSay,http://dbpedia.org/resource/WhoSay,106.31
+http://dbpedia.org/resource/Jacor,Jacor,http://dbpedia.org/resource/Jacor,106.21499999999999
+http://dbpedia.org/resource/Veuve_Clicquot,Veuve Clicquot,http://dbpedia.org/resource/Veuve_Clicquot,106.18
+http://dbpedia.org/resource/Activision_Blizzard,Activision Blizzard,http://dbpedia.org/resource/Activision_Blizzard,106.13
+http://dbpedia.org/resource/Kmart,Kmart,http://dbpedia.org/resource/Kmart,106.075
+http://dbpedia.org/resource/GlobeCast_World_TV,GlobeCast World TV,http://dbpedia.org/resource/GlobeCast_World_TV,106.01999999999998
+http://dbpedia.org/resource/Chick-fil-A,Chick-fil-A,http://dbpedia.org/resource/Chick-fil-A,105.955
+http://dbpedia.org/resource/Raycom_Media,Raycom Media,http://dbpedia.org/resource/Raycom_Media,105.9
+http://dbpedia.org/resource/Tractors_and_Farm_Equipment_Limited,Tractors and Farm Equipment Limited,http://dbpedia.org/resource/Tractors_and_Farm_Equipment_Limited,105.83500000000002
+http://dbpedia.org/resource/IPKO,IPKO,http://dbpedia.org/resource/IPKO,105.81
+http://dbpedia.org/resource/Birmingham_Small_Arms_Company,Birmingham Small Arms Company,http://dbpedia.org/resource/Birmingham_Small_Arms_Company,105.78
+http://dbpedia.org/resource/Aardman_Animations,Aardman Animations,http://dbpedia.org/resource/Aardman_Animations,105.71
+http://dbpedia.org/resource/King_Features_Syndicate,King Features Syndicate,http://dbpedia.org/resource/King_Features_Syndicate,105.62
+http://dbpedia.org/resource/Oppo,Oppo,http://dbpedia.org/resource/Oppo,105.60000000000001
+http://dbpedia.org/resource/Kyocera,Kyocera,http://dbpedia.org/resource/Kyocera,105.59499999999998
+http://dbpedia.org/resource/Disney_Branded_Television,Disney Branded Television,http://dbpedia.org/resource/Disney_Branded_Television,105.525
+http://dbpedia.org/resource/Bloomberg_News,Bloomberg News,http://dbpedia.org/resource/Bloomberg_News,105.51000000000002
+http://dbpedia.org/resource/Id_Software,Id Software,http://dbpedia.org/resource/Id_Software,105.455
+http://dbpedia.org/resource/RELX,RELX,http://dbpedia.org/resource/RELX,105.36
+http://dbpedia.org/resource/Virgin_Megastores,Virgin Megastores,http://dbpedia.org/resource/Virgin_Megastores,105.36
+http://dbpedia.org/resource/American_Apparel,American Apparel,http://dbpedia.org/resource/American_Apparel,105.28
+http://dbpedia.org/resource/Spyglass_Media_Group,Spyglass Media Group,http://dbpedia.org/resource/Spyglass_Media_Group,105.23
+http://dbpedia.org/resource/Wegmans,Wegmans,http://dbpedia.org/resource/Wegmans,105.21
+http://dbpedia.org/resource/Sony_Pictures_Imageworks,Sony Pictures Imageworks,http://dbpedia.org/resource/Sony_Pictures_Imageworks,105.155
+http://dbpedia.org/resource/Morgan_Motor_Company,Morgan Motor Company,http://dbpedia.org/resource/Morgan_Motor_Company,105.14500000000001
+http://dbpedia.org/resource/Lucasfilm,Lucasfilm,http://dbpedia.org/resource/Lucasfilm,105.055
+http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures,Walt Disney Studios Motion Pictures,http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures,105.04000000000002
+http://dbpedia.org/resource/CBS_Corporation,CBS Corporation,http://dbpedia.org/resource/CBS_Corporation,104.955
+http://dbpedia.org/resource/Channel_Four_Television_Corporation,Channel Four Television Corporation,http://dbpedia.org/resource/Channel_Four_Television_Corporation,104.94000000000001
+http://dbpedia.org/resource/Imperial_(automobile),Imperial (automobile),http://dbpedia.org/resource/Imperial_(automobile),104.92500000000001
+http://dbpedia.org/resource/Aitken_Spence,Aitken Spence,http://dbpedia.org/resource/Aitken_Spence,104.91499999999999
+http://dbpedia.org/resource/Nielsen_Media_Research,Nielsen Media Research,http://dbpedia.org/resource/Nielsen_Media_Research,104.89499999999998
+http://dbpedia.org/resource/Netscape,Netscape,http://dbpedia.org/resource/Netscape,104.88
+http://dbpedia.org/resource/CBC_News,CBC News,http://dbpedia.org/resource/CBC_News,104.86500000000001
+http://dbpedia.org/resource/WW_International,WW International,http://dbpedia.org/resource/WW_International,104.83
+http://dbpedia.org/resource/Fandango_Media,Fandango Media,http://dbpedia.org/resource/Fandango_Media,104.81
+http://dbpedia.org/resource/Samsung_Sports,Samsung Sports,http://dbpedia.org/resource/Samsung_Sports,104.805
+http://dbpedia.org/resource/Viacom_(1952–2006),Viacom (1952–2006),http://dbpedia.org/resource/Viacom_(1952–2006),104.785
+http://dbpedia.org/resource/Lehman_Brothers,Lehman Brothers,http://dbpedia.org/resource/Lehman_Brothers,104.72500000000001
+http://dbpedia.org/resource/BBK_Electronics,BBK Electronics,http://dbpedia.org/resource/BBK_Electronics,104.705
+http://dbpedia.org/resource/The_Home_Depot,The Home Depot,http://dbpedia.org/resource/The_Home_Depot,104.7
+http://dbpedia.org/resource/Cox_Media_Group,Cox Media Group,http://dbpedia.org/resource/Cox_Media_Group,104.63499999999999
+http://dbpedia.org/resource/Amazon_Go,Amazon Go,http://dbpedia.org/resource/Amazon_Go,104.61
+http://dbpedia.org/resource/Xilinx,Xilinx,http://dbpedia.org/resource/Xilinx,104.54499999999999
+http://dbpedia.org/resource/Qnet,Qnet,http://dbpedia.org/resource/Qnet,104.53
+http://dbpedia.org/resource/WCW_Power_Plant,WCW Power Plant,http://dbpedia.org/resource/WCW_Power_Plant,104.51499999999999
+http://dbpedia.org/resource/Nexstar_Media_Group,Nexstar Media Group,http://dbpedia.org/resource/Nexstar_Media_Group,104.49499999999999
+http://dbpedia.org/resource/Tennessee_Valley_Authority,Tennessee Valley Authority,http://dbpedia.org/resource/Tennessee_Valley_Authority,104.47500000000001
+http://dbpedia.org/resource/Virtual_Digital_Cable,Virtual Digital Cable,http://dbpedia.org/resource/Virtual_Digital_Cable,104.355
+http://dbpedia.org/resource/Gramercy_Pictures,Gramercy Pictures,http://dbpedia.org/resource/Gramercy_Pictures,104.22500000000001
+http://dbpedia.org/resource/Wendy's,Wendy's,http://dbpedia.org/resource/Wendy's,104.21499999999999
+http://dbpedia.org/resource/Vickers-Armstrongs,Vickers-Armstrongs,http://dbpedia.org/resource/Vickers-Armstrongs,104.21
+http://dbpedia.org/resource/Waterstones,Waterstones,http://dbpedia.org/resource/Waterstones,104.13
+http://dbpedia.org/resource/Mahindra_&_Mahindra,Mahindra & Mahindra,http://dbpedia.org/resource/Mahindra_&_Mahindra,104.025
+http://dbpedia.org/resource/Bell_Media,Bell Media,http://dbpedia.org/resource/Bell_Media,103.96
+http://dbpedia.org/resource/Carborundum_Universal,Carborundum Universal,http://dbpedia.org/resource/Carborundum_Universal,103.88999999999999
+http://dbpedia.org/resource/SAIC_Motor,SAIC Motor,http://dbpedia.org/resource/SAIC_Motor,103.88
+http://dbpedia.org/resource/Tele2,Tele2,http://dbpedia.org/resource/Tele2,103.805
+http://dbpedia.org/resource/Gilead_Sciences,Gilead Sciences,http://dbpedia.org/resource/Gilead_Sciences,103.72000000000001
+http://dbpedia.org/resource/Wolseley_Motors,Wolseley Motors,http://dbpedia.org/resource/Wolseley_Motors,103.68
+http://dbpedia.org/resource/Marvel_Television,Marvel Television,http://dbpedia.org/resource/Marvel_Television,103.655
+http://dbpedia.org/resource/New_Line_Cinema,New Line Cinema,http://dbpedia.org/resource/New_Line_Cinema,103.44500000000001
+http://dbpedia.org/resource/Disneynature,Disneynature,http://dbpedia.org/resource/Disneynature,103.43
+http://dbpedia.org/resource/United_Parcel_Service,United Parcel Service,http://dbpedia.org/resource/United_Parcel_Service,103.42500000000001
+http://dbpedia.org/resource/Adobe_Inc.,Adobe Inc.,http://dbpedia.org/resource/Adobe_Inc.,103.26499999999999
+http://dbpedia.org/resource/ABC_News_(Australia),ABC News (Australia),http://dbpedia.org/resource/ABC_News_(Australia),103.21500000000002
+http://dbpedia.org/resource/Cube_Entertainment,Cube Entertainment,http://dbpedia.org/resource/Cube_Entertainment,103.19500000000001
+http://dbpedia.org/resource/RiksTV,RiksTV,http://dbpedia.org/resource/RiksTV,103.185
+http://dbpedia.org/resource/TotalEnergies,TotalEnergies,http://dbpedia.org/resource/TotalEnergies,103.17500000000001
+http://dbpedia.org/resource/China_Railway,China Railway,http://dbpedia.org/resource/China_Railway,103.16500000000002
+http://dbpedia.org/resource/Eni,Eni,http://dbpedia.org/resource/Eni,103.105
+http://dbpedia.org/resource/Amalgamations_Group,Amalgamations Group,http://dbpedia.org/resource/Amalgamations_Group,103.10000000000001
+http://dbpedia.org/resource/TV_Asahi,TV Asahi,http://dbpedia.org/resource/TV_Asahi,103.00999999999999
+http://dbpedia.org/resource/Asus,Asus,http://dbpedia.org/resource/Asus,103.0
+http://dbpedia.org/resource/Higginbotham's,Higginbotham's,http://dbpedia.org/resource/Higginbotham's,102.98
+http://dbpedia.org/resource/American_Broadcasting-Paramount_Theatres,American Broadcasting-Paramount Theatres,http://dbpedia.org/resource/American_Broadcasting-Paramount_Theatres,102.94000000000001
+http://dbpedia.org/resource/Radio_Computing_Services,Radio Computing Services,http://dbpedia.org/resource/Radio_Computing_Services,102.905
+http://dbpedia.org/resource/BBC_Radio,BBC Radio,http://dbpedia.org/resource/BBC_Radio,102.89000000000001
+http://dbpedia.org/resource/Rivian,Rivian,http://dbpedia.org/resource/Rivian,102.83
+http://dbpedia.org/resource/In-N-Out_Burger,In-N-Out Burger,http://dbpedia.org/resource/In-N-Out_Burger,102.81
+http://dbpedia.org/resource/Digiturk,Digiturk,http://dbpedia.org/resource/Digiturk,102.785
+http://dbpedia.org/resource/Network18_Group,Network18 Group,http://dbpedia.org/resource/Network18_Group,102.75
+http://dbpedia.org/resource/Astrobotic_Technology,Astrobotic Technology,http://dbpedia.org/resource/Astrobotic_Technology,102.74000000000001
+http://dbpedia.org/resource/Rockstar_North,Rockstar North,http://dbpedia.org/resource/Rockstar_North,102.55000000000001
+http://dbpedia.org/resource/Berkshire_Hathaway,Berkshire Hathaway,http://dbpedia.org/resource/Berkshire_Hathaway,102.41999999999999
+http://dbpedia.org/resource/AvtoVAZ,AvtoVAZ,http://dbpedia.org/resource/AvtoVAZ,102.32
+http://dbpedia.org/resource/Papa_John's,Papa John's,http://dbpedia.org/resource/Papa_John's,102.22
+http://dbpedia.org/resource/Rolls-Royce_Motor_Cars,Rolls-Royce Motor Cars,http://dbpedia.org/resource/Rolls-Royce_Motor_Cars,102.10000000000001
+http://dbpedia.org/resource/Digital_Domain,Digital Domain,http://dbpedia.org/resource/Digital_Domain,102.075
+http://dbpedia.org/resource/Final_Fight_Championship,Final Fight Championship,http://dbpedia.org/resource/Final_Fight_Championship,102.05
+http://dbpedia.org/resource/Fawcett_Comics,Fawcett Comics,http://dbpedia.org/resource/Fawcett_Comics,102.05
+http://dbpedia.org/resource/Transvision_(Indonesia),Transvision (Indonesia),http://dbpedia.org/resource/Transvision_(Indonesia),102.03999999999999
+http://dbpedia.org/resource/Berlanti_Productions,Berlanti Productions,http://dbpedia.org/resource/Berlanti_Productions,101.985
+http://dbpedia.org/resource/Audi_Sport_GmbH,Audi Sport GmbH,http://dbpedia.org/resource/Audi_Sport_GmbH,101.965
+http://dbpedia.org/resource/Solar_Entertainment_Corporation,Solar Entertainment Corporation,http://dbpedia.org/resource/Solar_Entertainment_Corporation,101.88
+"http://dbpedia.org/resource/Atari,_Inc.","Atari, Inc.","http://dbpedia.org/resource/Atari,_Inc.",101.84
+http://dbpedia.org/resource/Dunkin'_Donuts,Dunkin' Donuts,http://dbpedia.org/resource/Dunkin'_Donuts,101.83999999999999
+http://dbpedia.org/resource/Hull_and_Selby_Railway,Hull and Selby Railway,http://dbpedia.org/resource/Hull_and_Selby_Railway,101.73500000000001
+http://dbpedia.org/resource/Foxconn,Foxconn,http://dbpedia.org/resource/Foxconn,101.705
+http://dbpedia.org/resource/Disney_Music_Group,Disney Music Group,http://dbpedia.org/resource/Disney_Music_Group,101.675
+http://dbpedia.org/resource/Cox_Communications,Cox Communications,http://dbpedia.org/resource/Cox_Communications,101.60000000000001
+http://dbpedia.org/resource/Embracer_Group,Embracer Group,http://dbpedia.org/resource/Embracer_Group,101.60000000000001
+http://dbpedia.org/resource/FAW_Toyota,FAW Toyota,http://dbpedia.org/resource/FAW_Toyota,101.58500000000001
+http://dbpedia.org/resource/Under_Armour,Under Armour,http://dbpedia.org/resource/Under_Armour,101.54
+http://dbpedia.org/resource/Fiat_Chrysler_Automobiles,Fiat Chrysler Automobiles,http://dbpedia.org/resource/Fiat_Chrysler_Automobiles,101.445
+http://dbpedia.org/resource/J.C.Staff,J.C.Staff,http://dbpedia.org/resource/J.C.Staff,101.44
+http://dbpedia.org/resource/Triumph_Motor_Company,Triumph Motor Company,http://dbpedia.org/resource/Triumph_Motor_Company,101.39500000000001
+http://dbpedia.org/resource/Smithfield_Foods,Smithfield Foods,http://dbpedia.org/resource/Smithfield_Foods,101.39
+http://dbpedia.org/resource/Games_Workshop,Games Workshop,http://dbpedia.org/resource/Games_Workshop,101.30000000000001
+http://dbpedia.org/resource/Cablelink,Cablelink,http://dbpedia.org/resource/Cablelink,101.27
+http://dbpedia.org/resource/20th_Television,20th Television,http://dbpedia.org/resource/20th_Television,101.265
+http://dbpedia.org/resource/Vice_Media,Vice Media,http://dbpedia.org/resource/Vice_Media,101.18
+http://dbpedia.org/resource/Softcard,Softcard,http://dbpedia.org/resource/Softcard,101.145
+http://dbpedia.org/resource/Annapurna_Pictures,Annapurna Pictures,http://dbpedia.org/resource/Annapurna_Pictures,100.92999999999999
+http://dbpedia.org/resource/Acorn_Computers,Acorn Computers,http://dbpedia.org/resource/Acorn_Computers,100.85000000000001
+http://dbpedia.org/resource/Davis_Entertainment,Davis Entertainment,http://dbpedia.org/resource/Davis_Entertainment,100.80000000000001
+http://dbpedia.org/resource/Tribune_Broadcasting,Tribune Broadcasting,http://dbpedia.org/resource/Tribune_Broadcasting,100.72000000000001
+http://dbpedia.org/resource/VA_Tech_Wabag,VA Tech Wabag,http://dbpedia.org/resource/VA_Tech_Wabag,100.67
+http://dbpedia.org/resource/Marvel_Animation,Marvel Animation,http://dbpedia.org/resource/Marvel_Animation,100.655
+http://dbpedia.org/resource/Time_Warner_Cable,Time Warner Cable,http://dbpedia.org/resource/Time_Warner_Cable,100.625
+http://dbpedia.org/resource/Lackawanna_Steel_Company,Lackawanna Steel Company,http://dbpedia.org/resource/Lackawanna_Steel_Company,100.59
+http://dbpedia.org/resource/Valve_Corporation,Valve Corporation,http://dbpedia.org/resource/Valve_Corporation,100.56
+http://dbpedia.org/resource/Hilton_Worldwide,Hilton Worldwide,http://dbpedia.org/resource/Hilton_Worldwide,100.55000000000001
+http://dbpedia.org/resource/Zagat,Zagat,http://dbpedia.org/resource/Zagat,100.53500000000001
+http://dbpedia.org/resource/Juul,Juul,http://dbpedia.org/resource/Juul,100.535
+http://dbpedia.org/resource/Elevation_Pictures,Elevation Pictures,http://dbpedia.org/resource/Elevation_Pictures,100.515
+http://dbpedia.org/resource/GlobalFoundries,GlobalFoundries,http://dbpedia.org/resource/GlobalFoundries,100.435
+http://dbpedia.org/resource/Imperial_Oil,Imperial Oil,http://dbpedia.org/resource/Imperial_Oil,100.435
+http://dbpedia.org/resource/Warnaco_Group,Warnaco Group,http://dbpedia.org/resource/Warnaco_Group,100.245
+http://dbpedia.org/resource/Catholic_Media_Network,Catholic Media Network,http://dbpedia.org/resource/Catholic_Media_Network,100.105
+http://dbpedia.org/resource/PK_Carsport,PK Carsport,http://dbpedia.org/resource/PK_Carsport,100.10000000000001
+http://dbpedia.org/resource/Shadow_Traffic,Shadow Traffic,http://dbpedia.org/resource/Shadow_Traffic,100.08
+http://dbpedia.org/resource/Legendary_Entertainment,Legendary Entertainment,http://dbpedia.org/resource/Legendary_Entertainment,99.89999999999999
+http://dbpedia.org/resource/Chennai_Petroleum_Corporation,Chennai Petroleum Corporation,http://dbpedia.org/resource/Chennai_Petroleum_Corporation,99.835
+http://dbpedia.org/resource/Informatics_General,Informatics General,http://dbpedia.org/resource/Informatics_General,99.80000000000001
+http://dbpedia.org/resource/Nippon_TV,Nippon TV,http://dbpedia.org/resource/Nippon_TV,99.75
+http://dbpedia.org/resource/Xumo,Xumo,http://dbpedia.org/resource/Xumo,99.705
+http://dbpedia.org/resource/MGM_Resorts_International,MGM Resorts International,http://dbpedia.org/resource/MGM_Resorts_International,99.7
+http://dbpedia.org/resource/Bell_Media_Radio,Bell Media Radio,http://dbpedia.org/resource/Bell_Media_Radio,99.685
+http://dbpedia.org/resource/Apple_Store,Apple Store,http://dbpedia.org/resource/Apple_Store,99.66
+http://dbpedia.org/resource/Jewel-Osco,Jewel-Osco,http://dbpedia.org/resource/Jewel-Osco,99.58
+http://dbpedia.org/resource/Safmarine,Safmarine,http://dbpedia.org/resource/Safmarine,99.565
+http://dbpedia.org/resource/Sisu_Auto,Sisu Auto,http://dbpedia.org/resource/Sisu_Auto,99.565
+http://dbpedia.org/resource/Gulf_and_Western_Industries,Gulf and Western Industries,http://dbpedia.org/resource/Gulf_and_Western_Industries,99.54
+http://dbpedia.org/resource/Hummel_International,Hummel International,http://dbpedia.org/resource/Hummel_International,99.46
+http://dbpedia.org/resource/GameStop,GameStop,http://dbpedia.org/resource/GameStop,99.39999999999999
+http://dbpedia.org/resource/National_Payments_Corporation_of_India,National Payments Corporation of India,http://dbpedia.org/resource/National_Payments_Corporation_of_India,99.39
+http://dbpedia.org/resource/Bell_Pottinger,Bell Pottinger,http://dbpedia.org/resource/Bell_Pottinger,99.325
+http://dbpedia.org/resource/Happy_Madison_Productions,Happy Madison Productions,http://dbpedia.org/resource/Happy_Madison_Productions,99.17
+http://dbpedia.org/resource/Holden_Special_Vehicles,Holden Special Vehicles,http://dbpedia.org/resource/Holden_Special_Vehicles,99.12
+http://dbpedia.org/resource/Enel,Enel,http://dbpedia.org/resource/Enel,99.07
+http://dbpedia.org/resource/Interserve,Interserve,http://dbpedia.org/resource/Interserve,99.065
+http://dbpedia.org/resource/American_Forces_Network,American Forces Network,http://dbpedia.org/resource/American_Forces_Network,99.05
+http://dbpedia.org/resource/SPIC_(Indian_company),SPIC (Indian company),http://dbpedia.org/resource/SPIC_(Indian_company),98.96000000000001
+http://dbpedia.org/resource/Jatco,Jatco,http://dbpedia.org/resource/Jatco,98.835
+http://dbpedia.org/resource/Tegna_Inc.,Tegna Inc.,http://dbpedia.org/resource/Tegna_Inc.,98.80000000000001
+http://dbpedia.org/resource/B._Hick_and_Sons,B. Hick and Sons,http://dbpedia.org/resource/B._Hick_and_Sons,98.78500000000001
+http://dbpedia.org/resource/U.S._Bancorp,U.S. Bancorp,http://dbpedia.org/resource/U.S._Bancorp,98.78
+http://dbpedia.org/resource/Ford_of_Britain,Ford of Britain,http://dbpedia.org/resource/Ford_of_Britain,98.775
+http://dbpedia.org/resource/Wall_to_Wall_Media,Wall to Wall Media,http://dbpedia.org/resource/Wall_to_Wall_Media,98.73500000000001
+http://dbpedia.org/resource/Enron,Enron,http://dbpedia.org/resource/Enron,98.695
+"http://dbpedia.org/resource/Twitter,_Inc.","Twitter, Inc.","http://dbpedia.org/resource/Twitter,_Inc.",98.67500000000001
+http://dbpedia.org/resource/Entertainment_Studios,Entertainment Studios,http://dbpedia.org/resource/Entertainment_Studios,98.66
+http://dbpedia.org/resource/Hybe_Corporation,Hybe Corporation,http://dbpedia.org/resource/Hybe_Corporation,98.65500000000002
+http://dbpedia.org/resource/Pride_in_London,Pride in London,http://dbpedia.org/resource/Pride_in_London,98.63
+http://dbpedia.org/resource/RTÉ,RTÉ,http://dbpedia.org/resource/RTÉ,98.61
+http://dbpedia.org/resource/All3Media,All3Media,http://dbpedia.org/resource/All3Media,98.575
+http://dbpedia.org/resource/Film_Roman,Film Roman,http://dbpedia.org/resource/Film_Roman,98.50999999999999
+http://dbpedia.org/resource/Lululemon_Athletica,Lululemon Athletica,http://dbpedia.org/resource/Lululemon_Athletica,98.49000000000001
+http://dbpedia.org/resource/Spar_(retailer),Spar (retailer),http://dbpedia.org/resource/Spar_(retailer),98.395
+http://dbpedia.org/resource/Rostelecom,Rostelecom,http://dbpedia.org/resource/Rostelecom,98.33999999999999
+http://dbpedia.org/resource/British_Motor_Corporation,British Motor Corporation,http://dbpedia.org/resource/British_Motor_Corporation,98.3
+http://dbpedia.org/resource/KT_SkyLife,KT SkyLife,http://dbpedia.org/resource/KT_SkyLife,98.15
+http://dbpedia.org/resource/Madras_Fertilizers,Madras Fertilizers,http://dbpedia.org/resource/Madras_Fertilizers,98.13000000000001
+http://dbpedia.org/resource/Toys_for_Bob,Toys for Bob,http://dbpedia.org/resource/Toys_for_Bob,98.08500000000001
+http://dbpedia.org/resource/Tata_Steel,Tata Steel,http://dbpedia.org/resource/Tata_Steel,98.085
+http://dbpedia.org/resource/MovieTickets.com,MovieTickets.com,http://dbpedia.org/resource/MovieTickets.com,98.015
+http://dbpedia.org/resource/Hyatt,Hyatt,http://dbpedia.org/resource/Hyatt,97.995
+http://dbpedia.org/resource/First_Media_(Indonesian_media_company),First Media (Indonesian media company),http://dbpedia.org/resource/First_Media_(Indonesian_media_company),97.915
+http://dbpedia.org/resource/Millennium_Media,Millennium Media,http://dbpedia.org/resource/Millennium_Media,97.685
+http://dbpedia.org/resource/Adyar_Ananda_Bhavan,Adyar Ananda Bhavan,http://dbpedia.org/resource/Adyar_Ananda_Bhavan,97.64499999999998
+http://dbpedia.org/resource/Tribune_Media,Tribune Media,http://dbpedia.org/resource/Tribune_Media,97.61
+http://dbpedia.org/resource/Sanlam,Sanlam,http://dbpedia.org/resource/Sanlam,97.565
+http://dbpedia.org/resource/BlackBerry_Limited,BlackBerry Limited,http://dbpedia.org/resource/BlackBerry_Limited,97.53999999999999
+http://dbpedia.org/resource/3_Arts_Entertainment,3 Arts Entertainment,http://dbpedia.org/resource/3_Arts_Entertainment,97.5
+http://dbpedia.org/resource/YouView,YouView,http://dbpedia.org/resource/YouView,97.42
+http://dbpedia.org/resource/Short_Brothers,Short Brothers,http://dbpedia.org/resource/Short_Brothers,97.195
+http://dbpedia.org/resource/Warner_Bros._Discovery_New_Zealand,Warner Bros. Discovery New Zealand,http://dbpedia.org/resource/Warner_Bros._Discovery_New_Zealand,97.185
+http://dbpedia.org/resource/Odakyu_Electric_Railway,Odakyu Electric Railway,http://dbpedia.org/resource/Odakyu_Electric_Railway,97.17500000000001
+http://dbpedia.org/resource/RLJE_Films,RLJE Films,http://dbpedia.org/resource/RLJE_Films,97.13499999999999
+http://dbpedia.org/resource/PlayStation_Vue,PlayStation Vue,http://dbpedia.org/resource/PlayStation_Vue,97.105
+http://dbpedia.org/resource/KT_Corporation,KT Corporation,http://dbpedia.org/resource/KT_Corporation,97.00999999999999
+http://dbpedia.org/resource/A._H._Bull_Steamship_Company,A. H. Bull Steamship Company,http://dbpedia.org/resource/A._H._Bull_Steamship_Company,96.825
+"http://dbpedia.org/resource/TSR,_Inc.","TSR, Inc.","http://dbpedia.org/resource/TSR,_Inc.",96.82
+http://dbpedia.org/resource/Gainax,Gainax,http://dbpedia.org/resource/Gainax,96.695
+http://dbpedia.org/resource/Subaru,Subaru,http://dbpedia.org/resource/Subaru,96.66
+http://dbpedia.org/resource/Focus_Features,Focus Features,http://dbpedia.org/resource/Focus_Features,96.61500000000001
+http://dbpedia.org/resource/Dow_Chemical_Company,Dow Chemical Company,http://dbpedia.org/resource/Dow_Chemical_Company,96.59
+http://dbpedia.org/resource/NeXT,NeXT,http://dbpedia.org/resource/NeXT,96.54
+http://dbpedia.org/resource/LinkNYC,LinkNYC,http://dbpedia.org/resource/LinkNYC,96.52999999999999
+http://dbpedia.org/resource/BBC_Local_Radio,BBC Local Radio,http://dbpedia.org/resource/BBC_Local_Radio,96.47
+http://dbpedia.org/resource/Scania_AB,Scania AB,http://dbpedia.org/resource/Scania_AB,96.45500000000001
+http://dbpedia.org/resource/McDonald's_in_Russia,McDonald's in Russia,http://dbpedia.org/resource/McDonald's_in_Russia,96.42500000000001
+http://dbpedia.org/resource/Krispy_Kreme,Krispy Kreme,http://dbpedia.org/resource/Krispy_Kreme,96.375
+http://dbpedia.org/resource/Rockstar_San_Diego,Rockstar San Diego,http://dbpedia.org/resource/Rockstar_San_Diego,96.35
+http://dbpedia.org/resource/Deloitte,Deloitte,http://dbpedia.org/resource/Deloitte,96.345
+http://dbpedia.org/resource/Rolls-Royce_Limited,Rolls-Royce Limited,http://dbpedia.org/resource/Rolls-Royce_Limited,96.33999999999999
+http://dbpedia.org/resource/Propaganda_Films,Propaganda Films,http://dbpedia.org/resource/Propaganda_Films,96.32499999999999
+http://dbpedia.org/resource/Atari_SA,Atari SA,http://dbpedia.org/resource/Atari_SA,96.24000000000001
+http://dbpedia.org/resource/BHP,BHP,http://dbpedia.org/resource/BHP,96.13
+http://dbpedia.org/resource/ESPN_Events,ESPN Events,http://dbpedia.org/resource/ESPN_Events,96.13
+http://dbpedia.org/resource/GAC_Toyota,GAC Toyota,http://dbpedia.org/resource/GAC_Toyota,96.1
+http://dbpedia.org/resource/Rover_Company,Rover Company,http://dbpedia.org/resource/Rover_Company,96.075
+http://dbpedia.org/resource/Manila_Broadcasting_Company,Manila Broadcasting Company,http://dbpedia.org/resource/Manila_Broadcasting_Company,96.065
+http://dbpedia.org/resource/Quality_Comics,Quality Comics,http://dbpedia.org/resource/Quality_Comics,96.055
+http://dbpedia.org/resource/Mercedes-AMG,Mercedes-AMG,http://dbpedia.org/resource/Mercedes-AMG,96.02
+http://dbpedia.org/resource/FAW_Group,FAW Group,http://dbpedia.org/resource/FAW_Group,96.02
+http://dbpedia.org/resource/The_Original_Pancake_House,The Original Pancake House,http://dbpedia.org/resource/The_Original_Pancake_House,95.95
+http://dbpedia.org/resource/MSN_Dial-up,MSN Dial-up,http://dbpedia.org/resource/MSN_Dial-up,95.91500000000002
+http://dbpedia.org/resource/Fenway_Sports_Group,Fenway Sports Group,http://dbpedia.org/resource/Fenway_Sports_Group,95.85499999999999
+http://dbpedia.org/resource/ALTBalaji,ALTBalaji,http://dbpedia.org/resource/ALTBalaji,95.73
+http://dbpedia.org/resource/Madras_Export_Processing_Zone,Madras Export Processing Zone,http://dbpedia.org/resource/Madras_Export_Processing_Zone,95.69
+http://dbpedia.org/resource/GKIDS,GKIDS,http://dbpedia.org/resource/GKIDS,95.57499999999999
+http://dbpedia.org/resource/DreamWorks_Classics,DreamWorks Classics,http://dbpedia.org/resource/DreamWorks_Classics,95.42
+http://dbpedia.org/resource/Telus,Telus,http://dbpedia.org/resource/Telus,95.405
+http://dbpedia.org/resource/CNN_Films,CNN Films,http://dbpedia.org/resource/CNN_Films,95.30499999999999
+http://dbpedia.org/resource/Acura_A-Spec_and_Type-S_models,Acura A-Spec and Type-S models,http://dbpedia.org/resource/Acura_A-Spec_and_Type-S_models,95.29
+http://dbpedia.org/resource/Great_Wall_Motor,Great Wall Motor,http://dbpedia.org/resource/Great_Wall_Motor,95.255
+http://dbpedia.org/resource/BlackRock,BlackRock,http://dbpedia.org/resource/BlackRock,95.22500000000001
+http://dbpedia.org/resource/Bullfrog_Productions,Bullfrog Productions,http://dbpedia.org/resource/Bullfrog_Productions,95.22
+http://dbpedia.org/resource/Fox_Interactive,Fox Interactive,http://dbpedia.org/resource/Fox_Interactive,95.06
+http://dbpedia.org/resource/Cambridge_Analytica,Cambridge Analytica,http://dbpedia.org/resource/Cambridge_Analytica,95.055
+http://dbpedia.org/resource/Jim_Crockett_Promotions,Jim Crockett Promotions,http://dbpedia.org/resource/Jim_Crockett_Promotions,95.025
+http://dbpedia.org/resource/ABNXcess,ABNXcess,http://dbpedia.org/resource/ABNXcess,94.99000000000001
+http://dbpedia.org/resource/Sidewalk_Labs,Sidewalk Labs,http://dbpedia.org/resource/Sidewalk_Labs,94.93
+http://dbpedia.org/resource/P.Orr_&_Sons,P.Orr & Sons,http://dbpedia.org/resource/P.Orr_&_Sons,94.905
+http://dbpedia.org/resource/Bristol_Aeroplane_Company,Bristol Aeroplane Company,http://dbpedia.org/resource/Bristol_Aeroplane_Company,94.82499999999999
+http://dbpedia.org/resource/Spyker_Cars,Spyker Cars,http://dbpedia.org/resource/Spyker_Cars,94.79500000000002
+http://dbpedia.org/resource/Pacific_Data_Images,Pacific Data Images,http://dbpedia.org/resource/Pacific_Data_Images,94.785
+http://dbpedia.org/resource/Sky_Italia,Sky Italia,http://dbpedia.org/resource/Sky_Italia,94.77
+http://dbpedia.org/resource/United_Aircraft_Corporation,United Aircraft Corporation,http://dbpedia.org/resource/United_Aircraft_Corporation,94.7
+http://dbpedia.org/resource/TelevisaUnivision,TelevisaUnivision,http://dbpedia.org/resource/TelevisaUnivision,94.69
+http://dbpedia.org/resource/MarVista_Entertainment,MarVista Entertainment,http://dbpedia.org/resource/MarVista_Entertainment,94.685
+http://dbpedia.org/resource/Vox_Media,Vox Media,http://dbpedia.org/resource/Vox_Media,94.68
+http://dbpedia.org/resource/Archant,Archant,http://dbpedia.org/resource/Archant,94.65499999999999
+http://dbpedia.org/resource/Hydro-Québec,Hydro-Québec,http://dbpedia.org/resource/Hydro-Québec,94.62
+http://dbpedia.org/resource/Ibanez,Ibanez,http://dbpedia.org/resource/Ibanez,94.47500000000001
+http://dbpedia.org/resource/Mohan_Meakin,Mohan Meakin,http://dbpedia.org/resource/Mohan_Meakin,94.46
+http://dbpedia.org/resource/Sun_TV_Network,Sun TV Network,http://dbpedia.org/resource/Sun_TV_Network,94.42500000000001
+http://dbpedia.org/resource/Uber,Uber,http://dbpedia.org/resource/Uber,94.42
+http://dbpedia.org/resource/Famous_Players,Famous Players,http://dbpedia.org/resource/Famous_Players,94.39
+http://dbpedia.org/resource/The_Broadway,The Broadway,http://dbpedia.org/resource/The_Broadway,94.38
+http://dbpedia.org/resource/Western_Electric,Western Electric,http://dbpedia.org/resource/Western_Electric,94.36500000000001
+http://dbpedia.org/resource/News_Corp,News Corp,http://dbpedia.org/resource/News_Corp,94.36
+http://dbpedia.org/resource/Equinor,Equinor,http://dbpedia.org/resource/Equinor,94.35500000000002
+http://dbpedia.org/resource/Balaji_Telefilms,Balaji Telefilms,http://dbpedia.org/resource/Balaji_Telefilms,94.29
+http://dbpedia.org/resource/DuPont,DuPont,http://dbpedia.org/resource/DuPont,94.285
+http://dbpedia.org/resource/Namma_Veedu_Vasanta_Bhavan,Namma Veedu Vasanta Bhavan,http://dbpedia.org/resource/Namma_Veedu_Vasanta_Bhavan,94.26499999999999
+http://dbpedia.org/resource/Accor,Accor,http://dbpedia.org/resource/Accor,94.245
+http://dbpedia.org/resource/NBCUniversal_International_Networks,NBCUniversal International Networks,http://dbpedia.org/resource/NBCUniversal_International_Networks,94.01499999999999
+http://dbpedia.org/resource/DTS_(company),DTS (company),http://dbpedia.org/resource/DTS_(company),93.99000000000001
+http://dbpedia.org/resource/NBC_Owned_Television_Stations,NBC Owned Television Stations,http://dbpedia.org/resource/NBC_Owned_Television_Stations,93.94
+http://dbpedia.org/resource/Achievement_Hunter,Achievement Hunter,http://dbpedia.org/resource/Achievement_Hunter,93.88
+http://dbpedia.org/resource/Shogakukan,Shogakukan,http://dbpedia.org/resource/Shogakukan,93.82
+http://dbpedia.org/resource/Hot_(Israel),Hot (Israel),http://dbpedia.org/resource/Hot_(Israel),93.61500000000001
+http://dbpedia.org/resource/Vedanta_Limited,Vedanta Limited,http://dbpedia.org/resource/Vedanta_Limited,93.595
+http://dbpedia.org/resource/Scripps_Networks_Interactive,Scripps Networks Interactive,http://dbpedia.org/resource/Scripps_Networks_Interactive,93.52
+http://dbpedia.org/resource/Allison_Transmission,Allison Transmission,http://dbpedia.org/resource/Allison_Transmission,93.445
+http://dbpedia.org/resource/Prometheus_Global_Media,Prometheus Global Media,http://dbpedia.org/resource/Prometheus_Global_Media,93.37
+http://dbpedia.org/resource/DB_Cargo_UK,DB Cargo UK,http://dbpedia.org/resource/DB_Cargo_UK,93.35000000000001
+http://dbpedia.org/resource/Saban_Capital_Group,Saban Capital Group,http://dbpedia.org/resource/Saban_Capital_Group,93.31
+http://dbpedia.org/resource/General_Dynamics,General Dynamics,http://dbpedia.org/resource/General_Dynamics,93.30000000000001
+http://dbpedia.org/resource/Khoday_Group,Khoday Group,http://dbpedia.org/resource/Khoday_Group,93.25999999999999
+http://dbpedia.org/resource/GV_(company),GV (company),http://dbpedia.org/resource/GV_(company),93.24000000000001
+http://dbpedia.org/resource/Westwood_One,Westwood One,http://dbpedia.org/resource/Westwood_One,93.185
+http://dbpedia.org/resource/Journal_Media_Group,Journal Media Group,http://dbpedia.org/resource/Journal_Media_Group,93.17
+http://dbpedia.org/resource/Sega_AM2,Sega AM2,http://dbpedia.org/resource/Sega_AM2,93.16499999999999
+http://dbpedia.org/resource/Pacific_Fur_Company,Pacific Fur Company,http://dbpedia.org/resource/Pacific_Fur_Company,93.04500000000002
+http://dbpedia.org/resource/Ral_Partha_Enterprises,Ral Partha Enterprises,http://dbpedia.org/resource/Ral_Partha_Enterprises,92.995
+http://dbpedia.org/resource/FedEx,FedEx,http://dbpedia.org/resource/FedEx,92.97500000000001
+http://dbpedia.org/resource/Amway,Amway,http://dbpedia.org/resource/Amway,92.97000000000001
+http://dbpedia.org/resource/Allied_Artists_International,Allied Artists International,http://dbpedia.org/resource/Allied_Artists_International,92.95
+http://dbpedia.org/resource/National_Highways,National Highways,http://dbpedia.org/resource/National_Highways,92.95
+http://dbpedia.org/resource/The_Automatt,The Automatt,http://dbpedia.org/resource/The_Automatt,92.94
+http://dbpedia.org/resource/Supermarine,Supermarine,http://dbpedia.org/resource/Supermarine,92.92000000000002
+http://dbpedia.org/resource/Riley_Motor,Riley Motor,http://dbpedia.org/resource/Riley_Motor,92.92
+http://dbpedia.org/resource/Toho,Toho,http://dbpedia.org/resource/Toho,92.84500000000001
+http://dbpedia.org/resource/Hudson_Motor_Car_Company,Hudson Motor Car Company,http://dbpedia.org/resource/Hudson_Motor_Car_Company,92.825
+http://dbpedia.org/resource/The_Grand_Sweets_and_Snacks,The Grand Sweets and Snacks,http://dbpedia.org/resource/The_Grand_Sweets_and_Snacks,92.82
+http://dbpedia.org/resource/Midco,Midco,http://dbpedia.org/resource/Midco,92.79
+http://dbpedia.org/resource/MS&AD_Insurance_Group,MS&AD Insurance Group,http://dbpedia.org/resource/MS&AD_Insurance_Group,92.72
+http://dbpedia.org/resource/Main_Frame_Software_Communications,Main Frame Software Communications,http://dbpedia.org/resource/Main_Frame_Software_Communications,92.715
+http://dbpedia.org/resource/SAP,SAP,http://dbpedia.org/resource/SAP,92.565
+http://dbpedia.org/resource/Swedish_East_India_Company,Swedish East India Company,http://dbpedia.org/resource/Swedish_East_India_Company,92.535
+http://dbpedia.org/resource/POW!_Entertainment,POW! Entertainment,http://dbpedia.org/resource/POW!_Entertainment,92.455
+http://dbpedia.org/resource/National_Iranian_Oil_Company,National Iranian Oil Company,http://dbpedia.org/resource/National_Iranian_Oil_Company,92.41000000000001
+http://dbpedia.org/resource/Gordini,Gordini,http://dbpedia.org/resource/Gordini,92.38
+http://dbpedia.org/resource/Venucia,Venucia,http://dbpedia.org/resource/Venucia,92.315
+http://dbpedia.org/resource/Fox_2000_Pictures,Fox 2000 Pictures,http://dbpedia.org/resource/Fox_2000_Pictures,92.285
+http://dbpedia.org/resource/Toyota_Auto_Body,Toyota Auto Body,http://dbpedia.org/resource/Toyota_Auto_Body,92.19500000000001
+http://dbpedia.org/resource/Renault_Sport,Renault Sport,http://dbpedia.org/resource/Renault_Sport,92.14
+http://dbpedia.org/resource/Neverware,Neverware,http://dbpedia.org/resource/Neverware,92.13999999999999
+http://dbpedia.org/resource/Puma_(brand),Puma (brand),http://dbpedia.org/resource/Puma_(brand),92.08
+http://dbpedia.org/resource/Khazana_Jewellery,Khazana Jewellery,http://dbpedia.org/resource/Khazana_Jewellery,92.055
+http://dbpedia.org/resource/Sony_Pictures_Motion_Picture_Group,Sony Pictures Motion Picture Group,http://dbpedia.org/resource/Sony_Pictures_Motion_Picture_Group,92.02000000000001
+http://dbpedia.org/resource/AdventHealth,AdventHealth,http://dbpedia.org/resource/AdventHealth,92.015
+http://dbpedia.org/resource/DiDi,DiDi,http://dbpedia.org/resource/DiDi,91.99000000000001
+"http://dbpedia.org/resource/Paws,_Inc.","Paws, Inc.","http://dbpedia.org/resource/Paws,_Inc.",91.99
+http://dbpedia.org/resource/Bullitt_Group,Bullitt Group,http://dbpedia.org/resource/Bullitt_Group,91.955
+http://dbpedia.org/resource/Studio_Dragon,Studio Dragon,http://dbpedia.org/resource/Studio_Dragon,91.92999999999999
+http://dbpedia.org/resource/Disney_Networks_Group_Asia_Pacific,Disney Networks Group Asia Pacific,http://dbpedia.org/resource/Disney_Networks_Group_Asia_Pacific,91.815
+http://dbpedia.org/resource/Hecht-Lancaster_&_Buzzell_Music,Hecht-Lancaster & Buzzell Music,http://dbpedia.org/resource/Hecht-Lancaster_&_Buzzell_Music,91.77
+http://dbpedia.org/resource/Lionsgate_Films,Lionsgate Films,http://dbpedia.org/resource/Lionsgate_Films,91.765
+http://dbpedia.org/resource/Six_Flags,Six Flags,http://dbpedia.org/resource/Six_Flags,91.72
+http://dbpedia.org/resource/Qualcomm_Snapdragon,Qualcomm Snapdragon,http://dbpedia.org/resource/Qualcomm_Snapdragon,91.505
+http://dbpedia.org/resource/Disney_General_Entertainment_Content,Disney General Entertainment Content,http://dbpedia.org/resource/Disney_General_Entertainment_Content,91.43
+http://dbpedia.org/resource/Cabalen,Cabalen,http://dbpedia.org/resource/Cabalen,91.42500000000001
+http://dbpedia.org/resource/Harvey_Comics,Harvey Comics,http://dbpedia.org/resource/Harvey_Comics,91.31
+http://dbpedia.org/resource/Kaggle,Kaggle,http://dbpedia.org/resource/Kaggle,91.22500000000001
+http://dbpedia.org/resource/Megaupload,Megaupload,http://dbpedia.org/resource/Megaupload,91.21
+http://dbpedia.org/resource/Blue_Bird_Corporation,Blue Bird Corporation,http://dbpedia.org/resource/Blue_Bird_Corporation,91.185
+http://dbpedia.org/resource/Detroit_Diesel,Detroit Diesel,http://dbpedia.org/resource/Detroit_Diesel,91.13999999999999
+http://dbpedia.org/resource/Iveco,Iveco,http://dbpedia.org/resource/Iveco,91.035
+http://dbpedia.org/resource/Boeing_Commercial_Airplanes,Boeing Commercial Airplanes,http://dbpedia.org/resource/Boeing_Commercial_Airplanes,90.98
+http://dbpedia.org/resource/National_Securities_Depository_Limited,National Securities Depository Limited,http://dbpedia.org/resource/National_Securities_Depository_Limited,90.94
+http://dbpedia.org/resource/OpenAI,OpenAI,http://dbpedia.org/resource/OpenAI,90.91000000000001
+http://dbpedia.org/resource/Autodesk,Autodesk,http://dbpedia.org/resource/Autodesk,90.86
+http://dbpedia.org/resource/Advance_Publications,Advance Publications,http://dbpedia.org/resource/Advance_Publications,90.77
+http://dbpedia.org/resource/The_Ritz-Carlton_Hotel_Company,The Ritz-Carlton Hotel Company,http://dbpedia.org/resource/The_Ritz-Carlton_Hotel_Company,90.755
+http://dbpedia.org/resource/Nielsen_Audio,Nielsen Audio,http://dbpedia.org/resource/Nielsen_Audio,90.75000000000001
+http://dbpedia.org/resource/Mattel_Films,Mattel Films,http://dbpedia.org/resource/Mattel_Films,90.66
+http://dbpedia.org/resource/Best_Buy,Best Buy,http://dbpedia.org/resource/Best_Buy,90.63000000000001
+http://dbpedia.org/resource/Animax,Animax,http://dbpedia.org/resource/Animax,90.60000000000001
+http://dbpedia.org/resource/Nismo,Nismo,http://dbpedia.org/resource/Nismo,90.54
+http://dbpedia.org/resource/PetroChina,PetroChina,http://dbpedia.org/resource/PetroChina,90.495
+http://dbpedia.org/resource/Standard_Motor_Company,Standard Motor Company,http://dbpedia.org/resource/Standard_Motor_Company,90.495
+http://dbpedia.org/resource/Volkswagen_Group_of_America,Volkswagen Group of America,http://dbpedia.org/resource/Volkswagen_Group_of_America,90.49
+http://dbpedia.org/resource/Fuzzy_Door_Productions,Fuzzy Door Productions,http://dbpedia.org/resource/Fuzzy_Door_Productions,90.46
+http://dbpedia.org/resource/Dennis_Specialist_Vehicles,Dennis Specialist Vehicles,http://dbpedia.org/resource/Dennis_Specialist_Vehicles,90.44
+http://dbpedia.org/resource/Capcom,Capcom,http://dbpedia.org/resource/Capcom,90.42500000000001
+http://dbpedia.org/resource/Cage_Warriors,Cage Warriors,http://dbpedia.org/resource/Cage_Warriors,90.42500000000001
+http://dbpedia.org/resource/Mojang_Studios,Mojang Studios,http://dbpedia.org/resource/Mojang_Studios,90.42500000000001
+http://dbpedia.org/resource/20th_Television_Animation,20th Television Animation,http://dbpedia.org/resource/20th_Television_Animation,90.375
+http://dbpedia.org/resource/Amblin_Entertainment,Amblin Entertainment,http://dbpedia.org/resource/Amblin_Entertainment,90.37
+http://dbpedia.org/resource/Coventry_Climax,Coventry Climax,http://dbpedia.org/resource/Coventry_Climax,90.34500000000001

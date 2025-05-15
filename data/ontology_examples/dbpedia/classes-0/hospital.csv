@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/Bethlem_Royal_Hospital,Bethlem Royal Hospital,http://dbpedia.org/resource/Bethlem_Royal_Hospital,223.70000000000002
+http://dbpedia.org/resource/Mega_Ligtas_COVID_Centers,Mega Ligtas COVID Centers,http://dbpedia.org/resource/Mega_Ligtas_COVID_Centers,197.04
+http://dbpedia.org/resource/Fangcang_hospital,Fangcang hospital,http://dbpedia.org/resource/Fangcang_hospital,195.32500000000002
+http://dbpedia.org/resource/Huoshenshan_Hospital,Huoshenshan Hospital,http://dbpedia.org/resource/Huoshenshan_Hospital,183.055
+http://dbpedia.org/resource/Leishenshan_Hospital,Leishenshan Hospital,http://dbpedia.org/resource/Leishenshan_Hospital,179.215
+http://dbpedia.org/resource/Central_Hospital_of_Wuhan,Central Hospital of Wuhan,http://dbpedia.org/resource/Central_Hospital_of_Wuhan,174.72
+http://dbpedia.org/resource/Sancaktepe_Prof._Dr._Feriha_Öz_Emergency_Hospital,Sancaktepe Prof. Dr. Feriha Öz Emergency Hospital,http://dbpedia.org/resource/Sancaktepe_Prof._Dr._Feriha_Öz_Emergency_Hospital,169.29
+http://dbpedia.org/resource/Transvaal_Memorial_Hospital_for_Children,Transvaal Memorial Hospital for Children,http://dbpedia.org/resource/Transvaal_Memorial_Hospital_for_Children,160.28
+http://dbpedia.org/resource/Chris_Hani_Baragwanath_Hospital,Chris Hani Baragwanath Hospital,http://dbpedia.org/resource/Chris_Hani_Baragwanath_Hospital,159.7
+http://dbpedia.org/resource/Nelson_Mandela_Children's_Hospital,Nelson Mandela Children's Hospital,http://dbpedia.org/resource/Nelson_Mandela_Children's_Hospital,159.695
+http://dbpedia.org/resource/Helen_Joseph_Hospital,Helen Joseph Hospital,http://dbpedia.org/resource/Helen_Joseph_Hospital,158.83
+http://dbpedia.org/resource/Charlotte_Maxeke_Johannesburg_Academic_Hospital,Charlotte Maxeke Johannesburg Academic Hospital,http://dbpedia.org/resource/Charlotte_Maxeke_Johannesburg_Academic_Hospital,158.04000000000002
+http://dbpedia.org/resource/Milpark_Hospital,Milpark Hospital,http://dbpedia.org/resource/Milpark_Hospital,154.89
+http://dbpedia.org/resource/Rahima_Moosa_Mother_and_Child_Hospital,Rahima Moosa Mother and Child Hospital,http://dbpedia.org/resource/Rahima_Moosa_Mother_and_Child_Hospital,153.78
+http://dbpedia.org/resource/Pholosong_Hospital,Pholosong Hospital,http://dbpedia.org/resource/Pholosong_Hospital,152.5
+http://dbpedia.org/resource/Leratong_Hospital,Leratong Hospital,http://dbpedia.org/resource/Leratong_Hospital,149.64000000000001
+"http://dbpedia.org/resource/Voluntary_Health_Services_hospital,_Chennai","Voluntary Health Services hospital, Chennai","http://dbpedia.org/resource/Voluntary_Health_Services_hospital,_Chennai",118.27499999999998
+http://dbpedia.org/resource/Sankara_Nethralaya,Sankara Nethralaya,http://dbpedia.org/resource/Sankara_Nethralaya,112.20499999999998
+http://dbpedia.org/resource/Tamil_Nadu_Government_Multi_Super_Speciality_Hospital,Tamil Nadu Government Multi Super Speciality Hospital,http://dbpedia.org/resource/Tamil_Nadu_Government_Multi_Super_Speciality_Hospital,112.06
+http://dbpedia.org/resource/Rajiv_Gandhi_Government_General_Hospital,Rajiv Gandhi Government General Hospital,http://dbpedia.org/resource/Rajiv_Gandhi_Government_General_Hospital,109.41
+http://dbpedia.org/resource/Government_Royapettah_Hospital,Government Royapettah Hospital,http://dbpedia.org/resource/Government_Royapettah_Hospital,107.03999999999999
+"http://dbpedia.org/resource/Government_Hospital_of_Thoracic_Medicine,_Chennai","Government Hospital of Thoracic Medicine, Chennai","http://dbpedia.org/resource/Government_Hospital_of_Thoracic_Medicine,_Chennai",107.00999999999999
+"http://dbpedia.org/resource/Hindu_Mission_Hospital,_Chennai","Hindu Mission Hospital, Chennai","http://dbpedia.org/resource/Hindu_Mission_Hospital,_Chennai",106.74
+http://dbpedia.org/resource/Sir_Ivan_Stedeford_Hospital,Sir Ivan Stedeford Hospital,http://dbpedia.org/resource/Sir_Ivan_Stedeford_Hospital,106.14000000000001
+http://dbpedia.org/resource/MIOT_International_Hospital,MIOT International Hospital,http://dbpedia.org/resource/MIOT_International_Hospital,105.46500000000002
+"http://dbpedia.org/resource/Southern_Railway_Headquarters_Hospital,_Chennai","Southern Railway Headquarters Hospital, Chennai","http://dbpedia.org/resource/Southern_Railway_Headquarters_Hospital,_Chennai",104.83
+http://dbpedia.org/resource/Madras_Medical_Mission,Madras Medical Mission,http://dbpedia.org/resource/Madras_Medical_Mission,104.14500000000001
+http://dbpedia.org/resource/Great_Ormond_Street_Hospital,Great Ormond Street Hospital,http://dbpedia.org/resource/Great_Ormond_Street_Hospital,103.615
+"http://dbpedia.org/resource/Government_Institute_of_Rehabilitation_Medicine,_Chennai","Government Institute of Rehabilitation Medicine, Chennai","http://dbpedia.org/resource/Government_Institute_of_Rehabilitation_Medicine,_Chennai",100.625
+http://dbpedia.org/resource/Royal_Jubilee_Hospital,Royal Jubilee Hospital,http://dbpedia.org/resource/Royal_Jubilee_Hospital,99.83
+http://dbpedia.org/resource/Guy's_Hospital,Guy's Hospital,http://dbpedia.org/resource/Guy's_Hospital,99.37
+http://dbpedia.org/resource/King_Edward_VII's_Hospital,King Edward VII's Hospital,http://dbpedia.org/resource/King_Edward_VII's_Hospital,97.945
+http://dbpedia.org/resource/Mount_Sinai_Morningside,Mount Sinai Morningside,http://dbpedia.org/resource/Mount_Sinai_Morningside,95.7
+"http://dbpedia.org/resource/The_Montefiore_Hospital,_Hove","The Montefiore Hospital, Hove","http://dbpedia.org/resource/The_Montefiore_Hospital,_Hove",95.215
+http://dbpedia.org/resource/Queen_Elizabeth_Hospital_Birmingham,Queen Elizabeth Hospital Birmingham,http://dbpedia.org/resource/Queen_Elizabeth_Hospital_Birmingham,93.55
+http://dbpedia.org/resource/Airedale_General_Hospital,Airedale General Hospital,http://dbpedia.org/resource/Airedale_General_Hospital,93.385
+http://dbpedia.org/resource/Bradford_Royal_Infirmary,Bradford Royal Infirmary,http://dbpedia.org/resource/Bradford_Royal_Infirmary,92.65500000000002
+http://dbpedia.org/resource/Groote_Schuur_Hospital,Groote Schuur Hospital,http://dbpedia.org/resource/Groote_Schuur_Hospital,90.345
+http://dbpedia.org/resource/St_Thomas'_Hospital,St Thomas' Hospital,http://dbpedia.org/resource/St_Thomas'_Hospital,90.06
+http://dbpedia.org/resource/Valkenberg_Hospital,Valkenberg Hospital,http://dbpedia.org/resource/Valkenberg_Hospital,89.895
+"http://dbpedia.org/resource/St_Luke's_Hospital,_Bradford","St Luke's Hospital, Bradford","http://dbpedia.org/resource/St_Luke's_Hospital,_Bradford",89.58500000000001
+http://dbpedia.org/resource/Red_Cross_War_Memorial_Children's_Hospital,Red Cross War Memorial Children's Hospital,http://dbpedia.org/resource/Red_Cross_War_Memorial_Children's_Hospital,89.11
+http://dbpedia.org/resource/Henry_Ford_Hospital,Henry Ford Hospital,http://dbpedia.org/resource/Henry_Ford_Hospital,88.855
+http://dbpedia.org/resource/St_James's_University_Hospital,St James's University Hospital,http://dbpedia.org/resource/St_James's_University_Hospital,88.73
+http://dbpedia.org/resource/Alder_Hey_Children's_Hospital,Alder Hey Children's Hospital,http://dbpedia.org/resource/Alder_Hey_Children's_Hospital,88.63499999999999
+http://dbpedia.org/resource/Richmond_Royal_Hospital,Richmond Royal Hospital,http://dbpedia.org/resource/Richmond_Royal_Hospital,88.23
+http://dbpedia.org/resource/Somerset_Hospital_(Cape_Town),Somerset Hospital (Cape Town),http://dbpedia.org/resource/Somerset_Hospital_(Cape_Town),87.89999999999999
+http://dbpedia.org/resource/Selly_Oak_Hospital,Selly Oak Hospital,http://dbpedia.org/resource/Selly_Oak_Hospital,87.355
+http://dbpedia.org/resource/Karl_Bremer_Hospital,Karl Bremer Hospital,http://dbpedia.org/resource/Karl_Bremer_Hospital,87.30499999999999
+http://dbpedia.org/resource/Royal_Liverpool_University_Hospital,Royal Liverpool University Hospital,http://dbpedia.org/resource/Royal_Liverpool_University_Hospital,86.795
+http://dbpedia.org/resource/Cassel_Hospital,Cassel Hospital,http://dbpedia.org/resource/Cassel_Hospital,86.74000000000001
+http://dbpedia.org/resource/Addenbrooke's_Hospital,Addenbrooke's Hospital,http://dbpedia.org/resource/Addenbrooke's_Hospital,86.07
+http://dbpedia.org/resource/Birmingham_Children's_Hospital,Birmingham Children's Hospital,http://dbpedia.org/resource/Birmingham_Children's_Hospital,85.69
+http://dbpedia.org/resource/Good_Hope_Hospital,Good Hope Hospital,http://dbpedia.org/resource/Good_Hope_Hospital,85.11
+"http://dbpedia.org/resource/City_Hospital,_Birmingham","City Hospital, Birmingham","http://dbpedia.org/resource/City_Hospital,_Birmingham",85.07000000000001
+"http://dbpedia.org/resource/Saint_Mary's_Hospital,_Manchester","Saint Mary's Hospital, Manchester","http://dbpedia.org/resource/Saint_Mary's_Hospital,_Manchester",85.02499999999999
+http://dbpedia.org/resource/Manchester_Royal_Eye_Hospital,Manchester Royal Eye Hospital,http://dbpedia.org/resource/Manchester_Royal_Eye_Hospital,84.25
+http://dbpedia.org/resource/University_College_Hospital,University College Hospital,http://dbpedia.org/resource/University_College_Hospital,84.1
+http://dbpedia.org/resource/Royal_Free_Hospital,Royal Free Hospital,http://dbpedia.org/resource/Royal_Free_Hospital,83.85
+http://dbpedia.org/resource/Tygerberg_Hospital,Tygerberg Hospital,http://dbpedia.org/resource/Tygerberg_Hospital,83.725
+http://dbpedia.org/resource/Priory_Hospital,Priory Hospital,http://dbpedia.org/resource/Priory_Hospital,82.865
+http://dbpedia.org/resource/Leeds_General_Infirmary,Leeds General Infirmary,http://dbpedia.org/resource/Leeds_General_Infirmary,82.815
+http://dbpedia.org/resource/Alexandra_Hospital_(Cape_Town),Alexandra Hospital (Cape Town),http://dbpedia.org/resource/Alexandra_Hospital_(Cape_Town),82.17000000000002
+"http://dbpedia.org/resource/Barnes_Hospital,_London","Barnes Hospital, London","http://dbpedia.org/resource/Barnes_Hospital,_London",80.9
+http://dbpedia.org/resource/Moorfields_Eye_Hospital,Moorfields Eye Hospital,http://dbpedia.org/resource/Moorfields_Eye_Hospital,80.545
+http://dbpedia.org/resource/Queen_Charlotte's_and_Chelsea_Hospital,Queen Charlotte's and Chelsea Hospital,http://dbpedia.org/resource/Queen_Charlotte's_and_Chelsea_Hospital,80.085
+"http://dbpedia.org/resource/St_Mary's_Hospital,_London","St Mary's Hospital, London","http://dbpedia.org/resource/St_Mary's_Hospital,_London",79.705
+http://dbpedia.org/resource/Neponsit_Beach_Hospital,Neponsit Beach Hospital,http://dbpedia.org/resource/Neponsit_Beach_Hospital,79.68
+http://dbpedia.org/resource/Royal_Stoke_University_Hospital,Royal Stoke University Hospital,http://dbpedia.org/resource/Royal_Stoke_University_Hospital,79.63499999999999
+http://dbpedia.org/resource/Portland_Hospital,Portland Hospital,http://dbpedia.org/resource/Portland_Hospital,79.58
+http://dbpedia.org/resource/Whittington_Hospital,Whittington Hospital,http://dbpedia.org/resource/Whittington_Hospital,79.36
+http://dbpedia.org/resource/Netley_Hospital,Netley Hospital,http://dbpedia.org/resource/Netley_Hospital,79.22
+http://dbpedia.org/resource/King's_College_Hospital,King's College Hospital,http://dbpedia.org/resource/King's_College_Hospital,78.755
+http://dbpedia.org/resource/Royal_London_Hospital,Royal London Hospital,http://dbpedia.org/resource/Royal_London_Hospital,78.63
+"http://dbpedia.org/resource/St_Bernard's_Hospital,_Hanwell","St Bernard's Hospital, Hanwell","http://dbpedia.org/resource/St_Bernard's_Hospital,_Hanwell",78.28
+http://dbpedia.org/resource/Birmingham_Women's_Hospital,Birmingham Women's Hospital,http://dbpedia.org/resource/Birmingham_Women's_Hospital,78.28
+http://dbpedia.org/resource/St_Bartholomew's_Hospital,St Bartholomew's Hospital,http://dbpedia.org/resource/St_Bartholomew's_Hospital,77.995
+http://dbpedia.org/resource/Northern_General_Hospital,Northern General Hospital,http://dbpedia.org/resource/Northern_General_Hospital,77.97500000000001
+http://dbpedia.org/resource/Royal_Brompton_Hospital,Royal Brompton Hospital,http://dbpedia.org/resource/Royal_Brompton_Hospital,77.33
+http://dbpedia.org/resource/Royal_National_Orthopaedic_Hospital,Royal National Orthopaedic Hospital,http://dbpedia.org/resource/Royal_National_Orthopaedic_Hospital,77.28000000000002
+http://dbpedia.org/resource/UPMC_Children's_Hospital_of_Pittsburgh,UPMC Children's Hospital of Pittsburgh,http://dbpedia.org/resource/UPMC_Children's_Hospital_of_Pittsburgh,76.85500000000002
+http://dbpedia.org/resource/Northwick_Park_Hospital,Northwick Park Hospital,http://dbpedia.org/resource/Northwick_Park_Hospital,76.38999999999999
+"http://dbpedia.org/resource/Government_Medical_College,_Kollam","Government Medical College, Kollam","http://dbpedia.org/resource/Government_Medical_College,_Kollam",76.10499999999999
+http://dbpedia.org/resource/Maudsley_Hospital,Maudsley Hospital,http://dbpedia.org/resource/Maudsley_Hospital,75.87499999999999
+http://dbpedia.org/resource/Royal_Hallamshire_Hospital,Royal Hallamshire Hospital,http://dbpedia.org/resource/Royal_Hallamshire_Hospital,75.78500000000001
+http://dbpedia.org/resource/Charing_Cross_Hospital,Charing Cross Hospital,http://dbpedia.org/resource/Charing_Cross_Hospital,75.495
+http://dbpedia.org/resource/National_Hospital_for_Neurology_and_Neurosurgery,National Hospital for Neurology and Neurosurgery,http://dbpedia.org/resource/National_Hospital_for_Neurology_and_Neurosurgery,75.25999999999999
+http://dbpedia.org/resource/Eastman_Dental_Hospital,Eastman Dental Hospital,http://dbpedia.org/resource/Eastman_Dental_Hospital,74.75
+http://dbpedia.org/resource/University_College_Hospital_at_Westmoreland_Street,University College Hospital at Westmoreland Street,http://dbpedia.org/resource/University_College_Hospital_at_Westmoreland_Street,74.575
+http://dbpedia.org/resource/Norfolk_and_Norwich_University_Hospital,Norfolk and Norwich University Hospital,http://dbpedia.org/resource/Norfolk_and_Norwich_University_Hospital,74.55499999999999
+"http://dbpedia.org/resource/Royal_National_Throat,_Nose_and_Ear_Hospital","Royal National Throat, Nose and Ear Hospital","http://dbpedia.org/resource/Royal_National_Throat,_Nose_and_Ear_Hospital",74.48
+http://dbpedia.org/resource/Cleveland_Clinic,Cleveland Clinic,http://dbpedia.org/resource/Cleveland_Clinic,74.235
+http://dbpedia.org/resource/Royal_London_Hospital_for_Integrated_Medicine,Royal London Hospital for Integrated Medicine,http://dbpedia.org/resource/Royal_London_Hospital_for_Integrated_Medicine,74.07
+http://dbpedia.org/resource/Middlesex_Hospital,Middlesex Hospital,http://dbpedia.org/resource/Middlesex_Hospital,73.695
+http://dbpedia.org/resource/Mount_Vernon_Hospital,Mount Vernon Hospital,http://dbpedia.org/resource/Mount_Vernon_Hospital,73.645
+http://dbpedia.org/resource/Royal_Oldham_Hospital,Royal Oldham Hospital,http://dbpedia.org/resource/Royal_Oldham_Hospital,73.635
+http://dbpedia.org/resource/Hospital_for_Tropical_Diseases,Hospital for Tropical Diseases,http://dbpedia.org/resource/Hospital_for_Tropical_Diseases,73.52000000000001
+http://dbpedia.org/resource/Sheffield_Children's_Hospital,Sheffield Children's Hospital,http://dbpedia.org/resource/Sheffield_Children's_Hospital,73.43499999999999
+"http://dbpedia.org/resource/St_Peter's_Hospital,_Chertsey","St Peter's Hospital, Chertsey","http://dbpedia.org/resource/St_Peter's_Hospital,_Chertsey",73.245
+http://dbpedia.org/resource/UPMC_Presbyterian,UPMC Presbyterian,http://dbpedia.org/resource/UPMC_Presbyterian,73.155
+http://dbpedia.org/resource/Chelsea_and_Westminster_Hospital,Chelsea and Westminster Hospital,http://dbpedia.org/resource/Chelsea_and_Westminster_Hospital,73.135
+http://dbpedia.org/resource/Royal_Bournemouth_Hospital,Royal Bournemouth Hospital,http://dbpedia.org/resource/Royal_Bournemouth_Hospital,73.095
+http://dbpedia.org/resource/NewYork-Presbyterian_Hospital,NewYork-Presbyterian Hospital,http://dbpedia.org/resource/NewYork-Presbyterian_Hospital,72.80999999999999
+http://dbpedia.org/resource/Morgan_Stanley_Children's_Hospital,Morgan Stanley Children's Hospital,http://dbpedia.org/resource/Morgan_Stanley_Children's_Hospital,72.58
+http://dbpedia.org/resource/Salford_Royal_Hospital,Salford Royal Hospital,http://dbpedia.org/resource/Salford_Royal_Hospital,72.5
+http://dbpedia.org/resource/Crawley_Hospital,Crawley Hospital,http://dbpedia.org/resource/Crawley_Hospital,72.34500000000001
+http://dbpedia.org/resource/Weston_Park_Hospital,Weston Park Hospital,http://dbpedia.org/resource/Weston_Park_Hospital,72.34500000000001
+http://dbpedia.org/resource/Hillingdon_Hospital,Hillingdon Hospital,http://dbpedia.org/resource/Hillingdon_Hospital,72.34000000000002
+http://dbpedia.org/resource/Boston_Children's_Hospital,Boston Children's Hospital,http://dbpedia.org/resource/Boston_Children's_Hospital,72.105
+http://dbpedia.org/resource/James_Cook_University_Hospital,James Cook University Hospital,http://dbpedia.org/resource/James_Cook_University_Hospital,72.09500000000001
+http://dbpedia.org/resource/Royal_Surrey_County_Hospital,Royal Surrey County Hospital,http://dbpedia.org/resource/Royal_Surrey_County_Hospital,71.955
+http://dbpedia.org/resource/Luton_and_Dunstable_University_Hospital,Luton and Dunstable University Hospital,http://dbpedia.org/resource/Luton_and_Dunstable_University_Hospital,71.74499999999999
+http://dbpedia.org/resource/University_Hospital_Lewisham,University Hospital Lewisham,http://dbpedia.org/resource/University_Hospital_Lewisham,71.58
+http://dbpedia.org/resource/Evelina_London_Children's_Hospital,Evelina London Children's Hospital,http://dbpedia.org/resource/Evelina_London_Children's_Hospital,71.25
+http://dbpedia.org/resource/St_George's_Hospital,St George's Hospital,http://dbpedia.org/resource/St_George's_Hospital,71.155
+http://dbpedia.org/resource/Ashworth_Hospital,Ashworth Hospital,http://dbpedia.org/resource/Ashworth_Hospital,70.235
+http://dbpedia.org/resource/Royal_Papworth_Hospital,Royal Papworth Hospital,http://dbpedia.org/resource/Royal_Papworth_Hospital,70.21
+http://dbpedia.org/resource/Liverpool_Women's_Hospital,Liverpool Women's Hospital,http://dbpedia.org/resource/Liverpool_Women's_Hospital,70.205
+http://dbpedia.org/resource/Whipps_Cross_University_Hospital,Whipps Cross University Hospital,http://dbpedia.org/resource/Whipps_Cross_University_Hospital,69.675
+http://dbpedia.org/resource/Harefield_Hospital,Harefield Hospital,http://dbpedia.org/resource/Harefield_Hospital,69.60000000000001
+http://dbpedia.org/resource/Ealing_Hospital,Ealing Hospital,http://dbpedia.org/resource/Ealing_Hospital,69.55000000000001
+http://dbpedia.org/resource/St_Mark's_Hospital,St Mark's Hospital,http://dbpedia.org/resource/St_Mark's_Hospital,69.54
+http://dbpedia.org/resource/Blackberry_Hill_Hospital,Blackberry Hill Hospital,http://dbpedia.org/resource/Blackberry_Hill_Hospital,69.44500000000001
+http://dbpedia.org/resource/Royal_South_Hants_Hospital,Royal South Hants Hospital,http://dbpedia.org/resource/Royal_South_Hants_Hospital,69.44
+http://dbpedia.org/resource/Friern_Hospital,Friern Hospital,http://dbpedia.org/resource/Friern_Hospital,69.42
+http://dbpedia.org/resource/Manchester_Royal_Infirmary,Manchester Royal Infirmary,http://dbpedia.org/resource/Manchester_Royal_Infirmary,69.415
+http://dbpedia.org/resource/West_Middlesex_University_Hospital,West Middlesex University Hospital,http://dbpedia.org/resource/West_Middlesex_University_Hospital,69.195
+http://dbpedia.org/resource/The_Retreat,The Retreat,http://dbpedia.org/resource/The_Retreat,68.895
+http://dbpedia.org/resource/Lambeth_Hospital,Lambeth Hospital,http://dbpedia.org/resource/Lambeth_Hospital,68.88499999999999
+http://dbpedia.org/resource/Travancore_Medical_College_Hospital,Travancore Medical College Hospital,http://dbpedia.org/resource/Travancore_Medical_College_Hospital,68.86
+http://dbpedia.org/resource/Amala_Institute_of_Medical_Sciences,Amala Institute of Medical Sciences,http://dbpedia.org/resource/Amala_Institute_of_Medical_Sciences,68.60000000000001
+http://dbpedia.org/resource/Western_Eye_Hospital,Western Eye Hospital,http://dbpedia.org/resource/Western_Eye_Hospital,68.465
+http://dbpedia.org/resource/Hammersmith_Hospital,Hammersmith Hospital,http://dbpedia.org/resource/Hammersmith_Hospital,68.30499999999999
+http://dbpedia.org/resource/Weston_General_Hospital,Weston General Hospital,http://dbpedia.org/resource/Weston_General_Hospital,68.29
+http://dbpedia.org/resource/Rampton_Secure_Hospital,Rampton Secure Hospital,http://dbpedia.org/resource/Rampton_Secure_Hospital,68.165
+"http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_Kota_Kinabalu","Queen Elizabeth Hospital, Kota Kinabalu","http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_Kota_Kinabalu",68.15499999999999
+http://dbpedia.org/resource/Claybury_Hospital,Claybury Hospital,http://dbpedia.org/resource/Claybury_Hospital,67.655
+http://dbpedia.org/resource/Royal_Victoria_Infirmary,Royal Victoria Infirmary,http://dbpedia.org/resource/Royal_Victoria_Infirmary,67.39999999999999
+http://dbpedia.org/resource/Royal_Bolton_Hospital,Royal Bolton Hospital,http://dbpedia.org/resource/Royal_Bolton_Hospital,67.315
+http://dbpedia.org/resource/Scarborough_Hospital,Scarborough Hospital,http://dbpedia.org/resource/Scarborough_Hospital,67.295
+http://dbpedia.org/resource/Gloucestershire_Royal_Hospital,Gloucestershire Royal Hospital,http://dbpedia.org/resource/Gloucestershire_Royal_Hospital,67.28
+http://dbpedia.org/resource/Texas_Children's_Hospital,Texas Children's Hospital,http://dbpedia.org/resource/Texas_Children's_Hospital,67.25999999999999
+http://dbpedia.org/resource/Croydon_University_Hospital,Croydon University Hospital,http://dbpedia.org/resource/Croydon_University_Hospital,67.08
+http://dbpedia.org/resource/Lurie_Children's_Hospital,Lurie Children's Hospital,http://dbpedia.org/resource/Lurie_Children's_Hospital,66.97500000000001
+http://dbpedia.org/resource/Bristol_Royal_Hospital_for_Children,Bristol Royal Hospital for Children,http://dbpedia.org/resource/Bristol_Royal_Hospital_for_Children,66.925
+http://dbpedia.org/resource/Poole_Hospital,Poole Hospital,http://dbpedia.org/resource/Poole_Hospital,66.81
+http://dbpedia.org/resource/Trafford_General_Hospital,Trafford General Hospital,http://dbpedia.org/resource/Trafford_General_Hospital,66.785
+http://dbpedia.org/resource/Royal_Preston_Hospital,Royal Preston Hospital,http://dbpedia.org/resource/Royal_Preston_Hospital,66.775
+http://dbpedia.org/resource/University_Hospital_Coventry,University Hospital Coventry,http://dbpedia.org/resource/University_Hospital_Coventry,66.595
+http://dbpedia.org/resource/Warwick_Hospital,Warwick Hospital,http://dbpedia.org/resource/Warwick_Hospital,66.55999999999999
+http://dbpedia.org/resource/Royal_Devon_and_Exeter_Hospital,Royal Devon and Exeter Hospital,http://dbpedia.org/resource/Royal_Devon_and_Exeter_Hospital,66.52000000000001
+http://dbpedia.org/resource/Countess_of_Chester_Hospital,Countess of Chester Hospital,http://dbpedia.org/resource/Countess_of_Chester_Hospital,66.48
+http://dbpedia.org/resource/Peterborough_City_Hospital,Peterborough City Hospital,http://dbpedia.org/resource/Peterborough_City_Hospital,66.38000000000001
+http://dbpedia.org/resource/Central_Middlesex_Hospital,Central Middlesex Hospital,http://dbpedia.org/resource/Central_Middlesex_Hospital,66.17999999999999
+http://dbpedia.org/resource/Cromer_Hospital,Cromer Hospital,http://dbpedia.org/resource/Cromer_Hospital,66.05999999999999
+http://dbpedia.org/resource/Bristol_Royal_Infirmary,Bristol Royal Infirmary,http://dbpedia.org/resource/Bristol_Royal_Infirmary,66.025
+http://dbpedia.org/resource/Callington_Road_Hospital,Callington Road Hospital,http://dbpedia.org/resource/Callington_Road_Hospital,65.50999999999999
+http://dbpedia.org/resource/Chorley_and_South_Ribble_Hospital,Chorley and South Ribble Hospital,http://dbpedia.org/resource/Chorley_and_South_Ribble_Hospital,65.465
+http://dbpedia.org/resource/Royal_Marsden_Hospital,Royal Marsden Hospital,http://dbpedia.org/resource/Royal_Marsden_Hospital,65.235
+"http://dbpedia.org/resource/Christchurch_Hospital,_Dorset","Christchurch Hospital, Dorset","http://dbpedia.org/resource/Christchurch_Hospital,_Dorset",64.65
+http://dbpedia.org/resource/Royal_National_Hospital_for_Rheumatic_Diseases,Royal National Hospital for Rheumatic Diseases,http://dbpedia.org/resource/Royal_National_Hospital_for_Rheumatic_Diseases,64.57000000000001
+http://dbpedia.org/resource/Royal_Shrewsbury_Hospital,Royal Shrewsbury Hospital,http://dbpedia.org/resource/Royal_Shrewsbury_Hospital,64.52499999999999
+http://dbpedia.org/resource/Massachusetts_General_Hospital,Massachusetts General Hospital,http://dbpedia.org/resource/Massachusetts_General_Hospital,64.475
+http://dbpedia.org/resource/Tatchbury_Mount_Hospital,Tatchbury Mount Hospital,http://dbpedia.org/resource/Tatchbury_Mount_Hospital,64.47
+http://dbpedia.org/resource/Frenchay_Hospital,Frenchay Hospital,http://dbpedia.org/resource/Frenchay_Hospital,64.44
+http://dbpedia.org/resource/Furness_General_Hospital,Furness General Hospital,http://dbpedia.org/resource/Furness_General_Hospital,64.435
+http://dbpedia.org/resource/Southmead_Hospital,Southmead Hospital,http://dbpedia.org/resource/Southmead_Hospital,64.38000000000001
+http://dbpedia.org/resource/Ospedale_di_Santo_Spirito_in_Sassia,Ospedale di Santo Spirito in Sassia,http://dbpedia.org/resource/Ospedale_di_Santo_Spirito_in_Sassia,63.970000000000006
+http://dbpedia.org/resource/Marlboro_Psychiatric_Hospital,Marlboro Psychiatric Hospital,http://dbpedia.org/resource/Marlboro_Psychiatric_Hospital,63.715
+http://dbpedia.org/resource/Blackpool_Victoria_Hospital,Blackpool Victoria Hospital,http://dbpedia.org/resource/Blackpool_Victoria_Hospital,63.555
+http://dbpedia.org/resource/Newham_University_Hospital,Newham University Hospital,http://dbpedia.org/resource/Newham_University_Hospital,63.389999999999986
+http://dbpedia.org/resource/Royal_United_Hospital,Royal United Hospital,http://dbpedia.org/resource/Royal_United_Hospital,63.37
+http://dbpedia.org/resource/North_Manchester_General_Hospital,North Manchester General Hospital,http://dbpedia.org/resource/North_Manchester_General_Hospital,63.33500000000001
+http://dbpedia.org/resource/Homerton_University_Hospital,Homerton University Hospital,http://dbpedia.org/resource/Homerton_University_Hospital,63.23500000000001
+http://dbpedia.org/resource/NYU_Langone_Health,NYU Langone Health,http://dbpedia.org/resource/NYU_Langone_Health,63.205
+http://dbpedia.org/resource/Kingsley_Green,Kingsley Green,http://dbpedia.org/resource/Kingsley_Green,63.2
+http://dbpedia.org/resource/Midland_Metropolitan_University_Hospital,Midland Metropolitan University Hospital,http://dbpedia.org/resource/Midland_Metropolitan_University_Hospital,63.065
+http://dbpedia.org/resource/Leicester_General_Hospital,Leicester General Hospital,http://dbpedia.org/resource/Leicester_General_Hospital,63.025000000000006
+http://dbpedia.org/resource/Triboro_Hospital_for_Tuberculosis,Triboro Hospital for Tuberculosis,http://dbpedia.org/resource/Triboro_Hospital_for_Tuberculosis,62.995
+http://dbpedia.org/resource/Broomfield_Hospital,Broomfield Hospital,http://dbpedia.org/resource/Broomfield_Hospital,62.78999999999999
+http://dbpedia.org/resource/The_London_Clinic,The London Clinic,http://dbpedia.org/resource/The_London_Clinic,62.785
+http://dbpedia.org/resource/Friarage_Hospital,Friarage Hospital,http://dbpedia.org/resource/Friarage_Hospital,62.68
+"http://dbpedia.org/resource/King_George_Hospital,_London","King George Hospital, London","http://dbpedia.org/resource/King_George_Hospital,_London",62.644999999999996
+http://dbpedia.org/resource/Mount_Sinai_Hospital_(Manhattan),Mount Sinai Hospital (Manhattan),http://dbpedia.org/resource/Mount_Sinai_Hospital_(Manhattan),62.48999999999999
+http://dbpedia.org/resource/Hinchingbrooke_Hospital,Hinchingbrooke Hospital,http://dbpedia.org/resource/Hinchingbrooke_Hospital,62.370000000000005
+http://dbpedia.org/resource/Royal_Derby_Hospital,Royal Derby Hospital,http://dbpedia.org/resource/Royal_Derby_Hospital,62.294999999999995
+http://dbpedia.org/resource/Dulwich_Community_Hospital,Dulwich Community Hospital,http://dbpedia.org/resource/Dulwich_Community_Hospital,62.260000000000005
+http://dbpedia.org/resource/Dragon's_Heart_Hospital,Dragon's Heart Hospital,http://dbpedia.org/resource/Dragon's_Heart_Hospital,62.129999999999995
+http://dbpedia.org/resource/St_Helier_Hospital,St Helier Hospital,http://dbpedia.org/resource/St_Helier_Hospital,62.105
+http://dbpedia.org/resource/Leamington_Spa_Hospital,Leamington Spa Hospital,http://dbpedia.org/resource/Leamington_Spa_Hospital,61.88499999999999
+http://dbpedia.org/resource/Fulbourn_Hospital,Fulbourn Hospital,http://dbpedia.org/resource/Fulbourn_Hospital,61.765
+"http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_King's_Lynn","Queen Elizabeth Hospital, King's Lynn","http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_King's_Lynn",61.655
+http://dbpedia.org/resource/Southend_University_Hospital,Southend University Hospital,http://dbpedia.org/resource/Southend_University_Hospital,61.550000000000004
+http://dbpedia.org/resource/North_Middlesex_University_Hospital,North Middlesex University Hospital,http://dbpedia.org/resource/North_Middlesex_University_Hospital,61.5
+http://dbpedia.org/resource/Whiston_Hospital,Whiston Hospital,http://dbpedia.org/resource/Whiston_Hospital,61.49
+"http://dbpedia.org/resource/County_Hospital,_Stafford","County Hospital, Stafford","http://dbpedia.org/resource/County_Hospital,_Stafford",61.45500000000001
+http://dbpedia.org/resource/Colchester_Hospital,Colchester Hospital,http://dbpedia.org/resource/Colchester_Hospital,61.425000000000004
+http://dbpedia.org/resource/Roundway_Hospital,Roundway Hospital,http://dbpedia.org/resource/Roundway_Hospital,61.419999999999995
+http://dbpedia.org/resource/Withington_Community_Hospital,Withington Community Hospital,http://dbpedia.org/resource/Withington_Community_Hospital,61.34
+http://dbpedia.org/resource/William_Beaumont_Army_Medical_Center,William Beaumont Army Medical Center,http://dbpedia.org/resource/William_Beaumont_Army_Medical_Center,61.224999999999994
+http://dbpedia.org/resource/Mile_End_Hospital,Mile End Hospital,http://dbpedia.org/resource/Mile_End_Hospital,61.215
+"http://dbpedia.org/resource/Hospital_of_St._Cross,_Rugby","Hospital of St. Cross, Rugby","http://dbpedia.org/resource/Hospital_of_St._Cross,_Rugby",61.125
+http://dbpedia.org/resource/London_Lock_Hospital,London Lock Hospital,http://dbpedia.org/resource/London_Lock_Hospital,61.02000000000001
+http://dbpedia.org/resource/South_Bristol_Community_Hospital,South Bristol Community Hospital,http://dbpedia.org/resource/South_Bristol_Community_Hospital,61.0
+http://dbpedia.org/resource/Metropolitan_Free_Hospital,Metropolitan Free Hospital,http://dbpedia.org/resource/Metropolitan_Free_Hospital,60.96500000000001
+http://dbpedia.org/resource/Salisbury_District_Hospital,Salisbury District Hospital,http://dbpedia.org/resource/Salisbury_District_Hospital,60.83500000000001
+http://dbpedia.org/resource/Walton_Centre,Walton Centre,http://dbpedia.org/resource/Walton_Centre,60.75
+http://dbpedia.org/resource/William_Harvey_Hospital,William Harvey Hospital,http://dbpedia.org/resource/William_Harvey_Hospital,60.59
+http://dbpedia.org/resource/Miller_General_Hospital,Miller General Hospital,http://dbpedia.org/resource/Miller_General_Hospital,60.58500000000001
+http://dbpedia.org/resource/Glenfield_Hospital,Glenfield Hospital,http://dbpedia.org/resource/Glenfield_Hospital,60.54500000000001
+http://dbpedia.org/resource/Robert_Jones_and_Agnes_Hunt_Orthopaedic_Hospital,Robert Jones and Agnes Hunt Orthopaedic Hospital,http://dbpedia.org/resource/Robert_Jones_and_Agnes_Hunt_Orthopaedic_Hospital,60.53
+http://dbpedia.org/resource/Wythenshawe_Hospital,Wythenshawe Hospital,http://dbpedia.org/resource/Wythenshawe_Hospital,60.525000000000006
+http://dbpedia.org/resource/Queen's_Hospital,Queen's Hospital,http://dbpedia.org/resource/Queen's_Hospital,60.515
+http://dbpedia.org/resource/Gosport_War_Memorial_Hospital,Gosport War Memorial Hospital,http://dbpedia.org/resource/Gosport_War_Memorial_Hospital,60.515
+http://dbpedia.org/resource/Lytham_Hospital,Lytham Hospital,http://dbpedia.org/resource/Lytham_Hospital,60.48499999999999
+http://dbpedia.org/resource/Churchill_Hospital,Churchill Hospital,http://dbpedia.org/resource/Churchill_Hospital,60.46000000000001
+http://dbpedia.org/resource/Bedford_Hospital,Bedford Hospital,http://dbpedia.org/resource/Bedford_Hospital,60.315
+http://dbpedia.org/resource/Royal_Blackburn_Teaching_Hospital,Royal Blackburn Teaching Hospital,http://dbpedia.org/resource/Royal_Blackburn_Teaching_Hospital,60.294999999999995
+"http://dbpedia.org/resource/St_Nicholas_Hospital,_Newcastle_upon_Tyne","St Nicholas Hospital, Newcastle upon Tyne","http://dbpedia.org/resource/St_Nicholas_Hospital,_Newcastle_upon_Tyne",60.205
+http://dbpedia.org/resource/Atkinson_Morley_Hospital,Atkinson Morley Hospital,http://dbpedia.org/resource/Atkinson_Morley_Hospital,60.14
+http://dbpedia.org/resource/Burnley_General_Teaching_Hospital,Burnley General Teaching Hospital,http://dbpedia.org/resource/Burnley_General_Teaching_Hospital,60.08500000000001
+http://dbpedia.org/resource/Kingston_Hospital,Kingston Hospital,http://dbpedia.org/resource/Kingston_Hospital,60.075
+http://dbpedia.org/resource/Barnet_Hospital,Barnet Hospital,http://dbpedia.org/resource/Barnet_Hospital,60.035000000000004
+http://dbpedia.org/resource/Pilgrim_Hospital,Pilgrim Hospital,http://dbpedia.org/resource/Pilgrim_Hospital,60.035
+http://dbpedia.org/resource/St_Pancras_Hospital,St Pancras Hospital,http://dbpedia.org/resource/St_Pancras_Hospital,60.010000000000005
+http://dbpedia.org/resource/Chapel_Allerton_Hospital,Chapel Allerton Hospital,http://dbpedia.org/resource/Chapel_Allerton_Hospital,60.004999999999995
+http://dbpedia.org/resource/St_Andrew's_Hospital,St Andrew's Hospital,http://dbpedia.org/resource/St_Andrew's_Hospital,59.94500000000001
+http://dbpedia.org/resource/St_Ebba's_Hospital,St Ebba's Hospital,http://dbpedia.org/resource/St_Ebba's_Hospital,59.94499999999999
+http://dbpedia.org/resource/Hull_Royal_Infirmary,Hull Royal Infirmary,http://dbpedia.org/resource/Hull_Royal_Infirmary,59.94
+http://dbpedia.org/resource/West_Suffolk_Hospital,West Suffolk Hospital,http://dbpedia.org/resource/West_Suffolk_Hospital,59.879999999999995
+"http://dbpedia.org/resource/St_Michael's_Hospital,_Warwick","St Michael's Hospital, Warwick","http://dbpedia.org/resource/St_Michael's_Hospital,_Warwick",59.85
+http://dbpedia.org/resource/List_of_honorary_medical_staff_at_King_Edward_VII's_Hospital_for_Officers,List of honorary medical staff at King Edward VII's Hospital for Officers,http://dbpedia.org/resource/List_of_honorary_medical_staff_at_King_Edward_VII's_Hospital_for_Officers,59.85
+http://dbpedia.org/resource/Cossham_Memorial_Hospital,Cossham Memorial Hospital,http://dbpedia.org/resource/Cossham_Memorial_Hospital,59.83000000000001
+http://dbpedia.org/resource/Nuffield_Orthopaedic_Centre,Nuffield Orthopaedic Centre,http://dbpedia.org/resource/Nuffield_Orthopaedic_Centre,59.805
+http://dbpedia.org/resource/Hospital_of_St_John_and_St_Elizabeth,Hospital of St John and St Elizabeth,http://dbpedia.org/resource/Hospital_of_St_John_and_St_Elizabeth,59.78
+http://dbpedia.org/resource/Leicester_Royal_Infirmary,Leicester Royal Infirmary,http://dbpedia.org/resource/Leicester_Royal_Infirmary,59.765
+http://dbpedia.org/resource/James_Paget_University_Hospital,James Paget University Hospital,http://dbpedia.org/resource/James_Paget_University_Hospital,59.75500000000001
+http://dbpedia.org/resource/Goodmayes_Hospital,Goodmayes Hospital,http://dbpedia.org/resource/Goodmayes_Hospital,59.745
+http://dbpedia.org/resource/Aldeburgh_Cottage_Hospital,Aldeburgh Cottage Hospital,http://dbpedia.org/resource/Aldeburgh_Cottage_Hospital,59.720000000000006
+http://dbpedia.org/resource/Royal_Hospital_for_Neuro-disability,Royal Hospital for Neuro-disability,http://dbpedia.org/resource/Royal_Hospital_for_Neuro-disability,59.685
+"http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_London","Queen Elizabeth Hospital, London","http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_London",59.665
+http://dbpedia.org/resource/Cheadle_Royal_Hospital,Cheadle Royal Hospital,http://dbpedia.org/resource/Cheadle_Royal_Hospital,59.644999999999996
+http://dbpedia.org/resource/University_Hospital_of_North_Durham,University Hospital of North Durham,http://dbpedia.org/resource/University_Hospital_of_North_Durham,59.58000000000001
+http://dbpedia.org/resource/University_of_Bristol_Dental_Hospital,University of Bristol Dental Hospital,http://dbpedia.org/resource/University_of_Bristol_Dental_Hospital,59.515
+http://dbpedia.org/resource/Scunthorpe_General_Hospital,Scunthorpe General Hospital,http://dbpedia.org/resource/Scunthorpe_General_Hospital,59.435
+http://dbpedia.org/resource/Tunbridge_Wells_Hospital,Tunbridge Wells Hospital,http://dbpedia.org/resource/Tunbridge_Wells_Hospital,59.43000000000001
+http://dbpedia.org/resource/Watford_General_Hospital,Watford General Hospital,http://dbpedia.org/resource/Watford_General_Hospital,59.39
+http://dbpedia.org/resource/Arrowe_Park_Hospital,Arrowe Park Hospital,http://dbpedia.org/resource/Arrowe_Park_Hospital,59.315
+http://dbpedia.org/resource/Florence_Nightingale_Community_Hospital,Florence Nightingale Community Hospital,http://dbpedia.org/resource/Florence_Nightingale_Community_Hospital,59.294999999999995
+http://dbpedia.org/resource/Sanderson_Hospital,Sanderson Hospital,http://dbpedia.org/resource/Sanderson_Hospital,59.29000000000001
+http://dbpedia.org/resource/Queen's_Medical_Centre,Queen's Medical Centre,http://dbpedia.org/resource/Queen's_Medical_Centre,59.28
+http://dbpedia.org/resource/Royal_Lancaster_Infirmary,Royal Lancaster Infirmary,http://dbpedia.org/resource/Royal_Lancaster_Infirmary,59.25999999999999
+http://dbpedia.org/resource/Springfield_University_Hospital,Springfield University Hospital,http://dbpedia.org/resource/Springfield_University_Hospital,59.24999999999999
+http://dbpedia.org/resource/Moorgreen_Hospital,Moorgreen Hospital,http://dbpedia.org/resource/Moorgreen_Hospital,59.23
+http://dbpedia.org/resource/Lincoln_County_Hospital,Lincoln County Hospital,http://dbpedia.org/resource/Lincoln_County_Hospital,59.14999999999999
+http://dbpedia.org/resource/Lincoln_Hospital_(Bronx),Lincoln Hospital (Bronx),http://dbpedia.org/resource/Lincoln_Hospital_(Bronx),59.07000000000001
+"http://dbpedia.org/resource/Wellington_Hospital,_London","Wellington Hospital, London","http://dbpedia.org/resource/Wellington_Hospital,_London",59.06999999999999
+http://dbpedia.org/resource/Ipswich_Hospital,Ipswich Hospital,http://dbpedia.org/resource/Ipswich_Hospital,59.04999999999999
+"http://dbpedia.org/resource/Princess_Alexandra_Hospital,_Harlow","Princess Alexandra Hospital, Harlow","http://dbpedia.org/resource/Princess_Alexandra_Hospital,_Harlow",59.04999999999999
+http://dbpedia.org/resource/Johns_Hopkins_Hospital,Johns Hopkins Hospital,http://dbpedia.org/resource/Johns_Hopkins_Hospital,59.004999999999995
+http://dbpedia.org/resource/Bristol_Eye_Hospital,Bristol Eye Hospital,http://dbpedia.org/resource/Bristol_Eye_Hospital,58.98
+http://dbpedia.org/resource/Medway_Maritime_Hospital,Medway Maritime Hospital,http://dbpedia.org/resource/Medway_Maritime_Hospital,58.96499999999999
+http://dbpedia.org/resource/Warneford_Hospital,Warneford Hospital,http://dbpedia.org/resource/Warneford_Hospital,58.935
+http://dbpedia.org/resource/Hereford_County_Hospital,Hereford County Hospital,http://dbpedia.org/resource/Hereford_County_Hospital,58.92000000000001
+http://dbpedia.org/resource/General_Lying-In_Hospital,General Lying-In Hospital,http://dbpedia.org/resource/General_Lying-In_Hospital,58.90500000000001
+http://dbpedia.org/resource/Nottingham_City_Hospital,Nottingham City Hospital,http://dbpedia.org/resource/Nottingham_City_Hospital,58.894999999999996
+"http://dbpedia.org/resource/Princess_Royal_Hospital,_Telford","Princess Royal Hospital, Telford","http://dbpedia.org/resource/Princess_Royal_Hospital,_Telford",58.894999999999996
+http://dbpedia.org/resource/Chase_Farm_Hospital,Chase Farm Hospital,http://dbpedia.org/resource/Chase_Farm_Hospital,58.889999999999986
+http://dbpedia.org/resource/Doncaster_Royal_Infirmary,Doncaster Royal Infirmary,http://dbpedia.org/resource/Doncaster_Royal_Infirmary,58.834999999999994
+http://dbpedia.org/resource/Nightingale_Hospital_(Marylebone),Nightingale Hospital (Marylebone),http://dbpedia.org/resource/Nightingale_Hospital_(Marylebone),58.83
+http://dbpedia.org/resource/Frimley_Park_Hospital,Frimley Park Hospital,http://dbpedia.org/resource/Frimley_Park_Hospital,58.765000000000015
+http://dbpedia.org/resource/Russells_Hall_Hospital,Russells Hall Hospital,http://dbpedia.org/resource/Russells_Hall_Hospital,58.73
+http://dbpedia.org/resource/Cumberland_Infirmary,Cumberland Infirmary,http://dbpedia.org/resource/Cumberland_Infirmary,58.684999999999995
+http://dbpedia.org/resource/Princess_Royal_University_Hospital,Princess Royal University Hospital,http://dbpedia.org/resource/Princess_Royal_University_Hospital,58.665
+http://dbpedia.org/resource/Epsom_Hospital,Epsom Hospital,http://dbpedia.org/resource/Epsom_Hospital,58.63000000000001
+"http://dbpedia.org/resource/St_Anthony's_Hospital,_North_Cheam","St Anthony's Hospital, North Cheam","http://dbpedia.org/resource/St_Anthony's_Hospital,_North_Cheam",58.615
+http://dbpedia.org/resource/Royal_Manchester_Children's_Hospital,Royal Manchester Children's Hospital,http://dbpedia.org/resource/Royal_Manchester_Children's_Hospital,58.615
+http://dbpedia.org/resource/West_Cumberland_Hospital,West Cumberland Hospital,http://dbpedia.org/resource/West_Cumberland_Hospital,58.595
+http://dbpedia.org/resource/Derbyshire_Royal_Infirmary,Derbyshire Royal Infirmary,http://dbpedia.org/resource/Derbyshire_Royal_Infirmary,58.59
+http://dbpedia.org/resource/Grantham_and_District_Hospital,Grantham and District Hospital,http://dbpedia.org/resource/Grantham_and_District_Hospital,58.58
+http://dbpedia.org/resource/Maidstone_Hospital,Maidstone Hospital,http://dbpedia.org/resource/Maidstone_Hospital,58.565
+http://dbpedia.org/resource/Petherton_Resource_Centre,Petherton Resource Centre,http://dbpedia.org/resource/Petherton_Resource_Centre,58.550000000000004
+http://dbpedia.org/resource/Bishop_Auckland_Hospital,Bishop Auckland Hospital,http://dbpedia.org/resource/Bishop_Auckland_Hospital,58.5
+http://dbpedia.org/resource/Guest_Hospital,Guest Hospital,http://dbpedia.org/resource/Guest_Hospital,58.48499999999999
+http://dbpedia.org/resource/Northumbria_Specialist_Emergency_Care_Hospital,Northumbria Specialist Emergency Care Hospital,http://dbpedia.org/resource/Northumbria_Specialist_Emergency_Care_Hospital,58.465
+http://dbpedia.org/resource/George_Eliot_Hospital,George Eliot Hospital,http://dbpedia.org/resource/George_Eliot_Hospital,58.46000000000001
+http://dbpedia.org/resource/Derriford_Hospital,Derriford Hospital,http://dbpedia.org/resource/Derriford_Hospital,58.405
+http://dbpedia.org/resource/Rothbury_Community_Hospital,Rothbury Community Hospital,http://dbpedia.org/resource/Rothbury_Community_Hospital,58.36000000000001
+http://dbpedia.org/resource/Brookland_Hall,Brookland Hall,http://dbpedia.org/resource/Brookland_Hall,58.35500000000001
+http://dbpedia.org/resource/Queen_Elizabeth_Hospital_for_Children,Queen Elizabeth Hospital for Children,http://dbpedia.org/resource/Queen_Elizabeth_Hospital_for_Children,58.355
+http://dbpedia.org/resource/Jubilee_Mission_Medical_College_and_Research_Institute,Jubilee Mission Medical College and Research Institute,http://dbpedia.org/resource/Jubilee_Mission_Medical_College_and_Research_Institute,58.33500000000001
+http://dbpedia.org/resource/Darent_Valley_Hospital,Darent Valley Hospital,http://dbpedia.org/resource/Darent_Valley_Hospital,58.325
+http://dbpedia.org/resource/Northampton_General_Hospital,Northampton General Hospital,http://dbpedia.org/resource/Northampton_General_Hospital,58.325
+http://dbpedia.org/resource/Royal_Buckinghamshire_Hospital,Royal Buckinghamshire Hospital,http://dbpedia.org/resource/Royal_Buckinghamshire_Hospital,58.28000000000001
+http://dbpedia.org/resource/Royal_Orthopaedic_Hospital,Royal Orthopaedic Hospital,http://dbpedia.org/resource/Royal_Orthopaedic_Hospital,58.25
+http://dbpedia.org/resource/Worcestershire_Royal_Hospital,Worcestershire Royal Hospital,http://dbpedia.org/resource/Worcestershire_Royal_Hospital,58.23500000000001
+http://dbpedia.org/resource/Freeman_Hospital,Freeman Hospital,http://dbpedia.org/resource/Freeman_Hospital,58.23500000000001
+http://dbpedia.org/resource/Wansbeck_General_Hospital,Wansbeck General Hospital,http://dbpedia.org/resource/Wansbeck_General_Hospital,58.19
+http://dbpedia.org/resource/Broadgreen_Hospital,Broadgreen Hospital,http://dbpedia.org/resource/Broadgreen_Hospital,58.08
+http://dbpedia.org/resource/Westminster_Memorial_Hospital,Westminster Memorial Hospital,http://dbpedia.org/resource/Westminster_Memorial_Hospital,58.075
+http://dbpedia.org/resource/Claremont_Hospital,Claremont Hospital,http://dbpedia.org/resource/Claremont_Hospital,58.06500000000001
+http://dbpedia.org/resource/Milford_Hospital,Milford Hospital,http://dbpedia.org/resource/Milford_Hospital,58.055
+http://dbpedia.org/resource/Darlington_Memorial_Hospital,Darlington Memorial Hospital,http://dbpedia.org/resource/Darlington_Memorial_Hospital,58.055
+http://dbpedia.org/resource/Prestwich_Hospital,Prestwich Hospital,http://dbpedia.org/resource/Prestwich_Hospital,58.035000000000004
+http://dbpedia.org/resource/Seacroft_Hospital,Seacroft Hospital,http://dbpedia.org/resource/Seacroft_Hospital,58.015
+http://dbpedia.org/resource/Aintree_University_Hospital,Aintree University Hospital,http://dbpedia.org/resource/Aintree_University_Hospital,57.98499999999999
+http://dbpedia.org/resource/Royal_Infirmary_of_Edinburgh,Royal Infirmary of Edinburgh,http://dbpedia.org/resource/Royal_Infirmary_of_Edinburgh,57.965
+http://dbpedia.org/resource/Pontefract_Hospital,Pontefract Hospital,http://dbpedia.org/resource/Pontefract_Hospital,57.905
+http://dbpedia.org/resource/Stepping_Hill_Hospital,Stepping Hill Hospital,http://dbpedia.org/resource/Stepping_Hill_Hospital,57.89500000000001
+http://dbpedia.org/resource/Corbett_Hospital,Corbett Hospital,http://dbpedia.org/resource/Corbett_Hospital,57.894999999999996
+http://dbpedia.org/resource/Stamford_and_Rutland_Hospital,Stamford and Rutland Hospital,http://dbpedia.org/resource/Stamford_and_Rutland_Hospital,57.894999999999996
+http://dbpedia.org/resource/Sandwell_General_Hospital,Sandwell General Hospital,http://dbpedia.org/resource/Sandwell_General_Hospital,57.75
+http://dbpedia.org/resource/Dorset_County_Hospital,Dorset County Hospital,http://dbpedia.org/resource/Dorset_County_Hospital,57.71500000000001
+http://dbpedia.org/resource/Christie_Hospital,Christie Hospital,http://dbpedia.org/resource/Christie_Hospital,57.69999999999999
+http://dbpedia.org/resource/Heartlands_Hospital,Heartlands Hospital,http://dbpedia.org/resource/Heartlands_Hospital,57.69999999999999
+http://dbpedia.org/resource/Kew_Asylum,Kew Asylum,http://dbpedia.org/resource/Kew_Asylum,57.685
+http://dbpedia.org/resource/Great_Western_Hospital,Great Western Hospital,http://dbpedia.org/resource/Great_Western_Hospital,57.64500000000001
+"http://dbpedia.org/resource/Diana,_Princess_of_Wales_Hospital","Diana, Princess of Wales Hospital","http://dbpedia.org/resource/Diana,_Princess_of_Wales_Hospital",57.64
+http://dbpedia.org/resource/Royal_Albert_Edward_Infirmary,Royal Albert Edward Infirmary,http://dbpedia.org/resource/Royal_Albert_Edward_Infirmary,57.60500000000001
+http://dbpedia.org/resource/Fulham_Hospital,Fulham Hospital,http://dbpedia.org/resource/Fulham_Hospital,57.599999999999994
+http://dbpedia.org/resource/Charles_Clifford_Dental_Hospital,Charles Clifford Dental Hospital,http://dbpedia.org/resource/Charles_Clifford_Dental_Hospital,57.59
+http://dbpedia.org/resource/Epsom_Cottage_Hospital,Epsom Cottage Hospital,http://dbpedia.org/resource/Epsom_Cottage_Hospital,57.575
+http://dbpedia.org/resource/St_Luke's_Hospital_for_Lunatics,St Luke's Hospital for Lunatics,http://dbpedia.org/resource/St_Luke's_Hospital_for_Lunatics,57.57000000000001
+http://dbpedia.org/resource/Kent_and_Canterbury_Hospital,Kent and Canterbury Hospital,http://dbpedia.org/resource/Kent_and_Canterbury_Hospital,57.550000000000004
+http://dbpedia.org/resource/Thornbury_Hospital,Thornbury Hospital,http://dbpedia.org/resource/Thornbury_Hospital,57.514999999999986
+http://dbpedia.org/resource/Alexandra_Hospital_(Cheadle),Alexandra Hospital (Cheadle),http://dbpedia.org/resource/Alexandra_Hospital_(Cheadle),57.510000000000005
+http://dbpedia.org/resource/Finchley_Memorial_Hospital,Finchley Memorial Hospital,http://dbpedia.org/resource/Finchley_Memorial_Hospital,57.510000000000005
+http://dbpedia.org/resource/Wrightington_Hospital,Wrightington Hospital,http://dbpedia.org/resource/Wrightington_Hospital,57.47
+http://dbpedia.org/resource/New_Cross_Hospital,New Cross Hospital,http://dbpedia.org/resource/New_Cross_Hospital,57.44999999999999
+http://dbpedia.org/resource/Oldchurch_Hospital,Oldchurch Hospital,http://dbpedia.org/resource/Oldchurch_Hospital,57.42000000000001
+http://dbpedia.org/resource/Huddersfield_Royal_Infirmary,Huddersfield Royal Infirmary,http://dbpedia.org/resource/Huddersfield_Royal_Infirmary,57.385000000000005
+http://dbpedia.org/resource/Glasgow_Dental_Hospital_and_School,Glasgow Dental Hospital and School,http://dbpedia.org/resource/Glasgow_Dental_Hospital_and_School,57.385000000000005
+http://dbpedia.org/resource/Royal_Alexandra_Children's_Hospital,Royal Alexandra Children's Hospital,http://dbpedia.org/resource/Royal_Alexandra_Children's_Hospital,57.38000000000001
+http://dbpedia.org/resource/Banstead_Hospital,Banstead Hospital,http://dbpedia.org/resource/Banstead_Hospital,57.370000000000005
+http://dbpedia.org/resource/University_Hospital_of_North_Tees,University Hospital of North Tees,http://dbpedia.org/resource/University_Hospital_of_North_Tees,57.36499999999999
+http://dbpedia.org/resource/Shotley_Bridge_Hospital,Shotley Bridge Hospital,http://dbpedia.org/resource/Shotley_Bridge_Hospital,57.334999999999994
+http://dbpedia.org/resource/Camborne_Redruth_Community_Hospital,Camborne Redruth Community Hospital,http://dbpedia.org/resource/Camborne_Redruth_Community_Hospital,57.32000000000001
+http://dbpedia.org/resource/Rosie_Hospital,Rosie Hospital,http://dbpedia.org/resource/Rosie_Hospital,57.265
+http://dbpedia.org/resource/Greenwich_District_Hospital,Greenwich District Hospital,http://dbpedia.org/resource/Greenwich_District_Hospital,57.260000000000005
+http://dbpedia.org/resource/Teddington_Memorial_Hospital,Teddington Memorial Hospital,http://dbpedia.org/resource/Teddington_Memorial_Hospital,57.254999999999995
+http://dbpedia.org/resource/Bodmin_Hospital,Bodmin Hospital,http://dbpedia.org/resource/Bodmin_Hospital,57.24
+http://dbpedia.org/resource/Westmorland_General_Hospital,Westmorland General Hospital,http://dbpedia.org/resource/Westmorland_General_Hospital,57.23500000000001
+http://dbpedia.org/resource/Babington_Hospital,Babington Hospital,http://dbpedia.org/resource/Babington_Hospital,57.23
+http://dbpedia.org/resource/University_Hospital_of_Hartlepool,University Hospital of Hartlepool,http://dbpedia.org/resource/University_Hospital_of_Hartlepool,57.220000000000006
+http://dbpedia.org/resource/Macclesfield_District_General_Hospital,Macclesfield District General Hospital,http://dbpedia.org/resource/Macclesfield_District_General_Hospital,57.22
+http://dbpedia.org/resource/Gordon_Hospital,Gordon Hospital,http://dbpedia.org/resource/Gordon_Hospital,57.215
+"http://dbpedia.org/resource/St_Michael's_Hospital,_Bristol","St Michael's Hospital, Bristol","http://dbpedia.org/resource/St_Michael's_Hospital,_Bristol",57.19
+http://dbpedia.org/resource/Western_Community_Hospital,Western Community Hospital,http://dbpedia.org/resource/Western_Community_Hospital,57.18
+"http://dbpedia.org/resource/Lister_Hospital,_Stevenage","Lister Hospital, Stevenage","http://dbpedia.org/resource/Lister_Hospital,_Stevenage",57.135000000000005
+http://dbpedia.org/resource/Eastbourne_District_General_Hospital,Eastbourne District General Hospital,http://dbpedia.org/resource/Eastbourne_District_General_Hospital,57.135000000000005
+http://dbpedia.org/resource/Fieldhead_Hospital,Fieldhead Hospital,http://dbpedia.org/resource/Fieldhead_Hospital,57.12499999999999
+http://dbpedia.org/resource/Princess_Grace_Hospital,Princess Grace Hospital,http://dbpedia.org/resource/Princess_Grace_Hospital,57.11500000000001
+http://dbpedia.org/resource/Basildon_University_Hospital,Basildon University Hospital,http://dbpedia.org/resource/Basildon_University_Hospital,57.11000000000001
+http://dbpedia.org/resource/Billinge_Hospital,Billinge Hospital,http://dbpedia.org/resource/Billinge_Hospital,57.105
+http://dbpedia.org/resource/York_Hospital,York Hospital,http://dbpedia.org/resource/York_Hospital,57.07000000000001
+http://dbpedia.org/resource/Birmingham_Dental_Hospital,Birmingham Dental Hospital,http://dbpedia.org/resource/Birmingham_Dental_Hospital,57.04500000000001
+http://dbpedia.org/resource/New_QEII_Hospital,New QEII Hospital,http://dbpedia.org/resource/New_QEII_Hospital,57.04500000000001
+"http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_Gateshead","Queen Elizabeth Hospital, Gateshead","http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_Gateshead",57.035
+http://dbpedia.org/resource/University_Dental_Hospital_of_Manchester,University Dental Hospital of Manchester,http://dbpedia.org/resource/University_Dental_Hospital_of_Manchester,57.015
+http://dbpedia.org/resource/Walsall_Manor_Hospital,Walsall Manor Hospital,http://dbpedia.org/resource/Walsall_Manor_Hospital,57.015
+http://dbpedia.org/resource/Hexham_General_Hospital,Hexham General Hospital,http://dbpedia.org/resource/Hexham_General_Hospital,56.94
+http://dbpedia.org/resource/Chesterfield_Royal_Hospital,Chesterfield Royal Hospital,http://dbpedia.org/resource/Chesterfield_Royal_Hospital,56.935
+http://dbpedia.org/resource/Hertford_County_Hospital,Hertford County Hospital,http://dbpedia.org/resource/Hertford_County_Hospital,56.925000000000004
+http://dbpedia.org/resource/Newcastle_General_Hospital,Newcastle General Hospital,http://dbpedia.org/resource/Newcastle_General_Hospital,56.89
+http://dbpedia.org/resource/Clatterbridge_Hospital,Clatterbridge Hospital,http://dbpedia.org/resource/Clatterbridge_Hospital,56.879999999999995
+http://dbpedia.org/resource/Hemel_Hempstead_Hospital,Hemel Hempstead Hospital,http://dbpedia.org/resource/Hemel_Hempstead_Hospital,56.85999999999999
+http://dbpedia.org/resource/Harrogate_District_Hospital,Harrogate District Hospital,http://dbpedia.org/resource/Harrogate_District_Hospital,56.805
+http://dbpedia.org/resource/Wharfedale_Hospital,Wharfedale Hospital,http://dbpedia.org/resource/Wharfedale_Hospital,56.78
+http://dbpedia.org/resource/Liverpool_Heart_and_Chest_Hospital,Liverpool Heart and Chest Hospital,http://dbpedia.org/resource/Liverpool_Heart_and_Chest_Hospital,56.760000000000005
+"http://dbpedia.org/resource/Royal_Victoria_Hospital,_Folkestone","Royal Victoria Hospital, Folkestone","http://dbpedia.org/resource/Royal_Victoria_Hospital,_Folkestone",56.74
+http://dbpedia.org/resource/Buckland_Hospital,Buckland Hospital,http://dbpedia.org/resource/Buckland_Hospital,56.65000000000001
+http://dbpedia.org/resource/Royal_Cornwall_Hospital,Royal Cornwall Hospital,http://dbpedia.org/resource/Royal_Cornwall_Hospital,56.620000000000005
+http://dbpedia.org/resource/Tameside_General_Hospital,Tameside General Hospital,http://dbpedia.org/resource/Tameside_General_Hospital,56.620000000000005
+http://dbpedia.org/resource/Kettering_General_Hospital,Kettering General Hospital,http://dbpedia.org/resource/Kettering_General_Hospital,56.61000000000001
+http://dbpedia.org/resource/Chester-le-Street_Hospital,Chester-le-Street Hospital,http://dbpedia.org/resource/Chester-le-Street_Hospital,56.58
+http://dbpedia.org/resource/King's_Mill_Hospital,King's Mill Hospital,http://dbpedia.org/resource/King's_Mill_Hospital,56.525000000000006
+http://dbpedia.org/resource/Orpington_Hospital,Orpington Hospital,http://dbpedia.org/resource/Orpington_Hospital,56.515
+"http://dbpedia.org/resource/Royal_Victoria_Hospital,_Bournemouth","Royal Victoria Hospital, Bournemouth","http://dbpedia.org/resource/Royal_Victoria_Hospital,_Bournemouth",56.50500000000001
+http://dbpedia.org/resource/South_Tyneside_District_Hospital,South Tyneside District Hospital,http://dbpedia.org/resource/South_Tyneside_District_Hospital,56.495
+http://dbpedia.org/resource/Ellen_Badger_Hospital,Ellen Badger Hospital,http://dbpedia.org/resource/Ellen_Badger_Hospital,56.455
+http://dbpedia.org/resource/Berwick_Infirmary,Berwick Infirmary,http://dbpedia.org/resource/Berwick_Infirmary,56.45000000000002
+http://dbpedia.org/resource/Romsey_Community_Hospital,Romsey Community Hospital,http://dbpedia.org/resource/Romsey_Community_Hospital,56.44499999999999
+http://dbpedia.org/resource/North_Cambridgeshire_Hospital,North Cambridgeshire Hospital,http://dbpedia.org/resource/North_Cambridgeshire_Hospital,56.44499999999999
+http://dbpedia.org/resource/Paulton_Memorial_Hospital,Paulton Memorial Hospital,http://dbpedia.org/resource/Paulton_Memorial_Hospital,56.44
+http://dbpedia.org/resource/Torbay_Hospital,Torbay Hospital,http://dbpedia.org/resource/Torbay_Hospital,56.425000000000004
+"http://dbpedia.org/resource/Memorial_Hospital,_Woolwich","Memorial Hospital, Woolwich","http://dbpedia.org/resource/Memorial_Hospital,_Woolwich",56.38000000000001
+http://dbpedia.org/resource/Coppetts_Wood_Hospital,Coppetts Wood Hospital,http://dbpedia.org/resource/Coppetts_Wood_Hospital,56.36000000000001
+http://dbpedia.org/resource/Pinderfields_Hospital,Pinderfields Hospital,http://dbpedia.org/resource/Pinderfields_Hospital,56.36000000000001
+http://dbpedia.org/resource/Fareham_Community_Hospital,Fareham Community Hospital,http://dbpedia.org/resource/Fareham_Community_Hospital,56.35999999999999
+http://dbpedia.org/resource/Barnsley_Hospital,Barnsley Hospital,http://dbpedia.org/resource/Barnsley_Hospital,56.294999999999995
+http://dbpedia.org/resource/Montagu_Hospital,Montagu Hospital,http://dbpedia.org/resource/Montagu_Hospital,56.28
+http://dbpedia.org/resource/Ludlow_Hospital,Ludlow Hospital,http://dbpedia.org/resource/Ludlow_Hospital,56.269999999999996
+http://dbpedia.org/resource/Rowley_Regis_Hospital,Rowley Regis Hospital,http://dbpedia.org/resource/Rowley_Regis_Hospital,56.260000000000005
+http://dbpedia.org/resource/Ripon_Community_Hospital,Ripon Community Hospital,http://dbpedia.org/resource/Ripon_Community_Hospital,56.254999999999995
+http://dbpedia.org/resource/Fordingbridge_Hospital,Fordingbridge Hospital,http://dbpedia.org/resource/Fordingbridge_Hospital,56.245
+http://dbpedia.org/resource/Castle_Hill_Hospital,Castle Hill Hospital,http://dbpedia.org/resource/Castle_Hill_Hospital,56.24
+http://dbpedia.org/resource/Leighton_Hospital,Leighton Hospital,http://dbpedia.org/resource/Leighton_Hospital,56.220000000000006
+http://dbpedia.org/resource/West_Park_Hospital,West Park Hospital,http://dbpedia.org/resource/West_Park_Hospital,56.19000000000001
+http://dbpedia.org/resource/Cannock_Chase_Hospital,Cannock Chase Hospital,http://dbpedia.org/resource/Cannock_Chase_Hospital,56.18
+http://dbpedia.org/resource/Sunderland_Eye_Infirmary,Sunderland Eye Infirmary,http://dbpedia.org/resource/Sunderland_Eye_Infirmary,56.16500000000001
+http://dbpedia.org/resource/Arundel_and_District_Hospital,Arundel and District Hospital,http://dbpedia.org/resource/Arundel_and_District_Hospital,56.14
+http://dbpedia.org/resource/North_Devon_District_Hospital,North Devon District Hospital,http://dbpedia.org/resource/North_Devon_District_Hospital,56.12499999999999
+http://dbpedia.org/resource/Warrington_Hospital,Warrington Hospital,http://dbpedia.org/resource/Warrington_Hospital,56.11499999999999
+http://dbpedia.org/resource/Alexandra_Hospital_(Redditch),Alexandra Hospital (Redditch),http://dbpedia.org/resource/Alexandra_Hospital_(Redditch),56.075
+http://dbpedia.org/resource/Alnwick_Infirmary,Alnwick Infirmary,http://dbpedia.org/resource/Alnwick_Infirmary,56.07000000000001
+"http://dbpedia.org/resource/Queen_Victoria_Hospital,_Morecambe","Queen Victoria Hospital, Morecambe","http://dbpedia.org/resource/Queen_Victoria_Hospital,_Morecambe",56.065
+http://dbpedia.org/resource/Herts_and_Essex_Hospital,Herts and Essex Hospital,http://dbpedia.org/resource/Herts_and_Essex_Hospital,56.06499999999999
+http://dbpedia.org/resource/Altrincham_Hospital,Altrincham Hospital,http://dbpedia.org/resource/Altrincham_Hospital,56.03
+http://dbpedia.org/resource/Rochdale_Infirmary,Rochdale Infirmary,http://dbpedia.org/resource/Rochdale_Infirmary,56.019999999999996
+http://dbpedia.org/resource/London_Bridge_Hospital,London Bridge Hospital,http://dbpedia.org/resource/London_Bridge_Hospital,56.004999999999995
+http://dbpedia.org/resource/Harold_Wood_Hospital,Harold Wood Hospital,http://dbpedia.org/resource/Harold_Wood_Hospital,55.995
+http://dbpedia.org/resource/Arnold_Lodge,Arnold Lodge,http://dbpedia.org/resource/Arnold_Lodge,55.98
+http://dbpedia.org/resource/Halton_General_Hospital,Halton General Hospital,http://dbpedia.org/resource/Halton_General_Hospital,55.975
+http://dbpedia.org/resource/Sir_G_B_Hunter_Memorial_Hospital,Sir G B Hunter Memorial Hospital,http://dbpedia.org/resource/Sir_G_B_Hunter_Memorial_Hospital,55.975
+http://dbpedia.org/resource/Friary_Community_Hospital,Friary Community Hospital,http://dbpedia.org/resource/Friary_Community_Hospital,55.975
+http://dbpedia.org/resource/Northgate_Hospital,Northgate Hospital,http://dbpedia.org/resource/Northgate_Hospital,55.965
+http://dbpedia.org/resource/Green_Lane_Hospital,Green Lane Hospital,http://dbpedia.org/resource/Green_Lane_Hospital,55.934999999999995
+http://dbpedia.org/resource/Calderdale_Royal_Hospital,Calderdale Royal Hospital,http://dbpedia.org/resource/Calderdale_Royal_Hospital,55.919999999999995
+http://dbpedia.org/resource/Bushey_Fields_Hospital,Bushey Fields Hospital,http://dbpedia.org/resource/Bushey_Fields_Hospital,55.885000000000005
+http://dbpedia.org/resource/Petersfield_Hospital,Petersfield Hospital,http://dbpedia.org/resource/Petersfield_Hospital,55.88499999999999
+http://dbpedia.org/resource/Tenbury_Community_Hospital,Tenbury Community Hospital,http://dbpedia.org/resource/Tenbury_Community_Hospital,55.88000000000001
+http://dbpedia.org/resource/Tickhill_Road_Hospital,Tickhill Road Hospital,http://dbpedia.org/resource/Tickhill_Road_Hospital,55.88000000000001
+http://dbpedia.org/resource/Harplands_Hospital,Harplands Hospital,http://dbpedia.org/resource/Harplands_Hospital,55.875
+http://dbpedia.org/resource/Tolworth_Hospital,Tolworth Hospital,http://dbpedia.org/resource/Tolworth_Hospital,55.87
+http://dbpedia.org/resource/West_Heath_Hospital,West Heath Hospital,http://dbpedia.org/resource/West_Heath_Hospital,55.87
+"http://dbpedia.org/resource/St_James'_Hospital,_Balham","St James' Hospital, Balham","http://dbpedia.org/resource/St_James'_Hospital,_Balham",55.85999999999999
+http://dbpedia.org/resource/Fairfield_General_Hospital,Fairfield General Hospital,http://dbpedia.org/resource/Fairfield_General_Hospital,55.81999999999999
+http://dbpedia.org/resource/Hellesdon_Hospital,Hellesdon Hospital,http://dbpedia.org/resource/Hellesdon_Hospital,55.815
+http://dbpedia.org/resource/Lanchester_Road_Hospital,Lanchester Road Hospital,http://dbpedia.org/resource/Lanchester_Road_Hospital,55.79
+http://dbpedia.org/resource/Leigh_Infirmary,Leigh Infirmary,http://dbpedia.org/resource/Leigh_Infirmary,55.78
+http://dbpedia.org/resource/Haltwhistle_War_Memorial_Hospital,Haltwhistle War Memorial Hospital,http://dbpedia.org/resource/Haltwhistle_War_Memorial_Hospital,55.78
+http://dbpedia.org/resource/Cavendish_Hospital,Cavendish Hospital,http://dbpedia.org/resource/Cavendish_Hospital,55.78
+http://dbpedia.org/resource/South_Hams_Hospital,South Hams Hospital,http://dbpedia.org/resource/South_Hams_Hospital,55.775000000000006
+http://dbpedia.org/resource/Rotherham_General_Hospital,Rotherham General Hospital,http://dbpedia.org/resource/Rotherham_General_Hospital,55.769999999999996
+http://dbpedia.org/resource/Dewsbury_and_District_Hospital,Dewsbury and District Hospital,http://dbpedia.org/resource/Dewsbury_and_District_Hospital,55.720000000000006
+http://dbpedia.org/resource/Ormskirk_District_General_Hospital,Ormskirk District General Hospital,http://dbpedia.org/resource/Ormskirk_District_General_Hospital,55.720000000000006
+http://dbpedia.org/resource/Solihull_Hospital,Solihull Hospital,http://dbpedia.org/resource/Solihull_Hospital,55.72
+http://dbpedia.org/resource/Newholme_Hospital,Newholme Hospital,http://dbpedia.org/resource/Newholme_Hospital,55.709999999999994
+"http://dbpedia.org/resource/Princess_of_Wales_Hospital,_Ely","Princess of Wales Hospital, Ely","http://dbpedia.org/resource/Princess_of_Wales_Hospital,_Ely",55.69999999999999
+http://dbpedia.org/resource/County_Hospital_Louth,County Hospital Louth,http://dbpedia.org/resource/County_Hospital_Louth,55.69500000000001
+http://dbpedia.org/resource/Erith_and_District_Hospital,Erith and District Hospital,http://dbpedia.org/resource/Erith_and_District_Hospital,55.68
+http://dbpedia.org/resource/Wilson_Hospital,Wilson Hospital,http://dbpedia.org/resource/Wilson_Hospital,55.675000000000004
+http://dbpedia.org/resource/Horsham_Hospital,Horsham Hospital,http://dbpedia.org/resource/Horsham_Hospital,55.669999999999995
+http://dbpedia.org/resource/Southport_and_Formby_District_General_Hospital,Southport and Formby District General Hospital,http://dbpedia.org/resource/Southport_and_Formby_District_General_Hospital,55.629999999999995
+http://dbpedia.org/resource/Calderstones_Hospital,Calderstones Hospital,http://dbpedia.org/resource/Calderstones_Hospital,55.62999999999999
+http://dbpedia.org/resource/Bridlington_Hospital,Bridlington Hospital,http://dbpedia.org/resource/Bridlington_Hospital,55.615
+http://dbpedia.org/resource/Skipton_General_Hospital,Skipton General Hospital,http://dbpedia.org/resource/Skipton_General_Hospital,55.605
+http://dbpedia.org/resource/Newark_Hospital,Newark Hospital,http://dbpedia.org/resource/Newark_Hospital,55.595000000000006
+http://dbpedia.org/resource/Thorpe_Coombe_Hospital,Thorpe Coombe Hospital,http://dbpedia.org/resource/Thorpe_Coombe_Hospital,55.595000000000006
+http://dbpedia.org/resource/Atherleigh_Park_Hospital,Atherleigh Park Hospital,http://dbpedia.org/resource/Atherleigh_Park_Hospital,55.58500000000001
+http://dbpedia.org/resource/Pendle_Community_Hospital,Pendle Community Hospital,http://dbpedia.org/resource/Pendle_Community_Hospital,55.58500000000001
+http://dbpedia.org/resource/Stroud_General_Hospital,Stroud General Hospital,http://dbpedia.org/resource/Stroud_General_Hospital,55.58500000000001
+http://dbpedia.org/resource/John_Coupland_Hospital,John Coupland Hospital,http://dbpedia.org/resource/John_Coupland_Hospital,55.58500000000001
+http://dbpedia.org/resource/The_Meriden_Hospital,The Meriden Hospital,http://dbpedia.org/resource/The_Meriden_Hospital,55.584999999999994
+http://dbpedia.org/resource/Kidderminster_Hospital,Kidderminster Hospital,http://dbpedia.org/resource/Kidderminster_Hospital,55.54
+http://dbpedia.org/resource/Leeds_Dental_Institute,Leeds Dental Institute,http://dbpedia.org/resource/Leeds_Dental_Institute,55.53
+http://dbpedia.org/resource/North_Somerset_Community_Hospital,North Somerset Community Hospital,http://dbpedia.org/resource/North_Somerset_Community_Hospital,55.495000000000005
+http://dbpedia.org/resource/Hull_and_East_Riding_Hospital,Hull and East Riding Hospital,http://dbpedia.org/resource/Hull_and_East_Riding_Hospital,55.48499999999999
+http://dbpedia.org/resource/Fountain_Way,Fountain Way,http://dbpedia.org/resource/Fountain_Way,55.48000000000001
+http://dbpedia.org/resource/St_Alfege's_Hospital,St Alfege's Hospital,http://dbpedia.org/resource/St_Alfege's_Hospital,55.48
+http://dbpedia.org/resource/Bassetlaw_District_General_Hospital,Bassetlaw District General Hospital,http://dbpedia.org/resource/Bassetlaw_District_General_Hospital,55.455
+http://dbpedia.org/resource/Cheltenham_General_Hospital,Cheltenham General Hospital,http://dbpedia.org/resource/Cheltenham_General_Hospital,55.435
+http://dbpedia.org/resource/Bromley_Hospital,Bromley Hospital,http://dbpedia.org/resource/Bromley_Hospital,55.415
+http://dbpedia.org/resource/Malton_Community_Hospital,Malton Community Hospital,http://dbpedia.org/resource/Malton_Community_Hospital,55.405
+http://dbpedia.org/resource/Berrywood_Hospital,Berrywood Hospital,http://dbpedia.org/resource/Berrywood_Hospital,55.400000000000006
+http://dbpedia.org/resource/Stratford_Hospital,Stratford Hospital,http://dbpedia.org/resource/Stratford_Hospital,55.39999999999999
+http://dbpedia.org/resource/Whitby_Hospital,Whitby Hospital,http://dbpedia.org/resource/Whitby_Hospital,55.39999999999999
+http://dbpedia.org/resource/West_Cornwall_Hospital,West Cornwall Hospital,http://dbpedia.org/resource/West_Cornwall_Hospital,55.345
+http://dbpedia.org/resource/Nuffield_Health_Cambridge_Hospital,Nuffield Health Cambridge Hospital,http://dbpedia.org/resource/Nuffield_Health_Cambridge_Hospital,55.33
+http://dbpedia.org/resource/Beckenham_Beacon,Beckenham Beacon,http://dbpedia.org/resource/Beckenham_Beacon,55.325
+"http://dbpedia.org/resource/St_Helens_Hospital,_Merseyside","St Helens Hospital, Merseyside","http://dbpedia.org/resource/St_Helens_Hospital,_Merseyside",55.31999999999999
+http://dbpedia.org/resource/Alfred_Bean_Hospital,Alfred Bean Hospital,http://dbpedia.org/resource/Alfred_Bean_Hospital,55.31
+http://dbpedia.org/resource/East_Riding_Community_Hospital,East Riding Community Hospital,http://dbpedia.org/resource/East_Riding_Community_Hospital,55.305
+http://dbpedia.org/resource/Kendray_Hospital,Kendray Hospital,http://dbpedia.org/resource/Kendray_Hospital,55.305
+http://dbpedia.org/resource/Edward_Hain_Hospital,Edward Hain Hospital,http://dbpedia.org/resource/Edward_Hain_Hospital,55.300000000000004
+http://dbpedia.org/resource/Bognor_Regis_War_Memorial_Hospital,Bognor Regis War Memorial Hospital,http://dbpedia.org/resource/Bognor_Regis_War_Memorial_Hospital,55.29
+http://dbpedia.org/resource/Rush_Green_Hospital,Rush Green Hospital,http://dbpedia.org/resource/Rush_Green_Hospital,55.215
+"http://dbpedia.org/resource/Whitworth_Hospital,_Matlock","Whitworth Hospital, Matlock","http://dbpedia.org/resource/Whitworth_Hospital,_Matlock",55.21000000000001
+http://dbpedia.org/resource/St_Austell_Community_Hospital,St Austell Community Hospital,http://dbpedia.org/resource/St_Austell_Community_Hospital,55.205
+http://dbpedia.org/resource/Roseberry_Park_Hospital,Roseberry Park Hospital,http://dbpedia.org/resource/Roseberry_Park_Hospital,55.15500000000001
+"http://dbpedia.org/resource/Lister_Hospital,_Chelsea","Lister Hospital, Chelsea","http://dbpedia.org/resource/Lister_Hospital,_Chelsea",55.139999999999986
+http://dbpedia.org/resource/Totnes_Community_Hospital,Totnes Community Hospital,http://dbpedia.org/resource/Totnes_Community_Hospital,55.115
+http://dbpedia.org/resource/Hornsea_Cottage_Hospital,Hornsea Cottage Hospital,http://dbpedia.org/resource/Hornsea_Cottage_Hospital,55.115
+http://dbpedia.org/resource/Ilkeston_Community_Hospital,Ilkeston Community Hospital,http://dbpedia.org/resource/Ilkeston_Community_Hospital,55.11000000000001
+http://dbpedia.org/resource/North_Tyneside_General_Hospital,North Tyneside General Hospital,http://dbpedia.org/resource/North_Tyneside_General_Hospital,55.059999999999995
+http://dbpedia.org/resource/Norwich_Community_Hospital,Norwich Community Hospital,http://dbpedia.org/resource/Norwich_Community_Hospital,55.025000000000006
+http://dbpedia.org/resource/Tiverton_and_District_Hospital,Tiverton and District Hospital,http://dbpedia.org/resource/Tiverton_and_District_Hospital,55.025000000000006
+http://dbpedia.org/resource/Vale_Community_Hospital,Vale Community Hospital,http://dbpedia.org/resource/Vale_Community_Hospital,55.015
+http://dbpedia.org/resource/Lynfield_Mount_Hospital,Lynfield Mount Hospital,http://dbpedia.org/resource/Lynfield_Mount_Hospital,55.010000000000005
+http://dbpedia.org/resource/Sunderland_Royal_Hospital,Sunderland Royal Hospital,http://dbpedia.org/resource/Sunderland_Royal_Hospital,54.99
+http://dbpedia.org/resource/Newton_Abbot_Community_Hospital,Newton Abbot Community Hospital,http://dbpedia.org/resource/Newton_Abbot_Community_Hospital,54.93
+http://dbpedia.org/resource/Blyth_Community_Hospital,Blyth Community Hospital,http://dbpedia.org/resource/Blyth_Community_Hospital,54.93
+http://dbpedia.org/resource/The_Harbour_(hospital),The Harbour (hospital),http://dbpedia.org/resource/The_Harbour_(hospital),54.92499999999999
+http://dbpedia.org/resource/Monkwearmouth_Hospital,Monkwearmouth Hospital,http://dbpedia.org/resource/Monkwearmouth_Hospital,54.92000000000001
+"http://dbpedia.org/resource/KIMS_Hospital,_Maidstone","KIMS Hospital, Maidstone","http://dbpedia.org/resource/KIMS_Hospital,_Maidstone",54.919999999999995
+http://dbpedia.org/resource/Helston_Community_Hospital,Helston Community Hospital,http://dbpedia.org/resource/Helston_Community_Hospital,54.91499999999999
+http://dbpedia.org/resource/Buxton_Hospital,Buxton Hospital,http://dbpedia.org/resource/Buxton_Hospital,54.825
+http://dbpedia.org/resource/Alderney_Hospital,Alderney Hospital,http://dbpedia.org/resource/Alderney_Hospital,54.73
+http://dbpedia.org/resource/Withernsea_Community_Hospital,Withernsea Community Hospital,http://dbpedia.org/resource/Withernsea_Community_Hospital,54.724999999999994
+http://dbpedia.org/resource/Cromwell_Hospital,Cromwell Hospital,http://dbpedia.org/resource/Cromwell_Hospital,54.669999999999995
+http://dbpedia.org/resource/NewYork-Presbyterian_Queens,NewYork-Presbyterian Queens,http://dbpedia.org/resource/NewYork-Presbyterian_Queens,54.660000000000004
+http://dbpedia.org/resource/St_Albans_City_Hospital,St Albans City Hospital,http://dbpedia.org/resource/St_Albans_City_Hospital,54.559999999999995
+http://dbpedia.org/resource/Auckland_Park_Hospital,Auckland Park Hospital,http://dbpedia.org/resource/Auckland_Park_Hospital,54.54
+http://dbpedia.org/resource/Goole_and_District_Hospital,Goole and District Hospital,http://dbpedia.org/resource/Goole_and_District_Hospital,54.36499999999999
+http://dbpedia.org/resource/Peterlee_Community_Hospital,Peterlee Community Hospital,http://dbpedia.org/resource/Peterlee_Community_Hospital,54.355
+http://dbpedia.org/resource/Bellevue_Hospital,Bellevue Hospital,http://dbpedia.org/resource/Bellevue_Hospital,54.315
+http://dbpedia.org/resource/Braintree_Community_Hospital,Braintree Community Hospital,http://dbpedia.org/resource/Braintree_Community_Hospital,54.294999999999995
+http://dbpedia.org/resource/Ripley_Hospital,Ripley Hospital,http://dbpedia.org/resource/Ripley_Hospital,54.24999999999999
+"http://dbpedia.org/resource/St_James'_Hospital,_Portsmouth","St James' Hospital, Portsmouth","http://dbpedia.org/resource/St_James'_Hospital,_Portsmouth",54.245000000000005
+"http://dbpedia.org/resource/Queen's_Hospital,_Burton_upon_Trent","Queen's Hospital, Burton upon Trent","http://dbpedia.org/resource/Queen's_Hospital,_Burton_upon_Trent",54.245
+"http://dbpedia.org/resource/St_Margaret's_Hospital,_Epping","St Margaret's Hospital, Epping","http://dbpedia.org/resource/St_Margaret's_Hospital,_Epping",54.055
+"http://dbpedia.org/resource/St_George's_Hospital,_Havering","St George's Hospital, Havering","http://dbpedia.org/resource/St_George's_Hospital,_Havering",54.055
+"http://dbpedia.org/resource/Bexley_Hospital,_Bexleyheath","Bexley Hospital, Bexleyheath","http://dbpedia.org/resource/Bexley_Hospital,_Bexleyheath",53.97
+"http://dbpedia.org/resource/St_Leonard's_Hospital,_Hackney","St Leonard's Hospital, Hackney","http://dbpedia.org/resource/St_Leonard's_Hospital,_Hackney",53.865
+"http://dbpedia.org/resource/St_Michael's_Hospital,_Hayle","St Michael's Hospital, Hayle","http://dbpedia.org/resource/St_Michael's_Hospital,_Hayle",53.865
+http://dbpedia.org/resource/Wirral_Women_and_Children's_Hospital,Wirral Women and Children's Hospital,http://dbpedia.org/resource/Wirral_Women_and_Children's_Hospital,53.769999999999996
+http://dbpedia.org/resource/Lenox_Hill_Hospital,Lenox Hill Hospital,http://dbpedia.org/resource/Lenox_Hill_Hospital,53.615
+"http://dbpedia.org/resource/St_Mary's_Hospital,_Portsmouth","St Mary's Hospital, Portsmouth","http://dbpedia.org/resource/St_Mary's_Hospital,_Portsmouth",53.58
+"http://dbpedia.org/resource/St_George's_Park,_Morpeth","St George's Park, Morpeth","http://dbpedia.org/resource/St_George's_Park,_Morpeth",53.39
+"http://dbpedia.org/resource/St_Peter's_Hospital,_Maldon","St Peter's Hospital, Maldon","http://dbpedia.org/resource/St_Peter's_Hospital,_Maldon",53.29500000000001
+http://dbpedia.org/resource/St_Charles'_Hospital,St Charles' Hospital,http://dbpedia.org/resource/St_Charles'_Hospital,53.294999999999995
+http://dbpedia.org/resource/Tata_Memorial_Centre,Tata Memorial Centre,http://dbpedia.org/resource/Tata_Memorial_Centre,53.105
+"http://dbpedia.org/resource/St_Martin's_Hospital,_Canterbury","St Martin's Hospital, Canterbury","http://dbpedia.org/resource/St_Martin's_Hospital,_Canterbury",53.105
+http://dbpedia.org/resource/Great_North_Children's_Hospital,Great North Children's Hospital,http://dbpedia.org/resource/Great_North_Children's_Hospital,52.915
+"http://dbpedia.org/resource/St_Mary's_Hospital,_Kettering","St Mary's Hospital, Kettering","http://dbpedia.org/resource/St_Mary's_Hospital,_Kettering",52.915
+"http://dbpedia.org/resource/St_Leonard's_Hospital,_Ferndown","St Leonard's Hospital, Ferndown","http://dbpedia.org/resource/St_Leonard's_Hospital,_Ferndown",52.725
+http://dbpedia.org/resource/MD_Anderson_Cancer_Center,MD Anderson Cancer Center,http://dbpedia.org/resource/MD_Anderson_Cancer_Center,52.69
+http://dbpedia.org/resource/St_Catherine's_Health_Centre,St Catherine's Health Centre,http://dbpedia.org/resource/St_Catherine's_Health_Centre,52.629999999999995
+http://dbpedia.org/resource/Memorial_Sloan_Kettering_Cancer_Center,Memorial Sloan Kettering Cancer Center,http://dbpedia.org/resource/Memorial_Sloan_Kettering_Cancer_Center,52.56999999999999
+http://dbpedia.org/resource/Ninewells_Hospital,Ninewells Hospital,http://dbpedia.org/resource/Ninewells_Hospital,52.49
+http://dbpedia.org/resource/St_Oswald's_Hospital,St Oswald's Hospital,http://dbpedia.org/resource/St_Oswald's_Hospital,52.345000000000006
+http://dbpedia.org/resource/Duchess_of_Kent_Hospital,Duchess of Kent Hospital,http://dbpedia.org/resource/Duchess_of_Kent_Hospital,52.33
+http://dbpedia.org/resource/Cedars-Sinai_Medical_Center,Cedars-Sinai Medical Center,http://dbpedia.org/resource/Cedars-Sinai_Medical_Center,51.900000000000006
+http://dbpedia.org/resource/Ancoats_Hospital,Ancoats Hospital,http://dbpedia.org/resource/Ancoats_Hospital,51.81999999999999
+http://dbpedia.org/resource/Highland_Park_General_Hospital,Highland Park General Hospital,http://dbpedia.org/resource/Highland_Park_General_Hospital,51.03
+http://dbpedia.org/resource/N._S._Memorial_Institute_of_Medical_Sciences,N. S. Memorial Institute of Medical Sciences,http://dbpedia.org/resource/N._S._Memorial_Institute_of_Medical_Sciences,51.01500000000001
+"http://dbpedia.org/resource/Victoria_Integrated_Care_Centre,_Helensburgh","Victoria Integrated Care Centre, Helensburgh","http://dbpedia.org/resource/Victoria_Integrated_Care_Centre,_Helensburgh",50.4
+http://dbpedia.org/resource/Columbia_University_Irving_Medical_Center,Columbia University Irving Medical Center,http://dbpedia.org/resource/Columbia_University_Irving_Medical_Center,50.19
+http://dbpedia.org/resource/Houston_Methodist_Hospital,Houston Methodist Hospital,http://dbpedia.org/resource/Houston_Methodist_Hospital,49.73
+http://dbpedia.org/resource/Battersea_General_Hospital,Battersea General Hospital,http://dbpedia.org/resource/Battersea_General_Hospital,49.724999999999994
+http://dbpedia.org/resource/Sultanah_Fatimah_Specialist_Hospital,Sultanah Fatimah Specialist Hospital,http://dbpedia.org/resource/Sultanah_Fatimah_Specialist_Hospital,49.66
+http://dbpedia.org/resource/New_York_Eye_and_Ear_Infirmary,New York Eye and Ear Infirmary,http://dbpedia.org/resource/New_York_Eye_and_Ear_Infirmary,49.245000000000005
+http://dbpedia.org/resource/St._Elizabeths_Hospital,St. Elizabeths Hospital,http://dbpedia.org/resource/St._Elizabeths_Hospital,49.165
+http://dbpedia.org/resource/Roswell_Park_Comprehensive_Cancer_Center,Roswell Park Comprehensive Cancer Center,http://dbpedia.org/resource/Roswell_Park_Comprehensive_Cancer_Center,48.635000000000005
+"http://dbpedia.org/resource/Victoria_Hospital,_Rothesay","Victoria Hospital, Rothesay","http://dbpedia.org/resource/Victoria_Hospital,_Rothesay",48.495
+http://dbpedia.org/resource/Broadmoor_Hospital,Broadmoor Hospital,http://dbpedia.org/resource/Broadmoor_Hospital,48.34
+"http://dbpedia.org/resource/Malankara_Orthodox_Syrian_Church_Medical_College,_Kolenchery","Malankara Orthodox Syrian Church Medical College, Kolenchery","http://dbpedia.org/resource/Malankara_Orthodox_Syrian_Church_Medical_College,_Kolenchery",48.285
+http://dbpedia.org/resource/St._Jude_Children's_Research_Hospital,St. Jude Children's Research Hospital,http://dbpedia.org/resource/St._Jude_Children's_Research_Hospital,48.07
+http://dbpedia.org/resource/Harbor–UCLA_Medical_Center,Harbor–UCLA Medical Center,http://dbpedia.org/resource/Harbor–UCLA_Medical_Center,47.69
+http://dbpedia.org/resource/John_Hunter_Hospital,John Hunter Hospital,http://dbpedia.org/resource/John_Hunter_Hospital,47.19
+http://dbpedia.org/resource/Birmingham_Accident_Hospital,Birmingham Accident Hospital,http://dbpedia.org/resource/Birmingham_Accident_Hospital,46.974999999999994
+http://dbpedia.org/resource/Dundee_Royal_Infirmary,Dundee Royal Infirmary,http://dbpedia.org/resource/Dundee_Royal_Infirmary,46.535
+http://dbpedia.org/resource/Western_General_Hospital,Western General Hospital,http://dbpedia.org/resource/Western_General_Hospital,46.335
+http://dbpedia.org/resource/Sarawak_General_Hospital,Sarawak General Hospital,http://dbpedia.org/resource/Sarawak_General_Hospital,45.515
+http://dbpedia.org/resource/Royal_Sussex_County_Hospital,Royal Sussex County Hospital,http://dbpedia.org/resource/Royal_Sussex_County_Hospital,45.375
+http://dbpedia.org/resource/Yaralla_Estate,Yaralla Estate,http://dbpedia.org/resource/Yaralla_Estate,45.349999999999994
+http://dbpedia.org/resource/Children's_Memorial_Hermann_Hospital,Children's Memorial Hermann Hospital,http://dbpedia.org/resource/Children's_Memorial_Hermann_Hospital,45.22
+http://dbpedia.org/resource/MedStar_Georgetown_University_Hospital,MedStar Georgetown University Hospital,http://dbpedia.org/resource/MedStar_Georgetown_University_Hospital,45.025
+http://dbpedia.org/resource/Mercy_Health_-_St._Charles_Hospital,Mercy Health - St. Charles Hospital,http://dbpedia.org/resource/Mercy_Health_-_St._Charles_Hospital,44.879999999999995
+http://dbpedia.org/resource/Uganda_Cancer_Institute,Uganda Cancer Institute,http://dbpedia.org/resource/Uganda_Cancer_Institute,44.669999999999995
+http://dbpedia.org/resource/Pennsylvania_Hospital,Pennsylvania Hospital,http://dbpedia.org/resource/Pennsylvania_Hospital,44.580000000000005
+http://dbpedia.org/resource/American_Mission_Hospital,American Mission Hospital,http://dbpedia.org/resource/American_Mission_Hospital,43.955000000000005
+http://dbpedia.org/resource/Uganda_Heart_Institute,Uganda Heart Institute,http://dbpedia.org/resource/Uganda_Heart_Institute,43.935
+http://dbpedia.org/resource/Birmingham_General_Hospital,Birmingham General Hospital,http://dbpedia.org/resource/Birmingham_General_Hospital,43.885000000000005
+http://dbpedia.org/resource/Montefiore_Medical_Center,Montefiore Medical Center,http://dbpedia.org/resource/Montefiore_Medical_Center,43.370000000000005
+http://dbpedia.org/resource/Carilion_Roanoke_Memorial_Hospital,Carilion Roanoke Memorial Hospital,http://dbpedia.org/resource/Carilion_Roanoke_Memorial_Hospital,42.845
+http://dbpedia.org/resource/Harlem_Hospital_Center,Harlem Hospital Center,http://dbpedia.org/resource/Harlem_Hospital_Center,42.41
+http://dbpedia.org/resource/Sultanah_Aminah_Hospital,Sultanah Aminah Hospital,http://dbpedia.org/resource/Sultanah_Aminah_Hospital,42.255
+http://dbpedia.org/resource/Bellsdyke_Hospital,Bellsdyke Hospital,http://dbpedia.org/resource/Bellsdyke_Hospital,42.245000000000005
+http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center,Walter Reed National Military Medical Center,http://dbpedia.org/resource/Walter_Reed_National_Military_Medical_Center,41.94500000000001
+http://dbpedia.org/resource/University_Hospitals_Cleveland_Medical_Center,University Hospitals Cleveland Medical Center,http://dbpedia.org/resource/University_Hospitals_Cleveland_Medical_Center,41.865
+http://dbpedia.org/resource/Cortellucci_Vaughan_Hospital,Cortellucci Vaughan Hospital,http://dbpedia.org/resource/Cortellucci_Vaughan_Hospital,41.83
+http://dbpedia.org/resource/Pyongyang_Maternity_Hospital,Pyongyang Maternity Hospital,http://dbpedia.org/resource/Pyongyang_Maternity_Hospital,41.824999999999996
+http://dbpedia.org/resource/Royal_Newcastle_Hospital,Royal Newcastle Hospital,http://dbpedia.org/resource/Royal_Newcastle_Hospital,41.75
+http://dbpedia.org/resource/Stobhill_Hospital,Stobhill Hospital,http://dbpedia.org/resource/Stobhill_Hospital,41.725
+http://dbpedia.org/resource/VCU_Medical_Center,VCU Medical Center,http://dbpedia.org/resource/VCU_Medical_Center,41.300000000000004
+http://dbpedia.org/resource/Adventist_HealthCare_White_Oak_Medical_Center,Adventist HealthCare White Oak Medical Center,http://dbpedia.org/resource/Adventist_HealthCare_White_Oak_Medical_Center,41.300000000000004
+http://dbpedia.org/resource/Sultan_Abdul_Halim_Hospital,Sultan Abdul Halim Hospital,http://dbpedia.org/resource/Sultan_Abdul_Halim_Hospital,41.09
+http://dbpedia.org/resource/Penn_State_Milton_S._Hershey_Medical_Center,Penn State Milton S. Hershey Medical Center,http://dbpedia.org/resource/Penn_State_Milton_S._Hershey_Medical_Center,41.06
+http://dbpedia.org/resource/Mount_Sinai_Kravis_Children's_Hospital,Mount Sinai Kravis Children's Hospital,http://dbpedia.org/resource/Mount_Sinai_Kravis_Children's_Hospital,40.754999999999995
+http://dbpedia.org/resource/Taiping_Hospital,Taiping Hospital,http://dbpedia.org/resource/Taiping_Hospital,40.71000000000001
+http://dbpedia.org/resource/Elmhurst_Hospital_Center,Elmhurst Hospital Center,http://dbpedia.org/resource/Elmhurst_Hospital_Center,40.6
+http://dbpedia.org/resource/Nakasero_Hospital,Nakasero Hospital,http://dbpedia.org/resource/Nakasero_Hospital,40.525000000000006
+http://dbpedia.org/resource/Lauriston_Building,Lauriston Building,http://dbpedia.org/resource/Lauriston_Building,40.42
+http://dbpedia.org/resource/Beth_Israel_Deaconess_Medical_Center,Beth Israel Deaconess Medical Center,http://dbpedia.org/resource/Beth_Israel_Deaconess_Medical_Center,40.375
+"http://dbpedia.org/resource/Aga_Khan_University_Hospital,_Kampala","Aga Khan University Hospital, Kampala","http://dbpedia.org/resource/Aga_Khan_University_Hospital,_Kampala",40.355
+http://dbpedia.org/resource/UC_Davis_Medical_Center,UC Davis Medical Center,http://dbpedia.org/resource/UC_Davis_Medical_Center,40.25999999999999
+http://dbpedia.org/resource/Kiruddu_General_Hospital,Kiruddu General Hospital,http://dbpedia.org/resource/Kiruddu_General_Hospital,40.125
+http://dbpedia.org/resource/Kawempe_General_Hospital,Kawempe General Hospital,http://dbpedia.org/resource/Kawempe_General_Hospital,40.120000000000005
+http://dbpedia.org/resource/University_of_Virginia_Health_System,University of Virginia Health System,http://dbpedia.org/resource/University_of_Virginia_Health_System,39.935
+http://dbpedia.org/resource/NHS_Nightingale_Hospital_London,NHS Nightingale Hospital London,http://dbpedia.org/resource/NHS_Nightingale_Hospital_London,39.93000000000001
+http://dbpedia.org/resource/Mengo_Hospital,Mengo Hospital,http://dbpedia.org/resource/Mengo_Hospital,39.895
+http://dbpedia.org/resource/Lagos_University_Teaching_Hospital,Lagos University Teaching Hospital,http://dbpedia.org/resource/Lagos_University_Teaching_Hospital,39.805
+http://dbpedia.org/resource/Queen_Elizabeth_University_Hospital,Queen Elizabeth University Hospital,http://dbpedia.org/resource/Queen_Elizabeth_University_Hospital,39.765
+http://dbpedia.org/resource/Prince_of_Wales_Hospital,Prince of Wales Hospital,http://dbpedia.org/resource/Prince_of_Wales_Hospital,39.58
+http://dbpedia.org/resource/The_Park_Centre_for_Mental_Health,The Park Centre for Mental Health,http://dbpedia.org/resource/The_Park_Centre_for_Mental_Health,39.48500000000001
+http://dbpedia.org/resource/Royal_Edinburgh_Hospital,Royal Edinburgh Hospital,http://dbpedia.org/resource/Royal_Edinburgh_Hospital,38.9
+http://dbpedia.org/resource/Dell_Seton_Medical_Center,Dell Seton Medical Center,http://dbpedia.org/resource/Dell_Seton_Medical_Center,38.870000000000005
+http://dbpedia.org/resource/Naguru_General_Hospital,Naguru General Hospital,http://dbpedia.org/resource/Naguru_General_Hospital,38.865
+http://dbpedia.org/resource/Adventist_HealthCare_Shady_Grove_Medical_Center,Adventist HealthCare Shady Grove Medical Center,http://dbpedia.org/resource/Adventist_HealthCare_Shady_Grove_Medical_Center,38.855000000000004
+http://dbpedia.org/resource/ECU_Health_Medical_Center,ECU Health Medical Center,http://dbpedia.org/resource/ECU_Health_Medical_Center,38.82000000000001
+http://dbpedia.org/resource/Nsambya_Hospital,Nsambya Hospital,http://dbpedia.org/resource/Nsambya_Hospital,38.80500000000001
+http://dbpedia.org/resource/St_Bernard's_Hospital,St Bernard's Hospital,http://dbpedia.org/resource/St_Bernard's_Hospital,38.56999999999999
+http://dbpedia.org/resource/San_Francisco_General_Hospital,San Francisco General Hospital,http://dbpedia.org/resource/San_Francisco_General_Hospital,38.56
+http://dbpedia.org/resource/NHS_Nightingale_Hospital_Birmingham,NHS Nightingale Hospital Birmingham,http://dbpedia.org/resource/NHS_Nightingale_Hospital_Birmingham,38.49000000000001
+http://dbpedia.org/resource/Madigan_Army_Medical_Center,Madigan Army Medical Center,http://dbpedia.org/resource/Madigan_Army_Medical_Center,38.475
+http://dbpedia.org/resource/Kibuli_Hospital,Kibuli Hospital,http://dbpedia.org/resource/Kibuli_Hospital,38.39000000000001
+http://dbpedia.org/resource/King's_Cross_Hospital,King's Cross Hospital,http://dbpedia.org/resource/King's_Cross_Hospital,38.38
+"http://dbpedia.org/resource/Divisional_Railway_Hospital,_Golden_Rock","Divisional Railway Hospital, Golden Rock","http://dbpedia.org/resource/Divisional_Railway_Hospital,_Golden_Rock",38.330000000000005
+http://dbpedia.org/resource/Mount_Sinai_West,Mount Sinai West,http://dbpedia.org/resource/Mount_Sinai_West,38.300000000000004
+http://dbpedia.org/resource/Butabika_Hospital,Butabika Hospital,http://dbpedia.org/resource/Butabika_Hospital,38.29
+http://dbpedia.org/resource/Mbuya_Military_Hospital,Mbuya Military Hospital,http://dbpedia.org/resource/Mbuya_Military_Hospital,38.2
+http://dbpedia.org/resource/Tayside_Children's_Hospital,Tayside Children's Hospital,http://dbpedia.org/resource/Tayside_Children's_Hospital,38.19
+http://dbpedia.org/resource/University_Hospital_of_Wales,University Hospital of Wales,http://dbpedia.org/resource/University_Hospital_of_Wales,38.15
+http://dbpedia.org/resource/Paragon_Hospital,Paragon Hospital,http://dbpedia.org/resource/Paragon_Hospital,38.115
+"http://dbpedia.org/resource/Royal_Victoria_Hospital,_Dundee","Royal Victoria Hospital, Dundee","http://dbpedia.org/resource/Royal_Victoria_Hospital,_Dundee",38.1
+http://dbpedia.org/resource/University_Health_System,University Health System,http://dbpedia.org/resource/University_Health_System,38.075
+http://dbpedia.org/resource/Robert_Wood_Johnson_University_Hospital,Robert Wood Johnson University Hospital,http://dbpedia.org/resource/Robert_Wood_Johnson_University_Hospital,37.95
+http://dbpedia.org/resource/Lubaga_Hospital,Lubaga Hospital,http://dbpedia.org/resource/Lubaga_Hospital,37.940000000000005
+"http://dbpedia.org/resource/Sadar_Hospital,_Ranchi","Sadar Hospital, Ranchi","http://dbpedia.org/resource/Sadar_Hospital,_Ranchi",37.82000000000001
+http://dbpedia.org/resource/Newton-Wellesley_Hospital,Newton-Wellesley Hospital,http://dbpedia.org/resource/Newton-Wellesley_Hospital,37.76500000000001
+http://dbpedia.org/resource/Belchertown_State_School,Belchertown State School,http://dbpedia.org/resource/Belchertown_State_School,37.755
+http://dbpedia.org/resource/UC_San_Diego_Health,UC San Diego Health,http://dbpedia.org/resource/UC_San_Diego_Health,37.615
+http://dbpedia.org/resource/Centre_for_Addiction_and_Mental_Health,Centre for Addiction and Mental Health,http://dbpedia.org/resource/Centre_for_Addiction_and_Mental_Health,37.545
+http://dbpedia.org/resource/Nur_al-Din_Bimaristan,Nur al-Din Bimaristan,http://dbpedia.org/resource/Nur_al-Din_Bimaristan,37.49999999999999
+http://dbpedia.org/resource/Martin_Luther_King_Jr._Outpatient_Center,Martin Luther King Jr. Outpatient Center,http://dbpedia.org/resource/Martin_Luther_King_Jr._Outpatient_Center,37.47
+http://dbpedia.org/resource/Dundee_Dental_Hospital,Dundee Dental Hospital,http://dbpedia.org/resource/Dundee_Dental_Hospital,37.405
+http://dbpedia.org/resource/Queen_Elizabeth_Hospital_Birmingham_(1933–2010),Queen Elizabeth Hospital Birmingham (1933–2010),http://dbpedia.org/resource/Queen_Elizabeth_Hospital_Birmingham_(1933–2010),37.335
+http://dbpedia.org/resource/Saint_Vincent's_Catholic_Medical_Centers,Saint Vincent's Catholic Medical Centers,http://dbpedia.org/resource/Saint_Vincent's_Catholic_Medical_Centers,37.24
+http://dbpedia.org/resource/University_Hospital_Crosshouse,University Hospital Crosshouse,http://dbpedia.org/resource/University_Hospital_Crosshouse,37.205
+http://dbpedia.org/resource/Rainbow_Babies_&_Children's_Hospital,Rainbow Babies & Children's Hospital,http://dbpedia.org/resource/Rainbow_Babies_&_Children's_Hospital,37.145
+http://dbpedia.org/resource/Upper_Mulago_Regional_Referral_Hospital,Upper Mulago Regional Referral Hospital,http://dbpedia.org/resource/Upper_Mulago_Regional_Referral_Hospital,37.12
+http://dbpedia.org/resource/Murchison_Bay_Hospital,Murchison Bay Hospital,http://dbpedia.org/resource/Murchison_Bay_Hospital,37.025
+http://dbpedia.org/resource/Meditrina_Hospital,Meditrina Hospital,http://dbpedia.org/resource/Meditrina_Hospital,37.025
+http://dbpedia.org/resource/Glasgow_Royal_Infirmary,Glasgow Royal Infirmary,http://dbpedia.org/resource/Glasgow_Royal_Infirmary,37.004999999999995
+http://dbpedia.org/resource/Fort_Belvoir_Community_Hospital,Fort Belvoir Community Hospital,http://dbpedia.org/resource/Fort_Belvoir_Community_Hospital,36.974999999999994
+http://dbpedia.org/resource/Dunbar_Hospital,Dunbar Hospital,http://dbpedia.org/resource/Dunbar_Hospital,36.895
+http://dbpedia.org/resource/Women's_Hospital_International_and_Fertility_Centre,Women's Hospital International and Fertility Centre,http://dbpedia.org/resource/Women's_Hospital_International_and_Fertility_Centre,36.86000000000001
+http://dbpedia.org/resource/Brighton_General_Hospital,Brighton General Hospital,http://dbpedia.org/resource/Brighton_General_Hospital,36.82000000000001
+http://dbpedia.org/resource/Arya_Vaidya_Sala,Arya Vaidya Sala,http://dbpedia.org/resource/Arya_Vaidya_Sala,36.76
+http://dbpedia.org/resource/Cooper_University_Hospital,Cooper University Hospital,http://dbpedia.org/resource/Cooper_University_Hospital,36.62
+http://dbpedia.org/resource/Scottish_Women's_Hospitals_for_Foreign_Service,Scottish Women's Hospitals for Foreign Service,http://dbpedia.org/resource/Scottish_Women's_Hospitals_for_Foreign_Service,36.575
+http://dbpedia.org/resource/Saint_Boniface_Hospital,Saint Boniface Hospital,http://dbpedia.org/resource/Saint_Boniface_Hospital,36.565000000000005
+http://dbpedia.org/resource/Legacy_Emanuel_Medical_Center,Legacy Emanuel Medical Center,http://dbpedia.org/resource/Legacy_Emanuel_Medical_Center,36.52
+http://dbpedia.org/resource/Letterkenny_University_Hospital,Letterkenny University Hospital,http://dbpedia.org/resource/Letterkenny_University_Hospital,36.49
+http://dbpedia.org/resource/Kaiser_Westside_Medical_Center,Kaiser Westside Medical Center,http://dbpedia.org/resource/Kaiser_Westside_Medical_Center,36.47
+http://dbpedia.org/resource/University_Medical_Center_of_El_Paso,University Medical Center of El Paso,http://dbpedia.org/resource/University_Medical_Center_of_El_Paso,36.28
+http://dbpedia.org/resource/San_Giacomo_degli_Incurabili,San Giacomo degli Incurabili,http://dbpedia.org/resource/San_Giacomo_degli_Incurabili,36.2
+http://dbpedia.org/resource/NHS_Nightingale_Hospital_North_East,NHS Nightingale Hospital North East,http://dbpedia.org/resource/NHS_Nightingale_Hospital_North_East,36.190000000000005
+http://dbpedia.org/resource/Kadic_Hospital,Kadic Hospital,http://dbpedia.org/resource/Kadic_Hospital,36.175000000000004
+http://dbpedia.org/resource/Brooklyn_Naval_Hospital,Brooklyn Naval Hospital,http://dbpedia.org/resource/Brooklyn_Naval_Hospital,36.029999999999994
+http://dbpedia.org/resource/Soldiers'_Home_in_Holyoke,Soldiers' Home in Holyoke,http://dbpedia.org/resource/Soldiers'_Home_in_Holyoke,35.91
+http://dbpedia.org/resource/Raigmore_Hospital,Raigmore Hospital,http://dbpedia.org/resource/Raigmore_Hospital,35.835
+http://dbpedia.org/resource/Kampala_Medical_Chambers_Hospital,Kampala Medical Chambers Hospital,http://dbpedia.org/resource/Kampala_Medical_Chambers_Hospital,35.79
+http://dbpedia.org/resource/Beaumont_Health,Beaumont Health,http://dbpedia.org/resource/Beaumont_Health,35.63
+http://dbpedia.org/resource/Tufts_Medical_Center,Tufts Medical Center,http://dbpedia.org/resource/Tufts_Medical_Center,35.580000000000005
+http://dbpedia.org/resource/NHS_Nightingale_Hospital_Yorkshire_and_the_Humber,NHS Nightingale Hospital Yorkshire and the Humber,http://dbpedia.org/resource/NHS_Nightingale_Hospital_Yorkshire_and_the_Humber,35.535
+http://dbpedia.org/resource/Homer_G._Phillips_Hospital,Homer G. Phillips Hospital,http://dbpedia.org/resource/Homer_G._Phillips_Hospital,35.184999999999995
+http://dbpedia.org/resource/UPMC_Hillman_Cancer_Center,UPMC Hillman Cancer Center,http://dbpedia.org/resource/UPMC_Hillman_Cancer_Center,35.125
+http://dbpedia.org/resource/Ljubljana_University_Medical_Centre,Ljubljana University Medical Centre,http://dbpedia.org/resource/Ljubljana_University_Medical_Centre,34.995
+http://dbpedia.org/resource/Aberdeen_Royal_Infirmary,Aberdeen Royal Infirmary,http://dbpedia.org/resource/Aberdeen_Royal_Infirmary,34.964999999999996
+http://dbpedia.org/resource/Boston_Medical_Center,Boston Medical Center,http://dbpedia.org/resource/Boston_Medical_Center,34.949999999999996
+http://dbpedia.org/resource/Howard_County_General_Hospital,Howard County General Hospital,http://dbpedia.org/resource/Howard_County_General_Hospital,34.86000000000001
+http://dbpedia.org/resource/McLean_Hospital,McLean Hospital,http://dbpedia.org/resource/McLean_Hospital,34.63
+http://dbpedia.org/resource/NHS_Louisa_Jordan,NHS Louisa Jordan,http://dbpedia.org/resource/NHS_Louisa_Jordan,34.62
+http://dbpedia.org/resource/Hadassah_Medical_Center,Hadassah Medical Center,http://dbpedia.org/resource/Hadassah_Medical_Center,34.555
+"http://dbpedia.org/resource/Royal_Hospital_for_Sick_Children,_Edinburgh","Royal Hospital for Sick Children, Edinburgh","http://dbpedia.org/resource/Royal_Hospital_for_Sick_Children,_Edinburgh",34.48500000000001
+http://dbpedia.org/resource/Royal_Scottish_National_Hospital,Royal Scottish National Hospital,http://dbpedia.org/resource/Royal_Scottish_National_Hospital,34.42
+http://dbpedia.org/resource/Stanford_University_Medical_Center,Stanford University Medical Center,http://dbpedia.org/resource/Stanford_University_Medical_Center,34.345
+http://dbpedia.org/resource/Ayrshire_Central_Hospital,Ayrshire Central Hospital,http://dbpedia.org/resource/Ayrshire_Central_Hospital,34.339999999999996
+"http://dbpedia.org/resource/St_Leonard's_Hospital,_Edinburgh","St Leonard's Hospital, Edinburgh","http://dbpedia.org/resource/St_Leonard's_Hospital,_Edinburgh",34.295
+http://dbpedia.org/resource/Glen_o'_Dee_Hospital,Glen o' Dee Hospital,http://dbpedia.org/resource/Glen_o'_Dee_Hospital,34.199999999999996
+http://dbpedia.org/resource/Queen_Mary_Hospital_(Hanmer_Springs),Queen Mary Hospital (Hanmer Springs),http://dbpedia.org/resource/Queen_Mary_Hospital_(Hanmer_Springs),34.19
+http://dbpedia.org/resource/State_Hospital,State Hospital,http://dbpedia.org/resource/State_Hospital,34.175000000000004
+http://dbpedia.org/resource/Cohen_Children's_Medical_Center,Cohen Children's Medical Center,http://dbpedia.org/resource/Cohen_Children's_Medical_Center,34.105
+"http://dbpedia.org/resource/Western_State_Hospital_(Staunton,_Virginia)","Western State Hospital (Staunton, Virginia)","http://dbpedia.org/resource/Western_State_Hospital_(Staunton,_Virginia)",34.085
+http://dbpedia.org/resource/Maimonides_Medical_Center,Maimonides Medical Center,http://dbpedia.org/resource/Maimonides_Medical_Center,34.055
+http://dbpedia.org/resource/Witton_Isolation_Hospital,Witton Isolation Hospital,http://dbpedia.org/resource/Witton_Isolation_Hospital,33.95
+http://dbpedia.org/resource/Gartnavel_Royal_Hospital,Gartnavel Royal Hospital,http://dbpedia.org/resource/Gartnavel_Royal_Hospital,33.93
+http://dbpedia.org/resource/Children's_Hospital_of_Philadelphia,Children's Hospital of Philadelphia,http://dbpedia.org/resource/Children's_Hospital_of_Philadelphia,33.82
+http://dbpedia.org/resource/Normansfield_Hospital,Normansfield Hospital,http://dbpedia.org/resource/Normansfield_Hospital,33.785000000000004
+http://dbpedia.org/resource/Ryan_AbilityLab,Ryan AbilityLab,http://dbpedia.org/resource/Ryan_AbilityLab,33.725
+http://dbpedia.org/resource/University_Hospital_Hairmyres,University Hospital Hairmyres,http://dbpedia.org/resource/University_Hospital_Hairmyres,33.365
+http://dbpedia.org/resource/UVA_Children's_Hospital,UVA Children's Hospital,http://dbpedia.org/resource/UVA_Children's_Hospital,33.345
+http://dbpedia.org/resource/Taunton_State_Hospital,Taunton State Hospital,http://dbpedia.org/resource/Taunton_State_Hospital,33.339999999999996
+http://dbpedia.org/resource/Jamaica_Hospital_Medical_Center,Jamaica Hospital Medical Center,http://dbpedia.org/resource/Jamaica_Hospital_Medical_Center,33.300000000000004
+http://dbpedia.org/resource/The_Bristol-Myers_Squibb_Children's_Hospital,The Bristol-Myers Squibb Children's Hospital,http://dbpedia.org/resource/The_Bristol-Myers_Squibb_Children's_Hospital,33.25
+http://dbpedia.org/resource/Tripler_Army_Medical_Center,Tripler Army Medical Center,http://dbpedia.org/resource/Tripler_Army_Medical_Center,33.24
+http://dbpedia.org/resource/University_of_Maryland_Laurel_Medical_Center,University of Maryland Laurel Medical Center,http://dbpedia.org/resource/University_of_Maryland_Laurel_Medical_Center,33.21
+http://dbpedia.org/resource/Del_Sol_Medical_Center,Del Sol Medical Center,http://dbpedia.org/resource/Del_Sol_Medical_Center,33.184999999999995
+http://dbpedia.org/resource/Mendota_Mental_Health_Institute,Mendota Mental Health Institute,http://dbpedia.org/resource/Mendota_Mental_Health_Institute,33.080000000000005
+http://dbpedia.org/resource/J.W._Ruby_Memorial_Hospital,J.W. Ruby Memorial Hospital,http://dbpedia.org/resource/J.W._Ruby_Memorial_Hospital,33.035000000000004
+http://dbpedia.org/resource/Holby,Holby,http://dbpedia.org/resource/Holby,33.010000000000005
+http://dbpedia.org/resource/New_York_State_Psychiatric_Institute,New York State Psychiatric Institute,http://dbpedia.org/resource/New_York_State_Psychiatric_Institute,33.005
+http://dbpedia.org/resource/UMass_Memorial_Health,UMass Memorial Health,http://dbpedia.org/resource/UMass_Memorial_Health,32.995
+http://dbpedia.org/resource/Staten_Island_University_Hospital,Staten Island University Hospital,http://dbpedia.org/resource/Staten_Island_University_Hospital,32.905
+http://dbpedia.org/resource/Mississippi_State_Hospital,Mississippi State Hospital,http://dbpedia.org/resource/Mississippi_State_Hospital,32.855000000000004
+http://dbpedia.org/resource/UPMC_Altoona,UPMC Altoona,http://dbpedia.org/resource/UPMC_Altoona,32.845
+http://dbpedia.org/resource/Al-'Adudi_Hospital,Al-'Adudi Hospital,http://dbpedia.org/resource/Al-'Adudi_Hospital,32.775
+http://dbpedia.org/resource/James_J._Peters_VA_Medical_Center,James J. Peters VA Medical Center,http://dbpedia.org/resource/James_J._Peters_VA_Medical_Center,32.775
+http://dbpedia.org/resource/King_George_V_Hospital_(Gibraltar),King George V Hospital (Gibraltar),http://dbpedia.org/resource/King_George_V_Hospital_(Gibraltar),32.575
+http://dbpedia.org/resource/UPMC_Magee-Womens_Hospital,UPMC Magee-Womens Hospital,http://dbpedia.org/resource/UPMC_Magee-Womens_Hospital,32.535
+"http://dbpedia.org/resource/Royal_Victoria_Hospital,_Montreal","Royal Victoria Hospital, Montreal","http://dbpedia.org/resource/Royal_Victoria_Hospital,_Montreal",32.495
+http://dbpedia.org/resource/John_H._Stroger_Jr._Hospital_of_Cook_County,John H. Stroger Jr. Hospital of Cook County,http://dbpedia.org/resource/John_H._Stroger_Jr._Hospital_of_Cook_County,32.445
+http://dbpedia.org/resource/Norristown_State_Hospital,Norristown State Hospital,http://dbpedia.org/resource/Norristown_State_Hospital,32.305
+http://dbpedia.org/resource/Jacobs_Medical_Center,Jacobs Medical Center,http://dbpedia.org/resource/Jacobs_Medical_Center,32.225
+"http://dbpedia.org/resource/University_of_California,_Irvine_Medical_Center","University of California, Irvine Medical Center","http://dbpedia.org/resource/University_of_California,_Irvine_Medical_Center",32.17
+http://dbpedia.org/resource/Perth_Royal_Infirmary,Perth Royal Infirmary,http://dbpedia.org/resource/Perth_Royal_Infirmary,32.11000000000001
+http://dbpedia.org/resource/Upstate_University_Hospital,Upstate University Hospital,http://dbpedia.org/resource/Upstate_University_Hospital,32.089999999999996
+http://dbpedia.org/resource/Hospital_for_Special_Surgery,Hospital for Special Surgery,http://dbpedia.org/resource/Hospital_for_Special_Surgery,32.085
+"http://dbpedia.org/resource/Hôtel-Dieu,_Paris","Hôtel-Dieu, Paris","http://dbpedia.org/resource/Hôtel-Dieu,_Paris",32.015
+http://dbpedia.org/resource/CHU_UCLouvain_Namur,CHU UCLouvain Namur,http://dbpedia.org/resource/CHU_UCLouvain_Namur,31.995000000000005
+"http://dbpedia.org/resource/Victoria_Hospital_(London,_Ontario)","Victoria Hospital (London, Ontario)","http://dbpedia.org/resource/Victoria_Hospital_(London,_Ontario)",31.980000000000004
+http://dbpedia.org/resource/UW_Health_University_Hospital,UW Health University Hospital,http://dbpedia.org/resource/UW_Health_University_Hospital,31.974999999999994
+http://dbpedia.org/resource/Jacobi_Medical_Center,Jacobi Medical Center,http://dbpedia.org/resource/Jacobi_Medical_Center,31.945
+http://dbpedia.org/resource/ProMedica_Toledo_Hospital,ProMedica Toledo Hospital,http://dbpedia.org/resource/ProMedica_Toledo_Hospital,31.945
+http://dbpedia.org/resource/Guido_Valadares_National_Hospital,Guido Valadares National Hospital,http://dbpedia.org/resource/Guido_Valadares_National_Hospital,31.865
+http://dbpedia.org/resource/Kingsbrook_Jewish_Medical_Center,Kingsbrook Jewish Medical Center,http://dbpedia.org/resource/Kingsbrook_Jewish_Medical_Center,31.845
+http://dbpedia.org/resource/University_Hospital_Wishaw,University Hospital Wishaw,http://dbpedia.org/resource/University_Hospital_Wishaw,31.765000000000004
+http://dbpedia.org/resource/Serbsky_Center,Serbsky Center,http://dbpedia.org/resource/Serbsky_Center,31.705000000000002
+http://dbpedia.org/resource/Royal_Cornhill_Hospital,Royal Cornhill Hospital,http://dbpedia.org/resource/Royal_Cornhill_Hospital,31.700000000000003
+http://dbpedia.org/resource/Patna_Medical_College_and_Hospital,Patna Medical College and Hospital,http://dbpedia.org/resource/Patna_Medical_College_and_Hospital,31.645
+http://dbpedia.org/resource/Austen_Riggs_Center,Austen Riggs Center,http://dbpedia.org/resource/Austen_Riggs_Center,31.610000000000003
+http://dbpedia.org/resource/Leverndale_Hospital,Leverndale Hospital,http://dbpedia.org/resource/Leverndale_Hospital,31.605000000000004
+http://dbpedia.org/resource/Kings_County_Hospital_Center,Kings County Hospital Center,http://dbpedia.org/resource/Kings_County_Hospital_Center,31.53
+http://dbpedia.org/resource/NHS_Nightingale_Hospital_North_West,NHS Nightingale Hospital North West,http://dbpedia.org/resource/NHS_Nightingale_Hospital_North_West,31.509999999999998
+http://dbpedia.org/resource/TIRR_Memorial_Hermann,TIRR Memorial Hermann,http://dbpedia.org/resource/TIRR_Memorial_Hermann,31.494999999999994
+http://dbpedia.org/resource/Shellharbour_Hospital,Shellharbour Hospital,http://dbpedia.org/resource/Shellharbour_Hospital,31.475
+http://dbpedia.org/resource/Forth_Valley_Royal_Hospital,Forth Valley Royal Hospital,http://dbpedia.org/resource/Forth_Valley_Royal_Hospital,31.450000000000003
+http://dbpedia.org/resource/Sir_Sunderlal_Hospital,Sir Sunderlal Hospital,http://dbpedia.org/resource/Sir_Sunderlal_Hospital,31.419999999999995
+http://dbpedia.org/resource/Swedish_Hospital,Swedish Hospital,http://dbpedia.org/resource/Swedish_Hospital,31.374999999999996
+http://dbpedia.org/resource/Ailsa_Hospital,Ailsa Hospital,http://dbpedia.org/resource/Ailsa_Hospital,31.36
+"http://dbpedia.org/resource/St_Vincent's_Hospital,_Sydney","St Vincent's Hospital, Sydney","http://dbpedia.org/resource/St_Vincent's_Hospital,_Sydney",31.254999999999995
+http://dbpedia.org/resource/Astley_Ainslie_Hospital,Astley Ainslie Hospital,http://dbpedia.org/resource/Astley_Ainslie_Hospital,31.209999999999997
+http://dbpedia.org/resource/University_of_Mississippi_Medical_Center,University of Mississippi Medical Center,http://dbpedia.org/resource/University_of_Mississippi_Medical_Center,31.209999999999997
+http://dbpedia.org/resource/Cork_University_Hospital,Cork University Hospital,http://dbpedia.org/resource/Cork_University_Hospital,31.199999999999996
+http://dbpedia.org/resource/Brackenridge_Hospital,Brackenridge Hospital,http://dbpedia.org/resource/Brackenridge_Hospital,31.180000000000003
+http://dbpedia.org/resource/Broughton_Hospital,Broughton Hospital,http://dbpedia.org/resource/Broughton_Hospital,31.115
+http://dbpedia.org/resource/Mother_Hospital,Mother Hospital,http://dbpedia.org/resource/Mother_Hospital,31.110000000000003
+http://dbpedia.org/resource/Holyoke_Medical_Center,Holyoke Medical Center,http://dbpedia.org/resource/Holyoke_Medical_Center,31.03
+http://dbpedia.org/resource/Providence_Regional_Medical_Center_Everett,Providence Regional Medical Center Everett,http://dbpedia.org/resource/Providence_Regional_Medical_Center_Everett,30.99
+"http://dbpedia.org/resource/Beaumont_Hospital,_Dublin","Beaumont Hospital, Dublin","http://dbpedia.org/resource/Beaumont_Hospital,_Dublin",30.99
+http://dbpedia.org/resource/St._James's_Hospital,St. James's Hospital,http://dbpedia.org/resource/St._James's_Hospital,30.97
+http://dbpedia.org/resource/Providence_Holy_Cross_Medical_Center,Providence Holy Cross Medical Center,http://dbpedia.org/resource/Providence_Holy_Cross_Medical_Center,30.955
+http://dbpedia.org/resource/Ruttonjee_Hospital,Ruttonjee Hospital,http://dbpedia.org/resource/Ruttonjee_Hospital,30.930000000000003
+http://dbpedia.org/resource/Rutgers_Cancer_Institute_of_New_Jersey,Rutgers Cancer Institute of New Jersey,http://dbpedia.org/resource/Rutgers_Cancer_Institute_of_New_Jersey,30.929999999999996
+http://dbpedia.org/resource/Queen_Mary_Hospital_(Hong_Kong),Queen Mary Hospital (Hong Kong),http://dbpedia.org/resource/Queen_Mary_Hospital_(Hong_Kong),30.895
+http://dbpedia.org/resource/KPJ_Sabah_Specialist_Hospital,KPJ Sabah Specialist Hospital,http://dbpedia.org/resource/KPJ_Sabah_Specialist_Hospital,30.86
+"http://dbpedia.org/resource/Victoria_Hospital,_Kirkcaldy","Victoria Hospital, Kirkcaldy","http://dbpedia.org/resource/Victoria_Hospital,_Kirkcaldy",30.845
+http://dbpedia.org/resource/John_R._Oishei_Children's_Hospital,John R. Oishei Children's Hospital,http://dbpedia.org/resource/John_R._Oishei_Children's_Hospital,30.779999999999998
+http://dbpedia.org/resource/St._Vincent's_University_Hospital,St. Vincent's University Hospital,http://dbpedia.org/resource/St._Vincent's_University_Hospital,30.685000000000002
+http://dbpedia.org/resource/Argyll_and_Bute_Hospital,Argyll and Bute Hospital,http://dbpedia.org/resource/Argyll_and_Bute_Hospital,30.655
+http://dbpedia.org/resource/Hospital_for_Sick_Children_(Toronto),Hospital for Sick Children (Toronto),http://dbpedia.org/resource/Hospital_for_Sick_Children_(Toronto),30.634999999999998
+http://dbpedia.org/resource/Boston_Regional_Medical_Center,Boston Regional Medical Center,http://dbpedia.org/resource/Boston_Regional_Medical_Center,30.575000000000003
+http://dbpedia.org/resource/Stratheden_Hospital,Stratheden Hospital,http://dbpedia.org/resource/Stratheden_Hospital,30.53
+http://dbpedia.org/resource/Midpark_Hospital,Midpark Hospital,http://dbpedia.org/resource/Midpark_Hospital,30.479999999999997
+http://dbpedia.org/resource/Beatson_West_of_Scotland_Cancer_Centre,Beatson West of Scotland Cancer Centre,http://dbpedia.org/resource/Beatson_West_of_Scotland_Cancer_Centre,30.475
+http://dbpedia.org/resource/Kaiser_Richmond_Medical_Center,Kaiser Richmond Medical Center,http://dbpedia.org/resource/Kaiser_Richmond_Medical_Center,30.464999999999993
+http://dbpedia.org/resource/University_Hospital_Monklands,University Hospital Monklands,http://dbpedia.org/resource/University_Hospital_Monklands,30.424999999999997
+http://dbpedia.org/resource/Children's_Hospital_Oakland,Children's Hospital Oakland,http://dbpedia.org/resource/Children's_Hospital_Oakland,30.400000000000002
+http://dbpedia.org/resource/New_Craigs_Psychiatric_Hospital,New Craigs Psychiatric Hospital,http://dbpedia.org/resource/New_Craigs_Psychiatric_Hospital,30.375
+http://dbpedia.org/resource/Gleneagles_Hospital_Kota_Kinabalu,Gleneagles Hospital Kota Kinabalu,http://dbpedia.org/resource/Gleneagles_Hospital_Kota_Kinabalu,30.319999999999993
+http://dbpedia.org/resource/Massachusetts_Eye_and_Ear,Massachusetts Eye and Ear,http://dbpedia.org/resource/Massachusetts_Eye_and_Ear,30.29
+http://dbpedia.org/resource/Sunnybrook_Health_Sciences_Centre,Sunnybrook Health Sciences Centre,http://dbpedia.org/resource/Sunnybrook_Health_Sciences_Centre,30.259999999999998
+http://dbpedia.org/resource/U.S._Army_General_Hospital_No._1,U.S. Army General Hospital No. 1,http://dbpedia.org/resource/U.S._Army_General_Hospital_No._1,30.254999999999995
+http://dbpedia.org/resource/St._Joseph_Medical_Center_(Houston),St. Joseph Medical Center (Houston),http://dbpedia.org/resource/St._Joseph_Medical_Center_(Houston),30.235
+http://dbpedia.org/resource/Pok_Oi_Hospital,Pok Oi Hospital,http://dbpedia.org/resource/Pok_Oi_Hospital,30.205000000000002
+http://dbpedia.org/resource/Trichur_Heart_Hospital,Trichur Heart Hospital,http://dbpedia.org/resource/Trichur_Heart_Hospital,30.165000000000006
+http://dbpedia.org/resource/Belford_Hospital,Belford Hospital,http://dbpedia.org/resource/Belford_Hospital,30.14
+http://dbpedia.org/resource/Royal_Naval_Hospital_Gibraltar,Royal Naval Hospital Gibraltar,http://dbpedia.org/resource/Royal_Naval_Hospital_Gibraltar,30.125
+http://dbpedia.org/resource/University_of_Chicago_Medical_Center,University of Chicago Medical Center,http://dbpedia.org/resource/University_of_Chicago_Medical_Center,30.125
+"http://dbpedia.org/resource/UC_San_Diego_Medical_Center,_Hillcrest","UC San Diego Medical Center, Hillcrest","http://dbpedia.org/resource/UC_San_Diego_Medical_Center,_Hillcrest",30.015000000000004
+http://dbpedia.org/resource/Stoke_Mandeville_Hospital,Stoke Mandeville Hospital,http://dbpedia.org/resource/Stoke_Mandeville_Hospital,29.99
+http://dbpedia.org/resource/Lai_Chi_Kok_Hospital,Lai Chi Kok Hospital,http://dbpedia.org/resource/Lai_Chi_Kok_Hospital,29.865
+"http://dbpedia.org/resource/Royal_Hospital_for_Children,_Glasgow","Royal Hospital for Children, Glasgow","http://dbpedia.org/resource/Royal_Hospital_for_Children,_Glasgow",29.75
+http://dbpedia.org/resource/Providence_Behavioral_Health_Hospital,Providence Behavioral Health Hospital,http://dbpedia.org/resource/Providence_Behavioral_Health_Hospital,29.675
+http://dbpedia.org/resource/Golden_Jubilee_University_National_Hospital,Golden Jubilee University National Hospital,http://dbpedia.org/resource/Golden_Jubilee_University_National_Hospital,29.630000000000003
+http://dbpedia.org/resource/Murray_Royal_Hospital,Murray Royal Hospital,http://dbpedia.org/resource/Murray_Royal_Hospital,29.590000000000003
+http://dbpedia.org/resource/Gartnavel_General_Hospital,Gartnavel General Hospital,http://dbpedia.org/resource/Gartnavel_General_Hospital,29.555000000000003
+http://dbpedia.org/resource/Mercy_Health_-_St._Vincent_Medical_Center,Mercy Health - St. Vincent Medical Center,http://dbpedia.org/resource/Mercy_Health_-_St._Vincent_Medical_Center,29.555000000000003
+http://dbpedia.org/resource/Nassau_University_Medical_Center,Nassau University Medical Center,http://dbpedia.org/resource/Nassau_University_Medical_Center,29.55
+http://dbpedia.org/resource/Corstorphine_Hospital,Corstorphine Hospital,http://dbpedia.org/resource/Corstorphine_Hospital,29.515000000000004
+http://dbpedia.org/resource/St._Barnabas_Hospital_(Bronx),St. Barnabas Hospital (Bronx),http://dbpedia.org/resource/St._Barnabas_Hospital_(Bronx),29.465
+http://dbpedia.org/resource/Princess_Alexandra_Eye_Pavilion,Princess Alexandra Eye Pavilion,http://dbpedia.org/resource/Princess_Alexandra_Eye_Pavilion,29.435
+http://dbpedia.org/resource/Worcester_State_Hospital,Worcester State Hospital,http://dbpedia.org/resource/Worcester_State_Hospital,29.430000000000003
+http://dbpedia.org/resource/Lorn_and_Islands_Hospital,Lorn and Islands Hospital,http://dbpedia.org/resource/Lorn_and_Islands_Hospital,29.419999999999995
+http://dbpedia.org/resource/Duke_University_Hospital,Duke University Hospital,http://dbpedia.org/resource/Duke_University_Hospital,29.27
+http://dbpedia.org/resource/UCLA_Mattel_Children's_Hospital,UCLA Mattel Children's Hospital,http://dbpedia.org/resource/UCLA_Mattel_Children's_Hospital,29.260000000000005
+http://dbpedia.org/resource/Hong_Kong_Children's_Hospital,Hong Kong Children's Hospital,http://dbpedia.org/resource/Hong_Kong_Children's_Hospital,29.260000000000005
+http://dbpedia.org/resource/MelroseWakefield_Hospital,MelroseWakefield Hospital,http://dbpedia.org/resource/MelroseWakefield_Hospital,29.210000000000004
+http://dbpedia.org/resource/Comer_Children's_Hospital,Comer Children's Hospital,http://dbpedia.org/resource/Comer_Children's_Hospital,29.165
+http://dbpedia.org/resource/Wollongong_Hospital,Wollongong Hospital,http://dbpedia.org/resource/Wollongong_Hospital,29.145
+http://dbpedia.org/resource/Dykebar_Hospital,Dykebar Hospital,http://dbpedia.org/resource/Dykebar_Hospital,29.144999999999996
+http://dbpedia.org/resource/Ugie_Hospital,Ugie Hospital,http://dbpedia.org/resource/Ugie_Hospital,29.135000000000005
+http://dbpedia.org/resource/Nalanda_Medical_College_and_Hospital,Nalanda Medical College and Hospital,http://dbpedia.org/resource/Nalanda_Medical_College_and_Hospital,29.125
+http://dbpedia.org/resource/Stoneyetts_Hospital,Stoneyetts Hospital,http://dbpedia.org/resource/Stoneyetts_Hospital,29.12
+http://dbpedia.org/resource/Markham_Stouffville_Hospital,Markham Stouffville Hospital,http://dbpedia.org/resource/Markham_Stouffville_Hospital,29.08
+http://dbpedia.org/resource/Eastern_State_Hospital_(Kentucky),Eastern State Hospital (Kentucky),http://dbpedia.org/resource/Eastern_State_Hospital_(Kentucky),29.029999999999998
+http://dbpedia.org/resource/301_Hospital,301 Hospital,http://dbpedia.org/resource/301_Hospital,29.024999999999995
+http://dbpedia.org/resource/Lucile_Packard_Children's_Hospital,Lucile Packard Children's Hospital,http://dbpedia.org/resource/Lucile_Packard_Children's_Hospital,28.974999999999994
+http://dbpedia.org/resource/Royal_Berkshire_Hospital,Royal Berkshire Hospital,http://dbpedia.org/resource/Royal_Berkshire_Hospital,28.92
+http://dbpedia.org/resource/Advocate_Lutheran_General_Hospital,Advocate Lutheran General Hospital,http://dbpedia.org/resource/Advocate_Lutheran_General_Hospital,28.895
+http://dbpedia.org/resource/Dharamshila_Cancer_Hospital_and_Research_Centre,Dharamshila Cancer Hospital and Research Centre,http://dbpedia.org/resource/Dharamshila_Cancer_Hospital_and_Research_Centre,28.890000000000004
+"http://dbpedia.org/resource/British_Military_Hospital,_Hong_Kong","British Military Hospital, Hong Kong","http://dbpedia.org/resource/British_Military_Hospital,_Hong_Kong",28.889999999999993
+http://dbpedia.org/resource/Westchester_Medical_Center,Westchester Medical Center,http://dbpedia.org/resource/Westchester_Medical_Center,28.875
+http://dbpedia.org/resource/Caithness_General_Hospital,Caithness General Hospital,http://dbpedia.org/resource/Caithness_General_Hospital,28.865
+http://dbpedia.org/resource/Children's_Hospital_at_Montefiore,Children's Hospital at Montefiore,http://dbpedia.org/resource/Children's_Hospital_at_Montefiore,28.784999999999997
+http://dbpedia.org/resource/Le_Bonheur_Children's_Hospital,Le Bonheur Children's Hospital,http://dbpedia.org/resource/Le_Bonheur_Children's_Hospital,28.784999999999997
+http://dbpedia.org/resource/Primary_Children's_Hospital,Primary Children's Hospital,http://dbpedia.org/resource/Primary_Children's_Hospital,28.784999999999997
+"http://dbpedia.org/resource/UCLA_Medical_Center,_Santa_Monica","UCLA Medical Center, Santa Monica","http://dbpedia.org/resource/UCLA_Medical_Center,_Santa_Monica",28.779999999999998
+http://dbpedia.org/resource/Carl_R._Darnall_Army_Medical_Center,Carl R. Darnall Army Medical Center,http://dbpedia.org/resource/Carl_R._Darnall_Army_Medical_Center,28.775000000000002
+http://dbpedia.org/resource/Aberdeen_Maternity_Hospital,Aberdeen Maternity Hospital,http://dbpedia.org/resource/Aberdeen_Maternity_Hospital,28.690000000000005
+http://dbpedia.org/resource/Lahey_Hospital_&_Medical_Center,Lahey Hospital & Medical Center,http://dbpedia.org/resource/Lahey_Hospital_&_Medical_Center,28.689999999999998
+http://dbpedia.org/resource/Aberdeen_Community_Health_and_Care_Village,Aberdeen Community Health and Care Village,http://dbpedia.org/resource/Aberdeen_Community_Health_and_Care_Village,28.665
+http://dbpedia.org/resource/Mackinnon_Memorial_Hospital,Mackinnon Memorial Hospital,http://dbpedia.org/resource/Mackinnon_Memorial_Hospital,28.655
+http://dbpedia.org/resource/Adventist_Health_Portland,Adventist Health Portland,http://dbpedia.org/resource/Adventist_Health_Portland,28.64
+"http://dbpedia.org/resource/Chalmers_Hospital,_Edinburgh","Chalmers Hospital, Edinburgh","http://dbpedia.org/resource/Chalmers_Hospital,_Edinburgh",28.634999999999998
+http://dbpedia.org/resource/SevenHills_Hospital,SevenHills Hospital,http://dbpedia.org/resource/SevenHills_Hospital,28.625000000000007
+http://dbpedia.org/resource/Kirklands_Hospital,Kirklands Hospital,http://dbpedia.org/resource/Kirklands_Hospital,28.58
+http://dbpedia.org/resource/Leith_Community_Treatment_Centre,Leith Community Treatment Centre,http://dbpedia.org/resource/Leith_Community_Treatment_Centre,28.57
+http://dbpedia.org/resource/Tuen_Mun_Hospital,Tuen Mun Hospital,http://dbpedia.org/resource/Tuen_Mun_Hospital,28.474999999999994
+http://dbpedia.org/resource/Nairn_Town_and_County_Hospital,Nairn Town and County Hospital,http://dbpedia.org/resource/Nairn_Town_and_County_Hospital,28.455000000000002
+http://dbpedia.org/resource/Princess_Royal_Maternity_Hospital,Princess Royal Maternity Hospital,http://dbpedia.org/resource/Princess_Royal_Maternity_Hospital,28.449999999999996
+http://dbpedia.org/resource/Johns_Hopkins_Bayview_Medical_Center,Johns Hopkins Bayview Medical Center,http://dbpedia.org/resource/Johns_Hopkins_Bayview_Medical_Center,28.395
+http://dbpedia.org/resource/AdventHealth_Orlando,AdventHealth Orlando,http://dbpedia.org/resource/AdventHealth_Orlando,28.39
+http://dbpedia.org/resource/Columbus_State_Hospital,Columbus State Hospital,http://dbpedia.org/resource/Columbus_State_Hospital,28.365000000000006
+http://dbpedia.org/resource/New_children's_hospital,New children's hospital,http://dbpedia.org/resource/New_children's_hospital,28.31
+http://dbpedia.org/resource/West_Glasgow_Ambulatory_Care_Hospital,West Glasgow Ambulatory Care Hospital,http://dbpedia.org/resource/West_Glasgow_Ambulatory_Care_Hospital,28.284999999999997
+http://dbpedia.org/resource/Hollywood_Presbyterian_Medical_Center,Hollywood Presbyterian Medical Center,http://dbpedia.org/resource/Hollywood_Presbyterian_Medical_Center,28.239999999999995
+http://dbpedia.org/resource/Brigham_and_Women's_Hospital,Brigham and Women's Hospital,http://dbpedia.org/resource/Brigham_and_Women's_Hospital,28.215
+http://dbpedia.org/resource/Overlook_Medical_Center,Overlook Medical Center,http://dbpedia.org/resource/Overlook_Medical_Center,28.215
+http://dbpedia.org/resource/Stony_Brook_University_Hospital,Stony Brook University Hospital,http://dbpedia.org/resource/Stony_Brook_University_Hospital,28.179999999999996
+http://dbpedia.org/resource/East_Surrey_Hospital,East Surrey Hospital,http://dbpedia.org/resource/East_Surrey_Hospital,28.135000000000005
+http://dbpedia.org/resource/St._Mary's_Health_Campus,St. Mary's Health Campus,http://dbpedia.org/resource/St._Mary's_Health_Campus,28.12
+http://dbpedia.org/resource/St._Finbarr's_Hospital,St. Finbarr's Hospital,http://dbpedia.org/resource/St._Finbarr's_Hospital,28.12
+http://dbpedia.org/resource/St._Cloud_Hospital,St. Cloud Hospital,http://dbpedia.org/resource/St._Cloud_Hospital,28.09
+http://dbpedia.org/resource/Pamela_Youde_Nethersole_Eastern_Hospital,Pamela Youde Nethersole Eastern Hospital,http://dbpedia.org/resource/Pamela_Youde_Nethersole_Eastern_Hospital,28.060000000000002
+http://dbpedia.org/resource/R_Adams_Cowley_Shock_Trauma_Center,R Adams Cowley Shock Trauma Center,http://dbpedia.org/resource/R_Adams_Cowley_Shock_Trauma_Center,28.045000000000005
+http://dbpedia.org/resource/Penn_State_Health_Children's_Hospital,Penn State Health Children's Hospital,http://dbpedia.org/resource/Penn_State_Health_Children's_Hospital,28.025000000000002
+http://dbpedia.org/resource/Dana–Farber_Cancer_Institute,Dana–Farber Cancer Institute,http://dbpedia.org/resource/Dana–Farber_Cancer_Institute,28.025000000000002
+http://dbpedia.org/resource/Carney_Hospital,Carney Hospital,http://dbpedia.org/resource/Carney_Hospital,27.985000000000003
+http://dbpedia.org/resource/Royal_Dundee_Liff_Hospital,Royal Dundee Liff Hospital,http://dbpedia.org/resource/Royal_Dundee_Liff_Hospital,27.985
+http://dbpedia.org/resource/University_of_Iowa_Children's_Hospital,University of Iowa Children's Hospital,http://dbpedia.org/resource/University_of_Iowa_Children's_Hospital,27.929999999999996
+http://dbpedia.org/resource/Bryce_Hospital,Bryce Hospital,http://dbpedia.org/resource/Bryce_Hospital,27.89
+http://dbpedia.org/resource/Woodend_Hospital,Woodend Hospital,http://dbpedia.org/resource/Woodend_Hospital,27.86
+http://dbpedia.org/resource/Buntingford_almshouses,Buntingford almshouses,http://dbpedia.org/resource/Buntingford_almshouses,27.794999999999995
+http://dbpedia.org/resource/Boston_Psychopathic_Hospital,Boston Psychopathic Hospital,http://dbpedia.org/resource/Boston_Psychopathic_Hospital,27.75
+"http://dbpedia.org/resource/Mater_Private_Hospital,_Cork","Mater Private Hospital, Cork","http://dbpedia.org/resource/Mater_Private_Hospital,_Cork",27.710000000000004
+http://dbpedia.org/resource/Kennedy_Krieger_Institute,Kennedy Krieger Institute,http://dbpedia.org/resource/Kennedy_Krieger_Institute,27.699999999999996
+http://dbpedia.org/resource/Huronia_Regional_Centre,Huronia Regional Centre,http://dbpedia.org/resource/Huronia_Regional_Centre,27.675
+"http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_Hong_Kong","Queen Elizabeth Hospital, Hong Kong","http://dbpedia.org/resource/Queen_Elizabeth_Hospital,_Hong_Kong",27.634999999999998
+http://dbpedia.org/resource/Dr_Gray's_Hospital,Dr Gray's Hospital,http://dbpedia.org/resource/Dr_Gray's_Hospital,27.55
+"http://dbpedia.org/resource/The_Princess_Mary's_Hospital,_RAF_Akrotiri","The Princess Mary's Hospital, RAF Akrotiri","http://dbpedia.org/resource/The_Princess_Mary's_Hospital,_RAF_Akrotiri",27.55
+http://dbpedia.org/resource/UPMC_Mercy,UPMC Mercy,http://dbpedia.org/resource/UPMC_Mercy,27.545
+http://dbpedia.org/resource/Stracathro_Hospital,Stracathro Hospital,http://dbpedia.org/resource/Stracathro_Hospital,27.52
+http://dbpedia.org/resource/Dumfries_and_Galloway_Royal_Infirmary,Dumfries and Galloway Royal Infirmary,http://dbpedia.org/resource/Dumfries_and_Galloway_Royal_Infirmary,27.509999999999998
+http://dbpedia.org/resource/Tufts_Children's_Hospital,Tufts Children's Hospital,http://dbpedia.org/resource/Tufts_Children's_Hospital,27.455
+http://dbpedia.org/resource/Hahnemann_University_Hospital,Hahnemann University Hospital,http://dbpedia.org/resource/Hahnemann_University_Hospital,27.430000000000003
+http://dbpedia.org/resource/Huntington_Hospital,Huntington Hospital,http://dbpedia.org/resource/Huntington_Hospital,27.425
+http://dbpedia.org/resource/Tsan_Yuk_Hospital,Tsan Yuk Hospital,http://dbpedia.org/resource/Tsan_Yuk_Hospital,27.42
+http://dbpedia.org/resource/King's_Daughters_Medical_Center,King's Daughters Medical Center,http://dbpedia.org/resource/King's_Daughters_Medical_Center,27.265
+"http://dbpedia.org/resource/St_John's_Hospital,_Livingston","St John's Hospital, Livingston","http://dbpedia.org/resource/St_John's_Hospital,_Livingston",27.265
+http://dbpedia.org/resource/Royal_Hospital_for_Children_and_Young_People,Royal Hospital for Children and Young People,http://dbpedia.org/resource/Royal_Hospital_for_Children_and_Young_People,27.254999999999995
+http://dbpedia.org/resource/Brookdale_University_Hospital_and_Medical_Center,Brookdale University Hospital and Medical Center,http://dbpedia.org/resource/Brookdale_University_Hospital_and_Medical_Center,27.209999999999997
+http://dbpedia.org/resource/Crossroads_Centre,Crossroads Centre,http://dbpedia.org/resource/Crossroads_Centre,27.195
+"http://dbpedia.org/resource/Seventh-day_Adventist_Hospital,_Ottapalam","Seventh-day Adventist Hospital, Ottapalam","http://dbpedia.org/resource/Seventh-day_Adventist_Hospital,_Ottapalam",27.17
+http://dbpedia.org/resource/UF_Health_Jacksonville,UF Health Jacksonville,http://dbpedia.org/resource/UF_Health_Jacksonville,27.14
+http://dbpedia.org/resource/Leanchoil_Hospital,Leanchoil Hospital,http://dbpedia.org/resource/Leanchoil_Hospital,27.14
+http://dbpedia.org/resource/Iloilo_Mission_Hospital,Iloilo Mission Hospital,http://dbpedia.org/resource/Iloilo_Mission_Hospital,27.09
+"http://dbpedia.org/resource/Royal_Victoria_Hospital,_Edinburgh","Royal Victoria Hospital, Edinburgh","http://dbpedia.org/resource/Royal_Victoria_Hospital,_Edinburgh",27.084999999999997
+http://dbpedia.org/resource/Alvin_J._Siteman_Cancer_Center,Alvin J. Siteman Cancer Center,http://dbpedia.org/resource/Alvin_J._Siteman_Cancer_Center,26.99
+http://dbpedia.org/resource/Royal_Aberdeen_Children's_Hospital,Royal Aberdeen Children's Hospital,http://dbpedia.org/resource/Royal_Aberdeen_Children's_Hospital,26.980000000000004
+http://dbpedia.org/resource/Nationwide_Children's_Hospital,Nationwide Children's Hospital,http://dbpedia.org/resource/Nationwide_Children's_Hospital,26.979999999999997
+"http://dbpedia.org/resource/Chalmers_Hospital,_Banff","Chalmers Hospital, Banff","http://dbpedia.org/resource/Chalmers_Hospital,_Banff",26.945
+http://dbpedia.org/resource/Worthing_Hospital,Worthing Hospital,http://dbpedia.org/resource/Worthing_Hospital,26.925
+http://dbpedia.org/resource/Liberton_Hospital,Liberton Hospital,http://dbpedia.org/resource/Liberton_Hospital,26.874999999999996
+http://dbpedia.org/resource/Vanderbilt_University_Medical_Center,Vanderbilt University Medical Center,http://dbpedia.org/resource/Vanderbilt_University_Medical_Center,26.84
+http://dbpedia.org/resource/Singapore_General_Hospital,Singapore General Hospital,http://dbpedia.org/resource/Singapore_General_Hospital,26.84
+http://dbpedia.org/resource/Eisenhower_Medical_Center,Eisenhower Medical Center,http://dbpedia.org/resource/Eisenhower_Medical_Center,26.755000000000003
+http://dbpedia.org/resource/Creedmoor_Psychiatric_Center,Creedmoor Psychiatric Center,http://dbpedia.org/resource/Creedmoor_Psychiatric_Center,26.735000000000003
+http://dbpedia.org/resource/Wuhan_Jinyintan_Hospital,Wuhan Jinyintan Hospital,http://dbpedia.org/resource/Wuhan_Jinyintan_Hospital,26.725
+http://dbpedia.org/resource/Turriff_Cottage_Hospital,Turriff Cottage Hospital,http://dbpedia.org/resource/Turriff_Cottage_Hospital,26.659999999999997
+http://dbpedia.org/resource/New_Victoria_Hospital,New Victoria Hospital,http://dbpedia.org/resource/New_Victoria_Hospital,26.654999999999998
+http://dbpedia.org/resource/Gouverneur_Health,Gouverneur Health,http://dbpedia.org/resource/Gouverneur_Health,26.654999999999998
+http://dbpedia.org/resource/Riley_Hospital_for_Children,Riley Hospital for Children,http://dbpedia.org/resource/Riley_Hospital_for_Children,26.610000000000003
+http://dbpedia.org/resource/Lehigh_Valley_Hospital–Cedar_Crest,Lehigh Valley Hospital–Cedar Crest,http://dbpedia.org/resource/Lehigh_Valley_Hospital–Cedar_Crest,26.6
+http://dbpedia.org/resource/Vale_of_Leven_Hospital,Vale of Leven Hospital,http://dbpedia.org/resource/Vale_of_Leven_Hospital,26.580000000000002
+http://dbpedia.org/resource/Good_Samaritan_Hospital_(Los_Angeles),Good Samaritan Hospital (Los Angeles),http://dbpedia.org/resource/Good_Samaritan_Hospital_(Los_Angeles),26.55
+http://dbpedia.org/resource/Ohio_State_East_Hospital,Ohio State East Hospital,http://dbpedia.org/resource/Ohio_State_East_Hospital,26.525000000000002
+http://dbpedia.org/resource/Maristan_of_Sidi_Frej,Maristan of Sidi Frej,http://dbpedia.org/resource/Maristan_of_Sidi_Frej,26.525000000000002
+http://dbpedia.org/resource/C.S._Mott_Children's_Hospital,C.S. Mott Children's Hospital,http://dbpedia.org/resource/C.S._Mott_Children's_Hospital,26.505000000000003
+http://dbpedia.org/resource/International_Specialized_Hospital_of_Uganda,International Specialized Hospital of Uganda,http://dbpedia.org/resource/International_Specialized_Hospital_of_Uganda,26.504999999999995
+http://dbpedia.org/resource/Spring_Grove_Hospital_Center,Spring Grove Hospital Center,http://dbpedia.org/resource/Spring_Grove_Hospital_Center,26.459999999999997
+http://dbpedia.org/resource/Ohio_State_University_Wexner_Medical_Center,Ohio State University Wexner Medical Center,http://dbpedia.org/resource/Ohio_State_University_Wexner_Medical_Center,26.445
+"http://dbpedia.org/resource/Mercy_Medical_Center_(Springfield,_Massachusetts)","Mercy Medical Center (Springfield, Massachusetts)","http://dbpedia.org/resource/Mercy_Medical_Center_(Springfield,_Massachusetts)",26.439999999999998
+http://dbpedia.org/resource/St._Agnes_Hospital_(Baltimore),St. Agnes Hospital (Baltimore),http://dbpedia.org/resource/St._Agnes_Hospital_(Baltimore),26.400000000000002
+http://dbpedia.org/resource/Adventist_Health_Glendale,Adventist Health Glendale,http://dbpedia.org/resource/Adventist_Health_Glendale,26.400000000000002
+http://dbpedia.org/resource/Utah_Valley_Hospital,Utah Valley Hospital,http://dbpedia.org/resource/Utah_Valley_Hospital,26.385000000000005
+http://dbpedia.org/resource/Kaabong_General_Hospital,Kaabong General Hospital,http://dbpedia.org/resource/Kaabong_General_Hospital,26.384999999999998
+"http://dbpedia.org/resource/Royal_Alexandra_Hospital,_Paisley","Royal Alexandra Hospital, Paisley","http://dbpedia.org/resource/Royal_Alexandra_Hospital,_Paisley",26.37
+"http://dbpedia.org/resource/County_Community_Hospital,_Invergordon","County Community Hospital, Invergordon","http://dbpedia.org/resource/County_Community_Hospital,_Invergordon",26.36
+http://dbpedia.org/resource/Erie_County_Medical_Center,Erie County Medical Center,http://dbpedia.org/resource/Erie_County_Medical_Center,26.335000000000004
+http://dbpedia.org/resource/Kowloon_Hospital,Kowloon Hospital,http://dbpedia.org/resource/Kowloon_Hospital,26.32
+http://dbpedia.org/resource/Memorial_Hermann–Texas_Medical_Center,Memorial Hermann–Texas Medical Center,http://dbpedia.org/resource/Memorial_Hermann–Texas_Medical_Center,26.314999999999998
+http://dbpedia.org/resource/Cowal_Community_Hospital,Cowal Community Hospital,http://dbpedia.org/resource/Cowal_Community_Hospital,26.189999999999998
+http://dbpedia.org/resource/Royal_Northern_Infirmary,Royal Northern Infirmary,http://dbpedia.org/resource/Royal_Northern_Infirmary,26.189999999999998
+http://dbpedia.org/resource/Bayley_Seton_Hospital,Bayley Seton Hospital,http://dbpedia.org/resource/Bayley_Seton_Hospital,26.185000000000002
+http://dbpedia.org/resource/Inverclyde_Royal_Hospital,Inverclyde Royal Hospital,http://dbpedia.org/resource/Inverclyde_Royal_Hospital,26.185
+http://dbpedia.org/resource/Migdale_Hospital,Migdale Hospital,http://dbpedia.org/resource/Migdale_Hospital,26.17
+http://dbpedia.org/resource/CoRSU_Rehabilitation_Hospital,CoRSU Rehabilitation Hospital,http://dbpedia.org/resource/CoRSU_Rehabilitation_Hospital,26.130000000000003
+http://dbpedia.org/resource/Hong_Kong_Baptist_Hospital,Hong Kong Baptist Hospital,http://dbpedia.org/resource/Hong_Kong_Baptist_Hospital,26.085000000000004
+http://dbpedia.org/resource/Kwong_Wah_Hospital,Kwong Wah Hospital,http://dbpedia.org/resource/Kwong_Wah_Hospital,26.02
+http://dbpedia.org/resource/St_Andrews_Community_Hospital,St Andrews Community Hospital,http://dbpedia.org/resource/St_Andrews_Community_Hospital,26.015
+"http://dbpedia.org/resource/Jubilee_Hospital,_Huntly","Jubilee Hospital, Huntly","http://dbpedia.org/resource/Jubilee_Hospital,_Huntly",25.985000000000003
+http://dbpedia.org/resource/Ian_Charles_Community_Hospital,Ian Charles Community Hospital,http://dbpedia.org/resource/Ian_Charles_Community_Hospital,25.985
+"http://dbpedia.org/resource/Lincoln_Hospital_(Durham,_North_Carolina)","Lincoln Hospital (Durham, North Carolina)","http://dbpedia.org/resource/Lincoln_Hospital_(Durham,_North_Carolina)",25.97
+http://dbpedia.org/resource/Whittingham_Hospital,Whittingham Hospital,http://dbpedia.org/resource/Whittingham_Hospital,25.97
+http://dbpedia.org/resource/Inova_Fairfax_Hospital,Inova Fairfax Hospital,http://dbpedia.org/resource/Inova_Fairfax_Hospital,25.92
+http://dbpedia.org/resource/Roxburghe_House,Roxburghe House,http://dbpedia.org/resource/Roxburghe_House,25.905
+http://dbpedia.org/resource/Midlothian_Community_Hospital,Midlothian Community Hospital,http://dbpedia.org/resource/Midlothian_Community_Hospital,25.880000000000003
+http://dbpedia.org/resource/Jackson_Memorial_Hospital,Jackson Memorial Hospital,http://dbpedia.org/resource/Jackson_Memorial_Hospital,25.87
+http://dbpedia.org/resource/Adventist_Health_Feather_River,Adventist Health Feather River,http://dbpedia.org/resource/Adventist_Health_Feather_River,25.86
+"http://dbpedia.org/resource/King_George_Hospital,_Visakhapatnam","King George Hospital, Visakhapatnam","http://dbpedia.org/resource/King_George_Hospital,_Visakhapatnam",25.85
+http://dbpedia.org/resource/Shushrusha_Citizens'_Co-operative_Hospital,Shushrusha Citizens' Co-operative Hospital,http://dbpedia.org/resource/Shushrusha_Citizens'_Co-operative_Hospital,25.84
+http://dbpedia.org/resource/Arkansas_Children's_Hospital,Arkansas Children's Hospital,http://dbpedia.org/resource/Arkansas_Children's_Hospital,25.84
+http://dbpedia.org/resource/Shaukat_Khanum_Memorial_Cancer_Hospital_and_Research_Centre,Shaukat Khanum Memorial Cancer Hospital and Research Centre,http://dbpedia.org/resource/Shaukat_Khanum_Memorial_Cancer_Hospital_and_Research_Centre,25.830000000000002
+http://dbpedia.org/resource/University_Hospital_Ayr,University Hospital Ayr,http://dbpedia.org/resource/University_Hospital_Ayr,25.804999999999996
+http://dbpedia.org/resource/Ben_Taub_Hospital,Ben Taub Hospital,http://dbpedia.org/resource/Ben_Taub_Hospital,25.78
+http://dbpedia.org/resource/Seafield_Hospital,Seafield Hospital,http://dbpedia.org/resource/Seafield_Hospital,25.709999999999997
+http://dbpedia.org/resource/University_of_Connecticut_Health_Center,University of Connecticut Health Center,http://dbpedia.org/resource/University_of_Connecticut_Health_Center,25.700000000000003
+http://dbpedia.org/resource/Insch_War_Memorial_Hospital,Insch War Memorial Hospital,http://dbpedia.org/resource/Insch_War_Memorial_Hospital,25.700000000000003
+http://dbpedia.org/resource/Saint_Thomas_-_Rutherford_Hospital,Saint Thomas - Rutherford Hospital,http://dbpedia.org/resource/Saint_Thomas_-_Rutherford_Hospital,25.685
+http://dbpedia.org/resource/North_General_Hospital,North General Hospital,http://dbpedia.org/resource/North_General_Hospital,25.675
+"http://dbpedia.org/resource/City_Hospital,_Aberdeen","City Hospital, Aberdeen","http://dbpedia.org/resource/City_Hospital,_Aberdeen",25.624999999999996
+http://dbpedia.org/resource/Fleming_Cottage_Hospital,Fleming Cottage Hospital,http://dbpedia.org/resource/Fleming_Cottage_Hospital,25.62
+"http://dbpedia.org/resource/Dunbar_Hospital,_Thurso","Dunbar Hospital, Thurso","http://dbpedia.org/resource/Dunbar_Hospital,_Thurso",25.599999999999998
+http://dbpedia.org/resource/Children's_Hospital_of_Michigan,Children's Hospital of Michigan,http://dbpedia.org/resource/Children's_Hospital_of_Michigan,25.555000000000003
+http://dbpedia.org/resource/Entebbe_Children's_Surgical_Hospital,Entebbe Children's Surgical Hospital,http://dbpedia.org/resource/Entebbe_Children's_Surgical_Hospital,25.555
+http://dbpedia.org/resource/Children's_Hospital_of_Orange_County,Children's Hospital of Orange County,http://dbpedia.org/resource/Children's_Hospital_of_Orange_County,25.555
+http://dbpedia.org/resource/Kincardine_Community_Hospital,Kincardine Community Hospital,http://dbpedia.org/resource/Kincardine_Community_Hospital,25.515
+http://dbpedia.org/resource/Islay_Hospital,Islay Hospital,http://dbpedia.org/resource/Islay_Hospital,25.505
+"http://dbpedia.org/resource/NHS_Centre_for_Integrative_Care,_Glasgow","NHS Centre for Integrative Care, Glasgow","http://dbpedia.org/resource/NHS_Centre_for_Integrative_Care,_Glasgow",25.485
+http://dbpedia.org/resource/St._Teresa's_Hospital,St. Teresa's Hospital,http://dbpedia.org/resource/St._Teresa's_Hospital,25.46
+http://dbpedia.org/resource/NYU_Langone_Hospital_–_Brooklyn,NYU Langone Hospital – Brooklyn,http://dbpedia.org/resource/NYU_Langone_Hospital_–_Brooklyn,25.459999999999997
+http://dbpedia.org/resource/Fairview_Training_Center,Fairview Training Center,http://dbpedia.org/resource/Fairview_Training_Center,25.450000000000003
+http://dbpedia.org/resource/Ross_Memorial_Hospital,Ross Memorial Hospital,http://dbpedia.org/resource/Ross_Memorial_Hospital,25.41
+http://dbpedia.org/resource/Lawson_Memorial_Hospital,Lawson Memorial Hospital,http://dbpedia.org/resource/Lawson_Memorial_Hospital,25.409999999999997
+http://dbpedia.org/resource/Mull_and_Iona_Community_Hospital,Mull and Iona Community Hospital,http://dbpedia.org/resource/Mull_and_Iona_Community_Hospital,25.405
+http://dbpedia.org/resource/NYU_Langone_Hospital_–_Long_Island,NYU Langone Hospital – Long Island,http://dbpedia.org/resource/NYU_Langone_Hospital_–_Long_Island,25.365000000000002
+http://dbpedia.org/resource/Bambino_Gesù_Hospital,Bambino Gesù Hospital,http://dbpedia.org/resource/Bambino_Gesù_Hospital,25.365000000000002
+http://dbpedia.org/resource/Richmond_University_Medical_Center,Richmond University Medical Center,http://dbpedia.org/resource/Richmond_University_Medical_Center,25.35
+http://dbpedia.org/resource/Indira_Gandhi_Co-operative_Hospital,Indira Gandhi Co-operative Hospital,http://dbpedia.org/resource/Indira_Gandhi_Co-operative_Hospital,25.325000000000003
+http://dbpedia.org/resource/Turner_Memorial_Hospital,Turner Memorial Hospital,http://dbpedia.org/resource/Turner_Memorial_Hospital,25.32
+http://dbpedia.org/resource/Centro_de_Apoio_Social_de_Runa,Centro de Apoio Social de Runa,http://dbpedia.org/resource/Centro_de_Apoio_Social_de_Runa,25.315
+http://dbpedia.org/resource/Mid_Argyll_Community_Hospital,Mid Argyll Community Hospital,http://dbpedia.org/resource/Mid_Argyll_Community_Hospital,25.314999999999998
+http://dbpedia.org/resource/Wick_Town_and_County_Hospital,Wick Town and County Hospital,http://dbpedia.org/resource/Wick_Town_and_County_Hospital,25.310000000000002
+http://dbpedia.org/resource/Campbeltown_Hospital,Campbeltown Hospital,http://dbpedia.org/resource/Campbeltown_Hospital,25.310000000000002
+http://dbpedia.org/resource/Edington_Cottage_Hospital,Edington Cottage Hospital,http://dbpedia.org/resource/Edington_Cottage_Hospital,25.295
+http://dbpedia.org/resource/Kisubi_Hospital,Kisubi Hospital,http://dbpedia.org/resource/Kisubi_Hospital,25.28
+http://dbpedia.org/resource/David_Grant_USAF_Medical_Center,David Grant USAF Medical Center,http://dbpedia.org/resource/David_Grant_USAF_Medical_Center,25.25
+http://dbpedia.org/resource/St._Vincent_Charity_Medical_Center,St. Vincent Charity Medical Center,http://dbpedia.org/resource/St._Vincent_Charity_Medical_Center,25.235
+http://dbpedia.org/resource/Fraserburgh_Hospital,Fraserburgh Hospital,http://dbpedia.org/resource/Fraserburgh_Hospital,25.224999999999998
+http://dbpedia.org/resource/Portree_Hospital,Portree Hospital,http://dbpedia.org/resource/Portree_Hospital,25.215000000000003
+http://dbpedia.org/resource/Calvary_Wakefield_Hospital,Calvary Wakefield Hospital,http://dbpedia.org/resource/Calvary_Wakefield_Hospital,25.215000000000003
+http://dbpedia.org/resource/John_Muir_Health,John Muir Health,http://dbpedia.org/resource/John_Muir_Health,25.215
+http://dbpedia.org/resource/Callan_Park_Hospital_for_the_Insane,Callan Park Hospital for the Insane,http://dbpedia.org/resource/Callan_Park_Hospital_for_the_Insane,25.18
+http://dbpedia.org/resource/Queen_Alexandra_Hospital,Queen Alexandra Hospital,http://dbpedia.org/resource/Queen_Alexandra_Hospital,25.17
+http://dbpedia.org/resource/Stephen_Cottage_Hospital,Stephen Cottage Hospital,http://dbpedia.org/resource/Stephen_Cottage_Hospital,25.14
+http://dbpedia.org/resource/Greystone_Park_Psychiatric_Hospital,Greystone Park Psychiatric Hospital,http://dbpedia.org/resource/Greystone_Park_Psychiatric_Hospital,25.125
+http://dbpedia.org/resource/George_Washington_University_Hospital,George Washington University Hospital,http://dbpedia.org/resource/George_Washington_University_Hospital,25.115
+http://dbpedia.org/resource/National_Hospital_of_Sri_Lanka,National Hospital of Sri Lanka,http://dbpedia.org/resource/National_Hospital_of_Sri_Lanka,25.105000000000004
+http://dbpedia.org/resource/Entebbe_General_Hospital,Entebbe General Hospital,http://dbpedia.org/resource/Entebbe_General_Hospital,25.095
+http://dbpedia.org/resource/Uro_Care_Hospital,Uro Care Hospital,http://dbpedia.org/resource/Uro_Care_Hospital,25.07
+http://dbpedia.org/resource/Queen_Victoria_Hospital,Queen Victoria Hospital,http://dbpedia.org/resource/Queen_Victoria_Hospital,25.064999999999998
+http://dbpedia.org/resource/Evangel_Hospital,Evangel Hospital,http://dbpedia.org/resource/Evangel_Hospital,25.064999999999998
+"http://dbpedia.org/resource/The_Oaks,_Elgin","The Oaks, Elgin","http://dbpedia.org/resource/The_Oaks,_Elgin",25.045
+http://dbpedia.org/resource/St._Elizabeth_Health_Services,St. Elizabeth Health Services,http://dbpedia.org/resource/St._Elizabeth_Health_Services,25.03
+http://dbpedia.org/resource/Belhaven_Hospital,Belhaven Hospital,http://dbpedia.org/resource/Belhaven_Hospital,25.015
+http://dbpedia.org/resource/Borders_General_Hospital,Borders General Hospital,http://dbpedia.org/resource/Borders_General_Hospital,25.0
+http://dbpedia.org/resource/Peterhead_Community_Hospital,Peterhead Community Hospital,http://dbpedia.org/resource/Peterhead_Community_Hospital,24.939999999999998
+http://dbpedia.org/resource/Ahmedabad_Civil_Hospital,Ahmedabad Civil Hospital,http://dbpedia.org/resource/Ahmedabad_Civil_Hospital,24.9
+http://dbpedia.org/resource/Arbroath_Infirmary,Arbroath Infirmary,http://dbpedia.org/resource/Arbroath_Infirmary,24.895
+"http://dbpedia.org/resource/St_Michael's_Hospital,_Linlithgow","St Michael's Hospital, Linlithgow","http://dbpedia.org/resource/St_Michael's_Hospital,_Linlithgow",24.89
+http://dbpedia.org/resource/South_Shore_Hospital,South Shore Hospital,http://dbpedia.org/resource/South_Shore_Hospital,24.880000000000003
+http://dbpedia.org/resource/Sheba_Medical_Center,Sheba Medical Center,http://dbpedia.org/resource/Sheba_Medical_Center,24.865000000000002
+http://dbpedia.org/resource/Cleland_Hospital,Cleland Hospital,http://dbpedia.org/resource/Cleland_Hospital,24.865000000000002
+http://dbpedia.org/resource/Sidney_&_Lois_Eskenazi_Hospital,Sidney & Lois Eskenazi Hospital,http://dbpedia.org/resource/Sidney_&_Lois_Eskenazi_Hospital,24.795
+http://dbpedia.org/resource/Arran_War_Memorial_Hospital,Arran War Memorial Hospital,http://dbpedia.org/resource/Arran_War_Memorial_Hospital,24.785
+http://dbpedia.org/resource/Miami_Valley_Hospital,Miami Valley Hospital,http://dbpedia.org/resource/Miami_Valley_Hospital,24.775
+http://dbpedia.org/resource/Inverurie_Hospital,Inverurie Hospital,http://dbpedia.org/resource/Inverurie_Hospital,24.755
+http://dbpedia.org/resource/Aboyne_Hospital,Aboyne Hospital,http://dbpedia.org/resource/Aboyne_Hospital,24.75
+http://dbpedia.org/resource/Royal_Columbian_Hospital,Royal Columbian Hospital,http://dbpedia.org/resource/Royal_Columbian_Hospital,24.745
+http://dbpedia.org/resource/University_of_Alberta_Hospital,University of Alberta Hospital,http://dbpedia.org/resource/University_of_Alberta_Hospital,24.725
+http://dbpedia.org/resource/East_Lothian_Community_Hospital,East Lothian Community Hospital,http://dbpedia.org/resource/East_Lothian_Community_Hospital,24.71
+http://dbpedia.org/resource/Entebbe_Military_Hospital,Entebbe Military Hospital,http://dbpedia.org/resource/Entebbe_Military_Hospital,24.695
+http://dbpedia.org/resource/Lancaster_Moor_Hospital,Lancaster Moor Hospital,http://dbpedia.org/resource/Lancaster_Moor_Hospital,24.655
+http://dbpedia.org/resource/Arrowhead_Regional_Medical_Center,Arrowhead Regional Medical Center,http://dbpedia.org/resource/Arrowhead_Regional_Medical_Center,24.645
+http://dbpedia.org/resource/Tippethill_House_Hospital,Tippethill House Hospital,http://dbpedia.org/resource/Tippethill_House_Hospital,24.64
+http://dbpedia.org/resource/Loma_Linda_University_Medical_Center,Loma Linda University Medical Center,http://dbpedia.org/resource/Loma_Linda_University_Medical_Center,24.615
+http://dbpedia.org/resource/Carseview_Centre,Carseview Centre,http://dbpedia.org/resource/Carseview_Centre,24.599999999999998

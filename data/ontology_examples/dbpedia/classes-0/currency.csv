@@ -1,0 +1,460 @@
+id,label,source,score
+http://dbpedia.org/resource/United_States_dollar,United States dollar,http://dbpedia.org/resource/United_States_dollar,366.93000000000006
+http://dbpedia.org/resource/Pound_sterling,Pound sterling,http://dbpedia.org/resource/Pound_sterling,309.73
+http://dbpedia.org/resource/Euro,Euro,http://dbpedia.org/resource/Euro,234.15
+http://dbpedia.org/resource/Indian_rupee,Indian rupee,http://dbpedia.org/resource/Indian_rupee,190.555
+http://dbpedia.org/resource/Vietnamese_cash,Vietnamese cash,http://dbpedia.org/resource/Vietnamese_cash,159.64
+http://dbpedia.org/resource/Renminbi,Renminbi,http://dbpedia.org/resource/Renminbi,159.235
+http://dbpedia.org/resource/Mexican_peso,Mexican peso,http://dbpedia.org/resource/Mexican_peso,127.25999999999999
+http://dbpedia.org/resource/Polish_złoty,Polish złoty,http://dbpedia.org/resource/Polish_złoty,126.825
+http://dbpedia.org/resource/Japanese_yen,Japanese yen,http://dbpedia.org/resource/Japanese_yen,124.56
+http://dbpedia.org/resource/Australian_dollar,Australian dollar,http://dbpedia.org/resource/Australian_dollar,120.93
+http://dbpedia.org/resource/Confederate_States_dollar,Confederate States dollar,http://dbpedia.org/resource/Confederate_States_dollar,119.17499999999998
+http://dbpedia.org/resource/Russian_ruble,Russian ruble,http://dbpedia.org/resource/Russian_ruble,116.09000000000002
+http://dbpedia.org/resource/Philippine_peso,Philippine peso,http://dbpedia.org/resource/Philippine_peso,113.29999999999998
+http://dbpedia.org/resource/Canadian_dollar,Canadian dollar,http://dbpedia.org/resource/Canadian_dollar,109.33999999999999
+http://dbpedia.org/resource/Hong_Kong_dollar,Hong Kong dollar,http://dbpedia.org/resource/Hong_Kong_dollar,105.52000000000001
+http://dbpedia.org/resource/French_franc,French franc,http://dbpedia.org/resource/French_franc,105.29000000000002
+http://dbpedia.org/resource/Swiss_franc,Swiss franc,http://dbpedia.org/resource/Swiss_franc,103.855
+http://dbpedia.org/resource/Turkish_lira,Turkish lira,http://dbpedia.org/resource/Turkish_lira,96.18
+http://dbpedia.org/resource/Brazilian_real,Brazilian real,http://dbpedia.org/resource/Brazilian_real,89.755
+http://dbpedia.org/resource/Korean_mun,Korean mun,http://dbpedia.org/resource/Korean_mun,88.435
+http://dbpedia.org/resource/Zimbabwean_dollar,Zimbabwean dollar,http://dbpedia.org/resource/Zimbabwean_dollar,87.27499999999999
+http://dbpedia.org/resource/Venezuelan_bolívar,Venezuelan bolívar,http://dbpedia.org/resource/Venezuelan_bolívar,86.45
+http://dbpedia.org/resource/Malaysian_ringgit,Malaysian ringgit,http://dbpedia.org/resource/Malaysian_ringgit,84.92000000000002
+http://dbpedia.org/resource/Deutsche_Mark,Deutsche Mark,http://dbpedia.org/resource/Deutsche_Mark,84.395
+http://dbpedia.org/resource/Egyptian_pound,Egyptian pound,http://dbpedia.org/resource/Egyptian_pound,84.32499999999999
+http://dbpedia.org/resource/Iranian_rial,Iranian rial,http://dbpedia.org/resource/Iranian_rial,82.77
+http://dbpedia.org/resource/Ukrainian_hryvnia,Ukrainian hryvnia,http://dbpedia.org/resource/Ukrainian_hryvnia,79.165
+http://dbpedia.org/resource/New_Taiwan_dollar,New Taiwan dollar,http://dbpedia.org/resource/New_Taiwan_dollar,78.31
+http://dbpedia.org/resource/Danish_krone,Danish krone,http://dbpedia.org/resource/Danish_krone,77.68
+http://dbpedia.org/resource/Romanian_leu,Romanian leu,http://dbpedia.org/resource/Romanian_leu,75.625
+http://dbpedia.org/resource/South_African_rand,South African rand,http://dbpedia.org/resource/South_African_rand,75.39
+http://dbpedia.org/resource/Currencies_of_Puerto_Rico,Currencies of Puerto Rico,http://dbpedia.org/resource/Currencies_of_Puerto_Rico,74.41000000000001
+http://dbpedia.org/resource/Gibraltar_pound,Gibraltar pound,http://dbpedia.org/resource/Gibraltar_pound,74.39
+http://dbpedia.org/resource/Czech_koruna,Czech koruna,http://dbpedia.org/resource/Czech_koruna,73.62499999999999
+http://dbpedia.org/resource/Singapore_dollar,Singapore dollar,http://dbpedia.org/resource/Singapore_dollar,73.175
+http://dbpedia.org/resource/Swedish_krona,Swedish krona,http://dbpedia.org/resource/Swedish_krona,73.14
+http://dbpedia.org/resource/Bangladeshi_taka,Bangladeshi taka,http://dbpedia.org/resource/Bangladeshi_taka,72.935
+http://dbpedia.org/resource/Croatian_kuna,Croatian kuna,http://dbpedia.org/resource/Croatian_kuna,72.895
+http://dbpedia.org/resource/Italian_lira,Italian lira,http://dbpedia.org/resource/Italian_lira,72.80499999999999
+http://dbpedia.org/resource/Georgian_lari,Georgian lari,http://dbpedia.org/resource/Georgian_lari,72.465
+http://dbpedia.org/resource/Soviet_ruble,Soviet ruble,http://dbpedia.org/resource/Soviet_ruble,71.05
+http://dbpedia.org/resource/Thai_baht,Thai baht,http://dbpedia.org/resource/Thai_baht,70.355
+http://dbpedia.org/resource/Kazakhstani_tenge,Kazakhstani tenge,http://dbpedia.org/resource/Kazakhstani_tenge,68.74
+http://dbpedia.org/resource/Hungarian_forint,Hungarian forint,http://dbpedia.org/resource/Hungarian_forint,68.675
+http://dbpedia.org/resource/Pakistani_rupee,Pakistani rupee,http://dbpedia.org/resource/Pakistani_rupee,67.135
+http://dbpedia.org/resource/Sri_Lankan_rupee,Sri Lankan rupee,http://dbpedia.org/resource/Sri_Lankan_rupee,65.175
+http://dbpedia.org/resource/New_Zealand_dollar,New Zealand dollar,http://dbpedia.org/resource/New_Zealand_dollar,64.61
+http://dbpedia.org/resource/Albanian_lek,Albanian lek,http://dbpedia.org/resource/Albanian_lek,64.34
+http://dbpedia.org/resource/Dutch_guilder,Dutch guilder,http://dbpedia.org/resource/Dutch_guilder,63.98
+http://dbpedia.org/resource/Sudanese_pound,Sudanese pound,http://dbpedia.org/resource/Sudanese_pound,63.07000000000001
+http://dbpedia.org/resource/Reichsmark,Reichsmark,http://dbpedia.org/resource/Reichsmark,62.28
+http://dbpedia.org/resource/Jersey_pound,Jersey pound,http://dbpedia.org/resource/Jersey_pound,62.24
+http://dbpedia.org/resource/Spanish_peseta,Spanish peseta,http://dbpedia.org/resource/Spanish_peseta,61.209999999999994
+http://dbpedia.org/resource/Azerbaijani_manat,Azerbaijani manat,http://dbpedia.org/resource/Azerbaijani_manat,61.084999999999994
+http://dbpedia.org/resource/Digital_renminbi,Digital renminbi,http://dbpedia.org/resource/Digital_renminbi,60.43000000000001
+http://dbpedia.org/resource/Iraqi_dinar,Iraqi dinar,http://dbpedia.org/resource/Iraqi_dinar,60.169999999999995
+http://dbpedia.org/resource/Armenian_dram,Armenian dram,http://dbpedia.org/resource/Armenian_dram,60.050000000000004
+http://dbpedia.org/resource/Belarusian_ruble,Belarusian ruble,http://dbpedia.org/resource/Belarusian_ruble,59.875
+http://dbpedia.org/resource/Lithuanian_litas,Lithuanian litas,http://dbpedia.org/resource/Lithuanian_litas,59.54999999999999
+http://dbpedia.org/resource/Nigerian_naira,Nigerian naira,http://dbpedia.org/resource/Nigerian_naira,58.785000000000004
+http://dbpedia.org/resource/Israeli_new_shekel,Israeli new shekel,http://dbpedia.org/resource/Israeli_new_shekel,58.58
+http://dbpedia.org/resource/Falkland_Islands_pound,Falkland Islands pound,http://dbpedia.org/resource/Falkland_Islands_pound,58.14
+http://dbpedia.org/resource/Vietnamese_đồng,Vietnamese đồng,http://dbpedia.org/resource/Vietnamese_đồng,57.19
+http://dbpedia.org/resource/Bulgarian_lev,Bulgarian lev,http://dbpedia.org/resource/Bulgarian_lev,56.53
+http://dbpedia.org/resource/Australian_pound,Australian pound,http://dbpedia.org/resource/Australian_pound,56.455
+http://dbpedia.org/resource/Cuban_peso,Cuban peso,http://dbpedia.org/resource/Cuban_peso,55.925000000000004
+http://dbpedia.org/resource/Maltese_lira,Maltese lira,http://dbpedia.org/resource/Maltese_lira,55.92000000000001
+http://dbpedia.org/resource/Indonesian_rupiah,Indonesian rupiah,http://dbpedia.org/resource/Indonesian_rupiah,55.065
+http://dbpedia.org/resource/Estonian_kroon,Estonian kroon,http://dbpedia.org/resource/Estonian_kroon,55.015
+http://dbpedia.org/resource/Islamic_State_dinar,Islamic State dinar,http://dbpedia.org/resource/Islamic_State_dinar,54.61000000000001
+http://dbpedia.org/resource/Bermudian_dollar,Bermudian dollar,http://dbpedia.org/resource/Bermudian_dollar,53.94
+http://dbpedia.org/resource/Ghanaian_cedi,Ghanaian cedi,http://dbpedia.org/resource/Ghanaian_cedi,52.75999999999999
+http://dbpedia.org/resource/Finnish_markka,Finnish markka,http://dbpedia.org/resource/Finnish_markka,52.59
+http://dbpedia.org/resource/Colombian_peso,Colombian peso,http://dbpedia.org/resource/Colombian_peso,52.08
+http://dbpedia.org/resource/Macanese_pataca,Macanese pataca,http://dbpedia.org/resource/Macanese_pataca,51.94
+http://dbpedia.org/resource/Cambodian_riel,Cambodian riel,http://dbpedia.org/resource/Cambodian_riel,51.379999999999995
+http://dbpedia.org/resource/Special_drawing_rights,Special drawing rights,http://dbpedia.org/resource/Special_drawing_rights,50.895
+http://dbpedia.org/resource/Palestine_pound,Palestine pound,http://dbpedia.org/resource/Palestine_pound,50.1
+http://dbpedia.org/resource/Myanmar_kyat,Myanmar kyat,http://dbpedia.org/resource/Myanmar_kyat,49.900000000000006
+http://dbpedia.org/resource/Zambian_kwacha,Zambian kwacha,http://dbpedia.org/resource/Zambian_kwacha,49.42
+http://dbpedia.org/resource/Irish_pound,Irish pound,http://dbpedia.org/resource/Irish_pound,49.129999999999995
+http://dbpedia.org/resource/Tanzanian_shilling,Tanzanian shilling,http://dbpedia.org/resource/Tanzanian_shilling,48.325
+http://dbpedia.org/resource/Brunei_dollar,Brunei dollar,http://dbpedia.org/resource/Brunei_dollar,48.24
+http://dbpedia.org/resource/Slovenian_tolar,Slovenian tolar,http://dbpedia.org/resource/Slovenian_tolar,48.205
+http://dbpedia.org/resource/Eastern_Caribbean_dollar,Eastern Caribbean dollar,http://dbpedia.org/resource/Eastern_Caribbean_dollar,48.199999999999996
+http://dbpedia.org/resource/Cypriot_pound,Cypriot pound,http://dbpedia.org/resource/Cypriot_pound,47.18000000000001
+http://dbpedia.org/resource/Macedonian_denar,Macedonian denar,http://dbpedia.org/resource/Macedonian_denar,47.135
+http://dbpedia.org/resource/Uzbekistani_sum,Uzbekistani sum,http://dbpedia.org/resource/Uzbekistani_sum,46.97
+http://dbpedia.org/resource/Norwegian_krone,Norwegian krone,http://dbpedia.org/resource/Norwegian_krone,46.86
+http://dbpedia.org/resource/Kenyan_shilling,Kenyan shilling,http://dbpedia.org/resource/Kenyan_shilling,46.59
+http://dbpedia.org/resource/African_Development_Bank,African Development Bank,http://dbpedia.org/resource/African_Development_Bank,46.58500000000001
+http://dbpedia.org/resource/Latvian_lats,Latvian lats,http://dbpedia.org/resource/Latvian_lats,46.505
+http://dbpedia.org/resource/Lao_kip,Lao kip,http://dbpedia.org/resource/Lao_kip,45.63
+http://dbpedia.org/resource/Argentine_peso,Argentine peso,http://dbpedia.org/resource/Argentine_peso,45.605000000000004
+http://dbpedia.org/resource/Bosnia_and_Herzegovina_convertible_mark,Bosnia and Herzegovina convertible mark,http://dbpedia.org/resource/Bosnia_and_Herzegovina_convertible_mark,45.580000000000005
+http://dbpedia.org/resource/North_Korean_won,North Korean won,http://dbpedia.org/resource/North_Korean_won,45.5
+http://dbpedia.org/resource/Syrian_pound,Syrian pound,http://dbpedia.org/resource/Syrian_pound,45.135
+http://dbpedia.org/resource/Portuguese_escudo,Portuguese escudo,http://dbpedia.org/resource/Portuguese_escudo,44.825
+http://dbpedia.org/resource/Serbian_dinar,Serbian dinar,http://dbpedia.org/resource/Serbian_dinar,44.620000000000005
+http://dbpedia.org/resource/Luxembourg_franc,Luxembourg franc,http://dbpedia.org/resource/Luxembourg_franc,44.205000000000005
+http://dbpedia.org/resource/Vietnamese_mạch,Vietnamese mạch,http://dbpedia.org/resource/Vietnamese_mạch,44.175000000000004
+http://dbpedia.org/resource/Somali_shilling,Somali shilling,http://dbpedia.org/resource/Somali_shilling,43.89000000000001
+http://dbpedia.org/resource/Zimbabwean_dollar_(2019–present),Zimbabwean dollar (2019–present),http://dbpedia.org/resource/Zimbabwean_dollar_(2019–present),43.7
+http://dbpedia.org/resource/Israeli_pound,Israeli pound,http://dbpedia.org/resource/Israeli_pound,43.675000000000004
+http://dbpedia.org/resource/Belgian_franc,Belgian franc,http://dbpedia.org/resource/Belgian_franc,43.525
+http://dbpedia.org/resource/Jamaican_dollar,Jamaican dollar,http://dbpedia.org/resource/Jamaican_dollar,43.415
+http://dbpedia.org/resource/Manx_pound,Manx pound,http://dbpedia.org/resource/Manx_pound,43.36500000000001
+http://dbpedia.org/resource/Papiermark,Papiermark,http://dbpedia.org/resource/Papiermark,42.96
+http://dbpedia.org/resource/Maltese_scudo,Maltese scudo,http://dbpedia.org/resource/Maltese_scudo,42.955
+http://dbpedia.org/resource/Nepalese_rupee,Nepalese rupee,http://dbpedia.org/resource/Nepalese_rupee,42.93
+http://dbpedia.org/resource/Fijian_dollar,Fijian dollar,http://dbpedia.org/resource/Fijian_dollar,42.715
+http://dbpedia.org/resource/Vatican_lira,Vatican lira,http://dbpedia.org/resource/Vatican_lira,42.620000000000005
+http://dbpedia.org/resource/European_Currency_Unit,European Currency Unit,http://dbpedia.org/resource/European_Currency_Unit,42.25
+http://dbpedia.org/resource/Korean_won,Korean won,http://dbpedia.org/resource/Korean_won,42.019999999999996
+http://dbpedia.org/resource/Banknotes_of_the_Hong_Kong_dollar,Banknotes of the Hong Kong dollar,http://dbpedia.org/resource/Banknotes_of_the_Hong_Kong_dollar,41.81
+http://dbpedia.org/resource/Liberian_dollar,Liberian dollar,http://dbpedia.org/resource/Liberian_dollar,41.805
+http://dbpedia.org/resource/New_Generation_Currency_Series,New Generation Currency Series,http://dbpedia.org/resource/New_Generation_Currency_Series,41.77
+http://dbpedia.org/resource/Afghan_afghani,Afghan afghani,http://dbpedia.org/resource/Afghan_afghani,41.735
+http://dbpedia.org/resource/Chilean_peso,Chilean peso,http://dbpedia.org/resource/Chilean_peso,41.68
+http://dbpedia.org/resource/Slovak_koruna,Slovak koruna,http://dbpedia.org/resource/Slovak_koruna,41.34
+http://dbpedia.org/resource/Bahamian_dollar,Bahamian dollar,http://dbpedia.org/resource/Bahamian_dollar,41.34
+http://dbpedia.org/resource/Turkmenistani_manat,Turkmenistani manat,http://dbpedia.org/resource/Turkmenistani_manat,40.660000000000004
+http://dbpedia.org/resource/Gold_as_an_investment,Gold as an investment,http://dbpedia.org/resource/Gold_as_an_investment,40.365
+http://dbpedia.org/resource/Nicaraguan_córdoba,Nicaraguan córdoba,http://dbpedia.org/resource/Nicaraguan_córdoba,40.185
+http://dbpedia.org/resource/Lebanese_pound,Lebanese pound,http://dbpedia.org/resource/Lebanese_pound,39.455000000000005
+http://dbpedia.org/resource/Icelandic_króna,Icelandic króna,http://dbpedia.org/resource/Icelandic_króna,39.14
+http://dbpedia.org/resource/Pound_Scots,Pound Scots,http://dbpedia.org/resource/Pound_Scots,39.09
+http://dbpedia.org/resource/South_Sudanese_pound,South Sudanese pound,http://dbpedia.org/resource/South_Sudanese_pound,38.785
+http://dbpedia.org/resource/Saudi_riyal,Saudi riyal,http://dbpedia.org/resource/Saudi_riyal,38.22
+http://dbpedia.org/resource/Cuban_convertible_peso,Cuban convertible peso,http://dbpedia.org/resource/Cuban_convertible_peso,38.010000000000005
+http://dbpedia.org/resource/Saint_Helena_pound,Saint Helena pound,http://dbpedia.org/resource/Saint_Helena_pound,37.905
+http://dbpedia.org/resource/Angolan_kwanza,Angolan kwanza,http://dbpedia.org/resource/Angolan_kwanza,37.580000000000005
+http://dbpedia.org/resource/Belize_dollar,Belize dollar,http://dbpedia.org/resource/Belize_dollar,37.515
+http://dbpedia.org/resource/Artsakh_dram,Artsakh dram,http://dbpedia.org/resource/Artsakh_dram,37.43
+http://dbpedia.org/resource/Trinidad_and_Tobago_dollar,Trinidad and Tobago dollar,http://dbpedia.org/resource/Trinidad_and_Tobago_dollar,37.4
+http://dbpedia.org/resource/Guernsey_pound,Guernsey pound,http://dbpedia.org/resource/Guernsey_pound,37.215
+http://dbpedia.org/resource/Central_African_CFA_franc,Central African CFA franc,http://dbpedia.org/resource/Central_African_CFA_franc,36.78
+http://dbpedia.org/resource/Danzig_gulden,Danzig gulden,http://dbpedia.org/resource/Danzig_gulden,36.725
+http://dbpedia.org/resource/Barbadian_dollar,Barbadian dollar,http://dbpedia.org/resource/Barbadian_dollar,36.625
+http://dbpedia.org/resource/Microsoft_Points,Microsoft Points,http://dbpedia.org/resource/Microsoft_Points,36.44
+http://dbpedia.org/resource/Ugandan_shilling,Ugandan shilling,http://dbpedia.org/resource/Ugandan_shilling,36.425
+http://dbpedia.org/resource/Old_Taiwan_dollar,Old Taiwan dollar,http://dbpedia.org/resource/Old_Taiwan_dollar,36.22
+http://dbpedia.org/resource/Transnistrian_ruble,Transnistrian ruble,http://dbpedia.org/resource/Transnistrian_ruble,36.14
+http://dbpedia.org/resource/CFP_franc,CFP franc,http://dbpedia.org/resource/CFP_franc,36.06
+http://dbpedia.org/resource/Disney_Dollars,Disney Dollars,http://dbpedia.org/resource/Disney_Dollars,35.91
+http://dbpedia.org/resource/Dominican_peso,Dominican peso,http://dbpedia.org/resource/Dominican_peso,35.7
+http://dbpedia.org/resource/Comorian_franc,Comorian franc,http://dbpedia.org/resource/Comorian_franc,35.690000000000005
+http://dbpedia.org/resource/French_Indochinese_piastre,French Indochinese piastre,http://dbpedia.org/resource/French_Indochinese_piastre,35.355
+http://dbpedia.org/resource/Sammarinese_lira,Sammarinese lira,http://dbpedia.org/resource/Sammarinese_lira,35.154999999999994
+http://dbpedia.org/resource/Botswana_pula,Botswana pula,http://dbpedia.org/resource/Botswana_pula,35.15
+http://dbpedia.org/resource/Uruguayan_peso,Uruguayan peso,http://dbpedia.org/resource/Uruguayan_peso,34.855
+http://dbpedia.org/resource/West_African_CFA_franc,West African CFA franc,http://dbpedia.org/resource/West_African_CFA_franc,34.645
+http://dbpedia.org/resource/Ethiopian_birr,Ethiopian birr,http://dbpedia.org/resource/Ethiopian_birr,34.625
+http://dbpedia.org/resource/Mauritian_rupee,Mauritian rupee,http://dbpedia.org/resource/Mauritian_rupee,34.565
+http://dbpedia.org/resource/Djiboutian_franc,Djiboutian franc,http://dbpedia.org/resource/Djiboutian_franc,34.535
+http://dbpedia.org/resource/Ukrainian_karbovanets,Ukrainian karbovanets,http://dbpedia.org/resource/Ukrainian_karbovanets,34.504999999999995
+http://dbpedia.org/resource/Congolese_franc,Congolese franc,http://dbpedia.org/resource/Congolese_franc,34.395
+http://dbpedia.org/resource/East_African_shilling,East African shilling,http://dbpedia.org/resource/East_African_shilling,34.385
+http://dbpedia.org/resource/Costa_Rican_colón,Costa Rican colón,http://dbpedia.org/resource/Costa_Rican_colón,34.295
+http://dbpedia.org/resource/Guatemalan_quetzal,Guatemalan quetzal,http://dbpedia.org/resource/Guatemalan_quetzal,33.91
+http://dbpedia.org/resource/Algerian_dinar,Algerian dinar,http://dbpedia.org/resource/Algerian_dinar,33.68999999999999
+http://dbpedia.org/resource/New_Zealand_pound,New Zealand pound,http://dbpedia.org/resource/New_Zealand_pound,33.675000000000004
+http://dbpedia.org/resource/Bahraini_dinar,Bahraini dinar,http://dbpedia.org/resource/Bahraini_dinar,33.29
+http://dbpedia.org/resource/Monégasque_franc,Monégasque franc,http://dbpedia.org/resource/Monégasque_franc,33.154999999999994
+http://dbpedia.org/resource/Libyan_dinar,Libyan dinar,http://dbpedia.org/resource/Libyan_dinar,33.135
+http://dbpedia.org/resource/Peruvian_sol,Peruvian sol,http://dbpedia.org/resource/Peruvian_sol,33.004999999999995
+http://dbpedia.org/resource/Cape_Verdean_escudo,Cape Verdean escudo,http://dbpedia.org/resource/Cape_Verdean_escudo,32.559999999999995
+http://dbpedia.org/resource/Brazilian_real_(old),Brazilian real (old),http://dbpedia.org/resource/Brazilian_real_(old),32.355000000000004
+http://dbpedia.org/resource/Kuwaiti_dinar,Kuwaiti dinar,http://dbpedia.org/resource/Kuwaiti_dinar,32.335
+http://dbpedia.org/resource/Surinamese_dollar,Surinamese dollar,http://dbpedia.org/resource/Surinamese_dollar,32.305
+http://dbpedia.org/resource/Moldovan_leu,Moldovan leu,http://dbpedia.org/resource/Moldovan_leu,32.29
+http://dbpedia.org/resource/Honduran_lempira,Honduran lempira,http://dbpedia.org/resource/Honduran_lempira,32.254999999999995
+http://dbpedia.org/resource/Somaliland_shilling,Somaliland shilling,http://dbpedia.org/resource/Somaliland_shilling,31.950000000000003
+http://dbpedia.org/resource/Canadian_pound,Canadian pound,http://dbpedia.org/resource/Canadian_pound,31.935000000000002
+http://dbpedia.org/resource/Namibian_dollar,Namibian dollar,http://dbpedia.org/resource/Namibian_dollar,31.650000000000002
+http://dbpedia.org/resource/Rhodesian_pound,Rhodesian pound,http://dbpedia.org/resource/Rhodesian_pound,31.550000000000008
+http://dbpedia.org/resource/Bermudian_pound,Bermudian pound,http://dbpedia.org/resource/Bermudian_pound,31.49
+http://dbpedia.org/resource/Yugoslav_dinar,Yugoslav dinar,http://dbpedia.org/resource/Yugoslav_dinar,31.47
+http://dbpedia.org/resource/Rwandan_franc,Rwandan franc,http://dbpedia.org/resource/Rwandan_franc,31.35
+http://dbpedia.org/resource/Samoan_tālā,Samoan tālā,http://dbpedia.org/resource/Samoan_tālā,31.065000000000005
+http://dbpedia.org/resource/Maldivian_rufiyaa,Maldivian rufiyaa,http://dbpedia.org/resource/Maldivian_rufiyaa,30.689999999999998
+http://dbpedia.org/resource/Coinye,Coinye,http://dbpedia.org/resource/Coinye,30.64
+http://dbpedia.org/resource/Krajina_dinar,Krajina dinar,http://dbpedia.org/resource/Krajina_dinar,30.53
+http://dbpedia.org/resource/Newfoundland_dollar,Newfoundland dollar,http://dbpedia.org/resource/Newfoundland_dollar,30.52
+http://dbpedia.org/resource/Bhutanese_ngultrum,Bhutanese ngultrum,http://dbpedia.org/resource/Bhutanese_ngultrum,30.499999999999996
+http://dbpedia.org/resource/Panamanian_balboa,Panamanian balboa,http://dbpedia.org/resource/Panamanian_balboa,30.375
+http://dbpedia.org/resource/Guyanese_dollar,Guyanese dollar,http://dbpedia.org/resource/Guyanese_dollar,29.630000000000003
+http://dbpedia.org/resource/Cook_Islands_dollar,Cook Islands dollar,http://dbpedia.org/resource/Cook_Islands_dollar,29.590000000000003
+http://dbpedia.org/resource/Ryukyuan_mon,Ryukyuan mon,http://dbpedia.org/resource/Ryukyuan_mon,29.5
+http://dbpedia.org/resource/Rhodesian_dollar,Rhodesian dollar,http://dbpedia.org/resource/Rhodesian_dollar,29.310000000000002
+http://dbpedia.org/resource/Japanese_military_currency_(1894–1918),Japanese military currency (1894–1918),http://dbpedia.org/resource/Japanese_military_currency_(1894–1918),29.165
+http://dbpedia.org/resource/Moroccan_dirham,Moroccan dirham,http://dbpedia.org/resource/Moroccan_dirham,29.045
+http://dbpedia.org/resource/Hungarian_pengő,Hungarian pengő,http://dbpedia.org/resource/Hungarian_pengő,28.784999999999997
+http://dbpedia.org/resource/Solomon_Islands_dollar,Solomon Islands dollar,http://dbpedia.org/resource/Solomon_Islands_dollar,28.585000000000004
+http://dbpedia.org/resource/Seychellois_rupee,Seychellois rupee,http://dbpedia.org/resource/Seychellois_rupee,28.564999999999998
+http://dbpedia.org/resource/Guinean_franc,Guinean franc,http://dbpedia.org/resource/Guinean_franc,28.459999999999997
+http://dbpedia.org/resource/Liberty_dollar_(private_currency),Liberty dollar (private currency),http://dbpedia.org/resource/Liberty_dollar_(private_currency),28.29
+http://dbpedia.org/resource/Haitian_gourde,Haitian gourde,http://dbpedia.org/resource/Haitian_gourde,28.200000000000003
+http://dbpedia.org/resource/Malaya_and_British_Borneo_dollar,Malaya and British Borneo dollar,http://dbpedia.org/resource/Malaya_and_British_Borneo_dollar,28.115
+http://dbpedia.org/resource/Faroese_króna,Faroese króna,http://dbpedia.org/resource/Faroese_króna,27.834999999999997
+http://dbpedia.org/resource/Scandinavian_Monetary_Union,Scandinavian Monetary Union,http://dbpedia.org/resource/Scandinavian_Monetary_Union,27.784999999999997
+http://dbpedia.org/resource/Paraguayan_guaraní,Paraguayan guaraní,http://dbpedia.org/resource/Paraguayan_guaraní,27.74
+http://dbpedia.org/resource/Cayman_Islands_dollar,Cayman Islands dollar,http://dbpedia.org/resource/Cayman_Islands_dollar,27.735
+http://dbpedia.org/resource/Canadian_Tire_money,Canadian Tire money,http://dbpedia.org/resource/Canadian_Tire_money,27.654999999999998
+http://dbpedia.org/resource/Brazilian_cruzeiro_(1942–1967),Brazilian cruzeiro (1942–1967),http://dbpedia.org/resource/Brazilian_cruzeiro_(1942–1967),27.645
+http://dbpedia.org/resource/German_mark_(1871),German mark (1871),http://dbpedia.org/resource/German_mark_(1871),27.6
+http://dbpedia.org/resource/Old_Israeli_shekel,Old Israeli shekel,http://dbpedia.org/resource/Old_Israeli_shekel,27.564999999999998
+http://dbpedia.org/resource/Taiwanese_yen,Taiwanese yen,http://dbpedia.org/resource/Taiwanese_yen,27.1
+http://dbpedia.org/resource/Jordanian_dinar,Jordanian dinar,http://dbpedia.org/resource/Jordanian_dinar,26.654999999999998
+http://dbpedia.org/resource/New_Brunswick_pound,New Brunswick pound,http://dbpedia.org/resource/New_Brunswick_pound,26.575000000000003
+http://dbpedia.org/resource/Tunisian_dinar,Tunisian dinar,http://dbpedia.org/resource/Tunisian_dinar,26.409999999999997
+http://dbpedia.org/resource/Mauritanian_ouguiya,Mauritanian ouguiya,http://dbpedia.org/resource/Mauritanian_ouguiya,26.230000000000004
+http://dbpedia.org/resource/Tajikistani_somoni,Tajikistani somoni,http://dbpedia.org/resource/Tajikistani_somoni,26.11
+http://dbpedia.org/resource/Aruban_florin,Aruban florin,http://dbpedia.org/resource/Aruban_florin,26.0
+http://dbpedia.org/resource/Abkhazian_apsar,Abkhazian apsar,http://dbpedia.org/resource/Abkhazian_apsar,25.75
+http://dbpedia.org/resource/Mongolian_tögrög,Mongolian tögrög,http://dbpedia.org/resource/Mongolian_tögrög,25.745
+http://dbpedia.org/resource/Brazilian_cruzeiro_(1967–1986),Brazilian cruzeiro (1967–1986),http://dbpedia.org/resource/Brazilian_cruzeiro_(1967–1986),25.555
+http://dbpedia.org/resource/British_West_Indies_dollar,British West Indies dollar,http://dbpedia.org/resource/British_West_Indies_dollar,25.37
+http://dbpedia.org/resource/Bristol_pound,Bristol pound,http://dbpedia.org/resource/Bristol_pound,25.355
+http://dbpedia.org/resource/Netherlands_Antillean_guilder,Netherlands Antillean guilder,http://dbpedia.org/resource/Netherlands_Antillean_guilder,25.345
+http://dbpedia.org/resource/Czechoslovak_koruna,Czechoslovak koruna,http://dbpedia.org/resource/Czechoslovak_koruna,24.965000000000003
+http://dbpedia.org/resource/Burundian_franc,Burundian franc,http://dbpedia.org/resource/Burundian_franc,24.945
+http://dbpedia.org/resource/Revaluation_of_the_Turkish_lira,Revaluation of the Turkish lira,http://dbpedia.org/resource/Revaluation_of_the_Turkish_lira,24.9
+http://dbpedia.org/resource/Bolivian_boliviano,Bolivian boliviano,http://dbpedia.org/resource/Bolivian_boliviano,24.89
+http://dbpedia.org/resource/Sahrawi_peseta,Sahrawi peseta,http://dbpedia.org/resource/Sahrawi_peseta,24.745
+http://dbpedia.org/resource/Manchukuo_yuan,Manchukuo yuan,http://dbpedia.org/resource/Manchukuo_yuan,24.71
+http://dbpedia.org/resource/Sierra_Leonean_leone,Sierra Leonean leone,http://dbpedia.org/resource/Sierra_Leonean_leone,24.680000000000003
+http://dbpedia.org/resource/New_Brunswick_dollar,New Brunswick dollar,http://dbpedia.org/resource/New_Brunswick_dollar,24.395000000000003
+http://dbpedia.org/resource/East_Timor_centavo_coins,East Timor centavo coins,http://dbpedia.org/resource/East_Timor_centavo_coins,24.095
+http://dbpedia.org/resource/Palembang_pitis,Palembang pitis,http://dbpedia.org/resource/Palembang_pitis,24.090000000000003
+http://dbpedia.org/resource/Papua_New_Guinean_kina,Papua New Guinean kina,http://dbpedia.org/resource/Papua_New_Guinean_kina,23.93
+http://dbpedia.org/resource/Sarawak_dollar,Sarawak dollar,http://dbpedia.org/resource/Sarawak_dollar,23.689999999999998
+http://dbpedia.org/resource/United_Arab_Emirates_dirham,United Arab Emirates dirham,http://dbpedia.org/resource/United_Arab_Emirates_dirham,23.564999999999998
+http://dbpedia.org/resource/Salt_Spring_dollar,Salt Spring dollar,http://dbpedia.org/resource/Salt_Spring_dollar,23.430000000000003
+http://dbpedia.org/resource/Pitcairn_Islands_dollar,Pitcairn Islands dollar,http://dbpedia.org/resource/Pitcairn_Islands_dollar,23.415000000000003
+http://dbpedia.org/resource/Tuvaluan_dollar,Tuvaluan dollar,http://dbpedia.org/resource/Tuvaluan_dollar,23.405
+http://dbpedia.org/resource/Livre_tournois,Livre tournois,http://dbpedia.org/resource/Livre_tournois,23.255000000000003
+http://dbpedia.org/resource/Kiribati_dollar,Kiribati dollar,http://dbpedia.org/resource/Kiribati_dollar,23.14
+http://dbpedia.org/resource/Calgary_Dollar,Calgary Dollar,http://dbpedia.org/resource/Calgary_Dollar,22.959999999999997
+http://dbpedia.org/resource/South_Korean_hwan,South Korean hwan,http://dbpedia.org/resource/South_Korean_hwan,22.615
+http://dbpedia.org/resource/Vanuatu_vatu,Vanuatu vatu,http://dbpedia.org/resource/Vanuatu_vatu,22.599999999999998
+http://dbpedia.org/resource/Malawian_kwacha,Malawian kwacha,http://dbpedia.org/resource/Malawian_kwacha,22.555
+http://dbpedia.org/resource/Portuguese_Indian_escudo,Portuguese Indian escudo,http://dbpedia.org/resource/Portuguese_Indian_escudo,22.375
+http://dbpedia.org/resource/South_African_pound,South African pound,http://dbpedia.org/resource/South_African_pound,22.335
+http://dbpedia.org/resource/Omani_rial,Omani rial,http://dbpedia.org/resource/Omani_rial,22.125
+http://dbpedia.org/resource/Armenian_ruble,Armenian ruble,http://dbpedia.org/resource/Armenian_ruble,21.67
+http://dbpedia.org/resource/Niue_dollar,Niue dollar,http://dbpedia.org/resource/Niue_dollar,21.310000000000002
+http://dbpedia.org/resource/Alderney_pound,Alderney pound,http://dbpedia.org/resource/Alderney_pound,21.169999999999998
+http://dbpedia.org/resource/Rhodesia_and_Nyasaland_pound,Rhodesia and Nyasaland pound,http://dbpedia.org/resource/Rhodesia_and_Nyasaland_pound,21.150000000000002
+http://dbpedia.org/resource/Cornish_currency,Cornish currency,http://dbpedia.org/resource/Cornish_currency,21.11
+http://dbpedia.org/resource/Biafran_pound,Biafran pound,http://dbpedia.org/resource/Biafran_pound,20.87
+http://dbpedia.org/resource/Argentine_austral,Argentine austral,http://dbpedia.org/resource/Argentine_austral,20.84
+http://dbpedia.org/resource/Qatari_riyal,Qatari riyal,http://dbpedia.org/resource/Qatari_riyal,20.745
+http://dbpedia.org/resource/New_Guinean_pound,New Guinean pound,http://dbpedia.org/resource/New_Guinean_pound,20.715
+http://dbpedia.org/resource/East_German_mark,East German mark,http://dbpedia.org/resource/East_German_mark,20.590000000000003
+http://dbpedia.org/resource/Chinese_customs_gold_unit,Chinese customs gold unit,http://dbpedia.org/resource/Chinese_customs_gold_unit,20.560000000000002
+http://dbpedia.org/resource/Sudanese_dinar,Sudanese dinar,http://dbpedia.org/resource/Sudanese_dinar,20.400000000000002
+http://dbpedia.org/resource/Jamaican_pound,Jamaican pound,http://dbpedia.org/resource/Jamaican_pound,20.200000000000003
+http://dbpedia.org/resource/São_Tomé_and_Príncipe_dobra,São Tomé and Príncipe dobra,http://dbpedia.org/resource/São_Tomé_and_Príncipe_dobra,19.950000000000003
+http://dbpedia.org/resource/Southern_Rhodesian_pound,Southern Rhodesian pound,http://dbpedia.org/resource/Southern_Rhodesian_pound,19.81
+http://dbpedia.org/resource/Marchuwa,Marchuwa,http://dbpedia.org/resource/Marchuwa,19.689999999999998
+http://dbpedia.org/resource/Yemeni_rial,Yemeni rial,http://dbpedia.org/resource/Yemeni_rial,19.270000000000003
+http://dbpedia.org/resource/Gulf_rupee,Gulf rupee,http://dbpedia.org/resource/Gulf_rupee,19.159999999999997
+http://dbpedia.org/resource/Ottoman_lira,Ottoman lira,http://dbpedia.org/resource/Ottoman_lira,19.1
+http://dbpedia.org/resource/Salvadoran_colón,Salvadoran colón,http://dbpedia.org/resource/Salvadoran_colón,19.095
+http://dbpedia.org/resource/Eritrean_nakfa,Eritrean nakfa,http://dbpedia.org/resource/Eritrean_nakfa,18.995
+http://dbpedia.org/resource/Papal_lira,Papal lira,http://dbpedia.org/resource/Papal_lira,18.904999999999998
+http://dbpedia.org/resource/Sardinian_lira,Sardinian lira,http://dbpedia.org/resource/Sardinian_lira,18.895
+http://dbpedia.org/resource/Chinese_gold_yuan,Chinese gold yuan,http://dbpedia.org/resource/Chinese_gold_yuan,18.77
+http://dbpedia.org/resource/Hyderabadi_rupee,Hyderabadi rupee,http://dbpedia.org/resource/Hyderabadi_rupee,18.545
+http://dbpedia.org/resource/Swazi_lilangeni,Swazi lilangeni,http://dbpedia.org/resource/Swazi_lilangeni,18.505000000000003
+http://dbpedia.org/resource/Mozambican_metical,Mozambican metical,http://dbpedia.org/resource/Mozambican_metical,18.419999999999998
+http://dbpedia.org/resource/Caribbean_guilder,Caribbean guilder,http://dbpedia.org/resource/Caribbean_guilder,18.410000000000004
+http://dbpedia.org/resource/Gambian_dalasi,Gambian dalasi,http://dbpedia.org/resource/Gambian_dalasi,18.409999999999997
+http://dbpedia.org/resource/Fijian_pound,Fijian pound,http://dbpedia.org/resource/Fijian_pound,18.2
+http://dbpedia.org/resource/Ghanaian_pound,Ghanaian pound,http://dbpedia.org/resource/Ghanaian_pound,18.105
+http://dbpedia.org/resource/Nigerian_pound,Nigerian pound,http://dbpedia.org/resource/Nigerian_pound,18.09
+http://dbpedia.org/resource/Lesotho_loti,Lesotho loti,http://dbpedia.org/resource/Lesotho_loti,17.775000000000002
+http://dbpedia.org/resource/South_Korean_won_(1945–1953),South Korean won (1945–1953),http://dbpedia.org/resource/South_Korean_won_(1945–1953),17.764999999999997
+http://dbpedia.org/resource/Danish_West_Indian_daler,Danish West Indian daler,http://dbpedia.org/resource/Danish_West_Indian_daler,17.76
+http://dbpedia.org/resource/Slovak_koruna_(1939–1945),Slovak koruna (1939–1945),http://dbpedia.org/resource/Slovak_koruna_(1939–1945),17.669999999999998
+http://dbpedia.org/resource/German_East_African_rupie,German East African rupie,http://dbpedia.org/resource/German_East_African_rupie,17.66
+http://dbpedia.org/resource/Hawaiian_dollar,Hawaiian dollar,http://dbpedia.org/resource/Hawaiian_dollar,17.615000000000002
+http://dbpedia.org/resource/Tripolitanian_lira,Tripolitanian lira,http://dbpedia.org/resource/Tripolitanian_lira,17.485
+http://dbpedia.org/resource/Bohemian_and_Moravian_koruna,Bohemian and Moravian koruna,http://dbpedia.org/resource/Bohemian_and_Moravian_koruna,17.46
+http://dbpedia.org/resource/Malagasy_ariary,Malagasy ariary,http://dbpedia.org/resource/Malagasy_ariary,17.45
+http://dbpedia.org/resource/Peruvian_libra,Peruvian libra,http://dbpedia.org/resource/Peruvian_libra,17.425
+http://dbpedia.org/resource/Malawian_pound,Malawian pound,http://dbpedia.org/resource/Malawian_pound,17.240000000000002
+http://dbpedia.org/resource/Peruvian_sol_(1863–1985),Peruvian sol (1863–1985),http://dbpedia.org/resource/Peruvian_sol_(1863–1985),17.1
+http://dbpedia.org/resource/Ithaca_Hours,Ithaca Hours,http://dbpedia.org/resource/Ithaca_Hours,17.044999999999998
+http://dbpedia.org/resource/Meiji_Tsuho,Meiji Tsuho,http://dbpedia.org/resource/Meiji_Tsuho,17.009999999999998
+http://dbpedia.org/resource/Totnes_pound,Totnes pound,http://dbpedia.org/resource/Totnes_pound,16.96
+http://dbpedia.org/resource/Mengjiang_yuan,Mengjiang yuan,http://dbpedia.org/resource/Mengjiang_yuan,16.925
+http://dbpedia.org/resource/Tongan_paʻanga,Tongan paʻanga,http://dbpedia.org/resource/Tongan_paʻanga,16.91
+http://dbpedia.org/resource/Ecuadorian_centavo_coins,Ecuadorian centavo coins,http://dbpedia.org/resource/Ecuadorian_centavo_coins,16.895
+http://dbpedia.org/resource/AM-Lira,AM-Lira,http://dbpedia.org/resource/AM-Lira,16.705000000000002
+http://dbpedia.org/resource/Exeter_pound,Exeter pound,http://dbpedia.org/resource/Exeter_pound,16.695
+http://dbpedia.org/resource/Parman_lira,Parman lira,http://dbpedia.org/resource/Parman_lira,16.544999999999998
+http://dbpedia.org/resource/North_Carolina_pound,North Carolina pound,http://dbpedia.org/resource/North_Carolina_pound,16.529999999999998
+http://dbpedia.org/resource/Lewes_pound,Lewes pound,http://dbpedia.org/resource/Lewes_pound,16.33
+http://dbpedia.org/resource/Lombardo-Venetian_lira,Lombardo-Venetian lira,http://dbpedia.org/resource/Lombardo-Venetian_lira,16.314999999999998
+http://dbpedia.org/resource/Zambian_pound,Zambian pound,http://dbpedia.org/resource/Zambian_pound,16.195000000000004
+http://dbpedia.org/resource/Netherlands_Indies_gulden,Netherlands Indies gulden,http://dbpedia.org/resource/Netherlands_Indies_gulden,16.14
+http://dbpedia.org/resource/B_yen,B yen,http://dbpedia.org/resource/B_yen,16.095
+http://dbpedia.org/resource/Texas_dollar,Texas dollar,http://dbpedia.org/resource/Texas_dollar,15.87
+http://dbpedia.org/resource/Georgia_pound,Georgia pound,http://dbpedia.org/resource/Georgia_pound,15.775
+http://dbpedia.org/resource/Tuscan_lira,Tuscan lira,http://dbpedia.org/resource/Tuscan_lira,15.630000000000003
+http://dbpedia.org/resource/Portuguese_Indian_rupia,Portuguese Indian rupia,http://dbpedia.org/resource/Portuguese_Indian_rupia,15.564999999999998
+http://dbpedia.org/resource/SUCRE,SUCRE,http://dbpedia.org/resource/SUCRE,15.545
+http://dbpedia.org/resource/Korean_yen,Korean yen,http://dbpedia.org/resource/Korean_yen,15.395
+http://dbpedia.org/resource/Bosnia_and_Herzegovina_dinar,Bosnia and Herzegovina dinar,http://dbpedia.org/resource/Bosnia_and_Herzegovina_dinar,15.32
+http://dbpedia.org/resource/Stroud_pound,Stroud pound,http://dbpedia.org/resource/Stroud_pound,15.285
+http://dbpedia.org/resource/Mark_(currency),Mark (currency),http://dbpedia.org/resource/Mark_(currency),15.25
+http://dbpedia.org/resource/United_Principalities_romanat,United Principalities romanat,http://dbpedia.org/resource/United_Principalities_romanat,15.225000000000001
+http://dbpedia.org/resource/South_Carolina_pound,South Carolina pound,http://dbpedia.org/resource/South_Carolina_pound,15.215000000000002
+http://dbpedia.org/resource/Yuan_of_the_Red_Army_Command,Yuan of the Red Army Command,http://dbpedia.org/resource/Yuan_of_the_Red_Army_Command,15.15
+http://dbpedia.org/resource/A_yen,A yen,http://dbpedia.org/resource/A_yen,15.035
+http://dbpedia.org/resource/Argentine_peso_moneda_nacional,Argentine peso moneda nacional,http://dbpedia.org/resource/Argentine_peso_moneda_nacional,14.835
+http://dbpedia.org/resource/Luccan_lira,Luccan lira,http://dbpedia.org/resource/Luccan_lira,14.765
+http://dbpedia.org/resource/Malagasy_franc,Malagasy franc,http://dbpedia.org/resource/Malagasy_franc,14.695
+http://dbpedia.org/resource/Japanese_military_currency_(1937–1945),Japanese military currency (1937–1945),http://dbpedia.org/resource/Japanese_military_currency_(1937–1945),14.630000000000003
+http://dbpedia.org/resource/North_Vietnamese_đồng,North Vietnamese đồng,http://dbpedia.org/resource/North_Vietnamese_đồng,14.439999999999998
+http://dbpedia.org/resource/Tajikistani_ruble,Tajikistani ruble,http://dbpedia.org/resource/Tajikistani_ruble,14.305000000000001
+http://dbpedia.org/resource/Spesmilo,Spesmilo,http://dbpedia.org/resource/Spesmilo,14.274999999999999
+http://dbpedia.org/resource/Lumi_(currency),Lumi (currency),http://dbpedia.org/resource/Lumi_(currency),14.170000000000002
+http://dbpedia.org/resource/Quasi_Universal_Intergalactic_Denomination,Quasi Universal Intergalactic Denomination,http://dbpedia.org/resource/Quasi_Universal_Intergalactic_Denomination,14.07
+http://dbpedia.org/resource/Latvian_ruble,Latvian ruble,http://dbpedia.org/resource/Latvian_ruble,13.945000000000002
+http://dbpedia.org/resource/Flora_and_Fauna_Series,Flora and Fauna Series,http://dbpedia.org/resource/Flora_and_Fauna_Series,13.86
+http://dbpedia.org/resource/New_Hebrides_franc,New Hebrides franc,http://dbpedia.org/resource/New_Hebrides_franc,13.8
+http://dbpedia.org/resource/South_Vietnamese_đồng,South Vietnamese đồng,http://dbpedia.org/resource/South_Vietnamese_đồng,13.489999999999998
+http://dbpedia.org/resource/Franga,Franga,http://dbpedia.org/resource/Franga,13.450000000000001
+http://dbpedia.org/resource/Phoenix_(currency),Phoenix (currency),http://dbpedia.org/resource/Phoenix_(currency),13.330000000000002
+http://dbpedia.org/resource/Rentenmark,Rentenmark,http://dbpedia.org/resource/Rentenmark,13.229999999999999
+http://dbpedia.org/resource/Croatian_dinar,Croatian dinar,http://dbpedia.org/resource/Croatian_dinar,12.915
+http://dbpedia.org/resource/AM-Franc,AM-Franc,http://dbpedia.org/resource/AM-Franc,12.895
+http://dbpedia.org/resource/Iranian_toman,Iranian toman,http://dbpedia.org/resource/Iranian_toman,12.795
+http://dbpedia.org/resource/Makhnovist_ruble,Makhnovist ruble,http://dbpedia.org/resource/Makhnovist_ruble,12.674999999999999
+http://dbpedia.org/resource/Malian_franc,Malian franc,http://dbpedia.org/resource/Malian_franc,12.665
+http://dbpedia.org/resource/Ryō,Ryō,http://dbpedia.org/resource/Ryō,12.635
+http://dbpedia.org/resource/Argentine_peso_ley,Argentine peso ley,http://dbpedia.org/resource/Argentine_peso_ley,12.625
+http://dbpedia.org/resource/Katangese_franc,Katangese franc,http://dbpedia.org/resource/Katangese_franc,12.344999999999999
+http://dbpedia.org/resource/Emergency_circulating_notes,Emergency circulating notes,http://dbpedia.org/resource/Emergency_circulating_notes,12.315
+http://dbpedia.org/resource/Cambodian_franc,Cambodian franc,http://dbpedia.org/resource/Cambodian_franc,12.27
+http://dbpedia.org/resource/Brazilian_cruzeiro_(1990–1993),Brazilian cruzeiro (1990–1993),http://dbpedia.org/resource/Brazilian_cruzeiro_(1990–1993),12.254999999999999
+http://dbpedia.org/resource/Mosi-oa-Tunya_(coin),Mosi-oa-Tunya (coin),http://dbpedia.org/resource/Mosi-oa-Tunya_(coin),11.99
+http://dbpedia.org/resource/Gold_franc,Gold franc,http://dbpedia.org/resource/Gold_franc,11.975000000000001
+http://dbpedia.org/resource/Banknotes_of_the_Brazilian_cruzado,Banknotes of the Brazilian cruzado,http://dbpedia.org/resource/Banknotes_of_the_Brazilian_cruzado,11.885
+http://dbpedia.org/resource/Hungarian_korona,Hungarian korona,http://dbpedia.org/resource/Hungarian_korona,11.8
+http://dbpedia.org/resource/Ecuadorian_sucre,Ecuadorian sucre,http://dbpedia.org/resource/Ecuadorian_sucre,11.665000000000001
+http://dbpedia.org/resource/UIC_franc,UIC franc,http://dbpedia.org/resource/UIC_franc,11.655
+http://dbpedia.org/resource/Georgian_kuponi,Georgian kuponi,http://dbpedia.org/resource/Georgian_kuponi,11.479999999999999
+http://dbpedia.org/resource/Independent_State_of_Croatia_kuna,Independent State of Croatia kuna,http://dbpedia.org/resource/Independent_State_of_Croatia_kuna,11.42
+http://dbpedia.org/resource/Tunisian_franc,Tunisian franc,http://dbpedia.org/resource/Tunisian_franc,11.030000000000001
+http://dbpedia.org/resource/Ticinese_franco,Ticinese franco,http://dbpedia.org/resource/Ticinese_franco,10.97
+http://dbpedia.org/resource/Algerian_franc,Algerian franc,http://dbpedia.org/resource/Algerian_franc,10.94
+http://dbpedia.org/resource/Bolivian_sol,Bolivian sol,http://dbpedia.org/resource/Bolivian_sol,10.82
+http://dbpedia.org/resource/Surinamese_guilder,Surinamese guilder,http://dbpedia.org/resource/Surinamese_guilder,10.754999999999999
+http://dbpedia.org/resource/Portuguese_Timorese_pataca,Portuguese Timorese pataca,http://dbpedia.org/resource/Portuguese_Timorese_pataca,10.72
+http://dbpedia.org/resource/Almoravid_dinar,Almoravid dinar,http://dbpedia.org/resource/Almoravid_dinar,10.68
+http://dbpedia.org/resource/BerkShares,BerkShares,http://dbpedia.org/resource/BerkShares,10.635
+http://dbpedia.org/resource/South_Yemeni_dinar,South Yemeni dinar,http://dbpedia.org/resource/South_Yemeni_dinar,10.48
+http://dbpedia.org/resource/Andorran_diner,Andorran diner,http://dbpedia.org/resource/Andorran_diner,10.450000000000001
+http://dbpedia.org/resource/Brazilian_cruzado_novo,Brazilian cruzado novo,http://dbpedia.org/resource/Brazilian_cruzado_novo,10.37
+http://dbpedia.org/resource/Montenegrin_perper,Montenegrin perper,http://dbpedia.org/resource/Montenegrin_perper,10.32
+http://dbpedia.org/resource/Goldback,Goldback,http://dbpedia.org/resource/Goldback,10.31
+http://dbpedia.org/resource/Lithuanian_talonas,Lithuanian talonas,http://dbpedia.org/resource/Lithuanian_talonas,10.105
+http://dbpedia.org/resource/Zaire_(currency),Zaire (currency),http://dbpedia.org/resource/Zaire_(currency),9.979999999999999
+http://dbpedia.org/resource/Brazilian_cruzado,Brazilian cruzado,http://dbpedia.org/resource/Brazilian_cruzado,9.850000000000001
+http://dbpedia.org/resource/Roman_scudo,Roman scudo,http://dbpedia.org/resource/Roman_scudo,9.774999999999999
+http://dbpedia.org/resource/Afghan_rupee,Afghan rupee,http://dbpedia.org/resource/Afghan_rupee,9.64
+http://dbpedia.org/resource/German_ostrubel,German ostrubel,http://dbpedia.org/resource/German_ostrubel,9.469999999999999
+http://dbpedia.org/resource/Bolivian_peso,Bolivian peso,http://dbpedia.org/resource/Bolivian_peso,9.44
+http://dbpedia.org/resource/Guinea-Bissau_peso,Guinea-Bissau peso,http://dbpedia.org/resource/Guinea-Bissau_peso,9.35
+http://dbpedia.org/resource/Brazilian_cruzeiro_real,Brazilian cruzeiro real,http://dbpedia.org/resource/Brazilian_cruzeiro_real,9.204999999999998
+http://dbpedia.org/resource/Chiemgauer,Chiemgauer,http://dbpedia.org/resource/Chiemgauer,9.194999999999999
+http://dbpedia.org/resource/Tuscan_florin,Tuscan florin,http://dbpedia.org/resource/Tuscan_florin,9.014999999999999
+http://dbpedia.org/resource/Eco-Pesa,Eco-Pesa,http://dbpedia.org/resource/Eco-Pesa,8.945
+http://dbpedia.org/resource/Saxon_thaler,Saxon thaler,http://dbpedia.org/resource/Saxon_thaler,8.87
+http://dbpedia.org/resource/Hamburg_mark,Hamburg mark,http://dbpedia.org/resource/Hamburg_mark,8.759999999999998
+http://dbpedia.org/resource/Austrian_krone,Austrian krone,http://dbpedia.org/resource/Austrian_krone,8.715
+http://dbpedia.org/resource/Salvadoran_peso,Salvadoran peso,http://dbpedia.org/resource/Salvadoran_peso,8.594999999999999
+http://dbpedia.org/resource/Transcaucasian_ruble,Transcaucasian ruble,http://dbpedia.org/resource/Transcaucasian_ruble,8.374999999999998
+http://dbpedia.org/resource/Peruvian_peseta,Peruvian peseta,http://dbpedia.org/resource/Peruvian_peseta,8.315000000000001
+http://dbpedia.org/resource/Angolan_escudo,Angolan escudo,http://dbpedia.org/resource/Angolan_escudo,8.270000000000001
+http://dbpedia.org/resource/Hungarian_adópengő,Hungarian adópengő,http://dbpedia.org/resource/Hungarian_adópengő,8.264999999999999
+http://dbpedia.org/resource/Iraqi_Swiss_dinar,Iraqi Swiss dinar,http://dbpedia.org/resource/Iraqi_Swiss_dinar,8.155
+http://dbpedia.org/resource/German_ostmark,German ostmark,http://dbpedia.org/resource/German_ostmark,7.999999999999999
+http://dbpedia.org/resource/Fiume_krone,Fiume krone,http://dbpedia.org/resource/Fiume_krone,7.944999999999999
+http://dbpedia.org/resource/Zimbabwean_bonds,Zimbabwean bonds,http://dbpedia.org/resource/Zimbabwean_bonds,7.83
+http://dbpedia.org/resource/Georgian_maneti,Georgian maneti,http://dbpedia.org/resource/Georgian_maneti,7.794999999999999
+http://dbpedia.org/resource/Equatorial_Guinean_peseta,Equatorial Guinean peseta,http://dbpedia.org/resource/Equatorial_Guinean_peseta,7.765000000000001
+http://dbpedia.org/resource/Burmese_rupee,Burmese rupee,http://dbpedia.org/resource/Burmese_rupee,7.655
+http://dbpedia.org/resource/Mozambican_escudo,Mozambican escudo,http://dbpedia.org/resource/Mozambican_escudo,7.484999999999999
+http://dbpedia.org/resource/Tuvan_akşa,Tuvan akşa,http://dbpedia.org/resource/Tuvan_akşa,7.41
+http://dbpedia.org/resource/Peruvian_inti,Peruvian inti,http://dbpedia.org/resource/Peruvian_inti,7.395
+http://dbpedia.org/resource/Argentine_real,Argentine real,http://dbpedia.org/resource/Argentine_real,7.244999999999999
+http://dbpedia.org/resource/Won_of_the_Red_Army_Command,Won of the Red Army Command,http://dbpedia.org/resource/Won_of_the_Red_Army_Command,7.215
+http://dbpedia.org/resource/Saar_mark,Saar mark,http://dbpedia.org/resource/Saar_mark,7.194999999999999
+http://dbpedia.org/resource/Paraguayan_peso,Paraguayan peso,http://dbpedia.org/resource/Paraguayan_peso,7.075
+http://dbpedia.org/resource/Moldovan_cupon,Moldovan cupon,http://dbpedia.org/resource/Moldovan_cupon,6.825
+http://dbpedia.org/resource/Sarafu-Credit,Sarafu-Credit,http://dbpedia.org/resource/Sarafu-Credit,6.66
+http://dbpedia.org/resource/Ven_(currency),Ven (currency),http://dbpedia.org/resource/Ven_(currency),6.63
+http://dbpedia.org/resource/Portuguese_Timorese_escudo,Portuguese Timorese escudo,http://dbpedia.org/resource/Portuguese_Timorese_escudo,6.5
+http://dbpedia.org/resource/Portuguese_Guinean_escudo,Portuguese Guinean escudo,http://dbpedia.org/resource/Portuguese_Guinean_escudo,6.489999999999999
+http://dbpedia.org/resource/Chechen_naxar,Chechen naxar,http://dbpedia.org/resource/Chechen_naxar,6.3149999999999995
+http://dbpedia.org/resource/South_West_African_mark,South West African mark,http://dbpedia.org/resource/South_West_African_mark,6.305
+http://dbpedia.org/resource/AM-Mark,AM-Mark,http://dbpedia.org/resource/AM-Mark,6.035
+http://dbpedia.org/resource/São_Tomé_and_Príncipe_escudo,São Tomé and Príncipe escudo,http://dbpedia.org/resource/São_Tomé_and_Príncipe_escudo,5.984999999999999
+http://dbpedia.org/resource/Peruvian_real,Peruvian real,http://dbpedia.org/resource/Peruvian_real,5.92
+http://dbpedia.org/resource/Equatorial_Guinean_ekwele,Equatorial Guinean ekwele,http://dbpedia.org/resource/Equatorial_Guinean_ekwele,5.67
+http://dbpedia.org/resource/Boliviano_(1864–1963),Boliviano (1864–1963),http://dbpedia.org/resource/Boliviano_(1864–1963),5.605
+http://dbpedia.org/resource/Guinean_syli,Guinean syli,http://dbpedia.org/resource/Guinean_syli,5.565
+http://dbpedia.org/resource/Ora_(currency),Ora (currency),http://dbpedia.org/resource/Ora_(currency),5.550000000000001
+http://dbpedia.org/resource/Eusko,Eusko,http://dbpedia.org/resource/Eusko,5.15
+http://dbpedia.org/resource/Azorean_real,Azorean real,http://dbpedia.org/resource/Azorean_real,5.140000000000001
+http://dbpedia.org/resource/TEM_(currency),TEM (currency),http://dbpedia.org/resource/TEM_(currency),5.135
+http://dbpedia.org/resource/Two_Sicilies_ducat,Two Sicilies ducat,http://dbpedia.org/resource/Two_Sicilies_ducat,4.984999999999999
+http://dbpedia.org/resource/Idrisid_dirham,Idrisid dirham,http://dbpedia.org/resource/Idrisid_dirham,4.955
+http://dbpedia.org/resource/North_Yemeni_rial,North Yemeni rial,http://dbpedia.org/resource/North_Yemeni_rial,4.789999999999999
+http://dbpedia.org/resource/Greek_drachma,Greek drachma,http://dbpedia.org/resource/Greek_drachma,4.75
+http://dbpedia.org/resource/Kraków_złoty,Kraków złoty,http://dbpedia.org/resource/Kraków_złoty,4.749999999999999
+http://dbpedia.org/resource/Financial_rand,Financial rand,http://dbpedia.org/resource/Financial_rand,4.4
+http://dbpedia.org/resource/Peruvian_inca,Peruvian inca,http://dbpedia.org/resource/Peruvian_inca,4.33
+http://dbpedia.org/resource/Gold_Coast_ackey,Gold Coast ackey,http://dbpedia.org/resource/Gold_Coast_ackey,4.034999999999999
+http://dbpedia.org/resource/Ragusan_perpera,Ragusan perpera,http://dbpedia.org/resource/Ragusan_perpera,3.905
+http://dbpedia.org/resource/Lebanese-Syrian_pound,Lebanese-Syrian pound,http://dbpedia.org/resource/Lebanese-Syrian_pound,3.905
+http://dbpedia.org/resource/Detroit_Community_Scrip,Detroit Community Scrip,http://dbpedia.org/resource/Detroit_Community_Scrip,3.73
+http://dbpedia.org/resource/Neutral_unit_of_construction,Neutral unit of construction,http://dbpedia.org/resource/Neutral_unit_of_construction,3.715
+http://dbpedia.org/resource/Austro-Hungarian_crown,Austro-Hungarian crown,http://dbpedia.org/resource/Austro-Hungarian_crown,3.515
+http://dbpedia.org/resource/Austro-Hungarian_florin,Austro-Hungarian florin,http://dbpedia.org/resource/Austro-Hungarian_florin,3.23
+http://dbpedia.org/resource/Unidad_de_Valor_Constante,Unidad de Valor Constante,http://dbpedia.org/resource/Unidad_de_Valor_Constante,3.155
+http://dbpedia.org/resource/Unidad_de_Fomento,Unidad de Fomento,http://dbpedia.org/resource/Unidad_de_Fomento,3.12
+http://dbpedia.org/resource/Japanese_government-issued_dollar_in_Malaya_and_Borneo,Japanese government-issued dollar in Malaya and Borneo,http://dbpedia.org/resource/Japanese_government-issued_dollar_in_Malaya_and_Borneo,3.04
+http://dbpedia.org/resource/Breadcoin,Breadcoin,http://dbpedia.org/resource/Breadcoin,2.8600000000000003
+http://dbpedia.org/resource/Polish_mark,Polish mark,http://dbpedia.org/resource/Polish_mark,2.66
+http://dbpedia.org/resource/Kyrgyzstani_som,Kyrgyzstani som,http://dbpedia.org/resource/Kyrgyzstani_som,2.28
+http://dbpedia.org/resource/Mexican_unidad_de_inversión,Mexican unidad de inversión,http://dbpedia.org/resource/Mexican_unidad_de_inversión,1.71
+http://dbpedia.org/resource/Digital_Rupee,Digital Rupee,http://dbpedia.org/resource/Digital_Rupee,1.615
+http://dbpedia.org/resource/Japanese_government-issued_Philippine_peso,Japanese government-issued Philippine peso,http://dbpedia.org/resource/Japanese_government-issued_Philippine_peso,1.52
+http://dbpedia.org/resource/Japanese_government-issued_currency_in_the_Dutch_East_Indies,Japanese government-issued currency in the Dutch East Indies,http://dbpedia.org/resource/Japanese_government-issued_currency_in_the_Dutch_East_Indies,1.52
+http://dbpedia.org/resource/Japanese_government-issued_Oceanian_pound,Japanese government-issued Oceanian pound,http://dbpedia.org/resource/Japanese_government-issued_Oceanian_pound,1.425
+http://dbpedia.org/resource/Japanese_government-issued_rupee_in_Burma,Japanese government-issued rupee in Burma,http://dbpedia.org/resource/Japanese_government-issued_rupee_in_Burma,1.14
+http://dbpedia.org/resource/Republic_of_Vevčani__ЛичникLičnik__1,Republic of Vevčani  ЛичникLičnik  1,http://dbpedia.org/resource/Republic_of_Vevčani__ЛичникLičnik__1,0.47500000000000003
+http://dbpedia.org/resource/Terra_(currency),Terra (currency),http://dbpedia.org/resource/Terra_(currency),0.38
+http://dbpedia.org/resource/Currencies_of_Puerto_Rico__Puerto_Rican_dollar__1,Currencies of Puerto Rico  Puerto Rican dollar  1,http://dbpedia.org/resource/Currencies_of_Puerto_Rico__Puerto_Rican_dollar__1,0.19
+http://dbpedia.org/resource/Chilean_peso__Chilean_escudo__1,Chilean peso  Chilean escudo  1,http://dbpedia.org/resource/Chilean_peso__Chilean_escudo__1,0.19
+http://dbpedia.org/resource/Turkmenistani_manat__First_Turkmen_manat__1,Turkmenistani manat  First Turkmen manat  1,http://dbpedia.org/resource/Turkmenistani_manat__First_Turkmen_manat__1,0.19
+http://dbpedia.org/resource/South_Korean_won__South_Korean_won__1,South Korean won  South Korean won  1,http://dbpedia.org/resource/South_Korean_won__South_Korean_won__1,0.19
+http://dbpedia.org/resource/Modern_gold_dinar__Gold_dinar__1,Modern gold dinar  Gold dinar  1,http://dbpedia.org/resource/Modern_gold_dinar__Gold_dinar__1,0.19
+http://dbpedia.org/resource/Argentine_peso_(1983–1985)__Argentine_peso__1,Argentine peso (1983–1985)  Argentine peso  1,http://dbpedia.org/resource/Argentine_peso_(1983–1985)__Argentine_peso__1,0.19
+http://dbpedia.org/resource/Venezuelan_bolívar__Venezuelan_bolívar__1,Venezuelan bolívar  Venezuelan bolívar  1,http://dbpedia.org/resource/Venezuelan_bolívar__Venezuelan_bolívar__1,0.19
+http://dbpedia.org/resource/Venezuelan_bolívar__Venezuelan_hard_bolívar__1,Venezuelan bolívar  Venezuelan hard bolívar  1,http://dbpedia.org/resource/Venezuelan_bolívar__Venezuelan_hard_bolívar__1,0.19
+http://dbpedia.org/resource/Austrian_schilling__Austrian_schilling__1,Austrian schilling  Austrian schilling  1,http://dbpedia.org/resource/Austrian_schilling__Austrian_schilling__1,0.19
+http://dbpedia.org/resource/Brixton__pound__1,Brixton  pound  1,http://dbpedia.org/resource/Brixton__pound__1,0.095
+http://dbpedia.org/resource/Hungarian_pengő__Red_Army_pengő__1,Hungarian pengő  Red Army pengő  1,http://dbpedia.org/resource/Hungarian_pengő__Red_Army_pengő__1,0.095
+http://dbpedia.org/resource/Bulgarian_lev__Lev__1,Bulgarian lev  Lev  1,http://dbpedia.org/resource/Bulgarian_lev__Lev__1,0.095
+http://dbpedia.org/resource/Hungarian_pengő__First_Vienna_Award_pengő__1,Hungarian pengő  First Vienna Award pengő  1,http://dbpedia.org/resource/Hungarian_pengő__First_Vienna_Award_pengő__1,0.095
+http://dbpedia.org/resource/Hungarian_pengő__WWII_pengő__1,Hungarian pengő  WWII pengő  1,http://dbpedia.org/resource/Hungarian_pengő__WWII_pengő__1,0.095
+http://dbpedia.org/resource/Hungarian_pengő__Interwar_pengő__1,Hungarian pengő  Interwar pengő  1,http://dbpedia.org/resource/Hungarian_pengő__Interwar_pengő__1,0.095

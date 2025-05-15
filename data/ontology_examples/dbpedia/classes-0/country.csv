@@ -1,0 +1,1001 @@
+id,label,source,score
+http://dbpedia.org/resource/United_States,United States,http://dbpedia.org/resource/United_States,9907.37
+http://dbpedia.org/resource/France,France,http://dbpedia.org/resource/France,5004.795
+http://dbpedia.org/resource/Italy,Italy,http://dbpedia.org/resource/Italy,4113.930000000001
+http://dbpedia.org/resource/Germany,Germany,http://dbpedia.org/resource/Germany,3908.6800000000003
+http://dbpedia.org/resource/United_Kingdom,United Kingdom,http://dbpedia.org/resource/United_Kingdom,3858.4900000000002
+http://dbpedia.org/resource/Australia,Australia,http://dbpedia.org/resource/Australia,3595.0200000000004
+http://dbpedia.org/resource/Russia,Russia,http://dbpedia.org/resource/Russia,3474.96
+http://dbpedia.org/resource/Spain,Spain,http://dbpedia.org/resource/Spain,3341.3900000000012
+http://dbpedia.org/resource/Japan,Japan,http://dbpedia.org/resource/Japan,3221.07
+http://dbpedia.org/resource/China,China,http://dbpedia.org/resource/China,2844.1650000000004
+http://dbpedia.org/resource/Canada,Canada,http://dbpedia.org/resource/Canada,2572.3
+http://dbpedia.org/resource/Brazil,Brazil,http://dbpedia.org/resource/Brazil,2424.17
+http://dbpedia.org/resource/India,India,http://dbpedia.org/resource/India,2380.5
+http://dbpedia.org/resource/Sweden,Sweden,http://dbpedia.org/resource/Sweden,2169.57
+http://dbpedia.org/resource/Poland,Poland,http://dbpedia.org/resource/Poland,2112.36
+http://dbpedia.org/resource/Argentina,Argentina,http://dbpedia.org/resource/Argentina,1977.2150000000001
+http://dbpedia.org/resource/Iran,Iran,http://dbpedia.org/resource/Iran,1841.1100000000004
+http://dbpedia.org/resource/Switzerland,Switzerland,http://dbpedia.org/resource/Switzerland,1751.92
+http://dbpedia.org/resource/Turkey,Turkey,http://dbpedia.org/resource/Turkey,1707.8400000000001
+http://dbpedia.org/resource/Belgium,Belgium,http://dbpedia.org/resource/Belgium,1582.5600000000004
+http://dbpedia.org/resource/Czech_Republic,Czech Republic,http://dbpedia.org/resource/Czech_Republic,1555.075
+http://dbpedia.org/resource/Austria,Austria,http://dbpedia.org/resource/Austria,1527.255
+http://dbpedia.org/resource/South_Korea,South Korea,http://dbpedia.org/resource/South_Korea,1525.8400000000001
+http://dbpedia.org/resource/Soviet_Union,Soviet Union,http://dbpedia.org/resource/Soviet_Union,1493.89
+http://dbpedia.org/resource/Norway,Norway,http://dbpedia.org/resource/Norway,1454.705
+http://dbpedia.org/resource/South_Africa,South Africa,http://dbpedia.org/resource/South_Africa,1412.3100000000002
+http://dbpedia.org/resource/Ukraine,Ukraine,http://dbpedia.org/resource/Ukraine,1364.2050000000002
+http://dbpedia.org/resource/Romania,Romania,http://dbpedia.org/resource/Romania,1355.1850000000002
+http://dbpedia.org/resource/Greece,Greece,http://dbpedia.org/resource/Greece,1327.9400000000003
+http://dbpedia.org/resource/Mexico,Mexico,http://dbpedia.org/resource/Mexico,1312.0800000000002
+http://dbpedia.org/resource/New_Zealand,New Zealand,http://dbpedia.org/resource/New_Zealand,1291.585
+http://dbpedia.org/resource/Hungary,Hungary,http://dbpedia.org/resource/Hungary,1263.4750000000001
+http://dbpedia.org/resource/Portugal,Portugal,http://dbpedia.org/resource/Portugal,1253.89
+http://dbpedia.org/resource/Finland,Finland,http://dbpedia.org/resource/Finland,1231.7750000000003
+http://dbpedia.org/resource/Indonesia,Indonesia,http://dbpedia.org/resource/Indonesia,1203.2050000000002
+http://dbpedia.org/resource/Thailand,Thailand,http://dbpedia.org/resource/Thailand,1201.785
+http://dbpedia.org/resource/Philippines,Philippines,http://dbpedia.org/resource/Philippines,1199.065
+http://dbpedia.org/resource/Serbia,Serbia,http://dbpedia.org/resource/Serbia,1165.765
+http://dbpedia.org/resource/Malaysia,Malaysia,http://dbpedia.org/resource/Malaysia,1120.675
+http://dbpedia.org/resource/Croatia,Croatia,http://dbpedia.org/resource/Croatia,1099.07
+http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,United Kingdom of Great Britain and Ireland,http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland,1060.345
+http://dbpedia.org/resource/Israel,Israel,http://dbpedia.org/resource/Israel,1018.405
+http://dbpedia.org/resource/Bulgaria,Bulgaria,http://dbpedia.org/resource/Bulgaria,947.2550000000001
+http://dbpedia.org/resource/Colombia,Colombia,http://dbpedia.org/resource/Colombia,938.99
+http://dbpedia.org/resource/Republic_of_Ireland,Republic of Ireland,http://dbpedia.org/resource/Republic_of_Ireland,900.39
+http://dbpedia.org/resource/Slovenia,Slovenia,http://dbpedia.org/resource/Slovenia,897.7550000000001
+http://dbpedia.org/resource/Pakistan,Pakistan,http://dbpedia.org/resource/Pakistan,882.48
+http://dbpedia.org/resource/Slovakia,Slovakia,http://dbpedia.org/resource/Slovakia,869.8600000000001
+http://dbpedia.org/resource/Singapore,Singapore,http://dbpedia.org/resource/Singapore,855.1200000000001
+http://dbpedia.org/resource/Egypt,Egypt,http://dbpedia.org/resource/Egypt,852.905
+http://dbpedia.org/resource/Nazi_Germany,Nazi Germany,http://dbpedia.org/resource/Nazi_Germany,764.325
+http://dbpedia.org/resource/Chile,Chile,http://dbpedia.org/resource/Chile,755.98
+http://dbpedia.org/resource/Vietnam,Vietnam,http://dbpedia.org/resource/Vietnam,733.34
+http://dbpedia.org/resource/Estonia,Estonia,http://dbpedia.org/resource/Estonia,728.895
+http://dbpedia.org/resource/Lithuania,Lithuania,http://dbpedia.org/resource/Lithuania,713.9350000000001
+http://dbpedia.org/resource/Kazakhstan,Kazakhstan,http://dbpedia.org/resource/Kazakhstan,707.9350000000001
+http://dbpedia.org/resource/Venezuela,Venezuela,http://dbpedia.org/resource/Venezuela,706.02
+http://dbpedia.org/resource/Belarus,Belarus,http://dbpedia.org/resource/Belarus,691.8650000000001
+http://dbpedia.org/resource/Taiwan,Taiwan,http://dbpedia.org/resource/Taiwan,685.835
+http://dbpedia.org/resource/Saudi_Arabia,Saudi Arabia,http://dbpedia.org/resource/Saudi_Arabia,674.46
+http://dbpedia.org/resource/Ottoman_Empire,Ottoman Empire,http://dbpedia.org/resource/Ottoman_Empire,656.81
+http://dbpedia.org/resource/Nigeria,Nigeria,http://dbpedia.org/resource/Nigeria,651.7800000000001
+http://dbpedia.org/resource/Azerbaijan,Azerbaijan,http://dbpedia.org/resource/Azerbaijan,651.36
+http://dbpedia.org/resource/Roman_Empire,Roman Empire,http://dbpedia.org/resource/Roman_Empire,650.0900000000001
+http://dbpedia.org/resource/Peru,Peru,http://dbpedia.org/resource/Peru,638.7950000000001
+http://dbpedia.org/resource/West_Germany,West Germany,http://dbpedia.org/resource/West_Germany,637.2500000000001
+http://dbpedia.org/resource/Algeria,Algeria,http://dbpedia.org/resource/Algeria,636.33
+http://dbpedia.org/resource/Cuba,Cuba,http://dbpedia.org/resource/Cuba,629.7850000000001
+http://dbpedia.org/resource/European_Union,European Union,http://dbpedia.org/resource/European_Union,623.9850000000001
+http://dbpedia.org/resource/Bangladesh,Bangladesh,http://dbpedia.org/resource/Bangladesh,622.34
+http://dbpedia.org/resource/Morocco,Morocco,http://dbpedia.org/resource/Morocco,595.32
+http://dbpedia.org/resource/Bosnia_and_Herzegovina,Bosnia and Herzegovina,http://dbpedia.org/resource/Bosnia_and_Herzegovina,586.6200000000001
+http://dbpedia.org/resource/Kenya,Kenya,http://dbpedia.org/resource/Kenya,575.385
+http://dbpedia.org/resource/Latvia,Latvia,http://dbpedia.org/resource/Latvia,571.1049999999999
+http://dbpedia.org/resource/Sri_Lanka,Sri Lanka,http://dbpedia.org/resource/Sri_Lanka,568.32
+http://dbpedia.org/resource/Georgia_(country),Georgia (country),http://dbpedia.org/resource/Georgia_(country),564.0350000000001
+http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia,Socialist Federal Republic of Yugoslavia,http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia,553.25
+http://dbpedia.org/resource/Afghanistan,Afghanistan,http://dbpedia.org/resource/Afghanistan,550.25
+http://dbpedia.org/resource/Albania,Albania,http://dbpedia.org/resource/Albania,549.7099999999999
+http://dbpedia.org/resource/Armenia,Armenia,http://dbpedia.org/resource/Armenia,546.505
+http://dbpedia.org/resource/Iraq,Iraq,http://dbpedia.org/resource/Iraq,538.255
+http://dbpedia.org/resource/Ethiopia,Ethiopia,http://dbpedia.org/resource/Ethiopia,526.99
+http://dbpedia.org/resource/Syria,Syria,http://dbpedia.org/resource/Syria,520.86
+http://dbpedia.org/resource/United_Arab_Emirates,United Arab Emirates,http://dbpedia.org/resource/United_Arab_Emirates,519.715
+http://dbpedia.org/resource/Uruguay,Uruguay,http://dbpedia.org/resource/Uruguay,516.73
+http://dbpedia.org/resource/Russian_Empire,Russian Empire,http://dbpedia.org/resource/Russian_Empire,514.3299999999999
+http://dbpedia.org/resource/Cyprus,Cyprus,http://dbpedia.org/resource/Cyprus,506.445
+http://dbpedia.org/resource/East_Germany,East Germany,http://dbpedia.org/resource/East_Germany,503.73
+http://dbpedia.org/resource/Ecuador,Ecuador,http://dbpedia.org/resource/Ecuador,495.32500000000005
+http://dbpedia.org/resource/Nepal,Nepal,http://dbpedia.org/resource/Nepal,491.875
+http://dbpedia.org/resource/Byzantine_Empire,Byzantine Empire,http://dbpedia.org/resource/Byzantine_Empire,487.60499999999996
+http://dbpedia.org/resource/Jamaica,Jamaica,http://dbpedia.org/resource/Jamaica,486.3700000000001
+http://dbpedia.org/resource/Tunisia,Tunisia,http://dbpedia.org/resource/Tunisia,479.56500000000005
+http://dbpedia.org/resource/Czechoslovakia,Czechoslovakia,http://dbpedia.org/resource/Czechoslovakia,475.31000000000006
+http://dbpedia.org/resource/Ancient_Rome,Ancient Rome,http://dbpedia.org/resource/Ancient_Rome,474.53499999999997
+http://dbpedia.org/resource/Dominican_Republic,Dominican Republic,http://dbpedia.org/resource/Dominican_Republic,470.77
+http://dbpedia.org/resource/Ghana,Ghana,http://dbpedia.org/resource/Ghana,459.085
+http://dbpedia.org/resource/Malta,Malta,http://dbpedia.org/resource/Malta,456.6
+http://dbpedia.org/resource/Zimbabwe,Zimbabwe,http://dbpedia.org/resource/Zimbabwe,456.51000000000005
+http://dbpedia.org/resource/Iceland,Iceland,http://dbpedia.org/resource/Iceland,455.6800000000001
+http://dbpedia.org/resource/Macedonia_(ancient_kingdom),Macedonia (ancient kingdom),http://dbpedia.org/resource/Macedonia_(ancient_kingdom),452.19000000000005
+http://dbpedia.org/resource/Myanmar,Myanmar,http://dbpedia.org/resource/Myanmar,450.20000000000005
+http://dbpedia.org/resource/British_Raj,British Raj,http://dbpedia.org/resource/British_Raj,449.38000000000005
+http://dbpedia.org/resource/Lebanon,Lebanon,http://dbpedia.org/resource/Lebanon,447.8999999999999
+http://dbpedia.org/resource/Qatar,Qatar,http://dbpedia.org/resource/Qatar,446.8299999999999
+http://dbpedia.org/resource/Uzbekistan,Uzbekistan,http://dbpedia.org/resource/Uzbekistan,445.48
+http://dbpedia.org/resource/North_Korea,North Korea,http://dbpedia.org/resource/North_Korea,438.20500000000015
+http://dbpedia.org/resource/Neo-Assyrian_Empire,Neo-Assyrian Empire,http://dbpedia.org/resource/Neo-Assyrian_Empire,435.71000000000004
+http://dbpedia.org/resource/Kuwait,Kuwait,http://dbpedia.org/resource/Kuwait,435.58000000000004
+http://dbpedia.org/resource/Parthian_Empire,Parthian Empire,http://dbpedia.org/resource/Parthian_Empire,431.4549999999999
+http://dbpedia.org/resource/North_Macedonia,North Macedonia,http://dbpedia.org/resource/North_Macedonia,429.76000000000005
+http://dbpedia.org/resource/Achaemenid_Empire,Achaemenid Empire,http://dbpedia.org/resource/Achaemenid_Empire,429.1
+http://dbpedia.org/resource/United_Nations,United Nations,http://dbpedia.org/resource/United_Nations,415.40000000000003
+http://dbpedia.org/resource/Austria-Hungary,Austria-Hungary,http://dbpedia.org/resource/Austria-Hungary,410.78999999999996
+http://dbpedia.org/resource/Tanzania,Tanzania,http://dbpedia.org/resource/Tanzania,407.1
+http://dbpedia.org/resource/Roman_Republic,Roman Republic,http://dbpedia.org/resource/Roman_Republic,402.855
+http://dbpedia.org/resource/Luxembourg,Luxembourg,http://dbpedia.org/resource/Luxembourg,399.98
+http://dbpedia.org/resource/Haiti,Haiti,http://dbpedia.org/resource/Haiti,399.74
+http://dbpedia.org/resource/Kingdom_of_Italy,Kingdom of Italy,http://dbpedia.org/resource/Kingdom_of_Italy,396.8
+http://dbpedia.org/resource/Moldova,Moldova,http://dbpedia.org/resource/Moldova,393.21000000000004
+http://dbpedia.org/resource/Yemen,Yemen,http://dbpedia.org/resource/Yemen,392.80000000000007
+http://dbpedia.org/resource/Angola,Angola,http://dbpedia.org/resource/Angola,391.785
+http://dbpedia.org/resource/Somalia,Somalia,http://dbpedia.org/resource/Somalia,391.59
+http://dbpedia.org/resource/Jordan,Jordan,http://dbpedia.org/resource/Jordan,391.44000000000005
+http://dbpedia.org/resource/Bolivia,Bolivia,http://dbpedia.org/resource/Bolivia,387.53999999999996
+http://dbpedia.org/resource/Empire_of_Japan,Empire of Japan,http://dbpedia.org/resource/Empire_of_Japan,381.75
+http://dbpedia.org/resource/Cambodia,Cambodia,http://dbpedia.org/resource/Cambodia,377.18000000000006
+http://dbpedia.org/resource/German_Empire,German Empire,http://dbpedia.org/resource/German_Empire,374.07500000000005
+http://dbpedia.org/resource/Axis_powers,Axis powers,http://dbpedia.org/resource/Axis_powers,373.885
+http://dbpedia.org/resource/Han_dynasty,Han dynasty,http://dbpedia.org/resource/Han_dynasty,370.385
+http://dbpedia.org/resource/Trinidad_and_Tobago,Trinidad and Tobago,http://dbpedia.org/resource/Trinidad_and_Tobago,369.5450000000001
+http://dbpedia.org/resource/Confederate_States_of_America,Confederate States of America,http://dbpedia.org/resource/Confederate_States_of_America,368.125
+http://dbpedia.org/resource/Bahrain,Bahrain,http://dbpedia.org/resource/Bahrain,366.17
+http://dbpedia.org/resource/Honduras,Honduras,http://dbpedia.org/resource/Honduras,365.51500000000004
+http://dbpedia.org/resource/Qing_dynasty,Qing dynasty,http://dbpedia.org/resource/Qing_dynasty,362.92
+http://dbpedia.org/resource/Madagascar,Madagascar,http://dbpedia.org/resource/Madagascar,361.035
+http://dbpedia.org/resource/Tang_dynasty,Tang dynasty,http://dbpedia.org/resource/Tang_dynasty,360.65500000000003
+http://dbpedia.org/resource/Democratic_Republic_of_the_Congo,Democratic Republic of the Congo,http://dbpedia.org/resource/Democratic_Republic_of_the_Congo,360.40000000000003
+http://dbpedia.org/resource/Independent_State_of_Croatia,Independent State of Croatia,http://dbpedia.org/resource/Independent_State_of_Croatia,358.605
+http://dbpedia.org/resource/Montenegro,Montenegro,http://dbpedia.org/resource/Montenegro,357.72
+http://dbpedia.org/resource/Guatemala,Guatemala,http://dbpedia.org/resource/Guatemala,357.515
+http://dbpedia.org/resource/Kosovo,Kosovo,http://dbpedia.org/resource/Kosovo,355.87
+http://dbpedia.org/resource/Cameroon,Cameroon,http://dbpedia.org/resource/Cameroon,354.715
+http://dbpedia.org/resource/Oman,Oman,http://dbpedia.org/resource/Oman,351.515
+http://dbpedia.org/resource/Papua_New_Guinea,Papua New Guinea,http://dbpedia.org/resource/Papua_New_Guinea,349.44000000000005
+http://dbpedia.org/resource/Holy_Roman_Empire,Holy Roman Empire,http://dbpedia.org/resource/Holy_Roman_Empire,349.295
+http://dbpedia.org/resource/Uganda,Uganda,http://dbpedia.org/resource/Uganda,346.895
+http://dbpedia.org/resource/Seljuk_Empire,Seljuk Empire,http://dbpedia.org/resource/Seljuk_Empire,346.625
+http://dbpedia.org/resource/Paraguay,Paraguay,http://dbpedia.org/resource/Paraguay,346.0450000000001
+http://dbpedia.org/resource/Monaco,Monaco,http://dbpedia.org/resource/Monaco,343.4200000000001
+http://dbpedia.org/resource/British_Empire,British Empire,http://dbpedia.org/resource/British_Empire,342.21500000000003
+http://dbpedia.org/resource/Khazars,Khazars,http://dbpedia.org/resource/Khazars,340.87
+http://dbpedia.org/resource/Fatimid_Caliphate,Fatimid Caliphate,http://dbpedia.org/resource/Fatimid_Caliphate,339.135
+http://dbpedia.org/resource/Ebla,Ebla,http://dbpedia.org/resource/Ebla,338.94
+http://dbpedia.org/resource/Sierra_Leone,Sierra Leone,http://dbpedia.org/resource/Sierra_Leone,332.61500000000007
+http://dbpedia.org/resource/Kushan_Empire,Kushan Empire,http://dbpedia.org/resource/Kushan_Empire,327.41
+http://dbpedia.org/resource/Libya,Libya,http://dbpedia.org/resource/Libya,327.21000000000004
+http://dbpedia.org/resource/Holy_See,Holy See,http://dbpedia.org/resource/Holy_See,326.28000000000003
+http://dbpedia.org/resource/Seleucid_Empire,Seleucid Empire,http://dbpedia.org/resource/Seleucid_Empire,325.465
+http://dbpedia.org/resource/Mongolia,Mongolia,http://dbpedia.org/resource/Mongolia,321.58500000000004
+http://dbpedia.org/resource/Rwanda,Rwanda,http://dbpedia.org/resource/Rwanda,320.185
+http://dbpedia.org/resource/Senegal,Senegal,http://dbpedia.org/resource/Senegal,319.40500000000003
+http://dbpedia.org/resource/Costa_Rica,Costa Rica,http://dbpedia.org/resource/Costa_Rica,318.08500000000004
+http://dbpedia.org/resource/Ivory_Coast,Ivory Coast,http://dbpedia.org/resource/Ivory_Coast,317.99000000000007
+http://dbpedia.org/resource/Spanish_Empire,Spanish Empire,http://dbpedia.org/resource/Spanish_Empire,317.05500000000006
+http://dbpedia.org/resource/El_Salvador,El Salvador,http://dbpedia.org/resource/El_Salvador,313.56000000000006
+http://dbpedia.org/resource/Nicaragua,Nicaragua,http://dbpedia.org/resource/Nicaragua,313.145
+http://dbpedia.org/resource/Mauritius,Mauritius,http://dbpedia.org/resource/Mauritius,311.73500000000007
+http://dbpedia.org/resource/Empire_of_Brazil,Empire of Brazil,http://dbpedia.org/resource/Empire_of_Brazil,309.74500000000006
+http://dbpedia.org/resource/Hephthalites,Hephthalites,http://dbpedia.org/resource/Hephthalites,309.63000000000005
+http://dbpedia.org/resource/Mali,Mali,http://dbpedia.org/resource/Mali,308.645
+http://dbpedia.org/resource/Polish–Lithuanian_Commonwealth,Polish–Lithuanian Commonwealth,http://dbpedia.org/resource/Polish–Lithuanian_Commonwealth,308.37
+http://dbpedia.org/resource/Vichy_France,Vichy France,http://dbpedia.org/resource/Vichy_France,307.95000000000005
+http://dbpedia.org/resource/Panama,Panama,http://dbpedia.org/resource/Panama,306.00500000000005
+http://dbpedia.org/resource/Sudan,Sudan,http://dbpedia.org/resource/Sudan,305.91
+http://dbpedia.org/resource/Mughal_Empire,Mughal Empire,http://dbpedia.org/resource/Mughal_Empire,302.995
+http://dbpedia.org/resource/Sasanian_Empire,Sasanian Empire,http://dbpedia.org/resource/Sasanian_Empire,300.71500000000003
+http://dbpedia.org/resource/Burkina_Faso,Burkina Faso,http://dbpedia.org/resource/Burkina_Faso,299.87
+http://dbpedia.org/resource/Indo-Greek_Kingdom,Indo-Greek Kingdom,http://dbpedia.org/resource/Indo-Greek_Kingdom,299.81000000000006
+http://dbpedia.org/resource/Gaelic_Ireland,Gaelic Ireland,http://dbpedia.org/resource/Gaelic_Ireland,298.545
+http://dbpedia.org/resource/Hanseatic_League,Hanseatic League,http://dbpedia.org/resource/Hanseatic_League,296.71
+http://dbpedia.org/resource/Papal_States,Papal States,http://dbpedia.org/resource/Papal_States,293.94
+http://dbpedia.org/resource/Vatican_City,Vatican City,http://dbpedia.org/resource/Vatican_City,291.87499999999994
+http://dbpedia.org/resource/Song_dynasty,Song dynasty,http://dbpedia.org/resource/Song_dynasty,291.675
+http://dbpedia.org/resource/Allies_of_World_War_II,Allies of World War II,http://dbpedia.org/resource/Allies_of_World_War_II,291.65000000000003
+http://dbpedia.org/resource/Namibia,Namibia,http://dbpedia.org/resource/Namibia,290.835
+http://dbpedia.org/resource/First_Bulgarian_Empire,First Bulgarian Empire,http://dbpedia.org/resource/First_Bulgarian_Empire,289.785
+http://dbpedia.org/resource/Autonomous_Administration_of_North_and_East_Syria,Autonomous Administration of North and East Syria,http://dbpedia.org/resource/Autonomous_Administration_of_North_and_East_Syria,287.96999999999997
+http://dbpedia.org/resource/Abbasid_Caliphate,Abbasid Caliphate,http://dbpedia.org/resource/Abbasid_Caliphate,287.71
+http://dbpedia.org/resource/Laos,Laos,http://dbpedia.org/resource/Laos,287.28999999999996
+http://dbpedia.org/resource/Western_Roman_Empire,Western Roman Empire,http://dbpedia.org/resource/Western_Roman_Empire,284.705
+http://dbpedia.org/resource/Tajikistan,Tajikistan,http://dbpedia.org/resource/Tajikistan,283.96500000000003
+http://dbpedia.org/resource/Akkadian_Empire,Akkadian Empire,http://dbpedia.org/resource/Akkadian_Empire,282.67
+http://dbpedia.org/resource/New_Spain,New Spain,http://dbpedia.org/resource/New_Spain,282.09
+http://dbpedia.org/resource/Majapahit,Majapahit,http://dbpedia.org/resource/Majapahit,279.665
+http://dbpedia.org/resource/Bhutan,Bhutan,http://dbpedia.org/resource/Bhutan,278.57
+http://dbpedia.org/resource/The_Bahamas,The Bahamas,http://dbpedia.org/resource/The_Bahamas,276.46999999999997
+http://dbpedia.org/resource/Maldives,Maldives,http://dbpedia.org/resource/Maldives,276.425
+http://dbpedia.org/resource/Portuguese_Empire,Portuguese Empire,http://dbpedia.org/resource/Portuguese_Empire,276.195
+http://dbpedia.org/resource/Fiji,Fiji,http://dbpedia.org/resource/Fiji,276.06500000000005
+http://dbpedia.org/resource/History_of_Catalonia,History of Catalonia,http://dbpedia.org/resource/History_of_Catalonia,275.965
+http://dbpedia.org/resource/East_Timor,East Timor,http://dbpedia.org/resource/East_Timor,274.77500000000003
+http://dbpedia.org/resource/Tondo_(historical_polity),Tondo (historical polity),http://dbpedia.org/resource/Tondo_(historical_polity),273.075
+http://dbpedia.org/resource/Alchon_Huns,Alchon Huns,http://dbpedia.org/resource/Alchon_Huns,272.365
+http://dbpedia.org/resource/Liberia,Liberia,http://dbpedia.org/resource/Liberia,270.805
+http://dbpedia.org/resource/Brunei,Brunei,http://dbpedia.org/resource/Brunei,270.18
+http://dbpedia.org/resource/Korea,Korea,http://dbpedia.org/resource/Korea,270.10499999999996
+http://dbpedia.org/resource/Kyrgyzstan,Kyrgyzstan,http://dbpedia.org/resource/Kyrgyzstan,269.96500000000003
+"http://dbpedia.org/resource/Mari,_Syria","Mari, Syria","http://dbpedia.org/resource/Mari,_Syria",269.515
+http://dbpedia.org/resource/Turkmenistan,Turkmenistan,http://dbpedia.org/resource/Turkmenistan,269.49500000000006
+http://dbpedia.org/resource/Xiongnu,Xiongnu,http://dbpedia.org/resource/Xiongnu,269.385
+http://dbpedia.org/resource/Mozambique,Mozambique,http://dbpedia.org/resource/Mozambique,267.18
+http://dbpedia.org/resource/Zambia,Zambia,http://dbpedia.org/resource/Zambia,266.8
+http://dbpedia.org/resource/Ming_dynasty,Ming dynasty,http://dbpedia.org/resource/Ming_dynasty,266.46500000000003
+http://dbpedia.org/resource/Somaliland,Somaliland,http://dbpedia.org/resource/Somaliland,266.19
+http://dbpedia.org/resource/Andorra,Andorra,http://dbpedia.org/resource/Andorra,264.135
+http://dbpedia.org/resource/Umayyad_Caliphate,Umayyad Caliphate,http://dbpedia.org/resource/Umayyad_Caliphate,263.76
+http://dbpedia.org/resource/Safavid_Iran,Safavid Iran,http://dbpedia.org/resource/Safavid_Iran,263.375
+http://dbpedia.org/resource/Barbados,Barbados,http://dbpedia.org/resource/Barbados,262.535
+http://dbpedia.org/resource/Botswana,Botswana,http://dbpedia.org/resource/Botswana,262.395
+http://dbpedia.org/resource/California_Republic,California Republic,http://dbpedia.org/resource/California_Republic,261.94
+http://dbpedia.org/resource/Assyria,Assyria,http://dbpedia.org/resource/Assyria,259.58
+http://dbpedia.org/resource/Italian_Social_Republic,Italian Social Republic,http://dbpedia.org/resource/Italian_Social_Republic,255.525
+http://dbpedia.org/resource/Ottoman_Algeria,Ottoman Algeria,http://dbpedia.org/resource/Ottoman_Algeria,255.31499999999997
+http://dbpedia.org/resource/Solomon_Islands,Solomon Islands,http://dbpedia.org/resource/Solomon_Islands,255.255
+http://dbpedia.org/resource/Old_Assyrian_period,Old Assyrian period,http://dbpedia.org/resource/Old_Assyrian_period,254.96
+http://dbpedia.org/resource/Kingdom_of_Great_Britain,Kingdom of Great Britain,http://dbpedia.org/resource/Kingdom_of_Great_Britain,254.07000000000005
+http://dbpedia.org/resource/Yuan_dynasty,Yuan dynasty,http://dbpedia.org/resource/Yuan_dynasty,253.995
+http://dbpedia.org/resource/Eritrea,Eritrea,http://dbpedia.org/resource/Eritrea,253.87000000000003
+http://dbpedia.org/resource/Tuvalu,Tuvalu,http://dbpedia.org/resource/Tuvalu,253.43999999999997
+http://dbpedia.org/resource/Middle_Assyrian_Empire,Middle Assyrian Empire,http://dbpedia.org/resource/Middle_Assyrian_Empire,251.11499999999998
+http://dbpedia.org/resource/Ancient_Carthage,Ancient Carthage,http://dbpedia.org/resource/Ancient_Carthage,250.79000000000002
+http://dbpedia.org/resource/Kingdom_of_Greece,Kingdom of Greece,http://dbpedia.org/resource/Kingdom_of_Greece,250.58500000000004
+http://dbpedia.org/resource/Abkhazia,Abkhazia,http://dbpedia.org/resource/Abkhazia,249.00999999999996
+http://dbpedia.org/resource/Niger,Niger,http://dbpedia.org/resource/Niger,248.91
+http://dbpedia.org/resource/Neo-Babylonian_Empire,Neo-Babylonian Empire,http://dbpedia.org/resource/Neo-Babylonian_Empire,248.56499999999997
+http://dbpedia.org/resource/Republic_of_Artsakh,Republic of Artsakh,http://dbpedia.org/resource/Republic_of_Artsakh,247.66500000000002
+http://dbpedia.org/resource/African_Union,African Union,http://dbpedia.org/resource/African_Union,246.60500000000002
+http://dbpedia.org/resource/Guyana,Guyana,http://dbpedia.org/resource/Guyana,246.08500000000004
+http://dbpedia.org/resource/Djibouti,Djibouti,http://dbpedia.org/resource/Djibouti,245.885
+http://dbpedia.org/resource/Manchukuo,Manchukuo,http://dbpedia.org/resource/Manchukuo,244.775
+http://dbpedia.org/resource/Territories_of_the_United_States,Territories of the United States,http://dbpedia.org/resource/Territories_of_the_United_States,242.24
+http://dbpedia.org/resource/Mamluk_Sultanate,Mamluk Sultanate,http://dbpedia.org/resource/Mamluk_Sultanate,242.0
+http://dbpedia.org/resource/Commonwealth_of_Nations,Commonwealth of Nations,http://dbpedia.org/resource/Commonwealth_of_Nations,240.585
+http://dbpedia.org/resource/Territory_of_the_Islamic_State,Territory of the Islamic State,http://dbpedia.org/resource/Territory_of_the_Islamic_State,239.70000000000002
+http://dbpedia.org/resource/Fascist_Italy_(1922–1943),Fascist Italy (1922–1943),http://dbpedia.org/resource/Fascist_Italy_(1922–1943),239.39999999999998
+http://dbpedia.org/resource/Iroquois,Iroquois,http://dbpedia.org/resource/Iroquois,237.73999999999998
+http://dbpedia.org/resource/Vanuatu,Vanuatu,http://dbpedia.org/resource/Vanuatu,237.42000000000004
+http://dbpedia.org/resource/Suriname,Suriname,http://dbpedia.org/resource/Suriname,237.185
+http://dbpedia.org/resource/Palestine_(region),Palestine (region),http://dbpedia.org/resource/Palestine_(region),236.69000000000003
+http://dbpedia.org/resource/Nguyễn_dynasty,Nguyễn dynasty,http://dbpedia.org/resource/Nguyễn_dynasty,233.89000000000001
+http://dbpedia.org/resource/Valentinianic_dynasty,Valentinianic dynasty,http://dbpedia.org/resource/Valentinianic_dynasty,233.06499999999997
+http://dbpedia.org/resource/4th_of_August_Regime,4th of August Regime,http://dbpedia.org/resource/4th_of_August_Regime,233.05500000000004
+http://dbpedia.org/resource/Special_territories_of_members_of_the_European_Economic_Area,Special territories of members of the European Economic Area,http://dbpedia.org/resource/Special_territories_of_members_of_the_European_Economic_Area,232.73
+http://dbpedia.org/resource/Hasmonean_dynasty,Hasmonean dynasty,http://dbpedia.org/resource/Hasmonean_dynasty,232.245
+http://dbpedia.org/resource/Rattanakosin_Kingdom_(1782–1932),Rattanakosin Kingdom (1782–1932),http://dbpedia.org/resource/Rattanakosin_Kingdom_(1782–1932),232.085
+http://dbpedia.org/resource/Guinea,Guinea,http://dbpedia.org/resource/Guinea,229.74000000000007
+http://dbpedia.org/resource/Kingdom_of_Gwynedd,Kingdom of Gwynedd,http://dbpedia.org/resource/Kingdom_of_Gwynedd,228.65
+http://dbpedia.org/resource/Chad,Chad,http://dbpedia.org/resource/Chad,228.61
+http://dbpedia.org/resource/Marshall_Islands,Marshall Islands,http://dbpedia.org/resource/Marshall_Islands,226.82
+http://dbpedia.org/resource/Malawi,Malawi,http://dbpedia.org/resource/Malawi,226.61499999999998
+http://dbpedia.org/resource/Cape_Verde,Cape Verde,http://dbpedia.org/resource/Cape_Verde,226.07999999999998
+http://dbpedia.org/resource/Serbia_and_Montenegro,Serbia and Montenegro,http://dbpedia.org/resource/Serbia_and_Montenegro,224.98000000000002
+http://dbpedia.org/resource/Central_African_Republic,Central African Republic,http://dbpedia.org/resource/Central_African_Republic,224.68000000000004
+http://dbpedia.org/resource/Mongol_Empire,Mongol Empire,http://dbpedia.org/resource/Mongol_Empire,224.15
+http://dbpedia.org/resource/French_Indochina,French Indochina,http://dbpedia.org/resource/French_Indochina,223.875
+http://dbpedia.org/resource/State_of_Palestine,State of Palestine,http://dbpedia.org/resource/State_of_Palestine,223.28999999999996
+http://dbpedia.org/resource/Sogdia,Sogdia,http://dbpedia.org/resource/Sogdia,223.0
+http://dbpedia.org/resource/Raj_of_Sarawak,Raj of Sarawak,http://dbpedia.org/resource/Raj_of_Sarawak,221.80499999999998
+http://dbpedia.org/resource/Twenty-fifth_Dynasty_of_Egypt,Twenty-fifth Dynasty of Egypt,http://dbpedia.org/resource/Twenty-fifth_Dynasty_of_Egypt,221.10000000000002
+http://dbpedia.org/resource/Chola_dynasty,Chola dynasty,http://dbpedia.org/resource/Chola_dynasty,220.66
+http://dbpedia.org/resource/Belize,Belize,http://dbpedia.org/resource/Belize,220.285
+http://dbpedia.org/resource/Muisca_Confederation,Muisca Confederation,http://dbpedia.org/resource/Muisca_Confederation,219.10000000000002
+http://dbpedia.org/resource/Maurya_Empire,Maurya Empire,http://dbpedia.org/resource/Maurya_Empire,218.81
+http://dbpedia.org/resource/South_Sudan,South Sudan,http://dbpedia.org/resource/South_Sudan,218.525
+http://dbpedia.org/resource/Benin,Benin,http://dbpedia.org/resource/Benin,218.13000000000002
+http://dbpedia.org/resource/Burundi,Burundi,http://dbpedia.org/resource/Burundi,217.425
+http://dbpedia.org/resource/Yamhad,Yamhad,http://dbpedia.org/resource/Yamhad,215.31
+http://dbpedia.org/resource/Samoa,Samoa,http://dbpedia.org/resource/Samoa,214.96500000000003
+http://dbpedia.org/resource/Delhi_Sultanate,Delhi Sultanate,http://dbpedia.org/resource/Delhi_Sultanate,214.57
+http://dbpedia.org/resource/Srivijaya,Srivijaya,http://dbpedia.org/resource/Srivijaya,213.41499999999996
+http://dbpedia.org/resource/Ghaznavids,Ghaznavids,http://dbpedia.org/resource/Ghaznavids,213.17999999999998
+http://dbpedia.org/resource/Guinea-Bissau,Guinea-Bissau,http://dbpedia.org/resource/Guinea-Bissau,212.89500000000004
+http://dbpedia.org/resource/French_colonial_empire,French colonial empire,http://dbpedia.org/resource/French_colonial_empire,212.89
+http://dbpedia.org/resource/Thirteen_Colonies,Thirteen Colonies,http://dbpedia.org/resource/Thirteen_Colonies,212.82
+http://dbpedia.org/resource/League_of_Nations,League of Nations,http://dbpedia.org/resource/League_of_Nations,212.735
+http://dbpedia.org/resource/Kingdom_of_Prussia,Kingdom of Prussia,http://dbpedia.org/resource/Kingdom_of_Prussia,211.17000000000004
+http://dbpedia.org/resource/Nordic_countries,Nordic countries,http://dbpedia.org/resource/Nordic_countries,210.96
+http://dbpedia.org/resource/Liechtenstein,Liechtenstein,http://dbpedia.org/resource/Liechtenstein,209.81
+http://dbpedia.org/resource/Golden_Horde,Golden Horde,http://dbpedia.org/resource/Golden_Horde,208.595
+http://dbpedia.org/resource/Weimar_Republic,Weimar Republic,http://dbpedia.org/resource/Weimar_Republic,208.135
+http://dbpedia.org/resource/Free_France,Free France,http://dbpedia.org/resource/Free_France,207.82
+http://dbpedia.org/resource/Ayyubid_dynasty,Ayyubid dynasty,http://dbpedia.org/resource/Ayyubid_dynasty,206.65
+http://dbpedia.org/resource/Liao_dynasty,Liao dynasty,http://dbpedia.org/resource/Liao_dynasty,205.98
+http://dbpedia.org/resource/The_Gambia,The Gambia,http://dbpedia.org/resource/The_Gambia,205.50500000000002
+http://dbpedia.org/resource/Kingdom_of_Scotland,Kingdom of Scotland,http://dbpedia.org/resource/Kingdom_of_Scotland,204.595
+http://dbpedia.org/resource/Post-imperial_Assyria,Post-imperial Assyria,http://dbpedia.org/resource/Post-imperial_Assyria,204.185
+http://dbpedia.org/resource/Gaza_Strip,Gaza Strip,http://dbpedia.org/resource/Gaza_Strip,203.0
+http://dbpedia.org/resource/Travancore,Travancore,http://dbpedia.org/resource/Travancore,202.60000000000002
+http://dbpedia.org/resource/Seychelles,Seychelles,http://dbpedia.org/resource/Seychelles,202.25
+http://dbpedia.org/resource/Allies_of_World_War_I,Allies of World War I,http://dbpedia.org/resource/Allies_of_World_War_I,200.895
+http://dbpedia.org/resource/Qatna,Qatna,http://dbpedia.org/resource/Qatna,200.82500000000002
+http://dbpedia.org/resource/Makhnovshchina,Makhnovshchina,http://dbpedia.org/resource/Makhnovshchina,199.71
+http://dbpedia.org/resource/Zamorin,Zamorin,http://dbpedia.org/resource/Zamorin,198.5
+http://dbpedia.org/resource/Kassite_dynasty,Kassite dynasty,http://dbpedia.org/resource/Kassite_dynasty,197.815
+http://dbpedia.org/resource/Togo,Togo,http://dbpedia.org/resource/Togo,197.42999999999998
+http://dbpedia.org/resource/Non-Aligned_Movement,Non-Aligned Movement,http://dbpedia.org/resource/Non-Aligned_Movement,196.89999999999998
+http://dbpedia.org/resource/Great_Moravia,Great Moravia,http://dbpedia.org/resource/Great_Moravia,196.81
+http://dbpedia.org/resource/Huns,Huns,http://dbpedia.org/resource/Huns,196.625
+http://dbpedia.org/resource/Mandatory_Palestine,Mandatory Palestine,http://dbpedia.org/resource/Mandatory_Palestine,196.56000000000003
+http://dbpedia.org/resource/Eurasian_Economic_Union,Eurasian Economic Union,http://dbpedia.org/resource/Eurasian_Economic_Union,196.46
+http://dbpedia.org/resource/Greek_junta,Greek junta,http://dbpedia.org/resource/Greek_junta,195.77
+http://dbpedia.org/resource/Mitanni,Mitanni,http://dbpedia.org/resource/Mitanni,195.765
+http://dbpedia.org/resource/Equatorial_Guinea,Equatorial Guinea,http://dbpedia.org/resource/Equatorial_Guinea,194.52
+http://dbpedia.org/resource/Northern_Cyprus,Northern Cyprus,http://dbpedia.org/resource/Northern_Cyprus,194.48
+http://dbpedia.org/resource/Five_Eyes,Five Eyes,http://dbpedia.org/resource/Five_Eyes,194.415
+http://dbpedia.org/resource/Angevin_Empire,Angevin Empire,http://dbpedia.org/resource/Angevin_Empire,194.295
+http://dbpedia.org/resource/Ukrainian_Soviet_Socialist_Republic,Ukrainian Soviet Socialist Republic,http://dbpedia.org/resource/Ukrainian_Soviet_Socialist_Republic,193.70499999999998
+http://dbpedia.org/resource/Almoravid_dynasty,Almoravid dynasty,http://dbpedia.org/resource/Almoravid_dynasty,193.27499999999998
+http://dbpedia.org/resource/Kievan_Rus',Kievan Rus',http://dbpedia.org/resource/Kievan_Rus',192.47000000000003
+http://dbpedia.org/resource/Goguryeo,Goguryeo,http://dbpedia.org/resource/Goguryeo,191.94
+http://dbpedia.org/resource/Antigua_and_Barbuda,Antigua and Barbuda,http://dbpedia.org/resource/Antigua_and_Barbuda,191.91000000000003
+http://dbpedia.org/resource/History_of_Ghana,History of Ghana,http://dbpedia.org/resource/History_of_Ghana,191.435
+http://dbpedia.org/resource/Sikh_Empire,Sikh Empire,http://dbpedia.org/resource/Sikh_Empire,191.35
+http://dbpedia.org/resource/Duchy_of_Pomerania,Duchy of Pomerania,http://dbpedia.org/resource/Duchy_of_Pomerania,191.26
+http://dbpedia.org/resource/Gabon,Gabon,http://dbpedia.org/resource/Gabon,190.95000000000002
+http://dbpedia.org/resource/Second_Bulgarian_Empire,Second Bulgarian Empire,http://dbpedia.org/resource/Second_Bulgarian_Empire,190.875
+http://dbpedia.org/resource/Kingdom_of_Yugoslavia,Kingdom of Yugoslavia,http://dbpedia.org/resource/Kingdom_of_Yugoslavia,190.6
+http://dbpedia.org/resource/New_France,New France,http://dbpedia.org/resource/New_France,190.07
+http://dbpedia.org/resource/Rhodesia,Rhodesia,http://dbpedia.org/resource/Rhodesia,188.59500000000003
+http://dbpedia.org/resource/Grenada,Grenada,http://dbpedia.org/resource/Grenada,188.15499999999997
+http://dbpedia.org/resource/Bengal_Presidency,Bengal Presidency,http://dbpedia.org/resource/Bengal_Presidency,187.89
+http://dbpedia.org/resource/South_Ossetia,South Ossetia,http://dbpedia.org/resource/South_Ossetia,187.52499999999998
+http://dbpedia.org/resource/Ayutthaya_Kingdom,Ayutthaya Kingdom,http://dbpedia.org/resource/Ayutthaya_Kingdom,187.41000000000003
+http://dbpedia.org/resource/Palau,Palau,http://dbpedia.org/resource/Palau,187.115
+http://dbpedia.org/resource/South_Asian_Association_for_Regional_Cooperation,South Asian Association for Regional Cooperation,http://dbpedia.org/resource/South_Asian_Association_for_Regional_Cooperation,186.76999999999998
+http://dbpedia.org/resource/Saadi_Sultanate,Saadi Sultanate,http://dbpedia.org/resource/Saadi_Sultanate,186.255
+http://dbpedia.org/resource/Mauritania,Mauritania,http://dbpedia.org/resource/Mauritania,186.105
+http://dbpedia.org/resource/Maratha_Empire,Maratha Empire,http://dbpedia.org/resource/Maratha_Empire,185.835
+http://dbpedia.org/resource/Yugoslavia,Yugoslavia,http://dbpedia.org/resource/Yugoslavia,184.45000000000002
+http://dbpedia.org/resource/Kiribati,Kiribati,http://dbpedia.org/resource/Kiribati,183.625
+http://dbpedia.org/resource/Polish_People's_Republic,Polish People's Republic,http://dbpedia.org/resource/Polish_People's_Republic,181.735
+http://dbpedia.org/resource/Lesotho,Lesotho,http://dbpedia.org/resource/Lesotho,181.485
+http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,Grand Duchy of Lithuania,http://dbpedia.org/resource/Grand_Duchy_of_Lithuania,180.37
+http://dbpedia.org/resource/Western_Turkic_Khaganate,Western Turkic Khaganate,http://dbpedia.org/resource/Western_Turkic_Khaganate,179.845
+http://dbpedia.org/resource/History_of_Peru,History of Peru,http://dbpedia.org/resource/History_of_Peru,179.17999999999998
+http://dbpedia.org/resource/Vijayanagara_Empire,Vijayanagara Empire,http://dbpedia.org/resource/Vijayanagara_Empire,179.085
+http://dbpedia.org/resource/Goryeo,Goryeo,http://dbpedia.org/resource/Goryeo,178.985
+http://dbpedia.org/resource/Eswatini,Eswatini,http://dbpedia.org/resource/Eswatini,178.83500000000004
+http://dbpedia.org/resource/Dutch_East_Indies,Dutch East Indies,http://dbpedia.org/resource/Dutch_East_Indies,178.365
+http://dbpedia.org/resource/Carolingian_Empire,Carolingian Empire,http://dbpedia.org/resource/Carolingian_Empire,178.05
+http://dbpedia.org/resource/Kingdom_of_Hungary_(1000–1301),Kingdom of Hungary (1000–1301),http://dbpedia.org/resource/Kingdom_of_Hungary_(1000–1301),177.745
+http://dbpedia.org/resource/Niue,Niue,http://dbpedia.org/resource/Niue,176.285
+http://dbpedia.org/resource/Tonga,Tonga,http://dbpedia.org/resource/Tonga,175.875
+http://dbpedia.org/resource/Dominica,Dominica,http://dbpedia.org/resource/Dominica,175.80000000000004
+http://dbpedia.org/resource/Hittites,Hittites,http://dbpedia.org/resource/Hittites,175.29
+http://dbpedia.org/resource/Phoenicia,Phoenicia,http://dbpedia.org/resource/Phoenicia,175.245
+http://dbpedia.org/resource/Turk_Shahis,Turk Shahis,http://dbpedia.org/resource/Turk_Shahis,174.84
+http://dbpedia.org/resource/Historical_flags_of_the_British_Empire_and_the_overseas_territories,Historical flags of the British Empire and the overseas territories,http://dbpedia.org/resource/Historical_flags_of_the_British_Empire_and_the_overseas_territories,174.615
+http://dbpedia.org/resource/Sultanate_of_Rum,Sultanate of Rum,http://dbpedia.org/resource/Sultanate_of_Rum,174.44
+http://dbpedia.org/resource/Commonwealth_of_Independent_States,Commonwealth of Independent States,http://dbpedia.org/resource/Commonwealth_of_Independent_States,174.41
+http://dbpedia.org/resource/Palmyrene_Empire,Palmyrene Empire,http://dbpedia.org/resource/Palmyrene_Empire,174.35000000000002
+http://dbpedia.org/resource/History_of_Anglo-Saxon_England,History of Anglo-Saxon England,http://dbpedia.org/resource/History_of_Anglo-Saxon_England,174.31
+http://dbpedia.org/resource/Prussia,Prussia,http://dbpedia.org/resource/Prussia,174.05
+http://dbpedia.org/resource/History_of_Mexico,History of Mexico,http://dbpedia.org/resource/History_of_Mexico,173.87
+http://dbpedia.org/resource/Western_Satraps,Western Satraps,http://dbpedia.org/resource/Western_Satraps,173.835
+http://dbpedia.org/resource/Republic_of_the_Congo,Republic of the Congo,http://dbpedia.org/resource/Republic_of_the_Congo,173.66500000000002
+http://dbpedia.org/resource/Pandya_dynasty,Pandya dynasty,http://dbpedia.org/resource/Pandya_dynasty,173.135
+http://dbpedia.org/resource/Ba'athist_Iraq,Ba'athist Iraq,http://dbpedia.org/resource/Ba'athist_Iraq,172.805
+http://dbpedia.org/resource/Saint_Lucia,Saint Lucia,http://dbpedia.org/resource/Saint_Lucia,172.54000000000002
+http://dbpedia.org/resource/Satavahana_dynasty,Satavahana dynasty,http://dbpedia.org/resource/Satavahana_dynasty,172.45000000000002
+http://dbpedia.org/resource/French_Third_Republic,French Third Republic,http://dbpedia.org/resource/French_Third_Republic,171.76
+http://dbpedia.org/resource/Qedarites,Qedarites,http://dbpedia.org/resource/Qedarites,171.735
+http://dbpedia.org/resource/Frugal_Four,Frugal Four,http://dbpedia.org/resource/Frugal_Four,170.92
+http://dbpedia.org/resource/Timurid_Empire,Timurid Empire,http://dbpedia.org/resource/Timurid_Empire,170.88
+http://dbpedia.org/resource/Visa_requirements_for_EFTA_nationals,Visa requirements for EFTA nationals,http://dbpedia.org/resource/Visa_requirements_for_EFTA_nationals,170.835
+http://dbpedia.org/resource/Champa,Champa,http://dbpedia.org/resource/Champa,170.69500000000002
+http://dbpedia.org/resource/Kingdom_of_Jerusalem,Kingdom of Jerusalem,http://dbpedia.org/resource/Kingdom_of_Jerusalem,170.60000000000002
+http://dbpedia.org/resource/Gupta_Empire,Gupta Empire,http://dbpedia.org/resource/Gupta_Empire,170.435
+http://dbpedia.org/resource/Carchemish,Carchemish,http://dbpedia.org/resource/Carchemish,169.475
+http://dbpedia.org/resource/First_Republic_of_Armenia,First Republic of Armenia,http://dbpedia.org/resource/First_Republic_of_Armenia,169.02
+http://dbpedia.org/resource/Kassites,Kassites,http://dbpedia.org/resource/Kassites,168.92499999999998
+http://dbpedia.org/resource/Territory_of_the_Military_Commander_in_Serbia,Territory of the Military Commander in Serbia,http://dbpedia.org/resource/Territory_of_the_Military_Commander_in_Serbia,168.85
+http://dbpedia.org/resource/Gold_Coast_(British_colony),Gold Coast (British colony),http://dbpedia.org/resource/Gold_Coast_(British_colony),168.715
+http://dbpedia.org/resource/Inca_Empire,Inca Empire,http://dbpedia.org/resource/Inca_Empire,168.46
+http://dbpedia.org/resource/History_of_Trinidad_and_Tobago,History of Trinidad and Tobago,http://dbpedia.org/resource/History_of_Trinidad_and_Tobago,168.295
+http://dbpedia.org/resource/Comoros,Comoros,http://dbpedia.org/resource/Comoros,167.79000000000002
+http://dbpedia.org/resource/Almohad_Caliphate,Almohad Caliphate,http://dbpedia.org/resource/Almohad_Caliphate,167.28
+http://dbpedia.org/resource/Babylonia,Babylonia,http://dbpedia.org/resource/Babylonia,167.15
+http://dbpedia.org/resource/Korea_under_Japanese_rule,Korea under Japanese rule,http://dbpedia.org/resource/Korea_under_Japanese_rule,167.09000000000003
+http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan,Democratic Republic of Afghanistan,http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan,167.065
+http://dbpedia.org/resource/Ethiopian_Empire,Ethiopian Empire,http://dbpedia.org/resource/Ethiopian_Empire,166.47000000000003
+http://dbpedia.org/resource/San_Marino,San Marino,http://dbpedia.org/resource/San_Marino,166.16000000000003
+http://dbpedia.org/resource/Japanese_occupation_of_British_Borneo,Japanese occupation of British Borneo,http://dbpedia.org/resource/Japanese_occupation_of_British_Borneo,166.09
+http://dbpedia.org/resource/Medes,Medes,http://dbpedia.org/resource/Medes,166.07000000000002
+http://dbpedia.org/resource/Sultanate_of_Sulu,Sultanate of Sulu,http://dbpedia.org/resource/Sultanate_of_Sulu,165.775
+http://dbpedia.org/resource/Cook_Islands,Cook Islands,http://dbpedia.org/resource/Cook_Islands,165.68
+http://dbpedia.org/resource/French_Algeria,French Algeria,http://dbpedia.org/resource/French_Algeria,165.23000000000002
+http://dbpedia.org/resource/Colony_of_Jamaica,Colony of Jamaica,http://dbpedia.org/resource/Colony_of_Jamaica,164.48000000000002
+http://dbpedia.org/resource/Kingdom_of_England,Kingdom of England,http://dbpedia.org/resource/Kingdom_of_England,164.085
+http://dbpedia.org/resource/Republic_of_Venice,Republic of Venice,http://dbpedia.org/resource/Republic_of_Venice,164.0
+http://dbpedia.org/resource/Chetumal_Province,Chetumal Province,http://dbpedia.org/resource/Chetumal_Province,163.835
+http://dbpedia.org/resource/European_single_market,European single market,http://dbpedia.org/resource/European_single_market,163.665
+http://dbpedia.org/resource/German_colonial_empire,German colonial empire,http://dbpedia.org/resource/German_colonial_empire,163.42000000000002
+http://dbpedia.org/resource/Ilkhanate,Ilkhanate,http://dbpedia.org/resource/Ilkhanate,163.03500000000003
+http://dbpedia.org/resource/Saint_Kitts_and_Nevis,Saint Kitts and Nevis,http://dbpedia.org/resource/Saint_Kitts_and_Nevis,162.565
+http://dbpedia.org/resource/Sparta,Sparta,http://dbpedia.org/resource/Sparta,162.54999999999998
+http://dbpedia.org/resource/Etruscan_civilization,Etruscan civilization,http://dbpedia.org/resource/Etruscan_civilization,162.325
+http://dbpedia.org/resource/Joseon,Joseon,http://dbpedia.org/resource/Joseon,161.70499999999998
+http://dbpedia.org/resource/Third_Dynasty_of_Ur,Third Dynasty of Ur,http://dbpedia.org/resource/Third_Dynasty_of_Ur,161.35000000000002
+http://dbpedia.org/resource/Chechen_Republic_of_Ichkeria,Chechen Republic of Ichkeria,http://dbpedia.org/resource/Chechen_Republic_of_Ichkeria,161.185
+http://dbpedia.org/resource/Adal_Sultanate,Adal Sultanate,http://dbpedia.org/resource/Adal_Sultanate,160.905
+http://dbpedia.org/resource/Konbaung_dynasty,Konbaung dynasty,http://dbpedia.org/resource/Konbaung_dynasty,160.82500000000002
+http://dbpedia.org/resource/Turkish_occupation_of_northern_Syria,Turkish occupation of northern Syria,http://dbpedia.org/resource/Turkish_occupation_of_northern_Syria,160.59
+http://dbpedia.org/resource/Republic_of_China_(1912–1949),Republic of China (1912–1949),http://dbpedia.org/resource/Republic_of_China_(1912–1949),160.36
+http://dbpedia.org/resource/Mali_Empire,Mali Empire,http://dbpedia.org/resource/Mali_Empire,160.17
+http://dbpedia.org/resource/South_Vietnam,South Vietnam,http://dbpedia.org/resource/South_Vietnam,160.12
+http://dbpedia.org/resource/Rashidun_Caliphate,Rashidun Caliphate,http://dbpedia.org/resource/Rashidun_Caliphate,160.10500000000002
+http://dbpedia.org/resource/Taiwan_under_Japanese_rule,Taiwan under Japanese rule,http://dbpedia.org/resource/Taiwan_under_Japanese_rule,160.09
+http://dbpedia.org/resource/Free_City_of_Danzig,Free City of Danzig,http://dbpedia.org/resource/Free_City_of_Danzig,159.96
+http://dbpedia.org/resource/Occupation_of_Japan,Occupation of Japan,http://dbpedia.org/resource/Occupation_of_Japan,159.885
+http://dbpedia.org/resource/Grand_Duchy_of_Hesse,Grand Duchy of Hesse,http://dbpedia.org/resource/Grand_Duchy_of_Hesse,159.71
+http://dbpedia.org/resource/Rashtrakuta_dynasty,Rashtrakuta dynasty,http://dbpedia.org/resource/Rashtrakuta_dynasty,159.71
+http://dbpedia.org/resource/Qajar_Iran,Qajar Iran,http://dbpedia.org/resource/Qajar_Iran,159.47000000000003
+http://dbpedia.org/resource/Union_of_South_Africa,Union of South Africa,http://dbpedia.org/resource/Union_of_South_Africa,159.07500000000005
+http://dbpedia.org/resource/Western_Chalukya_Empire,Western Chalukya Empire,http://dbpedia.org/resource/Western_Chalukya_Empire,158.01999999999998
+http://dbpedia.org/resource/Nauru,Nauru,http://dbpedia.org/resource/Nauru,157.86
+http://dbpedia.org/resource/Đại_Việt,Đại Việt,http://dbpedia.org/resource/Đại_Việt,157.51
+http://dbpedia.org/resource/Prehistoric_Egypt,Prehistoric Egypt,http://dbpedia.org/resource/Prehistoric_Egypt,157.44000000000003
+http://dbpedia.org/resource/Union_(American_Civil_War),Union (American Civil War),http://dbpedia.org/resource/Union_(American_Civil_War),157.05
+http://dbpedia.org/resource/Ghurid_dynasty,Ghurid dynasty,http://dbpedia.org/resource/Ghurid_dynasty,156.79500000000002
+http://dbpedia.org/resource/History_of_the_Roman_Empire,History of the Roman Empire,http://dbpedia.org/resource/History_of_the_Roman_Empire,156.535
+http://dbpedia.org/resource/Greco-Bactrian_Kingdom,Greco-Bactrian Kingdom,http://dbpedia.org/resource/Greco-Bactrian_Kingdom,156.505
+http://dbpedia.org/resource/Kingdom_of_Galicia,Kingdom of Galicia,http://dbpedia.org/resource/Kingdom_of_Galicia,156.375
+http://dbpedia.org/resource/Japanese_occupation_of_Hong_Kong,Japanese occupation of Hong Kong,http://dbpedia.org/resource/Japanese_occupation_of_Hong_Kong,156.21
+http://dbpedia.org/resource/Kingdom_of_Romania,Kingdom of Romania,http://dbpedia.org/resource/Kingdom_of_Romania,155.925
+http://dbpedia.org/resource/Habsburg_Spain,Habsburg Spain,http://dbpedia.org/resource/Habsburg_Spain,155.625
+http://dbpedia.org/resource/Portuguese_India,Portuguese India,http://dbpedia.org/resource/Portuguese_India,154.32999999999998
+http://dbpedia.org/resource/Second_Polish_Republic,Second Polish Republic,http://dbpedia.org/resource/Second_Polish_Republic,154.21500000000003
+http://dbpedia.org/resource/Coalition_Provisional_Authority,Coalition Provisional Authority,http://dbpedia.org/resource/Coalition_Provisional_Authority,154.13
+http://dbpedia.org/resource/Federated_States_of_Micronesia,Federated States of Micronesia,http://dbpedia.org/resource/Federated_States_of_Micronesia,153.94000000000003
+http://dbpedia.org/resource/Ptolemaic_Kingdom,Ptolemaic Kingdom,http://dbpedia.org/resource/Ptolemaic_Kingdom,153.46
+http://dbpedia.org/resource/Company_rule_in_India,Company rule in India,http://dbpedia.org/resource/Company_rule_in_India,153.375
+http://dbpedia.org/resource/Transnistria,Transnistria,http://dbpedia.org/resource/Transnistria,152.99
+http://dbpedia.org/resource/Kingdom_of_Hungary,Kingdom of Hungary,http://dbpedia.org/resource/Kingdom_of_Hungary,152.93000000000004
+http://dbpedia.org/resource/Syrian_opposition,Syrian opposition,http://dbpedia.org/resource/Syrian_opposition,152.765
+http://dbpedia.org/resource/Francia,Francia,http://dbpedia.org/resource/Francia,152.67
+http://dbpedia.org/resource/Austrian_Empire,Austrian Empire,http://dbpedia.org/resource/Austrian_Empire,151.905
+http://dbpedia.org/resource/Kingdom_of_Mysore,Kingdom of Mysore,http://dbpedia.org/resource/Kingdom_of_Mysore,151.885
+http://dbpedia.org/resource/History_of_Denmark,History of Denmark,http://dbpedia.org/resource/History_of_Denmark,151.57500000000002
+http://dbpedia.org/resource/Cimmerians,Cimmerians,http://dbpedia.org/resource/Cimmerians,151.505
+http://dbpedia.org/resource/Comecon,Comecon,http://dbpedia.org/resource/Comecon,151.375
+http://dbpedia.org/resource/Caliphate_of_Córdoba,Caliphate of Córdoba,http://dbpedia.org/resource/Caliphate_of_Córdoba,151.335
+http://dbpedia.org/resource/Tibet_(1912–1951),Tibet (1912–1951),http://dbpedia.org/resource/Tibet_(1912–1951),151.24
+http://dbpedia.org/resource/Uyghur_Khaganate,Uyghur Khaganate,http://dbpedia.org/resource/Uyghur_Khaganate,151.13499999999996
+http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe,Organization for Security and Co-operation in Europe,http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe,150.94000000000003
+http://dbpedia.org/resource/County_of_Nassau,County of Nassau,http://dbpedia.org/resource/County_of_Nassau,150.66500000000002
+http://dbpedia.org/resource/Cyme_(Aeolis),Cyme (Aeolis),http://dbpedia.org/resource/Cyme_(Aeolis),150.14
+http://dbpedia.org/resource/Marinid_Sultanate,Marinid Sultanate,http://dbpedia.org/resource/Marinid_Sultanate,150.00499999999997
+http://dbpedia.org/resource/Aq_Qoyunlu,Aq Qoyunlu,http://dbpedia.org/resource/Aq_Qoyunlu,149.825
+http://dbpedia.org/resource/Gandhara,Gandhara,http://dbpedia.org/resource/Gandhara,149.48
+http://dbpedia.org/resource/Independent_Albania,Independent Albania,http://dbpedia.org/resource/Independent_Albania,148.90500000000003
+http://dbpedia.org/resource/History_of_Russia_(1991–present),History of Russia (1991–present),http://dbpedia.org/resource/History_of_Russia_(1991–present),148.76999999999998
+http://dbpedia.org/resource/Aztec_Empire,Aztec Empire,http://dbpedia.org/resource/Aztec_Empire,148.64000000000001
+http://dbpedia.org/resource/Kingdom_of_Tanur,Kingdom of Tanur,http://dbpedia.org/resource/Kingdom_of_Tanur,148.595
+http://dbpedia.org/resource/Kingdom_of_Nepal,Kingdom of Nepal,http://dbpedia.org/resource/Kingdom_of_Nepal,148.22
+http://dbpedia.org/resource/Tell_Brak,Tell Brak,http://dbpedia.org/resource/Tell_Brak,147.805
+http://dbpedia.org/resource/Arab_League,Arab League,http://dbpedia.org/resource/Arab_League,147.755
+http://dbpedia.org/resource/Chalukya_dynasty,Chalukya dynasty,http://dbpedia.org/resource/Chalukya_dynasty,147.32000000000002
+http://dbpedia.org/resource/Khmer_Empire,Khmer Empire,http://dbpedia.org/resource/Khmer_Empire,147.18
+http://dbpedia.org/resource/Old_Babylonian_Empire,Old Babylonian Empire,http://dbpedia.org/resource/Old_Babylonian_Empire,146.87
+http://dbpedia.org/resource/Islamic_Republic_of_Afghanistan,Islamic Republic of Afghanistan,http://dbpedia.org/resource/Islamic_Republic_of_Afghanistan,146.79
+http://dbpedia.org/resource/Chagatai_Khanate,Chagatai Khanate,http://dbpedia.org/resource/Chagatai_Khanate,146.54
+http://dbpedia.org/resource/Ashanti_Empire,Ashanti Empire,http://dbpedia.org/resource/Ashanti_Empire,146.29000000000002
+http://dbpedia.org/resource/First_French_Empire,First French Empire,http://dbpedia.org/resource/First_French_Empire,145.91000000000003
+http://dbpedia.org/resource/British_Hong_Kong,British Hong Kong,http://dbpedia.org/resource/British_Hong_Kong,145.885
+http://dbpedia.org/resource/Circassia,Circassia,http://dbpedia.org/resource/Circassia,145.725
+http://dbpedia.org/resource/Buyid_dynasty,Buyid dynasty,http://dbpedia.org/resource/Buyid_dynasty,145.41
+http://dbpedia.org/resource/Maynila_(historical_polity),Maynila (historical polity),http://dbpedia.org/resource/Maynila_(historical_polity),145.38
+http://dbpedia.org/resource/OPEC,OPEC,http://dbpedia.org/resource/OPEC,145.32000000000002
+http://dbpedia.org/resource/Special_administrative_regions_of_China,Special administrative regions of China,http://dbpedia.org/resource/Special_administrative_regions_of_China,145.32000000000002
+http://dbpedia.org/resource/Kingdom_of_the_Two_Sicilies,Kingdom of the Two Sicilies,http://dbpedia.org/resource/Kingdom_of_the_Two_Sicilies,145.11999999999998
+http://dbpedia.org/resource/Upper_Canada,Upper Canada,http://dbpedia.org/resource/Upper_Canada,144.845
+http://dbpedia.org/resource/Pre-Islamic_Arabia,Pre-Islamic Arabia,http://dbpedia.org/resource/Pre-Islamic_Arabia,144.805
+http://dbpedia.org/resource/Kara-Khanid_Khanate,Kara-Khanid Khanate,http://dbpedia.org/resource/Kara-Khanid_Khanate,144.78500000000003
+http://dbpedia.org/resource/Indo-Scythians,Indo-Scythians,http://dbpedia.org/resource/Indo-Scythians,144.555
+http://dbpedia.org/resource/Index_of_Soviet_Union–related_articles,Index of Soviet Union–related articles,http://dbpedia.org/resource/Index_of_Soviet_Union–related_articles,144.49499999999998
+http://dbpedia.org/resource/Malacca_Sultanate,Malacca Sultanate,http://dbpedia.org/resource/Malacca_Sultanate,144.375
+http://dbpedia.org/resource/Kingdom_of_Sicily,Kingdom of Sicily,http://dbpedia.org/resource/Kingdom_of_Sicily,144.33
+http://dbpedia.org/resource/Early_Dynastic_Period_(Egypt),Early Dynastic Period (Egypt),http://dbpedia.org/resource/Early_Dynastic_Period_(Egypt),144.195
+http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines,Saint Vincent and the Grenadines,http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines,143.36999999999998
+http://dbpedia.org/resource/North_Borneo,North Borneo,http://dbpedia.org/resource/North_Borneo,142.62499999999997
+http://dbpedia.org/resource/Kingdom_of_France,Kingdom of France,http://dbpedia.org/resource/Kingdom_of_France,142.54000000000002
+http://dbpedia.org/resource/Hawaiian_Kingdom,Hawaiian Kingdom,http://dbpedia.org/resource/Hawaiian_Kingdom,142.53000000000003
+http://dbpedia.org/resource/Bengal_Sultanate,Bengal Sultanate,http://dbpedia.org/resource/Bengal_Sultanate,141.965
+http://dbpedia.org/resource/Tokugawa_shogunate,Tokugawa shogunate,http://dbpedia.org/resource/Tokugawa_shogunate,141.94000000000003
+http://dbpedia.org/resource/History_of_the_Islamic_Republic_of_Iran,History of the Islamic Republic of Iran,http://dbpedia.org/resource/History_of_the_Islamic_Republic_of_Iran,141.57999999999998
+http://dbpedia.org/resource/Nakhchivan_Autonomous_Republic,Nakhchivan Autonomous Republic,http://dbpedia.org/resource/Nakhchivan_Autonomous_Republic,141.19
+http://dbpedia.org/resource/Isin-Larsa_period,Isin-Larsa period,http://dbpedia.org/resource/Isin-Larsa_period,141.12999999999997
+http://dbpedia.org/resource/Osraige,Osraige,http://dbpedia.org/resource/Osraige,141.07
+http://dbpedia.org/resource/Nanda_Empire,Nanda Empire,http://dbpedia.org/resource/Nanda_Empire,141.015
+http://dbpedia.org/resource/Italian_Empire,Italian Empire,http://dbpedia.org/resource/Italian_Empire,140.895
+http://dbpedia.org/resource/Cybistra,Cybistra,http://dbpedia.org/resource/Cybistra,140.465
+http://dbpedia.org/resource/Plymouth_Colony,Plymouth Colony,http://dbpedia.org/resource/Plymouth_Colony,139.82500000000002
+http://dbpedia.org/resource/Confederation_period,Confederation period,http://dbpedia.org/resource/Confederation_period,139.61499999999998
+http://dbpedia.org/resource/Socialist_Republic_of_Romania,Socialist Republic of Romania,http://dbpedia.org/resource/Socialist_Republic_of_Romania,139.39
+http://dbpedia.org/resource/Francoist_Spain,Francoist Spain,http://dbpedia.org/resource/Francoist_Spain,139.11999999999998
+http://dbpedia.org/resource/France_in_the_Middle_Ages,France in the Middle Ages,http://dbpedia.org/resource/France_in_the_Middle_Ages,139.00499999999997
+http://dbpedia.org/resource/Brandenburg-Prussia,Brandenburg-Prussia,http://dbpedia.org/resource/Brandenburg-Prussia,138.94500000000002
+http://dbpedia.org/resource/Kingdom_of_Ireland,Kingdom of Ireland,http://dbpedia.org/resource/Kingdom_of_Ireland,138.905
+http://dbpedia.org/resource/Republic_of_Serbian_Krajina,Republic of Serbian Krajina,http://dbpedia.org/resource/Republic_of_Serbian_Krajina,138.86499999999998
+http://dbpedia.org/resource/History_of_Bahrain_(1783–1971),History of Bahrain (1783–1971),http://dbpedia.org/resource/History_of_Bahrain_(1783–1971),138.795
+http://dbpedia.org/resource/Pahlavi_Iran,Pahlavi Iran,http://dbpedia.org/resource/Pahlavi_Iran,138.69500000000002
+http://dbpedia.org/resource/Gutian_rule_in_Mesopotamia,Gutian rule in Mesopotamia,http://dbpedia.org/resource/Gutian_rule_in_Mesopotamia,138.65
+http://dbpedia.org/resource/Cape_Colony,Cape Colony,http://dbpedia.org/resource/Cape_Colony,138.60999999999999
+http://dbpedia.org/resource/Kingdom_of_Norway_(872–1397),Kingdom of Norway (872–1397),http://dbpedia.org/resource/Kingdom_of_Norway_(872–1397),138.225
+http://dbpedia.org/resource/First_Turkic_Khaganate,First Turkic Khaganate,http://dbpedia.org/resource/First_Turkic_Khaganate,138.195
+http://dbpedia.org/resource/Commonwealth_War_Graves_Commission,Commonwealth War Graves Commission,http://dbpedia.org/resource/Commonwealth_War_Graves_Commission,137.76999999999998
+http://dbpedia.org/resource/Colonial_Brazil,Colonial Brazil,http://dbpedia.org/resource/Colonial_Brazil,137.6
+http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,People's Socialist Republic of Albania,http://dbpedia.org/resource/People's_Socialist_Republic_of_Albania,137.275
+http://dbpedia.org/resource/Bourbon_Restoration_in_France,Bourbon Restoration in France,http://dbpedia.org/resource/Bourbon_Restoration_in_France,137.065
+http://dbpedia.org/resource/Anuradhapura_Kingdom,Anuradhapura Kingdom,http://dbpedia.org/resource/Anuradhapura_Kingdom,136.955
+http://dbpedia.org/resource/Caucasian_Albania,Caucasian Albania,http://dbpedia.org/resource/Caucasian_Albania,136.84
+http://dbpedia.org/resource/History_of_Sierra_Leone,History of Sierra Leone,http://dbpedia.org/resource/History_of_Sierra_Leone,136.79500000000002
+http://dbpedia.org/resource/Fourth_Dynasty_of_Egypt,Fourth Dynasty of Egypt,http://dbpedia.org/resource/Fourth_Dynasty_of_Egypt,136.23999999999998
+http://dbpedia.org/resource/North_American_Free_Trade_Agreement,North American Free Trade Agreement,http://dbpedia.org/resource/North_American_Free_Trade_Agreement,135.855
+http://dbpedia.org/resource/Wallachia,Wallachia,http://dbpedia.org/resource/Wallachia,135.475
+http://dbpedia.org/resource/São_Tomé_and_Príncipe,São Tomé and Príncipe,http://dbpedia.org/resource/São_Tomé_and_Príncipe,135.185
+http://dbpedia.org/resource/Nationalist_government,Nationalist government,http://dbpedia.org/resource/Nationalist_government,134.71
+http://dbpedia.org/resource/Palestinian_territories,Palestinian territories,http://dbpedia.org/resource/Palestinian_territories,134.64999999999998
+http://dbpedia.org/resource/Lê_dynasty,Lê dynasty,http://dbpedia.org/resource/Lê_dynasty,134.425
+http://dbpedia.org/resource/Qara_Qoyunlu,Qara Qoyunlu,http://dbpedia.org/resource/Qara_Qoyunlu,134.33
+http://dbpedia.org/resource/Khanate_of_Khiva,Khanate of Khiva,http://dbpedia.org/resource/Khanate_of_Khiva,133.82500000000002
+http://dbpedia.org/resource/Pala_Empire,Pala Empire,http://dbpedia.org/resource/Pala_Empire,133.47
+http://dbpedia.org/resource/General_Government,General Government,http://dbpedia.org/resource/General_Government,133.37500000000003
+http://dbpedia.org/resource/Rouran_Khaganate,Rouran Khaganate,http://dbpedia.org/resource/Rouran_Khaganate,133.24999999999997
+http://dbpedia.org/resource/Organization_of_American_States,Organization of American States,http://dbpedia.org/resource/Organization_of_American_States,133.21
+http://dbpedia.org/resource/Grand_Duchy_of_Tuscany,Grand Duchy of Tuscany,http://dbpedia.org/resource/Grand_Duchy_of_Tuscany,132.175
+http://dbpedia.org/resource/Second_Mexican_Empire,Second Mexican Empire,http://dbpedia.org/resource/Second_Mexican_Empire,132.15
+http://dbpedia.org/resource/Moldavia,Moldavia,http://dbpedia.org/resource/Moldavia,131.715
+http://dbpedia.org/resource/Alodia,Alodia,http://dbpedia.org/resource/Alodia,131.67
+http://dbpedia.org/resource/Croatian_Republic_of_Herzeg-Bosnia,Croatian Republic of Herzeg-Bosnia,http://dbpedia.org/resource/Croatian_Republic_of_Herzeg-Bosnia,131.625
+http://dbpedia.org/resource/Odrysian_kingdom,Odrysian kingdom,http://dbpedia.org/resource/Odrysian_kingdom,131.28
+http://dbpedia.org/resource/Southern_Tang,Southern Tang,http://dbpedia.org/resource/Southern_Tang,131.19500000000002
+http://dbpedia.org/resource/Crimean_Khanate,Crimean Khanate,http://dbpedia.org/resource/Crimean_Khanate,131.11499999999998
+http://dbpedia.org/resource/European_Union_Customs_Union,European Union Customs Union,http://dbpedia.org/resource/European_Union_Customs_Union,130.695
+http://dbpedia.org/resource/Tokhara_Yabghus,Tokhara Yabghus,http://dbpedia.org/resource/Tokhara_Yabghus,130.68
+http://dbpedia.org/resource/Kushano-Sasanian_Kingdom,Kushano-Sasanian Kingdom,http://dbpedia.org/resource/Kushano-Sasanian_Kingdom,130.565
+http://dbpedia.org/resource/Second_Hellenic_Republic,Second Hellenic Republic,http://dbpedia.org/resource/Second_Hellenic_Republic,130.06500000000003
+http://dbpedia.org/resource/Samanid_Empire,Samanid Empire,http://dbpedia.org/resource/Samanid_Empire,129.89
+http://dbpedia.org/resource/Mataram_Kingdom,Mataram Kingdom,http://dbpedia.org/resource/Mataram_Kingdom,129.47
+http://dbpedia.org/resource/Urartu,Urartu,http://dbpedia.org/resource/Urartu,129.205
+http://dbpedia.org/resource/Colony_of_Virginia,Colony of Virginia,http://dbpedia.org/resource/Colony_of_Virginia,129.13500000000002
+http://dbpedia.org/resource/Kingdom_of_Bulgaria,Kingdom of Bulgaria,http://dbpedia.org/resource/Kingdom_of_Bulgaria,129.055
+http://dbpedia.org/resource/Caribbean_Community,Caribbean Community,http://dbpedia.org/resource/Caribbean_Community,129.04
+http://dbpedia.org/resource/Makuria,Makuria,http://dbpedia.org/resource/Makuria,128.995
+http://dbpedia.org/resource/Dacia,Dacia,http://dbpedia.org/resource/Dacia,128.98499999999999
+http://dbpedia.org/resource/Palestinian_National_Authority,Palestinian National Authority,http://dbpedia.org/resource/Palestinian_National_Authority,128.27499999999998
+http://dbpedia.org/resource/Kidarites,Kidarites,http://dbpedia.org/resource/Kidarites,128.23
+http://dbpedia.org/resource/Roman_Kingdom,Roman Kingdom,http://dbpedia.org/resource/Roman_Kingdom,128.115
+http://dbpedia.org/resource/Byelorussian_Soviet_Socialist_Republic,Byelorussian Soviet Socialist Republic,http://dbpedia.org/resource/Byelorussian_Soviet_Socialist_Republic,127.95
+http://dbpedia.org/resource/Estonian_Soviet_Socialist_Republic,Estonian Soviet Socialist Republic,http://dbpedia.org/resource/Estonian_Soviet_Socialist_Republic,127.935
+http://dbpedia.org/resource/Insular_Government_of_the_Philippine_Islands,Insular Government of the Philippine Islands,http://dbpedia.org/resource/Insular_Government_of_the_Philippine_Islands,127.785
+http://dbpedia.org/resource/Kingdom_of_Sussex,Kingdom of Sussex,http://dbpedia.org/resource/Kingdom_of_Sussex,127.705
+http://dbpedia.org/resource/Colonial_Nigeria,Colonial Nigeria,http://dbpedia.org/resource/Colonial_Nigeria,127.52000000000001
+http://dbpedia.org/resource/Scandinavia,Scandinavia,http://dbpedia.org/resource/Scandinavia,127.23000000000002
+http://dbpedia.org/resource/Massachusetts_Bay_Colony,Massachusetts Bay Colony,http://dbpedia.org/resource/Massachusetts_Bay_Colony,127.075
+http://dbpedia.org/resource/Allied-occupied_Germany,Allied-occupied Germany,http://dbpedia.org/resource/Allied-occupied_Germany,126.80499999999998
+http://dbpedia.org/resource/Dominion_of_Ceylon,Dominion of Ceylon,http://dbpedia.org/resource/Dominion_of_Ceylon,126.085
+http://dbpedia.org/resource/State_of_the_Teutonic_Order,State of the Teutonic Order,http://dbpedia.org/resource/State_of_the_Teutonic_Order,125.90499999999997
+http://dbpedia.org/resource/US_Naval_Base_Solomons,US Naval Base Solomons,http://dbpedia.org/resource/US_Naval_Base_Solomons,125.81
+http://dbpedia.org/resource/Kingdom_of_Hungary_(1301–1526),Kingdom of Hungary (1301–1526),http://dbpedia.org/resource/Kingdom_of_Hungary_(1301–1526),125.49499999999999
+http://dbpedia.org/resource/Japanese_occupation_of_Malaya,Japanese occupation of Malaya,http://dbpedia.org/resource/Japanese_occupation_of_Malaya,125.14000000000001
+http://dbpedia.org/resource/Principality_of_Catalonia,Principality of Catalonia,http://dbpedia.org/resource/Principality_of_Catalonia,124.79500000000002
+http://dbpedia.org/resource/Puntland,Puntland,http://dbpedia.org/resource/Puntland,124.59500000000001
+http://dbpedia.org/resource/Military_dictatorship_of_Chile_(1973–1990),Military dictatorship of Chile (1973–1990),http://dbpedia.org/resource/Military_dictatorship_of_Chile_(1973–1990),124.45
+http://dbpedia.org/resource/Organisation_of_Islamic_Cooperation,Organisation of Islamic Cooperation,http://dbpedia.org/resource/Organisation_of_Islamic_Cooperation,124.25
+http://dbpedia.org/resource/Mainland_China,Mainland China,http://dbpedia.org/resource/Mainland_China,123.78999999999999
+http://dbpedia.org/resource/Zhou_dynasty,Zhou dynasty,http://dbpedia.org/resource/Zhou_dynasty,123.38499999999999
+http://dbpedia.org/resource/Herat_(1793–1863),Herat (1793–1863),http://dbpedia.org/resource/Herat_(1793–1863),123.21499999999999
+http://dbpedia.org/resource/Gulf_Cooperation_Council,Gulf Cooperation Council,http://dbpedia.org/resource/Gulf_Cooperation_Council,122.91999999999999
+http://dbpedia.org/resource/Afsharid_Iran,Afsharid Iran,http://dbpedia.org/resource/Afsharid_Iran,122.865
+http://dbpedia.org/resource/North_Vietnam,North Vietnam,http://dbpedia.org/resource/North_Vietnam,122.64500000000001
+http://dbpedia.org/resource/Captaincy_General_of_Santo_Domingo,Captaincy General of Santo Domingo,http://dbpedia.org/resource/Captaincy_General_of_Santo_Domingo,122.57000000000001
+http://dbpedia.org/resource/Hindu_Shahis,Hindu Shahis,http://dbpedia.org/resource/Hindu_Shahis,122.38999999999999
+http://dbpedia.org/resource/Republic_of_Ragusa,Republic of Ragusa,http://dbpedia.org/resource/Republic_of_Ragusa,121.50000000000003
+http://dbpedia.org/resource/West_Indies_Federation,West Indies Federation,http://dbpedia.org/resource/West_Indies_Federation,121.47500000000001
+http://dbpedia.org/resource/Lutici,Lutici,http://dbpedia.org/resource/Lutici,121.22000000000001
+http://dbpedia.org/resource/Crown_Colony_of_Labuan,Crown Colony of Labuan,http://dbpedia.org/resource/Crown_Colony_of_Labuan,120.995
+http://dbpedia.org/resource/Bengal_Subah,Bengal Subah,http://dbpedia.org/resource/Bengal_Subah,120.88500000000002
+http://dbpedia.org/resource/Eastern_Ganga_dynasty,Eastern Ganga dynasty,http://dbpedia.org/resource/Eastern_Ganga_dynasty,120.825
+http://dbpedia.org/resource/Hoysala_Empire,Hoysala Empire,http://dbpedia.org/resource/Hoysala_Empire,120.81
+http://dbpedia.org/resource/Sovereign_Military_Order_of_Malta,Sovereign Military Order of Malta,http://dbpedia.org/resource/Sovereign_Military_Order_of_Malta,120.79500000000002
+http://dbpedia.org/resource/Dál_Riata,Dál Riata,http://dbpedia.org/resource/Dál_Riata,120.74499999999999
+http://dbpedia.org/resource/Irish_Free_State,Irish Free State,http://dbpedia.org/resource/Irish_Free_State,120.64500000000001
+http://dbpedia.org/resource/Czechoslovak_Socialist_Republic,Czechoslovak Socialist Republic,http://dbpedia.org/resource/Czechoslovak_Socialist_Republic,120.34500000000001
+http://dbpedia.org/resource/Pallava_dynasty,Pallava dynasty,http://dbpedia.org/resource/Pallava_dynasty,120.155
+http://dbpedia.org/resource/Hyderabad_State,Hyderabad State,http://dbpedia.org/resource/Hyderabad_State,120.06500000000001
+http://dbpedia.org/resource/History_of_the_Philippines_(1965–1986),History of the Philippines (1965–1986),http://dbpedia.org/resource/History_of_the_Philippines_(1965–1986),119.79500000000002
+http://dbpedia.org/resource/Japanese_occupation_of_the_Dutch_East_Indies,Japanese occupation of the Dutch East Indies,http://dbpedia.org/resource/Japanese_occupation_of_the_Dutch_East_Indies,119.72500000000001
+http://dbpedia.org/resource/Saffarid_dynasty,Saffarid dynasty,http://dbpedia.org/resource/Saffarid_dynasty,119.63499999999999
+http://dbpedia.org/resource/Provisional_Government_of_Bangladesh,Provisional Government of Bangladesh,http://dbpedia.org/resource/Provisional_Government_of_Bangladesh,119.38
+http://dbpedia.org/resource/Kingdom_of_Naples,Kingdom of Naples,http://dbpedia.org/resource/Kingdom_of_Naples,119.34499999999998
+http://dbpedia.org/resource/French_First_Republic,French First Republic,http://dbpedia.org/resource/French_First_Republic,118.905
+http://dbpedia.org/resource/Exercise_RIMPAC,Exercise RIMPAC,http://dbpedia.org/resource/Exercise_RIMPAC,118.825
+http://dbpedia.org/resource/Ukrainian_People's_Republic,Ukrainian People's Republic,http://dbpedia.org/resource/Ukrainian_People's_Republic,118.46500000000002
+http://dbpedia.org/resource/Kingdom_of_Serbia,Kingdom of Serbia,http://dbpedia.org/resource/Kingdom_of_Serbia,118.075
+http://dbpedia.org/resource/Saint-Domingue,Saint-Domingue,http://dbpedia.org/resource/Saint-Domingue,118.00999999999999
+http://dbpedia.org/resource/Union_of_South_American_Nations,Union of South American Nations,http://dbpedia.org/resource/Union_of_South_American_Nations,117.69500000000001
+http://dbpedia.org/resource/Federation_of_Malaya,Federation of Malaya,http://dbpedia.org/resource/Federation_of_Malaya,117.54500000000002
+http://dbpedia.org/resource/West_Berlin,West Berlin,http://dbpedia.org/resource/West_Berlin,117.535
+http://dbpedia.org/resource/Hispania,Hispania,http://dbpedia.org/resource/Hispania,117.29499999999999
+http://dbpedia.org/resource/History_of_Libya_under_Muammar_Gaddafi,History of Libya under Muammar Gaddafi,http://dbpedia.org/resource/History_of_Libya_under_Muammar_Gaddafi,117.195
+http://dbpedia.org/resource/Hungarian_People's_Republic,Hungarian People's Republic,http://dbpedia.org/resource/Hungarian_People's_Republic,116.94500000000001
+http://dbpedia.org/resource/Kingdom_of_Sardinia,Kingdom of Sardinia,http://dbpedia.org/resource/Kingdom_of_Sardinia,116.735
+http://dbpedia.org/resource/East_Turkestan,East Turkestan,http://dbpedia.org/resource/East_Turkestan,116.73
+http://dbpedia.org/resource/Northern_Rhodesia,Northern Rhodesia,http://dbpedia.org/resource/Northern_Rhodesia,116.685
+http://dbpedia.org/resource/Chera_dynasty,Chera dynasty,http://dbpedia.org/resource/Chera_dynasty,116.625
+http://dbpedia.org/resource/Republic_of_Genoa,Republic of Genoa,http://dbpedia.org/resource/Republic_of_Genoa,116.585
+http://dbpedia.org/resource/Estado_Novo_(Portugal),Estado Novo (Portugal),http://dbpedia.org/resource/Estado_Novo_(Portugal),116.43500000000002
+http://dbpedia.org/resource/Idrisid_dynasty,Idrisid dynasty,http://dbpedia.org/resource/Idrisid_dynasty,116.405
+http://dbpedia.org/resource/Jin_dynasty_(1115–1234),Jin dynasty (1115–1234),http://dbpedia.org/resource/Jin_dynasty_(1115–1234),116.375
+http://dbpedia.org/resource/Northumbria,Northumbria,http://dbpedia.org/resource/Northumbria,116.29999999999998
+http://dbpedia.org/resource/Kamarupa,Kamarupa,http://dbpedia.org/resource/Kamarupa,116.29500000000002
+http://dbpedia.org/resource/Ancient_Corinth,Ancient Corinth,http://dbpedia.org/resource/Ancient_Corinth,115.96999999999998
+http://dbpedia.org/resource/Free_area_of_the_Republic_of_China,Free area of the Republic of China,http://dbpedia.org/resource/Free_area_of_the_Republic_of_China,115.89499999999998
+http://dbpedia.org/resource/Kingdom_of_Mewar,Kingdom of Mewar,http://dbpedia.org/resource/Kingdom_of_Mewar,115.88499999999999
+http://dbpedia.org/resource/Dzungar_Khanate,Dzungar Khanate,http://dbpedia.org/resource/Dzungar_Khanate,115.75999999999999
+http://dbpedia.org/resource/United_Nations_Interim_Administration_Mission_in_Kosovo,United Nations Interim Administration Mission in Kosovo,http://dbpedia.org/resource/United_Nations_Interim_Administration_Mission_in_Kosovo,115.46500000000002
+http://dbpedia.org/resource/Western_Ganga_dynasty,Western Ganga dynasty,http://dbpedia.org/resource/Western_Ganga_dynasty,115.44500000000001
+http://dbpedia.org/resource/Qarmatians,Qarmatians,http://dbpedia.org/resource/Qarmatians,115.44
+http://dbpedia.org/resource/Slovak_Republic_(1939–1945),Slovak Republic (1939–1945),http://dbpedia.org/resource/Slovak_Republic_(1939–1945),115.23500000000001
+http://dbpedia.org/resource/Spanish_transition_to_democracy,Spanish transition to democracy,http://dbpedia.org/resource/Spanish_transition_to_democracy,114.92500000000001
+http://dbpedia.org/resource/Second_French_Empire,Second French Empire,http://dbpedia.org/resource/Second_French_Empire,114.875
+http://dbpedia.org/resource/Islamic_Emirate_of_Afghanistan_(1996–2001),Islamic Emirate of Afghanistan (1996–2001),http://dbpedia.org/resource/Islamic_Emirate_of_Afghanistan_(1996–2001),114.75999999999999
+http://dbpedia.org/resource/Khwarazmian_Empire,Khwarazmian Empire,http://dbpedia.org/resource/Khwarazmian_Empire,114.74
+http://dbpedia.org/resource/Zirid_dynasty,Zirid dynasty,http://dbpedia.org/resource/Zirid_dynasty,114.63
+http://dbpedia.org/resource/Zachlumia,Zachlumia,http://dbpedia.org/resource/Zachlumia,114.575
+http://dbpedia.org/resource/Pannonian_Avars,Pannonian Avars,http://dbpedia.org/resource/Pannonian_Avars,114.525
+http://dbpedia.org/resource/July_Monarchy,July Monarchy,http://dbpedia.org/resource/July_Monarchy,114.22500000000001
+http://dbpedia.org/resource/Ulaid,Ulaid,http://dbpedia.org/resource/Ulaid,113.865
+http://dbpedia.org/resource/Kingdom_of_Aksum,Kingdom of Aksum,http://dbpedia.org/resource/Kingdom_of_Aksum,113.84000000000002
+http://dbpedia.org/resource/Shutrukid_dynasty,Shutrukid dynasty,http://dbpedia.org/resource/Shutrukid_dynasty,113.74
+http://dbpedia.org/resource/Balhae,Balhae,http://dbpedia.org/resource/Balhae,113.71499999999999
+http://dbpedia.org/resource/National_Transitional_Council,National Transitional Council,http://dbpedia.org/resource/National_Transitional_Council,113.655
+http://dbpedia.org/resource/Cossack_Hetmanate,Cossack Hetmanate,http://dbpedia.org/resource/Cossack_Hetmanate,113.61500000000001
+http://dbpedia.org/resource/Kingdom_of_Judah,Kingdom of Judah,http://dbpedia.org/resource/Kingdom_of_Judah,112.905
+http://dbpedia.org/resource/People's_Republic_of_Kampuchea,People's Republic of Kampuchea,http://dbpedia.org/resource/People's_Republic_of_Kampuchea,112.86
+http://dbpedia.org/resource/Kingdom_of_Khotan,Kingdom of Khotan,http://dbpedia.org/resource/Kingdom_of_Khotan,112.82000000000001
+http://dbpedia.org/resource/Armenian_Kingdom_of_Cilicia,Armenian Kingdom of Cilicia,http://dbpedia.org/resource/Armenian_Kingdom_of_Cilicia,112.815
+http://dbpedia.org/resource/Narentines,Narentines,http://dbpedia.org/resource/Narentines,112.80000000000001
+http://dbpedia.org/resource/Kingdom_of_Galicia–Volhynia,Kingdom of Galicia–Volhynia,http://dbpedia.org/resource/Kingdom_of_Galicia–Volhynia,112.575
+http://dbpedia.org/resource/2+2_Ministerial_Dialogue,2+2 Ministerial Dialogue,http://dbpedia.org/resource/2+2_Ministerial_Dialogue,112.575
+http://dbpedia.org/resource/Serbian_Empire,Serbian Empire,http://dbpedia.org/resource/Serbian_Empire,112.27000000000001
+http://dbpedia.org/resource/Celtic_nations,Celtic nations,http://dbpedia.org/resource/Celtic_nations,112.21
+http://dbpedia.org/resource/Company_rule_in_Rhodesia,Company rule in Rhodesia,http://dbpedia.org/resource/Company_rule_in_Rhodesia,112.09499999999998
+http://dbpedia.org/resource/Kingdom_of_the_Lombards,Kingdom of the Lombards,http://dbpedia.org/resource/Kingdom_of_the_Lombards,111.96500000000002
+http://dbpedia.org/resource/Netherlands_Antilles,Netherlands Antilles,http://dbpedia.org/resource/Netherlands_Antilles,111.84999999999998
+http://dbpedia.org/resource/Louisiana_(New_Spain),Louisiana (New Spain),http://dbpedia.org/resource/Louisiana_(New_Spain),111.285
+http://dbpedia.org/resource/European_Economic_Community,European Economic Community,http://dbpedia.org/resource/European_Economic_Community,111.19000000000001
+http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Belgium),Euro gold and silver commemorative coins (Belgium),http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Belgium),111.18000000000002
+http://dbpedia.org/resource/Dominion_of_Pakistan,Dominion of Pakistan,http://dbpedia.org/resource/Dominion_of_Pakistan,111.17500000000001
+http://dbpedia.org/resource/Kingdom_of_Tungning,Kingdom of Tungning,http://dbpedia.org/resource/Kingdom_of_Tungning,111.16499999999999
+http://dbpedia.org/resource/Jin_dynasty_(266–420),Jin dynasty (266–420),http://dbpedia.org/resource/Jin_dynasty_(266–420),111.15
+http://dbpedia.org/resource/British–Polish–Ukrainian_trilateral_pact,British–Polish–Ukrainian trilateral pact,http://dbpedia.org/resource/British–Polish–Ukrainian_trilateral_pact,110.865
+http://dbpedia.org/resource/List_of_Greeks_by_net_worth,List of Greeks by net worth,http://dbpedia.org/resource/List_of_Greeks_by_net_worth,110.835
+http://dbpedia.org/resource/Kolathunadu,Kolathunadu,http://dbpedia.org/resource/Kolathunadu,110.59499999999998
+http://dbpedia.org/resource/Septinsular_Republic,Septinsular Republic,http://dbpedia.org/resource/Septinsular_Republic,110.46
+http://dbpedia.org/resource/Kingdom_of_the_Isles,Kingdom of the Isles,http://dbpedia.org/resource/Kingdom_of_the_Isles,110.40499999999997
+http://dbpedia.org/resource/Ahom_kingdom,Ahom kingdom,http://dbpedia.org/resource/Ahom_kingdom,110.26999999999998
+http://dbpedia.org/resource/Korean_Empire,Korean Empire,http://dbpedia.org/resource/Korean_Empire,110.26499999999999
+http://dbpedia.org/resource/Naval_Base_Ulithi,Naval Base Ulithi,http://dbpedia.org/resource/Naval_Base_Ulithi,110.18000000000002
+http://dbpedia.org/resource/Northern_Wei,Northern Wei,http://dbpedia.org/resource/Northern_Wei,110.105
+http://dbpedia.org/resource/Thonburi_Kingdom,Thonburi Kingdom,http://dbpedia.org/resource/Thonburi_Kingdom,109.96
+http://dbpedia.org/resource/Commonwealth_of_the_Philippines,Commonwealth of the Philippines,http://dbpedia.org/resource/Commonwealth_of_the_Philippines,109.875
+http://dbpedia.org/resource/Wang_Jingwei_regime,Wang Jingwei regime,http://dbpedia.org/resource/Wang_Jingwei_regime,109.76500000000001
+http://dbpedia.org/resource/Dutch_Republic,Dutch Republic,http://dbpedia.org/resource/Dutch_Republic,109.63999999999999
+http://dbpedia.org/resource/Mahajanapadas,Mahajanapadas,http://dbpedia.org/resource/Mahajanapadas,109.54500000000002
+http://dbpedia.org/resource/Portuguese_settlement_in_Chittagong,Portuguese settlement in Chittagong,http://dbpedia.org/resource/Portuguese_settlement_in_Chittagong,109.49
+http://dbpedia.org/resource/Crown_of_Aragon,Crown of Aragon,http://dbpedia.org/resource/Crown_of_Aragon,109.47999999999998
+http://dbpedia.org/resource/History_of_Paraguay,History of Paraguay,http://dbpedia.org/resource/History_of_Paraguay,109.05000000000001
+"http://dbpedia.org/resource/SAO_Eastern_Slavonia,_Baranja_and_Western_Syrmia","SAO Eastern Slavonia, Baranja and Western Syrmia","http://dbpedia.org/resource/SAO_Eastern_Slavonia,_Baranja_and_Western_Syrmia",109.03
+http://dbpedia.org/resource/Tsardom_of_Russia,Tsardom of Russia,http://dbpedia.org/resource/Tsardom_of_Russia,109.01999999999998
+http://dbpedia.org/resource/Autonomous_Republic_of_Northern_Epirus,Autonomous Republic of Northern Epirus,http://dbpedia.org/resource/Autonomous_Republic_of_Northern_Epirus,108.89499999999998
+http://dbpedia.org/resource/Western_Xia,Western Xia,http://dbpedia.org/resource/Western_Xia,108.775
+http://dbpedia.org/resource/Tibetan_Empire,Tibetan Empire,http://dbpedia.org/resource/Tibetan_Empire,108.655
+http://dbpedia.org/resource/Democratic_Kampuchea,Democratic Kampuchea,http://dbpedia.org/resource/Democratic_Kampuchea,108.61
+http://dbpedia.org/resource/Clandeboye,Clandeboye,http://dbpedia.org/resource/Clandeboye,107.96499999999999
+http://dbpedia.org/resource/Jaffna_Kingdom,Jaffna Kingdom,http://dbpedia.org/resource/Jaffna_Kingdom,107.71
+http://dbpedia.org/resource/Massagetae,Massagetae,http://dbpedia.org/resource/Massagetae,107.61000000000001
+http://dbpedia.org/resource/Basque_Country_(greater_region),Basque Country (greater region),http://dbpedia.org/resource/Basque_Country_(greater_region),107.525
+http://dbpedia.org/resource/Swedish_Empire,Swedish Empire,http://dbpedia.org/resource/Swedish_Empire,107.49499999999999
+http://dbpedia.org/resource/Kingdom_of_Kush,Kingdom of Kush,http://dbpedia.org/resource/Kingdom_of_Kush,107.355
+http://dbpedia.org/resource/British_Malaya,British Malaya,http://dbpedia.org/resource/British_Malaya,107.22500000000001
+http://dbpedia.org/resource/Nagorno-Karabakh,Nagorno-Karabakh,http://dbpedia.org/resource/Nagorno-Karabakh,107.18500000000002
+http://dbpedia.org/resource/Kakatiya_dynasty,Kakatiya dynasty,http://dbpedia.org/resource/Kakatiya_dynasty,107.13499999999999
+http://dbpedia.org/resource/Captaincy_General_of_the_Philippines,Captaincy General of the Philippines,http://dbpedia.org/resource/Captaincy_General_of_the_Philippines,106.985
+http://dbpedia.org/resource/Kingdom_of_Hungary_(1920–1946),Kingdom of Hungary (1920–1946),http://dbpedia.org/resource/Kingdom_of_Hungary_(1920–1946),106.875
+http://dbpedia.org/resource/Sultanate_of_the_Geledi,Sultanate of the Geledi,http://dbpedia.org/resource/Sultanate_of_the_Geledi,106.81
+http://dbpedia.org/resource/First_Toungoo_Empire,First Toungoo Empire,http://dbpedia.org/resource/First_Toungoo_Empire,106.735
+http://dbpedia.org/resource/Johor_Sultanate,Johor Sultanate,http://dbpedia.org/resource/Johor_Sultanate,106.36
+http://dbpedia.org/resource/Lan_Xang,Lan Xang,http://dbpedia.org/resource/Lan_Xang,106.25
+"http://dbpedia.org/resource/Eastern_Slavonia,_Baranja_and_Western_Syrmia_(1995–1998)","Eastern Slavonia, Baranja and Western Syrmia (1995–1998)","http://dbpedia.org/resource/Eastern_Slavonia,_Baranja_and_Western_Syrmia_(1995–1998)",106.21
+http://dbpedia.org/resource/Free_French_Africa,Free French Africa,http://dbpedia.org/resource/Free_French_Africa,106.155
+http://dbpedia.org/resource/Kadamba_dynasty,Kadamba dynasty,http://dbpedia.org/resource/Kadamba_dynasty,106.04000000000002
+http://dbpedia.org/resource/Byzantine_Empire_under_the_Heraclian_dynasty,Byzantine Empire under the Heraclian dynasty,http://dbpedia.org/resource/Byzantine_Empire_under_the_Heraclian_dynasty,106.00999999999999
+http://dbpedia.org/resource/Viceroyalty_of_Peru,Viceroyalty of Peru,http://dbpedia.org/resource/Viceroyalty_of_Peru,105.72000000000001
+http://dbpedia.org/resource/New_Netherland,New Netherland,http://dbpedia.org/resource/New_Netherland,105.685
+http://dbpedia.org/resource/Malayan_Union,Malayan Union,http://dbpedia.org/resource/Malayan_Union,105.64000000000001
+http://dbpedia.org/resource/Colchis,Colchis,http://dbpedia.org/resource/Colchis,105.255
+http://dbpedia.org/resource/Spanish_Netherlands,Spanish Netherlands,http://dbpedia.org/resource/Spanish_Netherlands,105.03500000000003
+http://dbpedia.org/resource/Kingdom_of_Portugal,Kingdom of Portugal,http://dbpedia.org/resource/Kingdom_of_Portugal,104.89500000000001
+http://dbpedia.org/resource/Mosquito_Coast,Mosquito Coast,http://dbpedia.org/resource/Mosquito_Coast,104.88999999999999
+http://dbpedia.org/resource/French_protectorate_of_Laos,French protectorate of Laos,http://dbpedia.org/resource/French_protectorate_of_Laos,104.755
+http://dbpedia.org/resource/Dominion_of_India,Dominion of India,http://dbpedia.org/resource/Dominion_of_India,104.61999999999999
+http://dbpedia.org/resource/Military_dictatorship_in_Brazil,Military dictatorship in Brazil,http://dbpedia.org/resource/Military_dictatorship_in_Brazil,104.57
+http://dbpedia.org/resource/Kingdom_of_Bosnia,Kingdom of Bosnia,http://dbpedia.org/resource/Kingdom_of_Bosnia,104.2
+http://dbpedia.org/resource/Avignon_Papacy,Avignon Papacy,http://dbpedia.org/resource/Avignon_Papacy,104.19500000000001
+http://dbpedia.org/resource/Dutch_Formosa,Dutch Formosa,http://dbpedia.org/resource/Dutch_Formosa,103.81
+http://dbpedia.org/resource/Kingdom_of_Cochin,Kingdom of Cochin,http://dbpedia.org/resource/Kingdom_of_Cochin,103.785
+http://dbpedia.org/resource/Southern_Rhodesia,Southern Rhodesia,http://dbpedia.org/resource/Southern_Rhodesia,103.78
+http://dbpedia.org/resource/Kingdom_of_Bavaria,Kingdom of Bavaria,http://dbpedia.org/resource/Kingdom_of_Bavaria,103.72000000000001
+http://dbpedia.org/resource/Kingdom_of_Bohemia,Kingdom of Bohemia,http://dbpedia.org/resource/Kingdom_of_Bohemia,103.68
+http://dbpedia.org/resource/Paramara_dynasty,Paramara dynasty,http://dbpedia.org/resource/Paramara_dynasty,103.485
+http://dbpedia.org/resource/Ottoman_Greece,Ottoman Greece,http://dbpedia.org/resource/Ottoman_Greece,103.47500000000001
+http://dbpedia.org/resource/Kingdom_of_Munster,Kingdom of Munster,http://dbpedia.org/resource/Kingdom_of_Munster,103.35000000000001
+http://dbpedia.org/resource/French_protectorate_in_Morocco,French protectorate in Morocco,http://dbpedia.org/resource/French_protectorate_in_Morocco,103.26500000000001
+http://dbpedia.org/resource/Trust_Territory_of_the_Pacific_Islands,Trust Territory of the Pacific Islands,http://dbpedia.org/resource/Trust_Territory_of_the_Pacific_Islands,103.155
+http://dbpedia.org/resource/Military_dictatorship_in_El_Salvador,Military dictatorship in El Salvador,http://dbpedia.org/resource/Military_dictatorship_in_El_Salvador,103.065
+http://dbpedia.org/resource/Interim_Government_of_Iran,Interim Government of Iran,http://dbpedia.org/resource/Interim_Government_of_Iran,103.05000000000001
+http://dbpedia.org/resource/Kingdom_of_Armenia_(antiquity),Kingdom of Armenia (antiquity),http://dbpedia.org/resource/Kingdom_of_Armenia_(antiquity),103.035
+http://dbpedia.org/resource/Revolutionary_Catalonia,Revolutionary Catalonia,http://dbpedia.org/resource/Revolutionary_Catalonia,102.86500000000001
+http://dbpedia.org/resource/East_Breifne,East Breifne,http://dbpedia.org/resource/East_Breifne,102.81500000000001
+http://dbpedia.org/resource/People's_Republic_of_Bulgaria,People's Republic of Bulgaria,http://dbpedia.org/resource/People's_Republic_of_Bulgaria,102.79000000000002
+http://dbpedia.org/resource/Straits_Settlements,Straits Settlements,http://dbpedia.org/resource/Straits_Settlements,102.685
+http://dbpedia.org/resource/Visegrád_Group,Visegrád Group,http://dbpedia.org/resource/Visegrád_Group,102.60000000000001
+http://dbpedia.org/resource/Seuna_(Yadava)_dynasty,Seuna (Yadava) dynasty,http://dbpedia.org/resource/Seuna_(Yadava)_dynasty,102.33999999999999
+http://dbpedia.org/resource/Tahirid_dynasty,Tahirid dynasty,http://dbpedia.org/resource/Tahirid_dynasty,102.245
+http://dbpedia.org/resource/Shunga_Empire,Shunga Empire,http://dbpedia.org/resource/Shunga_Empire,102.125
+http://dbpedia.org/resource/Kingdom_of_Kandy,Kingdom of Kandy,http://dbpedia.org/resource/Kingdom_of_Kandy,101.95
+http://dbpedia.org/resource/Shang_dynasty,Shang dynasty,http://dbpedia.org/resource/Shang_dynasty,101.79
+http://dbpedia.org/resource/Kingdom_of_Navarre,Kingdom of Navarre,http://dbpedia.org/resource/Kingdom_of_Navarre,101.73
+http://dbpedia.org/resource/Italian_governorate_of_Montenegro,Italian governorate of Montenegro,http://dbpedia.org/resource/Italian_governorate_of_Montenegro,101.685
+http://dbpedia.org/resource/Province_of_New_York,Province of New York,http://dbpedia.org/resource/Province_of_New_York,101.18
+http://dbpedia.org/resource/Zulu_Kingdom,Zulu Kingdom,http://dbpedia.org/resource/Zulu_Kingdom,101.17
+http://dbpedia.org/resource/German_military_administration_in_occupied_France_during_World_War_II,German military administration in occupied France during World War II,http://dbpedia.org/resource/German_military_administration_in_occupied_France_during_World_War_II,101.13499999999999
+http://dbpedia.org/resource/Second_Dynasty_of_Egypt,Second Dynasty of Egypt,http://dbpedia.org/resource/Second_Dynasty_of_Egypt,100.97999999999999
+http://dbpedia.org/resource/Transvaal_Colony,Transvaal Colony,http://dbpedia.org/resource/Transvaal_Colony,100.76
+http://dbpedia.org/resource/Panama_Canal_Zone,Panama Canal Zone,http://dbpedia.org/resource/Panama_Canal_Zone,100.575
+http://dbpedia.org/resource/British_rule_in_Burma,British rule in Burma,http://dbpedia.org/resource/British_rule_in_Burma,100.06
+http://dbpedia.org/resource/Pagan_Kingdom,Pagan Kingdom,http://dbpedia.org/resource/Pagan_Kingdom,99.855
+http://dbpedia.org/resource/Kingdom_of_Marwar,Kingdom of Marwar,http://dbpedia.org/resource/Kingdom_of_Marwar,99.375
+http://dbpedia.org/resource/Trần_dynasty,Trần dynasty,http://dbpedia.org/resource/Trần_dynasty,99.275
+http://dbpedia.org/resource/Passports_in_Europe,Passports in Europe,http://dbpedia.org/resource/Passports_in_Europe,99.23
+http://dbpedia.org/resource/Chinese_Soviet_Republic,Chinese Soviet Republic,http://dbpedia.org/resource/Chinese_Soviet_Republic,99.065
+http://dbpedia.org/resource/Visigothic_Kingdom,Visigothic Kingdom,http://dbpedia.org/resource/Visigothic_Kingdom,98.955
+http://dbpedia.org/resource/Ottoman_Tunisia,Ottoman Tunisia,http://dbpedia.org/resource/Ottoman_Tunisia,98.82
+http://dbpedia.org/resource/British_Ceylon,British Ceylon,http://dbpedia.org/resource/British_Ceylon,98.555
+http://dbpedia.org/resource/Crown_Colony_of_Sarawak,Crown Colony of Sarawak,http://dbpedia.org/resource/Crown_Colony_of_Sarawak,98.505
+http://dbpedia.org/resource/Classical_Athens,Classical Athens,http://dbpedia.org/resource/Classical_Athens,98.495
+http://dbpedia.org/resource/European_Free_Trade_Association,European Free Trade Association,http://dbpedia.org/resource/European_Free_Trade_Association,98.455
+http://dbpedia.org/resource/Grand_Duchy_of_Moscow,Grand Duchy of Moscow,http://dbpedia.org/resource/Grand_Duchy_of_Moscow,98.4
+http://dbpedia.org/resource/First_Philippine_Republic,First Philippine Republic,http://dbpedia.org/resource/First_Philippine_Republic,98.36500000000001
+http://dbpedia.org/resource/Qin_dynasty,Qin dynasty,http://dbpedia.org/resource/Qin_dynasty,98.335
+http://dbpedia.org/resource/Spanish_East_Indies,Spanish East Indies,http://dbpedia.org/resource/Spanish_East_Indies,98.33000000000001
+http://dbpedia.org/resource/North_Sea_Empire,North Sea Empire,http://dbpedia.org/resource/North_Sea_Empire,98.325
+http://dbpedia.org/resource/Protectorate_of_Bohemia_and_Moravia,Protectorate of Bohemia and Moravia,http://dbpedia.org/resource/Protectorate_of_Bohemia_and_Moravia,98.315
+http://dbpedia.org/resource/New_Order_(Indonesia),New Order (Indonesia),http://dbpedia.org/resource/New_Order_(Indonesia),98.315
+http://dbpedia.org/resource/Danish_Realm,Danish Realm,http://dbpedia.org/resource/Danish_Realm,98.235
+http://dbpedia.org/resource/Colony_of_Natal,Colony of Natal,http://dbpedia.org/resource/Colony_of_Natal,98.065
+http://dbpedia.org/resource/Emirate_of_Transjordan,Emirate of Transjordan,http://dbpedia.org/resource/Emirate_of_Transjordan,97.985
+http://dbpedia.org/resource/Oyo_Empire,Oyo Empire,http://dbpedia.org/resource/Oyo_Empire,97.98000000000002
+http://dbpedia.org/resource/History_of_the_Philippines_(1986–present),History of the Philippines (1986–present),http://dbpedia.org/resource/History_of_the_Philippines_(1986–present),97.945
+http://dbpedia.org/resource/Zand_dynasty,Zand dynasty,http://dbpedia.org/resource/Zand_dynasty,97.755
+http://dbpedia.org/resource/East_African_Community,East African Community,http://dbpedia.org/resource/East_African_Community,97.625
+http://dbpedia.org/resource/History_of_Iceland,History of Iceland,http://dbpedia.org/resource/History_of_Iceland,97.56500000000001
+http://dbpedia.org/resource/Kingdom_of_Pergamon,Kingdom of Pergamon,http://dbpedia.org/resource/Kingdom_of_Pergamon,97.44999999999999
+http://dbpedia.org/resource/Kingdom_of_the_Netherlands,Kingdom of the Netherlands,http://dbpedia.org/resource/Kingdom_of_the_Netherlands,97.355
+http://dbpedia.org/resource/Roman_Italy,Roman Italy,http://dbpedia.org/resource/Roman_Italy,97.285
+http://dbpedia.org/resource/Dervish_movement_(Somali),Dervish movement (Somali),http://dbpedia.org/resource/Dervish_movement_(Somali),97.24000000000001
+http://dbpedia.org/resource/Latin_Empire,Latin Empire,http://dbpedia.org/resource/Latin_Empire,97.075
+http://dbpedia.org/resource/Mercosur,Mercosur,http://dbpedia.org/resource/Mercosur,96.98500000000001
+http://dbpedia.org/resource/Kingdom_of_Benin,Kingdom of Benin,http://dbpedia.org/resource/Kingdom_of_Benin,96.85000000000001
+http://dbpedia.org/resource/Northern_Satraps,Northern Satraps,http://dbpedia.org/resource/Northern_Satraps,96.64500000000001
+http://dbpedia.org/resource/British_North_America,British North America,http://dbpedia.org/resource/British_North_America,96.53000000000002
+http://dbpedia.org/resource/Sultanate_of_Mogadishu,Sultanate of Mogadishu,http://dbpedia.org/resource/Sultanate_of_Mogadishu,96.07
+http://dbpedia.org/resource/Provisional_Government_of_the_Republic_of_Korea,Provisional Government of the Republic of Korea,http://dbpedia.org/resource/Provisional_Government_of_the_Republic_of_Korea,95.91000000000001
+http://dbpedia.org/resource/Slavs_in_Lower_Pannonia,Slavs in Lower Pannonia,http://dbpedia.org/resource/Slavs_in_Lower_Pannonia,95.845
+http://dbpedia.org/resource/Polish_Underground_State,Polish Underground State,http://dbpedia.org/resource/Polish_Underground_State,95.81
+http://dbpedia.org/resource/Azawad,Azawad,http://dbpedia.org/resource/Azawad,95.715
+http://dbpedia.org/resource/Durrani_Empire,Durrani Empire,http://dbpedia.org/resource/Durrani_Empire,95.645
+http://dbpedia.org/resource/Belgian_Congo,Belgian Congo,http://dbpedia.org/resource/Belgian_Congo,95.57000000000001
+http://dbpedia.org/resource/Scandinavian_York,Scandinavian York,http://dbpedia.org/resource/Scandinavian_York,95.44
+http://dbpedia.org/resource/History_of_Eritrea,History of Eritrea,http://dbpedia.org/resource/History_of_Eritrea,95.36
+http://dbpedia.org/resource/Italian_Somaliland,Italian Somaliland,http://dbpedia.org/resource/Italian_Somaliland,95.31
+http://dbpedia.org/resource/Karamanids,Karamanids,http://dbpedia.org/resource/Karamanids,95.28999999999999
+http://dbpedia.org/resource/German_Confederation,German Confederation,http://dbpedia.org/resource/German_Confederation,95.285
+http://dbpedia.org/resource/Azerbaijan_Democratic_Republic,Azerbaijan Democratic Republic,http://dbpedia.org/resource/Azerbaijan_Democratic_Republic,95.28
+http://dbpedia.org/resource/Latvian_Soviet_Socialist_Republic,Latvian Soviet Socialist Republic,http://dbpedia.org/resource/Latvian_Soviet_Socialist_Republic,95.21
+http://dbpedia.org/resource/Kingdom_of_Chiang_Mai,Kingdom of Chiang Mai,http://dbpedia.org/resource/Kingdom_of_Chiang_Mai,95.07000000000001
+http://dbpedia.org/resource/Vandal_Kingdom,Vandal Kingdom,http://dbpedia.org/resource/Vandal_Kingdom,95.0
+http://dbpedia.org/resource/Kingdom_of_Galicia_and_Lodomeria,Kingdom of Galicia and Lodomeria,http://dbpedia.org/resource/Kingdom_of_Galicia_and_Lodomeria,94.88999999999999
+http://dbpedia.org/resource/Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation,http://dbpedia.org/resource/Bay_of_Bengal_Initiative_for_Multi-Sectoral_Technical_and_Economic_Cooperation,94.88
+http://dbpedia.org/resource/Kalmar_Union,Kalmar Union,http://dbpedia.org/resource/Kalmar_Union,94.85000000000001
+http://dbpedia.org/resource/Second_East_Turkestan_Republic,Second East Turkestan Republic,http://dbpedia.org/resource/Second_East_Turkestan_Republic,94.715
+http://dbpedia.org/resource/Empire_of_Vietnam,Empire of Vietnam,http://dbpedia.org/resource/Empire_of_Vietnam,94.6
+http://dbpedia.org/resource/Sui_dynasty,Sui dynasty,http://dbpedia.org/resource/Sui_dynasty,94.59500000000001
+http://dbpedia.org/resource/Nyasaland,Nyasaland,http://dbpedia.org/resource/Nyasaland,94.585
+http://dbpedia.org/resource/Portuguese_Malacca,Portuguese Malacca,http://dbpedia.org/resource/Portuguese_Malacca,94.53
+http://dbpedia.org/resource/Lithuanian_Soviet_Socialist_Republic,Lithuanian Soviet Socialist Republic,http://dbpedia.org/resource/Lithuanian_Soviet_Socialist_Republic,94.42500000000001
+http://dbpedia.org/resource/Middle_Kingdom_of_Egypt,Middle Kingdom of Egypt,http://dbpedia.org/resource/Middle_Kingdom_of_Egypt,94.42500000000001
+http://dbpedia.org/resource/Armenian_Soviet_Socialist_Republic,Armenian Soviet Socialist Republic,http://dbpedia.org/resource/Armenian_Soviet_Socialist_Republic,94.36500000000001
+http://dbpedia.org/resource/Batavian_Republic,Batavian Republic,http://dbpedia.org/resource/Batavian_Republic,94.35
+http://dbpedia.org/resource/Epirus_(ancient_state),Epirus (ancient state),http://dbpedia.org/resource/Epirus_(ancient_state),94.27000000000001
+http://dbpedia.org/resource/Second_Philippine_Republic,Second Philippine Republic,http://dbpedia.org/resource/Second_Philippine_Republic,94.11
+http://dbpedia.org/resource/Mushika_dynasty,Mushika dynasty,http://dbpedia.org/resource/Mushika_dynasty,94.045
+http://dbpedia.org/resource/Ajuran_Sultanate,Ajuran Sultanate,http://dbpedia.org/resource/Ajuran_Sultanate,93.96000000000001
+http://dbpedia.org/resource/Derg,Derg,http://dbpedia.org/resource/Derg,93.825
+http://dbpedia.org/resource/Kingdom_of_Egypt,Kingdom of Egypt,http://dbpedia.org/resource/Kingdom_of_Egypt,93.815
+http://dbpedia.org/resource/Bombay_Presidency,Bombay Presidency,http://dbpedia.org/resource/Bombay_Presidency,93.77000000000001
+http://dbpedia.org/resource/Dominion_of_Newfoundland,Dominion of Newfoundland,http://dbpedia.org/resource/Dominion_of_Newfoundland,93.745
+http://dbpedia.org/resource/South_African_Republic,South African Republic,http://dbpedia.org/resource/South_African_Republic,93.71500000000002
+http://dbpedia.org/resource/History_of_the_People's_Republic_of_China_(1976–1989),History of the People's Republic of China (1976–1989),http://dbpedia.org/resource/History_of_the_People's_Republic_of_China_(1976–1989),93.67000000000002
+http://dbpedia.org/resource/Kingdom_of_Candia,Kingdom of Candia,http://dbpedia.org/resource/Kingdom_of_Candia,93.61
+http://dbpedia.org/resource/Singhasari,Singhasari,http://dbpedia.org/resource/Singhasari,93.38
+http://dbpedia.org/resource/Ryukyu_Kingdom,Ryukyu Kingdom,http://dbpedia.org/resource/Ryukyu_Kingdom,93.27499999999999
+http://dbpedia.org/resource/Qara_Khitai,Qara Khitai,http://dbpedia.org/resource/Qara_Khitai,93.255
+http://dbpedia.org/resource/Zaire,Zaire,http://dbpedia.org/resource/Zaire,93.17000000000002
+http://dbpedia.org/resource/British_Somaliland,British Somaliland,http://dbpedia.org/resource/British_Somaliland,93.11
+http://dbpedia.org/resource/Ziyarid_dynasty,Ziyarid dynasty,http://dbpedia.org/resource/Ziyarid_dynasty,92.75
+http://dbpedia.org/resource/Second_Spanish_Republic,Second Spanish Republic,http://dbpedia.org/resource/Second_Spanish_Republic,92.72000000000001
+http://dbpedia.org/resource/Provisional_Government_of_National_Defence,Provisional Government of National Defence,http://dbpedia.org/resource/Provisional_Government_of_National_Defence,92.535
+http://dbpedia.org/resource/Rotuma,Rotuma,http://dbpedia.org/resource/Rotuma,92.355
+http://dbpedia.org/resource/Autonomous_Republic_of_Crimea,Autonomous Republic of Crimea,http://dbpedia.org/resource/Autonomous_Republic_of_Crimea,92.345
+http://dbpedia.org/resource/Albanian_Kingdom_(1928–1939),Albanian Kingdom (1928–1939),http://dbpedia.org/resource/Albanian_Kingdom_(1928–1939),92.34
+http://dbpedia.org/resource/Congo_Free_State,Congo Free State,http://dbpedia.org/resource/Congo_Free_State,92.3
+http://dbpedia.org/resource/Kingdom_of_Saxony,Kingdom of Saxony,http://dbpedia.org/resource/Kingdom_of_Saxony,92.04500000000002
+http://dbpedia.org/resource/Grand_Duchy_of_Finland,Grand Duchy of Finland,http://dbpedia.org/resource/Grand_Duchy_of_Finland,91.935
+http://dbpedia.org/resource/Kingdom_of_Georgia,Kingdom of Georgia,http://dbpedia.org/resource/Kingdom_of_Georgia,91.83
+http://dbpedia.org/resource/Kingdom_of_Croatia-Slavonia,Kingdom of Croatia-Slavonia,http://dbpedia.org/resource/Kingdom_of_Croatia-Slavonia,91.83
+http://dbpedia.org/resource/Tughlaq_dynasty,Tughlaq dynasty,http://dbpedia.org/resource/Tughlaq_dynasty,91.745
+http://dbpedia.org/resource/Kingdom_of_Kartli-Kakheti,Kingdom of Kartli-Kakheti,http://dbpedia.org/resource/Kingdom_of_Kartli-Kakheti,91.63
+http://dbpedia.org/resource/Unrepresented_Nations_and_Peoples_Organization,Unrepresented Nations and Peoples Organization,http://dbpedia.org/resource/Unrepresented_Nations_and_Peoples_Organization,91.59
+http://dbpedia.org/resource/Habsburg_monarchy,Habsburg monarchy,http://dbpedia.org/resource/Habsburg_monarchy,91.405
+http://dbpedia.org/resource/Danishmendids,Danishmendids,http://dbpedia.org/resource/Danishmendids,91.38
+http://dbpedia.org/resource/Hospitaller_Malta,Hospitaller Malta,http://dbpedia.org/resource/Hospitaller_Malta,91.17
+http://dbpedia.org/resource/Songhai_Empire,Songhai Empire,http://dbpedia.org/resource/Songhai_Empire,90.855
+http://dbpedia.org/resource/Byzantine_Empire_under_the_Palaiologos_dynasty,Byzantine Empire under the Palaiologos dynasty,http://dbpedia.org/resource/Byzantine_Empire_under_the_Palaiologos_dynasty,90.81
+http://dbpedia.org/resource/United_Arab_Republic,United Arab Republic,http://dbpedia.org/resource/United_Arab_Republic,90.755
+http://dbpedia.org/resource/EU_Med_Group,EU Med Group,http://dbpedia.org/resource/EU_Med_Group,90.64
+http://dbpedia.org/resource/Duchy_of_Milan,Duchy of Milan,http://dbpedia.org/resource/Duchy_of_Milan,90.605
+http://dbpedia.org/resource/Jalayirid_Sultanate,Jalayirid Sultanate,http://dbpedia.org/resource/Jalayirid_Sultanate,90.565
+http://dbpedia.org/resource/First_Mexican_Empire,First Mexican Empire,http://dbpedia.org/resource/First_Mexican_Empire,90.56
+http://dbpedia.org/resource/Northern_Yuan,Northern Yuan,http://dbpedia.org/resource/Northern_Yuan,90.515
+http://dbpedia.org/resource/Kingdom_of_Iraq,Kingdom of Iraq,http://dbpedia.org/resource/Kingdom_of_Iraq,90.32000000000001
+http://dbpedia.org/resource/SAO_Western_Slavonia,SAO Western Slavonia,http://dbpedia.org/resource/SAO_Western_Slavonia,90.19
+http://dbpedia.org/resource/Japanese_occupation_of_Singapore,Japanese occupation of Singapore,http://dbpedia.org/resource/Japanese_occupation_of_Singapore,90.185
+http://dbpedia.org/resource/Sahrawi_Arab_Democratic_Republic,Sahrawi Arab Democratic Republic,http://dbpedia.org/resource/Sahrawi_Arab_Democratic_Republic,90.10000000000001
+http://dbpedia.org/resource/Portuguese_Mozambique,Portuguese Mozambique,http://dbpedia.org/resource/Portuguese_Mozambique,90.025
+http://dbpedia.org/resource/Empire_of_Trebizond,Empire of Trebizond,http://dbpedia.org/resource/Empire_of_Trebizond,89.91000000000001
+http://dbpedia.org/resource/Kingdom_of_Polonnaruwa,Kingdom of Polonnaruwa,http://dbpedia.org/resource/Kingdom_of_Polonnaruwa,89.825
+http://dbpedia.org/resource/Macedonia_(region),Macedonia (region),http://dbpedia.org/resource/Macedonia_(region),89.78999999999999
+http://dbpedia.org/resource/Sultanate_of_Ifat,Sultanate of Ifat,http://dbpedia.org/resource/Sultanate_of_Ifat,89.77
+http://dbpedia.org/resource/Croatia_in_personal_union_with_Hungary,Croatia in personal union with Hungary,http://dbpedia.org/resource/Croatia_in_personal_union_with_Hungary,89.765
+http://dbpedia.org/resource/Misl,Misl,http://dbpedia.org/resource/Misl,89.76
+http://dbpedia.org/resource/Naval_Base_Upolu,Naval Base Upolu,http://dbpedia.org/resource/Naval_Base_Upolu,89.60000000000001
+http://dbpedia.org/resource/Sunda_Kingdom,Sunda Kingdom,http://dbpedia.org/resource/Sunda_Kingdom,89.25500000000001
+http://dbpedia.org/resource/Province_of_Canada,Province of Canada,http://dbpedia.org/resource/Province_of_Canada,89.17500000000001
+http://dbpedia.org/resource/Gepids,Gepids,http://dbpedia.org/resource/Gepids,89.14499999999998
+http://dbpedia.org/resource/Ostrogothic_Kingdom,Ostrogothic Kingdom,http://dbpedia.org/resource/Ostrogothic_Kingdom,89.115
+http://dbpedia.org/resource/SAO_Krajina,SAO Krajina,http://dbpedia.org/resource/SAO_Krajina,88.64
+http://dbpedia.org/resource/History_of_Portugal_(1415–1578),History of Portugal (1415–1578),http://dbpedia.org/resource/History_of_Portugal_(1415–1578),88.54
+http://dbpedia.org/resource/Isaaq_Sultanate,Isaaq Sultanate,http://dbpedia.org/resource/Isaaq_Sultanate,88.535
+http://dbpedia.org/resource/Province_of_Maryland,Province of Maryland,http://dbpedia.org/resource/Province_of_Maryland,88.355
+http://dbpedia.org/resource/Novgorod_Republic,Novgorod Republic,http://dbpedia.org/resource/Novgorod_Republic,88.33500000000001
+http://dbpedia.org/resource/South_Kasai,South Kasai,http://dbpedia.org/resource/South_Kasai,88.215
+http://dbpedia.org/resource/Kingdom_of_Tlemcen,Kingdom of Tlemcen,http://dbpedia.org/resource/Kingdom_of_Tlemcen,88.21
+http://dbpedia.org/resource/Gauda_Kingdom,Gauda Kingdom,http://dbpedia.org/resource/Gauda_Kingdom,88.17500000000001
+http://dbpedia.org/resource/East_Pakistan,East Pakistan,http://dbpedia.org/resource/East_Pakistan,88.00500000000001
+http://dbpedia.org/resource/Fourth_Philippine_Republic,Fourth Philippine Republic,http://dbpedia.org/resource/Fourth_Philippine_Republic,88.005
+http://dbpedia.org/resource/Monastic_community_of_Mount_Athos,Monastic community of Mount Athos,http://dbpedia.org/resource/Monastic_community_of_Mount_Athos,87.91
+http://dbpedia.org/resource/Provisional_Government_of_the_French_Republic,Provisional Government of the French Republic,http://dbpedia.org/resource/Provisional_Government_of_the_French_Republic,87.85000000000001
+http://dbpedia.org/resource/Democratic_Federal_Yugoslavia,Democratic Federal Yugoslavia,http://dbpedia.org/resource/Democratic_Federal_Yugoslavia,87.72
+http://dbpedia.org/resource/Principality_of_Serbia_(early_medieval),Principality of Serbia (early medieval),http://dbpedia.org/resource/Principality_of_Serbia_(early_medieval),87.69999999999999
+http://dbpedia.org/resource/Republic_of_Texas,Republic of Texas,http://dbpedia.org/resource/Republic_of_Texas,87.59
+http://dbpedia.org/resource/Banat_Republic,Banat Republic,http://dbpedia.org/resource/Banat_Republic,87.56
+http://dbpedia.org/resource/Kingdom_of_Asturias,Kingdom of Asturias,http://dbpedia.org/resource/Kingdom_of_Asturias,87.495
+http://dbpedia.org/resource/Bruneian_Sultanate_(1368–1888),Bruneian Sultanate (1368–1888),http://dbpedia.org/resource/Bruneian_Sultanate_(1368–1888),87.495
+http://dbpedia.org/resource/Garhwal_Kingdom,Garhwal Kingdom,http://dbpedia.org/resource/Garhwal_Kingdom,87.38999999999999
+http://dbpedia.org/resource/West_Ukrainian_People's_Republic,West Ukrainian People's Republic,http://dbpedia.org/resource/West_Ukrainian_People's_Republic,87.305
+http://dbpedia.org/resource/Allied-occupied_Austria,Allied-occupied Austria,http://dbpedia.org/resource/Allied-occupied_Austria,87.17000000000002
+http://dbpedia.org/resource/Aceh_Sultanate,Aceh Sultanate,http://dbpedia.org/resource/Aceh_Sultanate,87.15
+http://dbpedia.org/resource/Transkei,Transkei,http://dbpedia.org/resource/Transkei,87.125
+http://dbpedia.org/resource/Sheikhdom_of_Kuwait,Sheikhdom of Kuwait,http://dbpedia.org/resource/Sheikhdom_of_Kuwait,87.005
+http://dbpedia.org/resource/Organization_of_Turkic_States,Organization of Turkic States,http://dbpedia.org/resource/Organization_of_Turkic_States,86.935
+http://dbpedia.org/resource/Despotate_of_Epirus,Despotate of Epirus,http://dbpedia.org/resource/Despotate_of_Epirus,86.87
+http://dbpedia.org/resource/Benelux,Benelux,http://dbpedia.org/resource/Benelux,86.86
+http://dbpedia.org/resource/Province_of_Massachusetts_Bay,Province of Massachusetts Bay,http://dbpedia.org/resource/Province_of_Massachusetts_Bay,86.85500000000002
+http://dbpedia.org/resource/Portuguese_Macau,Portuguese Macau,http://dbpedia.org/resource/Portuguese_Macau,86.695
+http://dbpedia.org/resource/Kingdom_of_Albania_(medieval),Kingdom of Albania (medieval),http://dbpedia.org/resource/Kingdom_of_Albania_(medieval),86.68
+http://dbpedia.org/resource/Colony_of_Singapore,Colony of Singapore,http://dbpedia.org/resource/Colony_of_Singapore,86.48500000000001
+http://dbpedia.org/resource/Crown_of_Castile,Crown of Castile,http://dbpedia.org/resource/Crown_of_Castile,86.4
+http://dbpedia.org/resource/Kingdom_of_Mrauk_U,Kingdom of Mrauk U,http://dbpedia.org/resource/Kingdom_of_Mrauk_U,86.375
+http://dbpedia.org/resource/People's_Republic_of_Mozambique,People's Republic of Mozambique,http://dbpedia.org/resource/People's_Republic_of_Mozambique,86.355
+http://dbpedia.org/resource/Kingdom_of_Singapura,Kingdom of Singapura,http://dbpedia.org/resource/Kingdom_of_Singapura,86.22
+http://dbpedia.org/resource/Energy_Community,Energy Community,http://dbpedia.org/resource/Energy_Community,86.20500000000001
+http://dbpedia.org/resource/Kingdom_of_Beni_Abbas,Kingdom of Beni Abbas,http://dbpedia.org/resource/Kingdom_of_Beni_Abbas,86.11999999999999
+http://dbpedia.org/resource/Central_Powers,Central Powers,http://dbpedia.org/resource/Central_Powers,86.095
+http://dbpedia.org/resource/Hotak_dynasty,Hotak dynasty,http://dbpedia.org/resource/Hotak_dynasty,86.04
+http://dbpedia.org/resource/Lagos_Colony,Lagos Colony,http://dbpedia.org/resource/Lagos_Colony,85.94500000000001
+http://dbpedia.org/resource/Tulunids,Tulunids,http://dbpedia.org/resource/Tulunids,85.905
+http://dbpedia.org/resource/Second_Turkic_Khaganate,Second Turkic Khaganate,http://dbpedia.org/resource/Second_Turkic_Khaganate,85.86500000000001
+http://dbpedia.org/resource/Economic_Community_of_West_African_States,Economic Community of West African States,http://dbpedia.org/resource/Economic_Community_of_West_African_States,85.83500000000001
+http://dbpedia.org/resource/Aghlabids,Aghlabids,http://dbpedia.org/resource/Aghlabids,85.83500000000001
+http://dbpedia.org/resource/Ottoman_Bulgaria,Ottoman Bulgaria,http://dbpedia.org/resource/Ottoman_Bulgaria,85.77499999999999
+http://dbpedia.org/resource/First_Dynasty_of_Egypt,First Dynasty of Egypt,http://dbpedia.org/resource/First_Dynasty_of_Egypt,85.74000000000001
+http://dbpedia.org/resource/Kingdom_of_Pontus,Kingdom of Pontus,http://dbpedia.org/resource/Kingdom_of_Pontus,85.685
+http://dbpedia.org/resource/Khedivate_of_Egypt,Khedivate of Egypt,http://dbpedia.org/resource/Khedivate_of_Egypt,85.58000000000001
+http://dbpedia.org/resource/Gorkha_Kingdom,Gorkha Kingdom,http://dbpedia.org/resource/Gorkha_Kingdom,85.505
+http://dbpedia.org/resource/SAO_Romanija,SAO Romanija,http://dbpedia.org/resource/SAO_Romanija,85.47
+http://dbpedia.org/resource/Duchy_of_Brunswick-Lüneburg,Duchy of Brunswick-Lüneburg,http://dbpedia.org/resource/Duchy_of_Brunswick-Lüneburg,85.405
+http://dbpedia.org/resource/Kingdom_of_Württemberg,Kingdom of Württemberg,http://dbpedia.org/resource/Kingdom_of_Württemberg,85.405
+http://dbpedia.org/resource/Magadha,Magadha,http://dbpedia.org/resource/Magadha,85.33
+http://dbpedia.org/resource/History_of_the_People's_Republic_of_China_(1949–1976),History of the People's Republic of China (1949–1976),http://dbpedia.org/resource/History_of_the_People's_Republic_of_China_(1949–1976),85.31
+http://dbpedia.org/resource/Qocho,Qocho,http://dbpedia.org/resource/Qocho,85.27
+http://dbpedia.org/resource/Dimasa_Kingdom,Dimasa Kingdom,http://dbpedia.org/resource/Dimasa_Kingdom,85.22500000000001
+http://dbpedia.org/resource/Captaincy_General_of_Chile,Captaincy General of Chile,http://dbpedia.org/resource/Captaincy_General_of_Chile,85.17500000000001
+http://dbpedia.org/resource/Achaean_League,Achaean League,http://dbpedia.org/resource/Achaean_League,85.105
+http://dbpedia.org/resource/SAO_Bosanska_Krajina,SAO Bosanska Krajina,http://dbpedia.org/resource/SAO_Bosanska_Krajina,85.085
+http://dbpedia.org/resource/Pacific_Islands_Forum,Pacific Islands Forum,http://dbpedia.org/resource/Pacific_Islands_Forum,85.08
+http://dbpedia.org/resource/Mercia,Mercia,http://dbpedia.org/resource/Mercia,84.94500000000001
+http://dbpedia.org/resource/Qutb_Shahi_dynasty,Qutb Shahi dynasty,http://dbpedia.org/resource/Qutb_Shahi_dynasty,84.825
+http://dbpedia.org/resource/History_of_Brunei,History of Brunei,http://dbpedia.org/resource/History_of_Brunei,84.63499999999999
+http://dbpedia.org/resource/Italian_East_Africa,Italian East Africa,http://dbpedia.org/resource/Italian_East_Africa,84.44500000000001
+http://dbpedia.org/resource/Kingdom_of_the_Suebi,Kingdom of the Suebi,http://dbpedia.org/resource/Kingdom_of_the_Suebi,84.435
+http://dbpedia.org/resource/Mallabhum_kingdom,Mallabhum kingdom,http://dbpedia.org/resource/Mallabhum_kingdom,84.39999999999999
+http://dbpedia.org/resource/Federated_Malay_States,Federated Malay States,http://dbpedia.org/resource/Federated_Malay_States,84.38999999999999
+http://dbpedia.org/resource/Bophuthatswana,Bophuthatswana,http://dbpedia.org/resource/Bophuthatswana,84.27
+http://dbpedia.org/resource/Shah-Armens,Shah-Armens,http://dbpedia.org/resource/Shah-Armens,84.195
+http://dbpedia.org/resource/Eastern_Turkic_Khaganate,Eastern Turkic Khaganate,http://dbpedia.org/resource/Eastern_Turkic_Khaganate,84.17
+http://dbpedia.org/resource/Italian_protectorate_of_Albania_(1939–1943),Italian protectorate of Albania (1939–1943),http://dbpedia.org/resource/Italian_protectorate_of_Albania_(1939–1943),84.07499999999999
+http://dbpedia.org/resource/SAO_North-East_Bosnia,SAO North-East Bosnia,http://dbpedia.org/resource/SAO_North-East_Bosnia,84.03500000000001
+http://dbpedia.org/resource/US_Naval_Base_Australia,US Naval Base Australia,http://dbpedia.org/resource/US_Naval_Base_Australia,83.935
+http://dbpedia.org/resource/Portuguese_Angola,Portuguese Angola,http://dbpedia.org/resource/Portuguese_Angola,83.92999999999999
+http://dbpedia.org/resource/Orange_Free_State,Orange Free State,http://dbpedia.org/resource/Orange_Free_State,83.91499999999999
+http://dbpedia.org/resource/French_India,French India,http://dbpedia.org/resource/French_India,83.86500000000001
+http://dbpedia.org/resource/Republic_of_Florence,Republic of Florence,http://dbpedia.org/resource/Republic_of_Florence,83.79000000000002
+http://dbpedia.org/resource/Chaulukya_dynasty,Chaulukya dynasty,http://dbpedia.org/resource/Chaulukya_dynasty,83.655
+http://dbpedia.org/resource/Germiyanids,Germiyanids,http://dbpedia.org/resource/Germiyanids,83.57
+http://dbpedia.org/resource/Bremen-Verden,Bremen-Verden,http://dbpedia.org/resource/Bremen-Verden,83.345
+http://dbpedia.org/resource/Colony_of_British_Columbia_(1858–1866),Colony of British Columbia (1858–1866),http://dbpedia.org/resource/Colony_of_British_Columbia_(1858–1866),83.315
+http://dbpedia.org/resource/Nordic_Council,Nordic Council,http://dbpedia.org/resource/Nordic_Council,83.225
+http://dbpedia.org/resource/Duchy_of_Württemberg,Duchy of Württemberg,http://dbpedia.org/resource/Duchy_of_Württemberg,83.125
+http://dbpedia.org/resource/United_States_Army_Military_Government_in_Korea,United States Army Military Government in Korea,http://dbpedia.org/resource/United_States_Army_Military_Government_in_Korea,83.08
+http://dbpedia.org/resource/Dahomey,Dahomey,http://dbpedia.org/resource/Dahomey,83.05499999999999
+http://dbpedia.org/resource/Chera_Perumals_of_Makotai,Chera Perumals of Makotai,http://dbpedia.org/resource/Chera_Perumals_of_Makotai,83.00500000000001
+http://dbpedia.org/resource/Gurjara-Pratihara_dynasty,Gurjara-Pratihara dynasty,http://dbpedia.org/resource/Gurjara-Pratihara_dynasty,82.91
+http://dbpedia.org/resource/Viceroyalty_of_the_Río_de_la_Plata,Viceroyalty of the Río de la Plata,http://dbpedia.org/resource/Viceroyalty_of_the_Río_de_la_Plata,82.84
+http://dbpedia.org/resource/Annam_(French_protectorate),Annam (French protectorate),http://dbpedia.org/resource/Annam_(French_protectorate),82.84
+http://dbpedia.org/resource/Madja-as,Madja-as,http://dbpedia.org/resource/Madja-as,82.83500000000001
+http://dbpedia.org/resource/SAO_Herzegovina,SAO Herzegovina,http://dbpedia.org/resource/SAO_Herzegovina,82.78
+http://dbpedia.org/resource/Principality_of_Transylvania_(1570–1711),Principality of Transylvania (1570–1711),http://dbpedia.org/resource/Principality_of_Transylvania_(1570–1711),82.65
+http://dbpedia.org/resource/Grand_Duchy_of_Baden,Grand Duchy of Baden,http://dbpedia.org/resource/Grand_Duchy_of_Baden,82.555
+http://dbpedia.org/resource/Kingdom_of_Hanover,Kingdom of Hanover,http://dbpedia.org/resource/Kingdom_of_Hanover,82.52
+http://dbpedia.org/resource/Commagene,Commagene,http://dbpedia.org/resource/Commagene,82.47
+http://dbpedia.org/resource/Japanese_occupation_of_the_Gilbert_Islands,Japanese occupation of the Gilbert Islands,http://dbpedia.org/resource/Japanese_occupation_of_the_Gilbert_Islands,82.31
+http://dbpedia.org/resource/Ciskei,Ciskei,http://dbpedia.org/resource/Ciskei,82.28
+http://dbpedia.org/resource/Viceroyalty_of_New_Granada,Viceroyalty of New Granada,http://dbpedia.org/resource/Viceroyalty_of_New_Granada,82.27
+http://dbpedia.org/resource/Kanem–Bornu_Empire,Kanem–Bornu Empire,http://dbpedia.org/resource/Kanem–Bornu_Empire,82.27
+http://dbpedia.org/resource/Hungarian_Soviet_Republic,Hungarian Soviet Republic,http://dbpedia.org/resource/Hungarian_Soviet_Republic,82.205
+http://dbpedia.org/resource/French_Fourth_Republic,French Fourth Republic,http://dbpedia.org/resource/French_Fourth_Republic,82.165
+http://dbpedia.org/resource/Dominion_of_New_Zealand,Dominion of New Zealand,http://dbpedia.org/resource/Dominion_of_New_Zealand,82.155
+http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations,Colony of Rhode Island and Providence Plantations,http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations,82.11
+http://dbpedia.org/resource/Principality_of_Wales,Principality of Wales,http://dbpedia.org/resource/Principality_of_Wales,82.1
+http://dbpedia.org/resource/Indo-Parthian_Kingdom,Indo-Parthian Kingdom,http://dbpedia.org/resource/Indo-Parthian_Kingdom,82.07
+http://dbpedia.org/resource/Second_Empire_of_Haiti,Second Empire of Haiti,http://dbpedia.org/resource/Second_Empire_of_Haiti,82.05499999999999
+http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt,Twentieth Dynasty of Egypt,http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt,81.985
+http://dbpedia.org/resource/Sultanate_of_Ternate,Sultanate of Ternate,http://dbpedia.org/resource/Sultanate_of_Ternate,81.94500000000001
+http://dbpedia.org/resource/Revolutionary_Government_of_the_Armed_Forces_of_Peru,Revolutionary Government of the Armed Forces of Peru,http://dbpedia.org/resource/Revolutionary_Government_of_the_Armed_Forces_of_Peru,81.935
+http://dbpedia.org/resource/Rus'_Khaganate,Rus' Khaganate,http://dbpedia.org/resource/Rus'_Khaganate,81.89
+http://dbpedia.org/resource/Namayan,Namayan,http://dbpedia.org/resource/Namayan,81.67
+http://dbpedia.org/resource/Community_of_Portuguese_Language_Countries,Community of Portuguese Language Countries,http://dbpedia.org/resource/Community_of_Portuguese_Language_Countries,81.515
+http://dbpedia.org/resource/New_Kingdom_of_Egypt,New Kingdom of Egypt,http://dbpedia.org/resource/New_Kingdom_of_Egypt,81.47000000000001
+http://dbpedia.org/resource/Crown_Colony_of_North_Borneo,Crown Colony of North Borneo,http://dbpedia.org/resource/Crown_Colony_of_North_Borneo,81.455
+http://dbpedia.org/resource/Reichskommissariat_Ostland,Reichskommissariat Ostland,http://dbpedia.org/resource/Reichskommissariat_Ostland,81.43
+http://dbpedia.org/resource/Galmudug,Galmudug,http://dbpedia.org/resource/Galmudug,81.42500000000001
+http://dbpedia.org/resource/Moldavian_Soviet_Socialist_Republic,Moldavian Soviet Socialist Republic,http://dbpedia.org/resource/Moldavian_Soviet_Socialist_Republic,81.34
+http://dbpedia.org/resource/Union_State,Union State,http://dbpedia.org/resource/Union_State,81.34
+http://dbpedia.org/resource/History_of_Speyer,History of Speyer,http://dbpedia.org/resource/History_of_Speyer,81.335
+http://dbpedia.org/resource/Principality_of_Waldeck_and_Pyrmont,Principality of Waldeck and Pyrmont,http://dbpedia.org/resource/Principality_of_Waldeck_and_Pyrmont,81.245
+http://dbpedia.org/resource/Khanate_of_Bukhara,Khanate of Bukhara,http://dbpedia.org/resource/Khanate_of_Bukhara,81.17999999999999
+http://dbpedia.org/resource/Imperial_County_of_Reuss,Imperial County of Reuss,http://dbpedia.org/resource/Imperial_County_of_Reuss,81.10000000000001
+http://dbpedia.org/resource/Japanese_colonial_empire,Japanese colonial empire,http://dbpedia.org/resource/Japanese_colonial_empire,80.94
+http://dbpedia.org/resource/Captaincy_General_of_Cuba,Captaincy General of Cuba,http://dbpedia.org/resource/Captaincy_General_of_Cuba,80.89000000000001
+http://dbpedia.org/resource/German_occupation_of_Albania,German occupation of Albania,http://dbpedia.org/resource/German_occupation_of_Albania,80.84
+http://dbpedia.org/resource/Gran_Colombia,Gran Colombia,http://dbpedia.org/resource/Gran_Colombia,80.775
+http://dbpedia.org/resource/Kingdom_of_Sikkim,Kingdom of Sikkim,http://dbpedia.org/resource/Kingdom_of_Sikkim,80.73500000000001
+http://dbpedia.org/resource/Merina_Kingdom,Merina Kingdom,http://dbpedia.org/resource/Merina_Kingdom,80.73000000000002
+http://dbpedia.org/resource/South_Seas_Mandate,South Seas Mandate,http://dbpedia.org/resource/South_Seas_Mandate,80.63
+http://dbpedia.org/resource/Principality_of_Arbanon,Principality of Arbanon,http://dbpedia.org/resource/Principality_of_Arbanon,80.565

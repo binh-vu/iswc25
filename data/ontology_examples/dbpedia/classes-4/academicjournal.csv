@@ -1,0 +1,116 @@
+id,label,source,score
+http://dbpedia.org/resource/Nature_(journal),Nature (journal),Q180445,2019.2400000000002
+http://dbpedia.org/resource/PLOS_One,PLOS One,Q564954,1289.1850000000002
+http://dbpedia.org/resource/Science_(journal),Science (journal),Q192864,991.0550000000002
+http://dbpedia.org/resource/Journal_of_Biological_Chemistry,Journal of Biological Chemistry,Q867727,967.6550000000002
+http://dbpedia.org/resource/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America,Proceedings of the National Academy of Sciences of the United States of America,Q1146531,775.6150000000002
+http://dbpedia.org/resource/The_Lancet,The Lancet,Q939416,768.79
+http://dbpedia.org/resource/Scientific_Reports,Scientific Reports,Q2261792,700.8200000000002
+http://dbpedia.org/resource/The_New_England_Journal_of_Medicine,The New England Journal of Medicine,Q582728,416.75500000000005
+http://dbpedia.org/resource/Annals_of_the_New_York_Academy_of_Sciences,Annals of the New York Academy of Sciences,Q2431664,275.12000000000006
+http://dbpedia.org/resource/Cancer_(journal),Cancer (journal),Q326041,228.70000000000002
+http://dbpedia.org/resource/Nature_Communications,Nature Communications,Q573880,221.34000000000003
+http://dbpedia.org/resource/Journal_of_Clinical_Microbiology,Journal of Clinical Microbiology,Q4041880,170.28500000000003
+http://dbpedia.org/resource/The_Journal_of_Physical_Chemistry_B,The Journal of Physical Chemistry B,Q668669,169.77000000000004
+http://dbpedia.org/resource/British_Journal_of_Pharmacology,British Journal of Pharmacology,Q919631,159.21500000000003
+http://dbpedia.org/resource/The_Journal_of_Infectious_Diseases,The Journal of Infectious Diseases,Q4051141,158.48000000000002
+http://dbpedia.org/resource/British_Journal_of_Cancer,British Journal of Cancer,Q326309,142.975
+http://dbpedia.org/resource/Neuroscience_(journal),Neuroscience (journal),Q15708571,136.32500000000002
+http://dbpedia.org/resource/Journal_of_the_National_Cancer_Institute,Journal of the National Cancer Institute,Q400279,136.235
+http://dbpedia.org/resource/American_Journal_of_Public_Health,American Journal of Public Health,Q4744266,128.63000000000002
+http://dbpedia.org/resource/Frontiers_in_Psychology,Frontiers in Psychology,Q2794477,116.58000000000003
+http://dbpedia.org/resource/Journal_of_Geophysical_Research,Journal of Geophysical Research,Q2738009,112.03
+http://dbpedia.org/resource/The_Journal_of_Allergy_and_Clinical_Immunology,The Journal of Allergy and Clinical Immunology,Q7743550,105.48000000000002
+http://dbpedia.org/resource/Hypatia_(journal),Hypatia (journal),Q5957267,103.105
+http://dbpedia.org/resource/American_Journal_of_Respiratory_and_Critical_Care_Medicine,American Journal of Respiratory and Critical Care Medicine,Q4744267,101.215
+http://dbpedia.org/resource/Journal_of_Pharmacy_and_Pharmacology,Journal of Pharmacy and Pharmacology,Q10532762,93.24000000000001
+http://dbpedia.org/resource/American_Journal_of_Human_Genetics,American Journal of Human Genetics,Q4744249,87.21000000000001
+http://dbpedia.org/resource/Water_Research,Water Research,Q15708879,84.31500000000001
+http://dbpedia.org/resource/Indian_Journal_of_Medical_Research,Indian Journal of Medical Research,Q6020786,83.58000000000001
+http://dbpedia.org/resource/ELife,ELife,Q2000008,78.86000000000001
+http://dbpedia.org/resource/Journal_of_Anatomy,Journal of Anatomy,Q2108124,75.27000000000001
+http://dbpedia.org/resource/Buddhist-Christian_Studies,Buddhist-Christian Studies,Q4984286,71.82000000000001
+http://dbpedia.org/resource/Classical_Philology_(journal),Classical Philology (journal),Q3290489,69.83999999999999
+http://dbpedia.org/resource/Taxon_(journal),Taxon (journal),Q2003024,69.44000000000001
+http://dbpedia.org/resource/Acta_Paediatrica,Acta Paediatrica,Q4676739,66.9
+http://dbpedia.org/resource/RSC_Advances,RSC Advances,Q15716379,63.78
+http://dbpedia.org/resource/PLOS_Computational_Biology,PLOS Computational Biology,Q2635829,62.095000000000006
+http://dbpedia.org/resource/PLOS_Genetics,PLOS Genetics,Q1893441,61.915
+http://dbpedia.org/resource/Journal_of_Autism_and_Developmental_Disorders,Journal of Autism and Developmental Disorders,Q6294817,58.775000000000006
+http://dbpedia.org/resource/American_Journal_of_Biological_Anthropology,American Journal of Biological Anthropology,Q4744260,57.370000000000005
+http://dbpedia.org/resource/Chemical_Science_(journal),Chemical Science (journal),Q2962267,56.46000000000001
+http://dbpedia.org/resource/Geochimica_et_Cosmochimica_Acta,Geochimica et Cosmochimica Acta,Q5533966,56.425000000000004
+http://dbpedia.org/resource/The_Plant_Journal,The Plant Journal,Q15766987,55.325
+http://dbpedia.org/resource/Biochimie,Biochimie,Q2904035,54.69500000000001
+http://dbpedia.org/resource/Addiction_(journal),Addiction (journal),Q4681106,54.54
+http://dbpedia.org/resource/Physical_Review,Physical Review,Q869847,50.945
+http://dbpedia.org/resource/Evolution_and_Human_Behavior,Evolution and Human Behavior,Q5418623,49.74
+http://dbpedia.org/resource/PLOS_Biology,PLOS Biology,Q1771695,48.075
+http://dbpedia.org/resource/The_Journal_of_Philosophy,The Journal of Philosophy,Q1642306,47.845
+http://dbpedia.org/resource/Animal_Sentience_(journal),Animal Sentience (journal),Q48797281,47.265
+http://dbpedia.org/resource/PLOS_Medicine,PLOS Medicine,Q1686921,46.99000000000001
+http://dbpedia.org/resource/Journal_of_Animal_Ethics,Journal of Animal Ethics,Q57263239,46.275000000000006
+http://dbpedia.org/resource/Evolutionary_Psychology_(journal),Evolutionary Psychology (journal),Q5418682,44.61000000000001
+http://dbpedia.org/resource/Journal_of_the_Experimental_Analysis_of_Behavior,Journal of the Experimental Analysis of Behavior,Q6296143,44.50500000000001
+http://dbpedia.org/resource/Journal_of_Applied_Behavior_Analysis,Journal of Applied Behavior Analysis,Q6294768,43.125
+http://dbpedia.org/resource/Biometrics_(journal),Biometrics (journal),Q2025724,40.80500000000001
+http://dbpedia.org/resource/Pharmacotherapy_(journal),Pharmacotherapy (journal),Q7180800,39.97
+http://dbpedia.org/resource/Journal_of_Voice,Journal of Voice,Q2627096,38.96000000000001
+http://dbpedia.org/resource/The_American_Historical_Review,The American Historical Review,Q389936,38.5
+http://dbpedia.org/resource/Journal_of_Parenteral_and_Enteral_Nutrition,Journal of Parenteral and Enteral Nutrition,Q6295717,38.31500000000001
+http://dbpedia.org/resource/The_Philosophical_Review,The Philosophical Review,Q1817560,35.54
+http://dbpedia.org/resource/Quarterly_Journal_of_Economics,Quarterly Journal of Economics,Q2066504,33.59499999999999
+http://dbpedia.org/resource/Bulletin_of_the_Atomic_Scientists,Bulletin of the Atomic Scientists,Q1004412,33.21
+http://dbpedia.org/resource/Dermatology_Online_Journal,Dermatology Online Journal,Q5262701,33.07
+http://dbpedia.org/resource/Nova_Religio,Nova Religio,Q1953273,32.2
+http://dbpedia.org/resource/Journal_of_Contemporary_Religion,Journal of Contemporary Religion,Q1709839,32.165
+http://dbpedia.org/resource/Archaeologia_Cambrensis,Archaeologia Cambrensis,Q4785374,32.11000000000001
+http://dbpedia.org/resource/Ledger_(journal),Ledger (journal),Q28453405,31.735000000000003
+http://dbpedia.org/resource/Michigan_State_Law_Review,Michigan State Law Review,Q65071837,30.479999999999997
+http://dbpedia.org/resource/American_Anthropologist,American Anthropologist,Q4579783,30.325000000000003
+http://dbpedia.org/resource/IEEE_Access,IEEE Access,Q21015572,29.755000000000003
+http://dbpedia.org/resource/The_Zoist,The Zoist,Q18162853,29.495
+http://dbpedia.org/resource/Journal_of_Political_Economy,Journal of Political Economy,Q783630,29.129999999999995
+http://dbpedia.org/resource/Language_(journal),Language (journal),Q6486629,28.445
+http://dbpedia.org/resource/San_Francisco_Estuary_and_Watershed_Science,San Francisco Estuary and Watershed Science,Q7414002,28.295
+http://dbpedia.org/resource/WALL_Literary_Journal,WALL Literary Journal,Q16859861,27.840000000000003
+http://dbpedia.org/resource/Glossa_(journal),Glossa (journal),Q2384314,27.384999999999998
+http://dbpedia.org/resource/Ibis_(journal),Ibis (journal),Q1666662,26.650000000000002
+http://dbpedia.org/resource/PhiloSOPHIA,PhiloSOPHIA,Q18211276,26.580000000000002
+http://dbpedia.org/resource/Molecular_Autism,Molecular Autism,Q15716718,26.460000000000004
+http://dbpedia.org/resource/Journal_of_Experimental_Social_Psychology,Journal of Experimental Social Psychology,Q6295195,26.335000000000004
+http://dbpedia.org/resource/Journal_of_Biosocial_Science,Journal of Biosocial Science,Q15766294,26.270000000000007
+http://dbpedia.org/resource/Language_Learning_(journal),Language Learning (journal),Q6486656,25.97
+http://dbpedia.org/resource/The_Black_Scholar,The Black Scholar,Q7718432,25.645
+http://dbpedia.org/resource/Technology_and_Culture,Technology and Culture,Q7692591,25.525000000000002
+http://dbpedia.org/resource/TESOL_Quarterly,TESOL Quarterly,Q7670049,25.3
+http://dbpedia.org/resource/The_Modern_Language_Journal,The Modern Language Journal,Q15710053,25.24
+http://dbpedia.org/resource/Communications_Biology,Communications Biology,Q60029756,25.180000000000003
+http://dbpedia.org/resource/Biometrical_Journal,Biometrical Journal,Q15720842,25.17
+http://dbpedia.org/resource/International_Economic_Review,International Economic Review,Q6050243,24.695
+http://dbpedia.org/resource/Econometrica,Econometrica,Q375835,24.675
+http://dbpedia.org/resource/Mind_(journal),Mind (journal),Q1936338,24.49
+http://dbpedia.org/resource/Family_Process,Family Process,Q5433226,24.215
+http://dbpedia.org/resource/Chemical_Senses,Chemical Senses,Q9189414,23.925
+http://dbpedia.org/resource/American_Economic_Review,American Economic Review,Q1740221,23.400000000000002
+http://dbpedia.org/resource/Pacific_Philosophical_Quarterly,Pacific Philosophical Quarterly,Q7122621,23.225
+http://dbpedia.org/resource/Nutrition_in_Clinical_Practice,Nutrition in Clinical Practice,Q7070513,23.135000000000005
+http://dbpedia.org/resource/Forced_Migration_Review,Forced Migration Review,Q5467514,23.045
+http://dbpedia.org/resource/System_(journal),System (journal),Q7663610,22.75
+http://dbpedia.org/resource/British_Journal_for_the_Philosophy_of_Science,British Journal for the Philosophy of Science,Q4970183,22.71
+http://dbpedia.org/resource/Radical_Philosophy,Radical Philosophy,Q7280450,22.71
+http://dbpedia.org/resource/Fire_Safety_Journal,Fire Safety Journal,Q5451431,22.685000000000002
+http://dbpedia.org/resource/Philosophy_and_Phenomenological_Research,Philosophy and Phenomenological Research,Q3381241,22.675
+http://dbpedia.org/resource/Cornell_Law_Review,Cornell Law Review,Q5171540,22.415000000000003
+http://dbpedia.org/resource/International_Affairs_(journal),International Affairs (journal),Q1130893,22.215
+http://dbpedia.org/resource/New_Left_Review,New Left Review,Q206249,22.189999999999998
+http://dbpedia.org/resource/Kennedy_Institute_of_Ethics_Journal,Kennedy Institute of Ethics Journal,Q6389629,22.16
+http://dbpedia.org/resource/Canadian_Literature_(journal),Canadian Literature (journal),Q5030290,21.755
+http://dbpedia.org/resource/Cultural_Anthropology_(journal),Cultural Anthropology (journal),Q15716560,21.67
+http://dbpedia.org/resource/Journal_of_Cheminformatics,Journal of Cheminformatics,Q6294930,21.64
+http://dbpedia.org/resource/Journal_of_Transport_and_Land_Use,Journal of Transport and Land Use,Q6296017,21.625
+http://dbpedia.org/resource/World_Affairs,World Affairs,Q3569946,21.55
+http://dbpedia.org/resource/Industrial_and_Labor_Relations_Review,Industrial and Labor Relations Review,Q6027812,21.46
+http://dbpedia.org/resource/The_Historian_(journal),The Historian (journal),Q6005495,21.46
+http://dbpedia.org/resource/Medieval_Archaeology,Medieval Archaeology,Q15752389,21.384999999999998
+http://dbpedia.org/resource/Living_Reviews_in_Relativity,Living Reviews in Relativity,Q26288,21.380000000000003
