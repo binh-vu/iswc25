@@ -8,4 +8,4 @@
 
 3. Run training for column concept prediction [gpp_scripts/sem_label/contrastive/train](gpp_scripts/sem_label/contrastive/train).
 
-4. Run full pipeline [gpp_scripts/sem_model](gpp_scripts/sem_model).
+4. Run full pipeline see folder [gpp_scripts/sem_model](gpp_scripts/sem_model)
