@@ -1,8 +1,0 @@
-embedding_dim: 1024
-compress_dim: 256
-margin: 0.1
-sim_metric: cosine
-norm_input_embedding: true
-val_dataloader_names:
-- wt250
-- t2dv2
